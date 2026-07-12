@@ -570,6 +570,10 @@ img {
   max-width: 600px;
 }
 
+.contact .section-title {
+  white-space: nowrap;
+}
+
 .contact-text {
   font-size: 18px;
   line-height: 1.7;

@@ -249,6 +249,40 @@
       height: auto;
     }
 
+    /* App Store badge styling */
+    .content-body a[href*="apps.apple.com"] {
+      display: block;
+      text-align: center;
+      margin: 32px 0;
+      text-decoration: none;
+    }
+
+    .content-body a[href*="apps.apple.com"] img {
+      display: inline-block;
+      height: 48px;
+      width: auto;
+      transition: opacity 200ms ease, transform 200ms ease;
+    }
+
+    .content-body a[href*="apps.apple.com"] img:hover {
+      opacity: 0.8;
+      transform: scale(1.03);
+    }
+
+    /* Mobile table overflow */
+    .table-wrapper {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin: 20px 0;
+      border-radius: 8px;
+      border: 1px solid var(--color-border);
+    }
+
+    .table-wrapper table {
+      margin: 0;
+      min-width: 480px;
+    }
+
     /* ─── Footer ─── */
     .footer {
       background: var(--neutral-100);
@@ -365,6 +399,15 @@
   <div class="content-body">
     {{ content }}
   </div>
+
+  <script>
+    document.querySelectorAll('.content-body table').forEach(function(table) {
+      var wrapper = document.createElement('div');
+      wrapper.className = 'table-wrapper';
+      table.parentNode.insertBefore(wrapper, table);
+      wrapper.appendChild(table);
+    });
+  </script>
 
   <!-- Footer -->
   <footer class="footer">

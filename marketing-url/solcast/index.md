@@ -58,4 +58,4 @@ Read our full [Privacy Policy](https://www.bartlettbutter.com/privacy-policies/s
 
 ## Need help?
 
-Visit our [Support Page](https://www.bartlettbutter.com/support-url/solcast/) or email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).
+Visit our [Support Page](https://www.bartlettbutter.com/support-url/solcast/) or email us at [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

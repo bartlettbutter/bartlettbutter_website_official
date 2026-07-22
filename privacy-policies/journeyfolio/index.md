@@ -84,4 +84,4 @@ If we update this policy, the revised version will be posted on this page with a
 
 ## Contact Us
 
-Questions about this privacy policy? Email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).
+Questions about this privacy policy? Email us at [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

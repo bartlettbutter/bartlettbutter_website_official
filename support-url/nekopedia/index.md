@@ -105,6 +105,6 @@ Nekopedia requires iOS 16.0 or later and runs on both iPhone and iPad.
 
 Didn't find what you need? We'd love to hear from you.
 
-**Email:** [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com)
+**Email:** [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)
 
 We aim to respond within 48 hours. To help us resolve your issue quickly, please include a brief description of the problem, your device model and iOS version (found in Settings > General > About), and screenshots if applicable.

@@ -90,6 +90,6 @@ iOS 18.6 or later. Works on both iPhone and iPad.
 
 Didn't find your answer? We'd genuinely like to help.
 
-**Email:** [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com)
+**Email:** [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)
 
 Please include your device model (e.g., iPhone 15) and iOS version (e.g., iOS 18.6) so we can assist you faster. We typically respond within 48 hours.

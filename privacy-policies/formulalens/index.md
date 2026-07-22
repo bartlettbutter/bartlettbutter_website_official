@@ -101,4 +101,4 @@ If we update this policy, the revised version will be posted here with a new eff
 
 ## Contact
 
-Questions about this policy? Email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).
+Questions about this policy? Email us at [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

@@ -91,4 +91,4 @@ If this policy changes, the updated version will be posted here with a new effec
 
 ## Questions
 
-If you have questions about privacy or this policy, email us at [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com).
+If you have questions about privacy or this policy, email us at [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

@@ -113,6 +113,6 @@ Journeyfolio requires iOS 18.0 or later and runs on iPhone.
 
 Can't find what you're looking for? We'd love to hear from you.
 
-**Email:** [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com)
+**Email:** [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)
 
 We aim to respond within 48 hours. When writing, please include your device model and iOS version, a brief description of the issue, and steps to reproduce the problem if applicable.

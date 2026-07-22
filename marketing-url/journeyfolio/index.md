@@ -2,69 +2,74 @@
 layout: default
 title: Journeyfolio
 app_icon: /marketing-url/journeyfolio/icon_Journeyfolio.png
-app_description: "Plan smarter. Travel lighter. All your trips in one place."
+app_description: "Plan smarter. Travel lighter. All your trips, one beautiful hub."
 ---
 
-# Travel planning that actually feels effortless.
+# Every journey deserves a folio.
 
-Stop juggling screenshots, spreadsheets, and scattered notes. Journeyfolio brings your entire trip into one beautiful, offline-ready itinerary, including flights, hotels, restaurants, activities, live weather, and real-time flight status.
+Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Journeyfolio brings your entire trip into one beautifully organized itinerary — flights, hotels, documents, live weather, and real-time flight status — so you can focus on the trip itself.
 
-## Why travelers love Journeyfolio
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
-- **Never miss a beat** with live flight tracking and weather forecasts keeping you one step ahead, no matter where you're headed.
-- **Plan once, access anywhere** because your itinerary lives on your device and works offline. No Wi-Fi at the airport? No problem.
-- **Zero friction to start** with no account, no sign-up. Open the app and start building your trip in seconds.
-- **Pay once, own it forever** as a single purchase with no subscriptions, no ads, and no upsells.
+## Why travelers choose Journeyfolio
 
-## Plan multi-city trips your way
+- **One hub for everything** — Flights, hotels, transport, restaurants, tickets, insurance, and notes organized day by day so nothing slips through the cracks.
+- **Documents at your fingertips** — Snap a photo of your boarding pass, receipt, or confirmation and it's attached right where you need it. Smart OCR auto-fills the details.
+- **Always one step ahead** — Live flight status badges and 5-day weather forecasts keep you informed without switching apps.
+- **Your data stays yours** — No accounts, no analytics, no ads. Everything lives on your device and works offline.
 
-- **Day-by-day itineraries** to organize destinations, activities, notes, and timing for each day
-- **Multiple cities, one trip** where each destination gets its own section with weather, holidays, and a dedicated itinerary
-- **Multi-day activities** so hotel stays, car rentals, and tours span the correct dates automatically
-- **Fully offline** with all data stored on-device so you can access your plans anytime, anywhere
+## What's New
 
-## Stay informed in real time
+Journeyfolio is now **free to download** with optional premium subscriptions for advanced features.
 
-- **Live flight status** with On Time, Delayed, Cancelled, Landed, and In Air badges that update automatically with times in each airport's local timezone
-- **One-tap flight verification** to enter a flight number and date and auto-fill route, airline, and schedule details
-- **5-day weather forecasts** showing current conditions and forecasts for every destination, powered by [Apple Weather](https://weatherkit.apple.com/legal-attribution.html), with instant °C / °F toggle
-- **Public holidays at a glance** highlighting holidays for your destination country so you can plan around closures
+- **Free with flexible plans.** Existing purchasers keep permanent premium access — no action needed.
+- **Attach travel documents** to any activity. Smart OCR reads boarding passes and booking confirmations automatically.
+- **Full iPad support** with adaptive layouts, Split View, and Slide Over multitasking.
+- **Improved reliability, accessibility, and overall stability** across the board.
 
-## Everything in one place
+## Plan any trip, your way
 
-Seven activity categories keep every detail organized:
+### Day-by-Day Itineraries
 
-- **Flights** with number, route, airline, times with timezone, seat, confirmation, and live status
-- **Hotels** with address, phone, check-in/out dates, and notes
-- **Transport** for car rentals, trains, buses, ferries, rideshares, subways, and shuttles
-- **Restaurants** with name, address, phone, and notes
-- **Places & Tickets** for attractions, museums, events, tours, parks, and shopping
-- **Insurance** for policy details and notes
-- **Other** for anything else worth remembering
+Build a complete schedule with seven activity categories: flights, hotels, transport, restaurants, places and tickets, insurance, and more. Multi-city trips? Each destination gets its own section, weather, and local holidays.
 
-## Smart features that save time
+### Live Flight Tracking
 
-- **Location search** to find hotels, restaurants, and attractions near your destination with auto-fill and map preview
-- **Smart destination input** that resolves city names correctly even when misspelled
-- **Pin trips** by swiping to keep important trips at the top of your list
-- **Year grouping** to browse past and upcoming journeys organized by year
+Add a flight number and get real-time status — On Time, Delayed, Cancelled, Landed, or In Air — displayed right inside your itinerary with times shown in each airport's local timezone.
+
+### Accurate Weather Forecasts
+
+View current conditions and a reliable 5-day outlook for every destination. Powered by [Apple Weather](https://weatherkit.apple.com/legal-attribution.html) with OpenWeatherMap as backup, so you always know what to pack.
+
+### Tickets and Documents in One Place
+
+Upload boarding passes, booking confirmations, receipts, and travel documents directly to activities. Snap a photo or import a file — everything stays organized and accessible when you need it most.
+
+### Beautiful, Clutter-Free Design
+
+A minimalist interface that makes planning feel effortless. Trips organized by year, activities intuitively categorized, and every detail accessible when you're on the move.
 
 ## How it works
 
-1. **Create a trip** by adding a name and destination city
-2. **Build your itinerary** by adding flights, hotels, restaurants, and activities day by day
-3. **Stay informed** by checking live weather, verifying flights, and seeing public holidays
-4. **Travel with confidence** knowing you can access everything offline, anytime
+1. **Create a trip** — add a name and one or more destination cities.
+2. **Build your itinerary** — log flights, hotels, restaurants, and activities day by day.
+3. **Attach documents** — snap or import boarding passes, receipts, and confirmations.
+4. **Stay informed** — check live weather, verify flights, and view public holidays.
+5. **Travel with confidence** — access everything offline, anytime, anywhere.
+
+## Free to start. Upgrade when you're ready.
+
+Plan up to 10 trips at no cost. Unlock unlimited trips, live flight tracking, and weather forecasts with Premium — available as monthly, 6-month, or yearly auto-renewable subscriptions.
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
 ## Compatibility
 
-iOS 18.0 or later · iPhone
+iOS 18.0 or later · iPhone and iPad
 
 ## Private by default
 
-All trip data stays on your device. No accounts, no analytics, no ads, no data collection.
+All trip data stays on your device. No accounts, no analytics, no ads, no data collection. Period.
 
 Read our full [Privacy Policy](https://www.bartlettbutter.com/privacy-policies/journeyfolio/).
 

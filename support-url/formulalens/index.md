@@ -123,7 +123,7 @@ iOS 18.0 or later · iPhone and iPad
 
 Can't find your answer? We'd genuinely like to help.
 
-**Email:** [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com)
+**Email:** [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)
 
 We typically respond within 48 hours. To help us assist you quickly, please include:
 

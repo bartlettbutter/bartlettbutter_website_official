@@ -107,7 +107,7 @@ Barkpedia requires iOS 17.0 or later and runs on both iPhone and iPad.
 
 Still need help? We'd love to hear from you.
 
-**Email:** [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com)
+**Email:** [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)
 
 We typically respond within 48 hours. To help us resolve your issue quickly, please include:
 

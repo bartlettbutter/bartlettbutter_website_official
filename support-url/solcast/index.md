@@ -111,6 +111,6 @@ Make sure you're running the latest version from the App Store and restart your 
 
 Can't find your answer? We're happy to help.
 
-**Email:** [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com)
+**Email:** [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)
 
 Please include a brief description of your issue and your device model / iOS version. We typically respond within 48 hours.

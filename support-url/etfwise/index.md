@@ -95,6 +95,6 @@ ETFWise requires iOS 18.0 or later and runs on both iPhone and iPad.
 
 Didn't find your answer? We'd love to help.
 
-**Email:** [bartlettbutter@gmail.com](mailto:bartlettbutter@gmail.com)
+**Email:** [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)
 
 We aim to respond within 48 hours. Please include your device model and iOS version so we can assist you faster.

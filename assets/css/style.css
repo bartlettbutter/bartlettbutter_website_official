@@ -712,13 +712,18 @@ img {
   font-size: 14px;
   line-height: 1.7;
   opacity: 0.5;
-  margin-bottom: var(--space-4);
+}
+
+.footer-contact {
+  text-align: right;
 }
 
 .footer-apps {
   display: flex;
   gap: var(--space-2);
   flex-wrap: wrap;
+  justify-content: flex-end;
+  margin-bottom: var(--space-5);
 }
 
 .footer-app-icon {
@@ -741,10 +746,6 @@ img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-}
-
-.footer-contact {
-  text-align: right;
 }
 
 .footer-contact-label {
@@ -912,6 +913,10 @@ img {
 
   .footer-contact {
     text-align: left;
+  }
+
+  .footer-apps {
+    justify-content: flex-start;
   }
 
   .footer-bottom {

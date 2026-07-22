@@ -71,12 +71,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const nav = document.querySelector('.nav');
 
   window.addEventListener('scroll', () => {
-    const currentScroll = window.pageYOffset;
-    
-    if (currentScroll > 50) {
-      nav.style.boxShadow = '0 1px 8px rgba(0, 0, 0, 0.04)';
+    if (window.pageYOffset > 50) {
+      nav.classList.add('is-scrolled');
     } else {
-      nav.style.boxShadow = 'none';
+      nav.classList.remove('is-scrolled');
     }
   }, { passive: true });
 

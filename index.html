@@ -19,11 +19,16 @@
       <img src="assets/images/logo_header.png" alt="Bartlett Butter">
       <span class="brand-text"><strong>BARTLETT</strong> BUTTER</span>
     </a>
-    <div class="nav-links">
+    <div class="nav-links" id="navLinks">
       <a href="#works" class="nav-link">Work</a>
       <a href="#about" class="nav-link">About</a>
       <a href="#contact" class="nav-link nav-link--cta">Get in Touch</a>
     </div>
+    <button class="nav-hamburger" id="navHamburger" aria-label="Toggle menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
   </nav>
 
   <!-- Hero Section -->
@@ -36,12 +41,15 @@
       </div>
       <h1 class="hero-title">Crisp design. Smooth experience. Apps worth your home screen.</h1>
       <p class="hero-subtitle">The Bartlett pear is loved for its crisp bite, fresh and precise with every taste. Butter is what makes everything glide, warm and effortless. Together, they capture what we aim for in every app: interfaces that feel sharp and interactions that flow without friction.</p>
-      <a href="#works" class="hero-cta">
-        View Our Work
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
-        </svg>
-      </a>
+      <div class="hero-ctas">
+        <a href="#works" class="hero-cta">
+          View Our Work
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+          </svg>
+        </a>
+        <a href="#about" class="hero-cta hero-cta--secondary">Learn More</a>
+      </div>
     </div>
   </section>
 
@@ -255,6 +263,15 @@
             <span class="brand-text"><strong>BARTLETT</strong> BUTTER</span>
           </div>
           <p class="footer-desc">Bartlett for crisp. Butter for smooth. An independent studio crafting privacy-first apps for mobile and web.</p>
+          <div class="footer-apps">
+            <a href="/marketing-url/barkpedia/" class="footer-app-icon"><img src="assets/app-icons/icon_Barkpedia.png" alt="Barkpedia"></a>
+            <a href="/marketing-url/etfwise/" class="footer-app-icon"><img src="assets/app-icons/icon_ETFWise.png" alt="ETFWise"></a>
+            <a href="/marketing-url/formulalens/" class="footer-app-icon"><img src="assets/app-icons/icon_FormulaLens.png" alt="FormulaLens"></a>
+            <a href="/marketing-url/huepick/" class="footer-app-icon"><img src="assets/app-icons/icon_Huepick.png" alt="Huepick"></a>
+            <a href="/marketing-url/journeyfolio/" class="footer-app-icon"><img src="assets/app-icons/icon_Journeyfolio.png" alt="Journeyfolio"></a>
+            <a href="/marketing-url/nekopedia/" class="footer-app-icon"><img src="assets/app-icons/icon_Nekopedia.png" alt="Nekopedia"></a>
+            <a href="/marketing-url/solcast/" class="footer-app-icon"><img src="assets/app-icons/icon_Solcast.png" alt="Solcast"></a>
+          </div>
         </div>
         <div class="footer-contact">
           <p class="footer-contact-label">Get in touch</p>

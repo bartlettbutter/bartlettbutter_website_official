@@ -1,0 +1,9 @@
+# Jekyll configuration for bartlettbutter.com
+title: "Bartlett Butter"
+description: "Crisp & Smooth Apps for Mobile and Web"
+url: "https://www.bartlettbutter.com"
+baseurl: ""
+
+# Exclude the main index.html from Jekyll processing (it's already a complete HTML file)
+include:
+  - "index.html"

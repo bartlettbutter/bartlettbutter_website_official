@@ -49,6 +49,24 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+  // --- Mobile hamburger menu ---
+  const hamburger = document.getElementById('navHamburger');
+  const navLinks = document.getElementById('navLinks');
+
+  if (hamburger && navLinks) {
+    hamburger.addEventListener('click', () => {
+      hamburger.classList.toggle('is-open');
+      navLinks.classList.toggle('is-open');
+    });
+
+    navLinks.querySelectorAll('.nav-link').forEach(link => {
+      link.addEventListener('click', () => {
+        hamburger.classList.remove('is-open');
+        navLinks.classList.remove('is-open');
+      });
+    });
+  }
+
   // --- Navbar shadow on scroll ---
   const nav = document.querySelector('.nav');
 

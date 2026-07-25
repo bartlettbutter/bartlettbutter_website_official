@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nekopedia
-app_icon: /marketing-url/nekopedia/icon_Nekopedia.png
+app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Identify any cat breed instantly. Free, offline, and private."
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Solcast
-app_icon: /privacy-policies/solcast/icon_Solcast.png
+app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Privacy Policy"
 ---
 

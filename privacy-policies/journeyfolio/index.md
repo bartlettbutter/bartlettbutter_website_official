@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Journeyfolio
-app_icon: /privacy-policies/journeyfolio/icon_Journeyfolio.png
+app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Privacy Policy"
 ---
 
@@ -10,8 +10,6 @@ app_description: "Privacy Policy"
 **Effective Date:** July 22, 2026
 
 Journeyfolio ("the app") is developed by Bartlett Butter. This policy explains how the app handles your information. The short answer: we don't collect any.
-
----
 
 ## At a Glance
 
@@ -24,8 +22,6 @@ Journeyfolio ("the app") is developed by Bartlett Butter. This policy explains h
 | Is my data sold or shared? | No |
 | Does the app access my GPS location? | No |
 | Is the app safe for children? | Yes |
-
----
 
 ## What Data We Collect
 

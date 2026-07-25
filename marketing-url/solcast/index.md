@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Solcast
-app_icon: /marketing-url/solcast/icon_Solcast.png
+app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Real-time weather with personalized lifestyle guidance, tailored to your day."
 ---
 

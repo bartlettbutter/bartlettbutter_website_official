@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FormulaLens
-app_icon: /privacy-policies/formulalens/icon_FormulaLens.png
+app_icon: /assets/app-icons/icon_FormulaLens.png
 app_description: "Privacy Policy"
 ---
 

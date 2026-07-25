@@ -1,15 +1,13 @@
 ---
 layout: default
 title: Solcast
-app_icon: /support-url/solcast/icon_Solcast.png
+app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Support"
 ---
 
 # How can we help?
 
 We want you to get the most out of Solcast. If something isn't working as expected or you have a question, you'll likely find the answer below. If not, reach out and we'll help.
-
----
 
 ## Getting Started
 
@@ -30,8 +28,6 @@ Every change takes effect immediately — no reload needed.
 ### How do I manage locations?
 
 You can save up to 10 locations. Use the location picker on the dashboard to switch between them, or tap the search icon to add a new city. Each location displays weather in its own local timezone so times (sunrise, sunset, hourly forecast) are always relevant to that city.
-
----
 
 ## Frequently Asked Questions
 
@@ -63,8 +59,6 @@ A glanceable card at the top of your dashboard with up to 6 plain-language actio
 
 Solcast combines data from Apple Weather and Open-Meteo to deliver reliable, accurate forecasts. Air quality and pollen data come from a dedicated environmental API. All values shown are real measurements — nothing is estimated or fabricated.
 
----
-
 ## Permissions
 
 ### Why does Solcast need my location?
@@ -74,8 +68,6 @@ Location (When In Use) is used to fetch accurate weather, air quality, and polle
 ### Does Solcast access my camera, contacts, or anything else?
 
 No. Solcast only requests location permission. It does not access your camera, photos, contacts, microphone, health data, or any other information.
-
----
 
 ## Troubleshooting
 
@@ -104,8 +96,6 @@ This is by design. Each saved location shows weather times (sunrise, sunset, hou
 ### The app is crashing
 
 Make sure you're running the latest version from the App Store and restart your device. If crashes persist, please email us with your device model and iOS version so we can investigate.
-
----
 
 ## Contact Us
 

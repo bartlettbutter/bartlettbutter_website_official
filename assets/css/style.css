@@ -67,6 +67,56 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Offset anchor targets so section tops clear the fixed nav for all
+   fragment entry paths (direct hash URLs, back/forward, keyboard), not
+   just JS-handled clicks. */
+:target {
+  scroll-margin-top: 96px;
+}
+
+.section,
+#main,
+#works,
+#about,
+#contact,
+#top {
+  scroll-margin-top: 96px;
+}
+
+/* Scroll targets that receive programmatic focus (skip link, anchor links)
+   are layout containers, not controls — only show a focus ring for keyboard
+   users, and never a lingering one for mouse/smooth-scroll navigation. */
+.hero:focus,
+.section:focus {
+  outline: none;
+}
+
+.hero:focus-visible,
+.section:focus-visible {
+  outline: 2px solid var(--neutral-60);
+  outline-offset: -4px;
+}
+
+/* Skip link — visible only on keyboard focus */
+.skip-link {
+  position: absolute;
+  left: var(--space-4);
+  top: -60px;
+  z-index: 200;
+  background: var(--neutral-90);
+  color: var(--neutral-0);
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  transition: top var(--duration-fast) var(--ease);
+}
+
+.skip-link:focus {
+  top: var(--space-4);
+  color: var(--neutral-0);
+}
+
 body {
   font-family: var(--font);
   font-size: 18px;
@@ -836,13 +886,16 @@ img {
 }
 
 /* ─── Scroll Animations ─── */
-.fade-in {
+/* Content is visible by default. The hidden/animated state is applied only
+   once JS has confirmed IntersectionObserver support and added `.js-anim`
+   to the root, so a blocked or failed script never leaves content invisible. */
+.js-anim .fade-in {
   opacity: 0;
   transform: translateY(20px);
   transition: opacity var(--duration-slow) var(--ease), transform var(--duration-slow) var(--ease);
 }
 
-.fade-in.is-visible {
+.js-anim .fade-in.is-visible {
   opacity: 1;
   transform: translateY(0);
 }
@@ -1015,7 +1068,7 @@ button:focus-visible {
     transition-duration: 0.01ms !important;
   }
 
-  .fade-in {
+  .js-anim .fade-in {
     opacity: 1;
     transform: none;
   }

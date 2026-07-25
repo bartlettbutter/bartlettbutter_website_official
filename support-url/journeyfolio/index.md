@@ -1,15 +1,13 @@
 ---
 layout: default
 title: Journeyfolio
-app_icon: /support-url/journeyfolio/icon_Journeyfolio.png
+app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Support"
 ---
 
 # We're here to help.
 
 Whether you're setting up your first trip or troubleshooting a feature, you'll find answers below. If not, reach out — we're happy to assist.
-
----
 
 ## Getting Started
 
@@ -36,8 +34,6 @@ Uninstalling Journeyfolio permanently removes all stored trip data. Because ther
 ### Does Journeyfolio work on iPad?
 
 Yes. The app is fully optimized for iPad with adaptive layouts and multitasking support, including Split View and Slide Over.
-
----
 
 ## Using Journeyfolio
 
@@ -91,8 +87,6 @@ Your trip data is always accessible offline. An internet connection is only need
 
 Swipe right on a trip to pin it to the top of your list. Swipe left to delete. A confirmation prompt appears before any deletion.
 
----
-
 ## Subscription Management
 
 ### How do I upgrade to Premium?
@@ -106,8 +100,6 @@ Go to **Settings → Apple ID → Subscriptions** on your device. You can switch
 ### Will I lose my trips if I cancel?
 
 No. Your trip data is stored locally and is completely independent of your subscription. Canceling Premium only limits access to flight tracking and weather features.
-
----
 
 ## Troubleshooting
 
@@ -152,13 +144,9 @@ Trip data is preserved across app updates. Try restarting the app or your device
 2. Restart the app and your device.
 3. If the issue persists, email us with details (see below).
 
----
-
 ## Compatibility
 
 iOS 18.0 or later · iPhone and iPad
-
----
 
 ## Contact Us
 

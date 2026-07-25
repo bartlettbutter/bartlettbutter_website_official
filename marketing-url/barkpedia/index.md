@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Barkpedia
-app_icon: /marketing-url/barkpedia/icon_Barkpedia.png
+app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Identify any dog breed instantly. Free, offline, and private."
 ---
 

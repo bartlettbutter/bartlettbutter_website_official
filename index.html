@@ -5,18 +5,37 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Bartlett Butter | Crisp & Smooth Apps for Mobile and Web</title>
   <meta name="description" content="Bartlett Butter is an independent app studio crafting crisp, smooth, privacy-first apps for mobile and web.">
+  <link rel="canonical" href="https://www.bartlettbutter.com/">
+  <meta name="theme-color" content="#030712">
+
+  <!-- Open Graph / social preview -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Bartlett Butter">
+  <meta property="og:title" content="Bartlett Butter | Crisp & Smooth Apps for Mobile and Web">
+  <meta property="og:description" content="An independent app studio crafting crisp, smooth, privacy-first apps for mobile and web.">
+  <meta property="og:url" content="https://www.bartlettbutter.com/">
+  <meta property="og:image" content="https://www.bartlettbutter.com/assets/images/logo_footer.png">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Bartlett Butter | Crisp & Smooth Apps for Mobile and Web">
+  <meta name="twitter:description" content="An independent app studio crafting crisp, smooth, privacy-first apps for mobile and web.">
+  <meta name="twitter:image" content="https://www.bartlettbutter.com/assets/images/logo_footer.png">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="icon" type="image/png" href="assets/images/logo_header.png">
+  <!-- Preload the LCP hero wordmark so first paint doesn't wait on CSS/layout -->
+  <link rel="preload" as="image" href="assets/images/logo_text_effect.png" fetchpriority="high">
 </head>
-<body>
+<body id="top">
+
+  <a href="#main" class="skip-link">Skip to content</a>
 
   <!-- Navigation -->
   <nav class="nav">
-    <a href="#" class="nav-logo">
-      <img src="assets/images/logo_header.png" alt="Bartlett Butter">
+    <a href="#top" class="nav-logo">
+      <img src="assets/images/logo_header.png" alt="Bartlett Butter" width="44" height="44">
       <span class="brand-text"><strong>BARTLETT</strong> BUTTER</span>
     </a>
     <div class="nav-links" id="navLinks">
@@ -24,7 +43,7 @@
       <a href="#about" class="nav-link">About</a>
       <a href="#contact" class="nav-link nav-link--cta">Get in Touch</a>
     </div>
-    <button class="nav-hamburger" id="navHamburger" aria-label="Toggle menu">
+    <button class="nav-hamburger" id="navHamburger" aria-label="Toggle menu" aria-expanded="false" aria-controls="navLinks">
       <span></span>
       <span></span>
       <span></span>
@@ -32,12 +51,12 @@
   </nav>
 
   <!-- Hero Section -->
-  <section class="hero">
+  <section class="hero" id="main" tabindex="-1">
     <div class="hero-content">
       <span class="hero-label">Independent iOS, Android & Web Software Studio</span>
       <div class="hero-logo">
         <div class="hero-logo-glow"></div>
-        <img src="assets/images/logo_text_effect.png" alt="Bartlett Butter">
+        <img src="assets/images/logo_text_effect.png" alt="Bartlett Butter" width="220" height="220" fetchpriority="high">
       </div>
       <h1 class="hero-title">Crisp design. Smooth experience. Apps worth your home screen.</h1>
       <p class="hero-subtitle">The Bartlett pear is loved for its crisp bite, fresh and precise with every taste. Butter is what makes everything glide, warm and effortless. Together, they capture what we aim for in every app: interfaces that feel sharp and interactions that flow without friction.</p>
@@ -60,9 +79,9 @@
       <h2 class="section-title fade-in">Apps we've crafted</h2>
       <div class="works-grid">
 
-        <a href="/marketing-url/barkpedia/" class="work-card fade-in" target="_blank" rel="noopener">
+        <a href="/marketing-url/barkpedia/" class="work-card fade-in">
           <div class="work-card-icon">
-            <img src="assets/app-icons/icon_Barkpedia.png" alt="Barkpedia">
+            <img src="assets/app-icons/icon_Barkpedia.png" alt="Barkpedia" width="88" height="88" loading="lazy">
           </div>
           <div class="work-card-body">
             <h3 class="work-card-title">Barkpedia</h3>
@@ -75,9 +94,9 @@
           </div>
         </a>
 
-        <a href="/marketing-url/etfwise/" class="work-card fade-in" target="_blank" rel="noopener">
+        <a href="/marketing-url/etfwise/" class="work-card fade-in">
           <div class="work-card-icon">
-            <img src="assets/app-icons/icon_ETFWise.png" alt="ETFWise">
+            <img src="assets/app-icons/icon_ETFWise.png" alt="ETFWise" width="88" height="88" loading="lazy">
           </div>
           <div class="work-card-body">
             <h3 class="work-card-title">ETFWise</h3>
@@ -89,9 +108,9 @@
           </div>
         </a>
 
-        <a href="/marketing-url/formulalens/" class="work-card fade-in" target="_blank" rel="noopener">
+        <a href="/marketing-url/formulalens/" class="work-card fade-in">
           <div class="work-card-icon">
-            <img src="assets/app-icons/icon_FormulaLens.png" alt="FormulaLens">
+            <img src="assets/app-icons/icon_FormulaLens.png" alt="FormulaLens" width="88" height="88" loading="lazy">
           </div>
           <div class="work-card-body">
             <h3 class="work-card-title">FormulaLens</h3>
@@ -104,9 +123,9 @@
           </div>
         </a>
 
-        <a href="/marketing-url/huepick/" class="work-card fade-in" target="_blank" rel="noopener">
+        <a href="/marketing-url/huepick/" class="work-card fade-in">
           <div class="work-card-icon">
-            <img src="assets/app-icons/icon_Huepick.png" alt="Huepick">
+            <img src="assets/app-icons/icon_Huepick.png" alt="Huepick" width="88" height="88" loading="lazy">
           </div>
           <div class="work-card-body">
             <h3 class="work-card-title">Huepick</h3>
@@ -118,9 +137,9 @@
           </div>
         </a>
 
-        <a href="/marketing-url/journeyfolio/" class="work-card fade-in" target="_blank" rel="noopener">
+        <a href="/marketing-url/journeyfolio/" class="work-card fade-in">
           <div class="work-card-icon">
-            <img src="assets/app-icons/icon_Journeyfolio.png" alt="Journeyfolio">
+            <img src="assets/app-icons/icon_Journeyfolio.png" alt="Journeyfolio" width="88" height="88" loading="lazy">
           </div>
           <div class="work-card-body">
             <h3 class="work-card-title">Journeyfolio</h3>
@@ -133,9 +152,9 @@
           </div>
         </a>
 
-        <a href="/marketing-url/nekopedia/" class="work-card fade-in" target="_blank" rel="noopener">
+        <a href="/marketing-url/nekopedia/" class="work-card fade-in">
           <div class="work-card-icon">
-            <img src="assets/app-icons/icon_Nekopedia.png" alt="Nekopedia">
+            <img src="assets/app-icons/icon_Nekopedia.png" alt="Nekopedia" width="88" height="88" loading="lazy">
           </div>
           <div class="work-card-body">
             <h3 class="work-card-title">Nekopedia</h3>
@@ -148,9 +167,9 @@
           </div>
         </a>
 
-        <a href="/marketing-url/solcast/" class="work-card fade-in" target="_blank" rel="noopener">
+        <a href="/marketing-url/solcast/" class="work-card fade-in">
           <div class="work-card-icon">
-            <img src="assets/app-icons/icon_Solcast.png" alt="Solcast">
+            <img src="assets/app-icons/icon_Solcast.png" alt="Solcast" width="88" height="88" loading="lazy">
           </div>
           <div class="work-card-body">
             <h3 class="work-card-title">Solcast</h3>
@@ -268,13 +287,13 @@
         <div class="footer-contact">
           <p class="footer-contact-label">Our Apps</p>
           <div class="footer-apps">
-            <a href="/marketing-url/barkpedia/" class="footer-app-icon"><img src="assets/app-icons/icon_Barkpedia.png" alt="Barkpedia"></a>
-            <a href="/marketing-url/etfwise/" class="footer-app-icon"><img src="assets/app-icons/icon_ETFWise.png" alt="ETFWise"></a>
-            <a href="/marketing-url/formulalens/" class="footer-app-icon"><img src="assets/app-icons/icon_FormulaLens.png" alt="FormulaLens"></a>
-            <a href="/marketing-url/huepick/" class="footer-app-icon"><img src="assets/app-icons/icon_Huepick.png" alt="Huepick"></a>
-            <a href="/marketing-url/journeyfolio/" class="footer-app-icon"><img src="assets/app-icons/icon_Journeyfolio.png" alt="Journeyfolio"></a>
-            <a href="/marketing-url/nekopedia/" class="footer-app-icon"><img src="assets/app-icons/icon_Nekopedia.png" alt="Nekopedia"></a>
-            <a href="/marketing-url/solcast/" class="footer-app-icon"><img src="assets/app-icons/icon_Solcast.png" alt="Solcast"></a>
+            <a href="/marketing-url/barkpedia/" class="footer-app-icon"><img src="assets/app-icons/icon_Barkpedia.png" alt="Barkpedia" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/etfwise/" class="footer-app-icon"><img src="assets/app-icons/icon_ETFWise.png" alt="ETFWise" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/formulalens/" class="footer-app-icon"><img src="assets/app-icons/icon_FormulaLens.png" alt="FormulaLens" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/huepick/" class="footer-app-icon"><img src="assets/app-icons/icon_Huepick.png" alt="Huepick" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/journeyfolio/" class="footer-app-icon"><img src="assets/app-icons/icon_Journeyfolio.png" alt="Journeyfolio" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/nekopedia/" class="footer-app-icon"><img src="assets/app-icons/icon_Nekopedia.png" alt="Nekopedia" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/solcast/" class="footer-app-icon"><img src="assets/app-icons/icon_Solcast.png" alt="Solcast" width="36" height="36" loading="lazy"></a>
           </div>
           <a href="mailto:contact@bartlettbutter.com" class="footer-contact-email">contact@bartlettbutter.com</a>
         </div>

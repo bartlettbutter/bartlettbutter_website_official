@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Barkpedia
-app_icon: /privacy-policies/barkpedia/icon_Barkpedia.png
+app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Privacy Policy"
 ---
 

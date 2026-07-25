@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ETFWise
-app_icon: /marketing-url/etfwise/icon_ETFWise.png
+app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Daily ETF recommendations powered by live data, news sentiment, and on-device AI."
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ETFWise
-app_icon: /privacy-policies/etfwise/icon_ETFWise.png
+app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Privacy Policy"
 ---
 

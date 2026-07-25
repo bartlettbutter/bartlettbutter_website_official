@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nekopedia
-app_icon: /support-url/nekopedia/icon_Nekopedia.png
+app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Support"
 ---
 

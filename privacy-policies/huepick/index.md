@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Huepick
-app_icon: /privacy-policies/huepick/icon_Huepick.png
+app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Privacy Policy"
 ---
 

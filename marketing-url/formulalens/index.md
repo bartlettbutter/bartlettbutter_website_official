@@ -3,6 +3,7 @@ layout: default
 title: FormulaLens
 app_icon: /assets/app-icons/icon_FormulaLens.png
 app_description: "Scan any ingredient list. Know exactly what's in your skincare."
+app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 ---
 
 # Know what's really in your skincare.
@@ -37,7 +38,7 @@ You shouldn't need a chemistry degree to understand your products. Snap a photo 
 
 No subscriptions. No in-app purchases. No ads. No account required. Just open the app and start scanning.
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
 ## Compatibility
 

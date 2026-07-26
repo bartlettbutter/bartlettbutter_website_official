@@ -69,27 +69,54 @@ document.addEventListener('DOMContentLoaded', () => {
   const navLinks = document.getElementById('navLinks');
 
   if (hamburger && navLinks) {
+    const menuLinks = Array.from(navLinks.querySelectorAll('.nav-link'));
+
     const setMenu = (open) => {
       hamburger.classList.toggle('is-open', open);
       navLinks.classList.toggle('is-open', open);
       hamburger.setAttribute('aria-expanded', String(open));
       // Lock body scroll while the mobile menu is open
       document.body.style.overflow = open ? 'hidden' : '';
+
+      // Move focus into the menu when opening so keyboard and screen-reader
+      // users land on the first link instead of being stranded behind the
+      // toggle. On close, focus returns to the hamburger (handled by callers).
+      if (open && menuLinks.length) {
+        menuLinks[0].focus();
+      }
     };
 
     const isOpen = () => hamburger.classList.contains('is-open');
 
     hamburger.addEventListener('click', () => setMenu(!isOpen()));
 
-    navLinks.querySelectorAll('.nav-link').forEach(link => {
+    menuLinks.forEach(link => {
       link.addEventListener('click', () => setMenu(false));
     });
 
-    // Close on Escape
     document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && isOpen()) {
+      if (!isOpen()) return;
+
+      // Close on Escape and return focus to the toggle.
+      if (e.key === 'Escape') {
         setMenu(false);
         hamburger.focus();
+        return;
+      }
+
+      // Trap Tab within the open menu (hamburger + links) so focus doesn't
+      // drift to page content hidden behind the overlay.
+      if (e.key === 'Tab') {
+        const focusables = [hamburger].concat(menuLinks);
+        const first = focusables[0];
+        const last = focusables[focusables.length - 1];
+        if (e.shiftKey && document.activeElement === first) {
+          e.preventDefault();
+          last.focus();
+        } else if (!e.shiftKey && document.activeElement === last) {
+          e.preventDefault();
+          first.focus();
+        }
       }
     });
 
@@ -101,6 +128,14 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // --- Footer copyright year ---
+  // Set from JS (in an external file) rather than an inline document.write(),
+  // so the markup carries no inline execution path. The template ships a
+  // sensible fallback year in case JS is unavailable.
+  document.querySelectorAll('[data-current-year]').forEach(el => {
+    el.textContent = String(new Date().getFullYear());
+  });
+
   // --- Navbar shadow on scroll ---
   const nav = document.querySelector('.nav');
 
@@ -108,6 +143,54 @@ document.addEventListener('DOMContentLoaded', () => {
     window.addEventListener('scroll', () => {
       nav.classList.toggle('is-scrolled', window.pageYOffset > 50);
     }, { passive: true });
+  }
+
+  // --- Scrollspy: highlight the nav link for the section in view ---
+  // Maps each in-page nav link to its target section, then keeps the most
+  // prominent visible section marked active so users keep their orientation.
+  const spyLinks = Array.from(document.querySelectorAll('.nav-link[href^="#"]'));
+  const spyTargets = spyLinks
+    .map(link => {
+      const id = link.getAttribute('href').slice(1);
+      const section = id ? document.getElementById(id) : null;
+      return section ? { link, section } : null;
+    })
+    .filter(Boolean);
+
+  if (spyTargets.length && 'IntersectionObserver' in window) {
+    const visible = new Set();
+
+    const setActive = () => {
+      // Prefer the topmost section currently intersecting the viewport.
+      let current = null;
+      spyTargets.forEach(({ section }) => {
+        if (!visible.has(section)) return;
+        if (!current || section.offsetTop < current.offsetTop) {
+          current = section;
+        }
+      });
+      spyTargets.forEach(({ link, section }) => {
+        link.classList.toggle('is-active', section === current);
+      });
+    };
+
+    const spyObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          visible.add(entry.target);
+        } else {
+          visible.delete(entry.target);
+        }
+      });
+      setActive();
+    }, {
+      // Bias the active zone to the upper portion of the viewport, just below
+      // the fixed nav, so the highlight tracks what the user is reading.
+      rootMargin: '-45% 0px -45% 0px',
+      threshold: 0
+    });
+
+    spyTargets.forEach(({ section }) => spyObserver.observe(section));
   }
 
 });

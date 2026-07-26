@@ -3,6 +3,7 @@ layout: default
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Plan smarter. Travel lighter. All your trips, one beautiful hub."
+app_store_url: "https://apps.apple.com/us/app/journeyfolio/id6762172188"
 ---
 
 # Every journey deserves a folio.
@@ -59,7 +60,7 @@ A minimalist interface that makes planning feel effortless. Trips organized by y
 
 Plan up to 10 trips at no cost. Unlock unlimited trips, live flight tracking, and weather forecasts with Premium — available as monthly, 6-month, or yearly auto-renewable subscriptions.
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
 ## Compatibility
 

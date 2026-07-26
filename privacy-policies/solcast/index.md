@@ -5,8 +5,6 @@ app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Privacy Policy"
 ---
 
-# Privacy Policy
-
 **Effective Date:** July 8, 2026
 
 Solcast ("the App") is a free weather and lifestyle guidance app for iPhone and iPad. Privacy is central to how we built it. This policy explains exactly what data is involved when you use Solcast — and, more importantly, what isn't.

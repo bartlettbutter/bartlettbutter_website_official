@@ -3,6 +3,7 @@ layout: default
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Identify any dog breed instantly. Free, offline, and private."
+app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 ---
 
 # Every dog has a story. Discover it instantly.
@@ -44,7 +45,7 @@ Put your breed knowledge to the test with two game modes:
 3. **See your result** — breed name, confidence score, and full profile
 4. **Keep exploring** — search breeds, browse the map, or play Quiz and Trivia
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
 ## Compatibility
 

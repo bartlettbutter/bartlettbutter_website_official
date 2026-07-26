@@ -86,6 +86,7 @@ html {
 /* Scroll targets that receive programmatic focus (skip link, anchor links)
    are layout containers, not controls — only show a focus ring for keyboard
    users, and never a lingering one for mouse/smooth-scroll navigation. */
+#main:focus,
 .hero:focus,
 .section:focus {
   outline: none;
@@ -210,6 +211,25 @@ img {
 
 .nav-link:hover {
   color: var(--color-text-strong);
+}
+
+/* Current-section feedback so users keep their bearings while scrolling. */
+.nav-link.is-active {
+  color: var(--color-text-strong);
+}
+
+.nav-link.is-active::after {
+  content: "";
+  display: block;
+  height: 2px;
+  margin-top: 2px;
+  border-radius: 2px;
+  background: var(--color-text-strong);
+}
+
+/* The CTA link uses a filled pill, so the underline indicator would clash. */
+.nav-link--cta.is-active::after {
+  display: none;
 }
 
 .nav-link--cta {
@@ -557,6 +577,33 @@ img {
   border-radius: 6px;
 }
 
+/* Explicit click affordance so discoverability doesn't rely on intuition. */
+.work-card-cue {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: var(--space-3);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  color: var(--neutral-60);
+  transition: color var(--duration-fast) ease, gap var(--duration-fast) ease;
+}
+
+.work-card-cue svg {
+  width: 14px;
+  height: 14px;
+  transition: transform var(--duration-fast) ease;
+}
+
+.work-card:hover .work-card-cue {
+  color: var(--color-text-strong);
+}
+
+.work-card:hover .work-card-cue svg {
+  transform: translateX(3px);
+}
+
 /* ─── About Section ─── */
 .about {
   background: var(--color-bg);
@@ -796,7 +843,7 @@ img {
 .footer-desc {
   font-size: 14px;
   line-height: 1.7;
-  opacity: 0.5;
+  opacity: 0.65;
 }
 
 .footer-contact {
@@ -838,7 +885,7 @@ img {
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  opacity: 0.4;
+  opacity: 0.6;
   margin-bottom: var(--space-3);
 }
 
@@ -867,7 +914,7 @@ img {
 
 .footer-copy {
   font-size: 13px;
-  opacity: 0.35;
+  opacity: 0.55;
 }
 
 .footer-links {
@@ -877,7 +924,7 @@ img {
 
 .footer-link {
   font-size: 13px;
-  opacity: 0.5;
+  opacity: 0.7;
   transition: opacity var(--duration-fast) ease;
 }
 

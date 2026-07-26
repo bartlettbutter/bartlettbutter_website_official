@@ -5,8 +5,6 @@ app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Privacy Policy"
 ---
 
-# Privacy Policy
-
 **Effective Date:** July 22, 2026
 
 Journeyfolio ("the app") is developed by Bartlett Butter. This policy explains how the app handles your information. The short answer: we don't collect any.

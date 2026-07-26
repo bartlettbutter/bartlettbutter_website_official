@@ -5,8 +5,6 @@ app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Privacy Policy"
 ---
 
-# Privacy Policy
-
 **Effective Date:** April 11, 2026
 
 Barkpedia ("the App") is a free iOS application that identifies dog breeds from photos. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.

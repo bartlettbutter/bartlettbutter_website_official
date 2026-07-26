@@ -3,6 +3,7 @@ layout: default
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Extract palettes from photos and transform images with creative tools — free, private, no account needed."
+app_store_url: "https://apps.apple.com/app/huepick"
 ---
 
 # See colors differently.
@@ -41,7 +42,7 @@ Snap a photo of anything that inspires you. Huepick instantly reveals the hidden
 
 Designers picking brand palettes. Photographers exploring mood boards. DIY decorators matching paint swatches. Makeup artists testing tone combinations. Developers building accessible interfaces. Anyone who's ever thought "I love that color — what is it?"
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
 
 ## Compatibility
 

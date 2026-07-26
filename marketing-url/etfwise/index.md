@@ -3,6 +3,7 @@ layout: default
 title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Daily ETF recommendations powered by live data, news sentiment, and on-device AI."
+app_store_url: "https://apps.apple.com/us/app/etfwise/id6762496354"
 ---
 
 # Your daily edge in ETF investing.
@@ -35,7 +36,7 @@ Tap any ETF for comprehensive insight:
 3. **Browse today's picks** across seven categories
 4. **Tap any ETF** for deep analysis, sentiment, and AI-powered insights
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
 
 ## Compatibility
 

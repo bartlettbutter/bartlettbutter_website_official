@@ -5,8 +5,6 @@ app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Privacy Policy"
 ---
 
-# Privacy Policy
-
 **Effective Date:** July 8, 2026
 
 Huepick is a free iOS app for extracting colors from photos, building palettes, and transforming images with creative tools. This policy explains how we handle your information — in plain English.

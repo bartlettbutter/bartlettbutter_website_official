@@ -7,11 +7,20 @@ sitemap: false
   <url>
     <loc>{{ site.url }}/</loc>
   </url>
-{%- for page in site.pages -%}
-{%- if page.layout == "default" %}
+{%- comment -%}
+  Iterate every page that emits HTML rather than filtering on `layout`, so
+  crawl coverage doesn't silently break when a page uses a different layout.
+  A page opts out with `sitemap: false` in its front matter; the 404 page is
+  excluded explicitly. Emit `lastmod` only when a page declares a date.
+{%- endcomment -%}
+{%- for page in site.html_pages -%}
+{%- unless page.sitemap == false or page.url == "/404.html" %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
+{%- if page.date %}
+    <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+{%- endif %}
   </url>
-{%- endif -%}
+{%- endunless -%}
 {%- endfor %}
 </urlset>

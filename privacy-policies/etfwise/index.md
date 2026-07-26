@@ -5,8 +5,6 @@ app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Privacy Policy"
 ---
 
-# Privacy Policy
-
 **Effective Date:** April 25, 2026
 
 ETFWise ("the App") is a free iOS application that provides daily ETF recommendations with live market data and on-device AI analysis. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.

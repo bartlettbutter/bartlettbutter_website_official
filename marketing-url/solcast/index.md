@@ -3,6 +3,7 @@ layout: default
 title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Real-time weather with personalized lifestyle guidance, tailored to your day."
+app_store_url: "https://apps.apple.com/us/app/solcast/id6763927556"
 ---
 
 # Know exactly how to dress, plan, and protect your day.
@@ -44,7 +45,7 @@ No ads. No subscriptions. No accounts. Just open and go.
 3. See your personalized dashboard immediately
 4. Fine-tune preferences anytime in Settings
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
 ## Compatibility
 

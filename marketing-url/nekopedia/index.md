@@ -3,6 +3,7 @@ layout: default
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Identify any cat breed instantly. Free, offline, and private."
+app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 ---
 
 # What breed is that cat? Just point your camera.
@@ -30,7 +31,7 @@ For a challenge, try the Breed Quiz. Each round has 10 questions where you guess
 2. **Snap a photo** of any cat, or choose one from your library
 3. **Get your result** including the breed name, confidence score, alternative matches, and a detailed breed profile
 
-[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
 
 ## Compatibility
 

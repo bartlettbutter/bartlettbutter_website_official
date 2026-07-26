@@ -32,453 +32,47 @@
   <meta property="og:title" content="{{ page.title | default: site.title }}{% if page_kind != '' %} {{ page_kind }}{% endif %} — Bartlett Butter">
   <meta property="og:description" content="{{ kind_meta | default: site.description }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  {% if page.app_icon %}<meta property="og:image" content="{{ site.url }}{{ page.app_icon }}">{% endif %}
+  {% if page.app_icon %}<meta property="og:image" content="{{ site.url }}{{ page.app_icon }}">
+  <meta property="og:image:alt" content="{{ page.title }} app icon">
+  <meta property="og:image:width" content="512">
+  <meta property="og:image:height" content="512">{% endif %}
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ page.title | default: site.title }}{% if page_kind != '' %} {{ page_kind }}{% endif %} — Bartlett Butter">
   <meta name="twitter:description" content="{{ kind_meta | default: site.description }}">
-  {% if page.app_icon %}<meta name="twitter:image" content="{{ site.url }}{{ page.app_icon }}">{% endif %}
+  {% if page.app_icon %}<meta name="twitter:image" content="{{ site.url }}{{ page.app_icon }}">
+  <meta name="twitter:image:alt" content="{{ page.title }} app icon">{% endif %}
+
+  {%- comment -%} Structured data: app-level SoftwareApplication entity on marketing pages. {%- endcomment -%}
+  {% if section == "marketing-url" and page.app_icon %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": {{ page.title | jsonify }},
+    "description": {{ page.app_description | jsonify }},
+    "url": "{{ site.url }}{{ page.url }}",
+    "image": "{{ site.url }}{{ page.app_icon }}",
+    "operatingSystem": "iOS",
+    "applicationCategory": "MobileApplication",
+    {% if page.app_store_url %}"downloadUrl": {{ page.app_store_url | jsonify }},{% endif %}
+    "publisher": {
+      "@type": "Organization",
+      "name": "Bartlett Butter",
+      "url": "{{ site.url }}/"
+    }
+  }
+  </script>
+  {% endif %}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="icon" type="image/png" href="/assets/images/logo_header.png">
-  <style>
-    *, *::before, *::after {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-
-    :root {
-      --neutral-0: #FFFFFF;
-      --neutral-10: #F9FAFB;
-      --neutral-20: #E5E7EB;
-      --neutral-30: #D1D5DB;
-      --neutral-40: #AEB2BA;
-      --neutral-50: #6B7280;
-      --neutral-60: #4B5563;
-      --neutral-70: #374151;
-      --neutral-80: #1F2937;
-      --neutral-90: #111827;
-      --neutral-100: #030712;
-
-      --color-bg: var(--neutral-0);
-      --color-bg-subtle: var(--neutral-10);
-      --color-text: var(--neutral-80);
-      --color-text-muted: var(--neutral-50);
-      --color-text-strong: var(--neutral-100);
-      --color-border: var(--neutral-20);
-
-      --font: 'Inter Tight', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
-    body {
-      font-family: var(--font);
-      font-size: 17px;
-      line-height: 1.7;
-      background: var(--color-bg);
-      color: var(--color-text);
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-    }
-
-    /* ─── Navigation ─── */
-    .nav {
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 20px 40px;
-      background: rgba(255, 255, 255, 0.9);
-      backdrop-filter: blur(12px);
-      -webkit-backdrop-filter: blur(12px);
-      border-bottom: 1px solid var(--color-border);
-    }
-
-    .nav-logo {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      text-decoration: none;
-      color: inherit;
-    }
-
-    .nav-logo img {
-      width: 36px;
-      height: 36px;
-      border-radius: 8px;
-    }
-
-    .nav-logo span {
-      font-size: 16px;
-      font-weight: 300;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      color: var(--color-text-strong);
-    }
-
-    .nav-logo span strong {
-      font-weight: 700;
-    }
-
-    .nav-back {
-      font-size: 14px;
-      font-weight: 500;
-      color: var(--color-text-muted);
-      text-decoration: none;
-      transition: color 200ms ease;
-    }
-
-    .nav-back:hover {
-      color: var(--color-text-strong);
-    }
-
-    /* ─── App Header ─── */
-    .app-header {
-      text-align: center;
-      padding: 64px 24px 48px;
-      border-bottom: 1px solid var(--color-border);
-      background: var(--color-bg-subtle);
-    }
-
-    .app-icon {
-      width: 120px;
-      height: 120px;
-      border-radius: 28px;
-      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08), 0 1px 4px rgba(0, 0, 0, 0.04);
-      margin-bottom: 20px;
-      /* Non-square source art (e.g. ETFWise 792x781) is cropped to fit the
-         square container rather than stretched/distorted. */
-      object-fit: cover;
-    }
-
-    .app-header h1 {
-      font-size: 28px;
-      font-weight: 700;
-      color: var(--color-text-strong);
-      letter-spacing: -0.02em;
-      margin-bottom: 6px;
-    }
-
-    .app-header p {
-      font-size: 16px;
-      color: var(--color-text-muted);
-      max-width: 480px;
-      margin: 0 auto;
-    }
-
-    /* App-level secondary nav — lets visitors who land from search or the
-       App Store move laterally between an app's marketing, support, and
-       privacy pages without bouncing to the homepage. */
-    .app-nav {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-top: 24px;
-    }
-
-    .app-nav a {
-      font-size: 14px;
-      font-weight: 500;
-      color: var(--color-text-muted);
-      text-decoration: none;
-      padding: 8px 18px;
-      border-radius: 100px;
-      border: 1px solid var(--color-border);
-      background: var(--color-bg);
-      transition: color 200ms ease, border-color 200ms ease, background 200ms ease;
-    }
-
-    .app-nav a:hover {
-      color: var(--color-text-strong);
-      border-color: var(--neutral-30);
-    }
-
-    .app-nav a[aria-current="page"] {
-      background: var(--neutral-90);
-      border-color: var(--neutral-90);
-      color: var(--neutral-0);
-    }
-
-    /* ─── Content ─── */
-    .content-body {
-      max-width: 880px;
-      margin: 0 auto;
-      padding: 56px 40px 72px;
-    }
-
-    .content-body h1:first-child {
-      text-align: center;
-      font-size: 24px;
-      font-weight: 600;
-      color: var(--color-text-strong);
-      letter-spacing: -0.01em;
-      margin-bottom: 24px;
-    }
-
-    .content-body h1 {
-      font-size: 24px;
-      font-weight: 700;
-      color: var(--color-text-strong);
-      letter-spacing: -0.01em;
-      margin-top: 48px;
-      margin-bottom: 12px;
-    }
-
-    .content-body h2 {
-      font-size: 20px;
-      font-weight: 600;
-      color: var(--color-text-strong);
-      margin-top: 48px;
-      margin-bottom: 16px;
-      padding-bottom: 10px;
-      border-bottom: 1px solid var(--color-border);
-    }
-
-    .content-body h3 {
-      font-size: 17px;
-      font-weight: 600;
-      color: var(--color-text-strong);
-      margin-top: 32px;
-      margin-bottom: 8px;
-    }
-
-    .content-body p {
-      margin-bottom: 16px;
-      color: var(--color-text);
-    }
-
-    .content-body a {
-      color: var(--neutral-60);
-      text-decoration: underline;
-      text-underline-offset: 2px;
-      transition: color 200ms ease;
-    }
-
-    .content-body a:hover {
-      color: var(--color-text-strong);
-    }
-
-    .content-body ul, .content-body ol {
-      padding-left: 24px;
-      margin-bottom: 16px;
-    }
-
-    .content-body li {
-      margin-bottom: 8px;
-      color: var(--color-text);
-    }
-
-    .content-body strong {
-      font-weight: 600;
-      color: var(--color-text-strong);
-    }
-
-    .content-body blockquote {
-      border-left: 3px solid var(--neutral-30);
-      margin: 24px 0;
-      padding: 12px 20px;
-      color: var(--color-text-muted);
-      font-style: italic;
-      background: var(--color-bg-subtle);
-      border-radius: 0 8px 8px 0;
-    }
-
-    .content-body table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 20px 0;
-      font-size: 15px;
-      line-height: 1.6;
-    }
-
-    .content-body th, .content-body td {
-      text-align: left;
-      padding: 12px 16px;
-      border-bottom: 1px solid var(--color-border);
-      vertical-align: top;
-    }
-
-    .content-body th {
-      font-weight: 600;
-      color: var(--color-text-strong);
-      background: var(--color-bg-subtle);
-      font-size: 13px;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      white-space: nowrap;
-    }
-
-    .content-body td:first-child {
-      font-weight: 500;
-      color: var(--color-text-strong);
-      white-space: nowrap;
-    }
-
-    .content-body img {
-      display: inline-block;
-      max-width: 100%;
-      height: auto;
-    }
-
-    /* App Store badge styling */
-    .content-body a[href*="apps.apple.com"] {
-      display: block;
-      text-align: center;
-      margin: 32px 0;
-      text-decoration: none;
-    }
-
-    .content-body a[href*="apps.apple.com"] img {
-      display: inline-block;
-      height: 48px;
-      width: auto;
-      transition: opacity 200ms ease, transform 200ms ease;
-    }
-
-    .content-body a[href*="apps.apple.com"] img:hover {
-      opacity: 0.8;
-      transform: scale(1.03);
-    }
-
-    /* Mobile table overflow */
-    .table-wrapper {
-      position: relative;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      margin: 20px 0;
-      border-radius: 8px;
-      border: 1px solid var(--color-border);
-    }
-
-    /* Scroll hint shown by JS only when a table actually overflows its
-       container, so users know there is more content off-screen. */
-    .table-hint {
-      display: none;
-      font-size: 12px;
-      color: var(--color-text-muted);
-      margin: -8px 0 20px;
-      letter-spacing: 0.02em;
-    }
-
-    .table-hint.is-visible {
-      display: block;
-    }
-
-    .table-wrapper table {
-      margin: 0;
-      min-width: 540px;
-    }
-
-    .table-wrapper th, .table-wrapper td {
-      border-bottom: 1px solid var(--color-border);
-    }
-
-    .table-wrapper tr:last-child td {
-      border-bottom: none;
-    }
-
-    /* ─── Footer ─── */
-    .footer {
-      background: var(--neutral-100);
-      color: var(--neutral-0);
-      padding: 40px 40px 32px;
-    }
-
-    .footer-inner {
-      max-width: 880px;
-      margin: 0 auto;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 24px;
-      flex-wrap: wrap;
-    }
-
-    .footer-brand {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-
-    .footer-brand img {
-      width: 32px;
-      height: 32px;
-      border-radius: 7px;
-    }
-
-    .footer-brand span {
-      font-size: 14px;
-      font-weight: 300;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      opacity: 0.7;
-    }
-
-    .footer-brand span strong {
-      font-weight: 700;
-    }
-
-    .footer-copy {
-      font-size: 13px;
-      opacity: 0.4;
-    }
-
-    /* ─── Responsive ─── */
-    @media (max-width: 768px) {
-      .nav {
-        padding: 16px 20px;
-      }
-
-      .app-header {
-        padding: 48px 20px 36px;
-      }
-
-      .app-icon {
-        width: 100px;
-        height: 100px;
-        border-radius: 24px;
-      }
-
-      .app-header h1 {
-        font-size: 24px;
-      }
-
-      .content-body {
-        padding: 36px 20px 48px;
-      }
-
-      .footer {
-        padding: 32px 20px 24px;
-      }
-
-      .footer-inner {
-        flex-direction: column;
-        text-align: center;
-        gap: 12px;
-      }
-    }
-
-    /* ─── Accessibility ─── */
-    a:focus-visible {
-      outline: 2px solid var(--neutral-90);
-      outline-offset: 3px;
-      border-radius: 4px;
-    }
-
-    @media (prefers-reduced-motion: reduce) {
-      html { scroll-behavior: auto; }
-    }
-  </style>
+  <link rel="stylesheet" href="/assets/css/subpage.css">
 </head>
 <body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
   <!-- Navigation -->
   <nav class="nav">
     <a href="/" class="nav-logo">
@@ -495,6 +89,17 @@
     <h1>{{ page.title }}</h1>
     {% if page.app_description %}<p>{{ page.app_description }}</p>{% endif %}
 
+    {%- if page.app_store_url -%}
+    <div>
+      <a href="{{ page.app_store_url }}" class="app-cta" rel="noopener">
+        Download on the App Store
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+        </svg>
+      </a>
+    </div>
+    {%- endif -%}
+
     {%- if app_slug and app_slug != "" -%}
     <nav class="app-nav" aria-label="{{ page.title }} pages">
       <a href="/marketing-url/{{ app_slug }}/"{% if section == "marketing-url" %} aria-current="page"{% endif %}>Overview</a>
@@ -506,35 +111,11 @@
   {% endif %}
 
   <!-- Main content -->
-  <div class="content-body">
+  <main id="main" class="content-body"{% if page_kind != "" %} data-toc="true"{% endif %} tabindex="-1">
     {{ content }}
-  </div>
+  </main>
 
-  <script>
-    document.querySelectorAll('.content-body table').forEach(function(table) {
-      var wrapper = document.createElement('div');
-      wrapper.className = 'table-wrapper';
-      table.parentNode.insertBefore(wrapper, table);
-      wrapper.appendChild(table);
-
-      // Show a scroll hint only when the table actually overflows, and hide
-      // it once the user has scrolled to the end.
-      var hint = document.createElement('p');
-      hint.className = 'table-hint';
-      hint.textContent = 'Scroll horizontally to see more →';
-      wrapper.parentNode.insertBefore(hint, wrapper.nextSibling);
-
-      var updateCue = function() {
-        var overflowing = wrapper.scrollWidth > wrapper.clientWidth + 1;
-        var atEnd = wrapper.scrollLeft + wrapper.clientWidth >= wrapper.scrollWidth - 1;
-        hint.classList.toggle('is-visible', overflowing && !atEnd);
-      };
-
-      wrapper.addEventListener('scroll', updateCue, { passive: true });
-      window.addEventListener('resize', updateCue, { passive: true });
-      updateCue();
-    });
-  </script>
+  <script src="/assets/js/subpage.js" defer></script>
 
   <!-- Footer -->
   <footer class="footer">

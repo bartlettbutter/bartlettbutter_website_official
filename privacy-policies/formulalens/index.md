@@ -5,8 +5,6 @@ app_icon: /assets/app-icons/icon_FormulaLens.png
 app_description: "Privacy Policy"
 ---
 
-# Privacy Policy
-
 **Effective Date:** July 8, 2026
 
 FormulaLens is a free iOS application that helps you understand cosmetic ingredient lists by scanning and classifying them on your device. We built this app with a privacy-first philosophy: we don't collect your data because we don't need it.

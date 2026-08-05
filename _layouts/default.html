@@ -16,15 +16,27 @@
   {%- assign page_kind = "" -%}
   {%- assign kind_meta = page.app_description -%}
 {%- endif -%}
-{%- assign privacy_languages = nil -%}
-{%- if section == "privacy-policies" and app_slug and app_slug != "" -%}
-  {%- assign privacy_languages = site.data.privacy_languages[app_slug] -%}
-{%- endif -%}
+{%- comment -%}
+  Multi-language support. An app is translated when its slug is listed under
+  its section in _data/translations.yml. For a translated app the language
+  list comes straight from _data/languages.yml (code + endonym label); each
+  option's URL is computed deterministically where it is rendered — English
+  at the un-suffixed base (/<section>/<app>/) and every other language at
+  /<section>/<app>/<code>/. `current_language` is resolved from page.lang.
+{%- endcomment -%}
+{%- assign page_languages = nil -%}
 {%- assign current_language = nil -%}
-{%- assign first_privacy_language = nil -%}
-{%- if privacy_languages -%}
-  {%- assign first_privacy_language = privacy_languages | first -%}
-  {%- assign current_language = privacy_languages | where: "url", page.url | first -%}
+{%- assign first_page_language = nil -%}
+{%- assign lang_base_url = "" -%}
+{%- if section and app_slug and app_slug != "" -%}
+  {%- assign translated_apps = site.data.translations[section] -%}
+  {%- if translated_apps contains app_slug -%}
+    {%- assign page_languages = site.data.languages -%}
+    {%- assign lang_base_url = "/" | append: section | append: "/" | append: app_slug | append: "/" -%}
+    {%- assign first_page_language = page_languages | first -%}
+    {%- assign current_code = page.lang | default: "en" -%}
+    {%- assign current_language = page_languages | where: "code", current_code | first -%}
+  {%- endif -%}
 {%- endif -%}
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: 'en' }}"{% if page.lang == 'ar' %} dir="rtl"{% endif %}>
@@ -34,14 +46,12 @@
   <title>{{ page.title | default: site.title }}{% if page_kind != "" %} {{ page_kind }}{% endif %} — Bartlett Butter</title>
   <meta name="description" content="{{ kind_meta | default: site.description }}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  {% if privacy_languages %}
-    {% for option in privacy_languages %}
-  <link rel="alternate" hreflang="{{ option.code }}" href="{{ site.url }}{{ option.url }}">
+  {% if page_languages %}
+    {% for option in page_languages %}
+      {% if option.code == "en" %}{% assign option_url = lang_base_url %}{% else %}{% assign option_url = lang_base_url | append: option.code | append: "/" %}{% endif %}
+  <link rel="alternate" hreflang="{{ option.code }}" href="{{ site.url }}{{ option_url }}">
     {% endfor %}
-    {% assign default_language = privacy_languages | where: "code", "en" | first %}
-    {% if default_language %}
-  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ default_language.url }}">
-    {% endif %}
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ lang_base_url }}">
   {% endif %}
   <meta name="theme-color" content="#030712">
 
@@ -103,28 +113,29 @@
         <span aria-hidden="true">&larr;</span>
         <span>Back to Home</span>
       </a>
-      {% if privacy_languages %}
-      <div class="language-picker{% if privacy_languages.size == 1 %} language-picker--single{% endif %}">
-        {% if privacy_languages.size > 1 %}
+      {% if page_languages %}
+      <div class="language-picker{% if page_languages.size == 1 %} language-picker--single{% endif %}">
+        {% if page_languages.size > 1 %}
         <details class="language-picker-menu">
           <summary class="language-picker-summary nav-action-link">
-            <span{% if current_language %} lang="{{ current_language.code }}"{% endif %}>{{ current_language.label | default: first_privacy_language.label }}</span>
+            <span{% if current_language %} lang="{{ current_language.code }}"{% endif %}>{{ current_language.label | default: first_page_language.label }}</span>
             <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
               <path d="M5 7.5 10 12.5 15 7.5" stroke-linecap="round" stroke-linejoin="round" />
             </svg>
           </summary>
           <nav class="language-picker-list" aria-label="Available languages">
-            {% for option in privacy_languages %}
-              {% if page.url == option.url %}
+            {% for option in page_languages %}
+              {% if option.code == "en" %}{% assign option_url = lang_base_url %}{% else %}{% assign option_url = lang_base_url | append: option.code | append: "/" %}{% endif %}
+              {% if page.url == option_url %}
             <span class="language-picker-option is-current" aria-current="page" lang="{{ option.code }}">{{ option.label }}</span>
               {% else %}
-            <a class="language-picker-option" href="{{ option.url }}" hreflang="{{ option.code }}" lang="{{ option.code }}">{{ option.label }}</a>
+            <a class="language-picker-option" href="{{ option_url }}" hreflang="{{ option.code }}" lang="{{ option.code }}">{{ option.label }}</a>
               {% endif %}
             {% endfor %}
           </nav>
         </details>
         {% else %}
-        <span class="language-picker-current nav-action-link" lang="{{ first_privacy_language.code }}">{{ first_privacy_language.label }}</span>
+        <span class="language-picker-current nav-action-link" lang="{{ first_page_language.code }}">{{ first_page_language.label }}</span>
         {% endif %}
       </div>
       {% endif %}

@@ -4,6 +4,5 @@ description: "Crisp & Smooth Apps for Mobile and Web"
 url: "https://www.bartlettbutter.com"
 baseurl: ""
 
-# Exclude the main index.html from Jekyll processing (it's already a complete HTML file)
-include:
-  - "index.html"
+# The homepage (index.html) is rendered through the `home` layout with
+# translations from _data/home.yml, like the rest of the localized site.

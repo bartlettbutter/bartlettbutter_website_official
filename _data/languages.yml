@@ -1,0 +1,33 @@
+# Master list of supported site languages, in display order.
+# `code` is the BCP-47 tag used for <html lang>, hreflang, and the URL
+# segment (English lives at the un-suffixed base URL; every other language
+# lives at /<section>/<app>/<code>/). `label` is the endonym shown in the
+# language picker.
+- code: en
+  label: English
+- code: zh-Hans
+  label: 中文
+- code: es
+  label: Español
+- code: hi
+  label: हिन्दी
+- code: ar
+  label: العربية
+- code: fr
+  label: Français
+- code: pt
+  label: Português
+- code: ja
+  label: 日本語
+- code: ko
+  label: 한국어
+- code: de
+  label: Deutsch
+- code: it
+  label: Italiano
+- code: ru
+  label: Русский
+- code: tr
+  label: Türkçe
+- code: nl
+  label: Nederlands

@@ -1,0 +1,36 @@
+# Registry of which pages have full multi-language translations.
+#
+# For each section, list the app slugs whose pages exist in every language
+# from _data/languages.yml. The shared layout only renders the language
+# picker (and emits hreflang alternates) for an app listed here, so a page
+# that has not been translated yet stays English-only with no dead links.
+# Add a slug here only once every language file for it has been created.
+#
+# English lives at the un-suffixed base URL (/<section>/<app>/); every other
+# language lives at /<section>/<app>/<code>/.
+marketing-url:
+  - barkpedia
+  - etfwise
+  - formulalens
+  - huepick
+  - journeyfolio
+  - nekopedia
+  - solcast
+
+support-url:
+  - barkpedia
+  - etfwise
+  - formulalens
+  - huepick
+  - journeyfolio
+  - nekopedia
+  - solcast
+
+privacy-policies:
+  - barkpedia
+  - etfwise
+  - formulalens
+  - huepick
+  - journeyfolio
+  - nekopedia
+  - solcast

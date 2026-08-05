@@ -95,57 +95,34 @@ body {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  gap: 12px;
+  gap: 20px;
+  row-gap: 4px;
   margin-left: auto;
   flex-wrap: wrap;
 }
 
-.nav-utility-card {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 4px;
-  min-height: 54px;
-  padding: 10px 14px;
-  border: 1px solid var(--color-border);
-  border-radius: 18px;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96) 0%, rgba(249, 250, 251, 0.88) 100%);
-  box-shadow: 0 10px 30px rgba(3, 7, 18, 0.06);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-}
-
-.nav-utility-label,
-.language-picker-label {
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--color-text-muted);
-}
-
-.nav-utility-value {
+.nav-action-link {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  max-width: 100%;
-  color: var(--color-text-strong);
-  font-size: 14px;
-  font-weight: 600;
-  line-height: 1.25;
+  min-height: 44px;
+  padding: 10px 8px;
+  color: var(--color-text-muted);
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.2;
   white-space: nowrap;
+  text-decoration: none;
+  transition: color 200ms ease;
 }
 
 .nav-back {
-  text-decoration: none;
   color: inherit;
-  transition: transform 200ms ease, border-color 200ms ease, box-shadow 200ms ease;
 }
 
+.nav-action-link:hover,
 .nav-back:hover {
-  transform: translateY(-1px);
-  border-color: var(--neutral-30);
-  box-shadow: 0 14px 32px rgba(3, 7, 18, 0.1);
+  color: var(--color-text-strong);
 }
 
 /* ─── App Header ─── */
@@ -199,11 +176,15 @@ body {
 }
 
 .app-nav a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
   font-size: 14px;
   font-weight: 500;
   color: var(--color-text-muted);
   text-decoration: none;
-  padding: 8px 18px;
+  padding: 10px 18px;
   border-radius: 100px;
   border: 1px solid var(--color-border);
   background: var(--color-bg);
@@ -281,15 +262,25 @@ body {
 }
 
 .page-toc a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 6px 10px;
+  border-radius: 8px;
   font-size: 15px;
   font-weight: 500;
   color: var(--neutral-60);
   text-decoration: none;
-  transition: color 200ms ease;
+  transition: color 200ms ease, background 200ms ease;
 }
 
 .page-toc a:hover {
   color: var(--color-text-strong);
+  background: rgba(17, 24, 39, 0.04);
+}
+
+.page-toc a:focus-visible {
+  background: rgba(17, 24, 39, 0.04);
 }
 
 /* Offset jump targets so headings clear the sticky nav bar. */
@@ -530,28 +521,9 @@ body {
   .nav-actions {
     width: 100%;
     margin-left: 0;
-    justify-content: space-between;
-  }
-
-  .nav-back,
-  .language-picker {
-    flex: 1 1 220px;
-    min-width: 0;
-  }
-
-  .nav-utility-card {
-    min-height: 52px;
-    padding: 10px 12px;
-    border-radius: 16px;
-  }
-
-  .nav-utility-label,
-  .language-picker-label {
-    font-size: 9px;
-  }
-
-  .nav-utility-value {
-    font-size: 13px;
+    justify-content: flex-start;
+    gap: 16px;
+    row-gap: 2px;
   }
 
   /* Compact the sticky subpage header so the logo, wordmark, and back link
@@ -590,7 +562,7 @@ body {
 }
 
 /* On the narrowest screens, drop the wordmark to the logo mark alone so the
-   sticky header stays uncrowded and the utility cards keep comfortable
+   sticky header stays uncrowded and the one-line nav actions keep comfortable
    tap targets. */
 @media (max-width: 480px) {
   .nav-logo span {
@@ -609,9 +581,10 @@ body {
     gap: 8px;
   }
 
-  .nav-back,
-  .language-picker {
-    flex: 1 1 0;
+  .nav-action-link,
+  .language-picker-summary,
+  .language-picker-current {
+    font-size: 13px;
   }
 }
 
@@ -661,29 +634,28 @@ a:focus-visible {
 
 /* ─── Language Picker ─── */
 .language-picker {
-  min-width: 168px;
+  min-width: 0;
 }
 
 .language-picker-menu {
   position: relative;
-  width: 100%;
 }
 
 .language-picker-summary,
 .language-picker-current {
   display: inline-flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   gap: 8px;
-  width: 100%;
-  min-height: auto;
-  padding: 0;
+  width: auto;
+  min-height: 44px;
+  padding: 10px 8px;
   border: 0;
   border-radius: 0;
   background: transparent;
   color: inherit;
-  font-size: 14px;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 500;
   white-space: nowrap;
 }
 
@@ -710,10 +682,14 @@ a:focus-visible {
 
 .language-picker-summary svg {
   flex: none;
-  width: 16px;
-  height: 16px;
+  width: 15px;
+  height: 15px;
   color: var(--color-text-muted);
   transition: transform 200ms ease;
+}
+
+.language-picker-summary:hover svg {
+  color: var(--color-text-strong);
 }
 
 .language-picker-menu[open] .language-picker-summary svg {
@@ -730,6 +706,10 @@ a:focus-visible {
   gap: 6px;
   min-width: 220px;
   max-width: min(78vw, 320px);
+  max-height: min(70vh, 420px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
   padding: 10px;
   border: 1px solid var(--color-border);
   border-radius: 16px;
@@ -762,10 +742,6 @@ a:focus-visible {
 }
 
 @media (max-width: 768px) {
-  .language-picker {
-    min-width: 0;
-  }
-
   .language-picker-summary,
   .language-picker-current {
     font-size: 13px;

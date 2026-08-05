@@ -36,6 +36,51 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // --- Dock-style app launch animation ---
+  const workCards = document.querySelectorAll('.work-card[href]');
+  const canAnimateDockLaunch = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+  const launchDurationMs = Number.parseFloat(
+    getComputedStyle(document.documentElement).getPropertyValue('--dock-launch-duration')
+  ) || 560;
+
+  if (workCards.length && !prefersReducedMotion && canAnimateDockLaunch) {
+    workCards.forEach(card => {
+      const launchIcon = card.querySelector('.work-card-icon');
+
+      if (!launchIcon) return;
+
+      card.addEventListener('click', (e) => {
+        if (
+          e.defaultPrevented ||
+          e.button !== 0 ||
+          e.metaKey ||
+          e.ctrlKey ||
+          e.shiftKey ||
+          e.altKey ||
+          card.target === '_blank' ||
+          card.hasAttribute('download') ||
+          card.classList.contains('is-jumping')
+        ) {
+          return;
+        }
+
+        e.preventDefault();
+        card.classList.add('is-jumping');
+
+        const navigate = () => {
+          window.location.assign(card.href);
+        };
+
+        const fallbackTimer = window.setTimeout(navigate, launchDurationMs + 120);
+
+        launchIcon.addEventListener('animationend', () => {
+          window.clearTimeout(fallbackTimer);
+          navigate();
+        }, { once: true });
+      });
+    });
+  }
+
   // --- Smooth scroll for anchor links ---
   document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', (e) => {
@@ -158,17 +203,29 @@ document.addEventListener('DOMContentLoaded', () => {
     .filter(Boolean);
 
   if (spyTargets.length && 'IntersectionObserver' in window) {
-    const visible = new Set();
+    const visibility = new Map();
 
     const setActive = () => {
-      // Prefer the topmost section currently intersecting the viewport.
       let current = null;
+      let currentRatio = -1;
+      let currentTopDistance = Number.POSITIVE_INFINITY;
+
       spyTargets.forEach(({ section }) => {
-        if (!visible.has(section)) return;
-        if (!current || section.offsetTop < current.offsetTop) {
+        const state = visibility.get(section);
+        if (!state || !state.isIntersecting) return;
+
+        const topDistance = Math.abs(state.top);
+
+        if (
+          state.ratio > currentRatio ||
+          (Math.abs(state.ratio - currentRatio) < 0.02 && topDistance < currentTopDistance)
+        ) {
           current = section;
+          currentRatio = state.ratio;
+          currentTopDistance = topDistance;
         }
       });
+
       spyTargets.forEach(({ link, section }) => {
         link.classList.toggle('is-active', section === current);
       });
@@ -176,18 +233,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const spyObserver = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          visible.add(entry.target);
-        } else {
-          visible.delete(entry.target);
-        }
+        visibility.set(entry.target, {
+          isIntersecting: entry.isIntersecting,
+          ratio: entry.intersectionRatio,
+          top: entry.boundingClientRect.top
+        });
       });
       setActive();
     }, {
-      // Bias the active zone to the upper portion of the viewport, just below
-      // the fixed nav, so the highlight tracks what the user is reading.
-      rootMargin: '-45% 0px -45% 0px',
-      threshold: 0
+      // Track multiple visibility levels so nested anchors like `#about`
+      // can overtake their parent section once they become the dominant block
+      // in view, rather than always losing to the earlier section start.
+      rootMargin: '-35% 0px -35% 0px',
+      threshold: [0, 0.15, 0.35, 0.55, 0.75]
     });
 
     spyTargets.forEach(({ section }) => spyObserver.observe(section));

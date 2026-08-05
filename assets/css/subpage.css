@@ -573,3 +573,57 @@ a:focus-visible {
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
 }
+
+/* ─── Language Switcher ─── */
+.lang-switcher {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  padding: 16px 20px;
+  margin-bottom: 32px;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background: var(--color-bg-subtle);
+}
+
+.lang-switcher a,
+.lang-switcher .lang-current {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 6px 14px;
+  border-radius: 100px;
+  text-decoration: none;
+  transition: color 200ms ease, background 200ms ease, border-color 200ms ease;
+  border: 1px solid transparent;
+}
+
+.lang-switcher a {
+  color: var(--color-text-muted);
+}
+
+.lang-switcher a:hover {
+  color: var(--color-text-strong);
+  background: var(--color-bg);
+  border-color: var(--color-border);
+}
+
+.lang-switcher .lang-current {
+  background: var(--neutral-90);
+  color: var(--neutral-0);
+  border-color: var(--neutral-90);
+}
+
+@media (max-width: 768px) {
+  .lang-switcher {
+    gap: 6px;
+    padding: 12px 16px;
+    margin-bottom: 24px;
+  }
+
+  .lang-switcher a,
+  .lang-switcher .lang-current {
+    font-size: 13px;
+    padding: 5px 10px;
+  }
+}

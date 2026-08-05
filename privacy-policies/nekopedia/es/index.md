@@ -6,22 +6,6 @@ app_description: "Política de Privacidad"
 lang: es
 ---
 
-<div class="lang-switcher" role="navigation" aria-label="Selector de idioma">
-  <a href="/privacy-policies/nekopedia/">English</a>
-  <a href="/privacy-policies/nekopedia/zh-Hans/">中文</a>
-  <span class="lang-current" aria-current="page">Español</span>
-  <a href="/privacy-policies/nekopedia/hi/">हिन्दी</a>
-  <a href="/privacy-policies/nekopedia/ar/">العربية</a>
-  <a href="/privacy-policies/nekopedia/fr/">Français</a>
-  <a href="/privacy-policies/nekopedia/pt/">Português</a>
-  <a href="/privacy-policies/nekopedia/ja/">日本語</a>
-  <a href="/privacy-policies/nekopedia/ko/">한국어</a>
-  <a href="/privacy-policies/nekopedia/de/">Deutsch</a>
-  <a href="/privacy-policies/nekopedia/it/">Italiano</a>
-  <a href="/privacy-policies/nekopedia/ru/">Русский</a>
-  <a href="/privacy-policies/nekopedia/tr/">Türkçe</a>
-  <a href="/privacy-policies/nekopedia/nl/">Nederlands</a>
-</div>
 
 **Fecha de vigencia:** 13 de junio de 2026
 

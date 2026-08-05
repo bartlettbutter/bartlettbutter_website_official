@@ -109,6 +109,17 @@ body {
   background: var(--color-bg-subtle);
 }
 
+.app-header-inner {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.app-header-utility {
+  display: block;
+  width: 100%;
+  margin-bottom: 28px;
+}
+
 .app-icon {
   width: 120px;
   height: 120px;
@@ -574,56 +585,145 @@ a:focus-visible {
   html { scroll-behavior: auto; }
 }
 
-/* ─── Language Switcher ─── */
-.lang-switcher {
+/* ─── Language Picker ─── */
+.language-picker {
   display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  justify-content: center;
-  padding: 16px 20px;
-  margin-bottom: 32px;
+  align-items: center;
+  gap: 12px;
+  width: fit-content;
+  margin-left: auto;
+  padding: 10px 14px;
   border: 1px solid var(--color-border);
-  border-radius: 12px;
-  background: var(--color-bg-subtle);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.78);
+  box-shadow: 0 10px 30px rgba(3, 7, 18, 0.05);
 }
 
-.lang-switcher a,
-.lang-switcher .lang-current {
-  font-size: 14px;
-  font-weight: 500;
-  padding: 6px 14px;
-  border-radius: 100px;
-  text-decoration: none;
-  transition: color 200ms ease, background 200ms ease, border-color 200ms ease;
-  border: 1px solid transparent;
-}
-
-.lang-switcher a {
+.language-picker-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
   color: var(--color-text-muted);
 }
 
-.lang-switcher a:hover {
-  color: var(--color-text-strong);
-  background: var(--color-bg);
-  border-color: var(--color-border);
+.language-picker-menu {
+  position: relative;
 }
 
-.lang-switcher .lang-current {
+.language-picker-summary,
+.language-picker-current {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 38px;
+  padding: 8px 14px;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: var(--color-bg);
+  color: var(--color-text-strong);
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.language-picker-summary {
+  cursor: pointer;
+  list-style: none;
+  transition: border-color 200ms ease, box-shadow 200ms ease;
+}
+
+.language-picker-summary::-webkit-details-marker {
+  display: none;
+}
+
+.language-picker-summary:focus-visible {
+  outline: 2px solid var(--neutral-90);
+  outline-offset: 3px;
+}
+
+.language-picker-summary svg {
+  width: 16px;
+  height: 16px;
+  color: var(--color-text-muted);
+  transition: transform 200ms ease;
+}
+
+.language-picker-menu[open] .language-picker-summary svg {
+  transform: rotate(180deg);
+}
+
+.language-picker-list {
+  position: absolute;
+  top: calc(100% + 10px);
+  right: 0;
+  inset-inline-end: 0;
+  z-index: 20;
+  display: grid;
+  gap: 6px;
+  min-width: 220px;
+  max-width: min(78vw, 320px);
+  padding: 10px;
+  border: 1px solid var(--color-border);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.98);
+  box-shadow: 0 18px 45px rgba(3, 7, 18, 0.14);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.language-picker-option {
+  display: block;
+  padding: 10px 12px;
+  border-radius: 10px;
+  color: var(--color-text-muted);
+  font-size: 14px;
+  font-weight: 500;
+  text-align: start;
+  text-decoration: none;
+  transition: background 200ms ease, color 200ms ease;
+}
+
+.language-picker-option:hover {
+  background: var(--color-bg-subtle);
+  color: var(--color-text-strong);
+}
+
+.language-picker-option.is-current {
   background: var(--neutral-90);
   color: var(--neutral-0);
+}
+
+.language-picker--single .language-picker-current {
   border-color: var(--neutral-90);
 }
 
 @media (max-width: 768px) {
-  .lang-switcher {
-    gap: 6px;
-    padding: 12px 16px;
-    margin-bottom: 24px;
+  .app-header-utility {
+    margin-bottom: 20px;
   }
 
-  .lang-switcher a,
-  .lang-switcher .lang-current {
+  .language-picker {
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto;
+    justify-content: space-between;
+  }
+
+  .language-picker-label {
+    font-size: 10px;
+  }
+
+  .language-picker-summary,
+  .language-picker-current {
+    min-height: 36px;
     font-size: 13px;
-    padding: 5px 10px;
+    padding: 8px 12px;
+  }
+
+  .language-picker-list {
+    right: 0;
+    left: auto;
+    min-width: 200px;
   }
 }

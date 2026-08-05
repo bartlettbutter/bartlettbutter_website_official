@@ -1,0 +1,73 @@
+nekopedia:
+  - code: en
+    label: English
+    url: /privacy-policies/nekopedia/
+  - code: zh-Hans
+    label: 中文
+    url: /privacy-policies/nekopedia/zh-Hans/
+  - code: es
+    label: Español
+    url: /privacy-policies/nekopedia/es/
+  - code: hi
+    label: हिन्दी
+    url: /privacy-policies/nekopedia/hi/
+  - code: ar
+    label: العربية
+    url: /privacy-policies/nekopedia/ar/
+  - code: fr
+    label: Français
+    url: /privacy-policies/nekopedia/fr/
+  - code: pt
+    label: Português
+    url: /privacy-policies/nekopedia/pt/
+  - code: ja
+    label: 日本語
+    url: /privacy-policies/nekopedia/ja/
+  - code: ko
+    label: 한국어
+    url: /privacy-policies/nekopedia/ko/
+  - code: de
+    label: Deutsch
+    url: /privacy-policies/nekopedia/de/
+  - code: it
+    label: Italiano
+    url: /privacy-policies/nekopedia/it/
+  - code: ru
+    label: Русский
+    url: /privacy-policies/nekopedia/ru/
+  - code: tr
+    label: Türkçe
+    url: /privacy-policies/nekopedia/tr/
+  - code: nl
+    label: Nederlands
+    url: /privacy-policies/nekopedia/nl/
+
+barkpedia:
+  - code: en
+    label: English
+    url: /privacy-policies/barkpedia/
+
+etfwise:
+  - code: en
+    label: English
+    url: /privacy-policies/etfwise/
+
+formulalens:
+  - code: en
+    label: English
+    url: /privacy-policies/formulalens/
+
+huepick:
+  - code: en
+    label: English
+    url: /privacy-policies/huepick/
+
+journeyfolio:
+  - code: en
+    label: English
+    url: /privacy-policies/journeyfolio/
+
+solcast:
+  - code: en
+    label: English
+    url: /privacy-policies/solcast/

@@ -6,22 +6,6 @@ app_description: "개인정보 처리방침"
 lang: ko
 ---
 
-<div class="lang-switcher" role="navigation" aria-label="언어 선택">
-  <a href="/privacy-policies/nekopedia/">English</a>
-  <a href="/privacy-policies/nekopedia/zh-Hans/">中文</a>
-  <a href="/privacy-policies/nekopedia/es/">Español</a>
-  <a href="/privacy-policies/nekopedia/hi/">हिन्दी</a>
-  <a href="/privacy-policies/nekopedia/ar/">العربية</a>
-  <a href="/privacy-policies/nekopedia/fr/">Français</a>
-  <a href="/privacy-policies/nekopedia/pt/">Português</a>
-  <a href="/privacy-policies/nekopedia/ja/">日本語</a>
-  <span class="lang-current" aria-current="page">한국어</span>
-  <a href="/privacy-policies/nekopedia/de/">Deutsch</a>
-  <a href="/privacy-policies/nekopedia/it/">Italiano</a>
-  <a href="/privacy-policies/nekopedia/ru/">Русский</a>
-  <a href="/privacy-policies/nekopedia/tr/">Türkçe</a>
-  <a href="/privacy-policies/nekopedia/nl/">Nederlands</a>
-</div>
 
 **시행일:** 2026년 6월 13일
 

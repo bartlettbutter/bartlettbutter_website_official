@@ -6,22 +6,6 @@ app_description: "隐私政策"
 lang: zh-Hans
 ---
 
-<div class="lang-switcher" role="navigation" aria-label="语言选择">
-  <a href="/privacy-policies/nekopedia/">English</a>
-  <span class="lang-current" aria-current="page">中文</span>
-  <a href="/privacy-policies/nekopedia/es/">Español</a>
-  <a href="/privacy-policies/nekopedia/hi/">हिन्दी</a>
-  <a href="/privacy-policies/nekopedia/ar/">العربية</a>
-  <a href="/privacy-policies/nekopedia/fr/">Français</a>
-  <a href="/privacy-policies/nekopedia/pt/">Português</a>
-  <a href="/privacy-policies/nekopedia/ja/">日本語</a>
-  <a href="/privacy-policies/nekopedia/ko/">한국어</a>
-  <a href="/privacy-policies/nekopedia/de/">Deutsch</a>
-  <a href="/privacy-policies/nekopedia/it/">Italiano</a>
-  <a href="/privacy-policies/nekopedia/ru/">Русский</a>
-  <a href="/privacy-policies/nekopedia/tr/">Türkçe</a>
-  <a href="/privacy-policies/nekopedia/nl/">Nederlands</a>
-</div>
 
 **生效日期：** 2026年6月13日
 

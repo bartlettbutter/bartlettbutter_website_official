@@ -6,22 +6,6 @@ app_description: "Informativa sulla Privacy"
 lang: it
 ---
 
-<div class="lang-switcher" role="navigation" aria-label="Selettore lingua">
-  <a href="/privacy-policies/nekopedia/">English</a>
-  <a href="/privacy-policies/nekopedia/zh-Hans/">中文</a>
-  <a href="/privacy-policies/nekopedia/es/">Español</a>
-  <a href="/privacy-policies/nekopedia/hi/">हिन्दी</a>
-  <a href="/privacy-policies/nekopedia/ar/">العربية</a>
-  <a href="/privacy-policies/nekopedia/fr/">Français</a>
-  <a href="/privacy-policies/nekopedia/pt/">Português</a>
-  <a href="/privacy-policies/nekopedia/ja/">日本語</a>
-  <a href="/privacy-policies/nekopedia/ko/">한국어</a>
-  <a href="/privacy-policies/nekopedia/de/">Deutsch</a>
-  <span class="lang-current" aria-current="page">Italiano</span>
-  <a href="/privacy-policies/nekopedia/ru/">Русский</a>
-  <a href="/privacy-policies/nekopedia/tr/">Türkçe</a>
-  <a href="/privacy-policies/nekopedia/nl/">Nederlands</a>
-</div>
 
 **Data di entrata in vigore:** 13 giugno 2026
 

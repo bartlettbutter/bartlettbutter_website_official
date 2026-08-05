@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const canAnimateDockLaunch = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
   const launchDurationMs = Number.parseFloat(
     getComputedStyle(document.documentElement).getPropertyValue('--dock-launch-duration')
-  ) || 560;
+  ) || 2200;
 
   if (workCards.length && !prefersReducedMotion && canAnimateDockLaunch) {
     workCards.forEach(card => {

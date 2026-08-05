@@ -977,7 +977,7 @@ img {
   }
 
   .nav-links {
-    display: none;
+    display: flex;
     flex-direction: column;
     position: absolute;
     top: 100%;
@@ -988,13 +988,34 @@ img {
     gap: var(--space-2);
     border-bottom: 1px solid var(--color-border);
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transform: translateY(-8px);
+    max-height: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+    transition:
+      opacity var(--duration-fast) var(--ease),
+      transform var(--duration-fast) var(--ease),
+      max-height var(--duration-fast) var(--ease),
+      visibility 0s linear var(--duration-fast);
+    will-change: opacity, transform;
   }
 
   .nav-links.is-open {
-    display: flex;
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: translateY(0);
+    max-height: min(70vh, 420px);
+    transition-delay: 0s;
   }
 
   .nav-link {
+    min-height: 44px;
     font-size: 16px;
     padding: 12px 16px;
     border-radius: 10px;

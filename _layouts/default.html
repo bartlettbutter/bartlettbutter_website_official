@@ -99,19 +99,15 @@
       <span><strong>BARTLETT</strong> BUTTER</span>
     </a>
     <div class="nav-actions">
-      <a href="/" class="nav-back nav-utility-card">
-        <span class="nav-utility-label">Navigation</span>
-        <span class="nav-utility-value">
-          <span aria-hidden="true">&larr;</span>
-          <span>Back to Home</span>
-        </span>
+      <a href="/" class="nav-back nav-action-link">
+        <span aria-hidden="true">&larr;</span>
+        <span>Back to Home</span>
       </a>
       {% if privacy_languages %}
-      <div class="language-picker nav-utility-card{% if privacy_languages.size == 1 %} language-picker--single{% endif %}">
-        <span class="language-picker-label nav-utility-label">Language</span>
+      <div class="language-picker{% if privacy_languages.size == 1 %} language-picker--single{% endif %}">
         {% if privacy_languages.size > 1 %}
         <details class="language-picker-menu">
-          <summary class="language-picker-summary nav-utility-value">
+          <summary class="language-picker-summary nav-action-link">
             <span{% if current_language %} lang="{{ current_language.code }}"{% endif %}>{{ current_language.label | default: first_privacy_language.label }}</span>
             <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
               <path d="M5 7.5 10 12.5 15 7.5" stroke-linecap="round" stroke-linejoin="round" />
@@ -128,7 +124,7 @@
           </nav>
         </details>
         {% else %}
-        <span class="language-picker-current nav-utility-value" lang="{{ first_privacy_language.code }}">{{ first_privacy_language.label }}</span>
+        <span class="language-picker-current nav-action-link" lang="{{ first_privacy_language.code }}">{{ first_privacy_language.label }}</span>
         {% endif %}
       </div>
       {% endif %}

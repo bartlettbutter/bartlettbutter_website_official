@@ -1,0 +1,283 @@
+{%- comment -%}
+  Homepage layout. The bespoke studio homepage, localized. All translatable
+  strings live in _data/home.yml keyed by language code; the language list and
+  endonym labels come from _data/languages.yml. English is served at the
+  un-suffixed root (/) and every other language at /<code>/.
+{%- endcomment -%}
+{%- assign lang = page.lang | default: "en" -%}
+{%- assign t = site.data.home[lang] -%}
+{%- assign home_languages = site.data.languages -%}
+{%- assign current_language = home_languages | where: "code", lang | first -%}
+{%- assign first_language = home_languages | first -%}
+<!DOCTYPE html>
+<html lang="{{ lang }}"{% if lang == 'ar' %} dir="rtl"{% endif %}>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ t.meta_title }}</title>
+  <meta name="description" content="{{ t.meta_description }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  {%- for option in home_languages -%}
+    {%- if option.code == "en" -%}{%- assign option_url = "/" -%}{%- else -%}{%- assign option_url = "/" | append: option.code | append: "/" -%}{%- endif %}
+  <link rel="alternate" hreflang="{{ option.code }}" href="{{ site.url }}{{ option_url }}">
+  {%- endfor %}
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/">
+  <meta name="theme-color" content="#030712">
+
+  <!-- Open Graph / social preview -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Bartlett Butter">
+  <meta property="og:title" content="{{ t.meta_title }}">
+  <meta property="og:description" content="{{ t.og_description }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/images/logo_footer.png">
+  <meta property="og:image:alt" content="Bartlett Butter logo">
+  <meta property="og:image:width" content="538">
+  <meta property="og:image:height" content="538">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ t.meta_title }}">
+  <meta name="twitter:description" content="{{ t.og_description }}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/images/logo_footer.png">
+  <meta name="twitter:image:alt" content="Bartlett Butter logo">
+
+  <!-- Structured data: studio-level Organization entity -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Bartlett Butter",
+    "url": "{{ site.url }}/",
+    "logo": "{{ site.url }}/assets/images/logo_header.png",
+    "description": {{ t.og_description | jsonify }},
+    "email": "contact@bartlettbutter.com"
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="icon" type="image/png" href="/assets/images/logo_header.png">
+  <!-- Preload the LCP hero wordmark so first paint doesn't wait on CSS/layout -->
+  <link rel="preload" as="image" href="/assets/images/logo_text_effect.png" fetchpriority="high">
+</head>
+<body id="top">
+
+  <a href="#main" class="skip-link">{{ t.skip_link }}</a>
+
+  <!-- Navigation -->
+  <nav class="nav">
+    <a href="#top" class="nav-logo">
+      <img src="/assets/images/logo_header.png" alt="Bartlett Butter" width="44" height="44">
+      <span class="brand-text"><strong>BARTLETT</strong> BUTTER</span>
+    </a>
+    <div class="nav-links" id="navLinks">
+      <a href="#works" class="nav-link">{{ t.nav_work }}</a>
+      <a href="#build" class="nav-link">{{ t.nav_about }}</a>
+      <a href="#contact" class="nav-link nav-link--cta">{{ t.nav_contact }}</a>
+      <div class="language-picker">
+        <details class="language-picker-menu">
+          <summary class="language-picker-summary">
+            <span lang="{{ current_language.code | default: first_language.code }}">{{ current_language.label | default: first_language.label }}</span>
+            <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+              <path d="M5 7.5 10 12.5 15 7.5" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </summary>
+          <nav class="language-picker-list" aria-label="{{ t.languages_aria }}">
+            {%- for option in home_languages -%}
+              {%- if option.code == "en" -%}{%- assign option_url = "/" -%}{%- else -%}{%- assign option_url = "/" | append: option.code | append: "/" -%}{%- endif %}
+              {% if option.code == lang %}
+            <span class="language-picker-option is-current" aria-current="page" lang="{{ option.code }}">{{ option.label }}</span>
+              {% else %}
+            <a class="language-picker-option" href="{{ option_url }}" hreflang="{{ option.code }}" lang="{{ option.code }}">{{ option.label }}</a>
+              {% endif %}
+            {%- endfor %}
+          </nav>
+        </details>
+      </div>
+    </div>
+    <button class="nav-hamburger" id="navHamburger" aria-label="{{ t.toggle_menu }}" aria-expanded="false" aria-controls="navLinks">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </nav>
+
+  <!-- Main content -->
+  <main id="main" tabindex="-1">
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <span class="hero-label">{{ t.hero_label }}</span>
+      <div class="hero-logo">
+        <div class="hero-logo-glow"></div>
+        <img src="/assets/images/logo_text_effect.png" alt="Bartlett Butter" width="220" height="220" fetchpriority="high">
+      </div>
+      <h1 class="hero-title">{{ t.hero_title }}</h1>
+      <p class="hero-subtitle">{{ t.hero_subtitle }}</p>
+      <div class="hero-ctas">
+        <a href="#works" class="hero-cta">
+          {{ t.hero_cta_primary }}
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+          </svg>
+        </a>
+        <a href="#build" class="hero-cta hero-cta--secondary">{{ t.hero_cta_secondary }}</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Works Section -->
+  <section id="works" class="section works">
+    <div class="section-inner">
+      <span class="section-label fade-in">{{ t.works_label }}</span>
+      <h2 class="section-title fade-in">{{ t.works_title }}</h2>
+      <div class="works-grid" role="group" aria-label="{{ t.works_dock_aria }}">
+
+        <a href="/marketing-url/solcast/" class="work-card fade-in" data-app-name="Solcast" aria-label="{{ t.open_app_prefix }} Solcast {{ t.open_app_suffix }}" title="Solcast">
+          <span class="work-card-icon">
+            <img src="/assets/app-icons/icon_Solcast.png" alt="Solcast" width="104" height="104" loading="lazy">
+          </span>
+        </a>
+
+        <a href="/marketing-url/etfwise/" class="work-card fade-in" data-app-name="ETFWise" aria-label="{{ t.open_app_prefix }} ETFWise {{ t.open_app_suffix }}" title="ETFWise">
+          <span class="work-card-icon">
+            <img src="/assets/app-icons/icon_ETFWise.png" alt="ETFWise" width="104" height="104" loading="lazy">
+          </span>
+        </a>
+
+        <a href="/marketing-url/barkpedia/" class="work-card fade-in" data-app-name="Barkpedia" aria-label="{{ t.open_app_prefix }} Barkpedia {{ t.open_app_suffix }}" title="Barkpedia">
+          <span class="work-card-icon">
+            <img src="/assets/app-icons/icon_Barkpedia.png" alt="Barkpedia" width="104" height="104" loading="lazy">
+          </span>
+        </a>
+
+        <a href="/marketing-url/nekopedia/" class="work-card fade-in" data-app-name="Nekopedia" aria-label="{{ t.open_app_prefix }} Nekopedia {{ t.open_app_suffix }}" title="Nekopedia">
+          <span class="work-card-icon">
+            <img src="/assets/app-icons/icon_Nekopedia.png" alt="Nekopedia" width="104" height="104" loading="lazy">
+          </span>
+        </a>
+
+        <a href="/marketing-url/formulalens/" class="work-card fade-in" data-app-name="FormulaLens" aria-label="{{ t.open_app_prefix }} FormulaLens {{ t.open_app_suffix }}" title="FormulaLens">
+          <span class="work-card-icon">
+            <img src="/assets/app-icons/icon_FormulaLens.png" alt="FormulaLens" width="104" height="104" loading="lazy">
+          </span>
+        </a>
+
+        <a href="/marketing-url/journeyfolio/" class="work-card fade-in" data-app-name="Journeyfolio" aria-label="{{ t.open_app_prefix }} Journeyfolio {{ t.open_app_suffix }}" title="Journeyfolio">
+          <span class="work-card-icon">
+            <img src="/assets/app-icons/icon_Journeyfolio.png" alt="Journeyfolio" width="104" height="104" loading="lazy">
+          </span>
+        </a>
+
+        <a href="/marketing-url/huepick/" class="work-card fade-in" data-app-name="Huepick" aria-label="{{ t.open_app_prefix }} Huepick {{ t.open_app_suffix }}" title="Huepick">
+          <span class="work-card-icon">
+            <img src="/assets/app-icons/icon_Huepick.png" alt="Huepick" width="104" height="104" loading="lazy">
+          </span>
+        </a>
+
+      </div>
+      <div id="about" class="works-story">
+        <div class="works-story-intro fade-in">
+          <h2 class="section-title">{{ t.story_title }}</h2>
+          <p class="about-intro-text">{{ t.story_intro }}</p>
+        </div>
+        <div class="works-story-grid">
+          <article class="works-story-card works-story-card--philosophy fade-in">
+            <h3 class="about-block-title">{{ t.philosophy_title }}</h3>
+            <div class="about-block-content">
+              <p>{{ t.philosophy_body }}</p>
+            </div>
+          </article>
+
+          <article class="works-story-card fade-in">
+            <h3 class="about-block-title">{{ t.focus_title }}</h3>
+            <ul class="about-list">
+              {%- for item in t.focus_items %}
+              <li>{{ item }}</li>
+              {%- endfor %}
+            </ul>
+          </article>
+
+          <article class="works-story-card fade-in">
+            <h3 class="about-block-title">{{ t.technology_title }}</h3>
+            <ul class="about-list">
+              {%- for item in t.technology_items %}
+              <li>{{ item }}</li>
+              {%- endfor %}
+            </ul>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How We Build Section -->
+  <section id="build" class="section how-we-build">
+    <div class="section-inner">
+      <span class="section-label fade-in">{{ t.build_label }}</span>
+      <h2 class="section-title fade-in">{{ t.build_title }}</h2>
+      <div class="build-grid">
+        {%- for step in t.build_steps %}
+        <div class="build-item fade-in">
+          <div class="build-number">{{ step.number }}</div>
+          <h3 class="build-item-title">{{ step.title }}</h3>
+          <p class="build-item-desc">{{ step.desc }}</p>
+        </div>
+        {%- endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="section contact">
+    <div class="section-inner contact-inner">
+      <span class="section-label fade-in">{{ t.contact_label }}</span>
+      <h2 class="section-title fade-in">{{ t.contact_title }}</h2>
+      <p class="contact-text fade-in">{{ t.contact_text_line1 }}<br>{{ t.contact_text_line2 }}</p>
+      <a href="mailto:contact@bartlettbutter.com" class="contact-email fade-in">contact@bartlettbutter.com</a>
+    </div>
+  </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <div class="footer-logo">
+            <img src="/assets/images/logo_footer.png" alt="Bartlett Butter">
+            <span class="brand-text"><strong>BARTLETT</strong> BUTTER</span>
+          </div>
+          <p class="footer-desc">{{ t.footer_desc }}</p>
+        </div>
+        <div class="footer-contact">
+          <p class="footer-contact-label">{{ t.footer_apps_label }}</p>
+          <div class="footer-apps">
+            <a href="/marketing-url/solcast/" class="footer-app-icon"><img src="/assets/app-icons/icon_Solcast.png" alt="Solcast" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/etfwise/" class="footer-app-icon"><img src="/assets/app-icons/icon_ETFWise.png" alt="ETFWise" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/barkpedia/" class="footer-app-icon"><img src="/assets/app-icons/icon_Barkpedia.png" alt="Barkpedia" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/nekopedia/" class="footer-app-icon"><img src="/assets/app-icons/icon_Nekopedia.png" alt="Nekopedia" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/formulalens/" class="footer-app-icon"><img src="/assets/app-icons/icon_FormulaLens.png" alt="FormulaLens" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/journeyfolio/" class="footer-app-icon"><img src="/assets/app-icons/icon_Journeyfolio.png" alt="Journeyfolio" width="36" height="36" loading="lazy"></a>
+            <a href="/marketing-url/huepick/" class="footer-app-icon"><img src="/assets/app-icons/icon_Huepick.png" alt="Huepick" width="36" height="36" loading="lazy"></a>
+          </div>
+          <a href="mailto:contact@bartlettbutter.com" class="footer-contact-email">contact@bartlettbutter.com</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p class="footer-copy">&copy; <span data-current-year>2026</span> Bartlett Butter. {{ t.footer_rights }}</p>
+        <div class="footer-links">
+          <a href="#works" class="footer-link">{{ t.nav_work }}</a>
+          <a href="#build" class="footer-link">{{ t.nav_about }}</a>
+          <a href="#contact" class="footer-link">{{ t.footer_contact_link }}</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+</body>
+</html>

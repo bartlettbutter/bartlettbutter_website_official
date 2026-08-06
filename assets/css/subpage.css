@@ -160,8 +160,11 @@ body {
 .app-header p {
   font-size: 16px;
   color: var(--color-text-muted);
-  max-width: 480px;
+  max-width: min(100%, 640px);
   margin: 0 auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /* App-level secondary nav — lets visitors who land from search or the

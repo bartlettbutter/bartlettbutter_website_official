@@ -4,5 +4,16 @@ description: "Crisp & Smooth Apps for Mobile and Web"
 url: "https://www.bartlettbutter.com"
 baseurl: ""
 
-# The homepage (index.html) is rendered through the `home` layout with
-# translations from _data/home.yml, like the rest of the localized site.
+# ──────────────────────────────────────────────────────────────────────
+# Project structure (source → published URL via permalink front matter)
+# ──────────────────────────────────────────────────────────────────────
+#
+# pages/home/          Homepage in each language  →  / and /<lang>/
+# apps/<app>/
+#   marketing-url/     Marketing pages per lang   →  /marketing-url/<app>/[<lang>/]
+#   privacy-policies/  Privacy policies per lang  →  /privacy-policies/<app>/[<lang>/]
+#   support-url/       Support pages per lang     →  /support-url/<app>/[<lang>/]
+#
+# Each file is named by its language code (en.md, ja.md, ar.md, etc.)
+# and uses `permalink` to preserve the original published URL.
+# ──────────────────────────────────────────────────────────────────────

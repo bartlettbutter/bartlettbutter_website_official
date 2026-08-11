@@ -750,10 +750,24 @@ a:focus-visible {
     font-size: 13px;
   }
 
+  /* Anchor the language menu to the viewport instead of the summary so the
+     full endonym list is always reachable. The sticky .nav owns a
+     backdrop-filter, which makes it the containing block for this fixed
+     element, so `100%` resolves to the (possibly two-row) nav height and the
+     panel self-adjusts: it opens just below the nav and never runs off the
+     bottom of the screen — the last languages (Türkçe, Nederlands) stay
+     scrollable into view. */
   .language-picker-list {
-    min-width: 200px;
-    max-width: min(88vw, 280px);
-    max-height: calc(100dvh - 96px);
+    position: fixed;
+    top: calc(100% + 12px);
+    right: 16px;
+    left: auto;
+    inset-inline-end: 16px;
+    inset-inline-start: auto;
+    width: min(88vw, 280px);
+    min-width: 0;
+    max-width: none;
+    max-height: calc(100dvh - 100% - 28px);
   }
 
   .language-picker-option {

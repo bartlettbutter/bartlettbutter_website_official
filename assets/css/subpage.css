@@ -517,24 +517,40 @@ body {
 
 /* ─── Responsive ─── */
 @media (max-width: 768px) {
+  /* Force the header onto a single row on phones. The base .nav uses
+     flex-wrap: wrap, so when the logo + actions don't fit they wrap the
+     actions onto a second row. Disabling wrap keeps them on one line. */
   .nav {
     padding: 16px 20px;
+    flex-wrap: nowrap;
   }
 
-  /* Keep the logo on the left and both action buttons on the right within a
-     single row on phones, rather than dropping the actions onto a second row. */
+  /* Let the logo/wordmark shrink (and truncate) if space is tight so it never
+     pushes the action buttons down to a second row. */
+  .nav-logo {
+    min-width: 0;
+    flex-shrink: 1;
+  }
+
+  /* Keep both action buttons on the right, on one line, at full size — the
+     logo yields space instead of the actions wrapping. */
   .nav-actions {
     width: auto;
     margin-left: auto;
     justify-content: flex-end;
     gap: 12px;
     row-gap: 2px;
+    flex-wrap: nowrap;
+    flex-shrink: 0;
   }
 
   /* Compact the sticky subpage header so the logo, wordmark, and back link
      don't crowd or shrink tap targets on smaller screens. */
   .nav-logo span {
     font-size: 14px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   .app-header {

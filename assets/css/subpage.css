@@ -521,11 +521,13 @@ body {
     padding: 16px 20px;
   }
 
+  /* Keep the logo on the left and both action buttons on the right within a
+     single row on phones, rather than dropping the actions onto a second row. */
   .nav-actions {
-    width: 100%;
-    margin-left: 0;
-    justify-content: flex-start;
-    gap: 16px;
+    width: auto;
+    margin-left: auto;
+    justify-content: flex-end;
+    gap: 12px;
     row-gap: 2px;
   }
 

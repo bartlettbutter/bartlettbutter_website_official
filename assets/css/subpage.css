@@ -412,24 +412,75 @@ body {
   height: auto;
 }
 
-/* App Store badge styling */
+/* Store badges — App Store badge is authored in markdown; the Google Play
+   badge and the "in progress" note are injected by subpage.js. The badge is
+   left-aligned (per brand direction) and the two badges sit side by side. */
 .content-body a[href*="apps.apple.com"] {
-  display: block;
-  text-align: center;
+  display: inline-flex;
+  align-items: center;
   margin: 32px 0;
   text-decoration: none;
 }
 
-.content-body a[href*="apps.apple.com"] img {
-  display: inline-block;
+.content-body a[href*="apps.apple.com"] img,
+.content-body .store-badge-play img {
+  display: block;
   height: 48px;
   width: auto;
   transition: opacity 200ms ease, transform 200ms ease;
 }
 
-.content-body a[href*="apps.apple.com"] img:hover {
+.content-body a[href*="apps.apple.com"] img:hover,
+.content-body .store-badge-play:hover img {
   opacity: 0.8;
   transform: scale(1.03);
+}
+
+/* Flex row that wraps both badges once JS has enhanced the page. */
+.content-body .store-badges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+  margin: 32px 0;
+}
+
+/* Inside the row the anchor no longer owns the vertical margin. */
+.content-body .store-badges a[href*="apps.apple.com"] {
+  margin: 0;
+}
+
+/* Google Play badge — a button because it triggers an in-page message
+   rather than navigating (the app is not on Google Play yet). */
+.content-body .store-badge-play {
+  display: inline-flex;
+  align-items: center;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  font: inherit;
+  line-height: 0;
+}
+
+/* "Development in progress" note, revealed when the Play badge is clicked. */
+.store-badge-note {
+  display: inline-flex;
+  align-items: center;
+  font-size: 14px;
+  color: var(--color-text-muted);
+  background: var(--color-bg-subtle);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 6px 12px;
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity 200ms ease, transform 200ms ease;
+}
+
+.store-badge-note.is-visible {
+  opacity: 1;
+  transform: none;
 }
 
 /* Mobile table overflow */

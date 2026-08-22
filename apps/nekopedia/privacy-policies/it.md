@@ -10,7 +10,7 @@ permalink: /privacy-policies/nekopedia/it/
 
 **Data di entrata in vigore:** 13 giugno 2026
 
-Nekopedia ("l'App") è un'applicazione iOS gratuita che identifica le razze di gatti dalle foto. La tua privacy è fondamentale nel modo in cui abbiamo costruito questa app. Ecco esattamente come vengono gestite le tue informazioni.
+Nekopedia ("l'App") è un'applicazione iOS gratuita che identifica le razze di gatti dalle foto. La privacy qui non è un ripensamento, è il modo in cui l'App è stata costruita fin dal primo giorno. Questa informativa spiega, in un linguaggio semplice, esattamente come vengono gestite le tue informazioni. In breve: restano con te.
 
 ## Versione Breve
 

@@ -9,7 +9,7 @@ permalink: /support-url/nekopedia/es/
 
 # ¿Cómo podemos ayudarte?
 
-Estamos aquí para ayudarte a sacar el máximo provecho de Nekopedia. Explora las respuestas a continuación o contáctanos directamente si no encuentras lo que necesitas.
+¿Tienes algún problema o simplemente sientes curiosidad por saber cómo funciona algo? Estás en el lugar correcto. La mayoría de las preguntas se responden a continuación y, si aún necesitas ayuda, estamos a solo un correo de distancia, leemos todos los mensajes.
 
 ## Primeros Pasos
 
@@ -41,11 +41,11 @@ Todo el historial de escaneos y los favoritos se almacenan únicamente en tu dis
 
 ### ¿Cómo guardo y veo los favoritos?
 
-Después de escanear un gato, toca el icono de corazón en la tarjeta de resultados para guardarlo. Tus escaneos guardados aparecen en la pestaña Favoritos como una galería. Toca cualquier escaneo guardado para revisar los detalles de la raza.
+Después de escanear un gato, toca el icono de corazón en la tarjeta de resultados para guardarlo. Tus escaneos guardados aparecen en la pestaña Favoritos como una galería. Toca cualquier escaneo guardado para revisar los detalles de la raza. También puedes mantener pulsado un escaneo para fijar tus favoritos en la parte superior.
 
 ### ¿Cómo elimino los favoritos guardados?
 
-Para eliminar todos los datos de la aplicación, desinstala Nekopedia de tu dispositivo. Todos los datos almacenados localmente se eliminan automáticamente al desinstalar la aplicación.
+Mantén pulsado cualquier escaneo guardado en la pestaña Favoritos y elige eliminar en el menú para quitar ese escaneo individual. Para borrarlo todo de una vez, desinstala Nekopedia de tu dispositivo; todos los datos almacenados localmente se eliminan automáticamente al desinstalar la aplicación.
 
 ### ¿Qué ocurre si elimino la aplicación?
 
@@ -101,7 +101,7 @@ Asegúrate de estar ejecutando la última versión de la App Store, luego reinic
 
 ## Compatibilidad
 
-Nekopedia requiere iOS 16.0 o posterior y funciona tanto en iPhone como en iPad.
+Nekopedia requiere iOS 18.0 o posterior y funciona tanto en iPhone como en iPad.
 
 ## Contáctanos
 

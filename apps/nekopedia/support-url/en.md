@@ -8,7 +8,7 @@ permalink: /support-url/nekopedia/
 
 # How can we help?
 
-We're here to help you get the most out of Nekopedia. Browse the answers below, or reach out directly if you can't find what you need.
+Having trouble, or just curious how something works? You're in the right place. Most questions are answered below, and if you still need a hand, we're only an email away, we read every message.
 
 ## Getting Started
 
@@ -40,11 +40,11 @@ All scan history and favorites are stored locally on your device only. Nothing i
 
 ### How do I save and view favorites?
 
-After scanning a cat, tap the heart icon on the result card to save it. Your saved scans appear in the Favorites tab as a gallery. Tap any saved scan to revisit the breed details.
+After scanning a cat, tap the heart icon on the result card to save it. Your saved scans appear in the Favorites tab as a gallery. Tap any saved scan to revisit the breed details. You can also press and hold a scan to pin your favorites to the top.
 
 ### How do I delete saved favorites?
 
-To remove all app data, delete Nekopedia from your device. All locally stored data is removed automatically when the app is uninstalled.
+Press and hold any saved scan in the Favorites tab, then choose delete from the menu to remove that individual scan. To clear everything at once, delete Nekopedia from your device, all locally stored data is removed automatically when the app is uninstalled.
 
 ### What happens if I delete the app?
 
@@ -100,7 +100,7 @@ Make sure you're running the latest version from the App Store, then restart you
 
 ## Compatibility
 
-Nekopedia requires iOS 16.0 or later and runs on both iPhone and iPad.
+Nekopedia requires iOS 18.0 or later and runs on both iPhone and iPad.
 
 ## Contact Us
 

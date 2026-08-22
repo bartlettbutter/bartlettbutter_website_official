@@ -9,7 +9,7 @@ permalink: /support-url/nekopedia/pt/
 
 # Como podemos ajudar?
 
-Estamos aqui para ajudar você a aproveitar ao máximo o Nekopedia. Navegue pelas respostas abaixo ou entre em contato diretamente se não encontrar o que precisa.
+Está com algum problema ou apenas curioso sobre como algo funciona? Você está no lugar certo. A maioria das perguntas é respondida abaixo e, se ainda precisar de ajuda, estamos a apenas um e-mail de distância, lemos todas as mensagens.
 
 ## Primeiros Passos
 
@@ -41,11 +41,11 @@ Todo o histórico de escaneamento e os favoritos são armazenados apenas no seu 
 
 ### Como salvo e visualizo os favoritos?
 
-Depois de escanear um gato, toque no ícone de coração no cartão de resultado para salvá-lo. Seus escaneamentos salvos aparecem na aba Favoritos como uma galeria. Toque em qualquer escaneamento salvo para rever os detalhes da raça.
+Depois de escanear um gato, toque no ícone de coração no cartão de resultado para salvá-lo. Seus escaneamentos salvos aparecem na aba Favoritos como uma galeria. Toque em qualquer escaneamento salvo para rever os detalhes da raça. Você também pode manter pressionado um escaneamento para fixar seus favoritos no topo.
 
 ### Como excluo os favoritos salvos?
 
-Para remover todos os dados do aplicativo, exclua o Nekopedia do seu dispositivo. Todos os dados armazenados localmente são removidos automaticamente quando o aplicativo é desinstalado.
+Mantenha pressionado qualquer escaneamento salvo na aba Favoritos e escolha excluir no menu para remover esse escaneamento individual. Para limpar tudo de uma vez, exclua o Nekopedia do seu dispositivo; todos os dados armazenados localmente são removidos automaticamente quando o aplicativo é desinstalado.
 
 ### O que acontece se eu excluir o aplicativo?
 
@@ -101,7 +101,7 @@ Certifique-se de estar usando a versão mais recente da App Store, depois reinic
 
 ## Compatibilidade
 
-O Nekopedia requer iOS 16.0 ou posterior e funciona tanto no iPhone quanto no iPad.
+O Nekopedia requer iOS 18.0 ou posterior e funciona tanto no iPhone quanto no iPad.
 
 ## Fale Conosco
 

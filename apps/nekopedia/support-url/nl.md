@@ -9,7 +9,7 @@ permalink: /support-url/nekopedia/nl/
 
 # Hoe kunnen we helpen?
 
-We zijn er om je te helpen het meeste uit Nekopedia te halen. Blader door de antwoorden hieronder of neem rechtstreeks contact op als je niet vindt wat je nodig hebt.
+Zit je met een probleem of ben je gewoon benieuwd hoe iets werkt? Je bent hier aan het juiste adres. De meeste vragen worden hieronder beantwoord, en heb je toch nog hulp nodig, dan zijn we slechts één e-mail verwijderd, we lezen elk bericht.
 
 ## Aan de Slag
 
@@ -41,11 +41,11 @@ Alle scangeschiedenis en favorieten worden alleen op je apparaat opgeslagen. Er 
 
 ### Hoe bewaar en bekijk ik favorieten?
 
-Nadat je een kat hebt gescand, tik je op het hartpictogram op de resultaatkaart om deze op te slaan. Je opgeslagen scans verschijnen in het tabblad Favorieten als een galerij. Tik op een opgeslagen scan om de rasdetails opnieuw te bekijken.
+Nadat je een kat hebt gescand, tik je op het hartpictogram op de resultaatkaart om deze op te slaan. Je opgeslagen scans verschijnen in het tabblad Favorieten als een galerij. Tik op een opgeslagen scan om de rasdetails opnieuw te bekijken. Je kunt ook een scan ingedrukt houden om je favorieten bovenaan vast te zetten.
 
 ### Hoe verwijder ik opgeslagen favorieten?
 
-Om alle appgegevens te verwijderen, verwijder je Nekopedia van je apparaat. Alle lokaal opgeslagen gegevens worden automatisch verwijderd wanneer de app wordt gede-installeerd.
+Houd een opgeslagen scan in het tabblad Favorieten ingedrukt en kies vervolgens verwijderen in het menu om die afzonderlijke scan te verwijderen. Om alles in één keer te wissen, verwijder je Nekopedia van je apparaat; alle lokaal opgeslagen gegevens worden automatisch verwijderd wanneer de app wordt gede-installeerd.
 
 ### Wat gebeurt er als ik de app verwijder?
 
@@ -101,7 +101,7 @@ Zorg ervoor dat je de nieuwste versie uit de App Store gebruikt, start dan je ap
 
 ## Compatibiliteit
 
-Nekopedia vereist iOS 16.0 of hoger en werkt zowel op iPhone als iPad.
+Nekopedia vereist iOS 18.0 of hoger en werkt zowel op iPhone als iPad.
 
 ## Neem Contact Op
 

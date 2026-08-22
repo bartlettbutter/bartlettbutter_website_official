@@ -9,7 +9,7 @@ permalink: /support-url/nekopedia/it/
 
 # Come possiamo aiutarti?
 
-Siamo qui per aiutarti a ottenere il massimo da Nekopedia. Sfoglia le risposte qui sotto o contattaci direttamente se non trovi ciò di cui hai bisogno.
+Un problema, o semplice curiosità su come funziona qualcosa? Sei nel posto giusto. Alla maggior parte delle domande trovi risposta qui sotto e, se hai ancora bisogno di una mano, siamo a una sola e-mail di distanza, leggiamo ogni messaggio.
 
 ## Per Iniziare
 
@@ -41,11 +41,11 @@ Tutta la cronologia delle scansioni e i preferiti vengono memorizzati solo sul t
 
 ### Come salvo e visualizzo i preferiti?
 
-Dopo aver scansionato un gatto, tocca l'icona a forma di cuore sulla scheda del risultato per salvarlo. Le tue scansioni salvate appaiono nella scheda Preferiti come una galleria. Tocca una qualsiasi scansione salvata per rivedere i dettagli della razza.
+Dopo aver scansionato un gatto, tocca l'icona a forma di cuore sulla scheda del risultato per salvarlo. Le tue scansioni salvate appaiono nella scheda Preferiti come una galleria. Tocca una qualsiasi scansione salvata per rivedere i dettagli della razza. Puoi anche tenere premuta una scansione per fissare i tuoi preferiti in alto.
 
 ### Come elimino i preferiti salvati?
 
-Per rimuovere tutti i dati dell'app, elimina Nekopedia dal tuo dispositivo. Tutti i dati memorizzati localmente vengono rimossi automaticamente quando l'app viene disinstallata.
+Tieni premuta una qualsiasi scansione salvata nella scheda Preferiti, poi scegli elimina dal menu per rimuovere quella singola scansione. Per cancellare tutto in una volta, elimina Nekopedia dal tuo dispositivo; tutti i dati memorizzati localmente vengono rimossi automaticamente quando l'app viene disinstallata.
 
 ### Cosa succede se elimino l'app?
 
@@ -101,7 +101,7 @@ Assicurati di utilizzare la versione più recente dall'App Store, quindi riavvia
 
 ## Compatibilità
 
-Nekopedia richiede iOS 16.0 o successivo e funziona sia su iPhone che su iPad.
+Nekopedia richiede iOS 18.0 o successivo e funziona sia su iPhone che su iPad.
 
 ## Contattaci
 

@@ -8,24 +8,30 @@ lang: fr
 permalink: /marketing-url/nekopedia/fr/
 ---
 
-# Quelle race est ce chat ? Pointez simplement votre appareil photo.
+# Quelle race est ce chat ? Pointez votre appareil photo et découvrez-le.
 
-Nekopedia identifie les races de chats instantanément : prenez une photo ou choisissez-en une dans votre galerie et obtenez une correspondance parmi 48 races reconnues en quelques secondes. Aucune connexion internet nécessaire, aucun compte requis, et entièrement gratuit.
+Voici Nekopedia, l'encyclopédie féline de poche qui nomme n'importe quelle race en quelques secondes. Prenez une photo ou choisissez-en une dans votre galerie et obtenez une correspondance instantanée parmi 48 races reconnues. Pas d'internet, pas de compte, pas de frais.
+
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
 
 ## Pourquoi les amoureux des chats choisissent Nekopedia
 
-- **Des réponses instantanées, partout.** Identifiez 48 races en quelques secondes : dans un café, au refuge ou sur votre canapé. Fonctionne entièrement hors ligne, même sans Wi-Fi.
-- **Votre vie privée avant tout.** Les photos ne quittent jamais votre appareil. Aucun compte, aucun suivi, aucune publicité. Point final.
-- **Gratuit pour toujours.** Aucun abonnement, aucun achat intégré, aucun péage. Téléchargez-le une fois et profitez de toutes les fonctionnalités.
-- **Apprenez, explorez et jouez.** Allez au-delà de l'identification avec des profils de races détaillés, une carte du monde interactive et des jeux-questionnaires qui testent (et développent) vos connaissances félines.
+- **Des réponses en quelques secondes, partout.** Identifiez une race au café, au refuge ou sur votre propre canapé. Tout se passe sur votre appareil, alors ça fonctionne même sans Wi-Fi.
+- **Vos photos restent les vôtres.** Les images ne quittent jamais votre appareil. Aucun compte, aucun suivi, aucune publicité. Jamais.
+- **Gratuit, sans rien retenir.** Aucun abonnement, aucun achat intégré, aucun péage. Toutes les fonctionnalités sont à vous dès le premier appui.
+- **Bien plus qu'un nom.** Plongez dans des profils de races riches, parcourez une carte du monde interactive et aiguisez votre œil avec des jeux-questionnaires et d'anecdotes.
 
 ## Plus à découvrir
 
-Nekopedia va au-delà de l'identification. Chaque race que vous scannez est accompagnée d'un profil détaillé comprenant le tempérament, l'origine, l'histoire, l'espérance de vie, le poids, la taille et des photos, couvrant les 48 races.
+Chaque scan ouvre la porte à un profil de race complet : tempérament, origine, histoire, espérance de vie, poids, taille et photos, pour les 48 races.
 
-Envie de parcourir ? L'onglet Explorer vous permet de rechercher les 48 races par nom ou d'explorer une carte du monde interactive montrant l'origine de chaque race. Vous pouvez également enregistrer vos résultats de scan dans les Favoris et les revoir à tout moment, le tout stocké localement sur votre appareil.
+Envie de parcourir ? L'onglet Explorer vous permet de rechercher des races par nom ou de vous promener sur une carte du monde interactive qui montre où chacune a commencé. Un résultat vous plaît ? Enregistrez-le dans les Favoris et revenez quand vous voulez, le tout stocké en toute confidentialité sur votre appareil.
 
-Pour un défi, essayez le Quiz des Races. Chaque manche comporte 10 questions où vous devinez la race à partir d'une photo et de quatre choix. Vous pensez distinguer votre Siamois de votre Birman ? Mettez vos connaissances à l'épreuve et gagnez des titres de récompense. Ou jouez aux Anecdotes Félines, des manches de vrai ou faux mêlant de vrais faits sur les chats à des mythes plausibles pour voir à quel point vous connaissez vraiment les chats.
+Prêt à relever un défi ? Le Quiz des Races vous donne une photo et quatre choix, dix manches à la fois, et décerne des titres de récompense au fil de votre progression. Distinguez-vous un Siamois d'un Birman ? Ou passez aux Anecdotes Félines, des manches de vrai ou faux qui mêlent de vrais faits félins à des mythes tentants pour voir à quel point votre flair félin est affûté.
+
+## Parle votre langue
+
+Nekopedia est entièrement localisée en 14 langues : les noms des races, les profils, les anecdotes et toute l'interface s'adaptent à votre appareil, mises en page de droite à gauche comprises. Explorez le monde des chats dans la langue où vous êtes le plus à l'aise.
 
 ## Comment ça marche
 
@@ -33,11 +39,15 @@ Pour un défi, essayez le Quiz des Races. Chaque manche comporte 10 questions o�
 2. **Prenez une photo** de n'importe quel chat, ou choisissez-en une dans votre galerie
 3. **Obtenez votre résultat** avec le nom de la race, le score de confiance, les correspondances alternatives et un profil de race détaillé
 
+## Commencez à identifier des chats dès aujourd'hui
+
+C'est gratuit, privé et prêt dès que vous l'ouvrez.
+
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
 
 ## Compatibilité
 
-iOS 16.0 ou version ultérieure · iPhone et iPad
+iOS 18.0 ou version ultérieure · iPhone et iPad
 
 ## Votre vie privée, protégée
 

@@ -7,24 +7,30 @@ app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 permalink: /marketing-url/nekopedia/
 ---
 
-# What breed is that cat? Just point your camera.
+# What breed is that cat? Point your camera and find out.
 
-Nekopedia identifies cat breeds instantly — snap a photo or pick one from your library and get a match from 48 recognized breeds in seconds. No internet needed, no account required, and completely free.
+Meet Nekopedia, the pocket cat encyclopedia that names any breed in seconds. Snap a photo or pick one from your library and get an instant match across 48 recognized breeds. No internet, no account, no cost.
+
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
 
 ## Why cat lovers choose Nekopedia
 
-- **Instant answers, anywhere.** Identify 48 breeds in seconds — at a café, the shelter, or your couch. Works completely offline, even without Wi-Fi.
-- **Your privacy comes first.** Photos never leave your device. No accounts, no tracking, no ads. Period.
-- **Free forever.** No subscriptions, no in-app purchases, no paywalls. Download once and enjoy every feature.
-- **Learn, explore, and play.** Go beyond identification with detailed breed profiles, an interactive world map, and quiz games that test (and grow) your cat knowledge.
+- **Answers in seconds, anywhere.** Identify a breed at the café, the shelter, or your own couch. Everything happens right on your device, so it works even with no Wi-Fi.
+- **Your photos stay yours.** Pictures never leave your device. No accounts, no tracking, no ads. Ever.
+- **Free, with nothing held back.** No subscriptions, no in-app purchases, no paywalls. Every feature is yours from the first tap.
+- **Way more than a name.** Dig into rich breed profiles, roam an interactive world map, and sharpen your eye with quiz and trivia games.
 
 ## More to discover
 
-Nekopedia goes beyond identification. Every breed you scan comes with a detailed profile including temperament, origin, history, life span, weight, height, and photos, covering all 48 breeds.
+Every scan opens the door to a full breed profile: temperament, origin, history, life span, weight, height, and photos, for all 48 breeds.
 
-Want to browse? The Explore tab lets you search all 48 breeds by name or explore an interactive world map showing where each breed originated. You can also save your scan results to Favorites and revisit them anytime, all stored locally on your device.
+Feel like browsing? The Explore tab lets you search breeds by name or wander an interactive world map that shows where each one began. Love a result? Save it to Favorites and come back anytime, all kept privately on your device.
 
-For a challenge, try the Breed Quiz. Each round has 10 questions where you guess the breed from a photo and four choices. Think you know your Siamese from your Birman? Put your knowledge to the test and earn reward titles. Or play Cat Trivia, true-or-false rounds mixing real cat facts with plausible myths to see how well you really know cats.
+Ready for a challenge? The Breed Quiz gives you a photo and four choices, ten rounds at a time, and hands out reward titles as you climb. Can you tell a Siamese from a Birman? Or switch to Cat Trivia, true-or-false rounds that mix real feline facts with tempting myths to see how sharp your cat sense really is.
+
+## Speaks your language
+
+Nekopedia is fully localized in 14 languages: breed names, profiles, trivia, and the entire interface adapt to your device, right-to-left layouts included. Explore the world of cats in the language you're most at home in.
 
 ## How it works
 
@@ -32,11 +38,15 @@ For a challenge, try the Breed Quiz. Each round has 10 questions where you guess
 2. **Snap a photo** of any cat, or choose one from your library
 3. **Get your result** including the breed name, confidence score, alternative matches, and a detailed breed profile
 
+## Start identifying cats today
+
+It's free, private, and ready the moment you open it.
+
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
 
 ## Compatibility
 
-iOS 16.0 or later · iPhone and iPad
+iOS 18.0 or later · iPhone and iPad
 
 ## Your privacy, protected
 

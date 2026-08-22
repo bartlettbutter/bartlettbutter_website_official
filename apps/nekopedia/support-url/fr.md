@@ -9,7 +9,7 @@ permalink: /support-url/nekopedia/fr/
 
 # Comment pouvons-nous vous aider ?
 
-Nous sommes là pour vous aider à tirer le meilleur parti de Nekopedia. Parcourez les réponses ci-dessous ou contactez-nous directement si vous ne trouvez pas ce dont vous avez besoin.
+Un souci, ou simplement curieux de savoir comment quelque chose fonctionne ? Vous êtes au bon endroit. La plupart des questions trouvent leur réponse ci-dessous et, s'il vous faut encore un coup de main, nous ne sommes qu'à un e-mail, nous lisons chaque message.
 
 ## Premiers Pas
 
@@ -41,11 +41,11 @@ Tout l'historique des scans et les favoris sont stockés uniquement sur votre ap
 
 ### Comment enregistrer et consulter les favoris ?
 
-Après avoir scanné un chat, touchez l'icône en forme de cœur sur la carte de résultat pour l'enregistrer. Vos scans enregistrés apparaissent dans l'onglet Favoris sous forme de galerie. Touchez n'importe quel scan enregistré pour revoir les détails de la race.
+Après avoir scanné un chat, touchez l'icône en forme de cœur sur la carte de résultat pour l'enregistrer. Vos scans enregistrés apparaissent dans l'onglet Favoris sous forme de galerie. Touchez n'importe quel scan enregistré pour revoir les détails de la race. Vous pouvez aussi appuyer de manière prolongée sur un scan pour épingler vos favoris en haut.
 
 ### Comment supprimer les favoris enregistrés ?
 
-Pour supprimer toutes les données de l'application, désinstallez Nekopedia de votre appareil. Toutes les données stockées localement sont supprimées automatiquement lors de la désinstallation de l'application.
+Appuyez de manière prolongée sur n'importe quel scan enregistré dans l'onglet Favoris, puis choisissez supprimer dans le menu pour retirer ce scan individuel. Pour tout effacer d'un coup, désinstallez Nekopedia de votre appareil ; toutes les données stockées localement sont supprimées automatiquement lors de la désinstallation de l'application.
 
 ### Que se passe-t-il si je supprime l'application ?
 
@@ -101,7 +101,7 @@ Assurez-vous d'utiliser la dernière version de l'App Store, puis redémarrez vo
 
 ## Compatibilité
 
-Nekopedia nécessite iOS 16.0 ou version ultérieure et fonctionne à la fois sur iPhone et iPad.
+Nekopedia nécessite iOS 18.0 ou version ultérieure et fonctionne à la fois sur iPhone et iPad.
 
 ## Nous Contacter
 

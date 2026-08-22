@@ -10,7 +10,7 @@ permalink: /privacy-policies/nekopedia/tr/
 
 **Yürürlük Tarihi:** 13 Haziran 2026
 
-Nekopedia ("Uygulama") fotoğraflardan kedi ırklarını tanımlayan ücretsiz bir iOS uygulamasıdır. Gizliliğiniz bu uygulamayı nasıl geliştirdiğimizin temelidir. İşte bilgilerinizin tam olarak nasıl işlendiği.
+Nekopedia ("Uygulama") fotoğraflardan kedi ırklarını tanımlayan ücretsiz bir iOS uygulamasıdır. Gizlilik burada sonradan akla gelen bir şey değil, Uygulamanın ilk günden itibaren nasıl geliştirildiğinin ta kendisidir. Bu politika, bilgilerinizin tam olarak nasıl işlendiğini sade bir dille açıklar. Kısacası: bilgileriniz sizde kalır.
 
 ## Kısa Versiyon
 

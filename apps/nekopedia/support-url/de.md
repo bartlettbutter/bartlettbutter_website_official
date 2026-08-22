@@ -9,7 +9,7 @@ permalink: /support-url/nekopedia/de/
 
 # Wie können wir dir helfen?
 
-Wir sind hier, um dir zu helfen, das Beste aus Nekopedia herauszuholen. Durchstöbere die Antworten unten oder wende dich direkt an uns, wenn du nicht findest, was du brauchst.
+Ein Problem, oder einfach neugierig, wie etwas funktioniert? Du bist hier richtig. Die meisten Fragen werden unten beantwortet, und falls du noch Hilfe brauchst, sind wir nur eine E-Mail entfernt, wir lesen jede Nachricht.
 
 ## Erste Schritte
 
@@ -41,11 +41,11 @@ Der gesamte Scan-Verlauf und die Favoriten werden ausschließlich lokal auf dein
 
 ### Wie speichere und sehe ich Favoriten?
 
-Nachdem du eine Katze gescannt hast, tippe auf das Herzsymbol auf der Ergebniskarte, um sie zu speichern. Deine gespeicherten Scans erscheinen im Tab Favoriten als Galerie. Tippe auf einen beliebigen gespeicherten Scan, um die Rassendetails erneut anzusehen.
+Nachdem du eine Katze gescannt hast, tippe auf das Herzsymbol auf der Ergebniskarte, um sie zu speichern. Deine gespeicherten Scans erscheinen im Tab Favoriten als Galerie. Tippe auf einen beliebigen gespeicherten Scan, um die Rassendetails erneut anzusehen. Du kannst einen Scan auch gedrückt halten, um deine Favoriten oben anzuheften.
 
 ### Wie lösche ich gespeicherte Favoriten?
 
-Um alle App-Daten zu entfernen, lösche Nekopedia von deinem Gerät. Alle lokal gespeicherten Daten werden bei der Deinstallation der App automatisch entfernt.
+Halte einen beliebigen gespeicherten Scan im Tab Favoriten gedrückt und wähle im Menü Löschen, um diesen einzelnen Scan zu entfernen. Um alles auf einmal zu löschen, entferne Nekopedia von deinem Gerät; alle lokal gespeicherten Daten werden bei der Deinstallation der App automatisch entfernt.
 
 ### Was passiert, wenn ich die App lösche?
 
@@ -101,7 +101,7 @@ Stelle sicher, dass du die neueste Version aus dem App Store verwendest, starte 
 
 ## Kompatibilität
 
-Nekopedia erfordert iOS 16.0 oder neuer und läuft sowohl auf iPhone als auch iPad.
+Nekopedia erfordert iOS 18.0 oder neuer und läuft sowohl auf iPhone als auch iPad.
 
 ## Kontakt
 

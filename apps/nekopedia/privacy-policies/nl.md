@@ -10,7 +10,7 @@ permalink: /privacy-policies/nekopedia/nl/
 
 **Ingangsdatum:** 13 juni 2026
 
-Nekopedia ("de App") is een gratis iOS-applicatie die kattenrassen identificeert aan de hand van foto's. Uw privacy staat centraal in hoe we deze app hebben gebouwd. Hier leest u precies hoe uw informatie wordt verwerkt.
+Nekopedia ("de App") is een gratis iOS-applicatie die kattenrassen identificeert aan de hand van foto's. Privacy is hier geen bijzaak, maar de manier waarop de App vanaf dag één is gebouwd. Dit beleid legt in gewone taal precies uit hoe uw informatie wordt verwerkt. Kort samengevat: die blijft bij u.
 
 ## Korte Versie
 

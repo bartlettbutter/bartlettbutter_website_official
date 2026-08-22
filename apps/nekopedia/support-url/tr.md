@@ -9,7 +9,7 @@ permalink: /support-url/nekopedia/tr/
 
 # Size nasıl yardımcı olabiliriz?
 
-Nekopedia'dan en iyi şekilde yararlanmanıza yardımcı olmak için buradayız. Aşağıdaki yanıtlara göz atın veya ihtiyacınız olanı bulamazsanız doğrudan bize ulaşın.
+Bir sorun mu var, yoksa yalnızca bir şeyin nasıl çalıştığını mı merak ediyorsunuz? Doğru yerdesiniz. Soruların çoğu aşağıda yanıtlanıyor ve yine de bir yardıma ihtiyacınız olursa, yalnızca bir e-posta uzağınızdayız, her mesajı okuyoruz.
 
 ## Başlarken
 
@@ -41,11 +41,11 @@ Tüm tarama geçmişi ve favoriler yalnızca cihazınızda saklanır. Hiçbir ş
 
 ### Favorileri nasıl kaydeder ve görüntülerim?
 
-Bir kediyi taradıktan sonra kaydetmek için sonuç kartındaki kalp simgesine dokunun. Kaydettiğiniz taramalar Favoriler sekmesinde bir galeri olarak görünür. Irk ayrıntılarını yeniden görmek için herhangi bir kaydedilmiş taramaya dokunun.
+Bir kediyi taradıktan sonra kaydetmek için sonuç kartındaki kalp simgesine dokunun. Kaydettiğiniz taramalar Favoriler sekmesinde bir galeri olarak görünür. Irk ayrıntılarını yeniden görmek için herhangi bir kaydedilmiş taramaya dokunun. Favorilerinizi en üste sabitlemek için bir taramaya basılı da tutabilirsiniz.
 
 ### Kaydedilen favorileri nasıl silerim?
 
-Tüm uygulama verilerini kaldırmak için Nekopedia'yı cihazınızdan silin. Uygulama kaldırıldığında yerel olarak saklanan tüm veriler otomatik olarak kaldırılır.
+Favoriler sekmesinde herhangi bir kaydedilmiş taramaya basılı tutun, ardından o tek taramayı kaldırmak için menüden sil'i seçin. Her şeyi bir kerede temizlemek için Nekopedia'yı cihazınızdan silin; uygulama kaldırıldığında yerel olarak saklanan tüm veriler otomatik olarak kaldırılır.
 
 ### Uygulamayı silersem ne olur?
 
@@ -101,7 +101,7 @@ App Store'dan en son sürümü çalıştırdığınızdan emin olun, ardından c
 
 ## Uyumluluk
 
-Nekopedia, iOS 16.0 veya sonrasını gerektirir ve hem iPhone hem de iPad'de çalışır.
+Nekopedia, iOS 18.0 veya sonrasını gerektirir ve hem iPhone hem de iPad'de çalışır.
 
 ## Bize Ulaşın
 

@@ -10,7 +10,7 @@ permalink: /privacy-policies/nekopedia/de/
 
 **Gültig ab:** 13. Juni 2026
 
-Nekopedia („die App") ist eine kostenlose iOS-Anwendung, die Katzenrassen anhand von Fotos identifiziert. Ihre Privatsphäre ist grundlegend für die Entwicklung dieser App. Hier erfahren Sie genau, wie Ihre Informationen behandelt werden.
+Nekopedia („die App") ist eine kostenlose iOS-Anwendung, die Katzenrassen anhand von Fotos identifiziert. Datenschutz ist hier kein nachträglicher Gedanke, sondern die Art und Weise, wie die App von Anfang an entwickelt wurde. Diese Richtlinie erklärt in klarer Sprache genau, wie Ihre Informationen behandelt werden. Kurz gesagt: Sie bleiben bei Ihnen.
 
 ## Kurzversion
 

@@ -8,24 +8,30 @@ lang: it
 permalink: /marketing-url/nekopedia/it/
 ---
 
-# Che razza è quel gatto? Basta puntare la fotocamera.
+# Che razza è quel gatto? Punta la fotocamera e scoprilo.
 
-Nekopedia identifica le razze feline all'istante: scatta una foto o scegline una dalla tua libreria e ottieni una corrispondenza tra 48 razze riconosciute in pochi secondi. Nessuna connessione internet necessaria, nessun account richiesto e completamente gratis.
+Ecco Nekopedia, l'enciclopedia felina tascabile che dà un nome a qualsiasi razza in pochi secondi. Scatta una foto o scegline una dalla tua libreria e ottieni una corrispondenza istantanea tra 48 razze riconosciute. Niente internet, niente account, nessun costo.
+
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
 
 ## Perché gli amanti dei gatti scelgono Nekopedia
 
-- **Risposte istantanee, ovunque.** Identifica 48 razze in pochi secondi: al bar, al rifugio o sul divano. Funziona completamente offline, anche senza Wi-Fi.
-- **La tua privacy prima di tutto.** Le foto non lasciano mai il tuo dispositivo. Nessun account, nessun tracciamento, nessuna pubblicità. Punto.
-- **Gratis per sempre.** Nessun abbonamento, nessun acquisto in-app, nessun paywall. Scaricala una volta e goditi tutte le funzioni.
-- **Impara, esplora e gioca.** Vai oltre l'identificazione con profili dettagliati delle razze, una mappa mondiale interattiva e giochi a quiz che mettono alla prova (e ampliano) le tue conoscenze feline.
+- **Risposte in pochi secondi, ovunque.** Identifica una razza al bar, al rifugio o sul tuo divano. Tutto avviene sul tuo dispositivo, quindi funziona anche senza Wi-Fi.
+- **Le tue foto restano tue.** Le immagini non lasciano mai il tuo dispositivo. Nessun account, nessun tracciamento, nessuna pubblicità. Mai.
+- **Gratis, senza trattenere nulla.** Nessun abbonamento, nessun acquisto in-app, nessun paywall. Ogni funzione è tua fin dal primo tocco.
+- **Molto più di un nome.** Immergiti in ricchi profili delle razze, gira per una mappa mondiale interattiva e affina il tuo occhio con giochi a quiz e di curiosità.
 
 ## Altro da scoprire
 
-Nekopedia va oltre l'identificazione. Ogni razza che scansioni è accompagnata da un profilo dettagliato che include temperamento, origine, storia, aspettativa di vita, peso, altezza e foto, coprendo tutte le 48 razze.
+Ogni scansione apre la porta a un profilo completo della razza: temperamento, origine, storia, aspettativa di vita, peso, altezza e foto, per tutte le 48 razze.
 
-Vuoi curiosare? La scheda Esplora ti consente di cercare tutte le 48 razze per nome o di esplorare una mappa mondiale interattiva che mostra dove ha avuto origine ciascuna razza. Puoi anche salvare i risultati delle tue scansioni nei Preferiti e rivederli in qualsiasi momento, tutto memorizzato localmente sul tuo dispositivo.
+Voglia di curiosare? La scheda Esplora ti consente di cercare le razze per nome o di girare per una mappa mondiale interattiva che mostra dove ciascuna ha avuto inizio. Ti piace un risultato? Salvalo nei Preferiti e torna quando vuoi, tutto memorizzato in modo privato sul tuo dispositivo.
 
-Per una sfida, prova il Quiz delle Razze. Ogni round ha 10 domande in cui indovini la razza a partire da una foto e quattro scelte. Pensi di saper distinguere il tuo Siamese dal tuo Birmano? Metti alla prova le tue conoscenze e guadagna titoli di ricompensa. Oppure gioca a Curiosità Feline, round vero o falso che mescolano fatti reali sui gatti con miti plausibili per vedere quanto conosci davvero i gatti.
+Pronto per una sfida? Il Quiz delle Razze ti dà una foto e quattro scelte, dieci round alla volta, e assegna titoli di ricompensa man mano che sali. Sai distinguere un Siamese da un Birmano? Oppure passa a Curiosità Feline, round vero o falso che mescolano fatti reali sui gatti con miti allettanti per vedere quanto è affinato il tuo fiuto felino.
+
+## Parla la tua lingua
+
+Nekopedia è completamente localizzata in 14 lingue: i nomi delle razze, i profili, le curiosità e l'intera interfaccia si adattano al tuo dispositivo, layout da destra a sinistra inclusi. Esplora il mondo dei gatti nella lingua in cui ti senti più a tuo agio.
 
 ## Come funziona
 
@@ -33,11 +39,15 @@ Per una sfida, prova il Quiz delle Razze. Ogni round ha 10 domande in cui indovi
 2. **Scatta una foto** di un gatto qualsiasi o scegline una dalla tua libreria
 3. **Ottieni il tuo risultato** con il nome della razza, il punteggio di affidabilità, le corrispondenze alternative e un profilo dettagliato della razza
 
+## Inizia a identificare i gatti oggi
+
+È gratis, privata e pronta all'uso appena la apri.
+
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
 
 ## Compatibilità
 
-iOS 16.0 o successivo · iPhone e iPad
+iOS 18.0 o successivo · iPhone e iPad
 
 ## La tua privacy, protetta
 

@@ -8,24 +8,30 @@ lang: nl
 permalink: /marketing-url/nekopedia/nl/
 ---
 
-# Welk ras is die kat? Richt gewoon je camera.
+# Welk ras is die kat? Richt je camera en kom erachter.
 
-Nekopedia herkent kattenrassen direct: maak een foto of kies er een uit je bibliotheek en krijg binnen enkele seconden een match uit 48 erkende rassen. Geen internet nodig, geen account vereist en volledig gratis.
+Maak kennis met Nekopedia, de zakformaat-kattenencyclopedie die elk ras in enkele seconden benoemt. Maak een foto of kies er een uit je bibliotheek en krijg direct een match uit 48 erkende rassen. Geen internet, geen account, geen kosten.
+
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
 
 ## Waarom kattenliefhebbers Nekopedia kiezen
 
-- **Direct antwoorden, overal.** Herken 48 rassen in enkele seconden: in een café, in het asiel of op je bank. Werkt volledig offline, zelfs zonder wifi.
-- **Jouw privacy staat voorop.** Foto's verlaten nooit je apparaat. Geen accounts, geen tracking, geen advertenties. Punt uit.
-- **Voor altijd gratis.** Geen abonnementen, geen in-app-aankopen, geen betaalmuren. Eén keer downloaden en van alle functies genieten.
-- **Leer, verken en speel.** Ga verder dan herkenning met gedetailleerde rasprofielen, een interactieve wereldkaart en quizspellen die je kattenkennis testen (en vergroten).
+- **Antwoorden in enkele seconden, overal.** Herken een ras in het café, in het asiel of op je eigen bank. Alles gebeurt op je apparaat, dus het werkt zelfs zonder wifi.
+- **Jouw foto's blijven van jou.** Afbeeldingen verlaten nooit je apparaat. Geen accounts, geen tracking, geen advertenties. Nooit.
+- **Gratis, zonder iets achter te houden.** Geen abonnementen, geen in-app-aankopen, geen betaalmuren. Elke functie is van jou vanaf de eerste tik.
+- **Veel meer dan een naam.** Duik in rijke rasprofielen, dwaal over een interactieve wereldkaart en scherp je blik aan met quiz- en weetjesspellen.
 
 ## Meer te ontdekken
 
-Nekopedia gaat verder dan herkenning. Elk ras dat je scant, komt met een gedetailleerd profiel inclusief temperament, oorsprong, geschiedenis, levensverwachting, gewicht, hoogte en foto's, voor alle 48 rassen.
+Elke scan opent de deur naar een volledig rasprofiel: temperament, oorsprong, geschiedenis, levensverwachting, gewicht, hoogte en foto's, voor alle 48 rassen.
 
-Wil je bladeren? Met het tabblad Verkennen kun je alle 48 rassen op naam zoeken of een interactieve wereldkaart verkennen die laat zien waar elk ras vandaan komt. Je kunt je scanresultaten ook opslaan in Favorieten en ze op elk moment opnieuw bekijken, allemaal lokaal opgeslagen op je apparaat.
+Zin om te bladeren? Met het tabblad Verkennen kun je rassen op naam zoeken of over een interactieve wereldkaart dwalen die laat zien waar elk ras begon. Bevalt een resultaat je? Sla het op in Favorieten en kom terug wanneer je wilt, allemaal privé opgeslagen op je apparaat.
 
-Voor een uitdaging probeer je de Rassenquiz. Elke ronde heeft 10 vragen waarbij je het ras raadt aan de hand van een foto en vier keuzes. Denk je dat je je Siamees van je Birmaan kunt onderscheiden? Stel je kennis op de proef en verdien beloningstitels. Of speel Kattenweetjes, waar-of-onwaar-rondes die echte kattenfeiten mengen met plausibele mythes om te zien hoe goed je katten echt kent.
+Klaar voor een uitdaging? De Rassenquiz geeft je een foto en vier keuzes, tien rondes per keer, en deelt beloningstitels uit naarmate je vordert. Kun jij een Siamees van een Birmaan onderscheiden? Of schakel over naar Kattenweetjes, waar-of-onwaar-rondes die echte kattenfeiten mengen met verleidelijke mythes om te zien hoe scherp je kattengevoel echt is.
+
+## Spreekt jouw taal
+
+Nekopedia is volledig gelokaliseerd in 14 talen: rasnamen, profielen, weetjes en de hele interface passen zich aan je apparaat aan, inclusief indelingen van rechts naar links. Verken de wereld van katten in de taal waarin jij je het meest thuis voelt.
 
 ## Hoe het werkt
 
@@ -33,11 +39,15 @@ Voor een uitdaging probeer je de Rassenquiz. Elke ronde heeft 10 vragen waarbij 
 2. **Maak een foto** van een willekeurige kat, of kies er een uit je bibliotheek
 3. **Krijg je resultaat** met de rasnaam, de betrouwbaarheidsscore, alternatieve matches en een gedetailleerd rasprofiel
 
+## Begin vandaag met het herkennen van katten
+
+Het is gratis, privé en klaar voor gebruik zodra je het opent.
+
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
 
 ## Compatibiliteit
 
-iOS 16.0 of hoger · iPhone en iPad
+iOS 18.0 of hoger · iPhone en iPad
 
 ## Jouw privacy, beschermd
 

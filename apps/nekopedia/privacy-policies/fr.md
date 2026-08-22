@@ -10,7 +10,7 @@ permalink: /privacy-policies/nekopedia/fr/
 
 **Date d'entrée en vigueur :** 13 juin 2026
 
-Nekopedia (« l'Application ») est une application iOS gratuite qui identifie les races de chats à partir de photos. Votre vie privée est au cœur de la conception de cette application. Voici exactement comment vos informations sont traitées.
+Nekopedia (« l'Application ») est une application iOS gratuite qui identifie les races de chats à partir de photos. La confidentialité n'est pas une considération secondaire ici, c'est la façon dont l'Application a été conçue dès le premier jour. Cette politique explique, en langage clair, exactement comment vos informations sont traitées. En résumé : elles restent avec vous.
 
 ## Version Courte
 

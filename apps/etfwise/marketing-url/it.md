@@ -12,6 +12,8 @@ permalink: /marketing-url/etfwise/it/
 
 Smetti di scorrere ticker infiniti. ETFWise offre raccomandazioni giornaliere sugli ETF selezionate in sette categorie, supportate da dati di mercato in tempo reale, sentiment in tempo reale e analisi tramite IA privata che non lascia mai il tuo dispositivo.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
+
 ## Perché gli investitori scelgono ETFWise
 
 - **Selezioni fresche ogni mattina** nelle categorie Indice Principale, Settore, Obbligazioni, Internazionale, Materie Prime, Tematica e Dividendi, aggiornate quotidianamente così sai sempre dove guardare.
@@ -37,8 +39,6 @@ Tocca un qualsiasi ETF per una visione completa:
 2. **Aggiungi una chiave API gratuita** da Finnhub per dati in tempo reale, oppure salta e esplora con i dati demo integrati
 3. **Sfoglia le selezioni di oggi** in sette categorie
 4. **Tocca un qualsiasi ETF** per analisi approfondita, sentiment e approfondimenti basati sull'IA
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
 
 ## Compatibilità
 

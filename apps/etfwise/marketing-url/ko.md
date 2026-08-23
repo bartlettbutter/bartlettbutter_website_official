@@ -12,6 +12,8 @@ permalink: /marketing-url/etfwise/ko/
 
 끝없는 티커를 스크롤하는 것을 멈추세요. ETFWise는 실시간 시장 데이터, 실시간 감성, 그리고 절대 기기를 벗어나지 않는 비공개 AI 분석에 기반한 일곱 개 카테고리에 걸친 엄선된 매일의 ETF 추천을 제공합니다.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
+
 ## 투자자들이 ETFWise를 선택하는 이유
 
 - **매일 아침 새로운 추천** — 주요 지수, 섹터, 채권, 국제, 원자재, 테마, 배당 카테고리에 걸쳐 매일 갱신되어 어디를 봐야 할지 항상 알 수 있습니다.
@@ -37,8 +39,6 @@ permalink: /marketing-url/etfwise/ko/
 2. 실시간 데이터를 위해 Finnhub의 무료 **API 키를 추가**하거나, 건너뛰고 내장된 데모 데이터로 탐색하세요
 3. 일곱 개 카테고리에서 **오늘의 추천을 살펴보세요**
 4. 심층 분석, 감성, AI 기반 통찰을 위해 **어떤 ETF든 탭하세요**
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
 
 ## 호환성
 

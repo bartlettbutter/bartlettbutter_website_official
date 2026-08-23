@@ -12,6 +12,8 @@ permalink: /marketing-url/journeyfolio/nl/
 
 Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreadsheets. Journeyfolio brengt je volledige reis samen in één prachtig georganiseerd reisschema — vluchten, hotels, documenten, live weer en realtime vluchtstatus — zodat je je kunt concentreren op de reis zelf.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
 ## Waarom reizigers Journeyfolio kiezen
 
 - **Eén hub voor alles** — Vluchten, hotels, vervoer, restaurants, tickets, verzekeringen en notities dag voor dag georganiseerd zodat niets door de mazen glipt.
@@ -61,8 +63,6 @@ Een minimalistische interface die plannen moeiteloos maakt. Reizen georganiseerd
 ## Begin gratis. Upgrade wanneer je er klaar voor bent.
 
 Plan tot 10 reizen kosteloos. Ontgrendel onbeperkte reizen, live vluchtvolging en weersvoorspellingen met Premium — beschikbaar als maandelijks, halfjaarlijks of jaarlijks automatisch verlengend abonnement.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
 ## Compatibiliteit
 

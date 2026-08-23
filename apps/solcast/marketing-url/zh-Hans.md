@@ -14,6 +14,8 @@ Solcast是一款免费的天气应用，它超越了单纯的预报。它告诉�
 
 没有广告。没有订阅。没有账户。只需打开即可使用。
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
+
 ## Solcast的与众不同之处
 
 - **答案，而非数字。** Solcast不会让您自己解读湿度百分比和紫外线指数，而是给您清晰的行动建议："午餐前涂抹SPF 50"、"为孩子准备雨具"或"日落后路面凉爽时遛狗"。
@@ -46,8 +48,6 @@ Solcast是一款免费的天气应用，它超越了单纯的预报。它告诉�
 2. 允许定位或搜索城市
 3. 立即查看您的个性化仪表板
 4. 随时在设置中微调偏好
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
 ## 兼容性
 

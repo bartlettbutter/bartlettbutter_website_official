@@ -14,6 +14,8 @@ Solcast is een gratis weer-app die verder gaat dan de voorspelling. Het vertelt 
 
 Geen advertenties. Geen abonnementen. Geen accounts. Gewoon openen en gaan.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
+
 ## Wat Solcast anders maakt
 
 - **Antwoorden, geen cijfers.** In plaats van zelf luchtvochtigheidspercentages en UV-indexen te ontcijferen, geeft Solcast je duidelijke actiepunten: "Breng SPF 50 aan voor de lunch", "Neem regenkleding mee voor de kinderen" of "Laat je hond uit na zonsondergang, wanneer het wegdek afkoelt".
@@ -46,8 +48,6 @@ Geen advertenties. Geen abonnementen. Geen accounts. Gewoon openen en gaan.
 2. Sta locatie toe of zoek een stad
 3. Bekijk direct je gepersonaliseerde dashboard
 4. Verfijn voorkeuren op elk moment in Instellingen
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
 ## Compatibiliteit
 

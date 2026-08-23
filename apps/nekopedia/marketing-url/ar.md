@@ -43,8 +43,6 @@ permalink: /marketing-url/nekopedia/ar/
 
 مجاني، وخاص، وجاهز في اللحظة التي تفتحه فيها.
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
-
 ## التوافق
 
 iOS 18.0 أو أحدث · iPhone وiPad

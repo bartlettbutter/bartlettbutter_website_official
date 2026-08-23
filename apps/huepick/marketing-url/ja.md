@@ -12,6 +12,8 @@ permalink: /marketing-url/huepick/ja/
 
 あなたにインスピレーションを与えるものを何でも撮影しましょう。Huepickはその中に隠れたパレットを瞬時に明らかにし、それを使って美しいものを作るためのクリエイティブツールを提供します。完全無料、完全プライベート。
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
+
 ## Huepickで実際にできること
 
 - **数秒で完璧なパレットを見つける。** 夕焼け、壁画、生地のサンプルにカメラを向けると、Huepickが主要な色を抽出し、すぐに使える調和のとれたパレットを構築します。16進数コードを目で推測したり、何が合うか当てずっぽうにしたりする必要はもうありません。
@@ -43,8 +45,6 @@ permalink: /marketing-url/huepick/ja/
 ## 色にこだわる人のために
 
 ブランドパレットを選ぶデザイナー。ムードボードを探るフォトグラファー。ペイントのサンプルを合わせるDIYデコレーター。トーンの組み合わせを試すメイクアップアーティスト。アクセシブルなインターフェースを構築する開発者。「あの色いいな — 何色だろう？」と思ったことのある、すべての人。
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
 
 ## 対応環境
 

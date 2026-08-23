@@ -12,6 +12,8 @@ permalink: /marketing-url/journeyfolio/ar/
 
 توقّف عن التلاعب بلقطات الشاشة والرسائل الإلكترونية المبعثرة وجداول البيانات نصف المكتملة. يجمع Journeyfolio رحلتك بالكامل في مسار منظّم بشكل جميل — الرحلات الجوية، والفنادق، والمستندات، والطقس المباشر، وحالة الرحلات في الوقت الفعلي — حتى تتمكّن من التركيز على الرحلة نفسها.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
 ## لماذا يختار المسافرون Journeyfolio
 
 - **مركز واحد لكل شيء** — الرحلات الجوية، والفنادق، والمواصلات، والمطاعم، والتذاكر، والتأمين، والملاحظات منظّمة يومًا بيوم حتى لا يفوتك شيء.
@@ -61,8 +63,6 @@ permalink: /marketing-url/journeyfolio/ar/
 ## ابدأ مجانًا. رقِّ عندما تكون مستعدًا.
 
 خطّط لما يصل إلى 10 رحلات دون تكلفة. افتح رحلات غير محدودة، وتتبع الرحلات المباشر، وتوقعات الطقس مع Premium — متاح كاشتراك ذاتي التجديد شهري أو نصف سنوي أو سنوي.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
 ## التوافق
 

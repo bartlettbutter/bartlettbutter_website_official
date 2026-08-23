@@ -12,6 +12,8 @@ permalink: /marketing-url/barkpedia/tr/
 
 Bir fotoğraf çekin, ırkı tanımlayın ve bilinmesi gereken her şeyin kilidini açın — mizaç, tarihçe, eğlenceli gerçekler ve daha fazlası. İnternet gerekmez, kayıt gerekmez, ücret yok.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+
 ## 100.000'den fazla köpek sever neden Barkpedia'yı seçiyor
 
 - **Her yerde anında yanıtlar.** Parkta, barınakta veya kanepenizde saniyeler içinde 147 ırkı tanımlayın. Tamamen çevrimdışı çalışır.
@@ -46,8 +48,6 @@ Bir ırkı sevdiniz mi? Tarama sonuçlarınızı kaydedin ve istediğiniz zaman 
 2. Herhangi bir köpeğin **fotoğrafını çekin veya seçin**
 3. **Sonucunuzu görün** — ırk adı, güven puanı ve tam profil
 4. **Keşfetmeye devam edin** — ırkları arayın, haritaya göz atın veya Yarışma ve Bilgi Yarışması oynayın
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
 ## Uyumluluk
 

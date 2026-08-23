@@ -43,8 +43,6 @@ Nekopedia è completamente localizzata in 14 lingue: i nomi delle razze, i profi
 
 È gratis, privata e pronta all'uso appena la apri.
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
-
 ## Compatibilità
 
 iOS 18.0 o successivo · iPhone e iPad

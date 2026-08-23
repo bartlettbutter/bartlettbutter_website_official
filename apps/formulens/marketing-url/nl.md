@@ -12,9 +12,9 @@ permalink: /marketing-url/formulens/nl/
 
 **Maak een foto van elke ingrediëntenlijst en krijg een heldere, kleurgecodeerde uitsplitsing van wat alles doet — vergelijk vervolgens producten of controleer of je hele routine echt samenwerkt. Allemaal in seconden, allemaal op je apparaat.**
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
-
 Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuLens vertaalt ze. Richt je camera op een willekeurig product en elk ingrediënt wordt ontcijferd en gesorteerd op wat het echt doet — geen typen, geen zoeken, geen scheikundediploma nodig.
+
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
 ## Waarom je er dol op zult zijn
 
@@ -48,8 +48,6 @@ Liefhebbers die een routine bijschaven. Gevoelige kopers die letten op parfums o
 ## Gratis te downloaden. Privé van opzet.
 
 Download FormuLens gratis en begin meteen met scannen — geen account, geen advertenties, geen addertje onder het gras. Elke functie hierboven is vandaag kosteloos beschikbaar. Je foto's verlaten nooit je apparaat: alle herkenning en analyse gebeuren lokaal, zonder servers, zonder cloud en zonder tracking.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
 ## Compatibiliteit
 

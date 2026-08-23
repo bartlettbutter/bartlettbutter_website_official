@@ -12,6 +12,8 @@ permalink: /marketing-url/journeyfolio/pt/
 
 Pare de fazer malabarismos com capturas de tela, e-mails espalhados e planilhas pela metade. O Journeyfolio reúne toda a sua viagem em um itinerário lindamente organizado — voos, hotéis, documentos, clima ao vivo e status de voo em tempo real — para que você possa se concentrar na viagem em si.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
 ## Por que os viajantes escolhem o Journeyfolio
 
 - **Um hub para tudo** — Voos, hotéis, transporte, restaurantes, ingressos, seguros e notas organizados dia a dia para que nada passe despercebido.
@@ -61,8 +63,6 @@ Uma interface minimalista que torna o planejamento fácil. Viagens organizadas p
 ## Comece grátis. Faça upgrade quando estiver pronto.
 
 Planeje até 10 viagens sem custo. Desbloqueie viagens ilimitadas, rastreamento de voos ao vivo e previsões do tempo com o Premium — disponível como assinatura mensal, semestral ou anual de renovação automática.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
 ## Compatibilidade
 

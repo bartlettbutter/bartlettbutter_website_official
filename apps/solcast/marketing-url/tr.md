@@ -14,6 +14,8 @@ Solcast, tahminin ötesine geçen ücretsiz bir hava durumu uygulamasıdır. Ne 
 
 Reklam yok. Abonelik yok. Hesap yok. Sadece açın ve başlayın.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
+
 ## Solcast'i farklı kılan nedir
 
 - **Rakamlar değil, cevaplar.** Nem yüzdelerini ve UV indekslerini kendiniz çözmek yerine, Solcast size net eylemler verir: "Öğle yemeğinden önce SPF 50 sürün", "Çocuklar için yağmurluk hazırlayın" veya "Kaldırım soğuduğunda gün batımından sonra köpeğinizi gezdirin".
@@ -46,8 +48,6 @@ Reklam yok. Abonelik yok. Hesap yok. Sadece açın ve başlayın.
 2. Konuma izin verin veya bir şehir arayın
 3. Kişiselleştirilmiş kontrol panelinizi hemen görün
 4. Ayarlar'da tercihleri istediğiniz zaman ince ayarlayın
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
 ## Uyumluluk
 

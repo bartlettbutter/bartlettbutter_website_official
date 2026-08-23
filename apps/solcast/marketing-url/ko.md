@@ -14,6 +14,8 @@ Solcast는 예보를 넘어서는 무료 날씨 앱입니다. 무엇을 입을�
 
 광고 없음. 구독 없음. 계정 없음. 그냥 열고 사용하세요.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
+
 ## Solcast가 다른 이유
 
 - **숫자가 아닌 답.** 습도 백분율과 자외선 지수를 직접 해석하는 대신, Solcast는 명확한 행동 지침을 줍니다: "점심 전에 SPF 50을 바르세요", "아이들을 위해 우비를 챙기세요", "포장도로가 식는 해가 진 후에 개를 산책시키세요".
@@ -46,8 +48,6 @@ Solcast는 예보를 넘어서는 무료 날씨 앱입니다. 무엇을 입을�
 2. 위치를 허용하거나 도시를 검색하세요
 3. 개인 맞춤 대시보드를 즉시 확인하세요
 4. 설정에서 언제든지 환경설정을 미세 조정하세요
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
 ## 호환성
 

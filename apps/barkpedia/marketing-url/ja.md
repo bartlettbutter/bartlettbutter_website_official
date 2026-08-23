@@ -12,6 +12,8 @@ permalink: /marketing-url/barkpedia/ja/
 
 写真を撮り、品種を識別し、知るべきすべてを解き放ちましょう — 性格、歴史、豆知識など。インターネット接続不要、サインアップ不要、費用もかかりません。
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+
 ## 10万人以上の犬好きがBarkpediaを選ぶ理由
 
 - **どこでも瞬時に答えが。** 公園でも、保護施設でも、あなたのソファでも、数秒で147品種を識別。完全にオフラインで動作します。
@@ -46,8 +48,6 @@ permalink: /marketing-url/barkpedia/ja/
 2. どんな犬でも **写真を撮るか選ぶ**
 3. **結果を見る** — 品種名、信頼度スコア、完全なプロフィール
 4. **探索を続ける** — 品種を検索、地図を閲覧、またはクイズとトリビアで遊ぶ
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
 ## 対応環境
 

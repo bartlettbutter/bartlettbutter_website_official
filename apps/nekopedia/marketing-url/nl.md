@@ -43,8 +43,6 @@ Nekopedia is volledig gelokaliseerd in 14 talen: rasnamen, profielen, weetjes en
 
 Het is gratis, privé en klaar voor gebruik zodra je het opent.
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
-
 ## Compatibiliteit
 
 iOS 18.0 of hoger · iPhone en iPad

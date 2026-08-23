@@ -12,6 +12,8 @@ permalink: /marketing-url/etfwise/nl/
 
 Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijkse ETF-aanbevelingen in zeven categorieën, ondersteund door live marktgegevens, realtime sentiment en privé AI-analyse die nooit je apparaat verlaat.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
+
 ## Waarom beleggers ETFWise kiezen
 
 - **Elke ochtend verse selecties** in de categorieën Hoofdindex, Sector, Obligaties, Internationaal, Grondstoffen, Thematisch en Dividend, dagelijks ververst zodat je altijd weet waar je moet kijken.
@@ -37,8 +39,6 @@ Tik op een willekeurige ETF voor uitgebreid inzicht:
 2. **Voeg een gratis API-sleutel** van Finnhub toe voor live data, of sla dit over en verken met de ingebouwde demogegevens
 3. **Blader door de selecties van vandaag** in zeven categorieën
 4. **Tik op een willekeurige ETF** voor diepgaande analyse, sentiment en door AI aangedreven inzichten
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
 
 ## Compatibiliteit
 

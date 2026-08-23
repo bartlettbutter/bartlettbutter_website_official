@@ -12,6 +12,8 @@ permalink: /marketing-url/journeyfolio/tr/
 
 Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablolarla uğraşmayı bırakın. Journeyfolio tüm gezinizi güzelce düzenlenmiş bir güzergâhta bir araya getirir — uçuşlar, oteller, belgeler, canlı hava durumu ve gerçek zamanlı uçuş durumu — böylece yolculuğun kendisine odaklanabilirsiniz.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
 ## Gezginler neden Journeyfolio'yu seçiyor
 
 - **Her şey için tek bir merkez** — Uçuşlar, oteller, ulaşım, restoranlar, biletler, sigorta ve notlar gün gün düzenlenir, böylece hiçbir şey gözden kaçmaz.
@@ -61,8 +63,6 @@ Planlamayı zahmetsiz hâle getiren minimalist bir arayüz. Yıla göre düzenle
 ## Ücretsiz başlayın. Hazır olduğunuzda yükseltin.
 
 Ücretsiz olarak en fazla 10 gezi planlayın. Premium ile sınırsız gezi, canlı uçuş takibi ve hava tahminlerini açın — aylık, 6 aylık veya yıllık otomatik yenilenen abonelik olarak sunulur.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
 ## Uyumluluk
 

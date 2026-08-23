@@ -13,6 +13,8 @@ Solcast is a free weather app that goes beyond the forecast. It tells you what t
 
 No ads. No subscriptions. No accounts. Just open and go.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
+
 ## What makes Solcast different
 
 - **Answers, not numbers.** Instead of decoding humidity percentages and UV indices yourself, Solcast gives you clear action items: "Apply SPF 50 before lunch," "Pack rain gear for the kids," or "Walk your dog after sunset when pavement cools."
@@ -45,8 +47,6 @@ No ads. No subscriptions. No accounts. Just open and go.
 2. Allow location or search for a city
 3. See your personalized dashboard immediately
 4. Fine-tune preferences anytime in Settings
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
 ## Compatibility
 

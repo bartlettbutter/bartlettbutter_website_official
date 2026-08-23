@@ -12,6 +12,8 @@ permalink: /marketing-url/barkpedia/de/
 
 Mach ein Foto, identifiziere die Rasse und erfahre alles Wissenswerte – Temperament, Geschichte, wissenswerte Fakten und mehr. Keine Internetverbindung nötig, keine Anmeldung, keine Kosten.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+
 ## Warum sich über 100.000 Hundeliebhaber für Barkpedia entscheiden
 
 - **Sofortige Antworten, überall.** Identifiziere 147 Rassen in Sekunden – im Park, im Tierheim oder auf deinem Sofa. Funktioniert vollständig offline.
@@ -46,8 +48,6 @@ Stelle dein Rassenwissen mit zwei Spielmodi auf die Probe:
 2. **Mach oder wähle ein Foto** von einem beliebigen Hund
 3. **Sieh dein Ergebnis** — Rassenname, Konfidenzwert und vollständiges Profil
 4. **Entdecke weiter** — suche Rassen, durchstöbere die Karte oder spiele Quiz und Trivia
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
 ## Kompatibilität
 

@@ -12,6 +12,8 @@ permalink: /marketing-url/journeyfolio/de/
 
 Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jonglieren. Journeyfolio bringt deine gesamte Reise in einen wunderschön organisierten Reiseplan — Flüge, Hotels, Dokumente, Live-Wetter und Echtzeit-Flugstatus — damit du dich auf die Reise selbst konzentrieren kannst.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
 ## Warum Reisende Journeyfolio wählen
 
 - **Ein Hub für alles** — Flüge, Hotels, Transport, Restaurants, Tickets, Versicherungen und Notizen Tag für Tag organisiert, damit nichts durch die Maschen fällt.
@@ -61,8 +63,6 @@ Eine minimalistische Oberfläche, die das Planen mühelos macht. Reisen nach Jah
 ## Kostenlos starten. Upgraden, wenn du bereit bist.
 
 Plane bis zu 10 Reisen kostenlos. Schalte unbegrenzte Reisen, Live-Flugverfolgung und Wettervorhersagen mit Premium frei — verfügbar als monatliches, halbjährliches oder jährliches automatisch verlängerbares Abonnement.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
 ## Kompatibilität
 

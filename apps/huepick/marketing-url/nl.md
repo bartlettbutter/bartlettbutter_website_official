@@ -12,6 +12,8 @@ permalink: /marketing-url/huepick/nl/
 
 Maak een foto van alles wat je inspireert. Huepick onthult direct het verborgen palet erin en geeft je creatieve hulpmiddelen om er iets moois mee te maken. Volledig gratis, volledig privé.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
+
 ## Wat je echt met Huepick gaat doen
 
 - **Vind het perfecte palet in enkele seconden.** Richt je camera op een zonsondergang, een muurschildering, een stofstaal — Huepick haalt de dominante kleuren eruit en bouwt harmonieuze paletten die je meteen kunt gebruiken. Geen hexcodes meer op het oog inschatten of gokken wat bij elkaar past.
@@ -43,8 +45,6 @@ Maak een foto van alles wat je inspireert. Huepick onthult direct het verborgen 
 ## Gemaakt voor mensen die om kleur geven
 
 Ontwerpers die merkpaletten kiezen. Fotografen die moodboards verkennen. Doe-het-zelvers die verfstalen matchen. Visagisten die tintcombinaties testen. Ontwikkelaars die toegankelijke interfaces bouwen. Iedereen die ooit dacht: "Ik hou van die kleur — wat is het?"
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
 
 ## Compatibiliteit
 

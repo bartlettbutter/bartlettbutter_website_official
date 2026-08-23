@@ -12,6 +12,8 @@ permalink: /marketing-url/huepick/ko/
 
 여러분에게 영감을 주는 무엇이든 촬영하세요. Huepick은 그 안에 숨겨진 팔레트를 즉시 드러내고, 그것으로 아름다운 것을 만들 수 있는 창의적인 도구를 제공합니다. 완전 무료, 완전 비공개.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
+
 ## Huepick으로 실제로 하게 될 일
 
 - **몇 초 만에 완벽한 팔레트를 찾으세요.** 노을, 벽화, 원단 견본에 카메라를 향하면 — Huepick이 주요 색상을 뽑아내어 즉시 사용할 수 있는 조화로운 팔레트를 만들어냅니다. 헥스 코드를 눈대중하거나 무엇이 어울릴지 추측할 필요가 없습니다.
@@ -43,8 +45,6 @@ permalink: /marketing-url/huepick/ko/
 ## 색을 소중히 여기는 사람들을 위해 만들어졌습니다
 
 브랜드 팔레트를 고르는 디자이너. 무드보드를 탐색하는 사진작가. 페인트 견본을 맞추는 DIY 인테리어 애호가. 색조 조합을 테스트하는 메이크업 아티스트. 접근성 있는 인터페이스를 만드는 개발자. 한 번쯤 "저 색 마음에 드는데 — 무슨 색이지?"라고 생각해 본 모든 사람.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
 
 ## 호환성
 

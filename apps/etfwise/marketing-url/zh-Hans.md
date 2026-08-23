@@ -12,6 +12,8 @@ permalink: /marketing-url/etfwise/zh-Hans/
 
 别再翻阅无尽的股票代码了。ETFWise提供跨七大类别的精选每日ETF推荐，由实时市场数据、实时情绪和永不离开您设备的私密AI分析支持。
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
+
 ## 投资者为何选择ETFWise
 
 - **每天早上都有新鲜精选**，涵盖主要指数、行业、债券、国际、大宗商品、主题和股息类别，每日刷新，让您始终知道该看哪里。
@@ -37,8 +39,6 @@ permalink: /marketing-url/etfwise/zh-Hans/
 2. **添加免费API密钥**（来自Finnhub）以获取实时数据，或跳过并使用内置演示数据进行探索
 3. **浏览今日精选**，涵盖七大类别
 4. **点击任何ETF** 获取深度分析、情绪和AI驱动的洞察
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
 
 ## 兼容性
 

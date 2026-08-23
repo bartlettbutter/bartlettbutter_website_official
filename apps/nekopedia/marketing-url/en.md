@@ -42,8 +42,6 @@ Nekopedia is fully localized in 14 languages: breed names, profiles, trivia, and
 
 It's free, private, and ready the moment you open it.
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
-
 ## Compatibility
 
 iOS 18.0 or later · iPhone and iPad

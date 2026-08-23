@@ -43,8 +43,6 @@ Nekopediaは14の言語に完全対応。品種名、プロフィール、トリ
 
 無料で、プライベートで、開いた瞬間に使えます。
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
-
 ## 対応環境
 
 iOS 18.0以降 · iPhoneおよびiPad

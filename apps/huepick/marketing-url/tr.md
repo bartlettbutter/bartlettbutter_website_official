@@ -12,6 +12,8 @@ permalink: /marketing-url/huepick/tr/
 
 Size ilham veren her şeyin fotoğrafını çekin. Huepick içindeki gizli paleti anında ortaya çıkarır ve onunla güzel bir şey yaratmanız için size yaratıcı araçlar sunar. Tamamen ücretsiz, tamamen gizli.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
+
 ## Huepick ile gerçekte ne yapacaksınız
 
 - **Mükemmel paleti saniyeler içinde bulun.** Kameranızı bir gün batımına, bir duvar resmine, bir kumaş örneğine doğrultun — Huepick baskın renkleri çıkarır ve hemen kullanabileceğiniz uyumlu paletler oluşturur. Artık hex kodlarını gözle tahmin etmek veya neyin uyacağını kestirmek yok.
@@ -43,8 +45,6 @@ Size ilham veren her şeyin fotoğrafını çekin. Huepick içindeki gizli palet
 ## Renge önem verenler için tasarlandı
 
 Marka paletleri seçen tasarımcılar. Ruh hali panolarını keşfeden fotoğrafçılar. Boya örneklerini eşleştiren kendin-yap dekoratörleri. Ton kombinasyonlarını test eden makyaj sanatçıları. Erişilebilir arayüzler kuran geliştiriciler. Bir zamanlar "O rengi çok sevdim — hangisi bu?" diye düşünmüş olan herkes.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
 
 ## Uyumluluk
 

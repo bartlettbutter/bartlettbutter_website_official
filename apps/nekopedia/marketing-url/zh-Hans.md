@@ -43,8 +43,6 @@ Nekopedia完整支持14种语言：品种名称、资料、问答以及整个界
 
 免费、私密，打开即用。
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
-
 ## 兼容性
 
 iOS 18.0或更高版本 · iPhone和iPad

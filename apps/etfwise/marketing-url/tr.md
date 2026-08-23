@@ -12,6 +12,8 @@ permalink: /marketing-url/etfwise/tr/
 
 Sonsuz hisse sembolleri arasında gezinmeyi bırakın. ETFWise, canlı piyasa verileri, gerçek zamanlı duygu analizi ve cihazınızdan asla çıkmayan özel yapay zeka analiziyle desteklenen, yedi kategoride özenle seçilmiş günlük ETF önerileri sunar.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
+
 ## Yatırımcılar neden ETFWise'ı seçiyor
 
 - **Her sabah taze seçimler** — Ana Endeks, Sektör, Tahvil, Uluslararası, Emtia, Tematik ve Temettü kategorilerinde, her gün yenilenerek nereye bakacağınızı her zaman bilmenizi sağlar.
@@ -37,8 +39,6 @@ Kapsamlı içgörü için herhangi bir ETF'ye dokunun:
 2. Canlı veriler için Finnhub'dan ücretsiz bir **API anahtarı ekleyin** veya bunu atlayıp yerleşik demo verileriyle keşfedin
 3. Yedi kategoride **bugünün seçimlerine göz atın**
 4. Derinlemesine analiz, duygu analizi ve yapay zeka destekli içgörüler için **herhangi bir ETF'ye dokunun**
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
 
 ## Uyumluluk
 

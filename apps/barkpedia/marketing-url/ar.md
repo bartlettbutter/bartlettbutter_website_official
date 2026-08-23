@@ -12,6 +12,8 @@ permalink: /marketing-url/barkpedia/ar/
 
 التقط صورة، وتعرّف على السلالة، واكشف كل ما يمكن معرفته — الطباع، والتاريخ، والحقائق الممتعة، والمزيد. لا حاجة للإنترنت، ولا تسجيل، ولا تكلفة.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+
 ## لماذا يختار أكثر من 100,000 من محبي الكلاب Barkpedia
 
 - **إجابات فورية في أي مكان.** تعرّف على 147 سلالة في ثوانٍ — في الحديقة، أو الملجأ، أو على أريكتك. يعمل دون اتصال تمامًا.
@@ -46,8 +48,6 @@ permalink: /marketing-url/barkpedia/ar/
 2. **التقط أو اختر صورة** لأي كلب
 3. **شاهد نتيجتك** — اسم السلالة، ودرجة الثقة، والملف التعريفي الكامل
 4. **واصل الاستكشاف** — ابحث عن السلالات، أو تصفّح الخريطة، أو العب الاختبار والمعلومات
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
 ## التوافق
 

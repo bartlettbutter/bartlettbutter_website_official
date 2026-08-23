@@ -14,6 +14,8 @@ Solcastは予報の枠を超えた無料の天気アプリです。何を着る�
 
 広告なし。サブスクリプションなし。アカウントなし。開くだけで使えます。
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
+
 ## Solcastの違い
 
 - **数字ではなく、答えを。** 湿度のパーセンテージやUV指数を自分で読み解く代わりに、Solcastは明確な行動を示します。「昼食前にSPF 50を塗る」「子どものために雨具を用意する」「舗装が冷える日没後に犬を散歩させる」。
@@ -46,8 +48,6 @@ Solcastは予報の枠を超えた無料の天気アプリです。何を着る�
 2. 位置情報を許可するか、都市を検索
 3. すぐにパーソナライズされたダッシュボードを表示
 4. 設定でいつでも好みを微調整
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
 ## 対応環境
 

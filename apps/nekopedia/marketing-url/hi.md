@@ -43,8 +43,6 @@ Nekopedia 14 भाषाओं में पूरी तरह स्थान
 
 यह निःशुल्क है, निजी है, और खोलते ही तैयार है।
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
-
 ## संगतता
 
 iOS 18.0 या बाद का संस्करण · iPhone और iPad

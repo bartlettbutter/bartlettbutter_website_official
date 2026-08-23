@@ -12,9 +12,9 @@ permalink: /marketing-url/formulens/ko/
 
 **어떤 성분표든 사진을 찍으면 각 성분이 무슨 일을 하는지 명확하게 색상별로 정리된 분석을 확인할 수 있습니다. 그런 다음 제품을 비교하거나, 전체 루틴이 실제로 잘 어우러지는지 점검하세요. 모두 몇 초 만에, 모두 당신의 기기에서.**
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
-
 성분표는 당신이 아니라 화학자를 위해 쓰여 있습니다. FormuLens가 그것을 번역해 드립니다. 어떤 제품에든 카메라를 대면 모든 성분이 해독되고 실제로 하는 일에 따라 분류됩니다 — 입력도, 검색도, 화학 학위도 필요 없습니다.
+
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
 ## 좋아하게 될 이유
 
@@ -48,8 +48,6 @@ permalink: /marketing-url/formulens/ko/
 ## 다운로드는 무료. 설계부터 프라이빗.
 
 FormuLens를 무료로 다운로드하고 바로 스캔을 시작하세요 — 계정도, 광고도, 숨은 조건도 없습니다. 위의 모든 기능을 오늘 무료로 이용할 수 있습니다. 당신의 사진은 절대 기기를 벗어나지 않습니다. 모든 인식과 분석은 로컬에서 이루어지며, 서버도 클라우드도 추적도 없습니다.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
 ## 호환성
 

@@ -12,6 +12,8 @@ permalink: /marketing-url/journeyfolio/ja/
 
 スクリーンショット、散らばったメール、書きかけの表計算に振り回されるのはもうやめましょう。Journeyfolioは、あなたの旅全体を美しく整理された旅程にまとめます — フライト、ホテル、書類、リアルタイムの天気、リアルタイムのフライト状況 — だから旅そのものに集中できます。
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
 ## 旅行者がJourneyfolioを選ぶ理由
 
 - **すべてを1つのハブに** — フライト、ホテル、交通、レストラン、チケット、保険、メモを日ごとに整理し、何も見落としません。
@@ -61,8 +63,6 @@ Journeyfolioは、高度な機能のためのオプションのプレミアム�
 ## 無料で始めて、準備ができたらアップグレード。
 
 無料で最大10件の旅行を計画できます。無制限の旅行、リアルタイムフライト追跡、天気予報をプレミアムで解放 — 月額、6か月、または年額の自動更新サブスクリプションとして利用できます。
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
 ## 対応環境
 

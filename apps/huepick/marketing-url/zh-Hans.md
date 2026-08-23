@@ -12,6 +12,8 @@ permalink: /marketing-url/huepick/zh-Hans/
 
 拍摄任何激发您灵感的事物。Huepick立即揭示其中隐藏的调色板，并为您提供创意工具，用它做出美丽的作品。完全免费，完全私密。
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
+
 ## 您真正能用Huepick做什么
 
 - **几秒内找到完美调色板。** 将相机对准日落、壁画、布料样本 — Huepick提取出主色调，构建您可以立即使用的和谐调色板。不再需要目测十六进制代码或猜测什么搭配得好。
@@ -43,8 +45,6 @@ permalink: /marketing-url/huepick/zh-Hans/
 ## 为在意色彩的人打造
 
 挑选品牌调色板的设计师。探索情绪板的摄影师。搭配油漆样本的DIY装饰者。测试色调组合的化妆师。构建无障碍界面的开发者。任何曾经想过"我喜欢那个颜色 — 它是什么？"的人。
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
 
 ## 兼容性
 

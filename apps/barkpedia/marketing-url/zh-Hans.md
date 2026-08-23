@@ -12,6 +12,8 @@ permalink: /marketing-url/barkpedia/zh-Hans/
 
 拍摄一张照片，识别品种，解锁关于它的一切 — 性格、历史、趣闻等等。无需联网，无需注册，无需付费。
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+
 ## 为何超过10万名爱狗人士选择Barkpedia
 
 - **随时随地即时获得答案。** 在公园、收容所或您的沙发上，几秒内识别147个品种。完全离线运行。
@@ -46,8 +48,6 @@ permalink: /marketing-url/barkpedia/zh-Hans/
 2. **拍摄或选择**任何一只狗的照片
 3. **查看结果** — 品种名称、置信度分数和完整资料
 4. **继续探索** — 搜索品种、浏览地图，或玩测验和问答
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
 ## 兼容性
 

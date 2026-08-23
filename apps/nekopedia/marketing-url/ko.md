@@ -43,8 +43,6 @@ Nekopedia는 14개 언어로 완전히 현지화되어 있습니다. 품종 이�
 
 무료이고, 비공개이며, 열자마자 바로 사용할 수 있습니다.
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
-
 ## 호환성
 
 iOS 18.0 이상 · iPhone 및 iPad

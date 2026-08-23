@@ -12,6 +12,8 @@ permalink: /marketing-url/etfwise/ja/
 
 無限のティッカーをスクロールするのはもうやめましょう。ETFWiseは、リアルタイムの市場データ、リアルタイムのセンチメント、そして決してデバイスから出ないプライベートなAI分析に裏打ちされた、7つのカテゴリーにわたる厳選された毎日のETF推奨を提供します。
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
+
 ## 投資家がETFWiseを選ぶ理由
 
 - **毎朝の新鮮なおすすめ**（主要指数、セクター、債券、インターナショナル、コモディティ、テーマ、配当の各カテゴリー）が毎日更新され、どこを見ればよいか常に分かります。
@@ -37,8 +39,6 @@ permalink: /marketing-url/etfwise/ja/
 2. リアルタイムデータのためにFinnhubから無料の **APIキーを追加**、またはスキップして内蔵のデモデータで探索
 3. 7つのカテゴリーで **今日のおすすめを閲覧**
 4. 深い分析、センチメント、AI駆動の洞察のために **任意のETFをタップ**
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
 
 ## 対応環境
 

@@ -11,6 +11,8 @@ permalink: /marketing-url/barkpedia/
 
 Snap a photo, identify the breed, and unlock everything there is to know — temperament, history, fun facts, and more. No internet needed, no sign-up, no cost.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+
 ## Why 100,000+ dog lovers choose Barkpedia
 
 - **Instant answers, anywhere.** Identify 147 breeds in seconds — at the park, the shelter, or your couch. Works completely offline.
@@ -45,8 +47,6 @@ Put your breed knowledge to the test with two game modes:
 2. **Snap or choose a photo** of any dog
 3. **See your result** — breed name, confidence score, and full profile
 4. **Keep exploring** — search breeds, browse the map, or play Quiz and Trivia
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
 ## Compatibility
 

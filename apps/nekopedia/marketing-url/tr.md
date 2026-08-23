@@ -43,8 +43,6 @@ Nekopedia 14 dile tamamen yerelleştirilmiştir: ırk adları, profiller, trivia
 
 Ücretsiz, gizli ve açtığınız anda hazır.
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
-
 ## Uyumluluk
 
 iOS 18.0 veya sonrası · iPhone ve iPad

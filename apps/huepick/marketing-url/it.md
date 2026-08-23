@@ -12,6 +12,8 @@ permalink: /marketing-url/huepick/it/
 
 Scatta una foto di qualsiasi cosa ti ispiri. Huepick rivela all'istante la palette nascosta al suo interno e ti offre strumenti creativi per farne qualcosa di bello. Completamente gratis, completamente privato.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
+
 ## Cosa farai davvero con Huepick
 
 - **Trova la palette perfetta in pochi secondi.** Punta la fotocamera su un tramonto, un murale, un campione di tessuto — Huepick estrae i colori dominanti e crea palette armoniose utilizzabili subito. Basta stimare a occhio i codici esadecimali o indovinare cosa si abbina.
@@ -43,8 +45,6 @@ Scatta una foto di qualsiasi cosa ti ispiri. Huepick rivela all'istante la palet
 ## Pensato per chi tiene al colore
 
 Designer che scelgono palette di marca. Fotografi che esplorano moodboard. Decoratori fai-da-te che abbinano campioni di vernice. Truccatori che testano combinazioni di tonalità. Sviluppatori che creano interfacce accessibili. Chiunque abbia mai pensato "Adoro quel colore — qual è?"
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
 
 ## Compatibilità
 

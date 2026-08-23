@@ -12,9 +12,9 @@ permalink: /marketing-url/formulens/ja/
 
 **どんな成分表でも写真を撮れば、各成分の働きを明快に色分けした内訳が得られます — そのうえで製品同士を比較したり、あなたのルーティン全体が本当にうまく組み合わさっているかをチェックしたりできます。すべてが数秒で、すべてあなたのデバイス上で。**
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
-
 成分表は化学者向けに書かれていて、あなた向けには書かれていません。FormuLensがそれを翻訳します。どんな製品にでもカメラを向ければ、各成分が解読され、実際の働きによって分類されます — 入力なし、検索なし、化学の学位も不要。
+
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
 ## 気に入る理由
 
@@ -48,8 +48,6 @@ permalink: /marketing-url/formulens/ja/
 ## ダウンロードは無料。設計段階からプライベート。
 
 FormuLensを無料でダウンロードして、すぐにスキャンを始めましょう — アカウントなし、広告なし、裏がありません。上記のすべての機能を、今日無料でご利用いただけます。あなたの写真がデバイスから出ることは一切ありません。すべての認識と分析はローカルで行われ、サーバーなし、クラウドなし、トラッキングなしです。
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
 ## 対応環境
 

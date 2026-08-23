@@ -12,9 +12,9 @@ permalink: /marketing-url/formulens/de/
 
 **Fotografiere eine beliebige Inhaltsstoffliste und erhalte eine klare, farblich sortierte Aufschlüsselung dessen, was alles bewirkt – vergleiche dann Produkte oder prüfe, ob deine gesamte Routine wirklich zusammenpasst. Alles in Sekunden, alles auf deinem Gerät.**
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
-
 Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens übersetzt sie. Richte deine Kamera auf ein beliebiges Produkt, und jeder Inhaltsstoff wird entschlüsselt und danach sortiert, was er tatsächlich bewirkt – ohne Tippen, ohne Suchen, ohne Chemiestudium.
+
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
 ## Warum du es lieben wirst
 
@@ -48,8 +48,6 @@ Enthusiasten, die eine Routine feinabstimmen. Empfindliche Käufer, die auf Duft
 ## Kostenlos herunterladen. Von Grund auf privat.
 
 Lade FormuLens kostenlos herunter und beginne sofort mit dem Scannen – kein Konto, keine Werbung, kein Haken. Jede oben genannte Funktion ist heute kostenlos verfügbar. Deine Fotos verlassen niemals dein Gerät: Erkennung und Analyse finden vollständig lokal statt, ohne Server, ohne Cloud und ohne Tracking.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
 ## Kompatibilität
 

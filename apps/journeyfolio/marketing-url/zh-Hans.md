@@ -12,6 +12,8 @@ permalink: /marketing-url/journeyfolio/zh-Hans/
 
 别再费力应付截图、零散的邮件和未完成的电子表格了。Journeyfolio将您的整个行程整合到一份精心组织的美丽行程表中 — 航班、酒店、文档、实时天气和实时航班状态 — 让您专注于旅行本身。
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
 ## 旅行者为何选择Journeyfolio
 
 - **一个中心搞定一切** — 航班、酒店、交通、餐厅、门票、保险和备注按天组织，不遗漏任何细节。
@@ -61,8 +63,6 @@ Journeyfolio现已**免费下载**，并提供可选的高级订阅以解锁进�
 ## 免费开始。准备好时再升级。
 
 免费规划多达10段行程。通过高级版解锁无限行程、实时航班跟踪和天气预报 — 提供月度、6个月或年度自动续订订阅。
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
 ## 兼容性
 

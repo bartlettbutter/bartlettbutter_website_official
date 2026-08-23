@@ -14,6 +14,8 @@ Solcast es una aplicación de clima gratuita que va más allá del pronóstico. 
 
 Sin anuncios. Sin suscripciones. Sin cuentas. Solo abre y listo.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
+
 ## Qué hace diferente a Solcast
 
 - **Respuestas, no números.** En lugar de descifrar tú mismo los porcentajes de humedad y los índices UV, Solcast te da acciones claras: "Aplica SPF 50 antes del almuerzo", "Lleva impermeable para los niños" o "Pasea a tu perro después del atardecer, cuando el pavimento se enfríe".
@@ -46,8 +48,6 @@ Sin anuncios. Sin suscripciones. Sin cuentas. Solo abre y listo.
 2. Permite la ubicación o busca una ciudad
 3. Ve tu panel personalizado de inmediato
 4. Ajusta las preferencias en cualquier momento en Configuración
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
 ## Compatibilidad
 

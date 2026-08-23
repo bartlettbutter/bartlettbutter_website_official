@@ -12,6 +12,8 @@ permalink: /marketing-url/journeyfolio/ko/
 
 스크린샷, 흩어진 이메일, 미완성 스프레드시트와 씨름하는 것을 멈추세요. Journeyfolio는 여러분의 전체 여행 — 항공편, 호텔, 문서, 실시간 날씨, 실시간 항공편 상태 — 을 아름답게 정리된 일정으로 모아 여행 그 자체에 집중할 수 있게 합니다.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
 ## 여행자들이 Journeyfolio를 선택하는 이유
 
 - **모든 것을 위한 하나의 허브** — 항공편, 호텔, 교통, 식당, 티켓, 보험, 메모가 하루하루 정리되어 아무것도 놓치지 않습니다.
@@ -61,8 +63,6 @@ Journeyfolio는 이제 고급 기능을 위한 선택적 프리미엄 구독과 
 ## 무료로 시작하세요. 준비되면 업그레이드하세요.
 
 무료로 최대 10개의 여행을 계획하세요. 프리미엄으로 무제한 여행, 실시간 항공편 추적, 일기 예보를 잠금 해제하세요 — 월간, 6개월, 연간 자동 갱신 구독으로 제공됩니다.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
 ## 호환성
 

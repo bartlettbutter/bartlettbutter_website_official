@@ -12,6 +12,8 @@ permalink: /marketing-url/barkpedia/nl/
 
 Maak een foto, herken het ras en ontgrendel alles wat er te weten valt — temperament, geschiedenis, leuke weetjes en meer. Geen internet nodig, geen aanmelding, geen kosten.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+
 ## Waarom meer dan 100.000 hondenliefhebbers Barkpedia kiezen
 
 - **Direct antwoorden, overal.** Herken 147 rassen in enkele seconden: in het park, in het asiel of op je bank. Werkt volledig offline.
@@ -46,8 +48,6 @@ Stel je raskennis op de proef met twee spelmodi:
 2. **Maak of kies een foto** van een willekeurige hond
 3. **Bekijk je resultaat** — rasnaam, betrouwbaarheidsscore en volledig profiel
 4. **Blijf verkennen** — zoek rassen, blader door de kaart of speel Quiz en Weetjes
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
 ## Compatibiliteit
 

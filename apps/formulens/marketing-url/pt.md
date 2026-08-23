@@ -12,9 +12,9 @@ permalink: /marketing-url/formulens/pt/
 
 **Tire uma foto de qualquer lista de ingredientes e receba uma análise clara e codificada por cores do que cada componente faz — depois compare produtos ou verifique se toda a sua rotina realmente funciona em conjunto. Tudo em segundos, tudo no seu dispositivo.**
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
-
 Os rótulos de ingredientes são escritos para químicos, não para você. O FormuLens os traduz. Aponte a câmera para qualquer produto e cada ingrediente é decifrado e organizado pelo que realmente faz — sem digitar, sem pesquisar, sem precisar de um diploma em química.
+
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
 ## Por que você vai adorar
 
@@ -48,8 +48,6 @@ Entusiastas ajustando uma rotina. Consumidores sensíveis atentos a fragrâncias
 ## Grátis para baixar. Privado por design.
 
 Baixe o FormuLens gratuitamente e comece a escanear na hora — sem conta, sem anúncios, sem pegadinhas. Todos os recursos acima estão disponíveis hoje, sem custo. Suas fotos nunca saem do seu dispositivo: todo o reconhecimento e a análise acontecem localmente, sem servidores, sem nuvem e sem rastreamento.
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
 ## Compatibilidade
 

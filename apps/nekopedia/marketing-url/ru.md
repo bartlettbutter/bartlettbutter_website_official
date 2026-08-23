@@ -43,8 +43,6 @@ Nekopedia полностью локализовано на 14 языков: на
 
 Это бесплатно, конфиденциально и готово к работе, как только вы откроете приложение.
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
-
 ## Совместимость
 
 iOS 18.0 или новее · iPhone и iPad

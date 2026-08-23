@@ -12,6 +12,8 @@ permalink: /marketing-url/barkpedia/ko/
 
 사진을 찍고, 품종을 식별하고, 알아야 할 모든 것을 열어보세요 — 기질, 역사, 흥미로운 사실 등. 인터넷 불필요, 가입 불필요, 비용 없음.
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+
 ## 10만 명 이상의 개 애호가가 Barkpedia를 선택하는 이유
 
 - **어디서나 즉각적인 답변.** 공원에서든, 보호소에서든, 소파에서든 몇 초 안에 147개 품종을 식별합니다. 완전히 오프라인으로 작동합니다.
@@ -46,8 +48,6 @@ permalink: /marketing-url/barkpedia/ko/
 2. 어떤 개든 **사진을 찍거나 선택하세요**
 3. **결과를 확인하세요** — 품종 이름, 신뢰도 점수, 전체 프로필
 4. **계속 탐색하세요** — 품종 검색, 지도 둘러보기, 또는 퀴즈와 상식 게임 즐기기
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
 ## 호환성
 

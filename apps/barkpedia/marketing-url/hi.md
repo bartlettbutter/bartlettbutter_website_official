@@ -12,6 +12,8 @@ permalink: /marketing-url/barkpedia/hi/
 
 एक तस्वीर लें, नस्ल पहचानें, और जानने योग्य सब कुछ अनलॉक करें — स्वभाव, इतिहास, मज़ेदार तथ्य और बहुत कुछ। इंटरनेट की आवश्यकता नहीं, साइन-अप नहीं, कोई लागत नहीं।
 
+[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+
 ## 1,00,000 से अधिक कुत्ता प्रेमी Barkpedia क्यों चुनते हैं
 
 - **कहीं भी, तुरंत उत्तर।** पार्क में, आश्रय में, या अपने सोफे पर सेकंडों में 147 नस्लें पहचानें। पूरी तरह ऑफ़लाइन काम करता है।
@@ -46,8 +48,6 @@ permalink: /marketing-url/barkpedia/hi/
 2. किसी भी कुत्ते की **तस्वीर लें या चुनें**
 3. **अपना परिणाम देखें** — नस्ल का नाम, विश्वास स्कोर और पूर्ण प्रोफ़ाइल
 4. **खोजते रहें** — नस्लें खोजें, मानचित्र ब्राउज़ करें, या क्विज़ और ट्रिविया खेलें
-
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
 ## संगतता
 

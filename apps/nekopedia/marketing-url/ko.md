@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "어떤 고양이 품종이든 즉시 식별하세요. 무료, 오프라인, 비공개."
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 lang: ko
-permalink: /marketing-url/nekopedia/ko/
+permalink: /nekopedia/ko/
+redirect_from:
+  - /marketing-url/nekopedia/ko/
 ---
 
 # 저 고양이는 무슨 품종일까? 카메라를 향하고 확인하세요.
@@ -51,8 +53,8 @@ iOS 18.0 이상 · iPhone 및 iPad
 
 여러분의 사진은 절대 여러분의 기기를 벗어나지 않습니다. 계정 없음, 분석 없음, 광고 없음. 오직 여러분과 고양이뿐입니다.
 
-전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/nekopedia/)을 읽어보세요.
+전체 [개인정보 처리방침](https://www.bartlettbutter.com/nekopedia/privacy/)을 읽어보세요.
 
 ## 도움이 필요하신가요?
 
-[지원 페이지](https://www.bartlettbutter.com/support-url/nekopedia/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) 으로 이메일을 보내주세요.
+[지원 페이지](https://www.bartlettbutter.com/nekopedia/support/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) 으로 이메일을 보내주세요.

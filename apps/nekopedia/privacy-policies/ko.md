@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "개인정보 처리방침"
 lang: ko
-permalink: /privacy-policies/nekopedia/ko/
+permalink: /nekopedia/privacy/ko/
+redirect_from:
+  - /privacy-policies/nekopedia/ko/
 ---
 
 

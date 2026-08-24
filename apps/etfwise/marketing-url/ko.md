@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "실시간 데이터, 뉴스 감성, 기기 내 AI로 구동되는 매일의 ETF 추천."
 app_store_url: "https://apps.apple.com/us/app/etfwise/id6762496354"
 lang: ko
-permalink: /marketing-url/etfwise/ko/
+permalink: /etfwise/ko/
+redirect_from:
+  - /marketing-url/etfwise/ko/
 ---
 
 # ETF 투자에서의 매일의 우위.
@@ -48,8 +50,8 @@ iOS 18.0 이상 · iPhone 및 iPad
 
 계정 없음. 분석 없음. 광고 없음. 여러분의 데이터는 기기에 남아 있습니다. 시장 데이터를 가져오기 위해 금융 데이터 제공업체로 전송되는 것은 티커 심볼뿐입니다.
 
-전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/etfwise/)을 읽어보세요.
+전체 [개인정보 처리방침](https://www.bartlettbutter.com/etfwise/privacy/)을 읽어보세요.
 
 ## 도움이 필요하신가요?
 
-[지원 페이지](https://www.bartlettbutter.com/support-url/etfwise/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) 으로 이메일을 보내주세요.
+[지원 페이지](https://www.bartlettbutter.com/etfwise/support/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) 으로 이메일을 보내주세요.

@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "गोपनीयता नीति"
 lang: hi
-permalink: /privacy-policies/barkpedia/hi/
+permalink: /barkpedia/privacy/hi/
+redirect_from:
+  - /privacy-policies/barkpedia/hi/
 ---
 
 **प्रभावी तिथि:** 11 अप्रैल 2026

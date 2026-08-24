@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "サポート"
 lang: ja
-permalink: /support-url/formulens/ja/
+permalink: /formulens/support/ja/
+redirect_from:
+  - /support-url/formulens/ja/
 ---
 
 # どのようなお手伝いができますか？
@@ -127,7 +129,7 @@ App Storeから最新バージョンに更新し、デバイスを再起動し�
 
 ### どんなデータを収集しますか？
 
-ありません。FormuLensにはアカウント、分析、トラッキング、広告がありません。詳細は完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/formulens/)をご覧ください。
+ありません。FormuLensにはアカウント、分析、トラッキング、広告がありません。詳細は完全な[プライバシーポリシー](https://www.bartlettbutter.com/formulens/privacy/)をご覧ください。
 
 ### 保存したデータを削除するには？
 

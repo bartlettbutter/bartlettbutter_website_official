@@ -3,7 +3,9 @@ layout: default
 title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Support"
-permalink: /support-url/solcast/
+permalink: /solcast/support/
+redirect_from:
+  - /support-url/solcast/
 ---
 
 # How can we help?
@@ -38,7 +40,7 @@ Yes. There are no in-app purchases, no subscriptions, and no ads. Every feature 
 
 ### Does Solcast collect my data?
 
-No. There are no user accounts, no analytics, no tracking, and no advertising. All your preferences stay on your device. See our full [Privacy Policy](https://www.bartlettbutter.com/privacy-policies/solcast/) for details.
+No. There are no user accounts, no analytics, no tracking, and no advertising. All your preferences stay on your device. See our full [Privacy Policy](https://www.bartlettbutter.com/solcast/privacy/) for details.
 
 ### Do I need an internet connection?
 

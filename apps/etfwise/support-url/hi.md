@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "सहायता"
 lang: hi
-permalink: /support-url/etfwise/hi/
+permalink: /etfwise/support/hi/
+redirect_from:
+  - /support-url/etfwise/hi/
 ---
 
 # हम कैसे मदद कर सकते हैं?
@@ -61,7 +63,7 @@ ETFWise में एक हल्का भाषा मॉडल शामि�
 
 ### क्या मेरा डेटा निजी है?
 
-हाँ। कोई खाता नहीं, कोई एनालिटिक्स नहीं, कोई ट्रैकिंग नहीं। केवल टिकर प्रतीक वित्तीय डेटा प्रदाताओं को भेजे जाते हैं। विवरण के लिए हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/privacy-policies/etfwise/) देखें।
+हाँ। कोई खाता नहीं, कोई एनालिटिक्स नहीं, कोई ट्रैकिंग नहीं। केवल टिकर प्रतीक वित्तीय डेटा प्रदाताओं को भेजे जाते हैं। विवरण के लिए हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/etfwise/privacy/) देखें।
 
 ### अगर मैं ऐप हटा दूँ तो क्या होगा?
 

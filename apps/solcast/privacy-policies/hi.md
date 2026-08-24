@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "गोपनीयता नीति"
 lang: hi
-permalink: /privacy-policies/solcast/hi/
+permalink: /solcast/privacy/hi/
+redirect_from:
+  - /privacy-policies/solcast/hi/
 ---
 
 **प्रभावी तिथि:** 8 जुलाई 2026

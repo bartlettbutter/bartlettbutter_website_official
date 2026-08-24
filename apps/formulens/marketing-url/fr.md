@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Scannez n'importe quelle liste d'ingrédients. Sachez exactement ce que contiennent vos soins — et comment tout fonctionne ensemble."
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: fr
-permalink: /marketing-url/formulens/fr/
+permalink: /formulens/fr/
+redirect_from:
+  - /marketing-url/formulens/fr/
 ---
 
 # Sachez exactement ce que contiennent vos soins.
@@ -57,8 +59,8 @@ iOS 26.2 ou version ultérieure · iPhone et iPad
 
 Vos photos ne quittent jamais votre appareil. Toute la reconnaissance et l'analyse se font localement — sans serveurs, sans cloud, sans comptes, sans suivi.
 
-Lisez notre [Politique de confidentialité](https://www.bartlettbutter.com/privacy-policies/formulens/) complète.
+Lisez notre [Politique de confidentialité](https://www.bartlettbutter.com/formulens/privacy/) complète.
 
 ## Besoin d'aide ?
 
-Consultez notre [page d'assistance](https://www.bartlettbutter.com/support-url/formulens/) ou écrivez-nous à [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Consultez notre [page d'assistance](https://www.bartlettbutter.com/formulens/support/) ou écrivez-nous à [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

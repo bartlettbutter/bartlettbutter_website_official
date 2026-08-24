@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Daha akıllı planlayın. Daha hafif seyahat edin. Tüm gezileriniz, tek bir güzel merkezde."
 app_store_url: "https://apps.apple.com/us/app/journeyfolio/id6762172188"
 lang: tr
-permalink: /marketing-url/journeyfolio/tr/
+permalink: /journeyfolio/tr/
+redirect_from:
+  - /marketing-url/journeyfolio/tr/
 ---
 
 # Her yolculuk bir folioyu hak eder.
@@ -72,8 +74,8 @@ iOS 18.0 veya sonrası · iPhone ve iPad
 
 Tüm seyahat verileri cihazınızda kalır. Hesap yok, analiz yok, reklam yok, veri toplama yok. Nokta.
 
-Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/privacy-policies/journeyfolio/) okuyun.
+Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/journeyfolio/privacy/) okuyun.
 
 ## Yardıma mı ihtiyacınız var?
 
-[Destek Sayfamızı](https://www.bartlettbutter.com/support-url/journeyfolio/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.
+[Destek Sayfamızı](https://www.bartlettbutter.com/journeyfolio/support/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.

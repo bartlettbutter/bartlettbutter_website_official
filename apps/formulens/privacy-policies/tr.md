@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Gizlilik Politikası"
 lang: tr
-permalink: /privacy-policies/formulens/tr/
+permalink: /formulens/privacy/tr/
+redirect_from:
+  - /privacy-policies/formulens/tr/
 ---
 
 **Yürürlük Tarihi:** 8 Temmuz 2026

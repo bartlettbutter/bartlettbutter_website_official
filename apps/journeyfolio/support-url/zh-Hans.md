@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "支持"
 lang: zh-Hans
-permalink: /support-url/journeyfolio/zh-Hans/
+permalink: /journeyfolio/support/zh-Hans/
+redirect_from:
+  - /support-url/journeyfolio/zh-Hans/
 ---
 
 # 我们随时为您提供帮助。

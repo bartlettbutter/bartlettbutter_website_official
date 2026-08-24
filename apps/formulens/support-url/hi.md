@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "सहायता"
 lang: hi
-permalink: /support-url/formulens/hi/
+permalink: /formulens/support/hi/
+redirect_from:
+  - /support-url/formulens/hi/
 ---
 
 # हम आपकी क्या मदद कर सकते हैं?
@@ -127,7 +129,7 @@ App Store से नवीनतम संस्करण में अपडे
 
 ### आप कौन-सा डेटा एकत्र करते हैं?
 
-कोई नहीं। FormuLens में कोई खाते, कोई एनालिटिक्स, कोई ट्रैकिंग, और कोई विज्ञापन नहीं है। विवरण के लिए हमारी पूरी [निजता नीति](https://www.bartlettbutter.com/privacy-policies/formulens/) देखें।
+कोई नहीं। FormuLens में कोई खाते, कोई एनालिटिक्स, कोई ट्रैकिंग, और कोई विज्ञापन नहीं है। विवरण के लिए हमारी पूरी [निजता नीति](https://www.bartlettbutter.com/formulens/privacy/) देखें।
 
 ### मैं अपना सहेजा गया डेटा कैसे हटाऊँ?
 

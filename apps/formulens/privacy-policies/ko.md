@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "개인정보 처리방침"
 lang: ko
-permalink: /privacy-policies/formulens/ko/
+permalink: /formulens/privacy/ko/
+redirect_from:
+  - /privacy-policies/formulens/ko/
 ---
 
 **시행일:** 2026년 7월 8일

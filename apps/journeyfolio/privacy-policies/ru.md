@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Политика конфиденциальности"
 lang: ru
-permalink: /privacy-policies/journeyfolio/ru/
+permalink: /journeyfolio/privacy/ru/
+redirect_from:
+  - /privacy-policies/journeyfolio/ru/
 ---
 
 **Дата вступления в силу:** 22 июля 2026 г.

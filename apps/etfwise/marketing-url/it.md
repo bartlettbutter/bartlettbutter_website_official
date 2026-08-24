@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Raccomandazioni giornaliere sugli ETF basate su dati in tempo reale, sentiment delle notizie e IA sul dispositivo."
 app_store_url: "https://apps.apple.com/us/app/etfwise/id6762496354"
 lang: it
-permalink: /marketing-url/etfwise/it/
+permalink: /etfwise/it/
+redirect_from:
+  - /marketing-url/etfwise/it/
 ---
 
 # Il tuo vantaggio quotidiano nell'investimento in ETF.
@@ -48,8 +50,8 @@ iOS 18.0 o successivo · iPhone e iPad
 
 Nessun account. Nessuna analisi. Nessuna pubblicità. I tuoi dati rimangono sul tuo dispositivo. Solo i simboli ticker vengono inviati ai fornitori di dati finanziari per recuperare i dati di mercato.
 
-Leggi la nostra [Informativa sulla Privacy](https://www.bartlettbutter.com/privacy-policies/etfwise/) completa.
+Leggi la nostra [Informativa sulla Privacy](https://www.bartlettbutter.com/etfwise/privacy/) completa.
 
 ## Hai bisogno di aiuto?
 
-Visita la nostra [Pagina di Supporto](https://www.bartlettbutter.com/support-url/etfwise/) o inviaci un'e-mail all'indirizzo [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Visita la nostra [Pagina di Supporto](https://www.bartlettbutter.com/etfwise/support/) o inviaci un'e-mail all'indirizzo [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Supporto"
 lang: it
-permalink: /support-url/etfwise/it/
+permalink: /etfwise/support/it/
+redirect_from:
+  - /support-url/etfwise/it/
 ---
 
 # Come possiamo aiutarti?
@@ -61,7 +63,7 @@ Sì. Usa la barra di ricerca per trovare qualsiasi ETF tramite simbolo ticker o 
 
 ### I miei dati sono privati?
 
-Sì. Nessun account, nessuna analisi, nessun tracciamento. Solo i simboli ticker vengono inviati ai fornitori di dati finanziari. Consulta la nostra [Informativa sulla Privacy](https://www.bartlettbutter.com/privacy-policies/etfwise/) completa per maggiori dettagli.
+Sì. Nessun account, nessuna analisi, nessun tracciamento. Solo i simboli ticker vengono inviati ai fornitori di dati finanziari. Consulta la nostra [Informativa sulla Privacy](https://www.bartlettbutter.com/etfwise/privacy/) completa per maggiori dettagli.
 
 ### Cosa succede se elimino l'app?
 

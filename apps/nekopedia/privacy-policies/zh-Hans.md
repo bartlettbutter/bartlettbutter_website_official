@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "隐私政策"
 lang: zh-Hans
-permalink: /privacy-policies/nekopedia/zh-Hans/
+permalink: /nekopedia/privacy/zh-Hans/
+redirect_from:
+  - /privacy-policies/nekopedia/zh-Hans/
 ---
 
 

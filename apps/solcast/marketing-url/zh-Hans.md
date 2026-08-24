@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "实时天气，配以个性化生活方式指导，为您的一天量身定制。"
 app_store_url: "https://apps.apple.com/us/app/solcast/id6763927556"
 lang: zh-Hans
-permalink: /marketing-url/solcast/zh-Hans/
+permalink: /solcast/zh-Hans/
+redirect_from:
+  - /marketing-url/solcast/zh-Hans/
 ---
 
 # 准确知道如何着装、规划和保护您的一天。
@@ -57,8 +59,8 @@ iPhone和iPad · iOS 18.0或更高版本 · iPadOS 18.0或更高版本
 
 没有账户。没有分析。没有广告。您的位置仅用于获取天气，从不存储在任何服务器上。所有个性化都保留在您的设备上。
 
-阅读我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/solcast/)。
+阅读我们完整的[隐私政策](https://www.bartlettbutter.com/solcast/privacy/)。
 
 ## 需要帮助？
 
-访问我们的[支持页面](https://www.bartlettbutter.com/support-url/solcast/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。
+访问我们的[支持页面](https://www.bartlettbutter.com/solcast/support/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。

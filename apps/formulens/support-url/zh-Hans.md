@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "支持"
 lang: zh-Hans
-permalink: /support-url/formulens/zh-Hans/
+permalink: /formulens/support/zh-Hans/
+redirect_from:
+  - /support-url/formulens/zh-Hans/
 ---
 
 # 我们能帮你什么？
@@ -127,7 +129,7 @@ FormuLens 内置了庞大的常见化妆品成分数据库。非常新、罕见�
 
 ### 你们会收集哪些数据？
 
-不收集任何数据。FormuLens 没有账户、没有分析统计、没有追踪，也没有广告。详情请查看我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/formulens/)。
+不收集任何数据。FormuLens 没有账户、没有分析统计、没有追踪，也没有广告。详情请查看我们完整的[隐私政策](https://www.bartlettbutter.com/formulens/privacy/)。
 
 ### 我该如何删除已保存的数据？
 

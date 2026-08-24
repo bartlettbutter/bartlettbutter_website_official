@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Поддержка"
 lang: ru
-permalink: /support-url/solcast/ru/
+permalink: /solcast/support/ru/
+redirect_from:
+  - /support-url/solcast/ru/
 ---
 
 # Чем мы можем помочь?
@@ -39,7 +41,7 @@ permalink: /support-url/solcast/ru/
 
 ### Собирает ли Solcast мои данные?
 
-Нет. Нет учётных записей пользователей, аналитики, отслеживания и рекламы. Все ваши настройки остаются на вашем устройстве. Подробнее см. в нашей полной [Политике конфиденциальности](https://www.bartlettbutter.com/privacy-policies/solcast/).
+Нет. Нет учётных записей пользователей, аналитики, отслеживания и рекламы. Все ваши настройки остаются на вашем устройстве. Подробнее см. в нашей полной [Политике конфиденциальности](https://www.bartlettbutter.com/solcast/privacy/).
 
 ### Нужно ли мне подключение к интернету?
 

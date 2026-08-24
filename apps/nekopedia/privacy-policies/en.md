@@ -3,7 +3,9 @@ layout: default
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Privacy Policy"
-permalink: /privacy-policies/nekopedia/
+permalink: /nekopedia/privacy/
+redirect_from:
+  - /privacy-policies/nekopedia/
 ---
 
 

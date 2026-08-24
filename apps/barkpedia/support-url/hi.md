@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "सहायता"
 lang: hi
-permalink: /support-url/barkpedia/hi/
+permalink: /barkpedia/support/hi/
+redirect_from:
+  - /support-url/barkpedia/hi/
 ---
 
 # हम कैसे मदद कर सकते हैं?
@@ -55,7 +57,7 @@ Barkpedia AKC मानकों के आधार पर 147 नस्ले�
 
 ### क्या मेरा डेटा निजी है?
 
-हाँ। आपकी तस्वीरें पूरी तरह आपके डिवाइस पर संसाधित होती हैं और कभी अपलोड नहीं की जातीं। Barkpedia कोई व्यक्तिगत डेटा एकत्र नहीं करता, कोई उपयोगकर्ता खाता नहीं है, और कोई एनालिटिक्स या ट्रैकिंग शामिल नहीं है। विवरण के लिए हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/privacy-policies/barkpedia/) देखें।
+हाँ। आपकी तस्वीरें पूरी तरह आपके डिवाइस पर संसाधित होती हैं और कभी अपलोड नहीं की जातीं। Barkpedia कोई व्यक्तिगत डेटा एकत्र नहीं करता, कोई उपयोगकर्ता खाता नहीं है, और कोई एनालिटिक्स या ट्रैकिंग शामिल नहीं है। विवरण के लिए हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/barkpedia/privacy/) देखें।
 
 ### मेरा डेटा कहाँ संग्रहीत होता है?
 

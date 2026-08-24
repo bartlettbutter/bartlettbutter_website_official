@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Planeje de forma mais inteligente. Viaje mais leve. Todas as suas viagens, um belo hub."
 app_store_url: "https://apps.apple.com/us/app/journeyfolio/id6762172188"
 lang: pt
-permalink: /marketing-url/journeyfolio/pt/
+permalink: /journeyfolio/pt/
+redirect_from:
+  - /marketing-url/journeyfolio/pt/
 ---
 
 # Toda jornada merece um folio.
@@ -72,8 +74,8 @@ iOS 18.0 ou posterior · iPhone e iPad
 
 Todos os dados de viagem permanecem no seu dispositivo. Sem contas, sem análises, sem anúncios, sem coleta de dados. Ponto final.
 
-Leia nossa [Política de Privacidade](https://www.bartlettbutter.com/privacy-policies/journeyfolio/) completa.
+Leia nossa [Política de Privacidade](https://www.bartlettbutter.com/journeyfolio/privacy/) completa.
 
 ## Precisa de ajuda?
 
-Visite nossa [Página de Suporte](https://www.bartlettbutter.com/support-url/journeyfolio/) ou envie-nos um e-mail para [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Visite nossa [Página de Suporte](https://www.bartlettbutter.com/journeyfolio/support/) ou envie-nos um e-mail para [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

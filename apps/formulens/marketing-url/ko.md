@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "어떤 성분표든 스캔하세요. 당신의 스킨케어에 무엇이 들었는지, 그리고 그것들이 어떻게 함께 작동하는지 정확히 알아보세요."
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: ko
-permalink: /marketing-url/formulens/ko/
+permalink: /formulens/ko/
+redirect_from:
+  - /marketing-url/formulens/ko/
 ---
 
 # 당신의 스킨케어에 무엇이 들었는지 정확히 알아보세요.
@@ -57,8 +59,8 @@ iOS 26.2 이상 · iPhone 및 iPad
 
 당신의 사진은 절대 기기를 벗어나지 않습니다. 모든 인식과 분석은 로컬에서 이루어집니다 — 서버도, 클라우드도, 계정도, 추적도 없습니다.
 
-전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/formulens/)을 읽어보세요.
+전체 [개인정보 처리방침](https://www.bartlettbutter.com/formulens/privacy/)을 읽어보세요.
 
 ## 도움이 필요하신가요?
 
-[지원 페이지](https://www.bartlettbutter.com/support-url/formulens/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)으로 이메일을 보내주세요.
+[지원 페이지](https://www.bartlettbutter.com/formulens/support/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)으로 이메일을 보내주세요.

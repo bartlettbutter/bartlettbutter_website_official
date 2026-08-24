@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Политика конфиденциальности"
 lang: ru
-permalink: /privacy-policies/formulens/ru/
+permalink: /formulens/privacy/ru/
+redirect_from:
+  - /privacy-policies/formulens/ru/
 ---
 
 **Дата вступления в силу:** 8 июля 2026 г.

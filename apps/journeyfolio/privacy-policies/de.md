@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Datenschutzrichtlinie"
 lang: de
-permalink: /privacy-policies/journeyfolio/de/
+permalink: /journeyfolio/privacy/de/
+redirect_from:
+  - /privacy-policies/journeyfolio/de/
 ---
 
 **Gültig ab:** 22. Juli 2026

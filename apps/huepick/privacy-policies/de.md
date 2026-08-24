@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Datenschutzrichtlinie"
 lang: de
-permalink: /privacy-policies/huepick/de/
+permalink: /huepick/privacy/de/
+redirect_from:
+  - /privacy-policies/huepick/de/
 ---
 
 **Gültig ab:** 8. Juli 2026

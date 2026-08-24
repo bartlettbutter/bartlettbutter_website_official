@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "リアルタイムデータ、ニュースのセンチメント、デバイス上のAIによる毎日のETF推奨。"
 app_store_url: "https://apps.apple.com/us/app/etfwise/id6762496354"
 lang: ja
-permalink: /marketing-url/etfwise/ja/
+permalink: /etfwise/ja/
+redirect_from:
+  - /marketing-url/etfwise/ja/
 ---
 
 # ETF投資におけるあなたの日々の優位性。
@@ -48,8 +50,8 @@ iOS 18.0以降 · iPhoneおよびiPad
 
 アカウントなし。分析なし。広告なし。あなたのデータはデバイス上に留まります。市場データを取得するために金融データプロバイダーに送信されるのはティッカーシンボルのみです。
 
-完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/etfwise/)をお読みください。
+完全な[プライバシーポリシー](https://www.bartlettbutter.com/etfwise/privacy/)をお読みください。
 
 ## お困りですか？
 
-[サポートページ](https://www.bartlettbutter.com/support-url/etfwise/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。
+[サポートページ](https://www.bartlettbutter.com/etfwise/support/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。

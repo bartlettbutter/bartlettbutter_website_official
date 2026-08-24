@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Privacybeleid"
 lang: nl
-permalink: /privacy-policies/journeyfolio/nl/
+permalink: /journeyfolio/privacy/nl/
+redirect_from:
+  - /privacy-policies/journeyfolio/nl/
 ---
 
 **Ingangsdatum:** 22 juli 2026

@@ -3,7 +3,9 @@ layout: default
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Support"
-permalink: /support-url/journeyfolio/
+permalink: /journeyfolio/support/
+redirect_from:
+  - /support-url/journeyfolio/
 ---
 
 # We're here to help.

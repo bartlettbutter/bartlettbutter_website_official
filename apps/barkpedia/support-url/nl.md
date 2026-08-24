@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Ondersteuning"
 lang: nl
-permalink: /support-url/barkpedia/nl/
+permalink: /barkpedia/support/nl/
+redirect_from:
+  - /support-url/barkpedia/nl/
 ---
 
 # Hoe kunnen we helpen?
@@ -55,7 +57,7 @@ Ja. Barkpedia past zijn lay-out automatisch aan — tabnavigatie op de iPhone en
 
 ### Zijn mijn gegevens privé?
 
-Ja. Je foto's worden volledig op je apparaat verwerkt en worden nooit geüpload. Barkpedia verzamelt geen persoonsgegevens, heeft geen gebruikersaccounts en bevat geen analyse of tracking. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/privacy-policies/barkpedia/) voor meer details.
+Ja. Je foto's worden volledig op je apparaat verwerkt en worden nooit geüpload. Barkpedia verzamelt geen persoonsgegevens, heeft geen gebruikersaccounts en bevat geen analyse of tracking. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/barkpedia/privacy/) voor meer details.
 
 ### Waar worden mijn gegevens opgeslagen?
 

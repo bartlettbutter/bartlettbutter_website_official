@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Politique de Confidentialité"
 lang: fr
-permalink: /privacy-policies/journeyfolio/fr/
+permalink: /journeyfolio/privacy/fr/
+redirect_from:
+  - /privacy-policies/journeyfolio/fr/
 ---
 
 **Date d'entrée en vigueur :** 22 juillet 2026

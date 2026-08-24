@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Fotoğraflardan paletler çıkarın ve yaratıcı araçlarla görüntüleri dönüştürün — ücretsiz, gizli, hesap gerekmez."
 app_store_url: "https://apps.apple.com/app/huepick"
 lang: tr
-permalink: /marketing-url/huepick/tr/
+permalink: /huepick/tr/
+redirect_from:
+  - /marketing-url/huepick/tr/
 ---
 
 # Renkleri farklı görün.
@@ -54,8 +56,8 @@ iOS 18.6 veya sonrası · iPhone ve iPad
 
 Hesap yok. Analiz yok. Reklam yok. Her şey cihazınızda çalışır.
 
-Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/privacy-policies/huepick/) okuyun.
+Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/huepick/privacy/) okuyun.
 
 ## Yardıma mı ihtiyacınız var?
 
-[Destek Sayfamızı](https://www.bartlettbutter.com/support-url/huepick/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.
+[Destek Sayfamızı](https://www.bartlettbutter.com/huepick/support/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.

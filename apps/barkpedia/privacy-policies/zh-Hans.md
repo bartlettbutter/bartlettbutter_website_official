@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "隐私政策"
 lang: zh-Hans
-permalink: /privacy-policies/barkpedia/zh-Hans/
+permalink: /barkpedia/privacy/zh-Hans/
+redirect_from:
+  - /privacy-policies/barkpedia/zh-Hans/
 ---
 
 **生效日期：** 2026年4月11日

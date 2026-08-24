@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "किसी भी सामग्री सूची को स्कैन करें। जानें कि आपके स्किनकेयर में असल में क्या है — और यह सब मिलकर कैसे काम करता है।"
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: hi
-permalink: /marketing-url/formulens/hi/
+permalink: /formulens/hi/
+redirect_from:
+  - /marketing-url/formulens/hi/
 ---
 
 # जानें कि आपके स्किनकेयर में असल में क्या है।
@@ -57,8 +59,8 @@ iOS 26.2 या बाद का संस्करण · iPhone और iPad
 
 आपकी फ़ोटो कभी आपके डिवाइस से बाहर नहीं जातीं। सारी पहचान और विश्लेषण स्थानीय रूप से होते हैं — बिना किसी सर्वर, बिना क्लाउड, बिना खातों, बिना ट्रैकिंग के।
 
-हमारी पूरी [निजता नीति](https://www.bartlettbutter.com/privacy-policies/formulens/) पढ़ें।
+हमारी पूरी [निजता नीति](https://www.bartlettbutter.com/formulens/privacy/) पढ़ें।
 
 ## मदद चाहिए?
 
-हमारे [सहायता पृष्ठ](https://www.bartlettbutter.com/support-url/formulens/) पर जाएँ या हमें [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) पर ईमेल करें।
+हमारे [सहायता पृष्ठ](https://www.bartlettbutter.com/formulens/support/) पर जाएँ या हमें [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) पर ईमेल करें।

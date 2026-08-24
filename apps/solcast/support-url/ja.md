@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "サポート"
 lang: ja
-permalink: /support-url/solcast/ja/
+permalink: /solcast/support/ja/
+redirect_from:
+  - /support-url/solcast/ja/
 ---
 
 # どのようなお手伝いができますか？
@@ -39,7 +41,7 @@ Solcastを開くだけです — アカウント不要、サインアップ不�
 
 ### Solcastは私のデータを収集しますか？
 
-いいえ。ユーザーアカウント、分析、トラッキング、広告はありません。あなたのすべての設定はあなたのデバイス上に留まります。詳細は完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/solcast/)をご覧ください。
+いいえ。ユーザーアカウント、分析、トラッキング、広告はありません。あなたのすべての設定はあなたのデバイス上に留まります。詳細は完全な[プライバシーポリシー](https://www.bartlettbutter.com/solcast/privacy/)をご覧ください。
 
 ### インターネット接続は必要ですか？
 

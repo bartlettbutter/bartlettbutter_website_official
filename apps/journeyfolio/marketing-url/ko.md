@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "더 똑똑하게 계획하세요. 더 가볍게 여행하세요. 모든 여행을 하나의 아름다운 허브에."
 app_store_url: "https://apps.apple.com/us/app/journeyfolio/id6762172188"
 lang: ko
-permalink: /marketing-url/journeyfolio/ko/
+permalink: /journeyfolio/ko/
+redirect_from:
+  - /marketing-url/journeyfolio/ko/
 ---
 
 # 모든 여정에는 폴리오가 필요합니다.
@@ -72,8 +74,8 @@ iOS 18.0 이상 · iPhone 및 iPad
 
 모든 여행 데이터는 여러분의 기기에 남아 있습니다. 계정 없음, 분석 없음, 광고 없음, 데이터 수집 없음. 이상입니다.
 
-전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/journeyfolio/)을 읽어보세요.
+전체 [개인정보 처리방침](https://www.bartlettbutter.com/journeyfolio/privacy/)을 읽어보세요.
 
 ## 도움이 필요하신가요?
 
-[지원 페이지](https://www.bartlettbutter.com/support-url/journeyfolio/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) 으로 이메일을 보내주세요.
+[지원 페이지](https://www.bartlettbutter.com/journeyfolio/support/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) 으로 이메일을 보내주세요.

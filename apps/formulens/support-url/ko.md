@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "지원"
 lang: ko
-permalink: /support-url/formulens/ko/
+permalink: /formulens/support/ko/
+redirect_from:
+  - /support-url/formulens/ko/
 ---
 
 # 무엇을 도와드릴까요?
@@ -127,7 +129,7 @@ App Store에서 최신 버전으로 업데이트하고 기기를 재시작하세
 
 ### 어떤 데이터를 수집하나요?
 
-없습니다. FormuLens에는 계정도, 분석도, 추적도, 광고도 없습니다. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/formulens/)을 참조하세요.
+없습니다. FormuLens에는 계정도, 분석도, 추적도, 광고도 없습니다. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/formulens/privacy/)을 참조하세요.
 
 ### 저장한 데이터를 어떻게 삭제하나요?
 

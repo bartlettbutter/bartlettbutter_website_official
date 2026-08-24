@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "गोपनीयता नीति"
 lang: hi
-permalink: /privacy-policies/etfwise/hi/
+permalink: /etfwise/privacy/hi/
+redirect_from:
+  - /privacy-policies/etfwise/hi/
 ---
 
 **प्रभावी तिथि:** 25 अप्रैल 2026

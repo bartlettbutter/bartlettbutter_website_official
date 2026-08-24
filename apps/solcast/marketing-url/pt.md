@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Clima em tempo real com orientação de estilo de vida personalizada, adaptada ao seu dia."
 app_store_url: "https://apps.apple.com/us/app/solcast/id6763927556"
 lang: pt
-permalink: /marketing-url/solcast/pt/
+permalink: /solcast/pt/
+redirect_from:
+  - /marketing-url/solcast/pt/
 ---
 
 # Saiba exatamente como se vestir, planejar e proteger seu dia.
@@ -57,8 +59,8 @@ iPhone e iPad · iOS 18.0 ou posterior · iPadOS 18.0 ou posterior
 
 Sem contas. Sem análises. Sem anúncios. Sua localização é usada apenas para obter o clima e nunca é armazenada em nenhum servidor. Toda a personalização permanece no seu dispositivo.
 
-Leia nossa [Política de Privacidade](https://www.bartlettbutter.com/privacy-policies/solcast/) completa.
+Leia nossa [Política de Privacidade](https://www.bartlettbutter.com/solcast/privacy/) completa.
 
 ## Precisa de ajuda?
 
-Visite nossa [Página de Suporte](https://www.bartlettbutter.com/support-url/solcast/) ou envie-nos um e-mail para [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Visite nossa [Página de Suporte](https://www.bartlettbutter.com/solcast/support/) ou envie-nos um e-mail para [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

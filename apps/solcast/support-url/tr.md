@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Destek"
 lang: tr
-permalink: /support-url/solcast/tr/
+permalink: /solcast/support/tr/
+redirect_from:
+  - /support-url/solcast/tr/
 ---
 
 # Size nasıl yardımcı olabiliriz?
@@ -39,7 +41,7 @@ Evet. Uygulama içi satın alma, abonelik veya reklam yoktur. Her özellik ilk g
 
 ### Solcast verilerimi topluyor mu?
 
-Hayır. Kullanıcı hesabı, analiz, izleme veya reklam yoktur. Tüm tercihleriniz cihazınızda kalır. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/privacy-policies/solcast/) bakın.
+Hayır. Kullanıcı hesabı, analiz, izleme veya reklam yoktur. Tüm tercihleriniz cihazınızda kalır. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/solcast/privacy/) bakın.
 
 ### İnternet bağlantısına ihtiyacım var mı?
 

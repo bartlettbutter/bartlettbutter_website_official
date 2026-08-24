@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "プライバシーポリシー"
 lang: ja
-permalink: /privacy-policies/journeyfolio/ja/
+permalink: /journeyfolio/privacy/ja/
+redirect_from:
+  - /privacy-policies/journeyfolio/ja/
 ---
 
 **発効日：** 2026年7月22日

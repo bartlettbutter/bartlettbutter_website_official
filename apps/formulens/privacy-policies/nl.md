@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Privacybeleid"
 lang: nl
-permalink: /privacy-policies/formulens/nl/
+permalink: /formulens/privacy/nl/
+redirect_from:
+  - /privacy-policies/formulens/nl/
 ---
 
 **Ingangsdatum:** 8 juli 2026

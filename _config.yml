@@ -4,16 +4,25 @@ description: "Crisp & Smooth Apps for Mobile and Web"
 url: "https://www.bartlettbutter.com"
 baseurl: ""
 
+# Plugins (GitHub Pages supported set)
+plugins:
+  - jekyll-redirect-from   # emits redirect stubs at each page's `redirect_from` URLs
+
 # ──────────────────────────────────────────────────────────────────────
 # Project structure (source → published URL via permalink front matter)
 # ──────────────────────────────────────────────────────────────────────
 #
 # pages/home/          Homepage in each language  →  / and /<lang>/
 # apps/<app>/
-#   marketing-url/     Marketing pages per lang   →  /marketing-url/<app>/[<lang>/]
-#   privacy-policies/  Privacy policies per lang  →  /privacy-policies/<app>/[<lang>/]
-#   support-url/       Support pages per lang     →  /support-url/<app>/[<lang>/]
+#   marketing-url/     Marketing pages per lang   →  /<app>/[<lang>/]
+#   support-url/       Support pages per lang     →  /<app>/support/[<lang>/]
+#   privacy-policies/  Privacy policies per lang  →  /<app>/privacy/[<lang>/]
 #
-# Each file is named by its language code (en.md, ja.md, ar.md, etc.)
-# and uses `permalink` to preserve the original published URL.
+# The source folder names (marketing-url, support-url, privacy-policies) are
+# historical; the published URL is what each file's `permalink` declares.
+# English lives at the un-suffixed base; every other language appends its
+# code as the trailing path segment. Each file also lists the legacy path in
+# `redirect_from` so old links 301 to the new location.
+#
+# Each file is named by its language code (en.md, ja.md, ar.md, etc.).
 # ──────────────────────────────────────────────────────────────────────

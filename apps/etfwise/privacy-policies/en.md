@@ -3,7 +3,9 @@ layout: default
 title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Privacy Policy"
-permalink: /privacy-policies/etfwise/
+permalink: /etfwise/privacy/
+redirect_from:
+  - /privacy-policies/etfwise/
 ---
 
 **Effective Date:** April 25, 2026

@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "개인정보 처리방침"
 lang: ko
-permalink: /privacy-policies/solcast/ko/
+permalink: /solcast/privacy/ko/
+redirect_from:
+  - /privacy-policies/solcast/ko/
 ---
 
 **시행일:** 2026년 7월 8일

@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Privacybeleid"
 lang: nl
-permalink: /privacy-policies/barkpedia/nl/
+permalink: /barkpedia/privacy/nl/
+redirect_from:
+  - /privacy-policies/barkpedia/nl/
 ---
 
 **Ingangsdatum:** 11 april 2026

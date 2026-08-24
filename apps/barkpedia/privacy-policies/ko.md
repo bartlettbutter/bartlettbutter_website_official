@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "개인정보 처리방침"
 lang: ko
-permalink: /privacy-policies/barkpedia/ko/
+permalink: /barkpedia/privacy/ko/
+redirect_from:
+  - /privacy-policies/barkpedia/ko/
 ---
 
 **시행일:** 2026년 4월 11일

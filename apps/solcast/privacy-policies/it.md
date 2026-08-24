@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Informativa sulla Privacy"
 lang: it
-permalink: /privacy-policies/solcast/it/
+permalink: /solcast/privacy/it/
+redirect_from:
+  - /privacy-policies/solcast/it/
 ---
 
 **Data di entrata in vigore:** 8 luglio 2026

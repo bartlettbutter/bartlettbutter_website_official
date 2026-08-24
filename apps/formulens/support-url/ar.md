@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "الدعم"
 lang: ar
-permalink: /support-url/formulens/ar/
+permalink: /formulens/support/ar/
+redirect_from:
+  - /support-url/formulens/ar/
 ---
 
 # كيف يمكننا مساعدتك؟
@@ -127,7 +129,7 @@ permalink: /support-url/formulens/ar/
 
 ### ما البيانات التي تجمعونها؟
 
-لا شيء. لا يحتوي FormuLens على حسابات، ولا تحليلات، ولا تتبّع، ولا إعلانات. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/privacy-policies/formulens/) الكاملة للاطّلاع على التفاصيل.
+لا شيء. لا يحتوي FormuLens على حسابات، ولا تحليلات، ولا تتبّع، ولا إعلانات. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/formulens/privacy/) الكاملة للاطّلاع على التفاصيل.
 
 ### كيف أحذف بياناتي المحفوظة؟
 

@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "개인정보 처리방침"
 lang: ko
-permalink: /privacy-policies/etfwise/ko/
+permalink: /etfwise/privacy/ko/
+redirect_from:
+  - /privacy-policies/etfwise/ko/
 ---
 
 **시행일:** 2026년 4월 25일

@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Gizlilik Politikası"
 lang: tr
-permalink: /privacy-policies/barkpedia/tr/
+permalink: /barkpedia/privacy/tr/
+redirect_from:
+  - /privacy-policies/barkpedia/tr/
 ---
 
 **Yürürlük Tarihi:** 11 Nisan 2026

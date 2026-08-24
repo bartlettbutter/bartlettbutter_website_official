@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "سياسة الخصوصية"
 lang: ar
-permalink: /privacy-policies/huepick/ar/
+permalink: /huepick/privacy/ar/
+redirect_from:
+  - /privacy-policies/huepick/ar/
 ---
 
 **تاريخ السريان:** 8 يوليو 2026

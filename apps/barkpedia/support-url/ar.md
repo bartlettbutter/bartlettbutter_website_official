@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "الدعم"
 lang: ar
-permalink: /support-url/barkpedia/ar/
+permalink: /barkpedia/support/ar/
+redirect_from:
+  - /support-url/barkpedia/ar/
 ---
 
 # كيف يمكننا مساعدتك؟
@@ -55,7 +57,7 @@ permalink: /support-url/barkpedia/ar/
 
 ### هل بياناتي خاصة؟
 
-نعم. تتم معالجة صورك بالكامل على جهازك ولا تُرفع أبدًا. لا يجمع Barkpedia أي بيانات شخصية، وليس له حسابات مستخدمين، ولا يتضمّن أي تحليلات أو تتبع. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/privacy-policies/barkpedia/) الكاملة الخاصة بنا لمزيد من التفاصيل.
+نعم. تتم معالجة صورك بالكامل على جهازك ولا تُرفع أبدًا. لا يجمع Barkpedia أي بيانات شخصية، وليس له حسابات مستخدمين، ولا يتضمّن أي تحليلات أو تتبع. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/barkpedia/privacy/) الكاملة الخاصة بنا لمزيد من التفاصيل.
 
 ### أين تُخزَّن بياناتي؟
 

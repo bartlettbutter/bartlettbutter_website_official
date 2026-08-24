@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "개인정보 처리방침"
 lang: ko
-permalink: /privacy-policies/journeyfolio/ko/
+permalink: /journeyfolio/privacy/ko/
+redirect_from:
+  - /privacy-policies/journeyfolio/ko/
 ---
 
 **시행일:** 2026년 7월 22일

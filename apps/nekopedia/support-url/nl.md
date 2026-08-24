@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Ondersteuning"
 lang: nl
-permalink: /support-url/nekopedia/nl/
+permalink: /nekopedia/support/nl/
+redirect_from:
+  - /support-url/nekopedia/nl/
 ---
 
 # Hoe kunnen we helpen?
@@ -65,7 +67,7 @@ Ja. Nekopedia is een universele app die zowel op iPhone als iPad werkt.
 
 ### Zijn mijn gegevens privé?
 
-Ja. Je foto's verlaten nooit je apparaat en er worden geen persoonsgegevens verzameld. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/privacy-policies/nekopedia/) voor meer details.
+Ja. Je foto's verlaten nooit je apparaat en er worden geen persoonsgegevens verzameld. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/nekopedia/privacy/) voor meer details.
 
 ## Toestemmingen
 

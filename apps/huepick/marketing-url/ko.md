@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "사진에서 팔레트를 추출하고 창의적인 도구로 이미지를 변환하세요 — 무료, 비공개, 계정 불필요."
 app_store_url: "https://apps.apple.com/app/huepick"
 lang: ko
-permalink: /marketing-url/huepick/ko/
+permalink: /huepick/ko/
+redirect_from:
+  - /marketing-url/huepick/ko/
 ---
 
 # 색을 다르게 보세요.
@@ -54,8 +56,8 @@ iOS 18.6 이상 · iPhone 및 iPad
 
 계정 없음. 분석 없음. 광고 없음. 모든 것이 여러분의 기기에서 실행됩니다.
 
-전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/huepick/)을 읽어보세요.
+전체 [개인정보 처리방침](https://www.bartlettbutter.com/huepick/privacy/)을 읽어보세요.
 
 ## 도움이 필요하신가요?
 
-[지원 페이지](https://www.bartlettbutter.com/support-url/huepick/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) 으로 이메일을 보내주세요.
+[지원 페이지](https://www.bartlettbutter.com/huepick/support/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) 으로 이메일을 보내주세요.

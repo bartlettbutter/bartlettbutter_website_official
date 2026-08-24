@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "सहायता"
 lang: hi
-permalink: /support-url/nekopedia/hi/
+permalink: /nekopedia/support/hi/
+redirect_from:
+  - /support-url/nekopedia/hi/
 ---
 
 # हम कैसे मदद कर सकते हैं?
@@ -65,7 +67,7 @@ Nekopedia को अनइंस्टॉल करने से आपके �
 
 ### क्या मेरा डेटा निजी है?
 
-हाँ। आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं और कोई व्यक्तिगत डेटा एकत्र नहीं किया जाता। विवरण के लिए हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/privacy-policies/nekopedia/) देखें।
+हाँ। आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं और कोई व्यक्तिगत डेटा एकत्र नहीं किया जाता। विवरण के लिए हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/nekopedia/privacy/) देखें।
 
 ## अनुमतियाँ
 

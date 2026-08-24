@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Identifiez n'importe quelle race de chat instantanément. Gratuit, hors ligne et privé."
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 lang: fr
-permalink: /marketing-url/nekopedia/fr/
+permalink: /nekopedia/fr/
+redirect_from:
+  - /marketing-url/nekopedia/fr/
 ---
 
 # Quelle race est ce chat ? Pointez votre appareil photo et découvrez-le.
@@ -51,8 +53,8 @@ iOS 18.0 ou version ultérieure · iPhone et iPad
 
 Vos photos ne quittent jamais votre appareil. Aucun compte, aucune analyse, aucune publicité. Juste vous et les chats.
 
-Lisez notre [Politique de Confidentialité](https://www.bartlettbutter.com/privacy-policies/nekopedia/) complète.
+Lisez notre [Politique de Confidentialité](https://www.bartlettbutter.com/nekopedia/privacy/) complète.
 
 ## Besoin d'aide ?
 
-Visitez notre [Page d'Assistance](https://www.bartlettbutter.com/support-url/nekopedia/) ou envoyez-nous un e-mail à [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Visitez notre [Page d'Assistance](https://www.bartlettbutter.com/nekopedia/support/) ou envoyez-nous un e-mail à [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

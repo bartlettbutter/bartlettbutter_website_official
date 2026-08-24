@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Определяйте любую породу кошек мгновенно. Бесплатно, офлайн и конфиденциально."
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 lang: ru
-permalink: /marketing-url/nekopedia/ru/
+permalink: /nekopedia/ru/
+redirect_from:
+  - /marketing-url/nekopedia/ru/
 ---
 
 # Что это за порода кошки? Наведите камеру и узнайте.
@@ -51,8 +53,8 @@ iOS 18.0 или новее · iPhone и iPad
 
 Ваши фотографии никогда не покидают ваше устройство. Никаких учётных записей, аналитики и рекламы. Только вы и кошки.
 
-Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/privacy-policies/nekopedia/).
+Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/nekopedia/privacy/).
 
 ## Нужна помощь?
 
-Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/support-url/nekopedia/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/nekopedia/support/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

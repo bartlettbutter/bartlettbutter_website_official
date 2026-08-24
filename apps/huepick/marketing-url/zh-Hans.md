@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "从照片中提取调色板，用创意工具转换图像 — 免费、私密、无需账户。"
 app_store_url: "https://apps.apple.com/app/huepick"
 lang: zh-Hans
-permalink: /marketing-url/huepick/zh-Hans/
+permalink: /huepick/zh-Hans/
+redirect_from:
+  - /marketing-url/huepick/zh-Hans/
 ---
 
 # 用不同的方式看色彩。
@@ -54,8 +56,8 @@ iOS 18.6或更高版本 · iPhone和iPad
 
 没有账户。没有分析。没有广告。一切都在您的设备上运行。
 
-阅读我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/huepick/)。
+阅读我们完整的[隐私政策](https://www.bartlettbutter.com/huepick/privacy/)。
 
 ## 需要帮助？
 
-访问我们的[支持页面](https://www.bartlettbutter.com/support-url/huepick/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。
+访问我们的[支持页面](https://www.bartlettbutter.com/huepick/support/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。

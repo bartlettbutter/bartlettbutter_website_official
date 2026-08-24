@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "支持"
 lang: zh-Hans
-permalink: /support-url/solcast/zh-Hans/
+permalink: /solcast/support/zh-Hans/
+redirect_from:
+  - /support-url/solcast/zh-Hans/
 ---
 
 # 我们能帮您什么？
@@ -39,7 +41,7 @@ permalink: /support-url/solcast/zh-Hans/
 
 ### Solcast会收集我的数据吗？
 
-不会。没有用户账户，没有分析，没有追踪，也没有广告。您的所有偏好设置都保留在您的设备上。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/solcast/)。
+不会。没有用户账户，没有分析，没有追踪，也没有广告。您的所有偏好设置都保留在您的设备上。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/solcast/privacy/)。
 
 ### 我需要互联网连接吗？
 

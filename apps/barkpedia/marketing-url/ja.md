@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "どんな犬の品種も瞬時に識別。無料、オフライン、プライベート。"
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: ja
-permalink: /marketing-url/barkpedia/ja/
+permalink: /barkpedia/ja/
+redirect_from:
+  - /marketing-url/barkpedia/ja/
 ---
 
 # どの犬にも物語がある。それを瞬時に発見。
@@ -57,8 +59,8 @@ iOS 17.0以降 · iPhoneおよびiPad
 
 あなたの写真がデバイスから出ることは一切ありません。アカウントなし、分析なし、広告なし。あなたと犬だけ。
 
-完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/barkpedia/)をお読みください。
+完全な[プライバシーポリシー](https://www.bartlettbutter.com/barkpedia/privacy/)をお読みください。
 
 ## お困りですか？
 
-[サポートページ](https://www.bartlettbutter.com/support-url/barkpedia/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。
+[サポートページ](https://www.bartlettbutter.com/barkpedia/support/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。

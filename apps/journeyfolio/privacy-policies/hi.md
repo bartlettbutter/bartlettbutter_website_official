@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "गोपनीयता नीति"
 lang: hi
-permalink: /privacy-policies/journeyfolio/hi/
+permalink: /journeyfolio/privacy/hi/
+redirect_from:
+  - /privacy-policies/journeyfolio/hi/
 ---
 
 **प्रभावी तिथि:** 22 जुलाई 2026

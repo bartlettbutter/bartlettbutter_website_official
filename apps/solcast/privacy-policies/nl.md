@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Privacybeleid"
 lang: nl
-permalink: /privacy-policies/solcast/nl/
+permalink: /solcast/privacy/nl/
+redirect_from:
+  - /privacy-policies/solcast/nl/
 ---
 
 **Ingangsdatum:** 8 juli 2026

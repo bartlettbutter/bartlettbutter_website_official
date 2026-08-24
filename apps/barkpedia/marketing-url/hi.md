@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "किसी भी कुत्ते की नस्ल तुरंत पहचानें। निःशुल्क, ऑफ़लाइन और निजी।"
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: hi
-permalink: /marketing-url/barkpedia/hi/
+permalink: /barkpedia/hi/
+redirect_from:
+  - /marketing-url/barkpedia/hi/
 ---
 
 # हर कुत्ते की एक कहानी होती है। इसे तुरंत खोजें।
@@ -57,8 +59,8 @@ iOS 17.0 या बाद का संस्करण · iPhone और iPad
 
 आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं। कोई खाता नहीं, कोई एनालिटिक्स नहीं, कोई विज्ञापन नहीं। बस आप और कुत्ते।
 
-हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/privacy-policies/barkpedia/) पढ़ें।
+हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/barkpedia/privacy/) पढ़ें।
 
 ## मदद चाहिए?
 
-हमारे [सहायता पृष्ठ](https://www.bartlettbutter.com/support-url/barkpedia/) पर जाएँ या हमें [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) पर ईमेल करें।
+हमारे [सहायता पृष्ठ](https://www.bartlettbutter.com/barkpedia/support/) पर जाएँ या हमें [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) पर ईमेल करें।

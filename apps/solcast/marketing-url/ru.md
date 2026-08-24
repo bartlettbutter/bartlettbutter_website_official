@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Погода в реальном времени с персонализированными советами по образу жизни, подобранными под ваш день."
 app_store_url: "https://apps.apple.com/us/app/solcast/id6763927556"
 lang: ru
-permalink: /marketing-url/solcast/ru/
+permalink: /solcast/ru/
+redirect_from:
+  - /marketing-url/solcast/ru/
 ---
 
 # Точно знайте, как одеться, спланировать и защитить свой день.
@@ -57,8 +59,8 @@ iPhone и iPad · iOS 18.0 или новее · iPadOS 18.0 или новее
 
 Никаких учётных записей. Никакой аналитики. Никакой рекламы. Ваше местоположение используется только для получения погоды и никогда не хранится ни на одном сервере. Вся персонализация остаётся на вашем устройстве.
 
-Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/privacy-policies/solcast/).
+Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/solcast/privacy/).
 
 ## Нужна помощь?
 
-Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/support-url/solcast/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/solcast/support/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

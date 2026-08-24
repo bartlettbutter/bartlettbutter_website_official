@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Informativa sulla Privacy"
 lang: it
-permalink: /privacy-policies/formulens/it/
+permalink: /formulens/privacy/it/
+redirect_from:
+  - /privacy-policies/formulens/it/
 ---
 
 **Data di entrata in vigore:** 8 luglio 2026

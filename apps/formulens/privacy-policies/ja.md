@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "プライバシーポリシー"
 lang: ja
-permalink: /privacy-policies/formulens/ja/
+permalink: /formulens/privacy/ja/
+redirect_from:
+  - /privacy-policies/formulens/ja/
 ---
 
 **発効日：** 2026年7月8日

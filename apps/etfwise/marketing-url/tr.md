@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Canlı veriler, haber duygu analizi ve cihaz üzerinde yapay zeka ile desteklenen günlük ETF önerileri."
 app_store_url: "https://apps.apple.com/us/app/etfwise/id6762496354"
 lang: tr
-permalink: /marketing-url/etfwise/tr/
+permalink: /etfwise/tr/
+redirect_from:
+  - /marketing-url/etfwise/tr/
 ---
 
 # ETF yatırımında günlük avantajınız.
@@ -48,8 +50,8 @@ iOS 18.0 veya sonrası · iPhone ve iPad
 
 Hesap yok. Analiz yok. Reklam yok. Verileriniz cihazınızda kalır. Piyasa verilerini almak için finansal veri sağlayıcılarına yalnızca hisse sembolleri gönderilir.
 
-Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/privacy-policies/etfwise/) okuyun.
+Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/etfwise/privacy/) okuyun.
 
 ## Yardıma mı ihtiyacınız var?
 
-[Destek Sayfamızı](https://www.bartlettbutter.com/support-url/etfwise/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.
+[Destek Sayfamızı](https://www.bartlettbutter.com/etfwise/support/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.

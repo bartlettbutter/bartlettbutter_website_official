@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "隐私政策"
 lang: zh-Hans
-permalink: /privacy-policies/huepick/zh-Hans/
+permalink: /huepick/privacy/zh-Hans/
+redirect_from:
+  - /privacy-policies/huepick/zh-Hans/
 ---
 
 **生效日期：** 2026年7月8日

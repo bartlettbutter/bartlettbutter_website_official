@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "سياسة الخصوصية"
 lang: ar
-permalink: /privacy-policies/barkpedia/ar/
+permalink: /barkpedia/privacy/ar/
+redirect_from:
+  - /privacy-policies/barkpedia/ar/
 ---
 
 **تاريخ السريان:** 11 أبريل 2026

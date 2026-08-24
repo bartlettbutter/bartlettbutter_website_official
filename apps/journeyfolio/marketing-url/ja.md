@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "より賢く計画。より軽やかに旅する。すべての旅を、1つの美しいハブに。"
 app_store_url: "https://apps.apple.com/us/app/journeyfolio/id6762172188"
 lang: ja
-permalink: /marketing-url/journeyfolio/ja/
+permalink: /journeyfolio/ja/
+redirect_from:
+  - /marketing-url/journeyfolio/ja/
 ---
 
 # すべての旅にフォリオを。
@@ -72,8 +74,8 @@ iOS 18.0以降 · iPhoneおよびiPad
 
 すべての旅行データはあなたのデバイス上に留まります。アカウントなし、分析なし、広告なし、データ収集なし。以上です。
 
-完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/journeyfolio/)をお読みください。
+完全な[プライバシーポリシー](https://www.bartlettbutter.com/journeyfolio/privacy/)をお読みください。
 
 ## お困りですか？
 
-[サポートページ](https://www.bartlettbutter.com/support-url/journeyfolio/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。
+[サポートページ](https://www.bartlettbutter.com/journeyfolio/support/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。

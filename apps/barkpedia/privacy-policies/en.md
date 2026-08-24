@@ -3,7 +3,9 @@ layout: default
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Privacy Policy"
-permalink: /privacy-policies/barkpedia/
+permalink: /barkpedia/privacy/
+redirect_from:
+  - /privacy-policies/barkpedia/
 ---
 
 **Effective Date:** April 11, 2026

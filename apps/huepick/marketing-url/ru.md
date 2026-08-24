@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Извлекайте палитры из фотографий и преображайте изображения творческими инструментами — бесплатно, конфиденциально, без учётной записи."
 app_store_url: "https://apps.apple.com/app/huepick"
 lang: ru
-permalink: /marketing-url/huepick/ru/
+permalink: /huepick/ru/
+redirect_from:
+  - /marketing-url/huepick/ru/
 ---
 
 # Взгляните на цвета по-новому.
@@ -54,8 +56,8 @@ iOS 18.6 или новее · iPhone и iPad
 
 Никаких учётных записей. Никакой аналитики. Никакой рекламы. Всё работает на вашем устройстве.
 
-Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/privacy-policies/huepick/).
+Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/huepick/privacy/).
 
 ## Нужна помощь?
 
-Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/support-url/huepick/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/huepick/support/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

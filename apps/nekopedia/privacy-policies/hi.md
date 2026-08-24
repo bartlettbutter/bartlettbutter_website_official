@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "गोपनीयता नीति"
 lang: hi
-permalink: /privacy-policies/nekopedia/hi/
+permalink: /nekopedia/privacy/hi/
+redirect_from:
+  - /privacy-policies/nekopedia/hi/
 ---
 
 

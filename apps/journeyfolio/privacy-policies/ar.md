@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "سياسة الخصوصية"
 lang: ar
-permalink: /privacy-policies/journeyfolio/ar/
+permalink: /journeyfolio/privacy/ar/
+redirect_from:
+  - /privacy-policies/journeyfolio/ar/
 ---
 
 **تاريخ السريان:** 22 يوليو 2026

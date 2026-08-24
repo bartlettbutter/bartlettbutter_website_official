@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "استخرج لوحات الألوان من الصور وحوّل الصور بأدوات إبداعية — مجاني، وخاص، ولا يحتاج إلى حساب."
 app_store_url: "https://apps.apple.com/app/huepick"
 lang: ar
-permalink: /marketing-url/huepick/ar/
+permalink: /huepick/ar/
+redirect_from:
+  - /marketing-url/huepick/ar/
 ---
 
 # انظر إلى الألوان بشكل مختلف.
@@ -54,8 +56,8 @@ iOS 18.6 أو أحدث · iPhone وiPad
 
 لا حسابات. لا تحليلات. لا إعلانات. كل شيء يعمل على جهازك.
 
-اقرأ [سياسة الخصوصية](https://www.bartlettbutter.com/privacy-policies/huepick/) الكاملة الخاصة بنا.
+اقرأ [سياسة الخصوصية](https://www.bartlettbutter.com/huepick/privacy/) الكاملة الخاصة بنا.
 
 ## هل تحتاج إلى مساعدة؟
 
-قم بزيارة [صفحة الدعم](https://www.bartlettbutter.com/support-url/huepick/) الخاصة بنا أو راسلنا عبر البريد الإلكتروني على [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+قم بزيارة [صفحة الدعم](https://www.bartlettbutter.com/huepick/support/) الخاصة بنا أو راسلنا عبر البريد الإلكتروني على [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

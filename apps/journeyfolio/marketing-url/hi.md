@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "अधिक समझदारी से योजना बनाएँ। हल्का यात्रा करें। आपकी सभी यात्राएँ, एक सुंदर केंद्र।"
 app_store_url: "https://apps.apple.com/us/app/journeyfolio/id6762172188"
 lang: hi
-permalink: /marketing-url/journeyfolio/hi/
+permalink: /journeyfolio/hi/
+redirect_from:
+  - /marketing-url/journeyfolio/hi/
 ---
 
 # हर यात्रा एक फ़ोलियो की हकदार है।
@@ -72,8 +74,8 @@ iOS 18.0 या बाद का संस्करण · iPhone और iPad
 
 सभी यात्रा डेटा आपके डिवाइस पर रहता है। कोई खाता नहीं, कोई एनालिटिक्स नहीं, कोई विज्ञापन नहीं, कोई डेटा संग्रह नहीं। बस इतना ही।
 
-हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/privacy-policies/journeyfolio/) पढ़ें।
+हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/journeyfolio/privacy/) पढ़ें।
 
 ## मदद चाहिए?
 
-हमारे [सहायता पृष्ठ](https://www.bartlettbutter.com/support-url/journeyfolio/) पर जाएँ या हमें [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) पर ईमेल करें।
+हमारे [सहायता पृष्ठ](https://www.bartlettbutter.com/journeyfolio/support/) पर जाएँ या हमें [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) पर ईमेल करें।

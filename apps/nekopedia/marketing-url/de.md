@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Identifiziere jede Katzenrasse sofort. Kostenlos, offline und privat."
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 lang: de
-permalink: /marketing-url/nekopedia/de/
+permalink: /nekopedia/de/
+redirect_from:
+  - /marketing-url/nekopedia/de/
 ---
 
 # Welche Rasse ist diese Katze? Richte deine Kamera darauf und finde es heraus.
@@ -51,8 +53,8 @@ iOS 18.0 oder neuer · iPhone und iPad
 
 Deine Fotos verlassen niemals dein Gerät. Keine Konten, keine Analysen, keine Werbung. Nur du und die Katzen.
 
-Lies unsere vollständige [Datenschutzrichtlinie](https://www.bartlettbutter.com/privacy-policies/nekopedia/).
+Lies unsere vollständige [Datenschutzrichtlinie](https://www.bartlettbutter.com/nekopedia/privacy/).
 
 ## Brauchst du Hilfe?
 
-Besuche unsere [Support-Seite](https://www.bartlettbutter.com/support-url/nekopedia/) oder schreib uns eine E-Mail an [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Besuche unsere [Support-Seite](https://www.bartlettbutter.com/nekopedia/support/) oder schreib uns eine E-Mail an [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

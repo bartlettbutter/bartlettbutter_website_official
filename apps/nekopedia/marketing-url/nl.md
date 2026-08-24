@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Herken elk kattenras direct. Gratis, offline en privé."
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 lang: nl
-permalink: /marketing-url/nekopedia/nl/
+permalink: /nekopedia/nl/
+redirect_from:
+  - /marketing-url/nekopedia/nl/
 ---
 
 # Welk ras is die kat? Richt je camera en kom erachter.
@@ -51,8 +53,8 @@ iOS 18.0 of hoger · iPhone en iPad
 
 Je foto's verlaten nooit je apparaat. Geen accounts, geen analyse, geen advertenties. Alleen jij en de katten.
 
-Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/privacy-policies/nekopedia/).
+Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/nekopedia/privacy/).
 
 ## Hulp nodig?
 
-Bezoek onze [Ondersteuningspagina](https://www.bartlettbutter.com/support-url/nekopedia/) of stuur ons een e-mail op [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Bezoek onze [Ondersteuningspagina](https://www.bartlettbutter.com/nekopedia/support/) of stuur ons een e-mail op [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

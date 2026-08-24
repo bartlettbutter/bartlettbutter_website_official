@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Gizlilik Politikası"
 lang: tr
-permalink: /privacy-policies/etfwise/tr/
+permalink: /etfwise/privacy/tr/
+redirect_from:
+  - /privacy-policies/etfwise/tr/
 ---
 
 **Yürürlük Tarihi:** 25 Nisan 2026

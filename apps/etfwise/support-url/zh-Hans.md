@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "支持"
 lang: zh-Hans
-permalink: /support-url/etfwise/zh-Hans/
+permalink: /etfwise/support/zh-Hans/
+redirect_from:
+  - /support-url/etfwise/zh-Hans/
 ---
 
 # 我们能帮您什么？
@@ -61,7 +63,7 @@ ETFWise包含一个在您设备上本地运行的轻量级语言模型。它使�
 
 ### 我的数据私密吗？
 
-是的。没有账户，没有分析，没有追踪。仅将代码发送给金融数据提供商。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/etfwise/)。
+是的。没有账户，没有分析，没有追踪。仅将代码发送给金融数据提供商。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/etfwise/privacy/)。
 
 ### 如果我删除应用会怎样？
 

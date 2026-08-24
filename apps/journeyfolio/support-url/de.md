@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Support"
 lang: de
-permalink: /support-url/journeyfolio/de/
+permalink: /journeyfolio/support/de/
+redirect_from:
+  - /support-url/journeyfolio/de/
 ---
 
 # Wir sind hier, um zu helfen.

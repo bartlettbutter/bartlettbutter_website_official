@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Echtzeit-Wetter mit personalisierten Lifestyle-Empfehlungen, zugeschnitten auf deinen Tag."
 app_store_url: "https://apps.apple.com/us/app/solcast/id6763927556"
 lang: de
-permalink: /marketing-url/solcast/de/
+permalink: /solcast/de/
+redirect_from:
+  - /marketing-url/solcast/de/
 ---
 
 # Wisse genau, wie du dich kleidest, planst und deinen Tag schützt.
@@ -57,8 +59,8 @@ iPhone und iPad · iOS 18.0 oder neuer · iPadOS 18.0 oder neuer
 
 Keine Konten. Keine Analysen. Keine Werbung. Dein Standort wird nur zum Abrufen des Wetters verwendet und niemals auf einem Server gespeichert. Die gesamte Personalisierung bleibt auf deinem Gerät.
 
-Lies unsere vollständige [Datenschutzrichtlinie](https://www.bartlettbutter.com/privacy-policies/solcast/).
+Lies unsere vollständige [Datenschutzrichtlinie](https://www.bartlettbutter.com/solcast/privacy/).
 
 ## Brauchst du Hilfe?
 
-Besuche unsere [Support-Seite](https://www.bartlettbutter.com/support-url/solcast/) oder schreib uns eine E-Mail an [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Besuche unsere [Support-Seite](https://www.bartlettbutter.com/solcast/support/) oder schreib uns eine E-Mail an [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

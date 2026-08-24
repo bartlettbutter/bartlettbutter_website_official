@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Поддержка"
 lang: ru
-permalink: /support-url/formulens/ru/
+permalink: /formulens/support/ru/
+redirect_from:
+  - /support-url/formulens/ru/
 ---
 
 # Чем мы можем помочь?
@@ -127,7 +129,7 @@ FormuLens включает обширную базу данных распрос
 
 ### Какие данные вы собираете?
 
-Никаких. У FormuLens нет аккаунтов, аналитики, отслеживания и рекламы. Подробности см. в нашей полной [Политике конфиденциальности](https://www.bartlettbutter.com/privacy-policies/formulens/).
+Никаких. У FormuLens нет аккаунтов, аналитики, отслеживания и рекламы. Подробности см. в нашей полной [Политике конфиденциальности](https://www.bartlettbutter.com/formulens/privacy/).
 
 ### Как удалить сохранённые данные?
 

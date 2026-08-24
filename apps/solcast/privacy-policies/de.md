@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Datenschutzrichtlinie"
 lang: de
-permalink: /privacy-policies/solcast/de/
+permalink: /solcast/privacy/de/
+redirect_from:
+  - /privacy-policies/solcast/de/
 ---
 
 **Gültig ab:** 8. Juli 2026

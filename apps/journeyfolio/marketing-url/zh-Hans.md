@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "更聪明地规划。更轻松地旅行。所有行程，一个美丽的中心。"
 app_store_url: "https://apps.apple.com/us/app/journeyfolio/id6762172188"
 lang: zh-Hans
-permalink: /marketing-url/journeyfolio/zh-Hans/
+permalink: /journeyfolio/zh-Hans/
+redirect_from:
+  - /marketing-url/journeyfolio/zh-Hans/
 ---
 
 # 每段旅程都值得一份行程册。
@@ -72,8 +74,8 @@ iOS 18.0或更高版本 · iPhone和iPad
 
 所有行程数据都保留在您的设备上。没有账户，没有分析，没有广告，不收集数据。就这么简单。
 
-阅读我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/journeyfolio/)。
+阅读我们完整的[隐私政策](https://www.bartlettbutter.com/journeyfolio/privacy/)。
 
 ## 需要帮助？
 
-访问我们的[支持页面](https://www.bartlettbutter.com/support-url/journeyfolio/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。
+访问我们的[支持页面](https://www.bartlettbutter.com/journeyfolio/support/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。

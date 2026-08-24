@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Identify any dog breed instantly. Free, offline, and private."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
-permalink: /marketing-url/barkpedia/
+permalink: /barkpedia/
+redirect_from:
+  - /marketing-url/barkpedia/
 ---
 
 # Every dog has a story. Discover it instantly.
@@ -56,8 +58,8 @@ iOS 17.0 or later · iPhone and iPad
 
 Your photos never leave your device. No accounts, no analytics, no ads. Just you and the dogs.
 
-Read our full [Privacy Policy](https://www.bartlettbutter.com/privacy-policies/barkpedia/).
+Read our full [Privacy Policy](https://www.bartlettbutter.com/barkpedia/privacy/).
 
 ## Need help?
 
-Visit our [Support Page](https://www.bartlettbutter.com/support-url/barkpedia/) or email us at [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Visit our [Support Page](https://www.bartlettbutter.com/barkpedia/support/) or email us at [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

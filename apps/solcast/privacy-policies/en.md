@@ -3,7 +3,9 @@ layout: default
 title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Privacy Policy"
-permalink: /privacy-policies/solcast/
+permalink: /solcast/privacy/
+redirect_from:
+  - /privacy-policies/solcast/
 ---
 
 **Effective Date:** July 8, 2026

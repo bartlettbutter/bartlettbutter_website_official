@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "サポート"
 lang: ja
-permalink: /support-url/huepick/ja/
+permalink: /huepick/support/ja/
+redirect_from:
+  - /support-url/huepick/ja/
 ---
 
 # どのようなお手伝いができますか？
@@ -77,7 +79,7 @@ Playgroundで任意のツールを使用すると、ギャラリーへの保存�
 
 ### どんなデータを収集しますか？
 
-ありません。個人データなし、使用状況分析なし、デバイス識別子なし。詳細は完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/huepick/)をご覧ください。
+ありません。個人データなし、使用状況分析なし、デバイス識別子なし。詳細は完全な[プライバシーポリシー](https://www.bartlettbutter.com/huepick/privacy/)をご覧ください。
 
 ### アプリを削除するとどうなりますか？
 

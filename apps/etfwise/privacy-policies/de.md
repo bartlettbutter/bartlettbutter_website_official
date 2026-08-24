@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Datenschutzrichtlinie"
 lang: de
-permalink: /privacy-policies/etfwise/de/
+permalink: /etfwise/privacy/de/
+redirect_from:
+  - /privacy-policies/etfwise/de/
 ---
 
 **Gültig ab:** 25. April 2026

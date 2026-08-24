@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Destek"
 lang: tr
-permalink: /support-url/nekopedia/tr/
+permalink: /nekopedia/support/tr/
+redirect_from:
+  - /support-url/nekopedia/tr/
 ---
 
 # Size nasıl yardımcı olabiliriz?
@@ -65,7 +67,7 @@ Evet. Nekopedia, hem iPhone hem de iPad'de çalışan evrensel bir uygulamadır.
 
 ### Verilerim gizli mi?
 
-Evet. Fotoğraflarınız cihazınızdan asla çıkmaz ve hiçbir kişisel veri toplanmaz. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/privacy-policies/nekopedia/) bakın.
+Evet. Fotoğraflarınız cihazınızdan asla çıkmaz ve hiçbir kişisel veri toplanmaz. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/nekopedia/privacy/) bakın.
 
 ## İzinler
 

@@ -3,7 +3,9 @@ layout: default
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Privacy Policy"
-permalink: /privacy-policies/formulens/
+permalink: /formulens/privacy/
+redirect_from:
+  - /privacy-policies/formulens/
 ---
 
 **Effective Date:** July 8, 2026

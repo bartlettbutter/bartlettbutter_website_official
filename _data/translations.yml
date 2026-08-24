@@ -6,9 +6,11 @@
 # that has not been translated yet stays English-only with no dead links.
 # Add a slug here only once every language file for it has been created.
 #
-# English lives at the un-suffixed base URL (/<section>/<app>/); every other
-# language lives at /<section>/<app>/<code>/.
-marketing-url:
+# Section keys match the `section` the layout derives from the URL: English
+# lives at the un-suffixed base (marketing /<app>/, support /<app>/support/,
+# privacy /<app>/privacy/); every other language appends its code as the
+# trailing segment (e.g. /<app>/support/<code>/).
+marketing:
   - barkpedia
   - etfwise
   - formulens
@@ -17,7 +19,7 @@ marketing-url:
   - nekopedia
   - solcast
 
-support-url:
+support:
   - barkpedia
   - etfwise
   - formulens
@@ -26,7 +28,7 @@ support-url:
   - nekopedia
   - solcast
 
-privacy-policies:
+privacy:
   - barkpedia
   - etfwise
   - formulens

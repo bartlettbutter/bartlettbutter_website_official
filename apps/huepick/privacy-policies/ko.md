@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "개인정보 처리방침"
 lang: ko
-permalink: /privacy-policies/huepick/ko/
+permalink: /huepick/privacy/ko/
+redirect_from:
+  - /privacy-policies/huepick/ko/
 ---
 
 **시행일:** 2026년 7월 8일

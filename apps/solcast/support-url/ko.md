@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "지원"
 lang: ko
-permalink: /support-url/solcast/ko/
+permalink: /solcast/support/ko/
+redirect_from:
+  - /support-url/solcast/ko/
 ---
 
 # 무엇을 도와드릴까요?
@@ -39,7 +41,7 @@ Solcast를 열기만 하면 됩니다 — 계정 불필요, 가입 불필요. �
 
 ### Solcast가 제 데이터를 수집하나요?
 
-아니요. 사용자 계정, 분석, 추적, 광고가 없습니다. 여러분의 모든 환경설정은 여러분의 기기에 남아 있습니다. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/solcast/)을 참조하세요.
+아니요. 사용자 계정, 분석, 추적, 광고가 없습니다. 여러분의 모든 환경설정은 여러분의 기기에 남아 있습니다. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/solcast/privacy/)을 참조하세요.
 
 ### 인터넷 연결이 필요한가요?
 

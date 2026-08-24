@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Определяйте любую породу собак мгновенно. Бесплатно, офлайн и конфиденциально."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: ru
-permalink: /marketing-url/barkpedia/ru/
+permalink: /barkpedia/ru/
+redirect_from:
+  - /marketing-url/barkpedia/ru/
 ---
 
 # У каждой собаки есть своя история. Узнайте её мгновенно.
@@ -57,8 +59,8 @@ iOS 17.0 или новее · iPhone и iPad
 
 Ваши фотографии никогда не покидают ваше устройство. Никаких учётных записей, аналитики и рекламы. Только вы и собаки.
 
-Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/privacy-policies/barkpedia/).
+Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/barkpedia/privacy/).
 
 ## Нужна помощь?
 
-Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/support-url/barkpedia/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/barkpedia/support/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

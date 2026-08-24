@@ -3,7 +3,9 @@ layout: default
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Support"
-permalink: /support-url/nekopedia/
+permalink: /nekopedia/support/
+redirect_from:
+  - /support-url/nekopedia/
 ---
 
 # How can we help?
@@ -64,7 +66,7 @@ Yes. Nekopedia is a universal app that works on both iPhone and iPad.
 
 ### Is my data private?
 
-Yes. Your photos never leave your device and no personal data is collected. See our full [Privacy Policy](https://www.bartlettbutter.com/privacy-policies/nekopedia/) for details.
+Yes. Your photos never leave your device and no personal data is collected. See our full [Privacy Policy](https://www.bartlettbutter.com/nekopedia/privacy/) for details.
 
 ## Permissions
 

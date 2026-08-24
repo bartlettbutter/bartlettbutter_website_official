@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "隐私政策"
 lang: zh-Hans
-permalink: /privacy-policies/journeyfolio/zh-Hans/
+permalink: /journeyfolio/privacy/zh-Hans/
+redirect_from:
+  - /privacy-policies/journeyfolio/zh-Hans/
 ---
 
 **生效日期：** 2026年7月22日

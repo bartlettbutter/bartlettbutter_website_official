@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Política de Privacidade"
 lang: pt
-permalink: /privacy-policies/barkpedia/pt/
+permalink: /barkpedia/privacy/pt/
+redirect_from:
+  - /privacy-policies/barkpedia/pt/
 ---
 
 **Data de vigência:** 11 de abril de 2026

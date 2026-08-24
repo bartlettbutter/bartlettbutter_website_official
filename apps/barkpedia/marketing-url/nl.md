@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Herken elk hondenras direct. Gratis, offline en privé."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: nl
-permalink: /marketing-url/barkpedia/nl/
+permalink: /barkpedia/nl/
+redirect_from:
+  - /marketing-url/barkpedia/nl/
 ---
 
 # Elke hond heeft een verhaal. Ontdek het direct.
@@ -57,8 +59,8 @@ iOS 17.0 of hoger · iPhone en iPad
 
 Je foto's verlaten nooit je apparaat. Geen accounts, geen analyse, geen advertenties. Alleen jij en de honden.
 
-Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/privacy-policies/barkpedia/).
+Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/barkpedia/privacy/).
 
 ## Hulp nodig?
 
-Bezoek onze [Ondersteuningspagina](https://www.bartlettbutter.com/support-url/barkpedia/) of stuur ons een e-mail op [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Bezoek onze [Ondersteuningspagina](https://www.bartlettbutter.com/barkpedia/support/) of stuur ons een e-mail op [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

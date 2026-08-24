@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Haal paletten uit foto's en transformeer afbeeldingen met creatieve hulpmiddelen — gratis, privé, geen account nodig."
 app_store_url: "https://apps.apple.com/app/huepick"
 lang: nl
-permalink: /marketing-url/huepick/nl/
+permalink: /huepick/nl/
+redirect_from:
+  - /marketing-url/huepick/nl/
 ---
 
 # Zie kleuren anders.
@@ -54,8 +56,8 @@ iOS 18.6 of hoger · iPhone en iPad
 
 Geen accounts. Geen analyse. Geen advertenties. Alles draait op je apparaat.
 
-Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/privacy-policies/huepick/).
+Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/huepick/privacy/).
 
 ## Hulp nodig?
 
-Bezoek onze [Ondersteuningspagina](https://www.bartlettbutter.com/support-url/huepick/) of stuur ons een e-mail op [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Bezoek onze [Ondersteuningspagina](https://www.bartlettbutter.com/huepick/support/) of stuur ons een e-mail op [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

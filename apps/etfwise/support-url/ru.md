@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Поддержка"
 lang: ru
-permalink: /support-url/etfwise/ru/
+permalink: /etfwise/support/ru/
+redirect_from:
+  - /support-url/etfwise/ru/
 ---
 
 # Чем мы можем помочь?
@@ -61,7 +63,7 @@ ETFWise включает облегчённую языковую модель, �
 
 ### Мои данные конфиденциальны?
 
-Да. Никаких учётных записей, аналитики и отслеживания. Поставщикам финансовых данных отправляются только тикеры. Подробнее см. в нашей полной [Политике конфиденциальности](https://www.bartlettbutter.com/privacy-policies/etfwise/).
+Да. Никаких учётных записей, аналитики и отслеживания. Поставщикам финансовых данных отправляются только тикеры. Подробнее см. в нашей полной [Политике конфиденциальности](https://www.bartlettbutter.com/etfwise/privacy/).
 
 ### Что произойдёт, если я удалю приложение?
 

@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "隐私政策"
 lang: zh-Hans
-permalink: /privacy-policies/formulens/zh-Hans/
+permalink: /formulens/privacy/zh-Hans/
+redirect_from:
+  - /privacy-policies/formulens/zh-Hans/
 ---
 
 **生效日期：** 2026 年 7 月 8 日

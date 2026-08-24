@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Herhangi bir kedi ırkını anında tanımlayın. Ücretsiz, çevrimdışı ve gizli."
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 lang: tr
-permalink: /marketing-url/nekopedia/tr/
+permalink: /nekopedia/tr/
+redirect_from:
+  - /marketing-url/nekopedia/tr/
 ---
 
 # O kedi hangi ırk? Kameranızı doğrultun ve öğrenin.
@@ -51,8 +53,8 @@ iOS 18.0 veya sonrası · iPhone ve iPad
 
 Fotoğraflarınız cihazınızdan asla çıkmaz. Hesap yok, analiz yok, reklam yok. Sadece siz ve kediler.
 
-Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/privacy-policies/nekopedia/) okuyun.
+Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/nekopedia/privacy/) okuyun.
 
 ## Yardıma mı ihtiyacınız var?
 
-[Destek Sayfamızı](https://www.bartlettbutter.com/support-url/nekopedia/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.
+[Destek Sayfamızı](https://www.bartlettbutter.com/nekopedia/support/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.

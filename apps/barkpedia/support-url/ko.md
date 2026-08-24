@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "지원"
 lang: ko
-permalink: /support-url/barkpedia/ko/
+permalink: /barkpedia/support/ko/
+redirect_from:
+  - /support-url/barkpedia/ko/
 ---
 
 # 무엇을 도와드릴까요?
@@ -55,7 +57,7 @@ Barkpedia는 AKC 표준에 기반하여 147개 품종을 식별합니다.
 
 ### 제 데이터는 비공개인가요?
 
-예. 여러분의 사진은 전적으로 여러분의 기기에서 처리되며 절대 업로드되지 않습니다. Barkpedia는 개인정보를 수집하지 않고, 사용자 계정이 없으며, 분석이나 추적을 포함하지 않습니다. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/barkpedia/)을 참조하세요.
+예. 여러분의 사진은 전적으로 여러분의 기기에서 처리되며 절대 업로드되지 않습니다. Barkpedia는 개인정보를 수집하지 않고, 사용자 계정이 없으며, 분석이나 추적을 포함하지 않습니다. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/barkpedia/privacy/)을 참조하세요.
 
 ### 제 데이터는 어디에 저장되나요?
 

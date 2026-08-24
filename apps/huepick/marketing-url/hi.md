@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "तस्वीरों से पैलेट निकालें और रचनात्मक उपकरणों से छवियों को रूपांतरित करें — निःशुल्क, निजी, खाते की आवश्यकता नहीं।"
 app_store_url: "https://apps.apple.com/app/huepick"
 lang: hi
-permalink: /marketing-url/huepick/hi/
+permalink: /huepick/hi/
+redirect_from:
+  - /marketing-url/huepick/hi/
 ---
 
 # रंगों को अलग नज़र से देखें।
@@ -54,8 +56,8 @@ iOS 18.6 या बाद का संस्करण · iPhone और iPad
 
 कोई खाता नहीं। कोई एनालिटिक्स नहीं। कोई विज्ञापन नहीं। सब कुछ आपके डिवाइस पर चलता है।
 
-हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/privacy-policies/huepick/) पढ़ें।
+हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/huepick/privacy/) पढ़ें।
 
 ## मदद चाहिए?
 
-हमारे [सहायता पृष्ठ](https://www.bartlettbutter.com/support-url/huepick/) पर जाएँ या हमें [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) पर ईमेल करें।
+हमारे [सहायता पृष्ठ](https://www.bartlettbutter.com/huepick/support/) पर जाएँ या हमें [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) पर ईमेल करें।

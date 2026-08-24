@@ -3,7 +3,9 @@ layout: default
 title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Support"
-permalink: /support-url/etfwise/
+permalink: /etfwise/support/
+redirect_from:
+  - /support-url/etfwise/
 ---
 
 # How can we help?
@@ -60,7 +62,7 @@ Yes. Use the search bar to find any ETF by ticker symbol or name. The search cov
 
 ### Is my data private?
 
-Yes. No accounts, no analytics, no tracking. Only ticker symbols are sent to financial data providers. See our full [Privacy Policy](https://www.bartlettbutter.com/privacy-policies/etfwise/) for details.
+Yes. No accounts, no analytics, no tracking. Only ticker symbols are sent to financial data providers. See our full [Privacy Policy](https://www.bartlettbutter.com/etfwise/privacy/) for details.
 
 ### What happens if I delete the app?
 

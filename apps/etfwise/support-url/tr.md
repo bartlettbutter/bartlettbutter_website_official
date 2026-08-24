@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Destek"
 lang: tr
-permalink: /support-url/etfwise/tr/
+permalink: /etfwise/support/tr/
+redirect_from:
+  - /support-url/etfwise/tr/
 ---
 
 # Size nasıl yardımcı olabiliriz?
@@ -61,7 +63,7 @@ Evet. Herhangi bir ETF'yi hisse sembolü veya adıyla bulmak için arama çubuğ
 
 ### Verilerim gizli mi?
 
-Evet. Hesap yok, analiz yok, izleme yok. Finansal veri sağlayıcılarına yalnızca hisse sembolleri gönderilir. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/privacy-policies/etfwise/) bakın.
+Evet. Hesap yok, analiz yok, izleme yok. Finansal veri sağlayıcılarına yalnızca hisse sembolleri gönderilir. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/etfwise/privacy/) bakın.
 
 ### Uygulamayı silersem ne olur?
 

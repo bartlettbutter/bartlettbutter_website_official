@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "الدعم"
 lang: ar
-permalink: /support-url/nekopedia/ar/
+permalink: /nekopedia/support/ar/
+redirect_from:
+  - /support-url/nekopedia/ar/
 ---
 
 # كيف يمكننا مساعدتك؟
@@ -65,7 +67,7 @@ permalink: /support-url/nekopedia/ar/
 
 ### هل بياناتي خاصة؟
 
-نعم. لا تغادر صورك جهازك أبدًا ولا يتم جمع أي بيانات شخصية. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/privacy-policies/nekopedia/) الكاملة الخاصة بنا لمزيد من التفاصيل.
+نعم. لا تغادر صورك جهازك أبدًا ولا يتم جمع أي بيانات شخصية. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/nekopedia/privacy/) الكاملة الخاصة بنا لمزيد من التفاصيل.
 
 ## الأذونات
 

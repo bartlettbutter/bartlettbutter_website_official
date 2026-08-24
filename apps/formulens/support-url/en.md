@@ -3,7 +3,9 @@ layout: default
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Support"
-permalink: /support-url/formulens/
+permalink: /formulens/support/
+redirect_from:
+  - /support-url/formulens/
 ---
 
 # How can we help?
@@ -126,7 +128,7 @@ No. All photo processing happens entirely on your device. Your images never leav
 
 ### What data do you collect?
 
-None. FormuLens has no accounts, no analytics, no tracking, and no advertising. See our full [Privacy Policy](https://www.bartlettbutter.com/privacy-policies/formulens/) for details.
+None. FormuLens has no accounts, no analytics, no tracking, and no advertising. See our full [Privacy Policy](https://www.bartlettbutter.com/formulens/privacy/) for details.
 
 ### How do I delete my saved data?
 

@@ -3,7 +3,9 @@ layout: default
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Support"
-permalink: /support-url/barkpedia/
+permalink: /barkpedia/support/
+redirect_from:
+  - /support-url/barkpedia/
 ---
 
 # How can we help?
@@ -54,7 +56,7 @@ Yes. Barkpedia automatically adapts its layout — tab navigation on iPhone and 
 
 ### Is my data private?
 
-Yes. Your photos are processed entirely on your device and never uploaded. Barkpedia collects no personal data, has no user accounts, and includes no analytics or tracking. See our full [Privacy Policy](https://www.bartlettbutter.com/privacy-policies/barkpedia/) for details.
+Yes. Your photos are processed entirely on your device and never uploaded. Barkpedia collects no personal data, has no user accounts, and includes no analytics or tracking. See our full [Privacy Policy](https://www.bartlettbutter.com/barkpedia/privacy/) for details.
 
 ### Where is my data stored?
 

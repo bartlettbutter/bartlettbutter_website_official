@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Plan slimmer. Reis lichter. Al je reizen, één prachtige hub."
 app_store_url: "https://apps.apple.com/us/app/journeyfolio/id6762172188"
 lang: nl
-permalink: /marketing-url/journeyfolio/nl/
+permalink: /journeyfolio/nl/
+redirect_from:
+  - /marketing-url/journeyfolio/nl/
 ---
 
 # Elke reis verdient een folio.
@@ -72,8 +74,8 @@ iOS 18.0 of hoger · iPhone en iPad
 
 Alle reisgegevens blijven op je apparaat. Geen accounts, geen analyse, geen advertenties, geen gegevensverzameling. Punt uit.
 
-Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/privacy-policies/journeyfolio/).
+Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/journeyfolio/privacy/).
 
 ## Hulp nodig?
 
-Bezoek onze [Ondersteuningspagina](https://www.bartlettbutter.com/support-url/journeyfolio/) of stuur ons een e-mail op [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Bezoek onze [Ondersteuningspagina](https://www.bartlettbutter.com/journeyfolio/support/) of stuur ons een e-mail op [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

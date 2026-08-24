@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "سياسة الخصوصية"
 lang: ar
-permalink: /privacy-policies/etfwise/ar/
+permalink: /etfwise/privacy/ar/
+redirect_from:
+  - /privacy-policies/etfwise/ar/
 ---
 
 **تاريخ السريان:** 25 أبريل 2026

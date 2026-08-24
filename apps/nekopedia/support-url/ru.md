@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Поддержка"
 lang: ru
-permalink: /support-url/nekopedia/ru/
+permalink: /nekopedia/support/ru/
+redirect_from:
+  - /support-url/nekopedia/ru/
 ---
 
 # Чем мы можем помочь?
@@ -65,7 +67,7 @@ Nekopedia распознаёт 48 пород кошек, включая попу
 
 ### Мои данные конфиденциальны?
 
-Да. Ваши фотографии никогда не покидают ваше устройство, и персональные данные не собираются. Подробнее см. в нашей полной [Политике конфиденциальности](https://www.bartlettbutter.com/privacy-policies/nekopedia/).
+Да. Ваши фотографии никогда не покидают ваше устройство, и персональные данные не собираются. Подробнее см. в нашей полной [Политике конфиденциальности](https://www.bartlettbutter.com/nekopedia/privacy/).
 
 ## Разрешения
 

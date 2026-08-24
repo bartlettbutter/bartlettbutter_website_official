@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "サポート"
 lang: ja
-permalink: /support-url/etfwise/ja/
+permalink: /etfwise/support/ja/
+redirect_from:
+  - /support-url/etfwise/ja/
 ---
 
 # どのようなお手伝いができますか？
@@ -61,7 +63,7 @@ ETFWiseには、あなたのデバイス上でローカルに動作する軽量�
 
 ### 私のデータはプライベートですか？
 
-はい。アカウントなし、分析なし、トラッキングなし。金融データプロバイダーに送信されるのはティッカーシンボルのみです。詳細は完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/etfwise/)をご覧ください。
+はい。アカウントなし、分析なし、トラッキングなし。金融データプロバイダーに送信されるのはティッカーシンボルのみです。詳細は完全な[プライバシーポリシー](https://www.bartlettbutter.com/etfwise/privacy/)をご覧ください。
 
 ### アプリを削除するとどうなりますか？
 

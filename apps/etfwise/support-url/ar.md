@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "الدعم"
 lang: ar
-permalink: /support-url/etfwise/ar/
+permalink: /etfwise/support/ar/
+redirect_from:
+  - /support-url/etfwise/ar/
 ---
 
 # كيف يمكننا مساعدتك؟
@@ -61,7 +63,7 @@ ETFWise مجاني للتنزيل من App Store. لا توجد اشتراكات
 
 ### هل بياناتي خاصة؟
 
-نعم. لا حسابات، ولا تحليلات، ولا تتبع. تُرسل رموز المؤشرات فقط إلى مزوّدي البيانات المالية. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/privacy-policies/etfwise/) الكاملة الخاصة بنا لمزيد من التفاصيل.
+نعم. لا حسابات، ولا تحليلات، ولا تتبع. تُرسل رموز المؤشرات فقط إلى مزوّدي البيانات المالية. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/etfwise/privacy/) الكاملة الخاصة بنا لمزيد من التفاصيل.
 
 ### ماذا يحدث إذا حذفت التطبيق؟
 

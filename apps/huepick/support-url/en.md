@@ -3,7 +3,9 @@ layout: default
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Support"
-permalink: /support-url/huepick/
+permalink: /huepick/support/
+redirect_from:
+  - /support-url/huepick/
 ---
 
 # How can we help?
@@ -76,7 +78,7 @@ Never. All processing happens entirely on your device.
 
 ### What data do you collect?
 
-None. No personal data, no usage analytics, no device identifiers. See our full [Privacy Policy](https://www.bartlettbutter.com/privacy-policies/huepick/) for details.
+None. No personal data, no usage analytics, no device identifiers. See our full [Privacy Policy](https://www.bartlettbutter.com/huepick/privacy/) for details.
 
 ### What happens if I delete the app?
 

@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Assistance"
 lang: fr
-permalink: /support-url/nekopedia/fr/
+permalink: /nekopedia/support/fr/
+redirect_from:
+  - /support-url/nekopedia/fr/
 ---
 
 # Comment pouvons-nous vous aider ?
@@ -65,7 +67,7 @@ Oui. Nekopedia est une application universelle qui fonctionne à la fois sur iPh
 
 ### Mes données sont-elles privées ?
 
-Oui. Vos photos ne quittent jamais votre appareil et aucune donnée personnelle n'est collectée. Consultez notre [Politique de Confidentialité](https://www.bartlettbutter.com/privacy-policies/nekopedia/) complète pour plus de détails.
+Oui. Vos photos ne quittent jamais votre appareil et aucune donnée personnelle n'est collectée. Consultez notre [Politique de Confidentialité](https://www.bartlettbutter.com/nekopedia/privacy/) complète pour plus de détails.
 
 ## Autorisations
 

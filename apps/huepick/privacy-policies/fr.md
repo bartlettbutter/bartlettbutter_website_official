@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Politique de Confidentialité"
 lang: fr
-permalink: /privacy-policies/huepick/fr/
+permalink: /huepick/privacy/fr/
+redirect_from:
+  - /privacy-policies/huepick/fr/
 ---
 
 **Date d'entrée en vigueur :** 8 juillet 2026

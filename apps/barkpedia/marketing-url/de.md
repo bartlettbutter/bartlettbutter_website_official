@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Identifiziere jede Hunderasse sofort. Kostenlos, offline und privat."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: de
-permalink: /marketing-url/barkpedia/de/
+permalink: /barkpedia/de/
+redirect_from:
+  - /marketing-url/barkpedia/de/
 ---
 
 # Jeder Hund hat eine Geschichte. Entdecke sie sofort.
@@ -57,8 +59,8 @@ iOS 17.0 oder neuer · iPhone und iPad
 
 Deine Fotos verlassen niemals dein Gerät. Keine Konten, keine Analysen, keine Werbung. Nur du und die Hunde.
 
-Lies unsere vollständige [Datenschutzrichtlinie](https://www.bartlettbutter.com/privacy-policies/barkpedia/).
+Lies unsere vollständige [Datenschutzrichtlinie](https://www.bartlettbutter.com/barkpedia/privacy/).
 
 ## Brauchst du Hilfe?
 
-Besuche unsere [Support-Seite](https://www.bartlettbutter.com/support-url/barkpedia/) oder schreib uns eine E-Mail an [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Besuche unsere [Support-Seite](https://www.bartlettbutter.com/barkpedia/support/) oder schreib uns eine E-Mail an [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

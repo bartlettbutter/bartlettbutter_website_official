@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Ежедневные рекомендации по ETF на основе актуальных данных, настроений новостей и ИИ на устройстве."
 app_store_url: "https://apps.apple.com/us/app/etfwise/id6762496354"
 lang: ru
-permalink: /marketing-url/etfwise/ru/
+permalink: /etfwise/ru/
+redirect_from:
+  - /marketing-url/etfwise/ru/
 ---
 
 # Ваше ежедневное преимущество в инвестировании в ETF.
@@ -48,8 +50,8 @@ iOS 18.0 или новее · iPhone и iPad
 
 Никаких учётных записей. Никакой аналитики. Никакой рекламы. Ваши данные остаются на вашем устройстве. Поставщикам финансовых данных отправляются только тикеры для получения рыночных данных.
 
-Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/privacy-policies/etfwise/).
+Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/etfwise/privacy/).
 
 ## Нужна помощь?
 
-Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/support-url/etfwise/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/etfwise/support/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

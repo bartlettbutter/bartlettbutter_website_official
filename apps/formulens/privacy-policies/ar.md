@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "سياسة الخصوصية"
 lang: ar
-permalink: /privacy-policies/formulens/ar/
+permalink: /formulens/privacy/ar/
+redirect_from:
+  - /privacy-policies/formulens/ar/
 ---
 
 **تاريخ السريان:** 8 يوليو 2026

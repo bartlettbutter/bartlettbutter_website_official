@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "隐私政策"
 lang: zh-Hans
-permalink: /privacy-policies/etfwise/zh-Hans/
+permalink: /etfwise/privacy/zh-Hans/
+redirect_from:
+  - /privacy-policies/etfwise/zh-Hans/
 ---
 
 **生效日期：** 2026年4月25日

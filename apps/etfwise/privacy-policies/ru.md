@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Политика конфиденциальности"
 lang: ru
-permalink: /privacy-policies/etfwise/ru/
+permalink: /etfwise/privacy/ru/
+redirect_from:
+  - /privacy-policies/etfwise/ru/
 ---
 
 **Дата вступления в силу:** 25 апреля 2026 г.

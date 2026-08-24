@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "どんな猫の品種も瞬時に識別。無料、オフライン、プライベート。"
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 lang: ja
-permalink: /marketing-url/nekopedia/ja/
+permalink: /nekopedia/ja/
+redirect_from:
+  - /marketing-url/nekopedia/ja/
 ---
 
 # あの猫は何の品種？ カメラを向けて確かめよう。
@@ -51,8 +53,8 @@ iOS 18.0以降 · iPhoneおよびiPad
 
 あなたの写真がデバイスから出ることは一切ありません。アカウントなし、分析なし、広告なし。あなたと猫だけ。
 
-完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/nekopedia/)をお読みください。
+完全な[プライバシーポリシー](https://www.bartlettbutter.com/nekopedia/privacy/)をお読みください。
 
 ## お困りですか？
 
-[サポートページ](https://www.bartlettbutter.com/support-url/nekopedia/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。
+[サポートページ](https://www.bartlettbutter.com/nekopedia/support/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。

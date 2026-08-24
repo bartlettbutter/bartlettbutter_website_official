@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Планируйте умнее. Путешествуйте налегке. Все ваши поездки — в одном прекрасном центре."
 app_store_url: "https://apps.apple.com/us/app/journeyfolio/id6762172188"
 lang: ru
-permalink: /marketing-url/journeyfolio/ru/
+permalink: /journeyfolio/ru/
+redirect_from:
+  - /marketing-url/journeyfolio/ru/
 ---
 
 # Каждое путешествие заслуживает своего фолио.
@@ -72,8 +74,8 @@ iOS 18.0 или новее · iPhone и iPad
 
 Все данные о поездках остаются на вашем устройстве. Никаких учётных записей, аналитики, рекламы и сбора данных. Точка.
 
-Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/privacy-policies/journeyfolio/).
+Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/journeyfolio/privacy/).
 
 ## Нужна помощь?
 
-Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/support-url/journeyfolio/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Посетите нашу [страницу поддержки](https://www.bartlettbutter.com/journeyfolio/support/) или напишите нам на [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

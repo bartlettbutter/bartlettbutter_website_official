@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "सहायता"
 lang: hi
-permalink: /support-url/solcast/hi/
+permalink: /solcast/support/hi/
+redirect_from:
+  - /support-url/solcast/hi/
 ---
 
 # हम कैसे मदद कर सकते हैं?
@@ -39,7 +41,7 @@ permalink: /support-url/solcast/hi/
 
 ### क्या Solcast मेरा डेटा एकत्र करता है?
 
-नहीं। कोई उपयोगकर्ता खाता, कोई एनालिटिक्स, कोई ट्रैकिंग और कोई विज्ञापन नहीं। आपकी सभी प्राथमिकताएँ आपके डिवाइस पर रहती हैं। विवरण के लिए हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/privacy-policies/solcast/) देखें।
+नहीं। कोई उपयोगकर्ता खाता, कोई एनालिटिक्स, कोई ट्रैकिंग और कोई विज्ञापन नहीं। आपकी सभी प्राथमिकताएँ आपके डिवाइस पर रहती हैं। विवरण के लिए हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/solcast/privacy/) देखें।
 
 ### क्या मुझे इंटरनेट कनेक्शन की आवश्यकता है?
 

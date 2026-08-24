@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Сканируйте любой состав. Узнайте, что именно в вашем уходе за кожей — и как всё это работает вместе."
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: ru
-permalink: /marketing-url/formulens/ru/
+permalink: /formulens/ru/
+redirect_from:
+  - /marketing-url/formulens/ru/
 ---
 
 # Узнайте, что именно в вашем уходе за кожей.
@@ -57,8 +59,8 @@ iOS 26.2 или новее · iPhone и iPad
 
 Ваши фотографии никогда не покидают устройство. Всё распознавание и анализ происходят локально — без серверов, без облака, без аккаунтов, без отслеживания.
 
-Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/privacy-policies/formulens/).
+Прочитайте нашу полную [Политику конфиденциальности](https://www.bartlettbutter.com/formulens/privacy/).
 
 ## Нужна помощь?
 
-Посетите нашу [Страницу поддержки](https://www.bartlettbutter.com/support-url/formulens/) или напишите нам по адресу [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Посетите нашу [Страницу поддержки](https://www.bartlettbutter.com/formulens/support/) или напишите нам по адресу [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

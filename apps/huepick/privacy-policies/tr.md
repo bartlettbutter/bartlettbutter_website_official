@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Gizlilik Politikası"
 lang: tr
-permalink: /privacy-policies/huepick/tr/
+permalink: /huepick/privacy/tr/
+redirect_from:
+  - /privacy-policies/huepick/tr/
 ---
 
 **Yürürlük Tarihi:** 8 Temmuz 2026

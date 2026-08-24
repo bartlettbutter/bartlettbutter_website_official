@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "リアルタイムの天気と、あなたの一日に合わせたパーソナライズされたライフスタイルガイダンス。"
 app_store_url: "https://apps.apple.com/us/app/solcast/id6763927556"
 lang: ja
-permalink: /marketing-url/solcast/ja/
+permalink: /solcast/ja/
+redirect_from:
+  - /marketing-url/solcast/ja/
 ---
 
 # 服装、計画、そして一日の備えを、正確に把握。
@@ -57,8 +59,8 @@ iPhoneおよびiPad · iOS 18.0以降 · iPadOS 18.0以降
 
 アカウントなし。分析なし。広告なし。あなたの位置情報は天気を取得するためだけに使われ、いかなるサーバーにも保存されません。すべてのパーソナライズはあなたのデバイス上に留まります。
 
-完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/solcast/)をお読みください。
+完全な[プライバシーポリシー](https://www.bartlettbutter.com/solcast/privacy/)をお読みください。
 
 ## お困りですか？
 
-[サポートページ](https://www.bartlettbutter.com/support-url/solcast/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。
+[サポートページ](https://www.bartlettbutter.com/solcast/support/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。

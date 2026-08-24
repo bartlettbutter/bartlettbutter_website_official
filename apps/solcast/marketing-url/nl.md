@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Realtime weer met gepersonaliseerd lifestyle-advies, afgestemd op jouw dag."
 app_store_url: "https://apps.apple.com/us/app/solcast/id6763927556"
 lang: nl
-permalink: /marketing-url/solcast/nl/
+permalink: /solcast/nl/
+redirect_from:
+  - /marketing-url/solcast/nl/
 ---
 
 # Weet precies hoe je je kleedt, plant en je dag beschermt.
@@ -57,8 +59,8 @@ iPhone en iPad · iOS 18.0 of hoger · iPadOS 18.0 of hoger
 
 Geen accounts. Geen analyse. Geen advertenties. Je locatie wordt alleen gebruikt om het weer op te halen en wordt nooit op een server opgeslagen. Alle personalisatie blijft op je apparaat.
 
-Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/privacy-policies/solcast/).
+Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/solcast/privacy/).
 
 ## Hulp nodig?
 
-Bezoek onze [Ondersteuningspagina](https://www.bartlettbutter.com/support-url/solcast/) of stuur ons een e-mail op [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Bezoek onze [Ondersteuningspagina](https://www.bartlettbutter.com/solcast/support/) of stuur ons een e-mail op [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

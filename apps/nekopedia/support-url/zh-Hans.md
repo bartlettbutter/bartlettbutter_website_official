@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "支持"
 lang: zh-Hans
-permalink: /support-url/nekopedia/zh-Hans/
+permalink: /nekopedia/support/zh-Hans/
+redirect_from:
+  - /support-url/nekopedia/zh-Hans/
 ---
 
 # 我们能帮您什么？
@@ -65,7 +67,7 @@ Nekopedia可识别48个猫的品种，包括缅因猫、布偶猫、暹罗猫、
 
 ### 我的数据私密吗？
 
-是的。您的照片永远不会离开您的设备，也不会收集任何个人数据。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/nekopedia/)。
+是的。您的照片永远不会离开您的设备，也不会收集任何个人数据。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/nekopedia/privacy/)。
 
 ## 权限
 

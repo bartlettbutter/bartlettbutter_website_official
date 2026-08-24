@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "プライバシーポリシー"
 lang: ja
-permalink: /privacy-policies/barkpedia/ja/
+permalink: /barkpedia/privacy/ja/
+redirect_from:
+  - /privacy-policies/barkpedia/ja/
 ---
 
 **発効日：** 2026年4月11日

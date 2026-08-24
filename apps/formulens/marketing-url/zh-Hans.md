@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "扫描任何成分表，清楚了解你的护肤品里到底有什么，以及它们如何协同作用。"
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: zh-Hans
-permalink: /marketing-url/formulens/zh-Hans/
+permalink: /formulens/zh-Hans/
+redirect_from:
+  - /marketing-url/formulens/zh-Hans/
 ---
 
 # 清楚了解你的护肤品里到底有什么。
@@ -57,8 +59,8 @@ iOS 26.2 或更高版本 · iPhone 和 iPad
 
 你的照片永远不会离开你的设备。所有识别和分析都在本地进行——没有服务器、没有云端、没有账户、没有追踪。
 
-阅读我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/formulens/)。
+阅读我们完整的[隐私政策](https://www.bartlettbutter.com/formulens/privacy/)。
 
 ## 需要帮助？
 
-访问我们的[支持页面](https://www.bartlettbutter.com/support-url/formulens/)，或发送邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。
+访问我们的[支持页面](https://www.bartlettbutter.com/formulens/support/)，或发送邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。

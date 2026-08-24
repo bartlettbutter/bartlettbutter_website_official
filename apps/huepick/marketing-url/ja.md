@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "写真からパレットを抽出し、クリエイティブツールで画像を変換 — 無料、プライベート、アカウント不要。"
 app_store_url: "https://apps.apple.com/app/huepick"
 lang: ja
-permalink: /marketing-url/huepick/ja/
+permalink: /huepick/ja/
+redirect_from:
+  - /marketing-url/huepick/ja/
 ---
 
 # 色を違った視点で見る。
@@ -54,8 +56,8 @@ iOS 18.6以降 · iPhoneおよびiPad
 
 アカウントなし。分析なし。広告なし。すべてがあなたのデバイス上で動作します。
 
-完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/huepick/)をお読みください。
+完全な[プライバシーポリシー](https://www.bartlettbutter.com/huepick/privacy/)をお読みください。
 
 ## お困りですか？
 
-[サポートページ](https://www.bartlettbutter.com/support-url/huepick/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。
+[サポートページ](https://www.bartlettbutter.com/huepick/support/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。

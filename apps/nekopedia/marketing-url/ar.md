@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "تعرّف على أي سلالة قطط فورًا. مجاني، دون اتصال، وخاص."
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 lang: ar
-permalink: /marketing-url/nekopedia/ar/
+permalink: /nekopedia/ar/
+redirect_from:
+  - /marketing-url/nekopedia/ar/
 ---
 
 # ما سلالة تلك القطة؟ وجّه كاميرتك واكتشف.
@@ -51,8 +53,8 @@ iOS 18.0 أو أحدث · iPhone وiPad
 
 لا تغادر صورك جهازك أبدًا. لا حسابات، ولا تحليلات، ولا إعلانات. أنت والقطط فقط.
 
-اقرأ [سياسة الخصوصية](https://www.bartlettbutter.com/privacy-policies/nekopedia/) الكاملة الخاصة بنا.
+اقرأ [سياسة الخصوصية](https://www.bartlettbutter.com/nekopedia/privacy/) الكاملة الخاصة بنا.
 
 ## هل تحتاج إلى مساعدة؟
 
-قم بزيارة [صفحة الدعم](https://www.bartlettbutter.com/support-url/nekopedia/) الخاصة بنا أو راسلنا عبر البريد الإلكتروني على [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+قم بزيارة [صفحة الدعم](https://www.bartlettbutter.com/nekopedia/support/) الخاصة بنا أو راسلنا عبر البريد الإلكتروني على [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

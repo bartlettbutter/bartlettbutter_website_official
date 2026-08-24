@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Политика конфиденциальности"
 lang: ru
-permalink: /privacy-policies/solcast/ru/
+permalink: /solcast/privacy/ru/
+redirect_from:
+  - /privacy-policies/solcast/ru/
 ---
 
 **Дата вступления в силу:** 8 июля 2026 г.

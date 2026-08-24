@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "طقس في الوقت الفعلي مع إرشادات نمط حياة مخصّصة، مصمّمة ليومك."
 app_store_url: "https://apps.apple.com/us/app/solcast/id6763927556"
 lang: ar
-permalink: /marketing-url/solcast/ar/
+permalink: /solcast/ar/
+redirect_from:
+  - /marketing-url/solcast/ar/
 ---
 
 # اعرف بالضبط كيف تلبس، وتخطّط، وتحمي يومك.
@@ -57,8 +59,8 @@ iPhone وiPad · iOS 18.0 أو أحدث · iPadOS 18.0 أو أحدث
 
 لا حسابات. لا تحليلات. لا إعلانات. يُستخدم موقعك فقط لجلب الطقس ولا يُخزَّن أبدًا على أي خادم. تبقى جميع عمليات التخصيص على جهازك.
 
-اقرأ [سياسة الخصوصية](https://www.bartlettbutter.com/privacy-policies/solcast/) الكاملة الخاصة بنا.
+اقرأ [سياسة الخصوصية](https://www.bartlettbutter.com/solcast/privacy/) الكاملة الخاصة بنا.
 
 ## هل تحتاج إلى مساعدة؟
 
-قم بزيارة [صفحة الدعم](https://www.bartlettbutter.com/support-url/solcast/) الخاصة بنا أو راسلنا عبر البريد الإلكتروني على [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+قم بزيارة [صفحة الدعم](https://www.bartlettbutter.com/solcast/support/) الخاصة بنا أو راسلنا عبر البريد الإلكتروني على [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

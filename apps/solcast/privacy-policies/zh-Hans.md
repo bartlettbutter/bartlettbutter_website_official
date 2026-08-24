@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "隐私政策"
 lang: zh-Hans
-permalink: /privacy-policies/solcast/zh-Hans/
+permalink: /solcast/privacy/zh-Hans/
+redirect_from:
+  - /privacy-policies/solcast/zh-Hans/
 ---
 
 **生效日期：** 2026年7月8日

@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Privacybeleid"
 lang: nl
-permalink: /privacy-policies/etfwise/nl/
+permalink: /etfwise/privacy/nl/
+redirect_from:
+  - /privacy-policies/etfwise/nl/
 ---
 
 **Ingangsdatum:** 25 april 2026

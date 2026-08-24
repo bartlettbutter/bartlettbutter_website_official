@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Gizlilik Politikası"
 lang: tr
-permalink: /privacy-policies/solcast/tr/
+permalink: /solcast/privacy/tr/
+redirect_from:
+  - /privacy-policies/solcast/tr/
 ---
 
 **Yürürlük Tarihi:** 8 Temmuz 2026

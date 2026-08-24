@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "الدعم"
 lang: ar
-permalink: /support-url/solcast/ar/
+permalink: /solcast/support/ar/
+redirect_from:
+  - /support-url/solcast/ar/
 ---
 
 # كيف يمكننا مساعدتك؟
@@ -39,7 +41,7 @@ permalink: /support-url/solcast/ar/
 
 ### هل يجمع Solcast بياناتي؟
 
-لا. لا حسابات مستخدمين، ولا تحليلات، ولا تتبع، ولا إعلانات. تبقى جميع تفضيلاتك على جهازك. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/privacy-policies/solcast/) الكاملة الخاصة بنا لمزيد من التفاصيل.
+لا. لا حسابات مستخدمين، ولا تحليلات، ولا تتبع، ولا إعلانات. تبقى جميع تفضيلاتك على جهازك. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/solcast/privacy/) الكاملة الخاصة بنا لمزيد من التفاصيل.
 
 ### هل أحتاج إلى اتصال بالإنترنت؟
 

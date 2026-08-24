@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Politique de Confidentialité"
 lang: fr
-permalink: /privacy-policies/barkpedia/fr/
+permalink: /barkpedia/privacy/fr/
+redirect_from:
+  - /privacy-policies/barkpedia/fr/
 ---
 
 **Date d'entrée en vigueur :** 11 avril 2026

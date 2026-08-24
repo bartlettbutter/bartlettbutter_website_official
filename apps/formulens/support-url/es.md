@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Soporte"
 lang: es
-permalink: /support-url/formulens/es/
+permalink: /formulens/support/es/
+redirect_from:
+  - /support-url/formulens/es/
 ---
 
 # ¿Cómo podemos ayudarte?
@@ -127,7 +129,7 @@ No. Todo el procesamiento de fotos ocurre completamente en tu dispositivo. Tus i
 
 ### ¿Qué datos recopilan?
 
-Ninguno. FormuLens no tiene cuentas, ni analíticas, ni rastreo, ni publicidad. Consulta nuestra [Política de Privacidad](https://www.bartlettbutter.com/privacy-policies/formulens/) completa para más detalles.
+Ninguno. FormuLens no tiene cuentas, ni analíticas, ni rastreo, ni publicidad. Consulta nuestra [Política de Privacidad](https://www.bartlettbutter.com/formulens/privacy/) completa para más detalles.
 
 ### ¿Cómo elimino mis datos guardados?
 

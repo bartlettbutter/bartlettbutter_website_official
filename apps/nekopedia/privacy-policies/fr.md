@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Politique de Confidentialité"
 lang: fr
-permalink: /privacy-policies/nekopedia/fr/
+permalink: /nekopedia/privacy/fr/
+redirect_from:
+  - /privacy-policies/nekopedia/fr/
 ---
 
 

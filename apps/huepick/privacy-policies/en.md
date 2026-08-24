@@ -3,7 +3,9 @@ layout: default
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Privacy Policy"
-permalink: /privacy-policies/huepick/
+permalink: /huepick/privacy/
+redirect_from:
+  - /privacy-policies/huepick/
 ---
 
 **Effective Date:** July 8, 2026

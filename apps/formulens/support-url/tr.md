@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Destek"
 lang: tr
-permalink: /support-url/formulens/tr/
+permalink: /formulens/support/tr/
+redirect_from:
+  - /support-url/formulens/tr/
 ---
 
 # Size nasıl yardımcı olabiliriz?
@@ -127,7 +129,7 @@ Hayır. Tüm fotoğraf işleme tamamen cihazınızda gerçekleşir. Görsellerin
 
 ### Hangi verileri topluyorsunuz?
 
-Hiçbiri. FormuLens'te hesap, analiz, takip veya reklam yoktur. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/privacy-policies/formulens/) bakın.
+Hiçbiri. FormuLens'te hesap, analiz, takip veya reklam yoktur. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/formulens/privacy/) bakın.
 
 ### Kayıtlı verilerimi nasıl silerim?
 

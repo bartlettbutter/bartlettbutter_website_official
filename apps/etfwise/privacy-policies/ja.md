@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "プライバシーポリシー"
 lang: ja
-permalink: /privacy-policies/etfwise/ja/
+permalink: /etfwise/privacy/ja/
+redirect_from:
+  - /privacy-policies/etfwise/ja/
 ---
 
 **発効日：** 2026年4月25日

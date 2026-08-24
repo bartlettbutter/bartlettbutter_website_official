@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Identify any cat breed instantly. Free, offline, and private."
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
-permalink: /marketing-url/nekopedia/
+permalink: /nekopedia/
+redirect_from:
+  - /marketing-url/nekopedia/
 ---
 
 # What breed is that cat? Point your camera and find out.
@@ -50,8 +52,8 @@ iOS 18.0 or later · iPhone and iPad
 
 Your photos never leave your device. No accounts, no analytics, no ads. Just you and the cats.
 
-Read our full [Privacy Policy](https://www.bartlettbutter.com/privacy-policies/nekopedia/).
+Read our full [Privacy Policy](https://www.bartlettbutter.com/nekopedia/privacy/).
 
 ## Need help?
 
-Visit our [Support Page](https://www.bartlettbutter.com/support-url/nekopedia/) or email us at [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Visit our [Support Page](https://www.bartlettbutter.com/nekopedia/support/) or email us at [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

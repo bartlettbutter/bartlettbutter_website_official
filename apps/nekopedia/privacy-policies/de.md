@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Datenschutzrichtlinie"
 lang: de
-permalink: /privacy-policies/nekopedia/de/
+permalink: /nekopedia/privacy/de/
+redirect_from:
+  - /privacy-policies/nekopedia/de/
 ---
 
 

@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Gizlilik Politikası"
 lang: tr
-permalink: /privacy-policies/nekopedia/tr/
+permalink: /nekopedia/privacy/tr/
+redirect_from:
+  - /privacy-policies/nekopedia/tr/
 ---
 
 

@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Destek"
 lang: tr
-permalink: /support-url/journeyfolio/tr/
+permalink: /journeyfolio/support/tr/
+redirect_from:
+  - /support-url/journeyfolio/tr/
 ---
 
 # Yardım için buradayız.

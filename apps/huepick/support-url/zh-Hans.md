@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "支持"
 lang: zh-Hans
-permalink: /support-url/huepick/zh-Hans/
+permalink: /huepick/support/zh-Hans/
+redirect_from:
+  - /support-url/huepick/zh-Hans/
 ---
 
 # 我们能帮您什么？
@@ -77,7 +79,7 @@ permalink: /support-url/huepick/zh-Hans/
 
 ### 你们收集哪些数据？
 
-无。没有个人数据、没有使用分析、没有设备标识符。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/huepick/)。
+无。没有个人数据、没有使用分析、没有设备标识符。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/huepick/privacy/)。
 
 ### 如果我删除应用会怎样？
 

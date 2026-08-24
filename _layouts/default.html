@@ -1,18 +1,24 @@
 {%- comment -%}
-  Derive the app slug, section, and page kind from the URL
-  (/<section>/<slug>/) so titles, descriptions, and the app-level
-  secondary nav work without per-page front matter.
+  Derive the app slug, section, and page kind from the URL so titles,
+  descriptions, and the app-level secondary nav work without per-page front
+  matter. URLs are /<app>/[<lang>/] for marketing, /<app>/support/[<lang>/]
+  for support, and /<app>/privacy/[<lang>/] for privacy. The app slug is
+  always the first path segment; the kind is identified by the /support/ or
+  /privacy/ marker (app slugs and language codes never collide with those
+  words); the optional language code is always the trailing segment.
 {%- endcomment -%}
 {%- assign url_parts = page.url | split: "/" -%}
-{%- assign section = url_parts[1] -%}
-{%- assign app_slug = url_parts[2] -%}
-{%- if section == "support-url" -%}
+{%- assign app_slug = url_parts[1] -%}
+{%- if page.url contains "/support/" -%}
+  {%- assign section = "support" -%}
   {%- assign page_kind = "Support" -%}
   {%- assign kind_meta = page.title | append: " support — answers to common questions and how to reach Bartlett Butter." -%}
-{%- elsif section == "privacy-policies" -%}
+{%- elsif page.url contains "/privacy/" -%}
+  {%- assign section = "privacy" -%}
   {%- assign page_kind = "Privacy Policy" -%}
   {%- assign kind_meta = "How " | append: page.title | append: " handles your data — the full privacy policy from Bartlett Butter." -%}
 {%- else -%}
+  {%- assign section = "marketing" -%}
   {%- assign page_kind = "" -%}
   {%- assign kind_meta = page.app_description -%}
 {%- endif -%}
@@ -21,18 +27,29 @@
   its section in _data/translations.yml. For a translated app the language
   list comes straight from _data/languages.yml (code + endonym label); each
   option's URL is computed deterministically where it is rendered — English
-  at the un-suffixed base (/<section>/<app>/) and every other language at
-  /<section>/<app>/<code>/. `current_language` is resolved from page.lang.
+  at the section's un-suffixed base and every other language with its code
+  appended as the trailing segment. `kind_suffix` is the section's path
+  segment (support/ or privacy/, empty for marketing), `lang_base_url` is
+  this section's English URL (also the hreflang x-default) and the stem every
+  language option appends its code to. `current_language` is from page.lang.
 {%- endcomment -%}
 {%- assign page_languages = nil -%}
 {%- assign current_language = nil -%}
 {%- assign first_page_language = nil -%}
 {%- assign lang_base_url = "" -%}
-{%- if section and app_slug and app_slug != "" -%}
+{%- if section == "support" -%}
+  {%- assign kind_suffix = "support/" -%}
+{%- elsif section == "privacy" -%}
+  {%- assign kind_suffix = "privacy/" -%}
+{%- else -%}
+  {%- assign kind_suffix = "" -%}
+{%- endif -%}
+{%- if app_slug and app_slug != "" -%}
   {%- assign translated_apps = site.data.translations[section] -%}
   {%- if translated_apps contains app_slug -%}
     {%- assign page_languages = site.data.languages -%}
-    {%- assign lang_base_url = "/" | append: section | append: "/" | append: app_slug | append: "/" -%}
+    {%- assign app_base_url = "/" | append: app_slug | append: "/" -%}
+    {%- assign lang_base_url = app_base_url | append: kind_suffix -%}
     {%- assign first_page_language = page_languages | first -%}
     {%- assign current_code = page.lang | default: "en" -%}
     {%- assign current_language = page_languages | where: "code", current_code | first -%}
@@ -72,7 +89,7 @@
   <meta name="twitter:image:alt" content="{{ page.title }} app icon">{% endif %}
 
   {%- comment -%} Structured data: app-level SoftwareApplication entity on marketing pages. {%- endcomment -%}
-  {% if section == "marketing-url" and page.app_icon %}
+  {% if section == "marketing" and page.app_icon %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -151,10 +168,12 @@
       {% if page.app_description %}<p title="{{ page.app_description }}">{{ page.app_description }}</p>{% endif %}
 
       {%- if app_slug and app_slug != "" -%}
+      {%- comment -%} Keep the current language (as a trailing segment) when moving between an app's pages. {%- endcomment -%}
+      {%- if page_languages and current_code != "en" -%}{%- assign nav_lang_suffix = current_code | append: "/" -%}{%- else -%}{%- assign nav_lang_suffix = "" -%}{%- endif -%}
       <nav class="app-nav" aria-label="{{ page.title }} pages">
-        <a href="/marketing-url/{{ app_slug }}/"{% if section == "marketing-url" %} aria-current="page"{% endif %}>Overview</a>
-        <a href="/support-url/{{ app_slug }}/"{% if section == "support-url" %} aria-current="page"{% endif %}>Support</a>
-        <a href="/privacy-policies/{{ app_slug }}/"{% if section == "privacy-policies" %} aria-current="page"{% endif %}>Privacy</a>
+        <a href="/{{ app_slug }}/{{ nav_lang_suffix }}"{% if section == "marketing" %} aria-current="page"{% endif %}>Overview</a>
+        <a href="/{{ app_slug }}/support/{{ nav_lang_suffix }}"{% if section == "support" %} aria-current="page"{% endif %}>Support</a>
+        <a href="/{{ app_slug }}/privacy/{{ nav_lang_suffix }}"{% if section == "privacy" %} aria-current="page"{% endif %}>Privacy</a>
       </nav>
       {%- endif -%}
     </div>

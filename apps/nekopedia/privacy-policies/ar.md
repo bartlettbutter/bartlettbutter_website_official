@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "سياسة الخصوصية"
 lang: ar
-permalink: /privacy-policies/nekopedia/ar/
+permalink: /nekopedia/privacy/ar/
+redirect_from:
+  - /privacy-policies/nekopedia/ar/
 ---
 
 

@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "تعرّف على أي سلالة كلاب فورًا. مجاني، دون اتصال، وخاص."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: ar
-permalink: /marketing-url/barkpedia/ar/
+permalink: /barkpedia/ar/
+redirect_from:
+  - /marketing-url/barkpedia/ar/
 ---
 
 # لكل كلب قصة. اكتشفها فورًا.
@@ -57,8 +59,8 @@ iOS 17.0 أو أحدث · iPhone وiPad
 
 لا تغادر صورك جهازك أبدًا. لا حسابات، ولا تحليلات، ولا إعلانات. أنت والكلاب فقط.
 
-اقرأ [سياسة الخصوصية](https://www.bartlettbutter.com/privacy-policies/barkpedia/) الكاملة الخاصة بنا.
+اقرأ [سياسة الخصوصية](https://www.bartlettbutter.com/barkpedia/privacy/) الكاملة الخاصة بنا.
 
 ## هل تحتاج إلى مساعدة؟
 
-قم بزيارة [صفحة الدعم](https://www.bartlettbutter.com/support-url/barkpedia/) الخاصة بنا أو راسلنا عبر البريد الإلكتروني على [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+قم بزيارة [صفحة الدعم](https://www.bartlettbutter.com/barkpedia/support/) الخاصة بنا أو راسلنا عبر البريد الإلكتروني على [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

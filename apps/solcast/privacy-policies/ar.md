@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "سياسة الخصوصية"
 lang: ar
-permalink: /privacy-policies/solcast/ar/
+permalink: /solcast/privacy/ar/
+redirect_from:
+  - /privacy-policies/solcast/ar/
 ---
 
 **تاريخ السريان:** 8 يوليو 2026

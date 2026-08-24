@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "실시간 날씨와 여러분의 하루에 맞춘 개인 맞춤형 라이프스타일 안내."
 app_store_url: "https://apps.apple.com/us/app/solcast/id6763927556"
 lang: ko
-permalink: /marketing-url/solcast/ko/
+permalink: /solcast/ko/
+redirect_from:
+  - /marketing-url/solcast/ko/
 ---
 
 # 어떻게 입고, 계획하고, 하루를 지킬지 정확히 아세요.
@@ -57,8 +59,8 @@ iPhone 및 iPad · iOS 18.0 이상 · iPadOS 18.0 이상
 
 계정 없음. 분석 없음. 광고 없음. 여러분의 위치는 날씨를 가져오는 데만 사용되며 어떤 서버에도 저장되지 않습니다. 모든 개인화는 여러분의 기기에 남아 있습니다.
 
-전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/solcast/)을 읽어보세요.
+전체 [개인정보 처리방침](https://www.bartlettbutter.com/solcast/privacy/)을 읽어보세요.
 
 ## 도움이 필요하신가요?
 
-[지원 페이지](https://www.bartlettbutter.com/support-url/solcast/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) 으로 이메일을 보내주세요.
+[지원 페이지](https://www.bartlettbutter.com/solcast/support/)를 방문하시거나 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) 으로 이메일을 보내주세요.

@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Extrayez des palettes de photos et transformez des images avec des outils créatifs — gratuit, privé, sans compte."
 app_store_url: "https://apps.apple.com/app/huepick"
 lang: fr
-permalink: /marketing-url/huepick/fr/
+permalink: /huepick/fr/
+redirect_from:
+  - /marketing-url/huepick/fr/
 ---
 
 # Voyez les couleurs autrement.
@@ -54,8 +56,8 @@ iOS 18.6 ou version ultérieure · iPhone et iPad
 
 Aucun compte. Aucune analyse. Aucune publicité. Tout fonctionne sur votre appareil.
 
-Lisez notre [Politique de Confidentialité](https://www.bartlettbutter.com/privacy-policies/huepick/) complète.
+Lisez notre [Politique de Confidentialité](https://www.bartlettbutter.com/huepick/privacy/) complète.
 
 ## Besoin d'aide ?
 
-Visitez notre [Page d'Assistance](https://www.bartlettbutter.com/support-url/huepick/) ou envoyez-nous un e-mail à [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Visitez notre [Page d'Assistance](https://www.bartlettbutter.com/huepick/support/) ou envoyez-nous un e-mail à [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

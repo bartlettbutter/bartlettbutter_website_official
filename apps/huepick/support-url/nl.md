@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Ondersteuning"
 lang: nl
-permalink: /support-url/huepick/nl/
+permalink: /huepick/support/nl/
+redirect_from:
+  - /support-url/huepick/nl/
 ---
 
 # Hoe kunnen we helpen?
@@ -77,7 +79,7 @@ Nooit. Alle verwerking gebeurt volledig op je apparaat.
 
 ### Welke gegevens verzamelen jullie?
 
-Geen. Geen persoonsgegevens, geen gebruiksanalyse, geen apparaat-ID's. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/privacy-policies/huepick/) voor meer details.
+Geen. Geen persoonsgegevens, geen gebruiksanalyse, geen apparaat-ID's. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/huepick/privacy/) voor meer details.
 
 ### Wat gebeurt er als ik de app verwijder?
 

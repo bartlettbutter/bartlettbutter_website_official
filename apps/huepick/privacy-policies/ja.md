@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "プライバシーポリシー"
 lang: ja
-permalink: /privacy-policies/huepick/ja/
+permalink: /huepick/privacy/ja/
+redirect_from:
+  - /privacy-policies/huepick/ja/
 ---
 
 **発効日：** 2026年7月8日

@@ -4,7 +4,9 @@ title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "지원"
 lang: ko
-permalink: /support-url/nekopedia/ko/
+permalink: /nekopedia/support/ko/
+redirect_from:
+  - /support-url/nekopedia/ko/
 ---
 
 # 무엇을 도와드릴까요?
@@ -65,7 +67,7 @@ Nekopedia를 제거하면 기기에서 저장된 모든 즐겨찾기와 스캔 �
 
 ### 제 데이터는 비공개인가요?
 
-예. 여러분의 사진은 절대 기기를 벗어나지 않으며 개인정보가 수집되지 않습니다. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/nekopedia/)을 참조하세요.
+예. 여러분의 사진은 절대 기기를 벗어나지 않으며 개인정보가 수집되지 않습니다. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/nekopedia/privacy/)을 참조하세요.
 
 ## 권한
 

@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Herhangi bir içerik listesini tarayın. Cilt bakımınızda tam olarak ne olduğunu ve her şeyin birlikte nasıl çalıştığını öğrenin."
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: tr
-permalink: /marketing-url/formulens/tr/
+permalink: /formulens/tr/
+redirect_from:
+  - /marketing-url/formulens/tr/
 ---
 
 # Cilt bakımınızda tam olarak ne olduğunu öğrenin.
@@ -57,8 +59,8 @@ iOS 26.2 veya üzeri · iPhone ve iPad
 
 Fotoğraflarınız asla cihazınızdan çıkmaz. Tüm tanıma ve analiz işlemleri yerel olarak gerçekleşir — sunucu yok, bulut yok, hesap yok, takip yok.
 
-Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/privacy-policies/formulens/) okuyun.
+Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/formulens/privacy/) okuyun.
 
 ## Yardıma mı ihtiyacınız var?
 
-[Destek Sayfamızı](https://www.bartlettbutter.com/support-url/formulens/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.
+[Destek Sayfamızı](https://www.bartlettbutter.com/formulens/support/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.

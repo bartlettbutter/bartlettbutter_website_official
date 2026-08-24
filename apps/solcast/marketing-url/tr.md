@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Gününüze göre uyarlanmış kişiselleştirilmiş yaşam tarzı rehberliğiyle gerçek zamanlı hava durumu."
 app_store_url: "https://apps.apple.com/us/app/solcast/id6763927556"
 lang: tr
-permalink: /marketing-url/solcast/tr/
+permalink: /solcast/tr/
+redirect_from:
+  - /marketing-url/solcast/tr/
 ---
 
 # Nasıl giyineceğinizi, planlayacağınızı ve gününüzü koruyacağınızı tam olarak bilin.
@@ -57,8 +59,8 @@ iPhone ve iPad · iOS 18.0 veya sonrası · iPadOS 18.0 veya sonrası
 
 Hesap yok. Analiz yok. Reklam yok. Konumunuz yalnızca hava durumunu almak için kullanılır ve hiçbir sunucuda asla saklanmaz. Tüm kişiselleştirme cihazınızda kalır.
 
-Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/privacy-policies/solcast/) okuyun.
+Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/solcast/privacy/) okuyun.
 
 ## Yardıma mı ihtiyacınız var?
 
-[Destek Sayfamızı](https://www.bartlettbutter.com/support-url/solcast/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.
+[Destek Sayfamızı](https://www.bartlettbutter.com/solcast/support/) ziyaret edin veya bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.

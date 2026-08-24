@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Privacybeleid"
 lang: nl
-permalink: /privacy-policies/huepick/nl/
+permalink: /huepick/privacy/nl/
+redirect_from:
+  - /privacy-policies/huepick/nl/
 ---
 
 **Ingangsdatum:** 8 juli 2026

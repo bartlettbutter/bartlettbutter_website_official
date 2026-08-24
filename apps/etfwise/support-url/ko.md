@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "지원"
 lang: ko
-permalink: /support-url/etfwise/ko/
+permalink: /etfwise/support/ko/
+redirect_from:
+  - /support-url/etfwise/ko/
 ---
 
 # 무엇을 도와드릴까요?
@@ -61,7 +63,7 @@ ETFWise에는 여러분의 기기에서 로컬로 실행되는 경량 언어 모
 
 ### 제 데이터는 비공개인가요?
 
-예. 계정 없음, 분석 없음, 추적 없음. 금융 데이터 제공업체로 전송되는 것은 티커 심볼뿐입니다. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/etfwise/)을 참조하세요.
+예. 계정 없음, 분석 없음, 추적 없음. 금융 데이터 제공업체로 전송되는 것은 티커 심볼뿐입니다. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/etfwise/privacy/)을 참조하세요.
 
 ### 앱을 삭제하면 어떻게 되나요?
 

@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Destek"
 lang: tr
-permalink: /support-url/barkpedia/tr/
+permalink: /barkpedia/support/tr/
+redirect_from:
+  - /support-url/barkpedia/tr/
 ---
 
 # Size nasıl yardımcı olabiliriz?
@@ -55,7 +57,7 @@ Evet. Barkpedia düzenini otomatik olarak uyarlar — iPhone'da sekme gezinmesi,
 
 ### Verilerim gizli mi?
 
-Evet. Fotoğraflarınız tamamen cihazınızda işlenir ve asla yüklenmez. Barkpedia hiçbir kişisel veri toplamaz, kullanıcı hesabı yoktur ve hiçbir analiz veya izleme içermez. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/privacy-policies/barkpedia/) bakın.
+Evet. Fotoğraflarınız tamamen cihazınızda işlenir ve asla yüklenmez. Barkpedia hiçbir kişisel veri toplamaz, kullanıcı hesabı yoktur ve hiçbir analiz veya izleme içermez. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/barkpedia/privacy/) bakın.
 
 ### Verilerim nerede saklanır?
 

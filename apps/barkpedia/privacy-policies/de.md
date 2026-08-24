@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Datenschutzrichtlinie"
 lang: de
-permalink: /privacy-policies/barkpedia/de/
+permalink: /barkpedia/privacy/de/
+redirect_from:
+  - /privacy-policies/barkpedia/de/
 ---
 
 **Gültig ab:** 11. April 2026

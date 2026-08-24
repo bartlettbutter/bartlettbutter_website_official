@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Ondersteuning"
 lang: nl
-permalink: /support-url/etfwise/nl/
+permalink: /etfwise/support/nl/
+redirect_from:
+  - /support-url/etfwise/nl/
 ---
 
 # Hoe kunnen we helpen?
@@ -61,7 +63,7 @@ Ja. Gebruik de zoekbalk om een ETF op tickersymbool of naam te vinden. De zoekop
 
 ### Zijn mijn gegevens privé?
 
-Ja. Geen accounts, geen analyse, geen tracking. Alleen tickersymbolen worden naar financiële dataproviders verzonden. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/privacy-policies/etfwise/) voor meer details.
+Ja. Geen accounts, geen analyse, geen tracking. Alleen tickersymbolen worden naar financiële dataproviders verzonden. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/etfwise/privacy/) voor meer details.
 
 ### Wat gebeurt er als ik de app verwijder?
 

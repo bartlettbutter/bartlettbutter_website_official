@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Ondersteuning"
 lang: nl
-permalink: /support-url/solcast/nl/
+permalink: /solcast/support/nl/
+redirect_from:
+  - /support-url/solcast/nl/
 ---
 
 # Hoe kunnen we helpen?
@@ -39,7 +41,7 @@ Ja. Er zijn geen in-app-aankopen, geen abonnementen en geen advertenties. Elke f
 
 ### Verzamelt Solcast mijn gegevens?
 
-Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Al je voorkeuren blijven op je apparaat. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/privacy-policies/solcast/) voor meer details.
+Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Al je voorkeuren blijven op je apparaat. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/solcast/privacy/) voor meer details.
 
 ### Heb ik een internetverbinding nodig?
 

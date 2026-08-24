@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "امسح أي قائمة مكوّنات ضوئيًا. اعرف بالضبط ما يوجد في منتجات العناية ببشرتك — وكيف يعمل كل شيء معًا."
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: ar
-permalink: /marketing-url/formulens/ar/
+permalink: /formulens/ar/
+redirect_from:
+  - /marketing-url/formulens/ar/
 ---
 
 # اعرف بالضبط ما يوجد في منتجات العناية ببشرتك.
@@ -57,8 +59,8 @@ iOS 26.2 أو أحدث · iPhone و iPad
 
 صورك لا تغادر جهازك أبدًا. كل عمليات التعرّف والتحليل تجري محليًا — دون خوادم، ودون سحابة، ودون حسابات، ودون تتبّع.
 
-اقرأ [سياسة الخصوصية](https://www.bartlettbutter.com/privacy-policies/formulens/) الكاملة.
+اقرأ [سياسة الخصوصية](https://www.bartlettbutter.com/formulens/privacy/) الكاملة.
 
 ## تحتاج إلى مساعدة؟
 
-تفضّل بزيارة [صفحة الدعم](https://www.bartlettbutter.com/support-url/formulens/) أو راسلنا عبر البريد الإلكتروني على [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+تفضّل بزيارة [صفحة الدعم](https://www.bartlettbutter.com/formulens/support/) أو راسلنا عبر البريد الإلكتروني على [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

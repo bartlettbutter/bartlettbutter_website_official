@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "プライバシーポリシー"
 lang: ja
-permalink: /privacy-policies/solcast/ja/
+permalink: /solcast/privacy/ja/
+redirect_from:
+  - /privacy-policies/solcast/ja/
 ---
 
 **発効日：** 2026年7月8日

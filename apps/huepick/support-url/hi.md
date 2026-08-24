@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "सहायता"
 lang: hi
-permalink: /support-url/huepick/hi/
+permalink: /huepick/support/hi/
+redirect_from:
+  - /support-url/huepick/hi/
 ---
 
 # हम कैसे मदद कर सकते हैं?
@@ -77,7 +79,7 @@ Playground में किसी भी उपकरण का उपयोग 
 
 ### आप कौन-सा डेटा एकत्र करते हैं?
 
-कोई नहीं। कोई व्यक्तिगत डेटा नहीं, कोई उपयोग एनालिटिक्स नहीं, कोई डिवाइस पहचानकर्ता नहीं। विवरण के लिए हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/privacy-policies/huepick/) देखें।
+कोई नहीं। कोई व्यक्तिगत डेटा नहीं, कोई उपयोग एनालिटिक्स नहीं, कोई डिवाइस पहचानकर्ता नहीं। विवरण के लिए हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/huepick/privacy/) देखें।
 
 ### अगर मैं ऐप हटा दूँ तो क्या होगा?
 

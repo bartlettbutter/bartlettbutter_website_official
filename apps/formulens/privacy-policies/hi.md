@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "निजता नीति"
 lang: hi
-permalink: /privacy-policies/formulens/hi/
+permalink: /formulens/privacy/hi/
+redirect_from:
+  - /privacy-policies/formulens/hi/
 ---
 
 **प्रभावी तिथि:** 8 जुलाई, 2026

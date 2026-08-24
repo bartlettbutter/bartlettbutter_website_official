@@ -4,7 +4,9 @@ title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Gizlilik Politikası"
 lang: tr
-permalink: /privacy-policies/journeyfolio/tr/
+permalink: /journeyfolio/privacy/tr/
+redirect_from:
+  - /privacy-policies/journeyfolio/tr/
 ---
 
 **Yürürlük Tarihi:** 22 Temmuz 2026

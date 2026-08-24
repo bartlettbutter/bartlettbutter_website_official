@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "الدعم"
 lang: ar
-permalink: /support-url/huepick/ar/
+permalink: /huepick/support/ar/
+redirect_from:
+  - /support-url/huepick/ar/
 ---
 
 # كيف يمكننا مساعدتك؟
@@ -77,7 +79,7 @@ permalink: /support-url/huepick/ar/
 
 ### ما البيانات التي تجمعونها؟
 
-لا شيء. لا بيانات شخصية، ولا تحليلات استخدام، ولا معرّفات أجهزة. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/privacy-policies/huepick/) الكاملة الخاصة بنا لمزيد من التفاصيل.
+لا شيء. لا بيانات شخصية، ولا تحليلات استخدام، ولا معرّفات أجهزة. راجع [سياسة الخصوصية](https://www.bartlettbutter.com/huepick/privacy/) الكاملة الخاصة بنا لمزيد من التفاصيل.
 
 ### ماذا يحدث إذا حذفت التطبيق؟
 

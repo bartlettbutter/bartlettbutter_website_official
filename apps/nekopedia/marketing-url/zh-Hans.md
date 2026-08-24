@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "即时识别任何猫的品种。免费、离线、私密。"
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 lang: zh-Hans
-permalink: /marketing-url/nekopedia/zh-Hans/
+permalink: /nekopedia/zh-Hans/
+redirect_from:
+  - /marketing-url/nekopedia/zh-Hans/
 ---
 
 # 那是什么品种的猫？对准相机即可揭晓。
@@ -51,8 +53,8 @@ iOS 18.0或更高版本 · iPhone和iPad
 
 您的照片永远不会离开您的设备。没有账户，没有分析，没有广告。只有您和猫咪。
 
-阅读我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/nekopedia/)。
+阅读我们完整的[隐私政策](https://www.bartlettbutter.com/nekopedia/privacy/)。
 
 ## 需要帮助？
 
-访问我们的[支持页面](https://www.bartlettbutter.com/support-url/nekopedia/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。
+访问我们的[支持页面](https://www.bartlettbutter.com/nekopedia/support/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。

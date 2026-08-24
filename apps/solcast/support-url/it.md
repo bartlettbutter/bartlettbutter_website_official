@@ -4,7 +4,9 @@ title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Supporto"
 lang: it
-permalink: /support-url/solcast/it/
+permalink: /solcast/support/it/
+redirect_from:
+  - /support-url/solcast/it/
 ---
 
 # Come possiamo aiutarti?
@@ -39,7 +41,7 @@ Sì. Non ci sono acquisti in-app, abbonamenti o pubblicità. Ogni funzione è di
 
 ### Solcast raccoglie i miei dati?
 
-No. Non ci sono account utente, analisi, tracciamento o pubblicità. Tutte le tue preferenze restano sul tuo dispositivo. Consulta la nostra [Informativa sulla Privacy](https://www.bartlettbutter.com/privacy-policies/solcast/) completa per maggiori dettagli.
+No. Non ci sono account utente, analisi, tracciamento o pubblicità. Tutte le tue preferenze restano sul tuo dispositivo. Consulta la nostra [Informativa sulla Privacy](https://www.bartlettbutter.com/solcast/privacy/) completa per maggiori dettagli.
 
 ### Ho bisogno di una connessione internet?
 

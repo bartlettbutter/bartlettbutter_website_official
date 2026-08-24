@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "지원"
 lang: ko
-permalink: /support-url/huepick/ko/
+permalink: /huepick/support/ko/
+redirect_from:
+  - /support-url/huepick/ko/
 ---
 
 # 무엇을 도와드릴까요?
@@ -77,7 +79,7 @@ Playground에서 도구를 사용할 때 갤러리에 저장, 사진 라이브�
 
 ### 어떤 데이터를 수집하나요?
 
-없습니다. 개인정보 없음, 사용 분석 없음, 기기 식별자 없음. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/privacy-policies/huepick/)을 참조하세요.
+없습니다. 개인정보 없음, 사용 분석 없음, 기기 식별자 없음. 자세한 내용은 전체 [개인정보 처리방침](https://www.bartlettbutter.com/huepick/privacy/)을 참조하세요.
 
 ### 앱을 삭제하면 어떻게 되나요?
 

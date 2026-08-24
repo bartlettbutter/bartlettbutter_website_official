@@ -4,7 +4,9 @@ title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Política de Privacidad"
 lang: es
-permalink: /privacy-policies/etfwise/es/
+permalink: /etfwise/privacy/es/
+redirect_from:
+  - /privacy-policies/etfwise/es/
 ---
 
 **Fecha de vigencia:** 25 de abril de 2026

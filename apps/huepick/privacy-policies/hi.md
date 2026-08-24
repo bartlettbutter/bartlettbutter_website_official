@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "गोपनीयता नीति"
 lang: hi
-permalink: /privacy-policies/huepick/hi/
+permalink: /huepick/privacy/hi/
+redirect_from:
+  - /privacy-policies/huepick/hi/
 ---
 
 **प्रभावी तिथि:** 8 जुलाई 2026

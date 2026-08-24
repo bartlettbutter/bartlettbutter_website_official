@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Destek"
 lang: tr
-permalink: /support-url/huepick/tr/
+permalink: /huepick/support/tr/
+redirect_from:
+  - /support-url/huepick/tr/
 ---
 
 # Size nasıl yardımcı olabiliriz?
@@ -77,7 +79,7 @@ Asla. Tüm işlemler tamamen cihazınızda gerçekleşir.
 
 ### Hangi verileri topluyorsunuz?
 
-Hiçbiri. Kişisel veri yok, kullanım analizi yok, cihaz tanımlayıcısı yok. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/privacy-policies/huepick/) bakın.
+Hiçbiri. Kişisel veri yok, kullanım analizi yok, cihaz tanımlayıcısı yok. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/huepick/privacy/) bakın.
 
 ### Uygulamayı silersem ne olur?
 

@@ -3,7 +3,9 @@ layout: default
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Privacy Policy"
-permalink: /privacy-policies/journeyfolio/
+permalink: /journeyfolio/privacy/
+redirect_from:
+  - /privacy-policies/journeyfolio/
 ---
 
 **Effective Date:** July 22, 2026

@@ -4,7 +4,9 @@ title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Suporte"
 lang: pt
-permalink: /support-url/huepick/pt/
+permalink: /huepick/support/pt/
+redirect_from:
+  - /support-url/huepick/pt/
 ---
 
 # Como podemos ajudar?
@@ -77,7 +79,7 @@ Nunca. Todo o processamento acontece inteiramente no seu dispositivo.
 
 ### Quais dados vocês coletam?
 
-Nenhum. Sem dados pessoais, sem análises de uso, sem identificadores de dispositivo. Consulte nossa [Política de Privacidade](https://www.bartlettbutter.com/privacy-policies/huepick/) completa para mais detalhes.
+Nenhum. Sem dados pessoais, sem análises de uso, sem identificadores de dispositivo. Consulte nossa [Política de Privacidade](https://www.bartlettbutter.com/huepick/privacy/) completa para mais detalhes.
 
 ### O que acontece se eu excluir o aplicativo?
 

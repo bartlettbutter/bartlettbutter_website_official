@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Scanne jede Inhaltsstoffliste. Wisse genau, was in deiner Hautpflege steckt – und wie alles zusammenwirkt."
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: de
-permalink: /marketing-url/formulens/de/
+permalink: /formulens/de/
+redirect_from:
+  - /marketing-url/formulens/de/
 ---
 
 # Wisse genau, was in deiner Hautpflege steckt.
@@ -57,8 +59,8 @@ iOS 26.2 oder neuer · iPhone und iPad
 
 Deine Fotos verlassen niemals dein Gerät. Erkennung und Analyse finden vollständig lokal statt – ohne Server, ohne Cloud, ohne Konten, ohne Tracking.
 
-Lies unsere vollständige [Datenschutzrichtlinie](https://www.bartlettbutter.com/privacy-policies/formulens/).
+Lies unsere vollständige [Datenschutzrichtlinie](https://www.bartlettbutter.com/formulens/privacy/).
 
 ## Brauchst du Hilfe?
 
-Besuche unsere [Support-Seite](https://www.bartlettbutter.com/support-url/formulens/) oder schreib uns eine E-Mail an [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Besuche unsere [Support-Seite](https://www.bartlettbutter.com/formulens/support/) oder schreib uns eine E-Mail an [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

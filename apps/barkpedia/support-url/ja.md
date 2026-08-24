@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "サポート"
 lang: ja
-permalink: /support-url/barkpedia/ja/
+permalink: /barkpedia/support/ja/
+redirect_from:
+  - /support-url/barkpedia/ja/
 ---
 
 # どのようなお手伝いができますか？
@@ -55,7 +57,7 @@ BarkpediaはAKC規格に基づいて147品種を識別します。
 
 ### 私のデータはプライベートですか？
 
-はい。あなたの写真は完全にあなたのデバイス上で処理され、アップロードされることは一切ありません。Barkpediaは個人データを収集せず、ユーザーアカウントもなく、分析やトラッキングも含まれていません。詳細は完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/barkpedia/)をご覧ください。
+はい。あなたの写真は完全にあなたのデバイス上で処理され、アップロードされることは一切ありません。Barkpediaは個人データを収集せず、ユーザーアカウントもなく、分析やトラッキングも含まれていません。詳細は完全な[プライバシーポリシー](https://www.bartlettbutter.com/barkpedia/privacy/)をご覧ください。
 
 ### 私のデータはどこに保存されますか？
 

@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "どんな成分表もスキャン。あなたのスキンケアに何が入っているか、そしてそれらがどう組み合わさって働くかを正確に把握。"
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: ja
-permalink: /marketing-url/formulens/ja/
+permalink: /formulens/ja/
+redirect_from:
+  - /marketing-url/formulens/ja/
 ---
 
 # あなたのスキンケアに何が入っているのかを正確に知る。
@@ -57,8 +59,8 @@ iOS 26.2以降 · iPhoneおよびiPad
 
 あなたの写真がデバイスから出ることは一切ありません。すべての認識と分析はローカルで行われます — サーバーなし、クラウドなし、アカウントなし、トラッキングなし。
 
-完全な[プライバシーポリシー](https://www.bartlettbutter.com/privacy-policies/formulens/)をお読みください。
+完全な[プライバシーポリシー](https://www.bartlettbutter.com/formulens/privacy/)をお読みください。
 
 ## お困りですか？
 
-[サポートページ](https://www.bartlettbutter.com/support-url/formulens/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。
+[サポートページ](https://www.bartlettbutter.com/formulens/support/)をご覧いただくか、[contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) までメールでお問い合わせください。

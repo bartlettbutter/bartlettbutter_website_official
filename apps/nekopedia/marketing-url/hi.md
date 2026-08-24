@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "किसी भी बिल्ली की नस्ल तुरंत पहचानें। निःशुल्क, ऑफ़लाइन और निजी।"
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 lang: hi
-permalink: /marketing-url/nekopedia/hi/
+permalink: /nekopedia/hi/
+redirect_from:
+  - /marketing-url/nekopedia/hi/
 ---
 
 # वह बिल्ली किस नस्ल की है? अपना कैमरा तानें और जानें।
@@ -51,8 +53,8 @@ iOS 18.0 या बाद का संस्करण · iPhone और iPad
 
 आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं। कोई खाता नहीं, कोई एनालिटिक्स नहीं, कोई विज्ञापन नहीं। बस आप और बिल्लियाँ।
 
-हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/privacy-policies/nekopedia/) पढ़ें।
+हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/nekopedia/privacy/) पढ़ें।
 
 ## मदद चाहिए?
 
-हमारे [सहायता पृष्ठ](https://www.bartlettbutter.com/support-url/nekopedia/) पर जाएँ या हमें [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) पर ईमेल करें।
+हमारे [सहायता पृष्ठ](https://www.bartlettbutter.com/nekopedia/support/) पर जाएँ या हमें [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) पर ईमेल करें।

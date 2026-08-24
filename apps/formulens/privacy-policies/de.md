@@ -4,7 +4,9 @@ title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Datenschutzrichtlinie"
 lang: de
-permalink: /privacy-policies/formulens/de/
+permalink: /formulens/privacy/de/
+redirect_from:
+  - /privacy-policies/formulens/de/
 ---
 
 **Gültig ab:** 8. Juli 2026

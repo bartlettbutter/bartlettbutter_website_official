@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Soporte"
 lang: es
-permalink: /support-url/barkpedia/es/
+permalink: /barkpedia/support/es/
+redirect_from:
+  - /support-url/barkpedia/es/
 ---
 
 # ¿Cómo podemos ayudarte?
@@ -55,7 +57,7 @@ Sí. Barkpedia adapta automáticamente su diseño: navegación por pestañas en 
 
 ### ¿Mis datos son privados?
 
-Sí. Tus fotos se procesan completamente en tu dispositivo y nunca se suben. Barkpedia no recopila datos personales, no tiene cuentas de usuario y no incluye analíticas ni rastreo. Consulta nuestra [Política de Privacidad](https://www.bartlettbutter.com/privacy-policies/barkpedia/) completa para más detalles.
+Sí. Tus fotos se procesan completamente en tu dispositivo y nunca se suben. Barkpedia no recopila datos personales, no tiene cuentas de usuario y no incluye analíticas ni rastreo. Consulta nuestra [Política de Privacidad](https://www.bartlettbutter.com/barkpedia/privacy/) completa para más detalles.
 
 ### ¿Dónde se almacenan mis datos?
 

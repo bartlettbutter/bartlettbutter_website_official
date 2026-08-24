@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "即时识别任何狗的品种。免费、离线、私密。"
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: zh-Hans
-permalink: /marketing-url/barkpedia/zh-Hans/
+permalink: /barkpedia/zh-Hans/
+redirect_from:
+  - /marketing-url/barkpedia/zh-Hans/
 ---
 
 # 每只狗都有故事。即刻发现它。
@@ -57,8 +59,8 @@ iOS 17.0或更高版本 · iPhone和iPad
 
 您的照片永远不会离开您的设备。没有账户，没有分析，没有广告。只有您和狗狗。
 
-阅读我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/barkpedia/)。
+阅读我们完整的[隐私政策](https://www.bartlettbutter.com/barkpedia/privacy/)。
 
 ## 需要帮助？
 
-访问我们的[支持页面](https://www.bartlettbutter.com/support-url/barkpedia/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。
+访问我们的[支持页面](https://www.bartlettbutter.com/barkpedia/support/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。

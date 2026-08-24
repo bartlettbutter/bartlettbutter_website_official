@@ -4,7 +4,9 @@ title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "支持"
 lang: zh-Hans
-permalink: /support-url/barkpedia/zh-Hans/
+permalink: /barkpedia/support/zh-Hans/
+redirect_from:
+  - /support-url/barkpedia/zh-Hans/
 ---
 
 # 我们能帮您什么？
@@ -55,7 +57,7 @@ Barkpedia基于AKC标准识别147个品种。
 
 ### 我的数据私密吗？
 
-是的。您的照片完全在您的设备上处理，永远不会上传。Barkpedia不收集任何个人数据，没有用户账户，也不包含任何分析或追踪。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/barkpedia/)。
+是的。您的照片完全在您的设备上处理，永远不会上传。Barkpedia不收集任何个人数据，没有用户账户，也不包含任何分析或追踪。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/barkpedia/privacy/)。
 
 ### 我的数据存储在哪里？
 

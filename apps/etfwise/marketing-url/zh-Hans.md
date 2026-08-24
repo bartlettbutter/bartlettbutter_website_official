@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "由实时数据、新闻情绪和设备端AI驱动的每日ETF推荐。"
 app_store_url: "https://apps.apple.com/us/app/etfwise/id6762496354"
 lang: zh-Hans
-permalink: /marketing-url/etfwise/zh-Hans/
+permalink: /etfwise/zh-Hans/
+redirect_from:
+  - /marketing-url/etfwise/zh-Hans/
 ---
 
 # 您在ETF投资中的每日优势。
@@ -48,8 +50,8 @@ iOS 18.0或更高版本 · iPhone和iPad
 
 没有账户。没有分析。没有广告。您的数据保留在您的设备上。仅将股票代码发送给金融数据提供商以获取市场数据。
 
-阅读我们完整的[隐私政策](https://www.bartlettbutter.com/privacy-policies/etfwise/)。
+阅读我们完整的[隐私政策](https://www.bartlettbutter.com/etfwise/privacy/)。
 
 ## 需要帮助？
 
-访问我们的[支持页面](https://www.bartlettbutter.com/support-url/etfwise/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。
+访问我们的[支持页面](https://www.bartlettbutter.com/etfwise/support/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。

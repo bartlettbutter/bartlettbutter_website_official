@@ -5,7 +5,9 @@ app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Identifica qualsiasi razza di gatto all'istante. Gratis, offline e privato."
 app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
 lang: it
-permalink: /marketing-url/nekopedia/it/
+permalink: /nekopedia/it/
+redirect_from:
+  - /marketing-url/nekopedia/it/
 ---
 
 # Che razza è quel gatto? Punta la fotocamera e scoprilo.
@@ -51,8 +53,8 @@ iOS 18.0 o successivo · iPhone e iPad
 
 Le tue foto non lasciano mai il tuo dispositivo. Nessun account, nessuna analisi, nessuna pubblicità. Solo tu e i gatti.
 
-Leggi la nostra [Informativa sulla Privacy](https://www.bartlettbutter.com/privacy-policies/nekopedia/) completa.
+Leggi la nostra [Informativa sulla Privacy](https://www.bartlettbutter.com/nekopedia/privacy/) completa.
 
 ## Hai bisogno di aiuto?
 
-Visita la nostra [Pagina di Supporto](https://www.bartlettbutter.com/support-url/nekopedia/) o inviaci un'e-mail all'indirizzo [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Visita la nostra [Pagina di Supporto](https://www.bartlettbutter.com/nekopedia/support/) o inviaci un'e-mail all'indirizzo [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

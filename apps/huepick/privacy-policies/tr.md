@@ -25,7 +25,7 @@ Huepick, fotoğraflardan renk çıkarmak, paletler oluşturmak ve yaratıcı ara
 | Verilerim satılıyor veya paylaşılıyor mu? | Hayır |
 | Çocuklar uygulamayı güvenle kullanabilir mi? | Evet |
 
-Herhangi bir verinin cihazınızdan çıktığı tek zaman, isteğe bağlı bir özelliğin bir fotoğrafın konum koordinatlarını okunabilir bir yer adına dönüştürmesidir — ve yalnızca koordinatlar gönderilir.
+Herhangi bir verinin cihazınızdan çıktığı tek zaman, isteğe bağlı bir özelliğin bir fotoğrafın konum koordinatlarını okunabilir bir yer adına dönüştürmesidir; bu durumda yalnızca koordinatlar gönderilir.
 
 ## Hangi Verileri Topluyoruz
 

@@ -11,9 +11,9 @@ redirect_from:
 
 # Know exactly how to dress, plan, and protect your day.
 
-Solcast is a free weather app that goes beyond the forecast. It tells you what to wear, when to bring an umbrella, and how to keep your family comfortable — all personalized to your life and delivered in plain language.
+Solcast is a free weather app that goes beyond the forecast. It tells you what to wear, when to bring an umbrella, and how to keep your family comfortable, all personalized to your life and delivered in plain language.
 
-No ads. No subscriptions. No accounts. Just open and go.
+No ads. No accounts. Free to use, with an optional Premium upgrade. Just open and go.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
@@ -21,7 +21,7 @@ No ads. No subscriptions. No accounts. Just open and go.
 
 - **Answers, not numbers.** Instead of decoding humidity percentages and UV indices yourself, Solcast gives you clear action items: "Apply SPF 50 before lunch," "Pack rain gear for the kids," or "Walk your dog after sunset when pavement cools."
 - **Personalized to how you live.** Dial in your sensitivities, dressing style, and household (kids, pets, cars) and every recommendation adapts instantly. The advice a migraine-prone parent sees is different from what an outdoor runner sees.
-- **Stays ahead of your day.** Solcast detects when weather shifts between morning, afternoon, and evening — so you'll know to bring a layer for later or leave the umbrella at home after noon.
+- **Stays ahead of your day.** Solcast detects when weather shifts between morning, afternoon, and evening, so you'll know to bring a layer for later or leave the umbrella at home after noon.
 - **100% private.** Everything is computed on your device. No sign-up, no tracking, no data collection. Your location is used only to fetch weather and is never stored.
 
 ## At a glance
@@ -31,7 +31,7 @@ No ads. No subscriptions. No accounts. Just open and go.
 - **Hourly Strip** — scroll through the next 24 hours to plan around rain, UV spikes, or temperature drops
 - **16 Lifestyle Indices** — UV, SPF, allergy, air quality, hydration, comfort, flu risk, and more
 - **7-Day Forecast** — temperature, wind, UV, precipitation, air quality, and pollen in one view
-- **Multi-Location** — save up to 10 cities, each shown in its local timezone
+- **Multi-Location** — save up to 4 cities free (unlimited with Premium), each shown in its local timezone
 
 ## Built for your household
 
@@ -45,7 +45,7 @@ No ads. No subscriptions. No accounts. Just open and go.
 
 ## Get started in seconds
 
-1. Launch — no account needed
+1. Launch the app, no account needed
 2. Allow location or search for a city
 3. See your personalized dashboard immediately
 4. Fine-tune preferences anytime in Settings

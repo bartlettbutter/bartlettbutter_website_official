@@ -12,11 +12,11 @@ redirect_from:
 
 # Her köpeğin bir hikayesi vardır. Onu anında keşfedin.
 
-Bir fotoğraf çekin, ırkı tanımlayın ve bilinmesi gereken her şeyin kilidini açın — mizaç, tarihçe, eğlenceli gerçekler ve daha fazlası. İnternet gerekmez, kayıt gerekmez, ücret yok.
+Bir fotoğraf çekin, ırkı tanımlayın ve bilinmesi gereken her şeyin kilidini açın: mizaç, tarihçe, eğlenceli gerçekler ve daha fazlası. İnternet gerekmez, kayıt gerekmez, ücret yok.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
-## 100.000'den fazla köpek sever neden Barkpedia'yı seçiyor
+## Köpek severler neden Barkpedia'yı seçiyor
 
 - **Her yerde anında yanıtlar.** Parkta, barınakta veya kanepenizde saniyeler içinde 147 ırkı tanımlayın. Tamamen çevrimdışı çalışır.
 - **Gizliliğiniz önce gelir.** Fotoğraflar cihazınızdan asla çıkmaz. Hesap yok, izleme yok, reklam yok. Nokta.
@@ -27,7 +27,7 @@ Bir fotoğraf çekin, ırkı tanımlayın ve bilinmesi gereken her şeyin kilidi
 
 ### Tarayın ve tanımlayın
 
-Kameranızı herhangi bir köpeğe doğrultun — ya da kitaplığınızdan bir fotoğraf seçin — ve bir güven puanıyla birlikte ırk eşleşmesi elde edin. Her sonuç; mizaç, boyut, enerji düzeyi, köken hikayesi ve fotoğraflar içeren zengin bir ırk profiline bağlanır.
+Kameranızı herhangi bir köpeğe doğrultun ya da kitaplığınızdan bir fotoğraf seçin; bir güven puanıyla birlikte ırk eşleşmesi elde edin. Her sonuç; mizaç, boyut, enerji düzeyi, köken hikayesi ve fotoğraflar içeren zengin bir ırk profiline bağlanır.
 
 ### Favorilerinizi kaydedin
 
@@ -42,7 +42,7 @@ Bir ırkı sevdiniz mi? Tarama sonuçlarınızı kaydedin ve istediğiniz zaman 
 İki oyun moduyla ırk bilginizi sınayın:
 
 - **Irk Yarışması** — Bir fotoğraftan ırkı tahmin edin. 10 soru, dört seçenek, ödül unvanları kazanın.
-- **Köpek Bilgi Yarışması** — Doğru mu yanlış mı? Gerçek gerçeklerle akıllıca efsanelerin karıştığı 10 tur.
+- **Köpek Bilgi Yarışması** — Doğru mu yanlış mı? Gerçek gerçeklerle akıllıca efsanelerin karıştığı 10 tur. Tamamen çevrimdışı çalışır.
 
 ## Nasıl çalışır
 
@@ -53,7 +53,7 @@ Bir ırkı sevdiniz mi? Tarama sonuçlarınızı kaydedin ve istediğiniz zaman 
 
 ## Uyumluluk
 
-iOS 17.0 veya sonrası · iPhone ve iPad
+iOS 18.0 veya sonrası · iPhone ve iPad
 
 ## Gizliliğiniz korunur
 

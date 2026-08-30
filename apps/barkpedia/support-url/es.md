@@ -21,7 +21,7 @@ Barkpedia usa inteligencia avanzada en el dispositivo para analizar tu foto e id
 
 ### ¿Necesito conexión a internet?
 
-No para la experiencia principal. La identificación de razas, los favoritos guardados, la búsqueda de razas y el mapa mundial funcionan completamente sin conexión. Las páginas de detalle de razas (temperamento, historia, fotos), el concurso y las curiosidades caninas sí requieren conexión a internet para cargar contenido.
+No para la mayor parte de la experiencia. La identificación de razas, los favoritos guardados, la búsqueda de razas, el mapa mundial y las Curiosidades Caninas funcionan todos completamente sin conexión. Las páginas de detalle de razas (temperamento, historia, fotos) y el Concurso de Razas sí requieren conexión a internet para cargar contenido.
 
 ### ¿Barkpedia es realmente gratis?
 
@@ -47,7 +47,7 @@ Tanto la búsqueda como el mapa funcionan sin conexión.
 - **Concurso de Razas** — Se te muestra una foto de un perro y eliges la raza correcta entre cuatro opciones. Cada ronda tiene 10 preguntas. Gana títulos de recompensa según tu puntuación.
 - **Curiosidades Caninas** — Afirmaciones de verdadero o falso que mezclan datos reales de perros con mitos plausibles. También 10 preguntas por ronda con títulos de recompensa.
 
-Ambos juegos requieren conexión a internet.
+El Concurso de Razas requiere conexión a internet para cargar fotos. Las Curiosidades Caninas funcionan completamente sin conexión.
 
 ### ¿Barkpedia funciona en iPad?
 
@@ -91,9 +91,9 @@ No. Barkpedia solo solicita acceso a la cámara y a la biblioteca de fotos. No u
 
 Ve a Configuración → Barkpedia y confirma que el acceso a la Cámara esté habilitado. Si ya está activado, intenta forzar el cierre y volver a abrir la aplicación.
 
-### La información de razas, el concurso o las curiosidades no se cargan
+### El detalle de razas o el contenido del concurso no se carga
 
-Estas funciones requieren una conexión a internet activa. Comprueba tu conexión Wi-Fi o de datos móviles y vuelve a intentarlo. Si el problema continúa, el servicio de contenido puede estar temporalmente no disponible: espera unos minutos y reinténtalo.
+Las páginas de detalle de razas y el Concurso de Razas requieren una conexión a internet activa. Comprueba tu conexión Wi-Fi o de datos móviles y vuelve a intentarlo. Si el problema continúa, el servicio de contenido puede estar temporalmente no disponible: espera unos minutos y reinténtalo. (Las Curiosidades Caninas funcionan sin conexión y no deberían verse afectadas.)
 
 ### La aplicación dice "No es un perro"
 
@@ -105,7 +105,7 @@ Asegúrate de estar ejecutando la última versión de la App Store, luego reinic
 
 ## Compatibilidad
 
-Barkpedia requiere iOS 17.0 o posterior y funciona tanto en iPhone como en iPad.
+Barkpedia requiere iOS 18.0 o posterior y funciona tanto en iPhone como en iPad.
 
 ## Contáctanos
 

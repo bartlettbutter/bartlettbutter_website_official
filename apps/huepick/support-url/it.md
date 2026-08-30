@@ -25,7 +25,7 @@ No. Huepick non ha account, registrazione né accesso. Basta aprire l'app e iniz
 
 ### È richiesta una connessione internet?
 
-Quasi tutto funziona offline — estrazione dei colori, palette, strumenti creativi e salvataggio. L'unica funzione di rete facoltativa è la conversione delle coordinate di posizione della foto in un nome di luogo (come "Seattle, WA") sulle palette salvate.
+Quasi tutto funziona offline, tra cui estrazione dei colori, palette, strumenti creativi e salvataggio. L'unica funzione di rete facoltativa è la conversione delle coordinate di posizione della foto in un nome di luogo (come "Seattle, WA") sulle palette salvate.
 
 ### Huepick è davvero gratuito?
 
@@ -35,13 +35,13 @@ Sì. Nessun acquisto in-app, nessun abbonamento, nessuna pubblicità. Ogni funzi
 
 ### Cosa sono le tre schede?
 
-- **Analizza** — scatta o scegli una foto, estrai colori, genera palette, visualizza un'analisi cromatica dettagliata e ottieni suggerimenti personalizzati sugli strumenti creativi
-- **Playground** — trasforma la tua foto con cinque strumenti creativi (Isola, Duotone, Pixelizza, Sfoca, Glitch)
+- **Analizza** — scatta o scegli una foto, estrai una palette di 12 colori, visualizza un'analisi cromatica dettagliata e ottieni suggerimenti personalizzati sugli strumenti creativi
+- **Playground** — trasforma la tua foto con sei strumenti creativi (Isola, Duotone, Tritone, Pixelizza, Sfoca, Glitch)
 - **Galleria** — sfoglia, rimodifica, scarica o condividi le tue creazioni salvate
 
-### Come genero una palette?
+### Come funziona l'analisi dei colori?
 
-Dopo aver estratto i colori, scegli uno dei sei tipi di armonia (come Complementare o Analogo) e uno dei cinque scenari del mondo reale (come Arredamento o Design di UI). Huepick crea una palette con ruoli di colore etichettati adattati al tuo progetto.
+Dopo che Huepick ha estratto la tua palette di 12 colori, la scheda Analizza la scompone con schede visive: una panoramica (varietà di colori, punteggio di diversità, ampiezza delle tonalità), distribuzione delle tonalità, temperatura del colore (calda/fredda/neutra), luminosità e contrasto, saturazione e una scomposizione colore per colore con i valori esadecimali. In base alla tua palette, Huepick suggerisce anche quali strumenti creativi si adattano meglio alla tua foto.
 
 ### Come copio un codice esadecimale?
 
@@ -51,8 +51,9 @@ Tocca un qualsiasi campione di colore. Appare una breve conferma per farti saper
 
 - **Isola** — mantieni vivaci i colori selezionati mentre il resto diventa in scala di grigi (o viceversa)
 - **Duotone** — rimappa la tua immagine su due toni per un look audace ed editoriale
-- **Pixelizza** — trasforma in arte pixel geometrica con dimensione dei blocchi regolabile
-- **Sfoca** — aggiungi una messa a fuoco morbida e onirica con intensità regolabile
+- **Tritone** — rimappa la tua immagine su tre toni per un look più ricco e sfumato
+- **Pixelizza** — trasforma in un mosaico di tessere geometriche con dimensione delle tessere regolabile
+- **Sfoca** — aggiungi una messa a fuoco morbida e onirica con una scelta di stili di sfocatura e intensità regolabile
 - **Glitch** — applica la separazione dei canali RGB e la distorsione digitale
 
 ### Come salvo una creazione?
@@ -71,7 +72,7 @@ Tieni premuta la creazione nella Galleria e scegli "Elimina". Ti verrà chiesto 
 
 ### Dove vengono memorizzati i miei dati?
 
-Tutto — palette e creazioni salvate — viene memorizzato localmente sul tuo dispositivo. Non abbiamo server, archiviazione sul cloud né accesso ai tuoi dati.
+Tutto, comprese le palette e le creazioni salvate, viene memorizzato localmente sul tuo dispositivo. Non abbiamo server, archiviazione sul cloud né accesso ai tuoi dati.
 
 ### Le mie foto vengono caricate da qualche parte?
 
@@ -97,7 +98,7 @@ L'estrazione dei colori funziona meglio con foto ben illuminate e chiaramente a 
 
 ### Uno strumento creativo sembra lento
 
-Tutta l'elaborazione viene eseguita sull'hardware del tuo dispositivo. Foto più grandi e ad alta risoluzione potrebbero richiedere un momento — questo è un comportamento previsto, non un bug.
+Tutta l'elaborazione viene eseguita sull'hardware del tuo dispositivo. Foto più grandi e ad alta risoluzione potrebbero richiedere un momento; questo è un comportamento previsto, non un bug.
 
 ### L'app continua a bloccarsi
 

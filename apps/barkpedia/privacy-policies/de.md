@@ -43,16 +43,9 @@ Keine dieser Daten wird nach außen übertragen. Alle werden automatisch gelösc
 
 ## Netzwerkanfragen
 
-Die App verbindet sich mit den folgenden Diensten ausschließlich, um Anzeigeinhalte abzurufen (Rassenprofile, Bilder und Spielfragen):
+Die App verbindet sich ausschließlich mit externen Referenzdiensten für Hunderassen, um Anzeigeinhalte abzurufen: Rassenprofile (Temperament, Statistiken, Geschichte), Rassenbilder und Quizfotos. Dies sind standardmäßige Anfragen zum Abrufen von Inhalten.
 
-| Dienst | Zweck | Gesendete personenbezogene Daten |
-|--------|-------|----------------------------------|
-| The Dog API | Rasseninformationen (Temperament, Statistiken, Geschichte) | Keine |
-| dogapi.dog | Zusätzliche Rasseninformationen und Hundefakten für Trivia | Keine |
-| Dog CEO API | Rassenbilder und Quizfotos | Keine |
-| Wikipedia | Referenzbilder von Rassen | Keine |
-
-Dies sind standardmäßige Anfragen zum Abrufen von Inhalten. In keiner Anfrage sind personenbezogene Daten, Gerätekennungen oder Tracking-Informationen enthalten.
+**In keiner Anfrage sind personenbezogene Daten, Gerätekennungen oder Tracking-Informationen enthalten.** Keine Anfrage identifiziert Sie, und es werden niemals Analyse- oder Werbedaten übertragen.
 
 ## Datenweitergabe
 
@@ -69,7 +62,7 @@ Wir verkaufen, vermieten oder teilen keine Nutzerdaten mit Dritten. Es gibt kein
 
 ## Datenaufbewahrung und -löschung
 
-Da wir keine Daten auf unseren Servern erheben, gibt es auf unserer Seite nichts aufzubewahren oder zu löschen. Alle lokal gespeicherten Daten — einschließlich Favoriten und Scan-Verlauf — werden automatisch gelöscht, wenn Sie die App von Ihrem Gerät löschen.
+Da wir keine Daten auf unseren Servern erheben, gibt es auf unserer Seite nichts aufzubewahren oder zu löschen. Alle lokal gespeicherten Daten, einschließlich Favoriten und Scan-Verlauf, werden automatisch gelöscht, wenn Sie die App von Ihrem Gerät löschen.
 
 ## Ihre Rechte
 

@@ -12,9 +12,9 @@ redirect_from:
 
 # Nasıl giyineceğinizi, planlayacağınızı ve gününüzü koruyacağınızı tam olarak bilin.
 
-Solcast, tahminin ötesine geçen ücretsiz bir hava durumu uygulamasıdır. Ne giyeceğinizi, ne zaman şemsiye alacağınızı ve ailenizi nasıl rahat tutacağınızı söyler — hepsi hayatınıza göre kişiselleştirilmiş ve sade bir dille sunulmuştur.
+Solcast, tahminin ötesine geçen ücretsiz bir hava durumu uygulamasıdır. Ne giyeceğinizi, ne zaman şemsiye alacağınızı ve ailenizi nasıl rahat tutacağınızı söyler; hepsi hayatınıza göre kişiselleştirilmiş ve sade bir dille sunulmuştur.
 
-Reklam yok. Abonelik yok. Hesap yok. Sadece açın ve başlayın.
+Reklam yok. Hesap yok. Kullanımı ücretsiz, isteğe bağlı Premium yükseltmeyle. Sadece açın ve başlayın.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
@@ -22,7 +22,7 @@ Reklam yok. Abonelik yok. Hesap yok. Sadece açın ve başlayın.
 
 - **Rakamlar değil, cevaplar.** Nem yüzdelerini ve UV indekslerini kendiniz çözmek yerine, Solcast size net eylemler verir: "Öğle yemeğinden önce SPF 50 sürün", "Çocuklar için yağmurluk hazırlayın" veya "Kaldırım soğuduğunda gün batımından sonra köpeğinizi gezdirin".
 - **Yaşam tarzınıza göre kişiselleştirilmiş.** Hassasiyetlerinizi, giyim tarzınızı ve hanenizi (çocuklar, evcil hayvanlar, arabalar) ayarlayın; her öneri anında uyum sağlar. Migrene yatkın bir ebeveynin gördüğü tavsiye, açık hava koşucusunun gördüğünden farklıdır.
-- **Gününüzün önünde kalır.** Solcast, havanın sabah, öğleden sonra ve akşam arasında ne zaman değiştiğini algılar — böylece sonrası için bir kat giysi almanız mı, yoksa öğleden sonra şemsiyeyi evde bırakmanız mı gerektiğini bilirsiniz.
+- **Gününüzün önünde kalır.** Solcast, havanın sabah, öğleden sonra ve akşam arasında ne zaman değiştiğini algılar, böylece sonrası için bir kat giysi almanız mı, yoksa öğleden sonra şemsiyeyi evde bırakmanız mı gerektiğini bilirsiniz.
 - **%100 gizli.** Her şey cihazınızda hesaplanır. Kayıt yok, izleme yok, veri toplama yok. Konumunuz yalnızca hava durumunu almak için kullanılır ve asla saklanmaz.
 
 ## Bir bakışta
@@ -32,7 +32,7 @@ Reklam yok. Abonelik yok. Hesap yok. Sadece açın ve başlayın.
 - **Saatlik Şerit** — yağmur, UV zirveleri veya sıcaklık düşüşlerine göre plan yapmak için önümüzdeki 24 saati kaydırın
 - **16 Yaşam Tarzı İndeksi** — UV, SPF, alerji, hava kalitesi, susuz kalma, konfor, grip riski ve daha fazlası
 - **7 Günlük Tahmin** — sıcaklık, rüzgâr, UV, yağış, hava kalitesi ve polen tek bir görünümde
-- **Çoklu Konum** — en fazla 10 şehir kaydedin, her biri kendi yerel saat diliminde gösterilir
+- **Çoklu Konum** — en fazla 4 şehri ücretsiz kaydedin (Premium ile sınırsız), her biri kendi yerel saat diliminde gösterilir
 
 ## Haneniz için tasarlandı
 
@@ -46,7 +46,7 @@ Reklam yok. Abonelik yok. Hesap yok. Sadece açın ve başlayın.
 
 ## Saniyeler içinde başlayın
 
-1. Başlatın — hesap gerekmez
+1. Başlatın, hesap gerekmez
 2. Konuma izin verin veya bir şehir arayın
 3. Kişiselleştirilmiş kontrol panelinizi hemen görün
 4. Ayarlar'da tercihleri istediğiniz zaman ince ayarlayın

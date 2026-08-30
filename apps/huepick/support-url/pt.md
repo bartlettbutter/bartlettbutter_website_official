@@ -25,7 +25,7 @@ Não. O Huepick não tem contas, cadastro nem login. Basta abrir o aplicativo e 
 
 ### É necessária uma conexão com a internet?
 
-Quase tudo funciona offline — extração de cores, paletas, ferramentas criativas e salvamento. O único recurso de rede opcional é converter as coordenadas de localização da foto em um nome de lugar (como "Seattle, WA") nas paletas salvas.
+Quase tudo funciona offline, incluindo extração de cores, paletas, ferramentas criativas e salvamento. O único recurso de rede opcional é converter as coordenadas de localização da foto em um nome de lugar (como "Seattle, WA") nas paletas salvas.
 
 ### O Huepick é realmente gratuito?
 
@@ -35,13 +35,13 @@ Sim. Sem compras dentro do aplicativo, sem assinaturas, sem anúncios. Todos os 
 
 ### O que são as três abas?
 
-- **Analisar** — tire ou escolha uma foto, extraia cores, gere paletas, veja uma análise de cores detalhada e obtenha sugestões personalizadas de ferramentas criativas
-- **Playground** — transforme sua foto com cinco ferramentas criativas (Isolar, Duotono, Pixelizar, Desfocar, Glitch)
+- **Analisar** — tire ou escolha uma foto, extraia uma paleta de 12 cores, veja uma análise de cores detalhada e obtenha sugestões personalizadas de ferramentas criativas
+- **Playground** — transforme sua foto com seis ferramentas criativas (Isolar, Duotono, Tritono, Pixelizar, Desfocar, Glitch)
 - **Galeria** — navegue, reedite, baixe ou compartilhe suas criações salvas
 
-### Como gero uma paleta?
+### Como funciona a análise de cores?
 
-Depois de extrair as cores, escolha um dos seis tipos de harmonia (como Complementar ou Análoga) e um dos cinco cenários do mundo real (como Decoração de Casa ou Design de UI). O Huepick cria uma paleta com funções de cor rotuladas adaptadas ao seu projeto.
+Depois que o Huepick extrai sua paleta de 12 cores, a aba Analisar a detalha com cartões visuais: uma visão geral (variedade de cores, pontuação de diversidade, amplitude de matizes), distribuição de matizes, temperatura da cor (quente/fria/neutra), luminosidade e contraste, saturação e um detalhamento cor a cor com valores hex. Com base na sua paleta, o Huepick também sugere quais ferramentas criativas combinam melhor com a sua foto.
 
 ### Como copio um código hex?
 
@@ -51,8 +51,9 @@ Toque em qualquer amostra de cor. Uma breve confirmação aparece para avisar qu
 
 - **Isolar** — mantenha as cores selecionadas vibrantes enquanto o resto fica em tons de cinza (ou vice-versa)
 - **Duotono** — remapeie sua imagem para dois tons para um visual ousado e editorial
-- **Pixelizar** — transforme em arte de pixel geométrica com tamanho de bloco ajustável
-- **Desfocar** — adicione um foco suave e onírico com intensidade ajustável
+- **Tritono** — remapeie sua imagem em três tons para um visual mais rico e gradual
+- **Pixelizar** — transforme em um mosaico de ladrilhos geométricos com tamanho de ladrilho ajustável
+- **Desfocar** — adicione um foco suave e onírico com uma variedade de estilos de desfoque e intensidade ajustável
 - **Glitch** — aplique separação de canais RGB e distorção digital
 
 ### Como salvo uma criação?
@@ -71,7 +72,7 @@ Mantenha pressionada a criação na Galeria e escolha "Excluir". Você será sol
 
 ### Onde meus dados são armazenados?
 
-Tudo — paletas e criações salvas — é armazenado localmente no seu dispositivo. Não temos servidores, armazenamento na nuvem nem acesso aos seus dados.
+Tudo, incluindo paletas e criações salvas, é armazenado localmente no seu dispositivo. Não temos servidores, armazenamento na nuvem nem acesso aos seus dados.
 
 ### Minhas fotos são enviadas para algum lugar?
 
@@ -97,7 +98,7 @@ A extração de cores funciona melhor com fotos bem iluminadas e claramente foca
 
 ### Uma ferramenta criativa parece lenta
 
-Todo o processamento é executado no hardware do seu dispositivo. Fotos maiores e de resolução mais alta podem levar um momento — isso é comportamento esperado, não um bug.
+Todo o processamento é executado no hardware do seu dispositivo. Fotos maiores e de resolução mais alta podem levar um momento; isso é comportamento esperado, não um bug.
 
 ### O aplicativo fica travando
 

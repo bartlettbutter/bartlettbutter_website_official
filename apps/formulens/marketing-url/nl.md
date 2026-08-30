@@ -2,7 +2,7 @@
 layout: default
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
-app_description: "Scan elke ingrediëntenlijst. Weet precies wat er in je huidverzorging zit — en hoe alles samenwerkt."
+app_description: "Scan elke ingrediëntenlijst. Weet precies wat er in je huidverzorging zit, en hoe alles samenwerkt."
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: nl
 permalink: /formulens/nl/
@@ -12,9 +12,9 @@ redirect_from:
 
 # Weet precies wat er in je huidverzorging zit.
 
-**Maak een foto van elke ingrediëntenlijst en krijg een heldere, kleurgecodeerde uitsplitsing van wat alles doet — vergelijk vervolgens producten of controleer of je hele routine echt samenwerkt. Allemaal in seconden, allemaal op je apparaat.**
+**Maak een foto van elke ingrediëntenlijst en krijg een heldere, kleurgecodeerde uitsplitsing van wat alles doet. Vergelijk vervolgens producten of controleer of je hele routine echt samenwerkt. Allemaal in seconden, allemaal op je apparaat.**
 
-Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuLens vertaalt ze. Richt je camera op een willekeurig product en elk ingrediënt wordt ontcijferd en gesorteerd op wat het echt doet — geen typen, geen zoeken, geen scheikundediploma nodig.
+Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuLens vertaalt ze. Richt je camera op een willekeurig product en elk ingrediënt wordt ontcijferd en gesorteerd op wat het echt doet. Geen typen, geen zoeken, geen scheikundediploma nodig.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
@@ -49,7 +49,7 @@ Liefhebbers die een routine bijschaven. Gevoelige kopers die letten op parfums o
 
 ## Gratis te downloaden. Privé van opzet.
 
-Download FormuLens gratis en begin meteen met scannen — geen account, geen advertenties, geen addertje onder het gras. Elke functie hierboven is vandaag kosteloos beschikbaar. Je foto's verlaten nooit je apparaat: alle herkenning en analyse gebeuren lokaal, zonder servers, zonder cloud en zonder tracking.
+Download FormuLens gratis en begin meteen met scannen, zonder account, zonder advertenties en zonder addertje onder het gras. Elke functie hierboven is vandaag kosteloos beschikbaar. Je foto's verlaten nooit je apparaat: alle herkenning en analyse gebeuren lokaal, zonder servers, zonder cloud en zonder tracking.
 
 ## Compatibiliteit
 
@@ -57,7 +57,7 @@ iOS 26.2 of later · iPhone en iPad
 
 ## Je privacy, beschermd
 
-Je foto's verlaten nooit je apparaat. Alle herkenning en analyse gebeuren lokaal — zonder servers, zonder cloud, zonder accounts, zonder tracking.
+Je foto's verlaten nooit je apparaat. Alle herkenning en analyse gebeuren lokaal, zonder servers, zonder cloud, zonder accounts en zonder tracking.
 
 Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/formulens/privacy/).
 

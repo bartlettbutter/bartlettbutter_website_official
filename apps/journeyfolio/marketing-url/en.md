@@ -11,7 +11,7 @@ redirect_from:
 
 # Every journey deserves a folio.
 
-Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Journeyfolio brings your entire trip into one beautifully organized itinerary — flights, hotels, documents, live weather, and real-time flight status — so you can focus on the trip itself.
+Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Journeyfolio brings your entire trip into one beautifully organized itinerary that holds flights, hotels, documents, live weather, and real-time flight status, so you can focus on the trip itself.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
@@ -26,7 +26,7 @@ Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Jou
 
 Journeyfolio is now **free to download** with optional premium subscriptions for advanced features.
 
-- **Free with flexible plans.** Existing purchasers keep permanent premium access — no action needed.
+- **Free with flexible plans.** Existing purchasers keep permanent premium access, with no action needed.
 - **Attach travel documents** to any activity. Smart OCR reads boarding passes and booking confirmations automatically.
 - **Full iPad support** with adaptive layouts, Split View, and Slide Over multitasking.
 - **Improved reliability, accessibility, and overall stability** across the board.
@@ -39,15 +39,15 @@ Build a complete schedule with seven activity categories: flights, hotels, trans
 
 ### Live Flight Tracking
 
-Add a flight number and get real-time status — On Time, Delayed, Cancelled, Landed, or In Air — displayed right inside your itinerary with times shown in each airport's local timezone.
+Add a flight number and get real-time status (On Time, Delayed, Cancelled, Landed, or In Air) displayed right inside your itinerary with times shown in each airport's local timezone.
 
 ### Accurate Weather Forecasts
 
-View current conditions and a reliable 5-day outlook for every destination. Powered by [Apple Weather](https://weatherkit.apple.com/legal-attribution.html) with OpenWeatherMap as backup, so you always know what to pack.
+View current conditions and a reliable 5-day outlook for every destination. Powered by [Apple Weather](https://weatherkit.apple.com/legal-attribution.html) with an additional weather service as backup, so you always know what to pack.
 
 ### Tickets and Documents in One Place
 
-Upload boarding passes, booking confirmations, receipts, and travel documents directly to activities. Snap a photo or import a file — everything stays organized and accessible when you need it most.
+Upload boarding passes, booking confirmations, receipts, and travel documents directly to activities. Snap a photo or import a file, and everything stays organized and accessible when you need it most.
 
 ### Beautiful, Clutter-Free Design
 
@@ -63,7 +63,7 @@ A minimalist interface that makes planning feel effortless. Trips organized by y
 
 ## Free to start. Upgrade when you're ready.
 
-Plan up to 10 trips at no cost. Unlock unlimited trips, live flight tracking, and weather forecasts with Premium — available as monthly, 6-month, or yearly auto-renewable subscriptions.
+Plan up to 10 trips at no cost. Unlock unlimited trips, live flight tracking, and weather forecasts with Premium, available as monthly, 6-month, or yearly auto-renewable subscriptions.
 
 ## Compatibility
 

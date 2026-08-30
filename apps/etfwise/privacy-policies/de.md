@@ -11,7 +11,7 @@ redirect_from:
 
 **Gültig ab:** 25. April 2026
 
-ETFWise („die App") ist eine kostenlose iOS-Anwendung, die tägliche ETF-Empfehlungen mit Live-Marktdaten und geräteinterner KI-Analyse bietet. Ihre Privatsphäre ist grundlegend dafür, wie wir diese App entwickelt haben. Hier erfahren Sie genau, wie Ihre Informationen verarbeitet werden.
+ETFWise („die App") ist eine kostenlose iOS-Anwendung, die tägliche ETF-Empfehlungen mit Live-Marktdaten und sofortiger geräteinterner Analyse bietet. Ihre Privatsphäre ist grundlegend dafür, wie wir diese App entwickelt haben. Hier erfahren Sie genau, wie Ihre Informationen verarbeitet werden.
 
 ## Die Kurzfassung
 
@@ -22,7 +22,7 @@ ETFWise („die App") ist eine kostenlose iOS-Anwendung, die tägliche ETF-Empfe
 | Gibt es Tracking oder Analysen? | Nein |
 | Gibt es Werbung? | Nein |
 | Werden meine Daten verkauft oder geteilt? | Nein |
-| Verlässt die KI-Analyse mein Gerät? | Nein |
+| Verlässt die Analyse mein Gerät? | Nein |
 | Können Kinder die App sicher verwenden? | Ja |
 
 Die einzigen extern gesendeten Daten sind ETF-Tickersymbole, um Marktdaten abzurufen. Ihr Finnhub-API-Schlüssel wird sicher auf dem Gerät gespeichert und nur an Finnhub gesendet.
@@ -36,26 +36,25 @@ Keine. Wir erheben, speichern oder übertragen keine personenbezogenen Informati
 Alle App-Daten werden lokal auf Ihrem Gerät gespeichert:
 
 - Tägliche ETF-Empfehlungen und zwischengespeicherte Marktpreise
-- Nachrichtenstimmungs-Scores und KI-generierte Analysen
+- Nachrichtenstimmungs-Scores und generierte Analysen
 - Ihr Finnhub-API-Schlüssel (sicher im Gerätespeicher gespeichert)
-- Die heruntergeladene KI-Modelldatei
 
 Diese Daten werden täglich aktualisiert und niemals auf externe Server hochgeladen.
 
 ## Dienste von Drittanbietern
 
-ETFWise verbindet sich mit Finanzdatenanbietern ausschließlich, um Marktdaten zur Anzeige abzurufen. Die einzigen gesendeten Informationen sind ETF-Tickersymbole und Datumsbereiche. Es werden keine personenbezogenen Daten, Gerätekennungen oder Standortinformationen übertragen.
+ETFWise verbindet sich mit Finanzdatenanbietern von Drittanbietern ausschließlich, um Marktdaten zur Anzeige abzurufen. Wenn Sie sich dafür entscheiden, einen anzugeben, wird Ihr eigener Finnhub-API-Schlüssel für Live-Kurse und Nachrichten verwendet.
 
-| Dienst | Was Er Bereitstellt | Gesendete Daten | Datenschutzinfos |
-|--------|---------------------|-----------------|------------------|
-| Finnhub | Echtzeit-Kurse, Nachrichten, Stimmung, Analystendaten | Tickersymbole, Datumsbereiche, Ihr API-Schlüssel | [Datenschutzrichtlinie](https://finnhub.io/privacy-policy) |
-| Yahoo Finance | Fondsgröße, Bestände, Sektorgewichtungen, Wertentwicklung | Tickersymbole | [Datenschutzrichtlinie](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) |
-| Polymarket | Wahrscheinlichkeiten von Prognosemärkten | Nur öffentliche Ereignisdaten | [Datenschutzrichtlinie](https://polymarket.com/privacy) |
-| HuggingFace | Hostet die KI-Modelldatei für einen einmaligen Download | Nur Download der Modelldatei | [Datenschutzrichtlinie](https://huggingface.co/privacy) |
+| Gesendete Daten | Enthaltene personenbezogene Daten |
+|---|---|
+| ETF-Tickersymbole und Datumsbereiche | Keine |
+| Ihr Finnhub-API-Schlüssel (nur an Finnhub, zur Authentifizierung) | Keine |
 
-## Geräteinterne KI-Verarbeitung
+Keine Gerätekennungen, Standort- oder Tracking-Informationen sind in einer Anfrage enthalten.
 
-Das KI-Modell läuft vollständig auf Ihrem Gerät. Die gesamte Inferenz, einschließlich Bull-Cases, Risiko-Cases und Fondsbeschreibungen, erfolgt lokal. Es werden keine Prompts, Eingaben oder Ausgaben zur KI-Verarbeitung an einen externen Server gesendet.
+## Geräteinterne Analyse
+
+Die Bull-Cases, Risiko-Cases und Fondsbeschreibungen werden vollständig auf Ihrem Gerät aus den bereits für jeden ETF abgerufenen Marktdaten erstellt. Diese Analyse erfordert keinen separaten Download und keinen externen Server. Nichts davon wird von Ihrem Gerät gesendet.
 
 ## Sicherheit des API-Schlüssels
 
@@ -71,7 +70,7 @@ ETFWise fordert keinen Zugriff auf Ihre Kamera, Ihren Standort, Ihre Kontakte, I
 
 ## Datenaufbewahrung und -löschung
 
-Da wir keine personenbezogenen Daten auf unseren Servern erheben, gibt es auf unserer Seite nichts aufzubewahren oder zu löschen. Alle lokal gespeicherten Daten, einschließlich Empfehlungen, zwischengespeicherter Preise, KI-Analysen und Ihres API-Schlüssels, werden dauerhaft gelöscht, wenn Sie die App von Ihrem Gerät löschen.
+Da wir keine personenbezogenen Daten auf unseren Servern erheben, gibt es auf unserer Seite nichts aufzubewahren oder zu löschen. Alle lokal gespeicherten Daten, einschließlich Empfehlungen, zwischengespeicherter Preise, generierter Analysen und Ihres API-Schlüssels, werden dauerhaft gelöscht, wenn Sie die App von Ihrem Gerät löschen.
 
 ## Ihre Rechte
 

@@ -42,14 +42,9 @@ I risultati delle scansioni delle razze che salvi nei Preferiti sono memorizzati
 
 ## Servizi di Terze Parti
 
-L'App si connette ai seguenti servizi esclusivamente per recuperare contenuti da visualizzare come informazioni sulle razze, immagini e dati di gioco:
+L'App si connette a servizi di riferimento sui gatti di terze parti esclusivamente per recuperare contenuti da visualizzare: informazioni sulle razze (temperamento, statistiche, storia), immagini di razze e quiz, e curiosità.
 
-| Servizio | Scopo | Dati Inviati | Info Privacy |
-|----------|-------|--------------|-------------|
-| The Cat API | Informazioni sulle razze (temperamento, statistiche, storia) e foto quiz | Nessuno | [thecatapi.com](https://thecatapi.com) |
-| catfact.ninja | Curiosità sui gatti per la funzione trivia | Nessuno | [catfact.ninja](https://catfact.ninja) |
-
-Queste sono richieste standard di recupero contenuti. Non sono inclusi dati personali, identificatori del dispositivo o informazioni di tracciamento.
+**Nessun dato personale, identificatore del dispositivo o informazione di tracciamento è incluso in alcuna richiesta.** Nessuna richiesta ti identifica, e nessun dato di analisi o pubblicità viene mai trasmesso.
 
 ## Condivisione dei Dati
 

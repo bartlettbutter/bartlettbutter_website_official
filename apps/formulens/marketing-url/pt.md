@@ -2,7 +2,7 @@
 layout: default
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
-app_description: "Escaneie qualquer lista de ingredientes. Saiba exatamente o que há nos seus produtos de skincare — e como tudo funciona em conjunto."
+app_description: "Escaneie qualquer lista de ingredientes. Saiba exatamente o que há nos seus produtos de skincare, e como tudo funciona em conjunto."
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: pt
 permalink: /formulens/pt/
@@ -12,9 +12,9 @@ redirect_from:
 
 # Saiba exatamente o que há nos seus produtos de skincare.
 
-**Tire uma foto de qualquer lista de ingredientes e receba uma análise clara e codificada por cores do que cada componente faz — depois compare produtos ou verifique se toda a sua rotina realmente funciona em conjunto. Tudo em segundos, tudo no seu dispositivo.**
+**Tire uma foto de qualquer lista de ingredientes e receba uma análise clara e codificada por cores do que cada componente faz. Depois compare produtos ou verifique se toda a sua rotina realmente funciona em conjunto. Tudo em segundos, tudo no seu dispositivo.**
 
-Os rótulos de ingredientes são escritos para químicos, não para você. O FormuLens os traduz. Aponte a câmera para qualquer produto e cada ingrediente é decifrado e organizado pelo que realmente faz — sem digitar, sem pesquisar, sem precisar de um diploma em química.
+Os rótulos de ingredientes são escritos para químicos, não para você. O FormuLens os traduz. Aponte a câmera para qualquer produto e cada ingrediente é decifrado e organizado pelo que realmente faz. Sem digitar, sem pesquisar, sem precisar de um diploma em química.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
@@ -49,7 +49,7 @@ Entusiastas ajustando uma rotina. Consumidores sensíveis atentos a fragrâncias
 
 ## Grátis para baixar. Privado por design.
 
-Baixe o FormuLens gratuitamente e comece a escanear na hora — sem conta, sem anúncios, sem pegadinhas. Todos os recursos acima estão disponíveis hoje, sem custo. Suas fotos nunca saem do seu dispositivo: todo o reconhecimento e a análise acontecem localmente, sem servidores, sem nuvem e sem rastreamento.
+Baixe o FormuLens gratuitamente e comece a escanear na hora, sem conta, sem anúncios e sem pegadinhas. Todos os recursos acima estão disponíveis hoje, sem custo. Suas fotos nunca saem do seu dispositivo: todo o reconhecimento e a análise acontecem localmente, sem servidores, sem nuvem e sem rastreamento.
 
 ## Compatibilidade
 
@@ -57,7 +57,7 @@ iOS 26.2 ou posterior · iPhone e iPad
 
 ## Sua privacidade, protegida
 
-Suas fotos nunca saem do seu dispositivo. Todo o reconhecimento e a análise acontecem localmente — sem servidores, sem nuvem, sem contas, sem rastreamento.
+Suas fotos nunca saem do seu dispositivo. Todo o reconhecimento e a análise acontecem localmente, sem servidores, sem nuvem, sem contas e sem rastreamento.
 
 Leia nossa [Política de Privacidade](https://www.bartlettbutter.com/formulens/privacy/) completa.
 

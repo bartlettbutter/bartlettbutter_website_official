@@ -17,7 +17,7 @@ Wir möchten, dass du das Beste aus Solcast herausholst. Wenn etwas nicht wie er
 
 ### Wie richte ich die App ein?
 
-Öffne einfach Solcast — kein Konto, keine Anmeldung. Wenn du dazu aufgefordert wirst, erteile die Standortberechtigung, damit wir das Wetter deiner Umgebung abrufen können (du kannst dies auch überspringen und eine Stadt manuell suchen). Dein personalisiertes Dashboard erscheint sofort mit deiner Vorhersage, deinen Outfit-Vorschlägen und deinem täglichen Briefing.
+Öffne einfach Solcast. Kein Konto, keine Anmeldung. Wenn du dazu aufgefordert wirst, erteile die Standortberechtigung, damit wir das Wetter deiner Umgebung abrufen können (du kannst dies auch überspringen und eine Stadt manuell suchen). Dein personalisiertes Dashboard erscheint sofort mit deiner Vorhersage, deinen Outfit-Vorschlägen und deinem täglichen Briefing.
 
 ### Wie personalisiere ich die Empfehlungen?
 
@@ -27,17 +27,17 @@ Tippe auf das Zahnradsymbol (oben rechts), um die Einstellungen zu öffnen. Du f
 - **Dein Stil** — Kleidungsstil (Lässig, Business Casual, Formell, Sportlich) und Vorliebe für Sport im Freien
 - **Dein Haushalt** — Kinder, Haustiere, Autos
 
-Jede Änderung wird sofort wirksam — kein Neuladen erforderlich.
+Jede Änderung wird sofort wirksam, ohne dass ein Neuladen erforderlich ist.
 
 ### Wie verwalte ich Standorte?
 
-Du kannst bis zu 10 Standorte speichern. Verwende die Standortauswahl im Dashboard, um zwischen ihnen zu wechseln, oder tippe auf das Suchsymbol, um eine neue Stadt hinzuzufügen. Jeder Standort zeigt das Wetter in seiner eigenen Ortszeitzone an, sodass die Zeiten (Sonnenaufgang, Sonnenuntergang, stündliche Vorhersage) immer für diese Stadt relevant sind.
+Du kannst in der kostenlosen Version bis zu 4 Standorte speichern (unbegrenzt mit Premium). Verwende die Standortauswahl im Dashboard, um zwischen ihnen zu wechseln, oder tippe auf das Suchsymbol, um eine neue Stadt hinzuzufügen. Jeder Standort zeigt das Wetter in seiner eigenen Ortszeitzone an, sodass die Zeiten (Sonnenaufgang, Sonnenuntergang, stündliche Vorhersage) immer für diese Stadt relevant sind.
 
 ## Häufig gestellte Fragen
 
-### Ist Solcast wirklich kostenlos?
+### Ist Solcast kostenlos?
 
-Ja. Es gibt keine In-App-Käufe, keine Abonnements und keine Werbung. Jede Funktion ist ab dem ersten Tag verfügbar.
+Ja. Solcast ist kostenlos herunterzuladen, und das vollständige Wettererlebnis (Vorhersagen, Outfit-Vorschläge, tägliches Briefing, alle 16 Lifestyle-Indizes und smarte Wetterwarnungen) ist kostenlos, ohne Werbung. Ein optionales Premium-Abonnement fügt persönliche Erinnerungen hinzu und hebt das Limit für gespeicherte Städte an; alles andere bleibt kostenlos.
 
 ### Erhebt Solcast meine Daten?
 
@@ -61,7 +61,7 @@ Eine auf einen Blick erfassbare Karte oben in deinem Dashboard mit bis zu 6 vers
 
 ### Woher stammen die Wetterdaten?
 
-Solcast kombiniert Daten von Apple Wetter und Open-Meteo, um zuverlässige, genaue Vorhersagen zu liefern. Luftqualitäts- und Pollendaten stammen von einer speziellen Umwelt-API. Alle angezeigten Werte sind echte Messungen — nichts wird geschätzt oder erfunden.
+Solcast nutzt Apple Wetter zusammen mit zusätzlichen Wetter- und Umweltdatendiensten von Drittanbietern, um zuverlässige, genaue Vorhersagen zu liefern, einschließlich Luftqualität und Pollen. Alle angezeigten Werte sind echte Messungen. Nichts wird geschätzt oder erfunden.
 
 ## Berechtigungen
 
@@ -79,7 +79,7 @@ Nein. Solcast fordert nur die Standortberechtigung an. Es greift nicht auf deine
 
 1. Bestätige, dass dein Gerät eine aktive WLAN- oder Mobilfunkverbindung hat.
 2. Ziehe im Dashboard nach unten, um eine Aktualisierung zu erzwingen.
-3. Wenn es immer noch nicht lädt, ist der Wetterdienst möglicherweise vorübergehend nicht verfügbar — versuche es in ein paar Minuten erneut.
+3. Wenn es immer noch nicht lädt, ist der Wetterdienst möglicherweise vorübergehend nicht verfügbar. Versuche es in ein paar Minuten erneut.
 
 ### Mein Standort wird nicht erkannt
 
@@ -87,7 +87,7 @@ Gehe zu den Einstellungen deines Geräts > Datenschutz & Sicherheit > Ortungsdie
 
 ### Ein Index oder eine Empfehlung erscheint falsch
 
-Empfehlungen basieren auf Live-Wetterdaten in Kombination mit deinen persönlichen Einstellungen. Überprüfe deine Empfindlichkeitsschalter in Einstellungen > Über Dich und bestätige, dass der richtige Standort ausgewählt ist. Einige Daten (Luftqualität, Pollen) variieren je nach Region und sind möglicherweise nicht überall verfügbar — die App blendet diese Indizes automatisch aus, wenn keine Daten verfügbar sind.
+Empfehlungen basieren auf Live-Wetterdaten in Kombination mit deinen persönlichen Einstellungen. Überprüfe deine Empfindlichkeitsschalter in Einstellungen > Über Dich und bestätige, dass der richtige Standort ausgewählt ist. Einige Daten (Luftqualität, Pollen) variieren je nach Region und sind möglicherweise nicht überall verfügbar. Die App blendet diese Indizes automatisch aus, wenn keine Daten verfügbar sind.
 
 ### Die stündliche Vorhersageleiste wird nicht angezeigt
 
@@ -95,7 +95,7 @@ Die stündliche Leiste wird getrennt von der Hauptvorhersage geladen. Ziehe nach
 
 ### Die Zeiten sehen für eine entfernte Stadt falsch aus
 
-Das ist beabsichtigt. Jeder gespeicherte Standort zeigt die Wetterzeiten (Sonnenaufgang, Sonnenuntergang, stündliche Vorhersage) in der Ortszeitzone dieser Stadt an — nicht in der Zeitzone deines Geräts. Dies stellt sicher, dass die Informationen für die Planung an diesem Ort nützlich sind.
+Das ist beabsichtigt. Jeder gespeicherte Standort zeigt die Wetterzeiten (Sonnenaufgang, Sonnenuntergang, stündliche Vorhersage) in der Ortszeitzone dieser Stadt an, nicht in der Zeitzone deines Geräts. Dies stellt sicher, dass die Informationen für die Planung an diesem Ort nützlich sind.
 
 ### Die App stürzt ab
 

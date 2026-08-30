@@ -31,13 +31,13 @@ Cada cambio surte efecto de inmediato, sin necesidad de recargar.
 
 ### ¿Cómo gestiono las ubicaciones?
 
-Puedes guardar hasta 10 ubicaciones. Usa el selector de ubicación en el panel para cambiar entre ellas, o toca el icono de búsqueda para añadir una nueva ciudad. Cada ubicación muestra el clima en su propia zona horaria local, de modo que las horas (amanecer, atardecer, pronóstico por horas) siempre son relevantes para esa ciudad.
+Puedes guardar hasta 4 ubicaciones en el plan gratuito (ilimitadas con Premium). Usa el selector de ubicación en el panel para cambiar entre ellas, o toca el icono de búsqueda para añadir una nueva ciudad. Cada ubicación muestra el clima en su propia zona horaria local, de modo que las horas (amanecer, atardecer, pronóstico por horas) siempre son relevantes para esa ciudad.
 
 ## Preguntas Frecuentes
 
-### ¿Solcast es realmente gratis?
+### ¿Solcast es gratis?
 
-Sí. No hay compras dentro de la aplicación, ni suscripciones, ni anuncios. Todas las funciones están disponibles desde el primer día.
+Sí: Solcast es gratis de descargar y la experiencia meteorológica completa (pronósticos, sugerencias de atuendo, resumen diario, los 16 índices de estilo de vida y las alertas meteorológicas inteligentes) es gratuita, sin anuncios. Una suscripción Premium opcional añade recordatorios personales y amplía el límite de ciudades guardadas; todo lo demás sigue siendo gratis.
 
 ### ¿Solcast recopila mis datos?
 
@@ -61,7 +61,7 @@ Una tarjeta de un vistazo en la parte superior de tu panel con hasta 6 acciones 
 
 ### ¿De dónde provienen los datos meteorológicos?
 
-Solcast combina datos de Apple Weather y Open-Meteo para ofrecer pronósticos fiables y precisos. Los datos de calidad del aire y polen provienen de una API ambiental dedicada. Todos los valores mostrados son mediciones reales: nada se estima ni se inventa.
+Solcast usa Apple Weather junto con servicios adicionales de datos meteorológicos y ambientales de terceros para ofrecer pronósticos fiables y precisos, incluidos la calidad del aire y el polen. Todos los valores mostrados son mediciones reales: nada se estima ni se inventa.
 
 ## Permisos
 

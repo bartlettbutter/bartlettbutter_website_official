@@ -11,7 +11,7 @@ redirect_from:
 
 # Wie können wir helfen?
 
-Wir möchten, dass FormuLens für dich hervorragend funktioniert. Durchstöbere die Themen unten für schnelle Antworten oder [schreib uns](mailto:contact@bartlettbutter.com) jederzeit – wir helfen dir gerne.
+Wir möchten, dass FormuLens für dich hervorragend funktioniert. Durchstöbere die Themen unten für schnelle Antworten oder [schreib uns](mailto:contact@bartlettbutter.com) jederzeit. Wir helfen dir gerne.
 
 ## Erste Schritte
 
@@ -61,7 +61,7 @@ Die Benutzeroberfläche der App ist derzeit auf Englisch, weitere Sprachen sind 
 
 ### Was bedeuten die Farben?
 
-Jeder Inhaltsstoff ist nach seiner Funktion farblich markiert – zum Beispiel feuchtigkeitsspendend, antioxidativ, Sonnenschutz oder Anti-Aging. So erhältst du eine sofortige visuelle Übersicht darüber, wofür ein Produkt gemacht ist.
+Jeder Inhaltsstoff ist nach seiner Funktion farblich markiert, zum Beispiel feuchtigkeitsspendend, antioxidativ, Sonnenschutz oder Anti-Aging. So erhältst du eine sofortige visuelle Übersicht darüber, wofür ein Produkt gemacht ist.
 
 ### Was bedeuten die Kennzeichnungen „wichtig" und „ungewöhnlich"?
 
@@ -99,11 +99,11 @@ Für beste Ergebnisse stelle sicher, dass die Inhaltsstoffliste:
 - flach auf einer Oberfläche liegt (glätte das Etikett, wenn möglich)
 - groß genug im Bild ist, um klar lesbar zu sein
 
-Fotografiere bei gewölbten Flaschen einen Abschnitt nach dem anderen und füge jeden als separates Foto hinzu – FormuLens fügt sie zusammen.
+Fotografiere bei gewölbten Flaschen einen Abschnitt nach dem anderen und füge jeden als separates Foto hinzu, und FormuLens fügt sie zusammen.
 
 ### Einige Inhaltsstoffe werden als „nicht erkannt" angezeigt
 
-FormuLens enthält eine große Datenbank gängiger kosmetischer Inhaltsstoffe. Sehr neue, seltene oder regionsspezifische Inhaltsstoffe sind möglicherweise noch nicht klassifiziert. Der Name des Inhaltsstoffs erscheint trotzdem – nur die automatische Funktionskennzeichnung ist nicht verfügbar.
+FormuLens enthält eine große Datenbank gängiger kosmetischer Inhaltsstoffe. Sehr neue, seltene oder regionsspezifische Inhaltsstoffe sind möglicherweise noch nicht klassifiziert. Der Name des Inhaltsstoffs erscheint trotzdem; nur die automatische Funktionskennzeichnung ist nicht verfügbar.
 
 ### In meinem Foto wurden keine Inhaltsstoffe gefunden
 
@@ -143,11 +143,11 @@ Das Deinstallieren von FormuLens entfernt alle gespeicherten Analysen endgültig
 
 ### Warum fragt die App nach Kamerazugriff?
 
-Damit du Inhaltsstofflisten direkt fotografieren kannst. Diese Berechtigung ist optional – du kannst stattdessen jederzeit ein Foto aus deiner Mediathek wählen.
+Damit du Inhaltsstofflisten direkt fotografieren kannst. Diese Berechtigung ist optional; du kannst stattdessen jederzeit ein Foto aus deiner Mediathek wählen.
 
 ### Warum fragt die App nach Zugriff auf die Fotomediathek?
 
-Damit du ein vorhandenes Foto einer Inhaltsstoffliste auswählen kannst. Dies ist optional – du kannst stattdessen die Kamera verwenden.
+Damit du ein vorhandenes Foto einer Inhaltsstoffliste auswählen kannst. Dies ist optional; du kannst stattdessen die Kamera verwenden.
 
 ### Greift FormuLens auf meinen Standort, mein Mikrofon oder meine Kontakte zu?
 

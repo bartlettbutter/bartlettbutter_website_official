@@ -31,7 +31,7 @@ Journeyfolio ("de app") is ontwikkeld door Bartlett Butter. Dit beleid legt uit 
 
 ## Uw Reisgegevens
 
-Alle informatie die u aanmaakt — bestemmingen, data, activiteiten, vluchtnummers, hotelgegevens, bijgevoegde documenten en notities — wordt **alleen lokaal op uw apparaat** opgeslagen. Deze gegevens verlaten nooit uw apparaat, behalve wanneer de app communiceert met diensten van derden (hieronder beschreven) om inhoud op te halen die u expliciet hebt aangevraagd.
+Alle informatie die u aanmaakt, waaronder bestemmingen, data, activiteiten, vluchtnummers, hotelgegevens, bijgevoegde documenten en notities, wordt **alleen lokaal op uw apparaat** opgeslagen. Deze gegevens verlaten nooit uw apparaat, behalve wanneer de app communiceert met diensten van derden (hieronder beschreven) om inhoud op te halen die u expliciet hebt aangevraagd.
 
 ## Abonnementen en Aankopen
 
@@ -41,7 +41,7 @@ Journeyfolio biedt optionele automatisch verlengende abonnementen die volledig v
 
 Journeyfolio heeft **geen** toegang tot de GPS van uw apparaat en volgt niet uw fysieke locatie.
 
-Wanneer u een bestemming toevoegt of naar plaatsen zoekt, worden uw zoekopdrachten naar de servers van Apple verzonden om resultaten terug te geven. Plaatsnamen worden naar Apple verzonden voor geocodering en weergegevens. Landcodes worden naar Nager.Date verzonden voor informatie over feestdagen. Er worden geen andere locatiegegevens verzameld of verzonden.
+Wanneer u een bestemming toevoegt of naar plaatsen zoekt, worden uw zoekopdrachten naar de servers van Apple verzonden om resultaten terug te geven. Plaatsnamen worden naar Apple verzonden voor geocodering en weergegevens. Landcodes worden naar een dienst voor feestdagen verzonden voor informatie over feestdagen. Er worden geen andere locatiegegevens verzameld of verzonden.
 
 ## Apparaattoestemmingen
 
@@ -54,14 +54,14 @@ Beide toestemmingen zijn optioneel. De app werkt volledig zonder deze. Er worden
 
 ## Diensten van Derden
 
-De app maakt uitsluitend verbinding met de volgende diensten om de door u aangevraagde inhoud weer te geven. Er worden geen persoonsgegevens of apparaat-ID's verzonden — alleen de minimale informatie die nodig is om aan elk verzoek te voldoen.
+De app maakt uitsluitend verbinding met de volgende diensten om de door u aangevraagde inhoud weer te geven. Er worden geen persoonsgegevens of apparaat-ID's verzonden, alleen de minimale informatie die nodig is om aan elk verzoek te voldoen.
 
 | Dienst | Doel | Verzonden Gegevens | Privacy-info |
 |--------|------|--------------------|--------------|
 | Apple Weer & Kaarten | Weersvoorspellingen, locatiezoekopdrachten, tijdzoneresolutie | Plaatsnamen, coördinaten | [Privacybeleid van Apple](https://www.apple.com/legal/privacy/) |
-| OpenWeatherMap | Reserveweergegevens | Plaatsnamen | [Privacybeleid van OpenWeatherMap](https://openweather.co.uk/privacy-policy) |
-| FlightAware | Verificatie van vluchtschema's en livestatus | Vluchtnummers, data | [Privacybeleid van FlightAware](https://www.flightaware.com/legal/privacy/) |
-| Nager.Date | Informatie over feestdagen | Landcodes, jaar | [Nager.Date](https://date.nager.at) |
+| Weerdienst van derden | Reserveweergegevens | Plaatsnamen | Geen |
+| Vluchtgegevensdienst | Verificatie van vluchtschema's en livestatus | Vluchtnummers, data | Geen |
+| Dienst voor feestdagen | Informatie over feestdagen | Landcodes, jaar | Geen |
 
 ## Gegevens Delen
 
@@ -69,13 +69,13 @@ We verkopen, verhuren, licentiëren of delen uw gegevens niet met derden. De eni
 
 ## Bewaring en Verwijdering van Gegevens
 
-Uw reisgegevens blijven op uw apparaat staan totdat u ervoor kiest ze te verwijderen — hetzij binnen de app, hetzij door deze te de-installeren. Bij de-installatie worden alle opgeslagen gegevens permanent verwijderd. Er is geen cloudback-up of -synchronisatie.
+Uw reisgegevens blijven op uw apparaat staan totdat u ervoor kiest ze te verwijderen, hetzij binnen de app, hetzij door deze te de-installeren. Bij de-installatie worden alle opgeslagen gegevens permanent verwijderd. Er is geen cloudback-up of -synchronisatie.
 
 **U heeft altijd de controle.** Verwijder elke reis of activiteit op elk moment door binnen de app naar links te vegen.
 
 ## Uw Rechten
 
-Omdat Journeyfolio alle gegevens lokaal opslaat en wij aan onze kant niets verzamelen, heeft u al volledige controle over uw informatie. U kunt uw gegevens op elk moment rechtstreeks binnen de app bekijken, bewerken of verwijderen — zonder verzoek aan ons.
+Omdat Journeyfolio alle gegevens lokaal opslaat en wij aan onze kant niets verzamelen, heeft u al volledige controle over uw informatie. U kunt uw gegevens op elk moment rechtstreeks binnen de app bekijken, bewerken of verwijderen, zonder verzoek aan ons.
 
 ## Privacy van Kinderen
 

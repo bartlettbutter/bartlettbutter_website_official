@@ -11,7 +11,7 @@ redirect_from:
 
 **Ingangsdatum:** 8 juli 2026
 
-Solcast ("de App") is een gratis weer- en lifestyle-adviesapp voor iPhone en iPad. Privacy staat centraal in de manier waarop we deze hebben gebouwd. Dit beleid legt precies uit welke gegevens betrokken zijn wanneer u Solcast gebruikt — en, belangrijker nog, welke niet.
+Solcast ("de App") is een gratis weer- en lifestyle-adviesapp voor iPhone en iPad. Privacy staat centraal in de manier waarop we deze hebben gebouwd. Dit beleid legt precies uit welke gegevens betrokken zijn wanneer u Solcast gebruikt en, belangrijker nog, welke niet.
 
 ## De Korte Versie
 
@@ -59,7 +59,7 @@ Solcast vraagt één toestemming:
 |-------------|------|
 | **Locatie (Tijdens gebruik)** | Weer-, luchtkwaliteits- en pollengegevens ophalen voor uw huidige positie |
 
-Er wordt geen andere toestemming gevraagd — geen camera, contacten, microfoon, meldingen, tracking of iets anders.
+Er wordt geen andere toestemming gevraagd: geen camera, contacten, microfoon, meldingen, tracking of iets anders.
 
 ## Diensten van Derden
 
@@ -68,9 +68,9 @@ De app maakt verbinding met de volgende diensten om weer- en milieugegevens op t
 | Dienst | Wat Het Biedt | Verzonden Gegevens |
 |--------|---------------|--------------------|
 | [Apple Weer](https://www.apple.com/legal/privacy/) | Weersvoorspellingen en -omstandigheden | Alleen geografische coördinaten |
-| [Open-Meteo](https://open-meteo.com/en/terms) | Aanvullende voorspellingen, luchtkwaliteit, pollen | Alleen geografische coördinaten |
+| Weer- en milieudiensten van derden | Aanvullende voorspellingen, luchtkwaliteit, pollen | Alleen geografische coördinaten |
 | [Apple Kaarten](https://www.apple.com/legal/privacy/) | Locatiezoekopdrachten en weergave van plaatsnaam | Alleen de zoekopdracht of coördinaten |
-| [Nager.Date](https://github.com/nager/Nager.Date) | Detectie van feestdagen | Alleen de landcode (bijv. "US") |
+| Feestdagendienst | Detectie van feestdagen | Alleen de landcode (bijv. "US") |
 
 **Er worden nooit persoonsgegevens, apparaat-ID's, advertentie-ID's of gebruikersvoorkeuren naar deze diensten verzonden.**
 
@@ -92,7 +92,7 @@ Solcast verzamelt van niemand informatie, ook niet van kinderen jonger dan 13 ja
 
 ## Internationale Gebruikers
 
-Omdat Solcast geen persoonsgegevens verzamelt, vindt er geen grensoverschrijdende overdracht van persoonsgegevens plaats. Weer- en feestdagverzoeken bevatten alleen geografische coördinaten of landcodes — er worden geen persoonsgegevens of apparaat-ID's opgenomen, ongeacht uw locatie.
+Omdat Solcast geen persoonsgegevens verzamelt, vindt er geen grensoverschrijdende overdracht van persoonsgegevens plaats. Weer- en feestdagverzoeken bevatten alleen geografische coördinaten of landcodes. Er worden geen persoonsgegevens of apparaat-ID's opgenomen, ongeacht uw locatie.
 
 ## Wijzigingen in Dit Beleid
 

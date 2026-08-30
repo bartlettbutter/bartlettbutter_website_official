@@ -11,7 +11,7 @@ redirect_from:
 
 **Ingangsdatum:** 25 april 2026
 
-ETFWise ("de App") is een gratis iOS-applicatie die dagelijkse ETF-aanbevelingen biedt met live marktgegevens en AI-analyse op het apparaat. Uw privacy staat centraal in de manier waarop we deze app hebben gebouwd. Hier leest u precies hoe uw informatie wordt behandeld.
+ETFWise ("de App") is een gratis iOS-applicatie die dagelijkse ETF-aanbevelingen biedt met live marktgegevens en directe analyse op het apparaat. Uw privacy staat centraal in de manier waarop we deze app hebben gebouwd. Hier leest u precies hoe uw informatie wordt behandeld.
 
 ## De Korte Versie
 
@@ -22,7 +22,7 @@ ETFWise ("de App") is een gratis iOS-applicatie die dagelijkse ETF-aanbevelingen
 | Is er tracking of analyse? | Nee |
 | Zijn er advertenties? | Nee |
 | Worden mijn gegevens verkocht of gedeeld? | Nee |
-| Verlaat de AI-analyse mijn apparaat? | Nee |
+| Verlaat de analyse mijn apparaat? | Nee |
 | Kunnen kinderen de app veilig gebruiken? | Ja |
 
 De enige gegevens die extern worden verzonden zijn ETF-tickersymbolen om marktgegevens op te halen. Uw Finnhub API-sleutel wordt veilig op het apparaat opgeslagen en alleen naar Finnhub verzonden.
@@ -36,26 +36,25 @@ Geen. We verzamelen, bewaren of verzenden geen persoonlijke informatie naar onze
 Alle appgegevens worden lokaal op uw apparaat opgeslagen:
 
 - Dagelijkse ETF-aanbevelingen en marktprijzen in cache
-- Sentimentscores van nieuws en door AI gegenereerde analyse
+- Sentimentscores van nieuws en gegenereerde analyse
 - Uw Finnhub API-sleutel (veilig opgeslagen in de opslag van het apparaat)
-- Het gedownloade AI-modelbestand
 
 Deze gegevens worden dagelijks vernieuwd en worden nooit naar externe servers geüpload.
 
 ## Diensten van Derden
 
-ETFWise maakt uitsluitend verbinding met financiële dataproviders om marktgegevens op te halen voor weergave. De enige verzonden informatie zijn ETF-tickersymbolen en datumbereiken. Er worden geen persoonsgegevens, apparaat-ID's of locatiegegevens verzonden.
+ETFWise maakt uitsluitend verbinding met externe financiële dataproviders om marktgegevens op te halen voor weergave. Als u ervoor kiest er een op te geven, wordt uw eigen Finnhub API-sleutel gebruikt voor live koersen en nieuws.
 
-| Dienst | Wat Het Biedt | Verzonden Gegevens | Privacy-info |
-|--------|---------------|--------------------|--------------|
-| Finnhub | Realtime koersen, nieuws, sentiment, analistengegevens | Tickersymbolen, datumbereiken, uw API-sleutel | [Privacybeleid](https://finnhub.io/privacy-policy) |
-| Yahoo Finance | Fondsomvang, posities, sectorwegingen, prestaties | Tickersymbolen | [Privacybeleid](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) |
-| Polymarket | Waarschijnlijkheden van voorspellingsmarkten | Alleen openbare gebeurtenisgegevens | [Privacybeleid](https://polymarket.com/privacy) |
-| HuggingFace | Host het AI-modelbestand voor een eenmalige download | Alleen download van het modelbestand | [Privacybeleid](https://huggingface.co/privacy) |
+| Verzonden Gegevens | Persoonsgegevens Inbegrepen |
+|---|---|
+| ETF-tickersymbolen en datumbereiken | Geen |
+| Uw Finnhub API-sleutel (alleen naar Finnhub, voor authenticatie) | Geen |
 
-## AI-verwerking op het Apparaat
+Er worden geen apparaat-ID's, locatie of trackinggegevens opgenomen in enig verzoek.
 
-Het AI-model draait volledig op uw apparaat. Alle inferentie, waaronder bull-cases, risico-cases en fondsbeschrijvingen, vindt lokaal plaats. Er worden geen prompts, invoer of uitvoer naar een externe server verzonden voor AI-verwerking.
+## Analyse op het Apparaat
+
+De bull-cases, risico-cases en fondsbeschrijvingen worden volledig op uw apparaat gegenereerd uit de marktgegevens die al voor elke ETF zijn opgehaald. Deze analyse omvat geen aparte download en geen externe server: niets ervan verlaat uw apparaat.
 
 ## Beveiliging van de API-sleutel
 
@@ -71,7 +70,7 @@ ETFWise vraagt geen toegang tot uw camera, locatie, contacten, microfoon, gezond
 
 ## Bewaring en Verwijdering van Gegevens
 
-Omdat we geen persoonsgegevens op onze servers verzamelen, is er aan onze kant niets te bewaren of te verwijderen. Alle lokaal opgeslagen gegevens, waaronder aanbevelingen, prijzen in cache, AI-analyse en uw API-sleutel, worden permanent verwijderd wanneer u de app van uw apparaat verwijdert.
+Omdat we geen persoonsgegevens op onze servers verzamelen, is er aan onze kant niets te bewaren of te verwijderen. Alle lokaal opgeslagen gegevens, waaronder aanbevelingen, prijzen in cache, gegenereerde analyse en uw API-sleutel, worden permanent verwijderd wanneer u de app van uw apparaat verwijdert.
 
 ## Uw Rechten
 

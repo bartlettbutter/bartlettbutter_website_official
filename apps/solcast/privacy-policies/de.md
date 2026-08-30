@@ -11,7 +11,7 @@ redirect_from:
 
 **Gültig ab:** 8. Juli 2026
 
-Solcast („die App") ist eine kostenlose Wetter- und Lifestyle-Ratgeber-App für iPhone und iPad. Datenschutz steht im Mittelpunkt ihrer Entwicklung. Diese Richtlinie erklärt genau, welche Daten bei der Nutzung von Solcast beteiligt sind — und, was noch wichtiger ist, welche nicht.
+Solcast („die App") ist eine kostenlose Wetter- und Lifestyle-Ratgeber-App für iPhone und iPad. Datenschutz steht im Mittelpunkt ihrer Entwicklung. Diese Richtlinie erklärt genau, welche Daten bei der Nutzung von Solcast beteiligt sind und, was noch wichtiger ist, welche nicht.
 
 ## Die Kurzfassung
 
@@ -59,7 +59,7 @@ Solcast fordert eine Berechtigung an:
 |--------------|-------|
 | **Standort (Bei Nutzung)** | Wetter-, Luftqualitäts- und Pollendaten für Ihre aktuelle Position abrufen |
 
-Es werden keine weiteren Berechtigungen angefordert — weder Kamera, Kontakte, Mikrofon, Benachrichtigungen, Tracking noch irgendetwas anderes.
+Es werden keine weiteren Berechtigungen angefordert: weder Kamera, Kontakte, Mikrofon, Benachrichtigungen, Tracking noch irgendetwas anderes.
 
 ## Dienste von Drittanbietern
 
@@ -68,9 +68,9 @@ Die App verbindet sich mit den folgenden Diensten, um Wetter- und Umweltdaten ab
 | Dienst | Was Er Bereitstellt | Gesendete Daten |
 |--------|---------------------|-----------------|
 | [Apple Wetter](https://www.apple.com/legal/privacy/) | Wettervorhersagen und -bedingungen | Nur geografische Koordinaten |
-| [Open-Meteo](https://open-meteo.com/en/terms) | Ergänzende Vorhersagen, Luftqualität, Pollen | Nur geografische Koordinaten |
+| Wetter- und Umweltdienste von Drittanbietern | Ergänzende Vorhersagen, Luftqualität, Pollen | Nur geografische Koordinaten |
 | [Apple Karten](https://www.apple.com/legal/privacy/) | Standortsuche und Anzeige des Städtenamens | Nur Suchanfrage oder Koordinaten |
-| [Nager.Date](https://github.com/nager/Nager.Date) | Erkennung von Feiertagen | Nur Ländercode (z. B. „US") |
+| Feiertagsdienst | Erkennung von Feiertagen | Nur Ländercode (z. B. „US") |
 
 **Es werden niemals personenbezogene Daten, Gerätekennungen, Werbe-IDs oder Nutzereinstellungen an diese Dienste gesendet.**
 
@@ -92,7 +92,7 @@ Solcast erhebt von niemandem Informationen, auch nicht von Kindern unter 13 Jahr
 
 ## Internationale Nutzer
 
-Da Solcast keine personenbezogenen Daten erhebt, findet keine grenzüberschreitende Übertragung personenbezogener Daten statt. Wetter- und Feiertagsanfragen enthalten nur geografische Koordinaten oder Ländercodes — unabhängig von Ihrem Standort werden keine personenbezogenen Daten oder Gerätekennungen einbezogen.
+Da Solcast keine personenbezogenen Daten erhebt, findet keine grenzüberschreitende Übertragung personenbezogener Daten statt. Wetter- und Feiertagsanfragen enthalten nur geografische Koordinaten oder Ländercodes. Unabhängig von Ihrem Standort werden keine personenbezogenen Daten oder Gerätekennungen einbezogen.
 
 ## Änderungen an Dieser Richtlinie
 

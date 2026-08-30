@@ -16,7 +16,7 @@ Scatta una foto, identifica la razza e sblocca tutto ciò che c'è da sapere: te
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
-## Perché oltre 100.000 amanti dei cani scelgono Barkpedia
+## Perché gli amanti dei cani scelgono Barkpedia
 
 - **Risposte istantanee, ovunque.** Identifica 147 razze in pochi secondi: al parco, al rifugio o sul divano. Funziona completamente offline.
 - **La tua privacy prima di tutto.** Le foto non lasciano mai il tuo dispositivo. Nessun account, nessun tracciamento, nessuna pubblicità. Punto.
@@ -27,7 +27,7 @@ Scatta una foto, identifica la razza e sblocca tutto ciò che c'è da sapere: te
 
 ### Scansiona e identifica
 
-Punta la fotocamera su qualsiasi cane — o scegli una foto dalla tua libreria — e ottieni una corrispondenza di razza con un punteggio di affidabilità. Ogni risultato rimanda a un ricco profilo della razza con temperamento, taglia, livello di energia, storia delle origini e foto.
+Punta la fotocamera su qualsiasi cane, o scegli una foto dalla tua libreria, e ottieni una corrispondenza di razza con un punteggio di affidabilità. Ogni risultato rimanda a un ricco profilo della razza con temperamento, taglia, livello di energia, storia delle origini e foto.
 
 ### Salva i tuoi preferiti
 
@@ -42,7 +42,7 @@ Cerca 147 razze per nome o esplora una mappa mondiale interattiva organizzata pe
 Metti alla prova le tue conoscenze sulle razze con due modalità di gioco:
 
 - **Quiz delle Razze** — Indovina la razza a partire da una foto. 10 domande, quattro scelte, guadagna titoli di ricompensa.
-- **Curiosità Cinofile** — Vero o falso? 10 round di fatti reali mescolati a miti astuti.
+- **Curiosità Cinofile** — Vero o falso? 10 round di fatti reali mescolati a miti astuti. Funziona completamente offline.
 
 ## Come funziona
 
@@ -53,7 +53,7 @@ Metti alla prova le tue conoscenze sulle razze con due modalità di gioco:
 
 ## Compatibilità
 
-iOS 17.0 o successivo · iPhone e iPad
+iOS 18.0 o successivo · iPhone e iPad
 
 ## La tua privacy, protetta
 

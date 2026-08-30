@@ -12,7 +12,7 @@ redirect_from:
 
 # Chaque voyage mérite son folio.
 
-Arrêtez de jongler avec des captures d'écran, des e-mails éparpillés et des feuilles de calcul à moitié terminées. Journeyfolio rassemble l'intégralité de votre voyage dans un itinéraire magnifiquement organisé — vols, hôtels, documents, météo en direct et statut de vol en temps réel — pour que vous puissiez vous concentrer sur le voyage lui-même.
+Arrêtez de jongler avec des captures d'écran, des e-mails éparpillés et des feuilles de calcul à moitié terminées. Journeyfolio rassemble l'intégralité de votre voyage dans un itinéraire magnifiquement organisé qui réunit vols, hôtels, documents, météo en direct et statut de vol en temps réel, pour que vous puissiez vous concentrer sur le voyage lui-même.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
@@ -27,7 +27,7 @@ Arrêtez de jongler avec des captures d'écran, des e-mails éparpillés et des 
 
 Journeyfolio est désormais **téléchargeable gratuitement** avec des abonnements premium optionnels pour les fonctionnalités avancées.
 
-- **Gratuit avec des formules flexibles.** Les acheteurs existants conservent un accès premium permanent — aucune action nécessaire.
+- **Gratuit avec des formules flexibles.** Les acheteurs existants conservent un accès premium permanent, sans aucune action nécessaire.
 - **Joignez des documents de voyage** à n'importe quelle activité. L'OCR intelligent lit automatiquement les cartes d'embarquement et les confirmations de réservation.
 - **Prise en charge complète de l'iPad** avec des mises en page adaptatives, Split View et le multitâche Slide Over.
 - **Fiabilité, accessibilité et stabilité générale améliorées** sur tous les plans.
@@ -40,15 +40,15 @@ Créez un programme complet avec sept catégories d'activités : vols, hôtels, 
 
 ### Suivi de vol en direct
 
-Ajoutez un numéro de vol et obtenez le statut en temps réel — À l'heure, Retardé, Annulé, Atterri ou En vol — affiché directement dans votre itinéraire avec les heures indiquées dans le fuseau horaire local de chaque aéroport.
+Ajoutez un numéro de vol et obtenez le statut en temps réel (À l'heure, Retardé, Annulé, Atterri ou En vol) affiché directement dans votre itinéraire avec les heures indiquées dans le fuseau horaire local de chaque aéroport.
 
 ### Prévisions météo précises
 
-Consultez les conditions actuelles et une prévision fiable sur 5 jours pour chaque destination. Propulsé par [Apple Météo](https://weatherkit.apple.com/legal-attribution.html) avec OpenWeatherMap en secours, pour que vous sachiez toujours quoi emporter.
+Consultez les conditions actuelles et une prévision fiable sur 5 jours pour chaque destination. Propulsé par [Apple Météo](https://weatherkit.apple.com/legal-attribution.html) avec un service météo supplémentaire en secours, pour que vous sachiez toujours quoi emporter.
 
 ### Billets et documents au même endroit
 
-Téléchargez cartes d'embarquement, confirmations de réservation, reçus et documents de voyage directement dans les activités. Prenez une photo ou importez un fichier — tout reste organisé et accessible au moment où vous en avez le plus besoin.
+Téléchargez cartes d'embarquement, confirmations de réservation, reçus et documents de voyage directement dans les activités. Prenez une photo ou importez un fichier, et tout reste organisé et accessible au moment où vous en avez le plus besoin.
 
 ### Un design magnifique et épuré
 
@@ -64,7 +64,7 @@ Une interface minimaliste qui rend la planification sans effort. Des voyages org
 
 ## Commencez gratuitement. Passez à la version supérieure quand vous êtes prêt.
 
-Planifiez jusqu'à 10 voyages gratuitement. Débloquez des voyages illimités, le suivi de vol en direct et les prévisions météo avec Premium — disponible en abonnement auto-renouvelable mensuel, semestriel ou annuel.
+Planifiez jusqu'à 10 voyages gratuitement. Débloquez des voyages illimités, le suivi de vol en direct et les prévisions météo avec Premium, disponible en abonnement auto-renouvelable mensuel, semestriel ou annuel.
 
 ## Compatibilité
 

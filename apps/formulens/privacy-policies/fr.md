@@ -34,7 +34,7 @@ FormuLens vous aide à comprendre les listes d'ingrédients cosmétiques en les 
 Vous accordez l'accès à l'appareil photo ou à la photothèque pour que FormuLens puisse lire les listes d'ingrédients. Voici ce qui arrive à ces photos :
 
 - Les photos sont traitées **entièrement sur votre appareil** grâce à la technologie de reconnaissance de texte intégrée d'Apple.
-- Les photos ne sont **jamais téléversées** vers un serveur — le nôtre ou celui de quiconque.
+- Les photos ne sont **jamais téléversées** vers un serveur, le nôtre ou celui de quiconque.
 - Les photos ne sont **pas conservées** par l'application au-delà de la session d'analyse active (sauf si vous enregistrez explicitement un résultat).
 
 ## Comment fonctionne l'analyse

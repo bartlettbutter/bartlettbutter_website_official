@@ -42,14 +42,9 @@ Die Rassenscan-Ergebnisse, die Sie in den Favoriten speichern, werden nur auf Ih
 
 ## Dienste von Drittanbietern
 
-Die App verbindet sich mit folgenden Diensten ausschließlich zum Abruf von Anzeigeinhalten wie Rasseninformationen, Bildern und Spieldaten:
+Die App verbindet sich mit Katzen-Referenzdiensten von Drittanbietern ausschließlich zum Abruf von Anzeigeinhalten: Rasseninformationen (Temperament, Statistiken, Geschichte), Rassen- und Quiz-Bilder sowie Wissenswertes.
 
-| Dienst | Zweck | Gesendete Daten | Datenschutz-Info |
-|--------|-------|-----------------|-----------------|
-| The Cat API | Rasseninformationen (Temperament, Statistiken, Geschichte) und Quiz-Fotos | Keine | [thecatapi.com](https://thecatapi.com) |
-| catfact.ninja | Katzenfakten für die Trivia-Funktion | Keine | [catfact.ninja](https://catfact.ninja) |
-
-Dies sind Standard-Inhaltsabrufanfragen. Es werden keine persönlichen Daten, Gerätekennungen oder Tracking-Informationen übermittelt.
+**Es werden keine persönlichen Daten, Gerätekennungen oder Tracking-Informationen in einer Anfrage übermittelt.** Keine Anfrage identifiziert Sie, und es werden niemals Analyse- oder Werbedaten übertragen.
 
 ## Datenweitergabe
 

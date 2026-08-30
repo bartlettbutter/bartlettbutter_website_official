@@ -11,13 +11,13 @@ redirect_from:
 
 # Estamos aqui para ajudar.
 
-Seja configurando sua primeira viagem ou resolvendo um problema com um recurso, você encontrará respostas abaixo. Se não, entre em contato — teremos prazer em ajudar.
+Seja configurando sua primeira viagem ou resolvendo um problema com um recurso, você encontrará respostas abaixo. Se não, entre em contato. Teremos prazer em ajudar.
 
 ## Primeiros Passos
 
 ### O Journeyfolio é gratuito?
 
-Sim. O Journeyfolio é gratuito para baixar e permite planejar até 10 viagens sem custo. Recursos premium — viagens ilimitadas, rastreamento de voos ao vivo e previsões do tempo — estão disponíveis por meio de assinaturas opcionais de renovação automática (mensal, semestral ou anual).
+Sim. O Journeyfolio é gratuito para baixar e permite planejar até 10 viagens sem custo. Recursos premium (viagens ilimitadas, rastreamento de voos ao vivo e previsões do tempo) estão disponíveis por meio de assinaturas opcionais de renovação automática (mensal, semestral ou anual).
 
 ### Comprei o Journeyfolio antes de ele ficar gratuito. Perco o acesso?
 
@@ -112,7 +112,7 @@ Não. Os dados das suas viagens são armazenados localmente e são completamente
 1. Confirme que o seu dispositivo tem conexão com a internet.
 2. Verifique se o nome da cidade de destino está correto.
 3. Certifique-se de ter uma assinatura Premium ativa.
-4. Se ainda não carregar, tente novamente em alguns minutos — o serviço de tempo pode estar temporariamente indisponível.
+4. Se ainda não carregar, tente novamente em alguns minutos, pois o serviço de tempo pode estar temporariamente indisponível.
 
 ### A verificação de voo diz "Nenhum voo encontrado"
 

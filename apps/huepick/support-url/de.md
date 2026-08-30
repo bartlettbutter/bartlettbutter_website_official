@@ -25,7 +25,7 @@ Nein. Huepick hat keine Konten, keine Anmeldung und keinen Login. Öffne einfach
 
 ### Ist eine Internetverbindung erforderlich?
 
-Fast alles funktioniert offline — Farbextraktion, Paletten, kreative Werkzeuge und Speichern. Die einzige optionale Netzwerkfunktion ist die Umwandlung von Fotostandortkoordinaten in einen Ortsnamen (wie „Seattle, WA") auf gespeicherten Paletten.
+Fast alles funktioniert offline, darunter Farbextraktion, Paletten, kreative Werkzeuge und Speichern. Die einzige optionale Netzwerkfunktion ist die Umwandlung von Fotostandortkoordinaten in einen Ortsnamen (wie „Seattle, WA") auf gespeicherten Paletten.
 
 ### Ist Huepick wirklich kostenlos?
 
@@ -35,13 +35,13 @@ Ja. Keine In-App-Käufe, keine Abonnements, keine Werbung. Jede Funktion ist ab 
 
 ### Was sind die drei Tabs?
 
-- **Analysieren** — mach oder wähle ein Foto, extrahiere Farben, generiere Paletten, sieh dir eine detaillierte Farbanalyse an und erhalte personalisierte Vorschläge für kreative Werkzeuge
-- **Playground** — verwandle dein Foto mit fünf kreativen Werkzeugen (Isolieren, Duoton, Pixelisieren, Weichzeichnen, Glitch)
+- **Analysieren** — mach oder wähle ein Foto, extrahiere eine 12-Farben-Palette, sieh dir eine detaillierte Farbanalyse an und erhalte personalisierte Vorschläge für kreative Werkzeuge
+- **Playground** — verwandle dein Foto mit sechs kreativen Werkzeugen (Isolieren, Duoton, Trioton, Pixelisieren, Weichzeichnen, Glitch)
 - **Galerie** — durchstöbere, bearbeite erneut, lade herunter oder teile deine gespeicherten Kreationen
 
-### Wie generiere ich eine Palette?
+### Wie funktioniert die Farbanalyse?
 
-Nach dem Extrahieren der Farben wähle einen von sechs Harmonietypen (wie Komplementär oder Analog) und eines von fünf realen Szenarien (wie Wohndeko oder UI-Design). Huepick erstellt eine Palette mit beschrifteten Farbrollen, die auf dein Projekt zugeschnitten sind.
+Nachdem Huepick deine 12-Farben-Palette extrahiert hat, schlüsselt der Analysieren-Tab sie mit visuellen Karten auf: eine Übersicht (Farbvielfalt, Diversitätswert, Farbtonspanne), Farbtonverteilung, Farbtemperatur (warm/kalt/neutral), Helligkeit und Kontrast, Sättigung sowie eine Aufschlüsselung pro Farbe mit Hex-Werten. Basierend auf deiner Palette schlägt Huepick außerdem vor, welche kreativen Werkzeuge am besten zu deinem Foto passen.
 
 ### Wie kopiere ich einen Hex-Code?
 
@@ -51,8 +51,9 @@ Tippe auf ein beliebiges Farbmuster. Eine kurze Bestätigung erscheint, um dir m
 
 - **Isolieren** — behalte ausgewählte Farben lebendig, während der Rest in Graustufen übergeht (oder umgekehrt)
 - **Duoton** — bilde dein Bild auf zwei Töne ab, für einen kräftigen, redaktionellen Look
-- **Pixelisieren** — verwandle in geometrische Pixel-Kunst mit anpassbarer Blockgröße
-- **Weichzeichnen** — füge einen sanften, verträumten Fokus mit anpassbarer Intensität hinzu
+- **Trioton** — bilde dein Bild auf drei Töne ab, für einen reicheren, abgestuften Look
+- **Pixelisieren** — verwandle in ein Mosaik aus geometrischen Kacheln mit anpassbarer Kachelgröße
+- **Weichzeichnen** — füge einen sanften, verträumten Fokus mit einer Auswahl an Weichzeichnungsstilen und anpassbarer Intensität hinzu
 - **Glitch** — wende RGB-Kanaltrennung und digitale Verzerrung an
 
 ### Wie speichere ich eine Kreation?
@@ -71,7 +72,7 @@ Halte die Kreation in der Galerie gedrückt und wähle „Löschen". Du wirst um
 
 ### Wo werden meine Daten gespeichert?
 
-Alles — gespeicherte Paletten und Kreationen — wird lokal auf deinem Gerät gespeichert. Wir haben keine Server, keinen Cloud-Speicher und keinen Zugriff auf deine Daten.
+Alles, einschließlich gespeicherter Paletten und Kreationen, wird lokal auf deinem Gerät gespeichert. Wir haben keine Server, keinen Cloud-Speicher und keinen Zugriff auf deine Daten.
 
 ### Werden meine Fotos irgendwohin hochgeladen?
 
@@ -97,7 +98,7 @@ Die Farbextraktion funktioniert am besten mit gut beleuchteten, klar fokussierte
 
 ### Ein kreatives Werkzeug scheint langsam zu sein
 
-Die gesamte Verarbeitung läuft auf der Hardware deines Geräts. Größere, höher aufgelöste Fotos können einen Moment dauern — das ist erwartetes Verhalten, kein Fehler.
+Die gesamte Verarbeitung läuft auf der Hardware deines Geräts. Größere, höher aufgelöste Fotos können einen Moment dauern. Das ist erwartetes Verhalten, kein Fehler.
 
 ### Die App stürzt immer wieder ab
 

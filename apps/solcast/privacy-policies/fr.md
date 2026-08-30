@@ -11,7 +11,7 @@ redirect_from:
 
 **Date d'entrée en vigueur :** 8 juillet 2026
 
-Solcast (« l'Application ») est une application gratuite de météo et de conseils de style de vie pour iPhone et iPad. La confidentialité est au cœur de sa conception. Cette politique explique exactement quelles données sont impliquées lorsque vous utilisez Solcast — et, plus important encore, lesquelles ne le sont pas.
+Solcast (« l'Application ») est une application gratuite de météo et de conseils de style de vie pour iPhone et iPad. La confidentialité est au cœur de sa conception. Cette politique explique exactement quelles données sont impliquées lorsque vous utilisez Solcast et, plus important encore, lesquelles ne le sont pas.
 
 ## Version Courte
 
@@ -59,7 +59,7 @@ Solcast demande une autorisation :
 |--------------|----------|
 | **Localisation (Lors de l'utilisation)** | Récupérer les données de météo, de qualité de l'air et de pollen pour votre position actuelle |
 
-Aucune autre autorisation n'est demandée — ni appareil photo, ni contacts, ni microphone, ni notifications, ni suivi, ni quoi que ce soit d'autre.
+Aucune autre autorisation n'est demandée : ni appareil photo, ni contacts, ni microphone, ni notifications, ni suivi, ni quoi que ce soit d'autre.
 
 ## Services Tiers
 
@@ -68,9 +68,9 @@ L'application se connecte aux services suivants pour récupérer les données m�
 | Service | Ce Qu'il Fournit | Données Envoyées |
 |---------|------------------|------------------|
 | [Apple Météo](https://www.apple.com/legal/privacy/) | Prévisions et conditions météo | Coordonnées géographiques uniquement |
-| [Open-Meteo](https://open-meteo.com/en/terms) | Prévisions complémentaires, qualité de l'air, pollen | Coordonnées géographiques uniquement |
+| Services météorologiques et environnementaux tiers | Prévisions complémentaires, qualité de l'air, pollen | Coordonnées géographiques uniquement |
 | [Apple Plans](https://www.apple.com/legal/privacy/) | Recherche de lieux et affichage du nom de la ville | Requête de recherche ou coordonnées uniquement |
-| [Nager.Date](https://github.com/nager/Nager.Date) | Détection des jours fériés | Code de pays uniquement (par ex. « US ») |
+| Service de jours fériés | Détection des jours fériés | Code de pays uniquement (par ex. « US ») |
 
 **Aucune donnée personnelle, aucun identifiant d'appareil, aucun identifiant publicitaire ni aucune préférence utilisateur n'est jamais envoyé à ces services.**
 
@@ -92,7 +92,7 @@ Solcast ne collecte aucune information de qui que ce soit, y compris des enfants
 
 ## Utilisateurs Internationaux
 
-Comme Solcast ne collecte aucune donnée personnelle, aucun transfert transfrontalier d'informations personnelles n'a lieu. Les requêtes de météo et de jours fériés ne contiennent que des coordonnées géographiques ou des codes de pays — aucune donnée personnelle ni identifiant d'appareil n'est inclus, quelle que soit votre localisation.
+Comme Solcast ne collecte aucune donnée personnelle, aucun transfert transfrontalier d'informations personnelles n'a lieu. Les requêtes de météo et de jours fériés ne contiennent que des coordonnées géographiques ou des codes de pays. Aucune donnée personnelle ni identifiant d'appareil n'est inclus, quelle que soit votre localisation.
 
 ## Modifications de Cette Politique
 

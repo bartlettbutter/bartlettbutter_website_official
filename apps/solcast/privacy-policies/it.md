@@ -11,7 +11,7 @@ redirect_from:
 
 **Data di entrata in vigore:** 8 luglio 2026
 
-Solcast ("l'App") è un'app gratuita di meteo e consigli sullo stile di vita per iPhone e iPad. La privacy è centrale nel modo in cui l'abbiamo costruita. Questa informativa spiega esattamente quali dati sono coinvolti quando usi Solcast — e, cosa più importante, quali no.
+Solcast ("l'App") è un'app gratuita di meteo e consigli sullo stile di vita per iPhone e iPad. La privacy è centrale nel modo in cui l'abbiamo costruita. Questa informativa spiega esattamente quali dati sono coinvolti quando usi Solcast e, cosa più importante, quali no.
 
 ## Versione Breve
 
@@ -59,7 +59,7 @@ Solcast richiede un'autorizzazione:
 |----------------|-------|
 | **Posizione (Durante l'uso)** | Recuperare dati su meteo, qualità dell'aria e pollini per la tua posizione attuale |
 
-Non viene richiesta alcuna altra autorizzazione — né fotocamera, contatti, microfono, notifiche, tracciamento o altro.
+Non viene richiesta alcuna altra autorizzazione: né fotocamera, contatti, microfono, notifiche, tracciamento o altro.
 
 ## Servizi di Terze Parti
 
@@ -68,9 +68,9 @@ L'app si connette ai seguenti servizi per recuperare dati meteorologici e ambien
 | Servizio | Cosa Fornisce | Dati Inviati |
 |----------|---------------|--------------|
 | [Apple Meteo](https://www.apple.com/legal/privacy/) | Previsioni e condizioni meteo | Solo coordinate geografiche |
-| [Open-Meteo](https://open-meteo.com/en/terms) | Previsioni supplementari, qualità dell'aria, pollini | Solo coordinate geografiche |
+| Servizi meteorologici e ambientali di terze parti | Previsioni supplementari, qualità dell'aria, pollini | Solo coordinate geografiche |
 | [Apple Mappe](https://www.apple.com/legal/privacy/) | Ricerca di posizioni e visualizzazione del nome della città | Solo la query di ricerca o le coordinate |
-| [Nager.Date](https://github.com/nager/Nager.Date) | Rilevamento dei giorni festivi | Solo il codice del paese (es. "US") |
+| Servizio di giorni festivi | Rilevamento dei giorni festivi | Solo il codice del paese (es. "US") |
 
 **Nessun dato personale, identificatore del dispositivo, ID pubblicitario o preferenza utente viene mai inviato a questi servizi.**
 
@@ -92,7 +92,7 @@ Solcast non raccoglie informazioni da nessuno, inclusi i bambini di età inferio
 
 ## Utenti Internazionali
 
-Poiché Solcast non raccoglie dati personali, non avviene alcun trasferimento transfrontaliero di informazioni personali. Le richieste di meteo e giorni festivi contengono solo coordinate geografiche o codici dei paesi — nessun dato personale o identificatore del dispositivo viene incluso, indipendentemente dalla tua posizione.
+Poiché Solcast non raccoglie dati personali, non avviene alcun trasferimento transfrontaliero di informazioni personali. Le richieste di meteo e giorni festivi contengono solo coordinate geografiche o codici dei paesi. Nessun dato personale o identificatore del dispositivo viene incluso, indipendentemente dalla tua posizione.
 
 ## Modifiche a Questa Informativa
 

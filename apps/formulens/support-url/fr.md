@@ -11,7 +11,7 @@ redirect_from:
 
 # Comment pouvons-nous vous aider ?
 
-Nous voulons que FormuLens fonctionne parfaitement pour vous. Parcourez les sujets ci-dessous pour des réponses rapides, ou [écrivez-nous](mailto:contact@bartlettbutter.com) à tout moment — nous serons ravis de vous aider.
+Nous voulons que FormuLens fonctionne parfaitement pour vous. Parcourez les sujets ci-dessous pour des réponses rapides, ou [écrivez-nous](mailto:contact@bartlettbutter.com) à tout moment. Nous serons ravis de vous aider.
 
 ## Premiers pas
 
@@ -61,7 +61,7 @@ L'interface de l'application est actuellement en anglais, et d'autres langues so
 
 ### Que signifient les couleurs ?
 
-Chaque ingrédient est codé par couleur selon sa fonction — par exemple hydratation, antioxydant, protection solaire ou anti-âge. Cela vous donne une carte visuelle instantanée de ce à quoi un produit est destiné.
+Chaque ingrédient est codé par couleur selon sa fonction, par exemple hydratation, antioxydant, protection solaire ou anti-âge. Cela vous donne une carte visuelle instantanée de ce à quoi un produit est destiné.
 
 ### Que signifient les étiquettes « clé » et « inhabituel » ?
 
@@ -99,11 +99,11 @@ Pour de meilleurs résultats, assurez-vous que la liste d'ingrédients soit :
 - À plat contre une surface (aplanissez l'étiquette si possible)
 - Assez grande dans le cadre pour être lue clairement
 
-Sur les flacons courbés, photographiez une section à la fois et ajoutez chacune comme une photo distincte — FormuLens les fusionne.
+Sur les flacons courbés, photographiez une section à la fois et ajoutez chacune comme une photo distincte, et FormuLens les fusionne.
 
 ### Certains ingrédients apparaissent comme « non reconnus »
 
-FormuLens inclut une vaste base de données d'ingrédients cosmétiques courants. Les ingrédients très récents, rares ou spécifiques à une région peuvent ne pas encore être classés. Le nom de l'ingrédient apparaît toujours — seule l'étiquette de fonction automatique est indisponible.
+FormuLens inclut une vaste base de données d'ingrédients cosmétiques courants. Les ingrédients très récents, rares ou spécifiques à une région peuvent ne pas encore être classés. Le nom de l'ingrédient apparaît toujours ; seule l'étiquette de fonction automatique est indisponible.
 
 ### Aucun ingrédient n'a été trouvé sur ma photo
 
@@ -143,11 +143,11 @@ La désinstallation de FormuLens supprime définitivement toutes les analyses en
 
 ### Pourquoi l'application demande-t-elle l'accès à l'appareil photo ?
 
-Pour que vous puissiez photographier directement les listes d'ingrédients. Cette autorisation est optionnelle — vous pouvez toujours choisir une photo dans votre galerie à la place.
+Pour que vous puissiez photographier directement les listes d'ingrédients. Cette autorisation est optionnelle ; vous pouvez toujours choisir une photo dans votre galerie à la place.
 
 ### Pourquoi l'application demande-t-elle l'accès à la photothèque ?
 
-Pour que vous puissiez sélectionner une photo existante d'une liste d'ingrédients. C'est optionnel — vous pouvez utiliser l'appareil photo à la place.
+Pour que vous puissiez sélectionner une photo existante d'une liste d'ingrédients. C'est optionnel ; vous pouvez utiliser l'appareil photo à la place.
 
 ### FormuLens accède-t-il à ma localisation, mon microphone ou mes contacts ?
 

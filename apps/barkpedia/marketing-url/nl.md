@@ -12,11 +12,11 @@ redirect_from:
 
 # Elke hond heeft een verhaal. Ontdek het direct.
 
-Maak een foto, herken het ras en ontgrendel alles wat er te weten valt — temperament, geschiedenis, leuke weetjes en meer. Geen internet nodig, geen aanmelding, geen kosten.
+Maak een foto, herken het ras en ontgrendel alles wat er te weten valt: temperament, geschiedenis, leuke weetjes en meer. Geen internet nodig, geen aanmelding, geen kosten.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
-## Waarom meer dan 100.000 hondenliefhebbers Barkpedia kiezen
+## Waarom hondenliefhebbers Barkpedia kiezen
 
 - **Direct antwoorden, overal.** Herken 147 rassen in enkele seconden: in het park, in het asiel of op je bank. Werkt volledig offline.
 - **Jouw privacy staat voorop.** Foto's verlaten nooit je apparaat. Geen accounts, geen tracking, geen advertenties. Punt uit.
@@ -27,7 +27,7 @@ Maak een foto, herken het ras en ontgrendel alles wat er te weten valt — tempe
 
 ### Scan en herken
 
-Richt je camera op een willekeurige hond — of kies een foto uit je bibliotheek — en krijg een rasmatch met een betrouwbaarheidsscore. Elk resultaat linkt naar een uitgebreid rasprofiel met temperament, formaat, energieniveau, oorsprongsverhaal en foto's.
+Richt je camera op een willekeurige hond, of kies een foto uit je bibliotheek, en krijg een rasmatch met een betrouwbaarheidsscore. Elk resultaat linkt naar een uitgebreid rasprofiel met temperament, formaat, energieniveau, oorsprongsverhaal en foto's.
 
 ### Bewaar je favorieten
 
@@ -42,7 +42,7 @@ Zoek 147 rassen op naam of blader door een interactieve wereldkaart, geordend op
 Stel je raskennis op de proef met twee spelmodi:
 
 - **Rassenquiz** — Raad het ras aan de hand van een foto. 10 vragen, vier keuzes, verdien beloningstitels.
-- **Hondenweetjes** — Waar of onwaar? 10 rondes van echte feiten gemengd met slimme mythes.
+- **Hondenweetjes** — Waar of onwaar? 10 rondes van echte feiten gemengd met slimme mythes. Werkt volledig offline.
 
 ## Hoe het werkt
 
@@ -53,7 +53,7 @@ Stel je raskennis op de proef met twee spelmodi:
 
 ## Compatibiliteit
 
-iOS 17.0 of hoger · iPhone en iPad
+iOS 18.0 of hoger · iPhone en iPad
 
 ## Jouw privacy, beschermd
 

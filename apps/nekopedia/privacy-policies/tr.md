@@ -42,14 +42,9 @@ Favorilere kaydettiğiniz ırk tarama sonuçları yalnızca cihazınızda saklan
 
 ## Üçüncü Taraf Hizmetleri
 
-Uygulama, yalnızca ırk bilgileri, görseller ve oyun verileri gibi görüntüleme içeriklerini almak için aşağıdaki hizmetlere bağlanır:
+Uygulama, yalnızca görüntüleme içeriğini almak için üçüncü taraf kedi referans hizmetlerine bağlanır: ırk bilgileri (mizaç, istatistikler, tarih), ırk ve quiz görselleri ve ilginç bilgiler.
 
-| Hizmet | Amaç | Gönderilen Veri | Gizlilik Bilgisi |
-|--------|------|-----------------|-----------------|
-| The Cat API | Irk bilgileri (mizaç, istatistikler, tarih) ve quiz fotoğrafları | Hiçbiri | [thecatapi.com](https://thecatapi.com) |
-| catfact.ninja | Trivia özelliği için kedi gerçekleri | Hiçbiri | [catfact.ninja](https://catfact.ninja) |
-
-Bunlar standart içerik alma istekleridir. Kişisel veri, cihaz tanımlayıcı veya izleme bilgisi dahil edilmez.
+**Hiçbir istekte kişisel veri, cihaz tanımlayıcı veya izleme bilgisi bulunmaz.** Hiçbir istek sizi tanımlamaz ve hiçbir analiz veya reklam verisi asla iletilmez.
 
 ## Veri Paylaşımı
 

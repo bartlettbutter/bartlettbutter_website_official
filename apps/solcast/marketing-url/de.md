@@ -12,9 +12,9 @@ redirect_from:
 
 # Wisse genau, wie du dich kleidest, planst und deinen Tag schützt.
 
-Solcast ist eine kostenlose Wetter-App, die über die Vorhersage hinausgeht. Sie sagt dir, was du anziehen sollst, wann du einen Regenschirm mitnehmen musst und wie du deine Familie bequem hältst – alles auf dein Leben personalisiert und in verständlicher Sprache geliefert.
+Solcast ist eine kostenlose Wetter-App, die über die Vorhersage hinausgeht. Sie sagt dir, was du anziehen sollst, wann du einen Regenschirm mitnehmen musst und wie du deine Familie bequem hältst, alles auf dein Leben personalisiert und in verständlicher Sprache geliefert.
 
-Keine Werbung. Keine Abonnements. Keine Konten. Einfach öffnen und loslegen.
+Keine Werbung. Keine Konten. Kostenlos nutzbar, mit optionalem Premium-Upgrade. Einfach öffnen und loslegen.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
@@ -32,7 +32,7 @@ Keine Werbung. Keine Abonnements. Keine Konten. Einfach öffnen und loslegen.
 - **Stundenleiste** — scrolle durch die nächsten 24 Stunden, um Regen, UV-Spitzen oder Temperaturabfälle einzuplanen
 - **16 Lifestyle-Indizes** — UV, LSF, Allergie, Luftqualität, Hydration, Komfort, Gripperisiko und mehr
 - **7-Tage-Vorhersage** — Temperatur, Wind, UV, Niederschlag, Luftqualität und Pollen in einer Ansicht
-- **Mehrere Standorte** — speichere bis zu 10 Städte, jede in ihrer lokalen Zeitzone angezeigt
+- **Mehrere Standorte** — speichere bis zu 4 Städte kostenlos (unbegrenzt mit Premium), jede in ihrer lokalen Zeitzone angezeigt
 
 ## Für deinen Haushalt gemacht
 
@@ -46,7 +46,7 @@ Keine Werbung. Keine Abonnements. Keine Konten. Einfach öffnen und loslegen.
 
 ## Leg in Sekunden los
 
-1. Starten — kein Konto nötig
+1. Starten, kein Konto nötig
 2. Standort erlauben oder eine Stadt suchen
 3. Sieh sofort dein personalisiertes Dashboard
 4. Passe die Einstellungen jederzeit in den Einstellungen an

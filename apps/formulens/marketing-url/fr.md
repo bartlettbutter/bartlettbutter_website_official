@@ -2,7 +2,7 @@
 layout: default
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
-app_description: "Scannez n'importe quelle liste d'ingrédients. Sachez exactement ce que contiennent vos soins — et comment tout fonctionne ensemble."
+app_description: "Scannez n'importe quelle liste d'ingrédients. Sachez exactement ce que contiennent vos soins, et comment tout fonctionne ensemble."
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: fr
 permalink: /formulens/fr/
@@ -12,9 +12,9 @@ redirect_from:
 
 # Sachez exactement ce que contiennent vos soins.
 
-**Prenez en photo n'importe quelle liste d'ingrédients et obtenez une analyse claire et codée par couleurs de ce que fait chaque composant — puis comparez des produits ou vérifiez si toute votre routine fonctionne vraiment ensemble. Le tout en quelques secondes, entièrement sur votre appareil.**
+**Prenez en photo n'importe quelle liste d'ingrédients et obtenez une analyse claire et codée par couleurs de ce que fait chaque composant. Comparez ensuite des produits ou vérifiez si toute votre routine fonctionne vraiment ensemble. Le tout en quelques secondes, entièrement sur votre appareil.**
 
-Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. FormuLens les traduit. Pointez votre appareil photo vers n'importe quel produit, et chaque ingrédient est décodé et classé selon ce qu'il fait réellement — sans saisie, sans recherche, sans diplôme de chimie.
+Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. FormuLens les traduit. Pointez votre appareil photo vers n'importe quel produit, et chaque ingrédient est décodé et classé selon ce qu'il fait réellement, sans saisie, sans recherche, sans diplôme de chimie.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
@@ -49,7 +49,7 @@ Les enthousiastes qui peaufinent une routine. Les acheteurs sensibles qui survei
 
 ## Gratuit à télécharger. Privé par conception.
 
-Téléchargez FormuLens gratuitement et commencez à scanner tout de suite — sans compte, sans publicité, sans piège. Toutes les fonctionnalités ci-dessus sont disponibles dès aujourd'hui, gratuitement. Vos photos ne quittent jamais votre appareil : toute la reconnaissance et l'analyse se font localement, sans serveurs, sans cloud et sans suivi.
+Téléchargez FormuLens gratuitement et commencez à scanner tout de suite, sans compte, sans publicité, sans piège. Toutes les fonctionnalités ci-dessus sont disponibles dès aujourd'hui, gratuitement. Vos photos ne quittent jamais votre appareil : toute la reconnaissance et l'analyse se font localement, sans serveurs, sans cloud et sans suivi.
 
 ## Compatibilité
 
@@ -57,7 +57,7 @@ iOS 26.2 ou version ultérieure · iPhone et iPad
 
 ## Votre vie privée, protégée
 
-Vos photos ne quittent jamais votre appareil. Toute la reconnaissance et l'analyse se font localement — sans serveurs, sans cloud, sans comptes, sans suivi.
+Vos photos ne quittent jamais votre appareil. Toute la reconnaissance et l'analyse se font localement, sans serveurs, sans cloud, sans comptes, sans suivi.
 
 Lisez notre [Politique de confidentialité](https://www.bartlettbutter.com/formulens/privacy/) complète.
 

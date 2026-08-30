@@ -30,7 +30,7 @@ Journeyfolio ("the app") is developed by Bartlett Butter. This policy explains h
 
 ## Your Trip Data
 
-All information you create — destinations, dates, activities, flight numbers, hotel details, attached documents, and notes — is stored **locally on your device only**. This data never leaves your device except when the app communicates with third-party services (described below) to fetch content you've explicitly requested.
+All information you create, including destinations, dates, activities, flight numbers, hotel details, attached documents, and notes, is stored **locally on your device only**. This data never leaves your device except when the app communicates with third-party services (described below) to fetch content you've explicitly requested.
 
 ## Subscriptions and Purchases
 
@@ -40,7 +40,7 @@ Journeyfolio offers optional auto-renewable subscriptions processed entirely thr
 
 Journeyfolio **does not** access your device's GPS or track your physical location.
 
-When you add a destination or search for places, your search queries are sent to Apple's servers to return results. City names are sent to Apple for geocoding and weather data. Country codes are sent to Nager.Date for public holiday information. No other location data is collected or transmitted.
+When you add a destination or search for places, your search queries are sent to Apple's servers to return results. City names are sent to Apple for geocoding and weather data. Country codes are sent to a public holiday service for holiday information. No other location data is collected or transmitted.
 
 ## Device Permissions
 
@@ -53,14 +53,14 @@ Both permissions are optional. The app functions fully without them. No images a
 
 ## Third-Party Services
 
-The app connects to the following services solely to display content you've requested. No personal data or device identifiers are sent — only the minimum information needed to fulfill each request.
+The app connects to the following services solely to display content you've requested. No personal data or device identifiers are sent, only the minimum information needed to fulfill each request.
 
 | Service | Purpose | Data Sent | Privacy Info |
 |---------|---------|-----------|--------------|
 | Apple Weather & Maps | Weather forecasts, location search, timezone resolution | City names, coordinates | [Apple Privacy Policy](https://www.apple.com/legal/privacy/) |
-| OpenWeatherMap | Fallback weather data | City names | [OpenWeatherMap Privacy Policy](https://openweather.co.uk/privacy-policy) |
-| FlightAware | Flight schedule verification and live status | Flight numbers, dates | [FlightAware Privacy Policy](https://www.flightaware.com/legal/privacy/) |
-| Nager.Date | Public holiday information | Country codes, year | [Nager.Date](https://date.nager.at) |
+| Third-party weather service | Fallback weather data | City names | None |
+| Flight data service | Flight schedule verification and live status | Flight numbers, dates | None |
+| Public holiday service | Public holiday information | Country codes, year | None |
 
 ## Data Sharing
 
@@ -68,13 +68,13 @@ We do not sell, rent, license, or share your data with any third parties. The on
 
 ## Data Retention and Deletion
 
-Your trip data persists on your device until you choose to delete it — either within the app or by uninstalling. Uninstalling permanently removes all stored data. There is no cloud backup or sync.
+Your trip data persists on your device until you choose to delete it, either within the app or by uninstalling. Uninstalling permanently removes all stored data. There is no cloud backup or sync.
 
 **You are always in control.** Delete any trip or activity at any time by swiping left within the app.
 
 ## Your Rights
 
-Because Journeyfolio stores all data locally and collects nothing on our end, you already have complete control over your information. You can view, edit, or delete your data at any time directly within the app — no request to us required.
+Because Journeyfolio stores all data locally and collects nothing on our end, you already have complete control over your information. You can view, edit, or delete your data at any time directly within the app, with no request to us required.
 
 ## Children's Privacy
 

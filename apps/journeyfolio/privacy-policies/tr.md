@@ -31,7 +31,7 @@ Journeyfolio ("uygulama") Bartlett Butter tarafından geliştirilmiştir. Bu pol
 
 ## Seyahat Verileriniz
 
-Oluşturduğunuz tüm bilgiler — hedefler, tarihler, etkinlikler, uçuş numaraları, otel ayrıntıları, ekli belgeler ve notlar — **yalnızca cihazınızda yerel olarak** saklanır. Bu veriler, uygulama açıkça talep ettiğiniz içeriği almak için üçüncü taraf hizmetlerle (aşağıda açıklanmıştır) iletişim kurduğu durumlar dışında cihazınızdan asla çıkmaz.
+Oluşturduğunuz tüm bilgiler (hedefler, tarihler, etkinlikler, uçuş numaraları, otel ayrıntıları, ekli belgeler ve notlar) **yalnızca cihazınızda yerel olarak** saklanır. Bu veriler, uygulama açıkça talep ettiğiniz içeriği almak için üçüncü taraf hizmetlerle (aşağıda açıklanmıştır) iletişim kurduğu durumlar dışında cihazınızdan asla çıkmaz.
 
 ## Abonelikler ve Satın Almalar
 
@@ -41,7 +41,7 @@ Journeyfolio, tamamen Apple App Store üzerinden işlenen isteğe bağlı otomat
 
 Journeyfolio cihazınızın GPS'ine **erişmez** ve fiziksel konumunuzu takip etmez.
 
-Bir hedef eklediğinizde veya yer aradığınızda, arama sorgularınız sonuç döndürmek için Apple'ın sunucularına gönderilir. Şehir adları coğrafi kodlama ve hava durumu verileri için Apple'a gönderilir. Ülke kodları resmi tatil bilgileri için Nager.Date'e gönderilir. Başka hiçbir konum verisi toplanmaz veya iletilmez.
+Bir hedef eklediğinizde veya yer aradığınızda, arama sorgularınız sonuç döndürmek için Apple'ın sunucularına gönderilir. Şehir adları coğrafi kodlama ve hava durumu verileri için Apple'a gönderilir. Ülke kodları tatil bilgileri için bir resmi tatil hizmetine gönderilir. Başka hiçbir konum verisi toplanmaz veya iletilmez.
 
 ## Cihaz İzinleri
 
@@ -54,14 +54,14 @@ Her iki izin de isteğe bağlıdır. Uygulama bunlar olmadan tam olarak çalış
 
 ## Üçüncü Taraf Hizmetleri
 
-Uygulama, yalnızca talep ettiğiniz içeriği görüntülemek için aşağıdaki hizmetlere bağlanır. Hiçbir kişisel veri veya cihaz tanımlayıcısı gönderilmez — yalnızca her isteği yerine getirmek için gereken asgari bilgi.
+Uygulama, yalnızca talep ettiğiniz içeriği görüntülemek için aşağıdaki hizmetlere bağlanır. Hiçbir kişisel veri veya cihaz tanımlayıcısı gönderilmez; yalnızca her isteği yerine getirmek için gereken asgari bilgi gönderilir.
 
 | Hizmet | Amaç | Gönderilen Veri | Gizlilik Bilgisi |
 |--------|------|-----------------|------------------|
 | Apple Hava Durumu ve Haritalar | Hava tahminleri, konum arama, saat dilimi çözümleme | Şehir adları, koordinatlar | [Apple Gizlilik Politikası](https://www.apple.com/legal/privacy/) |
-| OpenWeatherMap | Yedek hava durumu verileri | Şehir adları | [OpenWeatherMap Gizlilik Politikası](https://openweather.co.uk/privacy-policy) |
-| FlightAware | Uçuş programı doğrulaması ve canlı durum | Uçuş numaraları, tarihler | [FlightAware Gizlilik Politikası](https://www.flightaware.com/legal/privacy/) |
-| Nager.Date | Resmi tatil bilgileri | Ülke kodları, yıl | [Nager.Date](https://date.nager.at) |
+| Üçüncü taraf hava durumu hizmeti | Yedek hava durumu verileri | Şehir adları | Yok |
+| Uçuş verisi hizmeti | Uçuş programı doğrulaması ve canlı durum | Uçuş numaraları, tarihler | Yok |
+| Resmi tatil hizmeti | Resmi tatil bilgileri | Ülke kodları, yıl | Yok |
 
 ## Veri Paylaşımı
 
@@ -69,13 +69,13 @@ Verilerinizi hiçbir üçüncü tarafla satmıyor, kiralamıyor, lisanslamıyor 
 
 ## Verilerin Saklanması ve Silinmesi
 
-Seyahat verileriniz, siz silmeyi seçene kadar — uygulama içinde veya kaldırarak — cihazınızda kalır. Kaldırma işlemi, saklanan tüm verileri kalıcı olarak siler. Bulut yedeklemesi veya senkronizasyonu yoktur.
+Seyahat verileriniz, siz uygulama içinde veya uygulamayı kaldırarak silmeyi seçene kadar cihazınızda kalır. Kaldırma işlemi, saklanan tüm verileri kalıcı olarak siler. Bulut yedeklemesi veya senkronizasyonu yoktur.
 
 **Kontrol her zaman sizde.** Uygulama içinde sola kaydırarak herhangi bir seyahati veya etkinliği istediğiniz zaman silin.
 
 ## Haklarınız
 
-Journeyfolio tüm verileri yerel olarak sakladığından ve bizim tarafımızda hiçbir şey toplamadığımızdan, bilgileriniz üzerinde zaten tam kontrole sahipsiniz. Verilerinizi istediğiniz zaman doğrudan uygulama içinde görüntüleyebilir, düzenleyebilir veya silebilirsiniz — bize herhangi bir talepte bulunmanıza gerek yoktur.
+Journeyfolio tüm verileri yerel olarak sakladığından ve bizim tarafımızda hiçbir şey toplamadığımızdan, bilgileriniz üzerinde zaten tam kontrole sahipsiniz. Verilerinizi istediğiniz zaman doğrudan uygulama içinde görüntüleyebilir, düzenleyebilir veya silebilirsiniz; bize herhangi bir talepte bulunmanıza gerek yoktur.
 
 ## Çocukların Gizliliği
 

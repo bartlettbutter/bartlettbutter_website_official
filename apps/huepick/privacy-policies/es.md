@@ -33,7 +33,7 @@ La única vez que algún dato sale de tu dispositivo es cuando una función opci
 
 ## Tus Fotos
 
-Cuando tomas o seleccionas una foto, todo el procesamiento —extracción de colores, generación de paletas y efectos creativos— ocurre localmente en tu dispositivo. Tus fotos nunca se envían a ningún lugar.
+Cuando tomas o seleccionas una foto, todo el procesamiento, incluidos la extracción de colores, la generación de paletas y los efectos creativos, ocurre localmente en tu dispositivo. Tus fotos nunca se envían a ningún lugar.
 
 ## Datos de Ubicación de las Fotos (opcional)
 

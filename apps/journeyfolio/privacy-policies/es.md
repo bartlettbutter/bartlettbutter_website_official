@@ -31,7 +31,7 @@ Journeyfolio ("la aplicación") está desarrollada por Bartlett Butter. Esta pol
 
 ## Los Datos de tus Viajes
 
-Toda la información que creas —destinos, fechas, actividades, números de vuelo, detalles de hoteles, documentos adjuntos y notas— se almacena **únicamente de forma local en tu dispositivo**. Estos datos nunca salen de tu dispositivo, excepto cuando la aplicación se comunica con servicios de terceros (descritos a continuación) para obtener contenido que has solicitado explícitamente.
+Toda la información que creas, incluidos destinos, fechas, actividades, números de vuelo, detalles de hoteles, documentos adjuntos y notas, se almacena **únicamente de forma local en tu dispositivo**. Estos datos nunca salen de tu dispositivo, excepto cuando la aplicación se comunica con servicios de terceros (descritos a continuación) para obtener contenido que has solicitado explícitamente.
 
 ## Suscripciones y Compras
 
@@ -41,7 +41,7 @@ Journeyfolio ofrece suscripciones opcionales de renovación automática procesad
 
 Journeyfolio **no** accede al GPS de tu dispositivo ni rastrea tu ubicación física.
 
-Cuando añades un destino o buscas lugares, tus consultas de búsqueda se envían a los servidores de Apple para devolver resultados. Los nombres de ciudades se envían a Apple para la geocodificación y los datos meteorológicos. Los códigos de país se envían a Nager.Date para obtener información sobre días festivos. No se recopila ni transmite ningún otro dato de ubicación.
+Cuando añades un destino o buscas lugares, tus consultas de búsqueda se envían a los servidores de Apple para devolver resultados. Los nombres de ciudades se envían a Apple para la geocodificación y los datos meteorológicos. Los códigos de país se envían a un servicio de días festivos para obtener información sobre días festivos. No se recopila ni transmite ningún otro dato de ubicación.
 
 ## Permisos del Dispositivo
 
@@ -59,9 +59,9 @@ La aplicación se conecta a los siguientes servicios únicamente para mostrar el
 | Servicio | Propósito | Datos Enviados | Información de Privacidad |
 |----------|-----------|----------------|--------------------------|
 | Apple Weather y Maps | Pronósticos del tiempo, búsqueda de ubicaciones, resolución de zona horaria | Nombres de ciudades, coordenadas | [Política de Privacidad de Apple](https://www.apple.com/legal/privacy/) |
-| OpenWeatherMap | Datos meteorológicos de respaldo | Nombres de ciudades | [Política de Privacidad de OpenWeatherMap](https://openweather.co.uk/privacy-policy) |
-| FlightAware | Verificación de horarios de vuelo y estado en vivo | Números de vuelo, fechas | [Política de Privacidad de FlightAware](https://www.flightaware.com/legal/privacy/) |
-| Nager.Date | Información sobre días festivos | Códigos de país, año | [Nager.Date](https://date.nager.at) |
+| Servicio meteorológico de terceros | Datos meteorológicos de respaldo | Nombres de ciudades | Ninguna |
+| Servicio de datos de vuelos | Verificación de horarios de vuelo y estado en vivo | Números de vuelo, fechas | Ninguna |
+| Servicio de días festivos | Información sobre días festivos | Códigos de país, año | Ninguna |
 
 ## Compartición de Datos
 

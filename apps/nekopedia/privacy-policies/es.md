@@ -42,14 +42,9 @@ Los resultados de escaneo de razas que guardas en Favoritos se almacenan únicam
 
 ## Servicios de Terceros
 
-La Aplicación se conecta a los siguientes servicios únicamente para obtener contenido para mostrar, como información sobre razas, imágenes y datos de juegos:
+La Aplicación se conecta a servicios externos de referencia sobre gatos únicamente para obtener contenido para mostrar: información sobre razas (temperamento, estadísticas, historia), imágenes de razas y de cuestionarios, y datos curiosos.
 
-| Servicio | Propósito | Datos Enviados | Información de Privacidad |
-|----------|-----------|----------------|--------------------------|
-| The Cat API | Información de razas (temperamento, estadísticas, historia) y fotos de quiz | Ninguno | [thecatapi.com](https://thecatapi.com) |
-| catfact.ninja | Datos curiosos de gatos para la función de trivia | Ninguno | [catfact.ninja](https://catfact.ninja) |
-
-Estas son solicitudes estándar de obtención de contenido. No se incluyen datos personales, identificadores de dispositivo ni información de rastreo.
+**No se incluye ningún dato personal, identificador de dispositivo ni información de rastreo en ninguna solicitud.** Ninguna solicitud te identifica, y nunca se transmite ningún dato de analíticas o publicidad.
 
 ## Compartición de Datos
 

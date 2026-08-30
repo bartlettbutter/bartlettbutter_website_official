@@ -12,9 +12,9 @@ redirect_from:
 
 # Sachez exactement comment vous habiller, planifier et protéger votre journée.
 
-Solcast est une application météo gratuite qui va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un parapluie et comment garder votre famille confortable — le tout personnalisé selon votre vie et livré dans un langage simple.
+Solcast est une application météo gratuite qui va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un parapluie et comment garder votre famille confortable, le tout personnalisé selon votre vie et livré dans un langage simple.
 
-Aucune publicité. Aucun abonnement. Aucun compte. Ouvrez et c'est parti.
+Aucune publicité. Aucun compte. Gratuit à utiliser, avec une mise à niveau Premium en option. Ouvrez et c'est parti.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
@@ -22,7 +22,7 @@ Aucune publicité. Aucun abonnement. Aucun compte. Ouvrez et c'est parti.
 
 - **Des réponses, pas des chiffres.** Au lieu de décoder vous-même les pourcentages d'humidité et les indices UV, Solcast vous donne des actions claires : « Appliquez du SPF 50 avant le déjeuner », « Prenez des vêtements de pluie pour les enfants » ou « Promenez votre chien après le coucher du soleil, quand le trottoir refroidit ».
 - **Personnalisé selon votre mode de vie.** Réglez vos sensibilités, votre style vestimentaire et votre foyer (enfants, animaux, voitures) et chaque recommandation s'adapte instantanément. Les conseils que voit un parent sujet aux migraines diffèrent de ceux d'un coureur en plein air.
-- **En avance sur votre journée.** Solcast détecte quand la météo change entre le matin, l'après-midi et le soir — vous saurez donc prendre une couche pour plus tard ou laisser le parapluie à la maison après midi.
+- **En avance sur votre journée.** Solcast détecte quand la météo change entre le matin, l'après-midi et le soir, vous saurez donc prendre une couche pour plus tard ou laisser le parapluie à la maison après midi.
 - **100 % privé.** Tout est calculé sur votre appareil. Aucune inscription, aucun suivi, aucune collecte de données. Votre position est utilisée uniquement pour récupérer la météo et n'est jamais stockée.
 
 ## En un coup d'œil
@@ -32,7 +32,7 @@ Aucune publicité. Aucun abonnement. Aucun compte. Ouvrez et c'est parti.
 - **Bande Horaire** — faites défiler les 24 prochaines heures pour planifier autour de la pluie, des pics d'UV ou des baisses de température
 - **16 Indices de Style de Vie** — UV, SPF, allergie, qualité de l'air, hydratation, confort, risque de grippe, et plus
 - **Prévisions sur 7 Jours** — température, vent, UV, précipitations, qualité de l'air et pollen en une seule vue
-- **Multi-Localisation** — enregistrez jusqu'à 10 villes, chacune affichée dans son fuseau horaire local
+- **Multi-Localisation** — enregistrez jusqu'à 4 villes gratuitement (illimité avec Premium), chacune affichée dans son fuseau horaire local
 
 ## Conçu pour votre foyer
 
@@ -46,7 +46,7 @@ Aucune publicité. Aucun abonnement. Aucun compte. Ouvrez et c'est parti.
 
 ## Commencez en quelques secondes
 
-1. Lancez — aucun compte nécessaire
+1. Lancez, aucun compte nécessaire
 2. Autorisez la localisation ou recherchez une ville
 3. Voyez immédiatement votre tableau de bord personnalisé
 4. Affinez les préférences à tout moment dans les Réglages

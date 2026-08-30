@@ -10,7 +10,7 @@ redirect_from:
 
 # How can we help?
 
-We want FormuLens to work great for you. Browse the topics below for quick answers, or [email us](mailto:contact@bartlettbutter.com) anytime — we're happy to help.
+We want FormuLens to work great for you. Browse the topics below for quick answers, or [email us](mailto:contact@bartlettbutter.com) anytime. We're happy to help.
 
 ## Getting Started
 
@@ -60,7 +60,7 @@ The app's interface is currently in English, with more languages planned. This s
 
 ### What do the colors mean?
 
-Each ingredient is color-coded by its function — for example, moisturizing, antioxidant, sun protection, or anti-aging. This gives you an instant visual map of what a product is designed to do.
+Each ingredient is color-coded by its function, for example, moisturizing, antioxidant, sun protection, or anti-aging. This gives you an instant visual map of what a product is designed to do.
 
 ### What do the "key" and "unusual" labels mean?
 
@@ -98,11 +98,11 @@ For best results, make sure the ingredient list is:
 - Flat against a surface (flatten the label if possible)
 - Large enough in the frame to read clearly
 
-On curved bottles, photograph one section at a time and add each as a separate photo — FormuLens merges them.
+On curved bottles, photograph one section at a time and add each as a separate photo, and FormuLens merges them.
 
 ### Some ingredients show as "unrecognized"
 
-FormuLens includes a large database of common cosmetic ingredients. Very new, rare, or region-specific ingredients may not yet be classified. The ingredient name still appears — only the automatic function label is unavailable.
+FormuLens includes a large database of common cosmetic ingredients. Very new, rare, or region-specific ingredients may not yet be classified. The ingredient name still appears; only the automatic function label is unavailable.
 
 ### No ingredients were found in my photo
 
@@ -142,11 +142,11 @@ Uninstalling FormuLens permanently removes all saved analyses from your device. 
 
 ### Why does the app ask for camera access?
 
-So you can photograph ingredient lists directly. This permission is optional — you can always choose a photo from your library instead.
+So you can photograph ingredient lists directly. This permission is optional; you can always choose a photo from your library instead.
 
 ### Why does the app ask for photo library access?
 
-So you can select an existing photo of an ingredient list. This is optional — you can use the camera instead.
+So you can select an existing photo of an ingredient list. This is optional; you can use the camera instead.
 
 ### Does FormuLens access my location, microphone, or contacts?
 

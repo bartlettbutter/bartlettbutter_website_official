@@ -25,7 +25,7 @@ Een gratis Finnhub API-sleutel ontgrendelt live prijzen, nieuws en analistengege
 
 ### Heb ik een internetverbinding nodig?
 
-Ja, voor live prijzen, nieuws, sentiment en fondsgegevens. Het AI-model op het apparaat draait echter volledig offline zodra het is gedownload, dus er is geen internet nodig voor door AI gegenereerde analyse.
+Ja, voor live prijzen, nieuws, sentiment en fondsgegevens. De analyse van de bull- en risicoscenario's wordt direct op je apparaat gegenereerd uit gegevens die al op het scherm staan, dus er is geen aanvullende verbinding nodig.
 
 ### Hoeveel kost ETFWise?
 
@@ -45,13 +45,9 @@ ETFWise is gratis te downloaden uit de App Store. Er zijn geen abonnementen en g
 | Thematisch | AI en robotica, schone energie, cyberbeveiliging, cloud, EV's |
 | Dividend | Hoog rendement, dividendgroei, aristocraten, inkomstenstrategieën |
 
-### Wat is de AI op het apparaat?
+### Hoe worden de bull- en risicoscenario's gegenereerd?
 
-ETFWise bevat een lichtgewicht taalmodel dat lokaal op je apparaat draait. Het genereert bull- en risicoscenario's met behulp van de echte gegevens die op het scherm worden getoond, waaronder prijs, rendementen, sentiment en nieuws. Alle verwerking gebeurt op je apparaat en er wordt niets naar externe servers verzonden.
-
-### Hoe download ik het AI-model?
-
-Als het model niet vooraf is geïnstalleerd, zie je een "Model downloaden"-kaart op het hoofdscherm en in de ETF-detailweergaven. Tik erop om te downloaden (ongeveer 290 MB). Een voortgangsbalk toont de downloadstatus. Zodra het klaar is, wordt het model lokaal opgeslagen voor toekomstig gebruik.
+ETFWise bouwt elk bull- en risicoscenario op je apparaat op uit de echte gegevens die al voor die ETF worden getoond: prijs, rendementen, sentiment, kostenratio en meer. Het genereren gaat direct, vereist geen download of account, en er wordt niets naar externe servers verzonden.
 
 ### Hoe werkt nieuwssentiment?
 
@@ -67,7 +63,7 @@ Ja. Geen accounts, geen analyse, geen tracking. Alleen tickersymbolen worden naa
 
 ### Wat gebeurt er als ik de app verwijder?
 
-Het de-installeren van ETFWise verwijdert permanent alle lokaal opgeslagen gegevens, waaronder aanbevelingen in cache, AI-analyse en je API-sleutel. Omdat er geen cloudback-up is, kan dit niet ongedaan worden gemaakt.
+Het de-installeren van ETFWise verwijdert permanent alle lokaal opgeslagen gegevens, waaronder aanbevelingen in cache, gegenereerde analyse en je API-sleutel. Omdat er geen cloudback-up is, kan dit niet ongedaan worden gemaakt.
 
 ## Probleemoplossing
 
@@ -79,9 +75,9 @@ Zorg ervoor dat je een geldige Finnhub API-sleutel hebt ingevoerd (verkrijg er g
 
 Dit betekent meestal dat een netwerkverzoek is mislukt. Controleer je internetverbinding en tik op "Opnieuw proberen". Als je een Finnhub API-sleutel gebruikt, controleer dan of deze correct is ingevoerd in de app-instellingen.
 
-### Bull- en risicoscenario's worden niet gegenereerd
+### Bull- en risicoscenario's worden niet weergegeven
 
-Het AI-model op het apparaat moet eerst worden gedownload. Zoek de "Model downloaden"-kaart op het hoofdscherm of in de ETF-detailweergave en tik om te downloaden.
+Bull- en risicoscenario's worden opgebouwd uit de prijs-, prestatie- en sentimentgegevens van een ETF. Als ze niet verschijnen, zijn die onderliggende gegevens nog niet klaar met laden: zorg dat je verbonden bent met internet en open dan de ETF-detailweergave opnieuw.
 
 ### Fondsgegevens (posities, prestaties) laden niet
 

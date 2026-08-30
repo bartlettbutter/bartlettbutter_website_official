@@ -12,7 +12,7 @@ redirect_from:
 
 # Jede Reise verdient ein Folio.
 
-Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jonglieren. Journeyfolio bringt deine gesamte Reise in einen wunderschön organisierten Reiseplan — Flüge, Hotels, Dokumente, Live-Wetter und Echtzeit-Flugstatus — damit du dich auf die Reise selbst konzentrieren kannst.
+Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jonglieren. Journeyfolio bringt deine gesamte Reise in einen wunderschön organisierten Reiseplan, der Flüge, Hotels, Dokumente, Live-Wetter und Echtzeit-Flugstatus vereint, damit du dich auf die Reise selbst konzentrieren kannst.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
@@ -27,7 +27,7 @@ Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jong
 
 Journeyfolio ist jetzt **kostenlos herunterladbar** mit optionalen Premium-Abonnements für erweiterte Funktionen.
 
-- **Kostenlos mit flexiblen Tarifen.** Bestehende Käufer behalten dauerhaften Premium-Zugang – keine Aktion erforderlich.
+- **Kostenlos mit flexiblen Tarifen.** Bestehende Käufer behalten dauerhaften Premium-Zugang, ohne dass eine Aktion erforderlich ist.
 - **Reisedokumente anhängen** an jede Aktivität. Intelligente OCR liest Bordkarten und Buchungsbestätigungen automatisch.
 - **Volle iPad-Unterstützung** mit adaptiven Layouts, Split View und Slide-Over-Multitasking.
 - **Verbesserte Zuverlässigkeit, Barrierefreiheit und allgemeine Stabilität** auf ganzer Linie.
@@ -40,15 +40,15 @@ Erstelle einen vollständigen Zeitplan mit sieben Aktivitätskategorien: Flüge,
 
 ### Live-Flugverfolgung
 
-Füge eine Flugnummer hinzu und erhalte den Echtzeitstatus — Pünktlich, Verspätet, Annulliert, Gelandet oder In der Luft — direkt in deinem Reiseplan angezeigt, mit Zeiten in der jeweiligen Ortszeitzone des Flughafens.
+Füge eine Flugnummer hinzu und erhalte den Echtzeitstatus (Pünktlich, Verspätet, Annulliert, Gelandet oder In der Luft) direkt in deinem Reiseplan angezeigt, mit Zeiten in der jeweiligen Ortszeitzone des Flughafens.
 
 ### Genaue Wettervorhersagen
 
-Sieh dir die aktuellen Bedingungen und eine zuverlässige 5-Tage-Aussicht für jedes Ziel an. Angetrieben von [Apple Wetter](https://weatherkit.apple.com/legal-attribution.html) mit OpenWeatherMap als Backup, damit du immer weißt, was du einpacken musst.
+Sieh dir die aktuellen Bedingungen und eine zuverlässige 5-Tage-Aussicht für jedes Ziel an. Angetrieben von [Apple Wetter](https://weatherkit.apple.com/legal-attribution.html) mit einem zusätzlichen Wetterdienst als Backup, damit du immer weißt, was du einpacken musst.
 
 ### Tickets und Dokumente an einem Ort
 
-Lade Bordkarten, Buchungsbestätigungen, Belege und Reisedokumente direkt zu Aktivitäten hoch. Mach ein Foto oder importiere eine Datei — alles bleibt organisiert und zugänglich, wenn du es am meisten brauchst.
+Lade Bordkarten, Buchungsbestätigungen, Belege und Reisedokumente direkt zu Aktivitäten hoch. Mach ein Foto oder importiere eine Datei, und alles bleibt organisiert und zugänglich, wenn du es am meisten brauchst.
 
 ### Wunderschönes, aufgeräumtes Design
 
@@ -64,7 +64,7 @@ Eine minimalistische Oberfläche, die das Planen mühelos macht. Reisen nach Jah
 
 ## Kostenlos starten. Upgraden, wenn du bereit bist.
 
-Plane bis zu 10 Reisen kostenlos. Schalte unbegrenzte Reisen, Live-Flugverfolgung und Wettervorhersagen mit Premium frei — verfügbar als monatliches, halbjährliches oder jährliches automatisch verlängerbares Abonnement.
+Plane bis zu 10 Reisen kostenlos. Schalte unbegrenzte Reisen, Live-Flugverfolgung und Wettervorhersagen mit Premium frei, verfügbar als monatliches, halbjährliches oder jährliches automatisch verlängerbares Abonnement.
 
 ## Kompatibilität
 

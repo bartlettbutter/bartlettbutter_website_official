@@ -11,7 +11,7 @@ redirect_from:
 
 # Size nasıl yardımcı olabiliriz?
 
-FormuLens'in sizin için harika çalışmasını istiyoruz. Hızlı yanıtlar için aşağıdaki konulara göz atın veya istediğiniz zaman [bize e-posta gönderin](mailto:contact@bartlettbutter.com) — yardımcı olmaktan memnuniyet duyarız.
+FormuLens'in sizin için harika çalışmasını istiyoruz. Hızlı yanıtlar için aşağıdaki konulara göz atın veya istediğiniz zaman [bize e-posta gönderin](mailto:contact@bartlettbutter.com). Yardımcı olmaktan memnuniyet duyarız.
 
 ## Başlarken
 
@@ -61,7 +61,7 @@ Uygulamanın arayüzü şu anda İngilizcedir ve daha fazla dil planlanmaktadır
 
 ### Renkler ne anlama geliyor?
 
-Her bileşen işlevine göre renk kodludur — örneğin nemlendirme, antioksidan, güneş koruması veya yaşlanma karşıtı. Bu, bir ürünün ne için tasarlandığına dair anında görsel bir harita sunar.
+Her bileşen işlevine göre renk kodludur, örneğin nemlendirme, antioksidan, güneş koruması veya yaşlanma karşıtı. Bu, bir ürünün ne için tasarlandığına dair anında görsel bir harita sunar.
 
 ### "Önemli" ve "alışılmadık" etiketleri ne anlama geliyor?
 
@@ -99,11 +99,11 @@ En iyi sonuçlar için içerik listesinin şu şekilde olduğundan emin olun:
 - Bir yüzeye düz bir şekilde yatırılmış (mümkünse etiketi düzleştirin)
 - Karede net okunacak kadar büyük
 
-Kavisli şişelerde, bir seferde bir bölümün fotoğrafını çekin ve her birini ayrı bir fotoğraf olarak ekleyin — FormuLens onları birleştirir.
+Kavisli şişelerde, bir seferde bir bölümün fotoğrafını çekin ve her birini ayrı bir fotoğraf olarak ekleyin, FormuLens de onları birleştirir.
 
 ### Bazı bileşenler "tanınmadı" olarak görünüyor
 
-FormuLens, yaygın kozmetik bileşenlerden oluşan geniş bir veritabanı içerir. Çok yeni, nadir veya bölgeye özgü bileşenler henüz sınıflandırılmamış olabilir. Bileşen adı yine de görünür — yalnızca otomatik işlev etiketi kullanılamaz.
+FormuLens, yaygın kozmetik bileşenlerden oluşan geniş bir veritabanı içerir. Çok yeni, nadir veya bölgeye özgü bileşenler henüz sınıflandırılmamış olabilir. Bileşen adı yine de görünür; yalnızca otomatik işlev etiketi kullanılamaz.
 
 ### Fotoğrafımda hiçbir bileşen bulunamadı
 
@@ -143,11 +143,11 @@ FormuLens'in kaldırılması, kayıtlı tüm analizleri cihazınızdan kalıcı 
 
 ### Uygulama neden kamera erişimi istiyor?
 
-İçerik listelerinin doğrudan fotoğrafını çekebilmeniz için. Bu izin isteğe bağlıdır — bunun yerine her zaman galerinizden bir fotoğraf seçebilirsiniz.
+İçerik listelerinin doğrudan fotoğrafını çekebilmeniz için. Bu izin isteğe bağlıdır; bunun yerine her zaman galerinizden bir fotoğraf seçebilirsiniz.
 
 ### Uygulama neden fotoğraf kitaplığı erişimi istiyor?
 
-Bir içerik listesinin mevcut bir fotoğrafını seçebilmeniz için. Bu isteğe bağlıdır — bunun yerine kamerayı kullanabilirsiniz.
+Bir içerik listesinin mevcut bir fotoğrafını seçebilmeniz için. Bu isteğe bağlıdır; bunun yerine kamerayı kullanabilirsiniz.
 
 ### FormuLens konumuma, mikrofonuma veya kişilerime erişiyor mu?
 

@@ -25,7 +25,7 @@ Huepick é um aplicativo iOS gratuito para extrair cores de fotos, criar paletas
 | Meus dados são vendidos ou compartilhados? | Não |
 | As crianças podem usar o aplicativo com segurança? | Sim |
 
-A única vez em que algum dado sai do seu dispositivo é quando um recurso opcional converte as coordenadas de localização de uma foto em um nome de lugar legível — e apenas as coordenadas são enviadas.
+A única vez em que algum dado sai do seu dispositivo é quando um recurso opcional converte as coordenadas de localização de uma foto em um nome de lugar legível, e apenas as coordenadas são enviadas.
 
 ## Quais Dados Coletamos
 
@@ -33,7 +33,7 @@ A única vez em que algum dado sai do seu dispositivo é quando um recurso opcio
 
 ## Suas Fotos
 
-Quando você tira ou seleciona uma foto, todo o processamento — extração de cores, geração de paletas e efeitos criativos — ocorre localmente no seu dispositivo. Suas fotos nunca são enviadas para lugar algum.
+Quando você tira ou seleciona uma foto, todo o processamento, incluindo extração de cores, geração de paletas e efeitos criativos, ocorre localmente no seu dispositivo. Suas fotos nunca são enviadas para lugar algum.
 
 ## Dados de Localização das Fotos (opcional)
 

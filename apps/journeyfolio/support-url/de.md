@@ -11,13 +11,13 @@ redirect_from:
 
 # Wir sind hier, um zu helfen.
 
-Egal, ob du deine erste Reise einrichtest oder eine Funktion behebst, unten findest du Antworten. Falls nicht, wende dich an uns — wir helfen gerne.
+Egal, ob du deine erste Reise einrichtest oder eine Funktion behebst, unten findest du Antworten. Falls nicht, wende dich an uns. Wir helfen gerne.
 
 ## Erste Schritte
 
 ### Ist Journeyfolio kostenlos?
 
-Ja. Journeyfolio ist kostenlos herunterzuladen und lässt dich bis zu 10 Reisen kostenlos planen. Premium-Funktionen — unbegrenzte Reisen, Live-Flugverfolgung und Wettervorhersagen — sind über optionale, automatisch verlängerbare Abonnements (monatlich, halbjährlich oder jährlich) verfügbar.
+Ja. Journeyfolio ist kostenlos herunterzuladen und lässt dich bis zu 10 Reisen kostenlos planen. Premium-Funktionen (unbegrenzte Reisen, Live-Flugverfolgung und Wettervorhersagen) sind über optionale, automatisch verlängerbare Abonnements (monatlich, halbjährlich oder jährlich) verfügbar.
 
 ### Ich habe Journeyfolio gekauft, bevor es kostenlos wurde. Verliere ich den Zugang?
 
@@ -112,7 +112,7 @@ Nein. Deine Reisedaten werden lokal gespeichert und sind völlig unabhängig von
 1. Bestätige, dass dein Gerät eine Internetverbindung hat.
 2. Überprüfe, ob der Name der Zielstadt korrekt ist.
 3. Stelle sicher, dass du ein aktives Premium-Abonnement hast.
-4. Wenn es immer noch nicht lädt, versuche es in ein paar Minuten erneut — der Wetterdienst ist möglicherweise vorübergehend nicht verfügbar.
+4. Wenn es immer noch nicht lädt, versuche es in ein paar Minuten erneut, da der Wetterdienst möglicherweise vorübergehend nicht verfügbar ist.
 
 ### Die Flugverifizierung sagt „Kein Flug gefunden"
 

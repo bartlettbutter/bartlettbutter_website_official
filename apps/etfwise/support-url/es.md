@@ -25,7 +25,7 @@ Una clave de API gratuita de Finnhub desbloquea precios en vivo, noticias y dato
 
 ### ¿Necesito conexión a internet?
 
-Sí, para precios en vivo, noticias, sentimiento y datos de fondos. Sin embargo, el modelo de IA en el dispositivo se ejecuta completamente sin conexión una vez descargado, por lo que no se necesita internet para el análisis generado por IA.
+Sí, para precios en vivo, noticias, sentimiento y datos de fondos. El análisis de los argumentos alcistas y de riesgo se genera al instante en tu dispositivo a partir de los datos que ya se muestran en pantalla, por lo que no necesita ninguna conexión adicional.
 
 ### ¿Cuánto cuesta ETFWise?
 
@@ -45,13 +45,9 @@ ETFWise es gratis de descargar en la App Store. No hay suscripciones ni anuncios
 | Temática | IA y robótica, energía limpia, ciberseguridad, nube, vehículos eléctricos |
 | Dividendos | Alto rendimiento, crecimiento de dividendos, aristócratas, estrategias de ingresos |
 
-### ¿Qué es la IA en el dispositivo?
+### ¿Cómo se generan los argumentos alcistas y de riesgo?
 
-ETFWise incluye un modelo de lenguaje ligero que se ejecuta localmente en tu dispositivo. Genera argumentos alcistas y de riesgo usando los datos reales que se muestran en pantalla, incluidos precio, rentabilidades, sentimiento y noticias. Todo el procesamiento ocurre en tu dispositivo y no se envía nada a servidores externos.
-
-### ¿Cómo descargo el modelo de IA?
-
-Si el modelo no está preinstalado, verás una tarjeta "Descargar Modelo" en la pantalla principal y en las vistas de detalle de ETF. Tócala para descargar (aproximadamente 290 MB). Una barra de progreso muestra el estado de la descarga. Una vez completada, el modelo se guarda localmente para uso futuro.
+ETFWise construye cada argumento alcista y de riesgo en tu dispositivo a partir de los datos reales que ya se muestran para ese ETF: precio, rentabilidades, sentimiento, ratio de gastos y más. La generación es instantánea, no requiere descarga ni cuenta, y no se envía nada a servidores externos.
 
 ### ¿Cómo funciona el sentimiento de noticias?
 
@@ -67,7 +63,7 @@ Sí. Sin cuentas, sin analíticas, sin rastreo. Solo se envían símbolos de tic
 
 ### ¿Qué ocurre si elimino la aplicación?
 
-Desinstalar ETFWise elimina permanentemente todos los datos almacenados localmente, incluidas las recomendaciones en caché, el análisis de IA y tu clave de API. Como no hay copia de seguridad en la nube, esto no se puede deshacer.
+Desinstalar ETFWise elimina permanentemente todos los datos almacenados localmente, incluidas las recomendaciones en caché, el análisis generado y tu clave de API. Como no hay copia de seguridad en la nube, esto no se puede deshacer.
 
 ## Solución de Problemas
 
@@ -79,9 +75,9 @@ Asegúrate de haber introducido una clave de API válida de Finnhub (obtén una 
 
 Esto normalmente significa que una solicitud de red falló. Comprueba tu conexión a internet y toca "Reintentar". Si estás usando una clave de API de Finnhub, verifica que esté introducida correctamente en la configuración de la aplicación.
 
-### Los argumentos alcistas y de riesgo no se generan
+### Los argumentos alcistas y de riesgo no se muestran
 
-Primero debe descargarse el modelo de IA en el dispositivo. Busca la tarjeta "Descargar Modelo" en la pantalla principal o en la vista de detalle del ETF y tócala para descargar.
+Los argumentos alcistas y de riesgo se construyen a partir de los datos de precio, rendimiento y sentimiento de un ETF. Si no aparecen, esos datos subyacentes aún no han terminado de cargarse: asegúrate de estar conectado a internet y luego vuelve a abrir la vista de detalle del ETF.
 
 ### Los datos del fondo (holdings, rendimiento) no se cargan
 

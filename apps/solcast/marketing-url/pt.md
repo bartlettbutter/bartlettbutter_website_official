@@ -12,9 +12,9 @@ redirect_from:
 
 # Saiba exatamente como se vestir, planejar e proteger seu dia.
 
-Solcast é um aplicativo de clima gratuito que vai além da previsão. Ele diz o que vestir, quando levar um guarda-chuva e como manter sua família confortável — tudo personalizado para a sua vida e apresentado em linguagem simples.
+Solcast é um aplicativo de clima gratuito que vai além da previsão. Ele diz o que vestir, quando levar um guarda-chuva e como manter sua família confortável, tudo personalizado para a sua vida e apresentado em linguagem simples.
 
-Sem anúncios. Sem assinaturas. Sem contas. Basta abrir e usar.
+Sem anúncios. Sem contas. Gratuito para usar, com uma atualização Premium opcional. Basta abrir e usar.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
@@ -22,7 +22,7 @@ Sem anúncios. Sem assinaturas. Sem contas. Basta abrir e usar.
 
 - **Respostas, não números.** Em vez de você mesmo decifrar percentuais de umidade e índices UV, o Solcast dá ações claras: "Aplique FPS 50 antes do almoço", "Leve capa de chuva para as crianças" ou "Passeie com seu cão depois do pôr do sol, quando o piso esfriar".
 - **Personalizado para o seu modo de vida.** Ajuste suas sensibilidades, estilo de vestir e casa (crianças, animais, carros) e cada recomendação se adapta instantaneamente. O conselho que um pai propenso a enxaquecas vê é diferente do que um corredor ao ar livre vê.
-- **Sempre à frente do seu dia.** O Solcast detecta quando o clima muda entre a manhã, a tarde e a noite — para que você saiba levar uma camada extra para mais tarde ou deixar o guarda-chuva em casa depois do meio-dia.
+- **Sempre à frente do seu dia.** O Solcast detecta quando o clima muda entre a manhã, a tarde e a noite, para que você saiba levar uma camada extra para mais tarde ou deixar o guarda-chuva em casa depois do meio-dia.
 - **100% privado.** Tudo é calculado no seu dispositivo. Sem cadastro, sem rastreamento, sem coleta de dados. Sua localização é usada apenas para obter o clima e nunca é armazenada.
 
 ## Em resumo
@@ -32,7 +32,7 @@ Sem anúncios. Sem assinaturas. Sem contas. Basta abrir e usar.
 - **Faixa Horária** — percorra as próximas 24 horas para planejar em torno de chuva, picos de UV ou quedas de temperatura
 - **16 Índices de Estilo de Vida** — UV, FPS, alergia, qualidade do ar, hidratação, conforto, risco de gripe e mais
 - **Previsão de 7 Dias** — temperatura, vento, UV, precipitação, qualidade do ar e pólen em uma única vista
-- **Multi-Localização** — salve até 10 cidades, cada uma exibida em seu fuso horário local
+- **Multi-Localização** — salve até 4 cidades gratuitamente (ilimitadas com Premium), cada uma exibida em seu fuso horário local
 
 ## Feito para a sua casa
 
@@ -46,7 +46,7 @@ Sem anúncios. Sem assinaturas. Sem contas. Basta abrir e usar.
 
 ## Comece em segundos
 
-1. Inicie — sem necessidade de conta
+1. Inicie, sem necessidade de conta
 2. Permita a localização ou busque uma cidade
 3. Veja seu painel personalizado imediatamente
 4. Ajuste as preferências a qualquer momento nas Configurações

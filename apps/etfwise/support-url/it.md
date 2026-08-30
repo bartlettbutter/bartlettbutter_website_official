@@ -25,7 +25,7 @@ Una chiave API Finnhub gratuita sblocca prezzi in tempo reale, notizie e dati de
 
 ### Ho bisogno di una connessione internet?
 
-Sì, per prezzi in tempo reale, notizie, sentiment e dati sui fondi. Tuttavia, il modello di IA sul dispositivo funziona interamente offline una volta scaricato, quindi non è necessaria alcuna connessione per l'analisi generata dall'IA.
+Sì, per prezzi in tempo reale, notizie, sentiment e dati sui fondi. L'analisi degli scenari rialzisti e di rischio viene generata istantaneamente sul tuo dispositivo a partire dai dati già mostrati sullo schermo, quindi non richiede alcuna connessione aggiuntiva.
 
 ### Quanto costa ETFWise?
 
@@ -45,13 +45,9 @@ ETFWise è gratuito da scaricare dall'App Store. Non ci sono abbonamenti né pub
 | Tematica | IA e robotica, energia pulita, cybersicurezza, cloud, veicoli elettrici |
 | Dividendi | Alto rendimento, crescita dei dividendi, aristocratici, strategie di reddito |
 
-### Cos'è l'IA sul dispositivo?
+### Come vengono generati gli scenari rialzisti e di rischio?
 
-ETFWise include un modello linguistico leggero che funziona localmente sul tuo dispositivo. Genera scenari rialzisti e di rischio usando i dati reali mostrati sullo schermo, inclusi prezzo, rendimenti, sentiment e notizie. Tutta l'elaborazione avviene sul tuo dispositivo e nulla viene inviato a server esterni.
-
-### Come scarico il modello di IA?
-
-Se il modello non è preinstallato, vedrai una scheda "Scarica Modello" sulla schermata principale e nelle viste di dettaglio degli ETF. Toccala per scaricare (circa 290 MB). Una barra di avanzamento mostra lo stato del download. Una volta completato, il modello viene salvato localmente per un uso futuro.
+ETFWise costruisce ogni scenario rialzista e di rischio sul tuo dispositivo a partire dai dati reali già mostrati per quell'ETF: prezzo, rendimenti, sentiment, indice di spesa e altro. La generazione è istantanea, non richiede alcun download né account, e nulla viene inviato a server esterni.
 
 ### Come funziona il sentiment delle notizie?
 
@@ -67,7 +63,7 @@ Sì. Nessun account, nessuna analisi, nessun tracciamento. Solo i simboli ticker
 
 ### Cosa succede se elimino l'app?
 
-La disinstallazione di ETFWise rimuove definitivamente tutti i dati memorizzati localmente, incluse le raccomandazioni in cache, l'analisi tramite IA e la tua chiave API. Poiché non esiste un backup sul cloud, questa operazione non può essere annullata.
+La disinstallazione di ETFWise rimuove definitivamente tutti i dati memorizzati localmente, incluse le raccomandazioni in cache, l'analisi generata e la tua chiave API. Poiché non esiste un backup sul cloud, questa operazione non può essere annullata.
 
 ## Risoluzione dei Problemi
 
@@ -79,9 +75,9 @@ Assicurati di aver inserito una chiave API Finnhub valida (ottienine una gratis 
 
 Di solito significa che una richiesta di rete è fallita. Controlla la tua connessione internet e tocca "Riprova". Se stai usando una chiave API Finnhub, verifica che sia inserita correttamente nelle impostazioni dell'app.
 
-### Gli scenari rialzisti e di rischio non vengono generati
+### Gli scenari rialzisti e di rischio non vengono mostrati
 
-Il modello di IA sul dispositivo deve prima essere scaricato. Cerca la scheda "Scarica Modello" sulla schermata principale o nella vista di dettaglio dell'ETF e tocca per scaricare.
+Gli scenari rialzisti e di rischio sono costruiti a partire dai dati di prezzo, performance e sentiment di un ETF. Se non compaiono, quei dati sottostanti non hanno ancora finito di caricarsi: assicurati di essere connesso a internet, quindi riapri la vista di dettaglio dell'ETF.
 
 ### I dati del fondo (partecipazioni, performance) non si caricano
 

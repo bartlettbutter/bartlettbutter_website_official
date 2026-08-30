@@ -35,13 +35,13 @@ Sí. Sin compras dentro de la aplicación, sin suscripciones, sin anuncios. Toda
 
 ### ¿Qué son las tres pestañas?
 
-- **Analizar** — haz o elige una foto, extrae colores, genera paletas, consulta un análisis de color detallado y obtén sugerencias personalizadas de herramientas creativas
-- **Playground** — transforma tu foto con cinco herramientas creativas (Aislar, Duotono, Pixelizar, Desenfocar, Glitch)
+- **Analizar** — haz o elige una foto, extrae una paleta de 12 colores, consulta un análisis de color detallado y obtén sugerencias personalizadas de herramientas creativas
+- **Playground** — transforma tu foto con seis herramientas creativas (Aislar, Duotono, Tritono, Pixelizar, Desenfocar, Glitch)
 - **Galería** — navega, reedita, descarga o comparte tus creaciones guardadas
 
-### ¿Cómo genero una paleta?
+### ¿Cómo funciona el análisis de color?
 
-Después de extraer los colores, elige uno de seis tipos de armonía (como Complementario o Análogo) y uno de cinco escenarios del mundo real (como Decoración del Hogar o Diseño de UI). Huepick crea una paleta con roles de color etiquetados adaptados a tu proyecto.
+Después de que Huepick extrae tu paleta de 12 colores, la pestaña Analizar la desglosa con tarjetas visuales: una vista general (variedad de colores, puntuación de diversidad, dispersión de matices), distribución de matices, temperatura del color (cálido/frío/neutro), luminosidad y contraste, saturación, y un desglose por color con valores hex. Según tu paleta, Huepick también sugiere qué herramientas creativas se adaptan mejor a tu foto.
 
 ### ¿Cómo copio un código hex?
 
@@ -51,8 +51,9 @@ Toca cualquier muestra de color. Aparece una breve confirmación para avisarte d
 
 - **Aislar** — mantén los colores seleccionados vibrantes mientras el resto pasa a escala de grises (o viceversa)
 - **Duotono** — reasigna tu imagen a dos tonos para un look audaz y editorial
-- **Pixelizar** — transforma en arte de píxeles geométrico con tamaño de bloque ajustable
-- **Desenfocar** — añade un enfoque suave y de ensueño con intensidad ajustable
+- **Tritono** — reasigna tu imagen a través de tres tonos para un look más rico y gradual
+- **Pixelizar** — transforma en un mosaico de teselas geométricas con tamaño de tesela ajustable
+- **Desenfocar** — añade un enfoque suave y de ensueño con una selección de estilos de desenfoque e intensidad ajustable
 - **Glitch** — aplica separación de canales RGB y distorsión digital
 
 ### ¿Cómo guardo una creación?
@@ -71,7 +72,7 @@ Mantén pulsada la creación en la Galería y elige "Eliminar". Se te pedirá co
 
 ### ¿Dónde se almacenan mis datos?
 
-Todo —paletas y creaciones guardadas— se almacena localmente en tu dispositivo. No tenemos servidores, ni almacenamiento en la nube, ni acceso a tus datos.
+Todo, incluidas las paletas y creaciones guardadas, se almacena localmente en tu dispositivo. No tenemos servidores, ni almacenamiento en la nube, ni acceso a tus datos.
 
 ### ¿Mis fotos se suben a algún lugar?
 

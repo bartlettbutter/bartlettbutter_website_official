@@ -12,11 +12,11 @@ redirect_from:
 
 # Jeder Hund hat eine Geschichte. Entdecke sie sofort.
 
-Mach ein Foto, identifiziere die Rasse und erfahre alles Wissenswerte – Temperament, Geschichte, wissenswerte Fakten und mehr. Keine Internetverbindung nötig, keine Anmeldung, keine Kosten.
+Mach ein Foto, identifiziere die Rasse und erfahre alles Wissenswerte: Temperament, Geschichte, wissenswerte Fakten und mehr. Keine Internetverbindung nötig, keine Anmeldung, keine Kosten.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
-## Warum sich über 100.000 Hundeliebhaber für Barkpedia entscheiden
+## Warum sich Hundeliebhaber für Barkpedia entscheiden
 
 - **Sofortige Antworten, überall.** Identifiziere 147 Rassen in Sekunden – im Park, im Tierheim oder auf deinem Sofa. Funktioniert vollständig offline.
 - **Deine Privatsphäre steht an erster Stelle.** Fotos verlassen niemals dein Gerät. Keine Konten, kein Tracking, keine Werbung. Punkt.
@@ -27,7 +27,7 @@ Mach ein Foto, identifiziere die Rasse und erfahre alles Wissenswerte – Temper
 
 ### Scannen und identifizieren
 
-Richte deine Kamera auf einen beliebigen Hund – oder wähle ein Foto aus deiner Mediathek – und erhalte eine Rassenübereinstimmung mit einem Konfidenzwert. Jedes Ergebnis verlinkt auf ein reichhaltiges Rassenprofil mit Temperament, Größe, Energielevel, Herkunftsgeschichte und Fotos.
+Richte deine Kamera auf einen beliebigen Hund, oder wähle ein Foto aus deiner Mediathek, und erhalte eine Rassenübereinstimmung mit einem Konfidenzwert. Jedes Ergebnis verlinkt auf ein reichhaltiges Rassenprofil mit Temperament, Größe, Energielevel, Herkunftsgeschichte und Fotos.
 
 ### Speichere deine Favoriten
 
@@ -42,7 +42,7 @@ Suche 147 Rassen nach Namen oder durchstöbere eine interaktive Weltkarte, geord
 Stelle dein Rassenwissen mit zwei Spielmodi auf die Probe:
 
 - **Rassen-Quiz** — Errate die Rasse anhand eines Fotos. 10 Fragen, vier Auswahlmöglichkeiten, verdiene Belohnungstitel.
-- **Hunde-Trivia** — Richtig oder falsch? 10 Runden echter Fakten, gemischt mit cleveren Mythen.
+- **Hunde-Trivia** — Richtig oder falsch? 10 Runden echter Fakten, gemischt mit cleveren Mythen. Funktioniert vollständig offline.
 
 ## So funktioniert's
 
@@ -53,7 +53,7 @@ Stelle dein Rassenwissen mit zwei Spielmodi auf die Probe:
 
 ## Kompatibilität
 
-iOS 17.0 oder neuer · iPhone und iPad
+iOS 18.0 oder neuer · iPhone und iPad
 
 ## Deine Privatsphäre, geschützt
 

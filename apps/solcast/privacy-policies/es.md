@@ -68,9 +68,9 @@ La aplicación se conecta a los siguientes servicios para obtener datos meteorol
 | Servicio | Qué Proporciona | Datos Enviados |
 |----------|-----------------|----------------|
 | [Apple Weather](https://www.apple.com/legal/privacy/) | Pronósticos y condiciones meteorológicas | Solo coordenadas geográficas |
-| [Open-Meteo](https://open-meteo.com/en/terms) | Pronósticos complementarios, calidad del aire, polen | Solo coordenadas geográficas |
+| Servicios meteorológicos y ambientales de terceros | Pronósticos complementarios, calidad del aire, polen | Solo coordenadas geográficas |
 | [Apple Maps](https://www.apple.com/legal/privacy/) | Búsqueda de ubicaciones y visualización del nombre de la ciudad | Solo la consulta de búsqueda o las coordenadas |
-| [Nager.Date](https://github.com/nager/Nager.Date) | Detección de días festivos | Solo el código de país (p. ej., "US") |
+| Servicio de días festivos | Detección de días festivos | Solo el código de país (p. ej., "US") |
 
 **Nunca se envían datos personales, identificadores de dispositivo, IDs de publicidad ni preferencias de usuario a estos servicios.**
 

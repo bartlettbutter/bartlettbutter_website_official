@@ -16,7 +16,7 @@ Haz una foto, identifica la raza y descubre todo lo que hay que saber: temperame
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
-## Por qué más de 100.000 amantes de los perros eligen Barkpedia
+## Por qué los amantes de los perros eligen Barkpedia
 
 - **Respuestas al instante, en cualquier lugar.** Identifica 147 razas en segundos: en el parque, en el refugio o en tu sofá. Funciona completamente sin conexión.
 - **Tu privacidad es lo primero.** Las fotos nunca salen de tu dispositivo. Sin cuentas, sin rastreo, sin anuncios. Punto.
@@ -27,7 +27,7 @@ Haz una foto, identifica la raza y descubre todo lo que hay que saber: temperame
 
 ### Escanea e identifica
 
-Apunta tu cámara a cualquier perro —o elige una foto de tu galería— y obtén una coincidencia de raza con una puntuación de confianza. Cada resultado enlaza con un perfil de raza completo con temperamento, tamaño, nivel de energía, historia de origen y fotos.
+Apunta tu cámara a cualquier perro, o elige una foto de tu galería, y obtén una coincidencia de raza con una puntuación de confianza. Cada resultado enlaza con un perfil de raza completo con temperamento, tamaño, nivel de energía, historia de origen y fotos.
 
 ### Guarda tus favoritos
 
@@ -42,7 +42,7 @@ Busca 147 razas por nombre o navega por un mapa mundial interactivo organizado p
 Pon a prueba tus conocimientos de razas con dos modos de juego:
 
 - **Concurso de Razas** — Adivina la raza a partir de una foto. 10 preguntas, cuatro opciones, gana títulos de recompensa.
-- **Curiosidades Caninas** — ¿Verdadero o falso? 10 rondas de datos reales mezclados con mitos ingeniosos.
+- **Curiosidades Caninas** — ¿Verdadero o falso? 10 rondas de datos reales mezclados con mitos ingeniosos. Funciona completamente sin conexión.
 
 ## Cómo funciona
 
@@ -53,7 +53,7 @@ Pon a prueba tus conocimientos de razas con dos modos de juego:
 
 ## Compatibilidad
 
-iOS 17.0 o posterior · iPhone y iPad
+iOS 18.0 o posterior · iPhone y iPad
 
 ## Tu privacidad, protegida
 

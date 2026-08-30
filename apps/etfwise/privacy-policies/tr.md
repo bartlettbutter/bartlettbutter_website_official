@@ -11,7 +11,7 @@ redirect_from:
 
 **Yürürlük Tarihi:** 25 Nisan 2026
 
-ETFWise ("Uygulama"), canlı piyasa verileri ve cihaz üzerinde yapay zeka analizi ile günlük ETF önerileri sunan ücretsiz bir iOS uygulamasıdır. Gizliliğiniz, bu uygulamayı nasıl geliştirdiğimizin temelini oluşturur. Bilgilerinizin tam olarak nasıl ele alındığı aşağıda açıklanmıştır.
+ETFWise ("Uygulama"), canlı piyasa verileri ve cihaz üzerinde anlık analiz ile günlük ETF önerileri sunan ücretsiz bir iOS uygulamasıdır. Gizliliğiniz, bu uygulamayı nasıl geliştirdiğimizin temelini oluşturur. Bilgilerinizin tam olarak nasıl ele alındığı aşağıda açıklanmıştır.
 
 ## Kısa Versiyon
 
@@ -22,7 +22,7 @@ ETFWise ("Uygulama"), canlı piyasa verileri ve cihaz üzerinde yapay zeka anali
 | İzleme veya analiz var mı? | Hayır |
 | Reklam var mı? | Hayır |
 | Verilerim satılıyor veya paylaşılıyor mu? | Hayır |
-| Yapay zeka analizi cihazımdan çıkıyor mu? | Hayır |
+| Analiz cihazımdan çıkıyor mu? | Hayır |
 | Çocuklar uygulamayı güvenle kullanabilir mi? | Evet |
 
 Dışarıya gönderilen tek veri, piyasa verilerini almak için kullanılan ETF hisse senedi sembolleridir. Finnhub API anahtarınız cihazda güvenli bir şekilde saklanır ve yalnızca Finnhub'a gönderilir.
@@ -36,26 +36,25 @@ Hiçbiri. Sunucularımıza hiçbir kişisel bilgi toplamıyor, saklamıyor veya 
 Tüm uygulama verileri cihazınızda yerel olarak saklanır:
 
 - Günlük ETF önerileri ve önbelleğe alınmış piyasa fiyatları
-- Haber duygu puanları ve yapay zeka tarafından oluşturulan analizler
+- Haber duygu puanları ve oluşturulan analizler
 - Finnhub API anahtarınız (cihaz depolamasında güvenli bir şekilde saklanır)
-- İndirilen yapay zeka model dosyası
 
 Bu veriler günlük olarak yenilenir ve hiçbir zaman harici sunuculara yüklenmez.
 
 ## Üçüncü Taraf Hizmetleri
 
-ETFWise, yalnızca görüntüleme için piyasa verilerini almak amacıyla finansal veri sağlayıcılarına bağlanır. Gönderilen tek bilgi ETF hisse senedi sembolleri ve tarih aralıklarıdır. Hiçbir kişisel veri, cihaz tanımlayıcısı veya konum bilgisi iletilmez.
+ETFWise, yalnızca görüntüleme için piyasa verilerini almak amacıyla üçüncü taraf finansal veri sağlayıcılarına bağlanır. Bir tane sağlamayı seçerseniz, kendi Finnhub API anahtarınız canlı fiyatlar ve haberler için kullanılır.
 
-| Hizmet | Ne Sağlar | Gönderilen Veri | Gizlilik Bilgisi |
-|--------|-----------|-----------------|------------------|
-| Finnhub | Gerçek zamanlı fiyatlar, haberler, duygu analizi, analist verileri | Hisse sembolleri, tarih aralıkları, API anahtarınız | [Gizlilik Politikası](https://finnhub.io/privacy-policy) |
-| Yahoo Finance | Fon büyüklüğü, varlıklar, sektör ağırlıkları, performans | Hisse sembolleri | [Gizlilik Politikası](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) |
-| Polymarket | Tahmin piyasası olasılıkları | Yalnızca herkese açık etkinlik verileri | [Gizlilik Politikası](https://polymarket.com/privacy) |
-| HuggingFace | Tek seferlik indirme için yapay zeka model dosyasını barındırır | Yalnızca model dosyası indirmesi | [Gizlilik Politikası](https://huggingface.co/privacy) |
+| Gönderilen Veri | İçerdiği Kişisel Veri |
+|---|---|
+| ETF hisse senedi sembolleri ve tarih aralıkları | Yok |
+| Finnhub API anahtarınız (yalnızca Finnhub'a, kimlik doğrulama için) | Yok |
 
-## Cihaz Üzerinde Yapay Zeka İşleme
+Hiçbir istekte cihaz tanımlayıcısı, konum veya izleme bilgisi yer almaz.
 
-Yapay zeka modeli tamamen cihazınızda çalışır. Yükseliş senaryoları, risk senaryoları ve fon açıklamaları dahil tüm çıkarımlar yerel olarak gerçekleşir. Yapay zeka işleme için hiçbir istem, girdi veya çıktı harici bir sunucuya gönderilmez.
+## Cihaz Üzerinde Analiz
+
+Yükseliş senaryoları, risk senaryoları ve fon açıklamaları, her ETF için zaten alınan piyasa verilerinden tamamen cihazınızda oluşturulur. Bu analiz ayrı bir indirme veya harici bir sunucu içermez; onunla ilgili hiçbir şey cihazınızdan çıkmaz.
 
 ## API Anahtarı Güvenliği
 
@@ -71,7 +70,7 @@ ETFWise; kameranıza, konumunuza, kişilerinize, mikrofonunuza, sağlık veriler
 
 ## Verilerin Saklanması ve Silinmesi
 
-Sunucularımızda hiçbir kişisel veri toplamadığımız için bizim tarafımızda saklanacak veya silinecek bir şey yoktur. Öneriler, önbelleğe alınmış fiyatlar, yapay zeka analizi ve API anahtarınız dahil tüm yerel olarak saklanan veriler, Uygulamayı cihazınızdan sildiğinizde kalıcı olarak kaldırılır.
+Sunucularımızda hiçbir kişisel veri toplamadığımız için bizim tarafımızda saklanacak veya silinecek bir şey yoktur. Öneriler, önbelleğe alınmış fiyatlar, oluşturulan analiz ve API anahtarınız dahil tüm yerel olarak saklanan veriler, Uygulamayı cihazınızdan sildiğinizde kalıcı olarak kaldırılır.
 
 ## Haklarınız
 

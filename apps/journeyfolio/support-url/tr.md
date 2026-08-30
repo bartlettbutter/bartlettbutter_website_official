@@ -11,13 +11,13 @@ redirect_from:
 
 # Yardım için buradayız.
 
-İster ilk gezinizi ayarlıyor ister bir özellikle ilgili sorun gideriyor olun, aşağıda yanıtları bulacaksınız. Bulamazsanız bize ulaşın — yardımcı olmaktan memnuniyet duyarız.
+İster ilk gezinizi ayarlıyor ister bir özellikle ilgili sorun gideriyor olun, aşağıda yanıtları bulacaksınız. Bulamazsanız bize ulaşın. Yardımcı olmaktan memnuniyet duyarız.
 
 ## Başlarken
 
 ### Journeyfolio ücretsiz mi?
 
-Evet. Journeyfolio ücretsiz olarak indirilir ve en fazla 10 geziyi ücretsiz planlamanıza olanak tanır. Premium özellikler — sınırsız gezi, canlı uçuş takibi ve hava tahminleri — isteğe bağlı otomatik yenilenen abonelikler (aylık, 6 aylık veya yıllık) aracılığıyla sunulur.
+Evet. Journeyfolio ücretsiz olarak indirilir ve en fazla 10 geziyi ücretsiz planlamanıza olanak tanır. Premium özellikler (sınırsız gezi, canlı uçuş takibi ve hava tahminleri) isteğe bağlı otomatik yenilenen abonelikler (aylık, 6 aylık veya yıllık) aracılığıyla sunulur.
 
 ### Journeyfolio'yu ücretsiz olmadan önce satın aldım. Erişimi kaybeder miyim?
 
@@ -112,7 +112,7 @@ Hayır. Gezi verileriniz yerel olarak saklanır ve aboneliğinizden tamamen bağ
 1. Cihazınızın internet bağlantısı olduğunu doğrulayın.
 2. Hedef şehir adının doğru olduğunu kontrol edin.
 3. Etkin bir Premium aboneliğinizin olduğundan emin olun.
-4. Hâlâ yüklenmiyorsa birkaç dakika sonra tekrar deneyin — hava durumu hizmeti geçici olarak kullanılamıyor olabilir.
+4. Hâlâ yüklenmiyorsa birkaç dakika sonra tekrar deneyin; hava durumu hizmeti geçici olarak kullanılamıyor olabilir.
 
 ### Uçuş doğrulaması "Uçuş bulunamadı" diyor
 

@@ -17,7 +17,7 @@ Queremos que você aproveite ao máximo o Solcast. Se algo não estiver funciona
 
 ### Como configuro o aplicativo?
 
-Basta abrir o Solcast — sem conta, sem cadastro. Quando solicitado, conceda a permissão de localização para que possamos buscar o clima da sua área (você também pode pular isso e buscar uma cidade manualmente). Seu painel personalizado aparece imediatamente com sua previsão, sugestões de roupa e resumo diário.
+Basta abrir o Solcast. Sem conta, sem cadastro. Quando solicitado, conceda a permissão de localização para que possamos buscar o clima da sua área (você também pode pular isso e buscar uma cidade manualmente). Seu painel personalizado aparece imediatamente com sua previsão, sugestões de roupa e resumo diário.
 
 ### Como personalizo as recomendações?
 
@@ -27,17 +27,17 @@ Toque no ícone de engrenagem (canto superior direito) para abrir os Ajustes. Vo
 - **Seu Estilo** — estilo de vestir (Casual, Business Casual, Formal, Esportivo) e preferência de exercício ao ar livre
 - **Sua Casa** — crianças, animais, carros
 
-Cada alteração entra em vigor imediatamente — sem necessidade de recarregar.
+Cada alteração entra em vigor imediatamente, sem necessidade de recarregar.
 
 ### Como gerencio localizações?
 
-Você pode salvar até 10 localizações. Use o seletor de localização no painel para alternar entre elas, ou toque no ícone de busca para adicionar uma nova cidade. Cada localização exibe o clima em seu próprio fuso horário local, então os horários (nascer do sol, pôr do sol, previsão por hora) são sempre relevantes para aquela cidade.
+Você pode salvar até 4 localizações no plano gratuito (ilimitadas com Premium). Use o seletor de localização no painel para alternar entre elas, ou toque no ícone de busca para adicionar uma nova cidade. Cada localização exibe o clima em seu próprio fuso horário local, então os horários (nascer do sol, pôr do sol, previsão por hora) são sempre relevantes para aquela cidade.
 
 ## Perguntas Frequentes
 
-### O Solcast é realmente gratuito?
+### O Solcast é gratuito?
 
-Sim. Não há compras dentro do aplicativo, assinaturas ou anúncios. Todos os recursos estão disponíveis desde o primeiro dia.
+Sim. O Solcast é gratuito para baixar e a experiência meteorológica completa (previsões, sugestões de roupa, resumo diário, todos os 16 índices de estilo de vida e alertas meteorológicos inteligentes) é gratuita, sem anúncios. Uma assinatura Premium opcional adiciona lembretes pessoais e amplia o limite de cidades salvas; todo o resto permanece gratuito.
 
 ### O Solcast coleta meus dados?
 
@@ -61,7 +61,7 @@ Um cartão de visualização rápida na parte superior do seu painel com até 6 
 
 ### De onde vêm os dados meteorológicos?
 
-O Solcast combina dados do Apple Weather e do Open-Meteo para oferecer previsões confiáveis e precisas. Os dados de qualidade do ar e pólen vêm de uma API ambiental dedicada. Todos os valores exibidos são medições reais — nada é estimado ou inventado.
+O Solcast usa o Apple Weather junto com serviços adicionais de dados meteorológicos e ambientais de terceiros para oferecer previsões confiáveis e precisas, incluindo qualidade do ar e pólen. Todos os valores exibidos são medições reais. Nada é estimado ou inventado.
 
 ## Permissões
 
@@ -79,7 +79,7 @@ Não. O Solcast solicita apenas a permissão de localização. Ele não acessa s
 
 1. Confirme que o seu dispositivo tem uma conexão Wi-Fi ou de dados móveis ativa.
 2. Puxe para baixo no painel para forçar uma atualização.
-3. Se ainda não carregar, o serviço de tempo pode estar temporariamente indisponível — tente novamente em alguns minutos.
+3. Se ainda não carregar, o serviço de tempo pode estar temporariamente indisponível. Tente novamente em alguns minutos.
 
 ### Minha localização não está sendo detectada
 
@@ -87,7 +87,7 @@ Vá para os Ajustes do seu dispositivo > Privacidade e Segurança > Serviços de
 
 ### Um índice ou recomendação parece incorreto
 
-As recomendações se baseiam em dados meteorológicos ao vivo combinados com seus ajustes pessoais. Verifique novamente os interruptores de sensibilidade em Ajustes > Sobre Você e confirme que a localização correta está selecionada. Alguns dados (qualidade do ar, pólen) variam por região e podem não estar disponíveis em todos os lugares — o aplicativo oculta automaticamente esses índices quando os dados não estão disponíveis.
+As recomendações se baseiam em dados meteorológicos ao vivo combinados com seus ajustes pessoais. Verifique novamente os interruptores de sensibilidade em Ajustes > Sobre Você e confirme que a localização correta está selecionada. Alguns dados (qualidade do ar, pólen) variam por região e podem não estar disponíveis em todos os lugares. O aplicativo oculta automaticamente esses índices quando os dados não estão disponíveis.
 
 ### A faixa de previsão por hora não está aparecendo
 
@@ -95,7 +95,7 @@ A faixa por hora carrega separadamente da previsão principal. Puxe para baixo p
 
 ### Os horários parecem errados para uma cidade distante
 
-Isso é intencional. Cada localização salva exibe os horários do clima (nascer do sol, pôr do sol, previsão por hora) no fuso horário local daquela cidade — não no fuso horário do seu dispositivo. Isso garante que a informação seja útil para planejar naquele local.
+Isso é intencional. Cada localização salva exibe os horários do clima (nascer do sol, pôr do sol, previsão por hora) no fuso horário local daquela cidade, não no fuso horário do seu dispositivo. Isso garante que a informação seja útil para planejar naquele local.
 
 ### O aplicativo está travando
 

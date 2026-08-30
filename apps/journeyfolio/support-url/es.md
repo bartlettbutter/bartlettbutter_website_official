@@ -17,7 +17,7 @@ Ya sea que estés configurando tu primer viaje o resolviendo un problema con una
 
 ### ¿Journeyfolio es gratis?
 
-Sí. Journeyfolio es gratis de descargar y te permite planificar hasta 10 viajes sin coste. Las funciones premium —viajes ilimitados, seguimiento de vuelos en vivo y pronósticos del tiempo— están disponibles mediante suscripciones opcionales de renovación automática (mensual, semestral o anual).
+Sí. Journeyfolio es gratis de descargar y te permite planificar hasta 10 viajes sin coste. Las funciones premium (viajes ilimitados, seguimiento de vuelos en vivo y pronósticos del tiempo) están disponibles mediante suscripciones opcionales de renovación automática (mensual, semestral o anual).
 
 ### Compré Journeyfolio antes de que fuera gratis. ¿Pierdo el acceso?
 

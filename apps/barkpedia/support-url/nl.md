@@ -17,15 +17,15 @@ We willen dat je een geweldige ervaring hebt met Barkpedia. Als iets niet werkt 
 
 ### Hoe werkt rasherkenning?
 
-Barkpedia gebruikt geavanceerde intelligentie op het apparaat om je foto te analyseren en het hondenras te herkennen. Alle verwerking gebeurt lokaal op je iPhone of iPad — je foto's worden nooit ergens naartoe geüpload.
+Barkpedia gebruikt geavanceerde intelligentie op het apparaat om je foto te analyseren en het hondenras te herkennen. Alle verwerking gebeurt lokaal op je iPhone of iPad, dus je foto's worden nooit ergens naartoe geüpload.
 
 ### Heb ik een internetverbinding nodig?
 
-Niet voor de kernervaring. Rasherkenning, opgeslagen favorieten, raszoeken en de wereldkaart werken volledig offline. De rasdetailpagina's (temperament, geschiedenis, foto's), de quiz en de hondenweetjes vereisen een internetverbinding om inhoud te laden.
+Niet voor het grootste deel van de ervaring. Rasherkenning, opgeslagen favorieten, raszoeken, de wereldkaart en Hondenweetjes werken allemaal volledig offline. De rasdetailpagina's (temperament, geschiedenis, foto's) en de Rassenquiz vereisen wel een internetverbinding om inhoud te laden.
 
 ### Is Barkpedia echt gratis?
 
-Ja — volledig gratis zonder addertjes. Er zijn geen in-app-aankopen, geen abonnementen en geen advertenties.
+Ja, volledig gratis zonder addertjes. Er zijn geen in-app-aankopen, geen abonnementen en geen advertenties.
 
 ### Hoeveel rassen kan Barkpedia herkennen?
 
@@ -47,11 +47,11 @@ Zowel het zoeken als de kaart werken offline.
 - **Rassenquiz** — Je krijgt een hondenfoto te zien en kiest het juiste ras uit vier keuzes. Elke ronde heeft 10 vragen. Verdien beloningstitels op basis van je score.
 - **Hondenweetjes** — Waar-of-onwaar-stellingen die echte hondenfeiten mengen met plausibele mythes. Ook 10 vragen per ronde met beloningstitels.
 
-Beide spellen vereisen een internetverbinding.
+De Rassenquiz vereist een internetverbinding om foto's te laden. Hondenweetjes werkt volledig offline.
 
 ### Werkt Barkpedia op de iPad?
 
-Ja. Barkpedia past zijn lay-out automatisch aan — tabnavigatie op de iPhone en zijbalknavigatie op de iPad. Alle vijf secties (Scannen, Favorieten, Verkennen, Quiz en Weetjes) zijn volledig geoptimaliseerd voor beide apparaten.
+Ja. Barkpedia past zijn lay-out automatisch aan, met tabnavigatie op de iPhone en zijbalknavigatie op de iPad. Alle vijf secties (Scannen, Favorieten, Verkennen, Quiz en Weetjes) zijn volledig geoptimaliseerd voor beide apparaten.
 
 ## Privacy en Gegevens
 
@@ -75,7 +75,7 @@ Het de-installeren van Barkpedia verwijdert permanent alle opgeslagen favorieten
 
 ### Waarom heeft Barkpedia toegang tot de camera nodig?
 
-Cameratoegang stelt je in staat om honden rechtstreeks in de app te fotograferen voor rasherkenning. Deze toestemming is optioneel — je kunt in plaats daarvan je fotobibliotheek gebruiken.
+Cameratoegang stelt je in staat om honden rechtstreeks in de app te fotograferen voor rasherkenning. Deze toestemming is optioneel. Je kunt in plaats daarvan je fotobibliotheek gebruiken.
 
 ### Waarom heeft Barkpedia toegang tot de fotobibliotheek nodig?
 
@@ -91,9 +91,9 @@ Nee. Barkpedia vraagt alleen toegang tot de camera en de fotobibliotheek. Het ge
 
 Ga naar Instellingen → Barkpedia en bevestig dat cameratoegang is ingeschakeld. Als deze al is ingeschakeld, probeer dan de app geforceerd af te sluiten en opnieuw te openen.
 
-### Rasinformatie, quiz of weetjes-inhoud laadt niet
+### Rasdetail- of quizinhoud laadt niet
 
-Deze functies vereisen een actieve internetverbinding. Controleer je wifi- of mobiele dataverbinding en probeer het opnieuw. Als het probleem aanhoudt, is de inhoudsdienst mogelijk tijdelijk niet beschikbaar — wacht een paar minuten en probeer het opnieuw.
+De rasdetailpagina's en de Rassenquiz vereisen een actieve internetverbinding. Controleer je wifi- of mobiele dataverbinding en probeer het opnieuw. Als het probleem aanhoudt, is de inhoudsdienst mogelijk tijdelijk niet beschikbaar. Wacht een paar minuten en probeer het opnieuw. (Hondenweetjes werkt offline en zou geen last moeten hebben.)
 
 ### De app zegt "Geen hond"
 
@@ -105,7 +105,7 @@ Zorg ervoor dat je de nieuwste versie uit de App Store gebruikt, start dan je ap
 
 ## Compatibiliteit
 
-Barkpedia vereist iOS 17.0 of hoger en werkt zowel op iPhone als iPad.
+Barkpedia vereist iOS 18.0 of hoger en werkt zowel op iPhone als iPad.
 
 ## Neem Contact Op
 

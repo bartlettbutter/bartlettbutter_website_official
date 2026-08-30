@@ -17,15 +17,15 @@ Queremos que você tenha uma ótima experiência com o Barkpedia. Se algo não e
 
 ### Como funciona a identificação de raças?
 
-O Barkpedia usa inteligência avançada no dispositivo para analisar sua foto e identificar a raça do cão. Todo o processamento acontece localmente no seu iPhone ou iPad — suas fotos nunca são enviadas para lugar algum.
+O Barkpedia usa inteligência avançada no dispositivo para analisar sua foto e identificar a raça do cão. Todo o processamento acontece localmente no seu iPhone ou iPad, portanto suas fotos nunca são enviadas para lugar algum.
 
 ### Preciso de conexão com a internet?
 
-Não para a experiência principal. A identificação de raças, os favoritos salvos, a busca de raças e o mapa-múndi funcionam totalmente offline. As páginas de detalhes das raças (temperamento, história, fotos), o quiz e as curiosidades caninas exigem conexão com a internet para carregar o conteúdo.
+Não para a maior parte da experiência. A identificação de raças, os favoritos salvos, a busca de raças, o mapa-múndi e as Curiosidades Caninas funcionam todos totalmente offline. As páginas de detalhes das raças (temperamento, história, fotos) e o Quiz de Raças exigem conexão com a internet para carregar o conteúdo.
 
 ### O Barkpedia é realmente gratuito?
 
-Sim — totalmente gratuito e sem pegadinhas. Não há compras dentro do aplicativo, assinaturas ou anúncios.
+Sim, totalmente gratuito e sem pegadinhas. Não há compras dentro do aplicativo, assinaturas ou anúncios.
 
 ### Quantas raças o Barkpedia pode reconhecer?
 
@@ -47,11 +47,11 @@ Tanto a busca quanto o mapa funcionam offline.
 - **Quiz de Raças** — É exibida uma foto de cão e você escolhe a raça correta entre quatro opções. Cada rodada tem 10 perguntas. Ganhe títulos de recompensa com base na sua pontuação.
 - **Curiosidades Caninas** — Afirmações de verdadeiro ou falso misturando fatos reais sobre cães com mitos plausíveis. Também 10 perguntas por rodada com títulos de recompensa.
 
-Ambos os jogos exigem conexão com a internet.
+O Quiz de Raças exige conexão com a internet para carregar as fotos. As Curiosidades Caninas funcionam totalmente offline.
 
 ### O Barkpedia funciona no iPad?
 
-Sim. O Barkpedia adapta automaticamente seu layout — navegação por abas no iPhone e navegação por barra lateral no iPad. Todas as cinco seções (Escanear, Favoritos, Explorar, Quiz e Curiosidades) são totalmente otimizadas para ambos os dispositivos.
+Sim. O Barkpedia adapta automaticamente seu layout, com navegação por abas no iPhone e navegação por barra lateral no iPad. Todas as cinco seções (Escanear, Favoritos, Explorar, Quiz e Curiosidades) são totalmente otimizadas para ambos os dispositivos.
 
 ## Privacidade e Dados
 
@@ -75,7 +75,7 @@ Desinstalar o Barkpedia remove permanentemente todos os favoritos salvos e o his
 
 ### Por que o Barkpedia precisa de acesso à câmera?
 
-O acesso à câmera permite que você fotografe cães diretamente no aplicativo para a identificação de raças. Essa permissão é opcional — você pode usar sua biblioteca de fotos em vez disso.
+O acesso à câmera permite que você fotografe cães diretamente no aplicativo para a identificação de raças. Essa permissão é opcional. Você pode usar sua biblioteca de fotos em vez disso.
 
 ### Por que o Barkpedia precisa de acesso à biblioteca de fotos?
 
@@ -91,9 +91,9 @@ Não. O Barkpedia solicita apenas acesso à câmera e à biblioteca de fotos. El
 
 Vá para Ajustes → Barkpedia e confirme que o acesso à Câmera está ativado. Se já estiver ativado, tente forçar o encerramento e reabrir o aplicativo.
 
-### As informações de raças, o quiz ou as curiosidades não carregam
+### Os detalhes de raças ou o conteúdo do quiz não carregam
 
-Esses recursos exigem uma conexão ativa com a internet. Verifique sua conexão Wi-Fi ou de dados móveis e tente novamente. Se o problema continuar, o serviço de conteúdo pode estar temporariamente indisponível — aguarde alguns minutos e tente de novo.
+As páginas de detalhes das raças e o Quiz de Raças exigem uma conexão ativa com a internet. Verifique sua conexão Wi-Fi ou de dados móveis e tente novamente. Se o problema continuar, o serviço de conteúdo pode estar temporariamente indisponível. Aguarde alguns minutos e tente de novo. (As Curiosidades Caninas funcionam offline e não devem ser afetadas.)
 
 ### O aplicativo diz "Não é um cão"
 
@@ -105,7 +105,7 @@ Certifique-se de estar usando a versão mais recente da App Store, depois reinic
 
 ## Compatibilidade
 
-O Barkpedia requer iOS 17.0 ou posterior e funciona tanto no iPhone quanto no iPad.
+O Barkpedia requer iOS 18.0 ou posterior e funciona tanto no iPhone quanto no iPad.
 
 ## Fale Conosco
 

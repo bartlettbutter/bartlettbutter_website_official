@@ -14,7 +14,7 @@ redirect_from:
 
 Solcast es una aplicación de clima gratuita que va más allá del pronóstico. Te dice qué ponerte, cuándo llevar paraguas y cómo mantener cómoda a tu familia, todo personalizado a tu vida y entregado en lenguaje sencillo.
 
-Sin anuncios. Sin suscripciones. Sin cuentas. Solo abre y listo.
+Sin anuncios. Sin cuentas. Gratis para usar, con una mejora Premium opcional. Solo abre y listo.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
@@ -32,7 +32,7 @@ Sin anuncios. Sin suscripciones. Sin cuentas. Solo abre y listo.
 - **Franja Horaria** — desplázate por las próximas 24 horas para planificar en torno a la lluvia, picos de UV o bajadas de temperatura
 - **16 Índices de Estilo de Vida** — UV, SPF, alergia, calidad del aire, hidratación, confort, riesgo de gripe y más
 - **Pronóstico de 7 Días** — temperatura, viento, UV, precipitación, calidad del aire y polen en una sola vista
-- **Multi-Ubicación** — guarda hasta 10 ciudades, cada una mostrada en su zona horaria local
+- **Multi-Ubicación** — guarda hasta 4 ciudades gratis (ilimitadas con Premium), cada una mostrada en su zona horaria local
 
 ## Diseñado para tu hogar
 
@@ -46,7 +46,7 @@ Sin anuncios. Sin suscripciones. Sin cuentas. Solo abre y listo.
 
 ## Empieza en segundos
 
-1. Inicia — sin necesidad de cuenta
+1. Inicia, sin necesidad de cuenta
 2. Permite la ubicación o busca una ciudad
 3. Ve tu panel personalizado de inmediato
 4. Ajusta las preferencias en cualquier momento en Configuración

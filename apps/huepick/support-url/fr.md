@@ -25,7 +25,7 @@ Non. Huepick n'a aucun compte, aucune inscription et aucune connexion. Ouvrez si
 
 ### Une connexion internet est-elle requise ?
 
-Presque tout fonctionne hors ligne — extraction des couleurs, palettes, outils créatifs et enregistrement. La seule fonctionnalité réseau facultative est la conversion des coordonnées de localisation de la photo en un nom de lieu (comme « Seattle, WA ») sur les palettes enregistrées.
+Presque tout fonctionne hors ligne, notamment l'extraction des couleurs, les palettes, les outils créatifs et l'enregistrement. La seule fonctionnalité réseau facultative est la conversion des coordonnées de localisation de la photo en un nom de lieu (comme « Seattle, WA ») sur les palettes enregistrées.
 
 ### Huepick est-il vraiment gratuit ?
 
@@ -35,13 +35,13 @@ Oui. Aucun achat intégré, aucun abonnement, aucune publicité. Toutes les fonc
 
 ### Que sont les trois onglets ?
 
-- **Analyser** — prenez ou choisissez une photo, extrayez les couleurs, générez des palettes, consultez une analyse détaillée des couleurs et obtenez des suggestions personnalisées d'outils créatifs
-- **Playground** — transformez votre photo avec cinq outils créatifs (Isoler, Duotone, Pixeliser, Flouter, Glitch)
+- **Analyser** — prenez ou choisissez une photo, extrayez une palette de 12 couleurs, consultez une analyse détaillée des couleurs et obtenez des suggestions personnalisées d'outils créatifs
+- **Playground** — transformez votre photo avec six outils créatifs (Isoler, Duotone, Tritone, Pixeliser, Flouter, Glitch)
 - **Galerie** — parcourez, modifiez à nouveau, téléchargez ou partagez vos créations enregistrées
 
-### Comment générer une palette ?
+### Comment fonctionne l'analyse des couleurs ?
 
-Après avoir extrait les couleurs, choisissez l'un des six types d'harmonie (comme Complémentaire ou Analogue) et l'un des cinq scénarios du monde réel (comme Décoration Intérieure ou Conception d'UI). Huepick crée une palette avec des rôles de couleur étiquetés adaptés à votre projet.
+Après que Huepick a extrait votre palette de 12 couleurs, l'onglet Analyser la décompose avec des cartes visuelles : une vue d'ensemble (variété des couleurs, score de diversité, étendue des teintes), la répartition des teintes, la température de couleur (chaude/froide/neutre), la luminosité et le contraste, la saturation, ainsi qu'une décomposition couleur par couleur avec les valeurs hexadécimales. En fonction de votre palette, Huepick suggère également quels outils créatifs conviendront le mieux à votre photo.
 
 ### Comment copier un code hexadécimal ?
 
@@ -51,8 +51,9 @@ Touchez n'importe quel échantillon de couleur. Une brève confirmation apparaî
 
 - **Isoler** — gardez les couleurs sélectionnées vives tandis que le reste passe en niveaux de gris (ou vice versa)
 - **Duotone** — remappez votre image sur deux tons pour un look audacieux et éditorial
-- **Pixeliser** — transformez en art pixel géométrique avec une taille de bloc réglable
-- **Flouter** — ajoutez une mise au point douce et onirique avec une intensité réglable
+- **Tritone** — remappez votre image sur trois tons pour un look plus riche et dégradé
+- **Pixeliser** — transformez en une mosaïque de tuiles géométriques avec une taille de tuile réglable
+- **Flouter** — ajoutez une mise au point douce et onirique avec un choix de styles de flou et une intensité réglable
 - **Glitch** — appliquez une séparation des canaux RVB et une distorsion numérique
 
 ### Comment enregistrer une création ?
@@ -71,7 +72,7 @@ Appuyez longuement sur la création dans la Galerie et choisissez « Supprimer �
 
 ### Où mes données sont-elles stockées ?
 
-Tout — palettes et créations enregistrées — est stocké localement sur votre appareil. Nous n'avons aucun serveur, aucun stockage cloud et aucun accès à vos données.
+Tout, y compris les palettes et créations enregistrées, est stocké localement sur votre appareil. Nous n'avons aucun serveur, aucun stockage cloud et aucun accès à vos données.
 
 ### Mes photos sont-elles téléchargées quelque part ?
 
@@ -97,7 +98,7 @@ L'extraction des couleurs fonctionne mieux avec des photos bien éclairées et c
 
 ### Un outil créatif semble lent
 
-Tout le traitement s'exécute sur le matériel de votre appareil. Les photos plus grandes et à plus haute résolution peuvent prendre un moment — c'est un comportement attendu, pas un bug.
+Tout le traitement s'exécute sur le matériel de votre appareil. Les photos plus grandes et à plus haute résolution peuvent prendre un moment ; c'est un comportement attendu, pas un bug.
 
 ### L'application plante sans cesse
 

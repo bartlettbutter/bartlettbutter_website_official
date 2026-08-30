@@ -2,7 +2,7 @@
 layout: default
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
-app_description: "Scanne jede Inhaltsstoffliste. Wisse genau, was in deiner Hautpflege steckt – und wie alles zusammenwirkt."
+app_description: "Scanne jede Inhaltsstoffliste. Wisse genau, was in deiner Hautpflege steckt, und wie alles zusammenwirkt."
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 lang: de
 permalink: /formulens/de/
@@ -14,7 +14,7 @@ redirect_from:
 
 **Fotografiere eine beliebige Inhaltsstoffliste und erhalte eine klare, farblich sortierte Aufschlüsselung dessen, was alles bewirkt – vergleiche dann Produkte oder prüfe, ob deine gesamte Routine wirklich zusammenpasst. Alles in Sekunden, alles auf deinem Gerät.**
 
-Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens übersetzt sie. Richte deine Kamera auf ein beliebiges Produkt, und jeder Inhaltsstoff wird entschlüsselt und danach sortiert, was er tatsächlich bewirkt – ohne Tippen, ohne Suchen, ohne Chemiestudium.
+Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens übersetzt sie. Richte deine Kamera auf ein beliebiges Produkt, und jeder Inhaltsstoff wird entschlüsselt und danach sortiert, was er tatsächlich bewirkt. Ohne Tippen, ohne Suchen, ohne Chemiestudium.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
@@ -49,7 +49,7 @@ Enthusiasten, die eine Routine feinabstimmen. Empfindliche Käufer, die auf Duft
 
 ## Kostenlos herunterladen. Von Grund auf privat.
 
-Lade FormuLens kostenlos herunter und beginne sofort mit dem Scannen – kein Konto, keine Werbung, kein Haken. Jede oben genannte Funktion ist heute kostenlos verfügbar. Deine Fotos verlassen niemals dein Gerät: Erkennung und Analyse finden vollständig lokal statt, ohne Server, ohne Cloud und ohne Tracking.
+Lade FormuLens kostenlos herunter und beginne sofort mit dem Scannen, ganz ohne Konto, ohne Werbung und ohne Haken. Jede oben genannte Funktion ist heute kostenlos verfügbar. Deine Fotos verlassen niemals dein Gerät: Erkennung und Analyse finden vollständig lokal statt, ohne Server, ohne Cloud und ohne Tracking.
 
 ## Kompatibilität
 
@@ -57,7 +57,7 @@ iOS 26.2 oder neuer · iPhone und iPad
 
 ## Deine Privatsphäre, geschützt
 
-Deine Fotos verlassen niemals dein Gerät. Erkennung und Analyse finden vollständig lokal statt – ohne Server, ohne Cloud, ohne Konten, ohne Tracking.
+Deine Fotos verlassen niemals dein Gerät. Erkennung und Analyse finden vollständig lokal statt, ohne Server, ohne Cloud, ohne Konten und ohne Tracking.
 
 Lies unsere vollständige [Datenschutzrichtlinie](https://www.bartlettbutter.com/formulens/privacy/).
 

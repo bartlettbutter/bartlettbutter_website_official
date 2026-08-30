@@ -25,7 +25,7 @@ Une clé d'API Finnhub gratuite débloque les prix en direct, les actualités et
 
 ### Ai-je besoin d'une connexion internet ?
 
-Oui, pour les prix en direct, les actualités, le sentiment et les données de fonds. Cependant, le modèle d'IA sur l'appareil fonctionne entièrement hors ligne une fois téléchargé, donc aucune connexion n'est nécessaire pour l'analyse générée par IA.
+Oui, pour les prix en direct, les actualités, le sentiment et les données de fonds. L'analyse des arguments haussiers et de risque est générée instantanément sur votre appareil à partir des données déjà affichées à l'écran, elle ne nécessite donc aucune connexion supplémentaire.
 
 ### Combien coûte ETFWise ?
 
@@ -45,13 +45,9 @@ ETFWise est gratuit à télécharger depuis l'App Store. Il n'y a aucun abonneme
 | Thématique | IA et robotique, énergie propre, cybersécurité, cloud, VE |
 | Dividendes | Haut rendement, croissance des dividendes, aristocrates, stratégies de revenu |
 
-### Qu'est-ce que l'IA sur l'appareil ?
+### Comment les arguments haussiers et de risque sont-ils générés ?
 
-ETFWise inclut un modèle de langage léger qui s'exécute localement sur votre appareil. Il génère des arguments haussiers et de risque à partir des données réelles affichées à l'écran, y compris le prix, les rendements, le sentiment et les actualités. Tout le traitement se déroule sur votre appareil et rien n'est envoyé à des serveurs externes.
-
-### Comment télécharger le modèle d'IA ?
-
-Si le modèle n'est pas préinstallé, une carte « Télécharger le Modèle » apparaîtra sur l'écran principal et dans les vues de détail d'ETF. Touchez-la pour télécharger (environ 290 Mo). Une barre de progression affiche l'état du téléchargement. Une fois terminé, le modèle est enregistré localement pour une utilisation future.
+ETFWise construit chaque argument haussier et de risque sur votre appareil à partir des données réelles déjà affichées pour cet ETF : prix, rendements, sentiment, ratio de frais et plus encore. La génération est instantanée, ne nécessite aucun téléchargement ni compte, et rien n'est envoyé à des serveurs externes.
 
 ### Comment fonctionne le sentiment des actualités ?
 
@@ -67,7 +63,7 @@ Oui. Aucun compte, aucune analyse, aucun suivi. Seuls les symboles boursiers son
 
 ### Que se passe-t-il si je supprime l'application ?
 
-La désinstallation d'ETFWise supprime définitivement toutes les données stockées localement, y compris les recommandations en cache, l'analyse par IA et votre clé d'API. Comme il n'y a aucune sauvegarde dans le cloud, cette action est irréversible.
+La désinstallation d'ETFWise supprime définitivement toutes les données stockées localement, y compris les recommandations en cache, l'analyse générée et votre clé d'API. Comme il n'y a aucune sauvegarde dans le cloud, cette action est irréversible.
 
 ## Dépannage
 
@@ -79,9 +75,9 @@ Assurez-vous d'avoir saisi une clé d'API Finnhub valide (obtenez-en une gratuit
 
 Cela signifie généralement qu'une requête réseau a échoué. Vérifiez votre connexion internet et touchez « Réessayer ». Si vous utilisez une clé d'API Finnhub, vérifiez qu'elle est correctement saisie dans les réglages de l'application.
 
-### Les arguments haussiers et de risque ne se génèrent pas
+### Les arguments haussiers et de risque ne s'affichent pas
 
-Le modèle d'IA sur l'appareil doit d'abord être téléchargé. Recherchez la carte « Télécharger le Modèle » sur l'écran principal ou dans la vue de détail de l'ETF et touchez pour télécharger.
+Les arguments haussiers et de risque sont construits à partir des données de prix, de performance et de sentiment d'un ETF. S'ils n'apparaissent pas, ces données sous-jacentes n'ont pas fini de se charger : assurez-vous d'être connecté à internet, puis rouvrez la vue de détail de l'ETF.
 
 ### Les données du fonds (avoirs, performance) ne se chargent pas
 

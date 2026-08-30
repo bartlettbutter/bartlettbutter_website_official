@@ -31,7 +31,7 @@ Journeyfolio („die App") wird von Bartlett Butter entwickelt. Diese Richtlinie
 
 ## Ihre Reisedaten
 
-Alle von Ihnen erstellten Informationen — Reiseziele, Daten, Aktivitäten, Flugnummern, Hoteldetails, angehängte Dokumente und Notizen — werden **ausschließlich lokal auf Ihrem Gerät** gespeichert. Diese Daten verlassen Ihr Gerät niemals, außer wenn die App mit Drittanbieterdiensten (unten beschrieben) kommuniziert, um von Ihnen ausdrücklich angeforderte Inhalte abzurufen.
+Alle von Ihnen erstellten Informationen, darunter Reiseziele, Daten, Aktivitäten, Flugnummern, Hoteldetails, angehängte Dokumente und Notizen, werden **ausschließlich lokal auf Ihrem Gerät** gespeichert. Diese Daten verlassen Ihr Gerät niemals, außer wenn die App mit Drittanbieterdiensten (unten beschrieben) kommuniziert, um von Ihnen ausdrücklich angeforderte Inhalte abzurufen.
 
 ## Abonnements und Käufe
 
@@ -41,7 +41,7 @@ Journeyfolio bietet optionale, automatisch verlängerbare Abonnements, die volls
 
 Journeyfolio **greift nicht** auf das GPS Ihres Geräts zu und verfolgt nicht Ihren physischen Standort.
 
-Wenn Sie ein Reiseziel hinzufügen oder nach Orten suchen, werden Ihre Suchanfragen an die Server von Apple gesendet, um Ergebnisse zurückzugeben. Städtenamen werden zur Geocodierung und für Wetterdaten an Apple gesendet. Ländercodes werden für Informationen zu Feiertagen an Nager.Date gesendet. Es werden keine anderen Standortdaten erhoben oder übertragen.
+Wenn Sie ein Reiseziel hinzufügen oder nach Orten suchen, werden Ihre Suchanfragen an die Server von Apple gesendet, um Ergebnisse zurückzugeben. Städtenamen werden zur Geocodierung und für Wetterdaten an Apple gesendet. Ländercodes werden für Informationen zu Feiertagen an einen Feiertagsdienst gesendet. Es werden keine anderen Standortdaten erhoben oder übertragen.
 
 ## Geräteberechtigungen
 
@@ -54,14 +54,14 @@ Beide Berechtigungen sind optional. Die App funktioniert auch ohne sie vollstän
 
 ## Dienste von Drittanbietern
 
-Die App verbindet sich mit den folgenden Diensten ausschließlich, um von Ihnen angeforderte Inhalte anzuzeigen. Es werden keine personenbezogenen Daten oder Gerätekennungen gesendet — nur die für die Erfüllung jeder Anfrage erforderlichen Mindestinformationen.
+Die App verbindet sich mit den folgenden Diensten ausschließlich, um von Ihnen angeforderte Inhalte anzuzeigen. Es werden keine personenbezogenen Daten oder Gerätekennungen gesendet, sondern nur die für die Erfüllung jeder Anfrage erforderlichen Mindestinformationen.
 
 | Dienst | Zweck | Gesendete Daten | Datenschutzinfos |
 |--------|-------|-----------------|------------------|
 | Apple Wetter & Karten | Wettervorhersagen, Standortsuche, Zeitzonenauflösung | Städtenamen, Koordinaten | [Apple Datenschutzrichtlinie](https://www.apple.com/legal/privacy/) |
-| OpenWeatherMap | Ersatz-Wetterdaten | Städtenamen | [OpenWeatherMap Datenschutzrichtlinie](https://openweather.co.uk/privacy-policy) |
-| FlightAware | Überprüfung von Flugplänen und Live-Status | Flugnummern, Daten | [FlightAware Datenschutzrichtlinie](https://www.flightaware.com/legal/privacy/) |
-| Nager.Date | Informationen zu Feiertagen | Ländercodes, Jahr | [Nager.Date](https://date.nager.at) |
+| Drittanbieter-Wetterdienst | Ersatz-Wetterdaten | Städtenamen | Keine |
+| Flugdatendienst | Überprüfung von Flugplänen und Live-Status | Flugnummern, Daten | Keine |
+| Feiertagsdienst | Informationen zu Feiertagen | Ländercodes, Jahr | Keine |
 
 ## Datenweitergabe
 
@@ -69,13 +69,13 @@ Wir verkaufen, vermieten, lizenzieren oder teilen Ihre Daten mit keinem Dritten.
 
 ## Datenaufbewahrung und -löschung
 
-Ihre Reisedaten bleiben auf Ihrem Gerät bestehen, bis Sie sie löschen — entweder innerhalb der App oder durch Deinstallation. Die Deinstallation entfernt dauerhaft alle gespeicherten Daten. Es gibt keine Cloud-Sicherung oder -Synchronisierung.
+Ihre Reisedaten bleiben auf Ihrem Gerät bestehen, bis Sie sie löschen, entweder innerhalb der App oder durch Deinstallation. Die Deinstallation entfernt dauerhaft alle gespeicherten Daten. Es gibt keine Cloud-Sicherung oder -Synchronisierung.
 
 **Sie haben stets die Kontrolle.** Löschen Sie jede Reise oder Aktivität jederzeit, indem Sie in der App nach links wischen.
 
 ## Ihre Rechte
 
-Da Journeyfolio alle Daten lokal speichert und wir auf unserer Seite nichts erheben, haben Sie bereits die vollständige Kontrolle über Ihre Informationen. Sie können Ihre Daten jederzeit direkt in der App anzeigen, bearbeiten oder löschen — ohne Anfrage an uns.
+Da Journeyfolio alle Daten lokal speichert und wir auf unserer Seite nichts erheben, haben Sie bereits die vollständige Kontrolle über Ihre Informationen. Sie können Ihre Daten jederzeit direkt in der App anzeigen, bearbeiten oder löschen, ganz ohne Anfrage an uns.
 
 ## Datenschutz für Kinder
 

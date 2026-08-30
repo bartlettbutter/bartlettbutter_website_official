@@ -43,16 +43,9 @@ Ninguno de estos datos se transmite externamente. Todos se eliminan automáticam
 
 ## Solicitudes de Red
 
-La Aplicación se conecta a los siguientes servicios únicamente para obtener contenido para mostrar (perfiles de razas, imágenes y preguntas de juegos):
+La Aplicación se conecta a servicios de referencia de razas de perros de terceros únicamente para obtener contenido para mostrar: perfiles de razas (temperamento, estadísticas, historia), imágenes de razas y fotos de concurso. Estas son solicitudes estándar de obtención de contenido.
 
-| Servicio | Propósito | Datos Personales Enviados |
-|----------|-----------|---------------------------|
-| The Dog API | Información de razas (temperamento, estadísticas, historia) | Ninguno |
-| dogapi.dog | Información adicional de razas y datos curiosos de perros para la trivia | Ninguno |
-| Dog CEO API | Imágenes de razas y fotos de quiz | Ninguno |
-| Wikipedia | Imágenes de referencia de razas | Ninguno |
-
-Estas son solicitudes estándar de obtención de contenido. No se incluyen datos personales, identificadores de dispositivo ni información de rastreo en ninguna solicitud.
+**No se incluyen datos personales, identificadores de dispositivo ni información de rastreo en ninguna solicitud.** Ninguna solicitud te identifica, y nunca se transmiten datos de analíticas ni de publicidad.
 
 ## Compartición de Datos
 
@@ -69,7 +62,7 @@ No vendemos, alquilamos ni compartimos ningún dato de usuario con terceros. No 
 
 ## Retención y Eliminación de Datos
 
-Ya que no recopilamos datos en nuestros servidores, no hay nada que retener o eliminar de nuestro lado. Todos los datos almacenados localmente — incluidos los favoritos y el historial de escaneos — se eliminan automáticamente cuando desinstalas la Aplicación de tu dispositivo.
+Ya que no recopilamos datos en nuestros servidores, no hay nada que retener o eliminar de nuestro lado. Todos los datos almacenados localmente, incluidos los favoritos y el historial de escaneos, se eliminan automáticamente cuando desinstalas la Aplicación de tu dispositivo.
 
 ## Tus Derechos
 

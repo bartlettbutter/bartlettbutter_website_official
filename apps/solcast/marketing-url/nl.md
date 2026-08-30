@@ -12,9 +12,9 @@ redirect_from:
 
 # Weet precies hoe je je kleedt, plant en je dag beschermt.
 
-Solcast is een gratis weer-app die verder gaat dan de voorspelling. Het vertelt je wat je moet dragen, wanneer je een paraplu moet meenemen en hoe je je gezin comfortabel houdt — allemaal gepersonaliseerd op jouw leven en geleverd in gewone taal.
+Solcast is een gratis weer-app die verder gaat dan de voorspelling. Het vertelt je wat je moet dragen, wanneer je een paraplu moet meenemen en hoe je je gezin comfortabel houdt, allemaal gepersonaliseerd op jouw leven en geleverd in gewone taal.
 
-Geen advertenties. Geen abonnementen. Geen accounts. Gewoon openen en gaan.
+Geen advertenties. Geen accounts. Gratis te gebruiken, met een optionele Premium-upgrade. Gewoon openen en gaan.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/solcast/id6763927556)
 
@@ -22,7 +22,7 @@ Geen advertenties. Geen abonnementen. Geen accounts. Gewoon openen en gaan.
 
 - **Antwoorden, geen cijfers.** In plaats van zelf luchtvochtigheidspercentages en UV-indexen te ontcijferen, geeft Solcast je duidelijke actiepunten: "Breng SPF 50 aan voor de lunch", "Neem regenkleding mee voor de kinderen" of "Laat je hond uit na zonsondergang, wanneer het wegdek afkoelt".
 - **Gepersonaliseerd op hoe jij leeft.** Stel je gevoeligheden, kledingstijl en huishouden (kinderen, huisdieren, auto's) in en elke aanbeveling past zich direct aan. Het advies dat een migrainegevoelige ouder ziet, verschilt van dat van een buitensporter.
-- **Blijft je dag voor.** Solcast detecteert wanneer het weer verandert tussen ochtend, middag en avond — zodat je weet dat je voor later een laag moet meenemen of de paraplu na de middag thuis kunt laten.
+- **Blijft je dag voor.** Solcast detecteert wanneer het weer verandert tussen ochtend, middag en avond, zodat je weet dat je voor later een laag moet meenemen of de paraplu na de middag thuis kunt laten.
 - **100% privé.** Alles wordt op je apparaat berekend. Geen aanmelding, geen tracking, geen gegevensverzameling. Je locatie wordt alleen gebruikt om het weer op te halen en wordt nooit opgeslagen.
 
 ## In één oogopslag
@@ -32,7 +32,7 @@ Geen advertenties. Geen abonnementen. Geen accounts. Gewoon openen en gaan.
 - **Uurstrook** — scroll door de komende 24 uur om te plannen rond regen, UV-pieken of temperatuurdalingen
 - **16 Lifestyle-indexen** — UV, SPF, allergie, luchtkwaliteit, hydratatie, comfort, grieprisico en meer
 - **7-daagse Voorspelling** — temperatuur, wind, UV, neerslag, luchtkwaliteit en pollen in één overzicht
-- **Meerdere locaties** — sla tot 10 steden op, elk weergegeven in hun lokale tijdzone
+- **Meerdere locaties** — sla tot 4 steden gratis op (onbeperkt met Premium), elk weergegeven in hun lokale tijdzone
 
 ## Gemaakt voor jouw huishouden
 
@@ -46,7 +46,7 @@ Geen advertenties. Geen abonnementen. Geen accounts. Gewoon openen en gaan.
 
 ## Begin in enkele seconden
 
-1. Start — geen account nodig
+1. Start, geen account nodig
 2. Sta locatie toe of zoek een stad
 3. Bekijk direct je gepersonaliseerde dashboard
 4. Verfijn voorkeuren op elk moment in Instellingen

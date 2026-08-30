@@ -25,7 +25,7 @@ Uma chave de API gratuita da Finnhub desbloqueia preços ao vivo, notícias e da
 
 ### Preciso de conexão com a internet?
 
-Sim, para preços ao vivo, notícias, sentimento e dados de fundos. No entanto, o modelo de IA no dispositivo funciona totalmente offline após o download, então nenhuma internet é necessária para a análise gerada por IA.
+Sim, para preços ao vivo, notícias, sentimento e dados de fundos. A análise dos argumentos de alta e de risco é gerada instantaneamente no seu dispositivo a partir dos dados já exibidos na tela, portanto não precisa de nenhuma conexão adicional.
 
 ### Quanto custa o ETFWise?
 
@@ -45,13 +45,9 @@ O ETFWise é gratuito para baixar na App Store. Não há assinaturas nem anúnci
 | Temática | IA e robótica, energia limpa, cibersegurança, nuvem, veículos elétricos |
 | Dividendos | Alto rendimento, crescimento de dividendos, aristocratas, estratégias de renda |
 
-### O que é a IA no dispositivo?
+### Como os argumentos de alta e de risco são gerados?
 
-O ETFWise inclui um modelo de linguagem leve que roda localmente no seu dispositivo. Ele gera argumentos de alta e de risco usando os dados reais exibidos na tela, incluindo preço, retornos, sentimento e notícias. Todo o processamento acontece no seu dispositivo e nada é enviado a servidores externos.
-
-### Como faço o download do modelo de IA?
-
-Se o modelo não estiver pré-instalado, você verá um cartão "Baixar Modelo" na tela principal e nas visualizações de detalhes de ETF. Toque nele para baixar (aproximadamente 290 MB). Uma barra de progresso mostra o status do download. Após a conclusão, o modelo é salvo localmente para uso futuro.
+O ETFWise cria cada argumento de alta e de risco no seu dispositivo a partir dos dados reais já exibidos para aquele ETF: preço, retornos, sentimento, taxa de despesas e mais. A geração é instantânea, não requer download nem conta, e nada é enviado a servidores externos.
 
 ### Como funciona o sentimento de notícias?
 
@@ -67,7 +63,7 @@ Sim. Sem contas, sem análises, sem rastreamento. Apenas símbolos de tickers s�
 
 ### O que acontece se eu excluir o aplicativo?
 
-Desinstalar o ETFWise remove permanentemente todos os dados armazenados localmente, incluindo recomendações em cache, análise de IA e sua chave de API. Como não há backup na nuvem, isso não pode ser desfeito.
+Desinstalar o ETFWise remove permanentemente todos os dados armazenados localmente, incluindo recomendações em cache, análise gerada e sua chave de API. Como não há backup na nuvem, isso não pode ser desfeito.
 
 ## Solução de Problemas
 
@@ -79,9 +75,9 @@ Certifique-se de ter inserido uma chave de API válida da Finnhub (obtenha uma g
 
 Isso geralmente significa que uma solicitação de rede falhou. Verifique sua conexão com a internet e toque em "Tentar novamente". Se você estiver usando uma chave de API da Finnhub, verifique se ela está inserida corretamente nas configurações do aplicativo.
 
-### Os argumentos de alta e de risco não estão sendo gerados
+### Os argumentos de alta e de risco não estão aparecendo
 
-O modelo de IA no dispositivo precisa ser baixado primeiro. Procure o cartão "Baixar Modelo" na tela principal ou na visualização de detalhes do ETF e toque para baixar.
+Os argumentos de alta e de risco são criados a partir dos dados de preço, desempenho e sentimento de um ETF. Se não aparecerem, esses dados subjacentes ainda não terminaram de carregar: certifique-se de estar conectado à internet e, em seguida, reabra a visualização de detalhes do ETF.
 
 ### Os dados do fundo (participações, desempenho) não carregam
 

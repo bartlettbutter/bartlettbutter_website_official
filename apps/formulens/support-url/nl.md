@@ -11,7 +11,7 @@ redirect_from:
 
 # Hoe kunnen we je helpen?
 
-We willen dat FormuLens uitstekend voor je werkt. Blader door de onderwerpen hieronder voor snelle antwoorden, of [e-mail ons](mailto:contact@bartlettbutter.com) wanneer je maar wilt — we helpen je graag.
+We willen dat FormuLens uitstekend voor je werkt. Blader door de onderwerpen hieronder voor snelle antwoorden, of [e-mail ons](mailto:contact@bartlettbutter.com) wanneer je maar wilt. We helpen je graag.
 
 ## Aan de slag
 
@@ -61,7 +61,7 @@ De interface van de app is momenteel in het Engels, met meer talen in de plannin
 
 ### Wat betekenen de kleuren?
 
-Elk ingrediënt is kleurgecodeerd op functie — bijvoorbeeld hydraterend, antioxidant, zonbescherming of anti-veroudering. Dit geeft je een directe visuele kaart van waar een product voor is ontworpen.
+Elk ingrediënt is kleurgecodeerd op functie, bijvoorbeeld hydraterend, antioxidant, zonbescherming of anti-veroudering. Dit geeft je een directe visuele kaart van waar een product voor is ontworpen.
 
 ### Wat betekenen de labels "belangrijk" en "ongewoon"?
 
@@ -99,11 +99,11 @@ Zorg voor de beste resultaten dat de ingrediëntenlijst:
 - Plat tegen een oppervlak ligt (maak het etiket vlak indien mogelijk)
 - Groot genoeg in beeld is om duidelijk te lezen
 
-Fotografeer bij gebogen flessen één deel tegelijk en voeg elk als een aparte foto toe — FormuLens voegt ze samen.
+Fotografeer bij gebogen flessen één deel tegelijk en voeg elk als een aparte foto toe, en FormuLens voegt ze samen.
 
 ### Sommige ingrediënten worden als "niet herkend" weergegeven
 
-FormuLens bevat een grote database met veelvoorkomende cosmetische ingrediënten. Zeer nieuwe, zeldzame of regiospecifieke ingrediënten zijn mogelijk nog niet geclassificeerd. De naam van het ingrediënt verschijnt nog steeds — alleen het automatische functielabel is niet beschikbaar.
+FormuLens bevat een grote database met veelvoorkomende cosmetische ingrediënten. Zeer nieuwe, zeldzame of regiospecifieke ingrediënten zijn mogelijk nog niet geclassificeerd. De naam van het ingrediënt verschijnt nog steeds; alleen het automatische functielabel is niet beschikbaar.
 
 ### Er zijn geen ingrediënten gevonden op mijn foto
 
@@ -143,11 +143,11 @@ Het verwijderen van FormuLens wist alle opgeslagen analyses permanent van je app
 
 ### Waarom vraagt de app om cameratoegang?
 
-Zodat je ingrediëntenlijsten rechtstreeks kunt fotograferen. Deze machtiging is optioneel — je kunt altijd in plaats daarvan een foto uit je bibliotheek kiezen.
+Zodat je ingrediëntenlijsten rechtstreeks kunt fotograferen. Deze machtiging is optioneel; je kunt altijd in plaats daarvan een foto uit je bibliotheek kiezen.
 
 ### Waarom vraagt de app om toegang tot de fotobibliotheek?
 
-Zodat je een bestaande foto van een ingrediëntenlijst kunt selecteren. Dit is optioneel — je kunt in plaats daarvan de camera gebruiken.
+Zodat je een bestaande foto van een ingrediëntenlijst kunt selecteren. Dit is optioneel; je kunt in plaats daarvan de camera gebruiken.
 
 ### Heeft FormuLens toegang tot mijn locatie, microfoon of contacten?
 

@@ -31,7 +31,7 @@ Journeyfolio ("o aplicativo") é desenvolvido pela Bartlett Butter. Esta políti
 
 ## Os Dados das suas Viagens
 
-Todas as informações que você cria — destinos, datas, atividades, números de voo, detalhes de hotéis, documentos anexados e notas — são armazenadas **apenas localmente no seu dispositivo**. Esses dados nunca saem do seu dispositivo, exceto quando o aplicativo se comunica com serviços de terceiros (descritos abaixo) para obter conteúdo que você solicitou explicitamente.
+Todas as informações que você cria, incluindo destinos, datas, atividades, números de voo, detalhes de hotéis, documentos anexados e notas, são armazenadas **apenas localmente no seu dispositivo**. Esses dados nunca saem do seu dispositivo, exceto quando o aplicativo se comunica com serviços de terceiros (descritos abaixo) para obter conteúdo que você solicitou explicitamente.
 
 ## Assinaturas e Compras
 
@@ -41,7 +41,7 @@ O Journeyfolio oferece assinaturas opcionais de renovação automática processa
 
 O Journeyfolio **não** acessa o GPS do seu dispositivo nem rastreia sua localização física.
 
-Quando você adiciona um destino ou busca lugares, suas consultas de busca são enviadas aos servidores da Apple para retornar resultados. Nomes de cidades são enviados à Apple para geocodificação e dados meteorológicos. Códigos de país são enviados ao Nager.Date para informações sobre feriados. Nenhum outro dado de localização é coletado ou transmitido.
+Quando você adiciona um destino ou busca lugares, suas consultas de busca são enviadas aos servidores da Apple para retornar resultados. Nomes de cidades são enviados à Apple para geocodificação e dados meteorológicos. Códigos de país são enviados a um serviço de feriados para informações sobre feriados. Nenhum outro dado de localização é coletado ou transmitido.
 
 ## Permissões do Dispositivo
 
@@ -54,14 +54,14 @@ Ambas as permissões são opcionais. O aplicativo funciona plenamente sem elas. 
 
 ## Serviços de Terceiros
 
-O aplicativo se conecta aos seguintes serviços exclusivamente para exibir o conteúdo que você solicitou. Nenhum dado pessoal ou identificador de dispositivo é enviado — apenas as informações mínimas necessárias para atender a cada solicitação.
+O aplicativo se conecta aos seguintes serviços exclusivamente para exibir o conteúdo que você solicitou. Nenhum dado pessoal ou identificador de dispositivo é enviado, apenas as informações mínimas necessárias para atender a cada solicitação.
 
 | Serviço | Finalidade | Dados Enviados | Informações de Privacidade |
 |---------|------------|----------------|----------------------------|
 | Apple Weather e Maps | Previsões do tempo, busca de localização, resolução de fuso horário | Nomes de cidades, coordenadas | [Política de Privacidade da Apple](https://www.apple.com/legal/privacy/) |
-| OpenWeatherMap | Dados meteorológicos de reserva | Nomes de cidades | [Política de Privacidade da OpenWeatherMap](https://openweather.co.uk/privacy-policy) |
-| FlightAware | Verificação de horários de voo e status ao vivo | Números de voo, datas | [Política de Privacidade da FlightAware](https://www.flightaware.com/legal/privacy/) |
-| Nager.Date | Informações sobre feriados | Códigos de país, ano | [Nager.Date](https://date.nager.at) |
+| Serviço meteorológico de terceiros | Dados meteorológicos de reserva | Nomes de cidades | Nenhuma |
+| Serviço de dados de voo | Verificação de horários de voo e status ao vivo | Números de voo, datas | Nenhuma |
+| Serviço de feriados | Informações sobre feriados | Códigos de país, ano | Nenhuma |
 
 ## Compartilhamento de Dados
 
@@ -69,13 +69,13 @@ Não vendemos, alugamos, licenciamos nem compartilhamos seus dados com nenhum te
 
 ## Retenção e Exclusão de Dados
 
-Os dados das suas viagens permanecem no seu dispositivo até você optar por excluí-los — seja dentro do aplicativo ou desinstalando-o. Desinstalar remove permanentemente todos os dados armazenados. Não há backup nem sincronização na nuvem.
+Os dados das suas viagens permanecem no seu dispositivo até você optar por excluí-los, seja dentro do aplicativo ou desinstalando-o. Desinstalar remove permanentemente todos os dados armazenados. Não há backup nem sincronização na nuvem.
 
 **Você está sempre no controle.** Exclua qualquer viagem ou atividade a qualquer momento deslizando para a esquerda dentro do aplicativo.
 
 ## Seus Direitos
 
-Como o Journeyfolio armazena todos os dados localmente e não coletamos nada do nosso lado, você já tem controle completo sobre suas informações. Você pode visualizar, editar ou excluir seus dados a qualquer momento diretamente dentro do aplicativo — sem necessidade de solicitação a nós.
+Como o Journeyfolio armazena todos os dados localmente e não coletamos nada do nosso lado, você já tem controle completo sobre suas informações. Você pode visualizar, editar ou excluir seus dados a qualquer momento diretamente dentro do aplicativo, sem necessidade de solicitação a nós.
 
 ## Privacidade das Crianças
 

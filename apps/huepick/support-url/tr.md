@@ -25,7 +25,7 @@ Hayır. Huepick'te hesap, kayıt veya oturum açma yoktur. Sadece uygulamayı a�
 
 ### İnternet bağlantısı gerekli mi?
 
-Neredeyse her şey çevrimdışı çalışır — renk çıkarma, paletler, yaratıcı araçlar ve kaydetme. Tek isteğe bağlı ağ özelliği, kaydedilen paletlerde fotoğraf konum koordinatlarını bir yer adına (örneğin "Seattle, WA") dönüştürmektir.
+Neredeyse her şey çevrimdışı çalışır; buna renk çıkarma, paletler, yaratıcı araçlar ve kaydetme dahildir. Tek isteğe bağlı ağ özelliği, kaydedilen paletlerde fotoğraf konum koordinatlarını bir yer adına (örneğin "Seattle, WA") dönüştürmektir.
 
 ### Huepick gerçekten ücretsiz mi?
 
@@ -35,13 +35,13 @@ Evet. Uygulama içi satın alma yok, abonelik yok, reklam yok. İndirdiğiniz an
 
 ### Üç sekme nedir?
 
-- **Analiz** — bir fotoğraf çekin veya seçin, renk çıkarın, paletler oluşturun, ayrıntılı renk analizini görüntüleyin ve kişiselleştirilmiş yaratıcı araç önerileri alın
-- **Playground** — fotoğrafınızı beş yaratıcı araçla dönüştürün (İzole, Duotone, Pikselleştir, Bulanıklaştır, Glitch)
+- **Analiz** — bir fotoğraf çekin veya seçin, 12 renkli bir palet çıkarın, ayrıntılı renk analizini görüntüleyin ve kişiselleştirilmiş yaratıcı araç önerileri alın
+- **Playground** — fotoğrafınızı altı yaratıcı araçla dönüştürün (İzole, Duotone, Tritone, Pikselleştir, Bulanıklaştır, Glitch)
 - **Galeri** — kaydedilen oluşturmalarınıza göz atın, yeniden düzenleyin, indirin veya paylaşın
 
-### Bir paleti nasıl oluştururum?
+### Renk analizi nasıl çalışır?
 
-Renkleri çıkardıktan sonra, altı uyum türünden birini (Tamamlayıcı veya Analog gibi) ve beş gerçek dünya senaryosundan birini (Ev Dekorasyonu veya Arayüz Tasarımı gibi) seçin. Huepick, projenize uyarlanmış etiketli renk rolleriyle bir palet oluşturur.
+Huepick 12 renkli paletinizi çıkardıktan sonra, Analiz sekmesi bunu görsel kartlarla ayrıntılandırır: genel bakış (renk çeşitliliği, çeşitlilik puanı, ton dağılımı aralığı), ton dağılımı, renk sıcaklığı (sıcak/soğuk/nötr), parlaklık ve kontrast, doygunluk ve hex değerleriyle renk bazında ayrıntılı döküm. Paletinize göre Huepick, fotoğrafınıza en uygun yaratıcı araçların hangileri olduğunu da önerir.
 
 ### Bir hex kodunu nasıl kopyalarım?
 
@@ -51,8 +51,9 @@ Herhangi bir renk örneğine dokunun. Hex kodunun panonuzda olduğunu bildiren k
 
 - **İzole** — seçili renkleri canlı tutarken geri kalanı gri tonlamaya çevirin (veya tam tersi)
 - **Duotone** — cesur, editöryel bir görünüm için görüntünüzü iki tona yeniden eşleyin
-- **Pikselleştir** — ayarlanabilir blok boyutuyla geometrik piksel sanatına dönüştürün
-- **Bulanıklaştır** — ayarlanabilir yoğunlukla yumuşak, düşsel bir odak ekleyin
+- **Tritone** — daha zengin, dereceli bir görünüm için görüntünüzü üç tona yeniden eşleyin
+- **Pikselleştir** — ayarlanabilir karo boyutuyla geometrik karolardan oluşan bir mozaiğe dönüştürün
+- **Bulanıklaştır** — bulanıklık stili seçeneği ve ayarlanabilir yoğunlukla yumuşak, düşsel bir odak ekleyin
 - **Glitch** — RGB kanal ayrımı ve dijital bozulma uygulayın
 
 ### Bir oluşturmayı nasıl kaydederim?
@@ -71,7 +72,7 @@ Galeride oluşturmaya uzun basın ve "Sil"i seçin. Onaylamanız istenir.
 
 ### Verilerim nerede saklanır?
 
-Her şey — kaydedilen paletler ve oluşturmalar — cihazınızda yerel olarak saklanır. Sunucumuz, bulut depolamamız veya verilerinize erişimimiz yoktur.
+Kaydedilen paletler ve oluşturmalar dahil her şey cihazınızda yerel olarak saklanır. Sunucumuz, bulut depolamamız veya verilerinize erişimimiz yoktur.
 
 ### Fotoğraflarım bir yere yükleniyor mu?
 
@@ -97,7 +98,7 @@ Renk çıkarma, iyi aydınlatılmış, net odaklanmış fotoğraflarla en iyi ş
 
 ### Bir yaratıcı araç yavaş görünüyor
 
-Tüm işlemler cihazınızın donanımında çalışır. Daha büyük, yüksek çözünürlüklü fotoğraflar bir an sürebilir — bu, beklenen bir davranıştır, hata değildir.
+Tüm işlemler cihazınızın donanımında çalışır. Daha büyük, yüksek çözünürlüklü fotoğraflar bir an sürebilir; bu, beklenen bir davranıştır, hata değildir.
 
 ### Uygulama sürekli çöküyor
 

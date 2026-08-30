@@ -42,16 +42,9 @@ None of this data is transmitted externally. All of it is automatically removed 
 
 ## Network Requests
 
-The App connects to the following services solely to fetch display content (breed profiles, images, and game questions):
+The App connects to third-party dog-breed reference services solely to fetch display content: breed profiles (temperament, stats, history), breed images, and quiz photos. These are standard content-fetch requests.
 
-| Service | Purpose | Personal Data Sent |
-|---------|---------|-------------------|
-| The Dog API | Breed information (temperament, stats, history) | None |
-| dogapi.dog | Additional breed info and dog facts for trivia | None |
-| Dog CEO API | Breed images and quiz photos | None |
-| Wikipedia | Breed reference images | None |
-
-These are standard content-fetch requests. No personal data, device identifiers, or tracking information is included in any request.
+**No personal data, device identifiers, or tracking information is included in any request.** No request identifies you, and no analytics or advertising data is ever transmitted.
 
 ## Data Sharing
 
@@ -68,7 +61,7 @@ We do not sell, rent, or share any user data with third parties. There is no use
 
 ## Data Retention and Deletion
 
-Since we collect no data on our servers, there is nothing to retain or delete on our end. All locally stored data — including favorites and scan history — is automatically removed when you delete the App from your device.
+Since we collect no data on our servers, there is nothing to retain or delete on our end. All locally stored data, including favorites and scan history, is automatically removed when you delete the App from your device.
 
 ## Your Rights
 

@@ -11,7 +11,7 @@ redirect_from:
 
 **Yürürlük Tarihi:** 8 Temmuz 2026
 
-Solcast ("Uygulama"), iPhone ve iPad için ücretsiz bir hava durumu ve yaşam tarzı rehberliği uygulamasıdır. Gizlilik, onu geliştirme şeklimizin merkezindedir. Bu politika, Solcast'i kullandığınızda hangi verilerin söz konusu olduğunu — ve daha da önemlisi, hangilerinin olmadığını — tam olarak açıklar.
+Solcast ("Uygulama"), iPhone ve iPad için ücretsiz bir hava durumu ve yaşam tarzı rehberliği uygulamasıdır. Gizlilik, onu geliştirme şeklimizin merkezindedir. Bu politika, Solcast'i kullandığınızda hangi verilerin söz konusu olduğunu ve daha da önemlisi hangilerinin olmadığını tam olarak açıklar.
 
 ## Kısa Versiyon
 
@@ -59,7 +59,7 @@ Solcast tek bir izin ister:
 |------|------|
 | **Konum (Kullanılırken)** | Mevcut konumunuz için hava durumu, hava kalitesi ve polen verilerini almak |
 
-Başka hiçbir izin istenmez — kamera, kişiler, mikrofon, bildirimler, izleme veya başka bir şey.
+Başka hiçbir izin istenmez: kamera, kişiler, mikrofon, bildirimler, izleme veya başka bir şey.
 
 ## Üçüncü Taraf Hizmetleri
 
@@ -68,9 +68,9 @@ Uygulama, hava durumu ve çevresel verileri almak için aşağıdaki hizmetlere 
 | Hizmet | Ne Sağlar | Gönderilen Veri |
 |--------|-----------|-----------------|
 | [Apple Hava Durumu](https://www.apple.com/legal/privacy/) | Hava durumu tahminleri ve koşulları | Yalnızca coğrafi koordinatlar |
-| [Open-Meteo](https://open-meteo.com/en/terms) | Ek tahminler, hava kalitesi, polen | Yalnızca coğrafi koordinatlar |
+| Üçüncü taraf hava durumu ve çevresel hizmetler | Ek tahminler, hava kalitesi, polen | Yalnızca coğrafi koordinatlar |
 | [Apple Haritalar](https://www.apple.com/legal/privacy/) | Konum arama ve şehir adı görüntüleme | Yalnızca arama sorgusu veya koordinatlar |
-| [Nager.Date](https://github.com/nager/Nager.Date) | Resmi tatil algılama | Yalnızca ülke kodu (ör. "US") |
+| Resmi tatil hizmeti | Resmi tatil algılama | Yalnızca ülke kodu (ör. "US") |
 
 **Bu hizmetlere asla kişisel veri, cihaz tanımlayıcısı, reklam kimliği veya kullanıcı tercihi gönderilmez.**
 
@@ -92,7 +92,7 @@ Solcast, 13 yaşın altındaki çocuklar (veya yargı bölgenizde geçerli olan 
 
 ## Uluslararası Kullanıcılar
 
-Solcast hiçbir kişisel veri toplamadığından, kişisel bilgilerin sınır ötesi aktarımı gerçekleşmez. Hava durumu ve tatil istekleri yalnızca coğrafi koordinatlar veya ülke kodları içerir — konumunuzdan bağımsız olarak hiçbir kişisel veri veya cihaz tanımlayıcısı dahil edilmez.
+Solcast hiçbir kişisel veri toplamadığından, kişisel bilgilerin sınır ötesi aktarımı gerçekleşmez. Hava durumu ve tatil istekleri yalnızca coğrafi koordinatlar veya ülke kodları içerir. Konumunuzdan bağımsız olarak hiçbir kişisel veri veya cihaz tanımlayıcısı dahil edilmez.
 
 ## Bu Politikadaki Değişiklikler
 

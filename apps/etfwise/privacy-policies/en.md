@@ -10,7 +10,7 @@ redirect_from:
 
 **Effective Date:** April 25, 2026
 
-ETFWise ("the App") is a free iOS application that provides daily ETF recommendations with live market data and on-device AI analysis. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
+ETFWise ("the App") is a free iOS application that provides daily ETF recommendations with live market data and instant on-device analysis. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
 
 ## The Short Version
 
@@ -21,7 +21,7 @@ ETFWise ("the App") is a free iOS application that provides daily ETF recommenda
 | Is there tracking or analytics? | No |
 | Are there ads? | No |
 | Is my data sold or shared? | No |
-| Does AI analysis leave my device? | No |
+| Does the analysis leave my device? | No |
 | Can children use the app safely? | Yes |
 
 The only data sent externally is ETF ticker symbols to fetch market data. Your Finnhub API key is stored securely on-device and sent only to Finnhub.
@@ -35,26 +35,25 @@ None. We do not collect, store, or transmit any personal information to our serv
 All app data is stored locally on your device:
 
 - Daily ETF recommendations and cached market prices
-- News sentiment scores and AI-generated analysis
+- News sentiment scores and generated analysis
 - Your Finnhub API key (stored securely in on-device storage)
-- The downloaded AI model file
 
 This data is refreshed daily and is never uploaded to external servers.
 
 ## Third-Party Services
 
-ETFWise connects to financial data providers solely to fetch market data for display. The only information sent is ETF ticker symbols and date ranges. No personal data, device identifiers, or location information is transmitted.
+ETFWise connects to third-party financial data providers solely to fetch market data for display. If you choose to supply one, your own Finnhub API key is used for live quotes and news.
 
-| Service | What It Provides | Data Sent | Privacy Info |
-|---|---|---|---|
-| Finnhub | Real-time quotes, news, sentiment, analyst data | Ticker symbols, date ranges, your API key | [Privacy Policy](https://finnhub.io/privacy-policy) |
-| Yahoo Finance | Fund size, holdings, sector weights, performance | Ticker symbols | [Privacy Policy](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) |
-| Polymarket | Prediction market probabilities | Public event data only | [Privacy Policy](https://polymarket.com/privacy) |
-| HuggingFace | Hosts the AI model file for one-time download | Model file download only | [Privacy Policy](https://huggingface.co/privacy) |
+| Data Sent | Personal Data Included |
+|---|---|
+| ETF ticker symbols and date ranges | None |
+| Your Finnhub API key (only to Finnhub, for authentication) | None |
 
-## On-Device AI Processing
+No device identifiers, location, or tracking information is included in any request.
 
-The AI model runs entirely on your device. All inference, including bull cases, risk cases, and fund descriptions, happens locally. No prompts, inputs, or outputs are sent to any external server for AI processing.
+## On-Device Analysis
+
+The bull cases, risk cases, and fund descriptions are generated entirely on your device from the market data already fetched for each ETF. This analysis involves no separate download and no external server. Nothing about it is sent off your device.
 
 ## API Key Security
 
@@ -70,7 +69,7 @@ ETFWise does not request access to your camera, location, contacts, microphone, 
 
 ## Data Retention and Deletion
 
-Since we collect no personal data on our servers, there is nothing to retain or delete on our end. All locally stored data, including recommendations, cached prices, AI analysis, and your API key, is permanently removed when you delete the app from your device.
+Since we collect no personal data on our servers, there is nothing to retain or delete on our end. All locally stored data, including recommendations, cached prices, generated analysis, and your API key, is permanently removed when you delete the app from your device.
 
 ## Your Rights
 

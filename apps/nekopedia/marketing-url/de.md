@@ -27,7 +27,7 @@ Lerne Nekopedia kennen, das Katzenlexikon für die Hosentasche, das jede Rasse i
 
 Jeder Scan öffnet die Tür zu einem vollständigen Rassenprofil: Temperament, Herkunft, Geschichte, Lebenserwartung, Gewicht, Größe und Fotos, für alle 48 Rassen.
 
-Lust zu stöbern? Der Entdecken-Tab lässt dich Rassen nach Namen durchsuchen oder über eine interaktive Weltkarte wandern, die zeigt, wo jede Rasse begonnen hat. Ein Ergebnis gefällt dir? Speichere es in den Favoriten und komm jederzeit zurück – alles privat auf deinem Gerät gespeichert.
+Lust zu stöbern? Der Entdecken-Tab lässt dich Rassen nach Namen durchsuchen oder über eine interaktive Weltkarte wandern, die zeigt, wo jede Rasse begonnen hat. Ein Ergebnis gefällt dir? Speichere es in den Favoriten und komm jederzeit zurück. Alles wird privat auf deinem Gerät gespeichert.
 
 Bereit für eine Herausforderung? Das Rassen-Quiz gibt dir ein Foto und vier Auswahlmöglichkeiten, zehn Runden am Stück, und vergibt Belohnungstitel, während du aufsteigst. Kannst du eine Siamkatze von einer Birma unterscheiden? Oder wechsle zu Katzen-Trivia, Richtig-oder-Falsch-Runden, die echte Katzenfakten mit verlockenden Mythen mischen, um zu sehen, wie geschärft dein Katzengespür wirklich ist.
 

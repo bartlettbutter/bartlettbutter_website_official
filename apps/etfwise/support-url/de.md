@@ -25,7 +25,7 @@ Ein kostenloser Finnhub-API-Schlüssel schaltet Live-Preise, Nachrichten und Ana
 
 ### Brauche ich eine Internetverbindung?
 
-Ja, für Live-Preise, Nachrichten, Stimmung und Fondsdaten. Das geräteinterne KI-Modell läuft jedoch nach dem Download vollständig offline, sodass für die KI-generierte Analyse kein Internet erforderlich ist.
+Ja, für Live-Preise, Nachrichten, Stimmung und Fondsdaten. Die Analyse der Bull- und Risiko-Szenarien wird sofort auf deinem Gerät aus den bereits auf dem Bildschirm angezeigten Daten erstellt, sodass dafür keine zusätzliche Verbindung erforderlich ist.
 
 ### Wie viel kostet ETFWise?
 
@@ -45,13 +45,9 @@ ETFWise ist kostenlos im App Store erhältlich. Es gibt keine Abonnements und ke
 | Themen | KI und Robotik, saubere Energie, Cybersicherheit, Cloud, E-Fahrzeuge |
 | Dividenden | Hochzins, Dividendenwachstum, Aristokraten, Einkommensstrategien |
 
-### Was ist die geräteinterne KI?
+### Wie werden die Bull- und Risiko-Szenarien erstellt?
 
-ETFWise enthält ein leichtgewichtiges Sprachmodell, das lokal auf deinem Gerät läuft. Es generiert Bull- und Risiko-Szenarien anhand der auf dem Bildschirm angezeigten realen Daten, einschließlich Preis, Renditen, Stimmung und Nachrichten. Die gesamte Verarbeitung erfolgt auf deinem Gerät, und nichts wird an externe Server gesendet.
-
-### Wie lade ich das KI-Modell herunter?
-
-Wenn das Modell nicht vorinstalliert ist, siehst du auf dem Hauptbildschirm und in den ETF-Detailansichten eine Karte „Modell herunterladen". Tippe darauf, um es herunterzuladen (ca. 290 MB). Ein Fortschrittsbalken zeigt den Download-Status an. Nach Abschluss wird das Modell lokal für die zukünftige Verwendung gespeichert.
+ETFWise erstellt jedes Bull- und Risiko-Szenario auf deinem Gerät aus den realen Daten, die bereits für diesen ETF angezeigt werden, etwa Preis, Renditen, Stimmung, Kostenquote und mehr. Die Erstellung erfolgt sofort, erfordert keinen Download und kein Konto, und nichts wird an externe Server gesendet.
 
 ### Wie funktioniert die Nachrichtenstimmung?
 
@@ -67,7 +63,7 @@ Ja. Keine Konten, keine Analysen, kein Tracking. Nur Tickersymbole werden an Fin
 
 ### Was passiert, wenn ich die App lösche?
 
-Die Deinstallation von ETFWise entfernt dauerhaft alle lokal gespeicherten Daten, einschließlich zwischengespeicherter Empfehlungen, KI-Analysen und deines API-Schlüssels. Da es keine Cloud-Sicherung gibt, kann dies nicht rückgängig gemacht werden.
+Die Deinstallation von ETFWise entfernt dauerhaft alle lokal gespeicherten Daten, einschließlich zwischengespeicherter Empfehlungen, generierter Analysen und deines API-Schlüssels. Da es keine Cloud-Sicherung gibt, kann dies nicht rückgängig gemacht werden.
 
 ## Fehlerbehebung
 
@@ -79,9 +75,9 @@ Stelle sicher, dass du einen gültigen Finnhub-API-Schlüssel eingegeben hast (k
 
 Dies bedeutet in der Regel, dass eine Netzwerkanfrage fehlgeschlagen ist. Überprüfe deine Internetverbindung und tippe auf „Erneut versuchen". Wenn du einen Finnhub-API-Schlüssel verwendest, vergewissere dich, dass er in den App-Einstellungen korrekt eingegeben ist.
 
-### Bull- und Risiko-Szenarien werden nicht generiert
+### Bull- und Risiko-Szenarien werden nicht angezeigt
 
-Das geräteinterne KI-Modell muss zuerst heruntergeladen werden. Suche die Karte „Modell herunterladen" auf dem Hauptbildschirm oder in der ETF-Detailansicht und tippe zum Herunterladen.
+Bull- und Risiko-Szenarien werden aus den Preis-, Wertentwicklungs- und Stimmungsdaten eines ETFs erstellt. Wenn sie nicht erscheinen, sind diese zugrunde liegenden Daten noch nicht vollständig geladen. Stelle sicher, dass du mit dem Internet verbunden bist, und öffne dann die ETF-Detailansicht erneut.
 
 ### Fondsdaten (Bestände, Wertentwicklung) werden nicht geladen
 

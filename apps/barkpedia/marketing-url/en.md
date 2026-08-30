@@ -11,13 +11,13 @@ redirect_from:
 
 # Every dog has a story. Discover it instantly.
 
-Snap a photo, identify the breed, and unlock everything there is to know — temperament, history, fun facts, and more. No internet needed, no sign-up, no cost.
+Snap a photo, identify the breed, and unlock everything there is to know: temperament, history, fun facts, and more. No internet needed, no sign-up, no cost.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
-## Why 100,000+ dog lovers choose Barkpedia
+## Why dog lovers choose Barkpedia
 
-- **Instant answers, anywhere.** Identify 147 breeds in seconds — at the park, the shelter, or your couch. Works completely offline.
+- **Instant answers, anywhere.** Identify 147 breeds in seconds, whether at the park, the shelter, or your couch. Works completely offline.
 - **Your privacy comes first.** Photos never leave your device. No accounts, no tracking, no ads. Period.
 - **Free forever.** No subscriptions, no in-app purchases, no paywalls. Download once and enjoy every feature.
 - **Learn, explore, and play.** Go beyond identification with detailed breed profiles, an interactive world map, and two quiz games that test (and grow) your dog knowledge.
@@ -26,7 +26,7 @@ Snap a photo, identify the breed, and unlock everything there is to know — tem
 
 ### Scan and identify
 
-Point your camera at any dog — or pick a photo from your library — and get a breed match with a confidence score. Every result links to a rich breed profile with temperament, size, energy level, origin story, and photos.
+Point your camera at any dog, or pick a photo from your library, and get a breed match with a confidence score. Every result links to a rich breed profile with temperament, size, energy level, origin story, and photos.
 
 ### Save your favorites
 
@@ -41,7 +41,7 @@ Search 147 breeds by name, or browse an interactive world map organized by count
 Put your breed knowledge to the test with two game modes:
 
 - **Breed Quiz** — Guess the breed from a photo. 10 questions, four choices, earn reward titles.
-- **Dog Trivia** — True or false? 10 rounds of real facts mixed with clever myths.
+- **Dog Trivia** — True or false? 10 rounds of real facts mixed with clever myths. Works completely offline.
 
 ## How it works
 
@@ -52,7 +52,7 @@ Put your breed knowledge to the test with two game modes:
 
 ## Compatibility
 
-iOS 17.0 or later · iPhone and iPad
+iOS 18.0 or later · iPhone and iPad
 
 ## Your privacy, protected
 

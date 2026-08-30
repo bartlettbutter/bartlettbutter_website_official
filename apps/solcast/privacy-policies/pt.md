@@ -11,7 +11,7 @@ redirect_from:
 
 **Data de vigência:** 8 de julho de 2026
 
-Solcast ("o Aplicativo") é um aplicativo gratuito de clima e orientação de estilo de vida para iPhone e iPad. A privacidade é central na forma como o construímos. Esta política explica exatamente quais dados estão envolvidos quando você usa o Solcast — e, mais importante, quais não estão.
+Solcast ("o Aplicativo") é um aplicativo gratuito de clima e orientação de estilo de vida para iPhone e iPad. A privacidade é central na forma como o construímos. Esta política explica exatamente quais dados estão envolvidos quando você usa o Solcast e, mais importante, quais não estão.
 
 ## Versão Resumida
 
@@ -59,7 +59,7 @@ O Solcast solicita uma permissão:
 |-----------|------------|
 | **Localização (Durante o uso)** | Obter dados de clima, qualidade do ar e pólen para sua posição atual |
 
-Nenhuma outra permissão é solicitada — nem câmera, contatos, microfone, notificações, rastreamento ou qualquer outra coisa.
+Nenhuma outra permissão é solicitada: nem câmera, contatos, microfone, notificações, rastreamento ou qualquer outra coisa.
 
 ## Serviços de Terceiros
 
@@ -68,9 +68,9 @@ O aplicativo se conecta aos seguintes serviços para obter dados meteorológicos
 | Serviço | O Que Fornece | Dados Enviados |
 |---------|---------------|----------------|
 | [Apple Weather](https://www.apple.com/legal/privacy/) | Previsões e condições meteorológicas | Apenas coordenadas geográficas |
-| [Open-Meteo](https://open-meteo.com/en/terms) | Previsões complementares, qualidade do ar, pólen | Apenas coordenadas geográficas |
+| Serviços meteorológicos e ambientais de terceiros | Previsões complementares, qualidade do ar, pólen | Apenas coordenadas geográficas |
 | [Apple Maps](https://www.apple.com/legal/privacy/) | Busca de localização e exibição do nome da cidade | Apenas a consulta de busca ou as coordenadas |
-| [Nager.Date](https://github.com/nager/Nager.Date) | Detecção de feriados | Apenas o código do país (ex.: "US") |
+| Serviço de feriados | Detecção de feriados | Apenas o código do país (ex.: "US") |
 
 **Nenhum dado pessoal, identificador de dispositivo, ID de publicidade ou preferência de usuário é enviado a esses serviços.**
 
@@ -92,7 +92,7 @@ O Solcast não coleta informações de ninguém, incluindo crianças menores de 
 
 ## Usuários Internacionais
 
-Como o Solcast não coleta dados pessoais, não ocorre nenhuma transferência transfronteiriça de informações pessoais. As solicitações de clima e feriados contêm apenas coordenadas geográficas ou códigos de país — nenhum dado pessoal ou identificador de dispositivo é incluído, independentemente da sua localização.
+Como o Solcast não coleta dados pessoais, não ocorre nenhuma transferência transfronteiriça de informações pessoais. As solicitações de clima e feriados contêm apenas coordenadas geográficas ou códigos de país. Nenhum dado pessoal ou identificador de dispositivo é incluído, independentemente da sua localização.
 
 ## Alterações a Esta Política
 

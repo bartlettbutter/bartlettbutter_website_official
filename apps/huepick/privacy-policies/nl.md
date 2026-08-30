@@ -25,7 +25,7 @@ Huepick is een gratis iOS-app om kleuren uit foto's te halen, paletten samen te 
 | Worden mijn gegevens verkocht of gedeeld? | Nee |
 | Kunnen kinderen de app veilig gebruiken? | Ja |
 
-De enige keer dat er gegevens uw apparaat verlaten, is wanneer een optionele functie de locatiecoördinaten van een foto omzet in een leesbare plaatsnaam — en alleen de coördinaten worden verzonden.
+De enige keer dat er gegevens uw apparaat verlaten, is wanneer een optionele functie de locatiecoördinaten van een foto omzet in een leesbare plaatsnaam, en alleen de coördinaten worden verzonden.
 
 ## Welke Gegevens We Verzamelen
 
@@ -33,7 +33,7 @@ De enige keer dat er gegevens uw apparaat verlaten, is wanneer een optionele fun
 
 ## Uw Foto's
 
-Wanneer u een foto maakt of selecteert, vindt alle verwerking — kleurextractie, paletgeneratie en creatieve effecten — lokaal op uw apparaat plaats. Uw foto's worden nooit ergens naartoe verzonden.
+Wanneer u een foto maakt of selecteert, vindt alle verwerking, waaronder kleurextractie, paletgeneratie en creatieve effecten, lokaal op uw apparaat plaats. Uw foto's worden nooit ergens naartoe verzonden.
 
 ## Locatiegegevens van Foto's (optioneel)
 

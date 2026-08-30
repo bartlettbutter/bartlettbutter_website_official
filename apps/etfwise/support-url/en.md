@@ -24,7 +24,7 @@ A free Finnhub API key unlocks live prices, news, and analyst data. You can get 
 
 ### Do I need an internet connection?
 
-Yes, for live prices, news, sentiment, and fund data. However, the on-device AI model runs entirely offline once downloaded, so no internet is needed for AI-generated analysis.
+Yes, for live prices, news, sentiment, and fund data. The bull and risk case analysis is generated instantly on your device from data already on screen, so it needs no additional connection.
 
 ### How much does ETFWise cost?
 
@@ -44,13 +44,9 @@ ETFWise is free to download from the App Store. There are no subscriptions and n
 | Thematic | AI & robotics, clean energy, cybersecurity, cloud, EVs |
 | Dividend | High yield, dividend growth, aristocrats, income strategies |
 
-### What is the on-device AI?
+### How are the bull and risk cases generated?
 
-ETFWise includes a lightweight language model that runs locally on your device. It generates bull cases and risk cases using the real data shown on screen, including price, returns, sentiment, and news. All processing happens on your device and nothing is sent to external servers.
-
-### How do I download the AI model?
-
-If the model isn't pre-installed, you'll see a "Download Model" card on the main screen and in ETF detail views. Tap it to download (approximately 290 MB). A progress bar shows the download status. Once complete, the model is saved locally for future use.
+ETFWise builds each bull case and risk case on your device from the real data already shown for that ETF: price, returns, sentiment, expense ratio, and more. Generation is instant, requires no download or account, and nothing is sent to external servers.
 
 ### How does news sentiment work?
 
@@ -66,7 +62,7 @@ Yes. No accounts, no analytics, no tracking. Only ticker symbols are sent to fin
 
 ### What happens if I delete the app?
 
-Uninstalling ETFWise permanently removes all locally stored data, including cached recommendations, AI analysis, and your API key. Since there is no cloud backup, this cannot be undone.
+Uninstalling ETFWise permanently removes all locally stored data, including cached recommendations, generated analysis, and your API key. Since there is no cloud backup, this cannot be undone.
 
 ## Troubleshooting
 
@@ -78,9 +74,9 @@ Make sure you've entered a valid Finnhub API key (get a free one at [finnhub.io]
 
 This usually means a network request failed. Check your internet connection and tap "Retry." If you're using a Finnhub API key, verify it's entered correctly in the app settings.
 
-### Bull and risk cases aren't generating
+### Bull and risk cases aren't showing
 
-The on-device AI model must be downloaded first. Look for the "Download Model" card on the main screen or in the ETF detail view and tap to download.
+Bull and risk cases are built from an ETF's price, performance, and sentiment data. If they don't appear, that underlying data hasn't finished loading yet. Make sure you're connected to the internet, then reopen the ETF detail view.
 
 ### Fund data (holdings, performance) isn't loading
 

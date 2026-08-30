@@ -43,16 +43,9 @@ Aucune de ces données n'est transmise à l'extérieur. Toutes sont automatiquem
 
 ## Requêtes Réseau
 
-L'Application se connecte aux services suivants uniquement pour récupérer du contenu à afficher (profils de races, images et questions de jeux) :
+L'Application se connecte à des services tiers de référence sur les races de chiens uniquement pour récupérer du contenu à afficher : profils de races (tempérament, statistiques, histoire), images de races et photos de quiz. Ce sont des requêtes standard de récupération de contenu.
 
-| Service | Objectif | Données Personnelles Envoyées |
-|---------|----------|-------------------------------|
-| The Dog API | Informations sur les races (tempérament, statistiques, histoire) | Aucune |
-| dogapi.dog | Informations supplémentaires sur les races et faits sur les chiens pour le quiz | Aucune |
-| Dog CEO API | Images de races et photos de quiz | Aucune |
-| Wikipedia | Images de référence des races | Aucune |
-
-Ce sont des requêtes standard de récupération de contenu. Aucune donnée personnelle, identifiant d'appareil ou information de suivi n'est incluse dans aucune requête.
+**Aucune donnée personnelle, identifiant d'appareil ou information de suivi n'est incluse dans aucune requête.** Aucune requête ne vous identifie, et aucune donnée d'analyse ou de publicité n'est jamais transmise.
 
 ## Partage des Données
 
@@ -69,7 +62,7 @@ Nous ne vendons, ne louons ni ne partageons aucune donnée utilisateur avec des 
 
 ## Conservation et Suppression des Données
 
-Comme nous ne collectons aucune donnée sur nos serveurs, il n'y a rien à conserver ou à supprimer de notre côté. Toutes les données stockées localement — y compris les favoris et l'historique des scans — sont automatiquement supprimées lorsque vous désinstallez l'Application de votre appareil.
+Comme nous ne collectons aucune donnée sur nos serveurs, il n'y a rien à conserver ou à supprimer de notre côté. Toutes les données stockées localement, y compris les favoris et l'historique des scans, sont automatiquement supprimées lorsque vous désinstallez l'Application de votre appareil.
 
 ## Vos Droits
 

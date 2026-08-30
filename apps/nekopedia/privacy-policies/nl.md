@@ -42,14 +42,9 @@ Rasscan-resultaten die u opslaat in Favorieten worden alleen op uw apparaat opge
 
 ## Diensten van Derden
 
-De App maakt verbinding met de volgende diensten uitsluitend om weergave-inhoud op te halen zoals rasinformatie, afbeeldingen en spelgegevens:
+De App maakt uitsluitend verbinding met externe kattenreferentiediensten om weergave-inhoud op te halen: rasinformatie (temperament, statistieken, geschiedenis), ras- en quizafbeeldingen, en weetjes.
 
-| Dienst | Doel | Verzonden Gegevens | Privacy-info |
-|--------|------|-------------------|--------------|
-| The Cat API | Rasinformatie (temperament, statistieken, geschiedenis) en quizfoto's | Geen | [thecatapi.com](https://thecatapi.com) |
-| catfact.ninja | Kattenfeiten voor de trivia-functie | Geen | [catfact.ninja](https://catfact.ninja) |
-
-Dit zijn standaard verzoeken voor het ophalen van inhoud. Er worden geen persoonlijke gegevens, apparaat-ID's of trackinginformatie meegestuurd.
+**Er worden geen persoonlijke gegevens, apparaat-ID's of trackinginformatie in enig verzoek opgenomen.** Geen enkel verzoek identificeert u, en er worden nooit analyse- of advertentiegegevens verzonden.
 
 ## Gegevens Delen
 

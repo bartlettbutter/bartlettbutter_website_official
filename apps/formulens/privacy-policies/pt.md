@@ -34,7 +34,7 @@ O FormuLens ajuda você a entender listas de ingredientes cosméticos escaneando
 Você concede acesso à câmera ou à biblioteca de fotos para que o FormuLens possa ler as listas de ingredientes. Veja o que acontece com essas fotos:
 
 - As fotos são processadas **inteiramente no seu dispositivo** usando a tecnologia de reconhecimento de texto integrada da Apple.
-- As fotos **nunca são enviadas** para nenhum servidor — nosso ou de qualquer outra pessoa.
+- As fotos **nunca são enviadas** para nenhum servidor, nosso ou de qualquer outra pessoa.
 - As fotos **não são armazenadas** pelo aplicativo além da sessão de análise ativa (a menos que você salve explicitamente um resultado).
 
 ## Como a análise funciona

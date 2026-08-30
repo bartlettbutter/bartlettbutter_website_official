@@ -43,16 +43,9 @@ Nenhum desses dados é transmitido externamente. Todos são removidos automatica
 
 ## Solicitações de Rede
 
-O Aplicativo se conecta aos seguintes serviços exclusivamente para obter conteúdo de exibição (perfis de raças, imagens e perguntas de jogos):
+O Aplicativo se conecta a serviços de referência de raças de cães de terceiros exclusivamente para obter conteúdo de exibição: perfis de raças (temperamento, estatísticas, história), imagens de raças e fotos de quiz. Estas são solicitações padrão de obtenção de conteúdo.
 
-| Serviço | Finalidade | Dados Pessoais Enviados |
-|---------|------------|-------------------------|
-| The Dog API | Informações de raças (temperamento, estatísticas, história) | Nenhum |
-| dogapi.dog | Informações adicionais de raças e curiosidades sobre cães para a trívia | Nenhum |
-| Dog CEO API | Imagens de raças e fotos de quiz | Nenhum |
-| Wikipedia | Imagens de referência de raças | Nenhum |
-
-Estas são solicitações padrão de obtenção de conteúdo. Nenhum dado pessoal, identificador de dispositivo ou informação de rastreamento é incluído em qualquer solicitação.
+**Nenhum dado pessoal, identificador de dispositivo ou informação de rastreamento é incluído em qualquer solicitação.** Nenhuma solicitação identifica você, e nenhum dado de análise ou publicidade é jamais transmitido.
 
 ## Compartilhamento de Dados
 
@@ -69,7 +62,7 @@ Não vendemos, alugamos nem compartilhamos nenhum dado de usuário com terceiros
 
 ## Retenção e Exclusão de Dados
 
-Como não coletamos dados em nossos servidores, não há nada para reter ou excluir do nosso lado. Todos os dados armazenados localmente — incluindo favoritos e histórico de escaneamento — são removidos automaticamente quando você exclui o Aplicativo do seu dispositivo.
+Como não coletamos dados em nossos servidores, não há nada para reter ou excluir do nosso lado. Todos os dados armazenados localmente, incluindo favoritos e histórico de escaneamento, são removidos automaticamente quando você exclui o Aplicativo do seu dispositivo.
 
 ## Seus Direitos
 

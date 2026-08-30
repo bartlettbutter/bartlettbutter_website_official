@@ -11,7 +11,7 @@ redirect_from:
 
 # Como podemos ajudar?
 
-Queremos que o FormuLens funcione muito bem para você. Explore os tópicos abaixo para respostas rápidas ou [envie um e-mail](mailto:contact@bartlettbutter.com) a qualquer momento — teremos prazer em ajudar.
+Queremos que o FormuLens funcione muito bem para você. Explore os tópicos abaixo para respostas rápidas ou [envie um e-mail](mailto:contact@bartlettbutter.com) a qualquer momento. Teremos prazer em ajudar.
 
 ## Primeiros passos
 
@@ -61,7 +61,7 @@ A interface do aplicativo está atualmente em inglês, com mais idiomas planejad
 
 ### O que as cores significam?
 
-Cada ingrediente é codificado por cor conforme sua função — por exemplo, hidratação, antioxidante, proteção solar ou antienvelhecimento. Isso lhe dá um mapa visual instantâneo do que um produto foi projetado para fazer.
+Cada ingrediente é codificado por cor conforme sua função, por exemplo, hidratação, antioxidante, proteção solar ou antienvelhecimento. Isso lhe dá um mapa visual instantâneo do que um produto foi projetado para fazer.
 
 ### O que os rótulos "chave" e "incomum" significam?
 
@@ -99,11 +99,11 @@ Para melhores resultados, certifique-se de que a lista de ingredientes esteja:
 - Plana contra uma superfície (achate o rótulo, se possível)
 - Grande o suficiente no enquadramento para ser lida com clareza
 
-Em frascos curvos, fotografe uma seção de cada vez e adicione cada uma como uma foto separada — o FormuLens as combina.
+Em frascos curvos, fotografe uma seção de cada vez e adicione cada uma como uma foto separada, e o FormuLens as combina.
 
 ### Alguns ingredientes aparecem como "não reconhecidos"
 
-O FormuLens inclui um amplo banco de dados de ingredientes cosméticos comuns. Ingredientes muito novos, raros ou específicos de uma região podem ainda não estar classificados. O nome do ingrediente continua aparecendo — apenas o rótulo de função automático fica indisponível.
+O FormuLens inclui um amplo banco de dados de ingredientes cosméticos comuns. Ingredientes muito novos, raros ou específicos de uma região podem ainda não estar classificados. O nome do ingrediente continua aparecendo; apenas o rótulo de função automático fica indisponível.
 
 ### Nenhum ingrediente foi encontrado na minha foto
 
@@ -143,11 +143,11 @@ Desinstalar o FormuLens remove permanentemente todas as análises salvas do seu 
 
 ### Por que o aplicativo pede acesso à câmera?
 
-Para que você possa fotografar listas de ingredientes diretamente. Essa permissão é opcional — você sempre pode escolher uma foto da sua galeria.
+Para que você possa fotografar listas de ingredientes diretamente. Essa permissão é opcional; você sempre pode escolher uma foto da sua galeria.
 
 ### Por que o aplicativo pede acesso à biblioteca de fotos?
 
-Para que você possa selecionar uma foto existente de uma lista de ingredientes. Isso é opcional — você pode usar a câmera.
+Para que você possa selecionar uma foto existente de uma lista de ingredientes. Isso é opcional; você pode usar a câmera.
 
 ### O FormuLens acessa minha localização, microfone ou contatos?
 

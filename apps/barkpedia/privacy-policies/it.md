@@ -43,16 +43,9 @@ Nessuno di questi dati viene trasmesso all'esterno. Tutti vengono rimossi automa
 
 ## Richieste di Rete
 
-L'App si connette ai seguenti servizi esclusivamente per recuperare contenuti da visualizzare (profili delle razze, immagini e domande dei giochi):
+L'App si connette a servizi di terze parti di riferimento sulle razze canine esclusivamente per recuperare contenuti da visualizzare: profili delle razze (temperamento, statistiche, storia), immagini delle razze e foto dei quiz. Queste sono richieste standard di recupero dei contenuti.
 
-| Servizio | Scopo | Dati Personali Inviati |
-|----------|-------|------------------------|
-| The Dog API | Informazioni sulle razze (temperamento, statistiche, storia) | Nessuno |
-| dogapi.dog | Informazioni aggiuntive sulle razze e curiosità sui cani per i quiz | Nessuno |
-| Dog CEO API | Immagini delle razze e foto dei quiz | Nessuno |
-| Wikipedia | Immagini di riferimento delle razze | Nessuno |
-
-Queste sono richieste standard di recupero dei contenuti. Nessun dato personale, identificatore del dispositivo o informazione di tracciamento è incluso in alcuna richiesta.
+**Nessun dato personale, identificatore del dispositivo o informazione di tracciamento è incluso in alcuna richiesta.** Nessuna richiesta ti identifica e non viene mai trasmesso alcun dato di analisi o pubblicitario.
 
 ## Condivisione dei Dati
 
@@ -69,7 +62,7 @@ Non vendiamo, affittiamo né condividiamo alcun dato degli utenti con terze part
 
 ## Conservazione ed Eliminazione dei Dati
 
-Poiché non raccogliamo dati sui nostri server, non c'è nulla da conservare o eliminare dalla nostra parte. Tutti i dati memorizzati localmente — inclusi i preferiti e la cronologia delle scansioni — vengono rimossi automaticamente quando elimini l'App dal tuo dispositivo.
+Poiché non raccogliamo dati sui nostri server, non c'è nulla da conservare o eliminare dalla nostra parte. Tutti i dati memorizzati localmente, inclusi i preferiti e la cronologia delle scansioni, vengono rimossi automaticamente quando elimini l'App dal tuo dispositivo.
 
 ## I tuoi Diritti
 

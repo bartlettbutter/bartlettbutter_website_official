@@ -17,7 +17,7 @@ Vogliamo che tu ottenga il massimo da Solcast. Se qualcosa non funziona come pre
 
 ### Come configuro l'app?
 
-Basta aprire Solcast — nessun account, nessuna registrazione. Quando richiesto, concedi l'autorizzazione alla posizione così possiamo recuperare il meteo della tua zona (puoi anche saltare questo passaggio e cercare una città manualmente). La tua dashboard personalizzata appare immediatamente con la tua previsione, i suggerimenti sull'outfit e il briefing giornaliero.
+Basta aprire Solcast. Nessun account, nessuna registrazione. Quando richiesto, concedi l'autorizzazione alla posizione così possiamo recuperare il meteo della tua zona (puoi anche saltare questo passaggio e cercare una città manualmente). La tua dashboard personalizzata appare immediatamente con la tua previsione, i suggerimenti sull'outfit e il briefing giornaliero.
 
 ### Come personalizzo le raccomandazioni?
 
@@ -27,17 +27,17 @@ Tocca l'icona dell'ingranaggio (in alto a destra) per aprire le Impostazioni. Tr
 - **Il Tuo Stile** — stile di abbigliamento (Casual, Business Casual, Formale, Sportivo) e preferenza per l'esercizio all'aperto
 - **La Tua Famiglia** — bambini, animali, auto
 
-Ogni modifica ha effetto immediato — nessun ricaricamento necessario.
+Ogni modifica ha effetto immediato, senza ricaricamento necessario.
 
 ### Come gestisco le località?
 
-Puoi salvare fino a 10 località. Usa il selettore di località sulla dashboard per passare da una all'altra, o tocca l'icona di ricerca per aggiungere una nuova città. Ogni località mostra il meteo nel proprio fuso orario locale, così gli orari (alba, tramonto, previsioni orarie) sono sempre pertinenti a quella città.
+Puoi salvare fino a 4 località con il piano gratuito (illimitate con Premium). Usa il selettore di località sulla dashboard per passare da una all'altra, o tocca l'icona di ricerca per aggiungere una nuova città. Ogni località mostra il meteo nel proprio fuso orario locale, così gli orari (alba, tramonto, previsioni orarie) sono sempre pertinenti a quella città.
 
 ## Domande Frequenti
 
-### Solcast è davvero gratuito?
+### Solcast è gratuito?
 
-Sì. Non ci sono acquisti in-app, abbonamenti o pubblicità. Ogni funzione è disponibile dal primo giorno.
+Sì. Solcast è gratuito da scaricare e l'esperienza meteo completa (previsioni, consigli sull'outfit, briefing giornaliero, tutti i 16 indici sullo stile di vita e gli avvisi meteo intelligenti) è gratuita, senza pubblicità. Un abbonamento Premium opzionale aggiunge promemoria personali e amplia il limite di città salvate; tutto il resto resta gratuito.
 
 ### Solcast raccoglie i miei dati?
 
@@ -61,7 +61,7 @@ Una scheda consultabile a colpo d'occhio in cima alla tua dashboard con fino a 6
 
 ### Da dove provengono i dati meteo?
 
-Solcast combina dati da Apple Meteo e Open-Meteo per fornire previsioni affidabili e accurate. I dati su qualità dell'aria e pollini provengono da un'API ambientale dedicata. Tutti i valori mostrati sono misurazioni reali — nulla è stimato o inventato.
+Solcast utilizza Apple Meteo insieme ad altri servizi di dati meteorologici e ambientali di terze parti per fornire previsioni affidabili e accurate, inclusi qualità dell'aria e pollini. Tutti i valori mostrati sono misurazioni reali. Nulla è stimato o inventato.
 
 ## Autorizzazioni
 
@@ -79,7 +79,7 @@ No. Solcast richiede solo l'autorizzazione alla posizione. Non accede alla tua f
 
 1. Conferma che il tuo dispositivo abbia una connessione Wi-Fi o dati cellulari attiva.
 2. Trascina verso il basso sulla dashboard per forzare un aggiornamento.
-3. Se ancora non si carica, il servizio meteo potrebbe essere temporaneamente non disponibile — riprova tra qualche minuto.
+3. Se ancora non si carica, il servizio meteo potrebbe essere temporaneamente non disponibile. Riprova tra qualche minuto.
 
 ### La mia posizione non viene rilevata
 
@@ -87,7 +87,7 @@ Vai nelle Impostazioni del tuo dispositivo > Privacy e Sicurezza > Localizzazion
 
 ### Un indice o una raccomandazione sembra errato
 
-Le raccomandazioni si basano su dati meteo in tempo reale combinati con le tue impostazioni personali. Ricontrolla i tuoi interruttori di sensibilità in Impostazioni > Su di Te e conferma che sia selezionata la località corretta. Alcuni dati (qualità dell'aria, pollini) variano in base alla regione e potrebbero non essere disponibili ovunque — l'app nasconde automaticamente questi indici quando i dati non sono disponibili.
+Le raccomandazioni si basano su dati meteo in tempo reale combinati con le tue impostazioni personali. Ricontrolla i tuoi interruttori di sensibilità in Impostazioni > Su di Te e conferma che sia selezionata la località corretta. Alcuni dati (qualità dell'aria, pollini) variano in base alla regione e potrebbero non essere disponibili ovunque. L'app nasconde automaticamente questi indici quando i dati non sono disponibili.
 
 ### La barra delle previsioni orarie non viene mostrata
 
@@ -95,7 +95,7 @@ La barra oraria si carica separatamente dalla previsione principale. Trascina ve
 
 ### Gli orari sembrano sbagliati per una città remota
 
-È voluto. Ogni località salvata mostra gli orari meteo (alba, tramonto, previsioni orarie) nel fuso orario locale di quella città — non nel fuso orario del tuo dispositivo. Questo garantisce che le informazioni siano utili per pianificare in quella località.
+È voluto. Ogni località salvata mostra gli orari meteo (alba, tramonto, previsioni orarie) nel fuso orario locale di quella città, non nel fuso orario del tuo dispositivo. Questo garantisce che le informazioni siano utili per pianificare in quella località.
 
 ### L'app si blocca
 

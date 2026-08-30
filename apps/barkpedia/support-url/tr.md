@@ -17,15 +17,15 @@ Barkpedia ile harika bir deneyim yaşamanızı istiyoruz. Bir şey beklendiği g
 
 ### Irk tanımlama nasıl çalışır?
 
-Barkpedia, fotoğrafınızı analiz edip köpek ırkını tanımlamak için gelişmiş cihaz üzeri zekayı kullanır. Tüm işlemler iPhone veya iPad'inizde yerel olarak gerçekleşir — fotoğraflarınız asla hiçbir yere yüklenmez.
+Barkpedia, fotoğrafınızı analiz edip köpek ırkını tanımlamak için gelişmiş cihaz üzeri zekayı kullanır. Tüm işlemler iPhone veya iPad'inizde yerel olarak gerçekleşir, bu nedenle fotoğraflarınız asla hiçbir yere yüklenmez.
 
 ### İnternet bağlantısına ihtiyacım var mı?
 
-Temel deneyim için gerekmez. Irk tanımlama, kaydedilen favoriler, ırk arama ve dünya haritası tamamen çevrimdışı çalışır. Irk ayrıntı sayfaları (mizaç, tarihçe, fotoğraflar), sınav ve Köpek Bilgi Yarışması içeriği yüklemek için internet bağlantısı gerektirir.
+Temel deneyim için gerekmez. Irk tanımlama, kaydedilen favoriler, ırk arama, dünya haritası ve Köpek Bilgi Yarışması tamamen çevrimdışı çalışır. Irk ayrıntı sayfaları (mizaç, tarihçe, fotoğraflar) ve Irk Yarışması içeriği yüklemek için internet bağlantısı gerektirir.
 
 ### Barkpedia gerçekten ücretsiz mi?
 
-Evet — hiçbir gizli koşul olmadan tamamen ücretsiz. Uygulama içi satın alma, abonelik veya reklam yoktur.
+Evet, hiçbir gizli koşul olmadan tamamen ücretsiz. Uygulama içi satın alma, abonelik veya reklam yoktur.
 
 ### Barkpedia kaç ırkı tanıyabilir?
 
@@ -47,11 +47,11 @@ Hem arama hem de harita çevrimdışı çalışır.
 - **Irk Yarışması** — Size bir köpek fotoğrafı gösterilir ve dört seçenekten doğru ırkı seçersiniz. Her turda 10 soru vardır. Puanınıza göre ödül unvanları kazanın.
 - **Köpek Bilgi Yarışması** — Gerçek köpek gerçeklerini akla yatkın efsanelerle karıştıran doğru-yanlış ifadeleri. Bu da tur başına 10 soru, ödül unvanlarıyla.
 
-Her iki oyun da internet bağlantısı gerektirir.
+Irk Yarışması, fotoğrafları yüklemek için internet bağlantısı gerektirir. Köpek Bilgi Yarışması tamamen çevrimdışı çalışır.
 
 ### Barkpedia iPad'de çalışır mı?
 
-Evet. Barkpedia düzenini otomatik olarak uyarlar — iPhone'da sekme gezinmesi, iPad'de kenar çubuğu gezinmesi. Beş bölümün tümü (Tara, Favoriler, Keşfet, Sınav ve Bilgi Yarışması) her iki cihaz için tamamen optimize edilmiştir.
+Evet. Barkpedia düzenini otomatik olarak uyarlar; iPhone'da sekme gezinmesi, iPad'de kenar çubuğu gezinmesi kullanılır. Beş bölümün tümü (Tara, Favoriler, Keşfet, Sınav ve Bilgi Yarışması) her iki cihaz için tamamen optimize edilmiştir.
 
 ## Gizlilik ve Veriler
 
@@ -75,7 +75,7 @@ Barkpedia'yı kaldırmak, kaydedilen tüm favorileri ve tarama geçmişini cihaz
 
 ### Barkpedia neden kamera erişimine ihtiyaç duyuyor?
 
-Kamera erişimi, ırk tanımlama için köpekleri doğrudan uygulama içinde fotoğraflamanızı sağlar. Bu izin isteğe bağlıdır — bunun yerine fotoğraf kitaplığınızı kullanabilirsiniz.
+Kamera erişimi, ırk tanımlama için köpekleri doğrudan uygulama içinde fotoğraflamanızı sağlar. Bu izin isteğe bağlıdır. Bunun yerine fotoğraf kitaplığınızı kullanabilirsiniz.
 
 ### Barkpedia neden fotoğraf kitaplığı erişimine ihtiyaç duyuyor?
 
@@ -91,9 +91,9 @@ Hayır. Barkpedia yalnızca kamera ve fotoğraf kitaplığı erişimi ister. Kon
 
 Ayarlar → Barkpedia'ya gidin ve Kamera erişiminin etkin olduğunu doğrulayın. Zaten açıksa, uygulamayı zorla kapatıp yeniden açmayı deneyin.
 
-### Irk bilgisi, sınav veya bilgi yarışması içeriği yüklenmiyor
+### Irk ayrıntı veya sınav içeriği yüklenmiyor
 
-Bu özellikler etkin bir internet bağlantısı gerektirir. Wi-Fi veya hücresel bağlantınızı kontrol edip yeniden deneyin. Sorun devam ederse içerik hizmeti geçici olarak kullanılamıyor olabilir — birkaç dakika bekleyip yeniden deneyin.
+Irk ayrıntı sayfaları ve Irk Yarışması etkin bir internet bağlantısı gerektirir. Wi-Fi veya hücresel bağlantınızı kontrol edip yeniden deneyin. Sorun devam ederse içerik hizmeti geçici olarak kullanılamıyor olabilir. Birkaç dakika bekleyip yeniden deneyin. (Köpek Bilgi Yarışması çevrimdışı çalışır ve bundan etkilenmemelidir.)
 
 ### Uygulama "Köpek Değil" diyor
 
@@ -105,7 +105,7 @@ App Store'dan en son sürümü çalıştırdığınızdan emin olun, ardından c
 
 ## Uyumluluk
 
-Barkpedia, iOS 17.0 veya sonrasını gerektirir ve hem iPhone hem de iPad'de çalışır.
+Barkpedia, iOS 18.0 veya sonrasını gerektirir ve hem iPhone hem de iPad'de çalışır.
 
 ## Bize Ulaşın
 

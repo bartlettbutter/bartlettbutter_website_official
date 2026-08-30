@@ -16,15 +16,15 @@ We want you to have a great experience with Barkpedia. If something isn't workin
 
 ### How does breed identification work?
 
-Barkpedia uses advanced on-device intelligence to analyze your photo and identify the dog breed. All processing happens locally on your iPhone or iPad — your photos are never uploaded anywhere.
+Barkpedia uses advanced on-device intelligence to analyze your photo and identify the dog breed. All processing happens locally on your iPhone or iPad, so your photos are never uploaded anywhere.
 
 ### Do I need an internet connection?
 
-Not for the core experience. Breed identification, saved favorites, breed search, and the world map all work entirely offline. Breed detail pages (temperament, history, photos), the Quiz, and Dog Trivia do require an internet connection to load content.
+Not for most of the experience. Breed identification, saved favorites, breed search, the world map, and Dog Trivia all work entirely offline. Breed detail pages (temperament, history, photos) and the Breed Quiz do require an internet connection to load content.
 
 ### Is Barkpedia really free?
 
-Yes — completely free with no catches. There are no in-app purchases, no subscriptions, and no ads.
+Yes, completely free with no catches. There are no in-app purchases, no subscriptions, and no ads.
 
 ### How many breeds can Barkpedia recognize?
 
@@ -46,11 +46,11 @@ Both search and the map work offline.
 - **Breed Quiz** — You're shown a dog photo and pick the correct breed from four choices. Each round has 10 questions. Earn reward titles based on your score.
 - **Dog Trivia** — True-or-false statements mixing real dog facts with plausible myths. Also 10 questions per round with reward titles.
 
-Both games require an internet connection.
+The Breed Quiz requires an internet connection to load photos. Dog Trivia works completely offline.
 
 ### Does Barkpedia work on iPad?
 
-Yes. Barkpedia automatically adapts its layout — tab navigation on iPhone and sidebar navigation on iPad. All five sections (Scan, Favorites, Explore, Quiz, and Trivia) are fully optimized for both devices.
+Yes. Barkpedia automatically adapts its layout, with tab navigation on iPhone and sidebar navigation on iPad. All five sections (Scan, Favorites, Explore, Quiz, and Trivia) are fully optimized for both devices.
 
 ## Privacy and Data
 
@@ -74,7 +74,7 @@ Uninstalling Barkpedia permanently removes all saved favorites and scan history 
 
 ### Why does Barkpedia need camera access?
 
-Camera access lets you photograph dogs directly in the app for breed identification. This permission is optional — you can use your photo library instead.
+Camera access lets you photograph dogs directly in the app for breed identification. This permission is optional, so you can use your photo library instead.
 
 ### Why does Barkpedia need photo library access?
 
@@ -90,9 +90,9 @@ No. Barkpedia only requests camera and photo library access. It does not use loc
 
 Go to Settings → Barkpedia and confirm Camera access is enabled. If it's already on, try force-closing and reopening the app.
 
-### Breed info, quiz, or trivia content isn't loading
+### Breed detail or quiz content isn't loading
 
-These features require an active internet connection. Check your Wi-Fi or cellular connection and try again. If the problem continues, the content service may be temporarily unavailable — wait a few minutes and retry.
+Breed detail pages and the Breed Quiz require an active internet connection. Check your Wi-Fi or cellular connection and try again. If the problem continues, the content service may be temporarily unavailable. Wait a few minutes and retry. (Dog Trivia works offline and shouldn't be affected.)
 
 ### The app says "Not a Dog"
 
@@ -104,7 +104,7 @@ Make sure you're running the latest version from the App Store, then restart you
 
 ## Compatibility
 
-Barkpedia requires iOS 17.0 or later and runs on both iPhone and iPad.
+Barkpedia requires iOS 18.0 or later and runs on both iPhone and iPad.
 
 ## Contact Us
 

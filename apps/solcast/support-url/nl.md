@@ -17,7 +17,7 @@ We willen dat je het meeste uit Solcast haalt. Als iets niet werkt zoals verwach
 
 ### Hoe stel ik de app in?
 
-Open gewoon Solcast — geen account, geen aanmelding. Wanneer daarom wordt gevraagd, verleen je locatietoestemming zodat we het weer voor jouw omgeving kunnen ophalen (je kunt dit ook overslaan en handmatig een stad zoeken). Je gepersonaliseerde dashboard verschijnt direct met je voorspelling, outfitsuggesties en dagelijkse briefing.
+Open gewoon Solcast. Geen account, geen aanmelding. Wanneer daarom wordt gevraagd, verleen je locatietoestemming zodat we het weer voor jouw omgeving kunnen ophalen (je kunt dit ook overslaan en handmatig een stad zoeken). Je gepersonaliseerde dashboard verschijnt direct met je voorspelling, outfitsuggesties en dagelijkse briefing.
 
 ### Hoe personaliseer ik de aanbevelingen?
 
@@ -27,17 +27,17 @@ Tik op het tandwielpictogram (rechtsboven) om Instellingen te openen. Je vindt 1
 - **Jouw Stijl** — kledingstijl (Casual, Business Casual, Formeel, Sportief) en voorkeur voor buitensport
 - **Jouw Huishouden** — kinderen, huisdieren, auto's
 
-Elke wijziging wordt onmiddellijk van kracht — geen herladen nodig.
+Elke wijziging wordt onmiddellijk van kracht, zonder dat herladen nodig is.
 
 ### Hoe beheer ik locaties?
 
-Je kunt tot 10 locaties opslaan. Gebruik de locatiekiezer op het dashboard om ertussen te schakelen, of tik op het zoekpictogram om een nieuwe stad toe te voegen. Elke locatie toont het weer in zijn eigen lokale tijdzone, zodat de tijden (zonsopgang, zonsondergang, uurvoorspelling) altijd relevant zijn voor die stad.
+Je kunt tot 4 locaties opslaan in de gratis versie (onbeperkt met Premium). Gebruik de locatiekiezer op het dashboard om ertussen te schakelen, of tik op het zoekpictogram om een nieuwe stad toe te voegen. Elke locatie toont het weer in zijn eigen lokale tijdzone, zodat de tijden (zonsopgang, zonsondergang, uurvoorspelling) altijd relevant zijn voor die stad.
 
 ## Veelgestelde Vragen
 
-### Is Solcast echt gratis?
+### Is Solcast gratis?
 
-Ja. Er zijn geen in-app-aankopen, geen abonnementen en geen advertenties. Elke functie is beschikbaar vanaf dag één.
+Ja. Solcast is gratis te downloaden en de volledige weerervaring (voorspellingen, outfitsuggesties, dagelijkse briefing, alle 16 lifestyle-indexen en slimme weerswaarschuwingen) is gratis, zonder advertenties. Een optioneel Premium-abonnement voegt persoonlijke herinneringen toe en verhoogt de limiet voor opgeslagen steden; al het andere blijft gratis.
 
 ### Verzamelt Solcast mijn gegevens?
 
@@ -61,7 +61,7 @@ Een in één oogopslag te bekijken kaart bovenaan je dashboard met tot 6 actiepu
 
 ### Waar komen de weergegevens vandaan?
 
-Solcast combineert gegevens van Apple Weer en Open-Meteo om betrouwbare, nauwkeurige voorspellingen te leveren. Gegevens over luchtkwaliteit en pollen komen van een speciale milieu-API. Alle getoonde waarden zijn echte metingen — niets wordt geschat of verzonnen.
+Solcast gebruikt Apple Weer samen met aanvullende weer- en milieugegevensdiensten van derden om betrouwbare, nauwkeurige voorspellingen te leveren, waaronder luchtkwaliteit en pollen. Alle getoonde waarden zijn echte metingen. Niets wordt geschat of verzonnen.
 
 ## Toestemmingen
 
@@ -79,7 +79,7 @@ Nee. Solcast vraagt alleen locatietoestemming. Het heeft geen toegang tot je cam
 
 1. Bevestig dat je apparaat een actieve wifi- of mobiele dataverbinding heeft.
 2. Trek naar beneden op het dashboard om een vernieuwing te forceren.
-3. Als het nog steeds niet laadt, is de weerdienst mogelijk tijdelijk niet beschikbaar — probeer het over een paar minuten opnieuw.
+3. Als het nog steeds niet laadt, is de weerdienst mogelijk tijdelijk niet beschikbaar. Probeer het over een paar minuten opnieuw.
 
 ### Mijn locatie wordt niet gedetecteerd
 
@@ -87,7 +87,7 @@ Ga naar de Instellingen van je apparaat > Privacy en beveiliging > Locatievoorzi
 
 ### Een index of aanbeveling lijkt onjuist
 
-Aanbevelingen zijn gebaseerd op live weergegevens gecombineerd met je persoonlijke instellingen. Controleer je gevoeligheidsschakelaars in Instellingen > Over Jou nogmaals en bevestig dat de juiste locatie is geselecteerd. Sommige gegevens (luchtkwaliteit, pollen) variëren per regio en zijn mogelijk niet overal beschikbaar — de app verbergt die indexen automatisch wanneer er geen gegevens beschikbaar zijn.
+Aanbevelingen zijn gebaseerd op live weergegevens gecombineerd met je persoonlijke instellingen. Controleer je gevoeligheidsschakelaars in Instellingen > Over Jou nogmaals en bevestig dat de juiste locatie is geselecteerd. Sommige gegevens (luchtkwaliteit, pollen) variëren per regio en zijn mogelijk niet overal beschikbaar. De app verbergt die indexen automatisch wanneer er geen gegevens beschikbaar zijn.
 
 ### De uurvoorspellingsstrook wordt niet weergegeven
 
@@ -95,7 +95,7 @@ De uurstrook laadt apart van de hoofdvoorspelling. Trek naar beneden om te verni
 
 ### De tijden zien er verkeerd uit voor een verre stad
 
-Dit is met opzet. Elke opgeslagen locatie toont de weertijden (zonsopgang, zonsondergang, uurvoorspelling) in de lokale tijdzone van die stad — niet in de tijdzone van je apparaat. Dit zorgt ervoor dat de informatie nuttig is voor het plannen op die locatie.
+Dit is met opzet. Elke opgeslagen locatie toont de weertijden (zonsopgang, zonsondergang, uurvoorspelling) in de lokale tijdzone van die stad, niet in de tijdzone van je apparaat. Dit zorgt ervoor dat de informatie nuttig is voor het plannen op die locatie.
 
 ### De app crasht
 

@@ -24,7 +24,7 @@ No. Huepick has no accounts, no sign-up, and no login. Just open the app and sta
 
 ### Is an internet connection required?
 
-Almost everything works offline — color extraction, palettes, creative tools, and saving. The only optional network feature is converting photo location coordinates into a place name (like "Seattle, WA") on saved palettes.
+Almost everything works offline, including color extraction, palettes, creative tools, and saving. The only optional network feature is converting photo location coordinates into a place name (like "Seattle, WA") on saved palettes.
 
 ### Is Huepick really free?
 
@@ -34,13 +34,13 @@ Yes. No in-app purchases, no subscriptions, no ads. Every feature is available f
 
 ### What are the three tabs?
 
-- **Analyze** — take or pick a photo, extract colors, generate palettes, view detailed color analysis, and get personalized creative tool suggestions
-- **Playground** — transform your photo with five creative tools (Isolate, Duotone, Pixelize, Blur, Glitch)
+- **Analyze** — take or pick a photo, extract a 12-color palette, view detailed color analysis, and get personalized creative tool suggestions
+- **Playground** — transform your photo with six creative tools (Isolate, Duotone, Tritone, Pixelize, Blur, Glitch)
 - **Gallery** — browse, re-edit, download, or share your saved creations
 
-### How do I generate a palette?
+### How does the color analysis work?
 
-After extracting colors, choose one of six harmony types (like Complementary or Analogous) and one of five real-world scenarios (like Home Decor or UI Design). Huepick builds a palette with labeled color roles tailored to your project.
+After Huepick extracts your 12-color palette, the Analyze tab breaks it down with visual cards: an overview (color variety, diversity score, hue spread), hue distribution, color temperature (warm/cool/neutral), lightness and contrast, saturation, and a per-color breakdown with hex values. Based on your palette, Huepick also suggests which creative tools will suit your photo best.
 
 ### How do I copy a hex code?
 
@@ -50,8 +50,9 @@ Tap any color swatch. A brief confirmation appears to let you know the hex code 
 
 - **Isolate** — keep selected colors vibrant while the rest becomes grayscale (or vice versa)
 - **Duotone** — remap your image to two tones for a bold, editorial look
-- **Pixelize** — transform into geometric pixel art with adjustable block size
-- **Blur** — add soft, dreamy focus with adjustable intensity
+- **Tritone** — remap your image across three tones for a richer, graduated look
+- **Pixelize** — transform into a mosaic of geometric tiles with adjustable tile size
+- **Blur** — add soft, dreamy focus with a choice of blur styles and adjustable intensity
 - **Glitch** — apply RGB channel separation and digital distortion
 
 ### How do I save a creation?
@@ -70,7 +71,7 @@ Long-press the creation in the Gallery and choose "Delete." You'll be asked to c
 
 ### Where is my data stored?
 
-Everything — saved palettes and creations — is stored locally on your device. We have no servers, no cloud storage, and no access to your data.
+Everything, including saved palettes and creations, is stored locally on your device. We have no servers, no cloud storage, and no access to your data.
 
 ### Are my photos uploaded anywhere?
 
@@ -96,7 +97,7 @@ Color extraction works best with well-lit, clearly focused photos. Try natural l
 
 ### A creative tool seems slow
 
-All processing runs on your device's hardware. Larger, higher-resolution photos may take a moment — this is expected behavior, not a bug.
+All processing runs on your device's hardware. Larger, higher-resolution photos may take a moment. This is expected behavior, not a bug.
 
 ### The app keeps crashing
 

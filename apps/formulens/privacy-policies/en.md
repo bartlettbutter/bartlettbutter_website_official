@@ -33,7 +33,7 @@ FormuLens helps you understand cosmetic ingredient lists by scanning and classif
 You grant camera or photo library access so FormuLens can read ingredient lists. Here's what happens to those photos:
 
 - Photos are processed **entirely on your device** using Apple's built-in text recognition technology.
-- Photos are **never uploaded** to any server — ours or anyone else's.
+- Photos are **never uploaded** to any server, ours or anyone else's.
 - Photos are **not stored** by the app beyond the active analysis session (unless you explicitly save a result).
 
 ## How Analysis Works

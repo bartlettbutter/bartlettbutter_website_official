@@ -17,7 +17,7 @@ Nous voulons que vous tiriez le meilleur parti de Solcast. Si quelque chose ne f
 
 ### Comment configurer l'application ?
 
-Ouvrez simplement Solcast — aucun compte, aucune inscription. Lorsqu'on vous le demande, accordez l'autorisation de localisation afin que nous puissions récupérer la météo de votre région (vous pouvez aussi ignorer cela et rechercher une ville manuellement). Votre tableau de bord personnalisé apparaît immédiatement avec vos prévisions, vos suggestions de tenue et votre briefing quotidien.
+Ouvrez simplement Solcast. Aucun compte, aucune inscription. Lorsqu'on vous le demande, accordez l'autorisation de localisation afin que nous puissions récupérer la météo de votre région (vous pouvez aussi ignorer cela et rechercher une ville manuellement). Votre tableau de bord personnalisé apparaît immédiatement avec vos prévisions, vos suggestions de tenue et votre briefing quotidien.
 
 ### Comment personnaliser les recommandations ?
 
@@ -27,17 +27,17 @@ Touchez l'icône d'engrenage (en haut à droite) pour ouvrir les Réglages. Vous
 - **Votre Style** — style vestimentaire (Décontracté, Business Casual, Formel, Sportif) et préférence d'exercice en plein air
 - **Votre Foyer** — enfants, animaux, voitures
 
-Chaque changement prend effet immédiatement — aucun rechargement nécessaire.
+Chaque changement prend effet immédiatement, sans rechargement nécessaire.
 
 ### Comment gérer les lieux ?
 
-Vous pouvez enregistrer jusqu'à 10 lieux. Utilisez le sélecteur de lieu sur le tableau de bord pour basculer entre eux, ou touchez l'icône de recherche pour ajouter une nouvelle ville. Chaque lieu affiche la météo dans son propre fuseau horaire local, de sorte que les heures (lever du soleil, coucher du soleil, prévisions horaires) sont toujours pertinentes pour cette ville.
+Vous pouvez enregistrer jusqu'à 4 lieux avec la version gratuite (illimité avec Premium). Utilisez le sélecteur de lieu sur le tableau de bord pour basculer entre eux, ou touchez l'icône de recherche pour ajouter une nouvelle ville. Chaque lieu affiche la météo dans son propre fuseau horaire local, de sorte que les heures (lever du soleil, coucher du soleil, prévisions horaires) sont toujours pertinentes pour cette ville.
 
 ## Questions Fréquentes
 
-### Solcast est-il vraiment gratuit ?
+### Solcast est-il gratuit ?
 
-Oui. Il n'y a aucun achat intégré, aucun abonnement et aucune publicité. Toutes les fonctionnalités sont disponibles dès le premier jour.
+Oui. Solcast est gratuit à télécharger et l'expérience météo complète (prévisions, suggestions de tenue, briefing quotidien, les 16 indices de style de vie et les alertes météo intelligentes) est gratuite, sans publicité. Un abonnement Premium en option ajoute des rappels personnels et relève la limite de villes enregistrées ; tout le reste demeure gratuit.
 
 ### Solcast collecte-t-il mes données ?
 
@@ -61,7 +61,7 @@ Une carte consultable d'un coup d'œil en haut de votre tableau de bord, avec ju
 
 ### D'où proviennent les données météo ?
 
-Solcast combine les données d'Apple Météo et d'Open-Meteo pour fournir des prévisions fiables et précises. Les données de qualité de l'air et de pollen proviennent d'une API environnementale dédiée. Toutes les valeurs affichées sont des mesures réelles — rien n'est estimé ni inventé.
+Solcast utilise Apple Météo ainsi que des services tiers supplémentaires de données météorologiques et environnementales pour fournir des prévisions fiables et précises, y compris la qualité de l'air et le pollen. Toutes les valeurs affichées sont des mesures réelles. Rien n'est estimé ni inventé.
 
 ## Autorisations
 
@@ -79,7 +79,7 @@ Non. Solcast ne demande que l'autorisation de localisation. Il n'accède pas à 
 
 1. Confirmez que votre appareil dispose d'une connexion Wi-Fi ou cellulaire active.
 2. Tirez vers le bas sur le tableau de bord pour forcer une actualisation.
-3. Si cela ne se charge toujours pas, le service météo peut être temporairement indisponible — réessayez dans quelques minutes.
+3. Si cela ne se charge toujours pas, le service météo peut être temporairement indisponible. Réessayez dans quelques minutes.
 
 ### Ma localisation n'est pas détectée
 
@@ -87,7 +87,7 @@ Allez dans les Réglages de votre appareil > Confidentialité et Sécurité > Se
 
 ### Un indice ou une recommandation semble erroné
 
-Les recommandations sont basées sur des données météo en direct combinées à vos réglages personnels. Vérifiez vos interrupteurs de sensibilité dans Réglages > À Propos de Vous et confirmez que le bon lieu est sélectionné. Certaines données (qualité de l'air, pollen) varient selon la région et peuvent ne pas être disponibles partout — l'application masque automatiquement ces indices lorsque les données ne sont pas disponibles.
+Les recommandations sont basées sur des données météo en direct combinées à vos réglages personnels. Vérifiez vos interrupteurs de sensibilité dans Réglages > À Propos de Vous et confirmez que le bon lieu est sélectionné. Certaines données (qualité de l'air, pollen) varient selon la région et peuvent ne pas être disponibles partout. L'application masque automatiquement ces indices lorsque les données ne sont pas disponibles.
 
 ### La bande de prévisions horaires ne s'affiche pas
 
@@ -95,7 +95,7 @@ La bande horaire se charge séparément des prévisions principales. Tirez vers 
 
 ### Les heures semblent erronées pour une ville lointaine
 
-C'est voulu. Chaque lieu enregistré affiche les heures météo (lever du soleil, coucher du soleil, prévisions horaires) dans le fuseau horaire local de cette ville — et non celui de votre appareil. Cela garantit que l'information est utile pour planifier à cet endroit.
+C'est voulu. Chaque lieu enregistré affiche les heures météo (lever du soleil, coucher du soleil, prévisions horaires) dans le fuseau horaire local de cette ville, et non celui de votre appareil. Cela garantit que l'information est utile pour planifier à cet endroit.
 
 ### L'application plante
 

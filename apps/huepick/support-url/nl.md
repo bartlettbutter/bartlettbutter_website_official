@@ -25,7 +25,7 @@ Nee. Huepick heeft geen accounts, geen aanmelding en geen login. Open gewoon de 
 
 ### Is een internetverbinding vereist?
 
-Bijna alles werkt offline — kleurextractie, paletten, creatieve hulpmiddelen en opslaan. De enige optionele netwerkfunctie is het omzetten van fotolocatiecoördinaten in een plaatsnaam (zoals "Seattle, WA") op opgeslagen paletten.
+Bijna alles werkt offline, waaronder kleurextractie, paletten, creatieve hulpmiddelen en opslaan. De enige optionele netwerkfunctie is het omzetten van fotolocatiecoördinaten in een plaatsnaam (zoals "Seattle, WA") op opgeslagen paletten.
 
 ### Is Huepick echt gratis?
 
@@ -35,13 +35,13 @@ Ja. Geen in-app-aankopen, geen abonnementen, geen advertenties. Elke functie is 
 
 ### Wat zijn de drie tabbladen?
 
-- **Analyseren** — maak of kies een foto, haal kleuren eruit, genereer paletten, bekijk een gedetailleerde kleuranalyse en krijg gepersonaliseerde suggesties voor creatieve hulpmiddelen
-- **Playground** — transformeer je foto met vijf creatieve hulpmiddelen (Isoleren, Duotoon, Pixeliseren, Vervagen, Glitch)
+- **Analyseren** — maak of kies een foto, haal een palet van 12 kleuren eruit, bekijk een gedetailleerde kleuranalyse en krijg gepersonaliseerde suggesties voor creatieve hulpmiddelen
+- **Playground** — transformeer je foto met zes creatieve hulpmiddelen (Isoleren, Duotoon, Tritoon, Pixeliseren, Vervagen, Glitch)
 - **Galerij** — blader, bewerk opnieuw, download of deel je opgeslagen creaties
 
-### Hoe genereer ik een palet?
+### Hoe werkt de kleuranalyse?
 
-Nadat je kleuren hebt geëxtraheerd, kies je een van de zes harmonietypes (zoals Complementair of Analoog) en een van de vijf realistische scenario's (zoals Woninginrichting of UI-ontwerp). Huepick bouwt een palet met gelabelde kleurrollen die zijn afgestemd op jouw project.
+Nadat Huepick je palet van 12 kleuren heeft geëxtraheerd, splitst het tabblad Analyseren het uit met visuele kaarten: een overzicht (kleurvariatie, diversiteitsscore, tintspreiding), tintverdeling, kleurtemperatuur (warm/koel/neutraal), helderheid en contrast, verzadiging, en een uitsplitsing per kleur met hexwaarden. Op basis van je palet stelt Huepick ook voor welke creatieve hulpmiddelen het best bij je foto passen.
 
 ### Hoe kopieer ik een hexcode?
 
@@ -51,8 +51,9 @@ Tik op een willekeurig kleurstaal. Er verschijnt een korte bevestiging om je te 
 
 - **Isoleren** — houd geselecteerde kleuren levendig terwijl de rest grijstinten wordt (of andersom)
 - **Duotoon** — zet je afbeelding om naar twee tinten voor een gedurfde, redactionele look
-- **Pixeliseren** — transformeer naar geometrische pixelkunst met aanpasbare blokgrootte
-- **Vervagen** — voeg een zachte, dromerige focus toe met aanpasbare intensiteit
+- **Tritoon** — zet je afbeelding om naar drie tinten voor een rijkere, gradueel verlopende look
+- **Pixeliseren** — transformeer naar een mozaïek van geometrische tegels met aanpasbare tegelgrootte
+- **Vervagen** — voeg een zachte, dromerige focus toe met een keuze aan vervagingsstijlen en aanpasbare intensiteit
 - **Glitch** — pas RGB-kanaalscheiding en digitale vervorming toe
 
 ### Hoe bewaar ik een creatie?
@@ -71,7 +72,7 @@ Houd de creatie in de Galerij ingedrukt en kies "Verwijderen". Je wordt gevraagd
 
 ### Waar worden mijn gegevens opgeslagen?
 
-Alles — opgeslagen paletten en creaties — wordt lokaal op je apparaat opgeslagen. We hebben geen servers, geen cloudopslag en geen toegang tot je gegevens.
+Alles, waaronder opgeslagen paletten en creaties, wordt lokaal op je apparaat opgeslagen. We hebben geen servers, geen cloudopslag en geen toegang tot je gegevens.
 
 ### Worden mijn foto's ergens geüpload?
 
@@ -97,7 +98,7 @@ Kleurextractie werkt het beste met goed belichte, scherp gefocuste foto's. Probe
 
 ### Een creatief hulpmiddel lijkt traag
 
-Alle verwerking draait op de hardware van je apparaat. Grotere foto's met een hogere resolutie kunnen even duren — dit is verwacht gedrag, geen bug.
+Alle verwerking draait op de hardware van je apparaat. Grotere foto's met een hogere resolutie kunnen even duren; dit is verwacht gedrag, geen bug.
 
 ### De app blijft crashen
 

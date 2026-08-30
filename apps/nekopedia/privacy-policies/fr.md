@@ -42,14 +42,9 @@ Les résultats de scan de races que vous enregistrez dans les Favoris sont stock
 
 ## Services Tiers
 
-L'Application se connecte aux services suivants uniquement pour récupérer du contenu à afficher, comme des informations sur les races, des images et des données de jeu :
+L'Application se connecte à des services de référence tiers sur les chats uniquement pour récupérer du contenu à afficher : informations sur les races (tempérament, statistiques, historique), images de races et de quiz, et anecdotes.
 
-| Service | Objectif | Données Envoyées | Informations de Confidentialité |
-|---------|----------|------------------|-------------------------------|
-| The Cat API | Informations sur les races (tempérament, statistiques, historique) et photos de quiz | Aucune | [thecatapi.com](https://thecatapi.com) |
-| catfact.ninja | Faits sur les chats pour la fonctionnalité trivia | Aucune | [catfact.ninja](https://catfact.ninja) |
-
-Ce sont des requêtes standard de récupération de contenu. Aucune donnée personnelle, identifiant d'appareil ou information de suivi n'est incluse.
+**Aucune donnée personnelle, aucun identifiant d'appareil et aucune information de suivi n'est incluse dans une quelconque requête.** Aucune requête ne vous identifie, et aucune donnée d'analyse ou de publicité n'est jamais transmise.
 
 ## Partage de Données
 

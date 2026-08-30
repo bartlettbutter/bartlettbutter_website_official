@@ -12,7 +12,7 @@ redirect_from:
 
 # Cada viaje merece un folio.
 
-Deja de hacer malabares con capturas de pantalla, correos dispersos y hojas de cálculo a medias. Journeyfolio reúne todo tu viaje en un itinerario bellamente organizado —vuelos, hoteles, documentos, clima en vivo y estado de vuelo en tiempo real— para que puedas concentrarte en el viaje en sí.
+Deja de hacer malabares con capturas de pantalla, correos dispersos y hojas de cálculo a medias. Journeyfolio reúne todo tu viaje en un itinerario bellamente organizado que incluye vuelos, hoteles, documentos, clima en vivo y estado de vuelo en tiempo real, para que puedas concentrarte en el viaje en sí.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
@@ -40,11 +40,11 @@ Crea un horario completo con siete categorías de actividad: vuelos, hoteles, tr
 
 ### Seguimiento de vuelos en vivo
 
-Añade un número de vuelo y obtén el estado en tiempo real —A tiempo, Retrasado, Cancelado, Aterrizado o En vuelo— mostrado dentro de tu itinerario con las horas en la zona horaria local de cada aeropuerto.
+Añade un número de vuelo y obtén el estado en tiempo real (A tiempo, Retrasado, Cancelado, Aterrizado o En vuelo) mostrado dentro de tu itinerario con las horas en la zona horaria local de cada aeropuerto.
 
 ### Pronósticos del tiempo precisos
 
-Consulta las condiciones actuales y una fiable previsión de 5 días para cada destino. Con la tecnología de [Apple Weather](https://weatherkit.apple.com/legal-attribution.html) y OpenWeatherMap como respaldo, para que siempre sepas qué empacar.
+Consulta las condiciones actuales y una fiable previsión de 5 días para cada destino. Con la tecnología de [Apple Weather](https://weatherkit.apple.com/legal-attribution.html) y un servicio meteorológico adicional como respaldo, para que siempre sepas qué empacar.
 
 ### Entradas y documentos en un solo lugar
 

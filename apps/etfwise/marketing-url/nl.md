@@ -2,7 +2,7 @@
 layout: default
 title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
-app_description: "Dagelijkse ETF-aanbevelingen aangedreven door live data, nieuwssentiment en AI op het apparaat."
+app_description: "Dagelijkse ETF-aanbevelingen aangedreven door live data, nieuwssentiment en directe analyse op het apparaat."
 app_store_url: "https://apps.apple.com/us/app/etfwise/id6762496354"
 lang: nl
 permalink: /etfwise/nl/
@@ -12,7 +12,7 @@ redirect_from:
 
 # Jouw dagelijkse voordeel bij ETF-beleggen.
 
-Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijkse ETF-aanbevelingen in zeven categorieën, ondersteund door live marktgegevens, realtime sentiment en privé AI-analyse die nooit je apparaat verlaat.
+Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijkse ETF-aanbevelingen in zeven categorieën, ondersteund door live marktgegevens, realtime sentiment en directe analyse die nooit je apparaat verlaat.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/etfwise/id6762496354)
 
@@ -20,7 +20,7 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
 
 - **Elke ochtend verse selecties** in de categorieën Hoofdindex, Sector, Obligaties, Internationaal, Grondstoffen, Thematisch en Dividend, dagelijks ververst zodat je altijd weet waar je moet kijken.
 - **Zie wat de markt beweegt** met nieuwssentimentscores, waarschijnlijkheden van voorspellingsmarkten en analistenconsensus die je het volledige beeld geven voordat je handelt.
-- **AI-analyse die privé blijft** met een model op het apparaat dat bull- en risicoscenario's genereert uit echte statistieken. Geen cloud-uploads. Geen gegevens verlaten je apparaat.
+- **Analyse die privé blijft**, direct op je apparaat gegenereerd; bull- en risicoscenario's opgebouwd uit echte statistieken. Geen cloud-uploads. Geen gegevens verlaten je apparaat.
 - **Live data, nul kosten** met realtime prijzen die elke 5 minuten worden ververst, meer dan 200 samengestelde ETF's en meer dan 400 doorzoekbare tickers. Geen abonnementen. Geen advertenties. Nooit.
 
 ## Diepgaande analyse binnen handbereik
@@ -31,7 +31,7 @@ Tik op een willekeurige ETF voor uitgebreid inzicht:
 - **Belangrijkste posities en sectorwegingen** zodat je precies weet wat je bezit
 - **Prestatiegeschiedenis** met voortschrijdende rendementen, jaarrendementen, beste/slechtste jaren en Morningstar-rating
 - **Nieuwssentiment** met een 7-daagse sentimentscore en de nieuwste koppen
-- **Door AI gegenereerde bull- en risicoscenario's** met contextrijke analyse gebaseerd op echte gegevens
+- **Bull- en risicoscenario's** met contextrijke analyse gebaseerd op echte gegevens
 - **Voorspellingsmarkten** met crowdsourced waarschijnlijkheden die relevant zijn voor elke ETF
 - **Analistenconsensus** die de kopen/houden/verkopen-beoordelingen van Wall Street in één oogopslag toont
 
@@ -40,7 +40,7 @@ Tik op een willekeurige ETF voor uitgebreid inzicht:
 1. **Download** ETFWise gratis uit de App Store
 2. **Voeg een gratis API-sleutel** van Finnhub toe voor live data, of sla dit over en verken met de ingebouwde demogegevens
 3. **Blader door de selecties van vandaag** in zeven categorieën
-4. **Tik op een willekeurige ETF** voor diepgaande analyse, sentiment en door AI aangedreven inzichten
+4. **Tik op een willekeurige ETF** voor diepgaande analyse, sentiment en datagestuurde inzichten
 
 ## Compatibiliteit
 

@@ -16,7 +16,7 @@ Prenez une photo, identifiez la race et débloquez tout ce qu'il y a à savoir :
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
-## Pourquoi plus de 100 000 amoureux des chiens choisissent Barkpedia
+## Pourquoi les amoureux des chiens choisissent Barkpedia
 
 - **Des réponses instantanées, partout.** Identifiez 147 races en quelques secondes : au parc, au refuge ou sur votre canapé. Fonctionne entièrement hors ligne.
 - **Votre vie privée avant tout.** Les photos ne quittent jamais votre appareil. Aucun compte, aucun suivi, aucune publicité. Point final.
@@ -27,7 +27,7 @@ Prenez une photo, identifiez la race et débloquez tout ce qu'il y a à savoir :
 
 ### Scannez et identifiez
 
-Pointez votre appareil photo vers n'importe quel chien — ou choisissez une photo dans votre galerie — et obtenez une correspondance de race avec un score de confiance. Chaque résultat renvoie à un profil de race riche avec le tempérament, la taille, le niveau d'énergie, l'histoire des origines et des photos.
+Pointez votre appareil photo vers n'importe quel chien, ou choisissez une photo dans votre galerie, et obtenez une correspondance de race avec un score de confiance. Chaque résultat renvoie à un profil de race riche avec le tempérament, la taille, le niveau d'énergie, l'histoire des origines et des photos.
 
 ### Enregistrez vos favoris
 
@@ -42,7 +42,7 @@ Recherchez 147 races par nom ou parcourez une carte du monde interactive organis
 Testez vos connaissances des races avec deux modes de jeu :
 
 - **Quiz des Races** — Devinez la race à partir d'une photo. 10 questions, quatre choix, gagnez des titres de récompense.
-- **Anecdotes Canines** — Vrai ou faux ? 10 manches de vrais faits mêlés à des mythes astucieux.
+- **Anecdotes Canines** — Vrai ou faux ? 10 manches de vrais faits mêlés à des mythes astucieux. Fonctionne entièrement hors ligne.
 
 ## Comment ça marche
 
@@ -53,7 +53,7 @@ Testez vos connaissances des races avec deux modes de jeu :
 
 ## Compatibilité
 
-iOS 17.0 ou version ultérieure · iPhone et iPad
+iOS 18.0 ou version ultérieure · iPhone et iPad
 
 ## Votre vie privée, protégée
 

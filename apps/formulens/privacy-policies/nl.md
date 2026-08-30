@@ -34,7 +34,7 @@ FormuLens helpt je cosmetische ingrediëntenlijsten te begrijpen door ze direct 
 Je verleent toegang tot de camera of fotobibliotheek zodat FormuLens ingrediëntenlijsten kan lezen. Dit is wat er met die foto's gebeurt:
 
 - Foto's worden **volledig op je apparaat** verwerkt met de ingebouwde tekstherkenningstechnologie van Apple.
-- Foto's worden **nooit geüpload** naar welke server dan ook — de onze of die van iemand anders.
+- Foto's worden **nooit geüpload** naar welke server dan ook, de onze of die van iemand anders.
 - Foto's worden **niet bewaard** door de app na de actieve analysesessie (tenzij je een resultaat expliciet opslaat).
 
 ## Hoe analyse werkt

@@ -12,7 +12,7 @@ redirect_from:
 
 # Her yolculuk bir folioyu hak eder.
 
-Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablolarla uğraşmayı bırakın. Journeyfolio tüm gezinizi güzelce düzenlenmiş bir güzergâhta bir araya getirir — uçuşlar, oteller, belgeler, canlı hava durumu ve gerçek zamanlı uçuş durumu — böylece yolculuğun kendisine odaklanabilirsiniz.
+Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablolarla uğraşmayı bırakın. Journeyfolio tüm gezinizi uçuşlar, oteller, belgeler, canlı hava durumu ve gerçek zamanlı uçuş durumunu içeren, güzelce düzenlenmiş bir güzergâhta bir araya getirir; böylece yolculuğun kendisine odaklanabilirsiniz.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
@@ -27,7 +27,7 @@ Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablol
 
 Journeyfolio artık gelişmiş özellikler için isteğe bağlı premium aboneliklerle **ücretsiz indirilebiliyor**.
 
-- **Esnek planlarla ücretsiz.** Mevcut satın alanlar kalıcı premium erişimi korur — herhangi bir işlem gerekmez.
+- **Esnek planlarla ücretsiz.** Mevcut satın alanlar kalıcı premium erişimi korur, herhangi bir işlem gerekmez.
 - Herhangi bir etkinliğe **seyahat belgeleri ekleyin**. Akıllı OCR biniş kartlarını ve rezervasyon onaylarını otomatik olarak okur.
 - Uyarlanabilir düzenler, Split View ve Slide Over çoklu görev ile **tam iPad desteği**.
 - Her açıdan **geliştirilmiş güvenilirlik, erişilebilirlik ve genel kararlılık**.
@@ -40,15 +40,15 @@ Yedi etkinlik kategorisiyle eksiksiz bir program oluşturun: uçuşlar, oteller,
 
 ### Canlı uçuş takibi
 
-Bir uçuş numarası ekleyin ve gerçek zamanlı durumu alın — Zamanında, Gecikmeli, İptal, İndi veya Havada — her havaalanının yerel saat diliminde saatlerle birlikte doğrudan güzergâhınızda görüntülenir.
+Bir uçuş numarası ekleyin ve gerçek zamanlı durumu alın (Zamanında, Gecikmeli, İptal, İndi veya Havada); bu durum, her havaalanının yerel saat diliminde saatlerle birlikte doğrudan güzergâhınızda görüntülenir.
 
 ### Doğru hava tahminleri
 
-Her hedef için güncel koşulları ve güvenilir bir 5 günlük görünümü inceleyin. Yedek olarak OpenWeatherMap ile [Apple Hava Durumu](https://weatherkit.apple.com/legal-attribution.html) tarafından desteklenir; böylece ne paketleyeceğinizi her zaman bilirsiniz.
+Her hedef için güncel koşulları ve güvenilir bir 5 günlük görünümü inceleyin. Yedek olarak ek bir hava durumu hizmeti ile [Apple Hava Durumu](https://weatherkit.apple.com/legal-attribution.html) tarafından desteklenir; böylece ne paketleyeceğinizi her zaman bilirsiniz.
 
 ### Biletler ve belgeler tek bir yerde
 
-Biniş kartlarını, rezervasyon onaylarını, makbuzları ve seyahat belgelerini doğrudan etkinliklere yükleyin. Bir fotoğraf çekin veya bir dosya içe aktarın — her şey düzenli kalır ve en çok ihtiyaç duyduğunuzda erişilebilir olur.
+Biniş kartlarını, rezervasyon onaylarını, makbuzları ve seyahat belgelerini doğrudan etkinliklere yükleyin. Bir fotoğraf çekin veya bir dosya içe aktarın; her şey düzenli kalır ve en çok ihtiyaç duyduğunuzda erişilebilir olur.
 
 ### Güzel, düzenli tasarım
 
@@ -64,7 +64,7 @@ Planlamayı zahmetsiz hâle getiren minimalist bir arayüz. Yıla göre düzenle
 
 ## Ücretsiz başlayın. Hazır olduğunuzda yükseltin.
 
-Ücretsiz olarak en fazla 10 gezi planlayın. Premium ile sınırsız gezi, canlı uçuş takibi ve hava tahminlerini açın — aylık, 6 aylık veya yıllık otomatik yenilenen abonelik olarak sunulur.
+Ücretsiz olarak en fazla 10 gezi planlayın. Premium ile sınırsız gezi, canlı uçuş takibi ve hava tahminlerini açın; bunlar aylık, 6 aylık veya yıllık otomatik yenilenen abonelik olarak sunulur.
 
 ## Uyumluluk
 

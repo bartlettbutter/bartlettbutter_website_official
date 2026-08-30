@@ -11,13 +11,13 @@ redirect_from:
 
 # We zijn er om te helpen.
 
-Of je nu je eerste reis instelt of een functie oplost, je vindt hieronder antwoorden. Zo niet, neem dan contact op — we helpen graag.
+Of je nu je eerste reis instelt of een functie oplost, je vindt hieronder antwoorden. Zo niet, neem dan contact op. We helpen graag.
 
 ## Aan de Slag
 
 ### Is Journeyfolio gratis?
 
-Ja. Journeyfolio is gratis te downloaden en laat je tot 10 reizen kosteloos plannen. Premium-functies — onbeperkte reizen, live vluchtvolging en weersvoorspellingen — zijn beschikbaar via optionele automatisch verlengende abonnementen (maandelijks, halfjaarlijks of jaarlijks).
+Ja. Journeyfolio is gratis te downloaden en laat je tot 10 reizen kosteloos plannen. Premium-functies (onbeperkte reizen, live vluchtvolging en weersvoorspellingen) zijn beschikbaar via optionele automatisch verlengende abonnementen (maandelijks, halfjaarlijks of jaarlijks).
 
 ### Ik heb Journeyfolio gekocht voordat het gratis werd. Verlies ik toegang?
 
@@ -112,7 +112,7 @@ Nee. Je reisgegevens worden lokaal opgeslagen en zijn volledig onafhankelijk van
 1. Bevestig dat je apparaat een internetverbinding heeft.
 2. Controleer of de naam van de bestemmingsstad correct is.
 3. Zorg ervoor dat je een actief Premium-abonnement hebt.
-4. Als het nog steeds niet laadt, probeer het dan over een paar minuten opnieuw — de weerdienst is mogelijk tijdelijk niet beschikbaar.
+4. Als het nog steeds niet laadt, probeer het dan over een paar minuten opnieuw, want de weerdienst is mogelijk tijdelijk niet beschikbaar.
 
 ### Vluchtverificatie zegt "Geen vlucht gevonden"
 

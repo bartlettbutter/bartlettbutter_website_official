@@ -10,13 +10,13 @@ redirect_from:
 
 # We're here to help.
 
-Whether you're setting up your first trip or troubleshooting a feature, you'll find answers below. If not, reach out — we're happy to assist.
+Whether you're setting up your first trip or troubleshooting a feature, you'll find answers below. If not, reach out. We're happy to assist.
 
 ## Getting Started
 
 ### Is Journeyfolio free?
 
-Yes. Journeyfolio is free to download and lets you plan up to 10 trips at no cost. Premium features — unlimited trips, live flight tracking, and weather forecasts — are available through optional auto-renewable subscriptions (monthly, 6-month, or yearly).
+Yes. Journeyfolio is free to download and lets you plan up to 10 trips at no cost. Premium features (unlimited trips, live flight tracking, and weather forecasts) are available through optional auto-renewable subscriptions (monthly, 6-month, or yearly).
 
 ### I purchased Journeyfolio before it went free. Do I lose access?
 
@@ -111,7 +111,7 @@ No. Your trip data is stored locally and is completely independent of your subsc
 1. Confirm your device has an internet connection.
 2. Verify the destination city name is correct.
 3. Ensure you have an active Premium subscription.
-4. If it still doesn't load, try again in a few minutes — the weather service may be temporarily unavailable.
+4. If it still doesn't load, try again in a few minutes, as the weather service may be temporarily unavailable.
 
 ### Flight verification says "No flight found"
 

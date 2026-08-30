@@ -12,7 +12,7 @@ redirect_from:
 
 # Ogni viaggio merita un folio.
 
-Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciati a metà. Journeyfolio riunisce l'intero viaggio in un itinerario splendidamente organizzato — voli, hotel, documenti, meteo in tempo reale e stato dei voli in tempo reale — così puoi concentrarti sul viaggio stesso.
+Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciati a metà. Journeyfolio riunisce l'intero viaggio in un itinerario splendidamente organizzato che raccoglie voli, hotel, documenti, meteo in tempo reale e stato dei voli in tempo reale, così puoi concentrarti sul viaggio stesso.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
@@ -27,7 +27,7 @@ Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciat
 
 Journeyfolio ora è **scaricabile gratuitamente** con abbonamenti premium opzionali per funzioni avanzate.
 
-- **Gratis con piani flessibili.** Gli acquirenti esistenti mantengono l'accesso premium permanente — nessuna azione necessaria.
+- **Gratis con piani flessibili.** Gli acquirenti esistenti mantengono l'accesso premium permanente, senza alcuna azione necessaria.
 - **Allega documenti di viaggio** a qualsiasi attività. L'OCR intelligente legge automaticamente carte d'imbarco e conferme di prenotazione.
 - **Supporto completo per iPad** con layout adattivi, Split View e multitasking con Slide Over.
 - **Affidabilità, accessibilità e stabilità generale migliorate** su tutta la linea.
@@ -40,15 +40,15 @@ Crea un programma completo con sette categorie di attività: voli, hotel, traspo
 
 ### Tracciamento voli in tempo reale
 
-Aggiungi un numero di volo e ottieni lo stato in tempo reale — In orario, In ritardo, Cancellato, Atterrato o In volo — visualizzato direttamente nel tuo itinerario con gli orari nel fuso orario locale di ciascun aeroporto.
+Aggiungi un numero di volo e ottieni lo stato in tempo reale (In orario, In ritardo, Cancellato, Atterrato o In volo) visualizzato direttamente nel tuo itinerario con gli orari nel fuso orario locale di ciascun aeroporto.
 
 ### Previsioni meteo accurate
 
-Visualizza le condizioni attuali e una previsione affidabile a 5 giorni per ogni destinazione. Basato su [Apple Meteo](https://weatherkit.apple.com/legal-attribution.html) con OpenWeatherMap come riserva, così sai sempre cosa mettere in valigia.
+Visualizza le condizioni attuali e una previsione affidabile a 5 giorni per ogni destinazione. Basato su [Apple Meteo](https://weatherkit.apple.com/legal-attribution.html) con un servizio meteo aggiuntivo come riserva, così sai sempre cosa mettere in valigia.
 
 ### Biglietti e documenti in un unico posto
 
-Carica carte d'imbarco, conferme di prenotazione, ricevute e documenti di viaggio direttamente nelle attività. Scatta una foto o importa un file — tutto resta organizzato e accessibile quando ne hai più bisogno.
+Carica carte d'imbarco, conferme di prenotazione, ricevute e documenti di viaggio direttamente nelle attività. Scatta una foto o importa un file, e tutto resta organizzato e accessibile quando ne hai più bisogno.
 
 ### Design bello e senza ingombri
 
@@ -64,7 +64,7 @@ Un'interfaccia minimalista che rende la pianificazione senza sforzo. Viaggi orga
 
 ## Inizia gratis. Passa a premium quando sei pronto.
 
-Pianifica fino a 10 viaggi senza costi. Sblocca viaggi illimitati, tracciamento voli in tempo reale e previsioni meteo con Premium — disponibile come abbonamento a rinnovo automatico mensile, semestrale o annuale.
+Pianifica fino a 10 viaggi senza costi. Sblocca viaggi illimitati, tracciamento voli in tempo reale e previsioni meteo con Premium, disponibile come abbonamento a rinnovo automatico mensile, semestrale o annuale.
 
 ## Compatibilità
 

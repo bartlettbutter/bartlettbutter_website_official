@@ -12,11 +12,11 @@ redirect_from:
 
 # Todo cão tem uma história. Descubra-a instantaneamente.
 
-Tire uma foto, identifique a raça e desbloqueie tudo o que há para saber — temperamento, história, curiosidades e muito mais. Sem necessidade de internet, sem cadastro, sem custo.
+Tire uma foto, identifique a raça e desbloqueie tudo o que há para saber: temperamento, história, curiosidades e muito mais. Sem necessidade de internet, sem cadastro, sem custo.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
 
-## Por que mais de 100.000 amantes de cães escolhem o Barkpedia
+## Por que os amantes de cães escolhem o Barkpedia
 
 - **Respostas instantâneas, em qualquer lugar.** Identifique 147 raças em segundos: no parque, no abrigo ou no seu sofá. Funciona totalmente offline.
 - **Sua privacidade vem primeiro.** As fotos nunca saem do seu dispositivo. Sem contas, sem rastreamento, sem anúncios. Ponto final.
@@ -27,7 +27,7 @@ Tire uma foto, identifique a raça e desbloqueie tudo o que há para saber — t
 
 ### Escaneie e identifique
 
-Aponte sua câmera para qualquer cão — ou escolha uma foto da sua galeria — e obtenha uma correspondência de raça com uma pontuação de confiança. Cada resultado leva a um perfil de raça rico com temperamento, tamanho, nível de energia, história de origem e fotos.
+Aponte sua câmera para qualquer cão, ou escolha uma foto da sua galeria, e obtenha uma correspondência de raça com uma pontuação de confiança. Cada resultado leva a um perfil de raça rico com temperamento, tamanho, nível de energia, história de origem e fotos.
 
 ### Salve seus favoritos
 
@@ -42,7 +42,7 @@ Busque 147 raças por nome ou navegue por um mapa-múndi interativo organizado p
 Coloque seu conhecimento de raças à prova com dois modos de jogo:
 
 - **Quiz de Raças** — Adivinhe a raça a partir de uma foto. 10 perguntas, quatro opções, ganhe títulos de recompensa.
-- **Curiosidades Caninas** — Verdadeiro ou falso? 10 rodadas de fatos reais misturados com mitos engenhosos.
+- **Curiosidades Caninas** — Verdadeiro ou falso? 10 rodadas de fatos reais misturados com mitos engenhosos. Funciona totalmente offline.
 
 ## Como funciona
 
@@ -53,7 +53,7 @@ Coloque seu conhecimento de raças à prova com dois modos de jogo:
 
 ## Compatibilidade
 
-iOS 17.0 ou posterior · iPhone e iPad
+iOS 18.0 ou posterior · iPhone e iPad
 
 ## Sua privacidade, protegida
 

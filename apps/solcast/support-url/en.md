@@ -16,7 +16,7 @@ We want you to get the most out of Solcast. If something isn't working as expect
 
 ### How do I set up the app?
 
-Just open Solcast — no account, no sign-up. When prompted, grant location permission so we can fetch your local weather (you can also skip this and search for a city manually). Your personalized dashboard appears immediately with your forecast, outfit picks, and daily briefing.
+Just open Solcast. There's no account and no sign-up. When prompted, grant location permission so we can fetch your local weather (you can also skip this and search for a city manually). Your personalized dashboard appears immediately with your forecast, outfit picks, and daily briefing.
 
 ### How do I personalize recommendations?
 
@@ -26,17 +26,17 @@ Tap the gear icon (top right) to open Settings. You'll find 11 options across th
 - **Your Style** — dressing style (Casual, Business Casual, Formal, Sporty) and outdoor exercise preference
 - **Your Household** — kids, pets, cars
 
-Every change takes effect immediately — no reload needed.
+Every change takes effect immediately, with no reload needed.
 
 ### How do I manage locations?
 
-You can save up to 10 locations. Use the location picker on the dashboard to switch between them, or tap the search icon to add a new city. Each location displays weather in its own local timezone so times (sunrise, sunset, hourly forecast) are always relevant to that city.
+You can save up to 4 locations on the free tier (unlimited with Premium). Use the location picker on the dashboard to switch between them, or tap the search icon to add a new city. Each location displays weather in its own local timezone so times (sunrise, sunset, hourly forecast) are always relevant to that city.
 
 ## Frequently Asked Questions
 
-### Is Solcast really free?
+### Is Solcast free?
 
-Yes. There are no in-app purchases, no subscriptions, and no ads. Every feature is available from day one.
+Yes. Solcast is free to download and the full weather experience (forecasts, outfit picks, daily briefing, all 16 lifestyle indices, and smart weather alerts) is free, with no ads. An optional Premium subscription adds personal reminders and lifts the saved-city limit; everything else stays free.
 
 ### Does Solcast collect my data?
 
@@ -60,7 +60,7 @@ A glanceable card at the top of your dashboard with up to 6 plain-language actio
 
 ### Where does the weather data come from?
 
-Solcast combines data from Apple Weather and Open-Meteo to deliver reliable, accurate forecasts. Air quality and pollen data come from a dedicated environmental API. All values shown are real measurements — nothing is estimated or fabricated.
+Solcast uses Apple Weather along with additional third-party weather and environmental data services to deliver reliable, accurate forecasts, including air quality and pollen. All values shown are real measurements. Nothing is estimated or fabricated.
 
 ## Permissions
 
@@ -78,7 +78,7 @@ No. Solcast only requests location permission. It does not access your camera, p
 
 1. Confirm your device has an active Wi-Fi or cellular connection.
 2. Pull down on the dashboard to force a refresh.
-3. If it still doesn't load, the weather service may be temporarily unavailable — try again in a few minutes.
+3. If it still doesn't load, the weather service may be temporarily unavailable. Try again in a few minutes.
 
 ### My location isn't being detected
 
@@ -86,7 +86,7 @@ Go to your device's Settings > Privacy & Security > Location Services > Solcast 
 
 ### An index or recommendation seems off
 
-Recommendations are based on live weather data combined with your personal settings. Double-check your sensitivity toggles in Settings > About You and confirm the correct location is selected. Some data (air quality, pollen) varies by region and may not be available everywhere — the app hides those indices automatically when data is unavailable.
+Recommendations are based on live weather data combined with your personal settings. Double-check your sensitivity toggles in Settings > About You and confirm the correct location is selected. Some data (air quality, pollen) varies by region and may not be available everywhere. The app hides those indices automatically when data is unavailable.
 
 ### The hourly forecast strip isn't showing
 
@@ -94,7 +94,7 @@ The hourly strip loads separately from the main forecast. Pull down to refresh. 
 
 ### Times look wrong for a remote city
 
-This is by design. Each saved location shows weather times (sunrise, sunset, hourly forecast) in that city's local timezone — not your device's timezone. This ensures the information is useful for planning at that location.
+This is by design. Each saved location shows weather times (sunrise, sunset, hourly forecast) in that city's local timezone, not your device's timezone. This ensures the information is useful for planning at that location.
 
 ### The app is crashing
 

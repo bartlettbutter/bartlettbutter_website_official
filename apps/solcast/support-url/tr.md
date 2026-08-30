@@ -17,7 +17,7 @@ Solcast'ten en iyi şekilde yararlanmanızı istiyoruz. Bir şey beklendiği gib
 
 ### Uygulamayı nasıl kurarım?
 
-Sadece Solcast'i açın — hesap yok, kayıt yok. İstendiğinde, bölgenizin havasını getirebilmemiz için konum iznini verin (bunu atlayıp manuel olarak bir şehir de arayabilirsiniz). Kişiselleştirilmiş kontrol paneliniz; tahmininiz, kıyafet önerileriniz ve günlük brifinginizle birlikte hemen görünür.
+Sadece Solcast'i açın. Hesap yok, kayıt yok. İstendiğinde, bölgenizin havasını getirebilmemiz için konum iznini verin (bunu atlayıp manuel olarak bir şehir de arayabilirsiniz). Kişiselleştirilmiş kontrol paneliniz; tahmininiz, kıyafet önerileriniz ve günlük brifinginizle birlikte hemen görünür.
 
 ### Önerileri nasıl kişiselleştiririm?
 
@@ -27,17 +27,17 @@ Ayarları açmak için dişli simgesine (sağ üst) dokunun. Üç bölümde 11 s
 - **Tarzınız** — giyim tarzı (Günlük, İş Günlüğü, Resmi, Sportif) ve açık hava egzersiz tercihi
 - **Haneniz** — çocuklar, evcil hayvanlar, arabalar
 
-Her değişiklik hemen geçerli olur — yeniden yüklemeye gerek yoktur.
+Her değişiklik hemen geçerli olur, yeniden yüklemeye gerek yoktur.
 
 ### Konumları nasıl yönetirim?
 
-En fazla 10 konum kaydedebilirsiniz. Aralarında geçiş yapmak için kontrol panelindeki konum seçiciyi kullanın veya yeni bir şehir eklemek için arama simgesine dokunun. Her konum, havayı kendi yerel saat diliminde gösterir; böylece saatler (gün doğumu, gün batımı, saatlik tahmin) her zaman o şehirle ilgilidir.
+Ücretsiz katmanda en fazla 4 konum kaydedebilirsiniz (Premium ile sınırsız). Aralarında geçiş yapmak için kontrol panelindeki konum seçiciyi kullanın veya yeni bir şehir eklemek için arama simgesine dokunun. Her konum, havayı kendi yerel saat diliminde gösterir; böylece saatler (gün doğumu, gün batımı, saatlik tahmin) her zaman o şehirle ilgilidir.
 
 ## Sık Sorulan Sorular
 
-### Solcast gerçekten ücretsiz mi?
+### Solcast ücretsiz mi?
 
-Evet. Uygulama içi satın alma, abonelik veya reklam yoktur. Her özellik ilk günden itibaren kullanılabilir.
+Evet. Solcast'i indirmek ücretsizdir ve tam hava durumu deneyimi (tahminler, kıyafet önerileri, günlük brifing, 16 yaşam tarzı endeksinin tamamı ve akıllı hava durumu uyarıları) reklamsız olarak ücretsizdir. İsteğe bağlı bir Premium abonelik kişisel hatırlatıcılar ekler ve kaydedilen şehir sınırını yükseltir; geri kalan her şey ücretsiz kalır.
 
 ### Solcast verilerimi topluyor mu?
 
@@ -61,7 +61,7 @@ Ayarlarınıza ve koşullara göre uyarlanmış en fazla 6 sade dilde eylem madd
 
 ### Hava durumu verileri nereden geliyor?
 
-Solcast, güvenilir ve doğru tahminler sunmak için Apple Hava Durumu ve Open-Meteo verilerini birleştirir. Hava kalitesi ve polen verileri özel bir çevresel API'den gelir. Gösterilen tüm değerler gerçek ölçümlerdir — hiçbir şey tahmin edilmez veya uydurulmaz.
+Solcast, hava kalitesi ve polen dahil güvenilir ve doğru tahminler sunmak için Apple Hava Durumu'nun yanı sıra ek üçüncü taraf hava durumu ve çevresel veri hizmetlerini kullanır. Gösterilen tüm değerler gerçek ölçümlerdir. Hiçbir şey tahmin edilmez veya uydurulmaz.
 
 ## İzinler
 
@@ -79,7 +79,7 @@ Hayır. Solcast yalnızca konum iznini ister. Kameranıza, fotoğraflarınıza, 
 
 1. Cihazınızın etkin bir Wi-Fi veya hücresel bağlantısı olduğunu doğrulayın.
 2. Yenilemeyi zorlamak için kontrol panelinde aşağı çekin.
-3. Hâlâ yüklenmiyorsa, hava durumu hizmeti geçici olarak kullanılamıyor olabilir — birkaç dakika sonra tekrar deneyin.
+3. Hâlâ yüklenmiyorsa, hava durumu hizmeti geçici olarak kullanılamıyor olabilir. Birkaç dakika sonra tekrar deneyin.
 
 ### Konumum algılanmıyor
 
@@ -87,7 +87,7 @@ Cihazınızın Ayarlar > Gizlilik ve Güvenlik > Konum Hizmetleri > Solcast böl
 
 ### Bir endeks veya öneri yanlış görünüyor
 
-Öneriler, kişisel ayarlarınızla birleştirilen canlı hava durumu verilerine dayanır. Ayarlar > Sizin Hakkınızda bölümünde hassasiyet anahtarlarınızı yeniden kontrol edin ve doğru konumun seçili olduğunu doğrulayın. Bazı veriler (hava kalitesi, polen) bölgeye göre değişir ve her yerde bulunmayabilir — veri kullanılamadığında uygulama bu endeksleri otomatik olarak gizler.
+Öneriler, kişisel ayarlarınızla birleştirilen canlı hava durumu verilerine dayanır. Ayarlar > Sizin Hakkınızda bölümünde hassasiyet anahtarlarınızı yeniden kontrol edin ve doğru konumun seçili olduğunu doğrulayın. Bazı veriler (hava kalitesi, polen) bölgeye göre değişir ve her yerde bulunmayabilir. Veri kullanılamadığında uygulama bu endeksleri otomatik olarak gizler.
 
 ### Saatlik tahmin şeridi görünmüyor
 

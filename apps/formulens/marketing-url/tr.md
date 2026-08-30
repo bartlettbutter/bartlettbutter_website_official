@@ -14,7 +14,7 @@ redirect_from:
 
 **Herhangi bir içerik listesinin fotoğrafını çekin ve her bileşenin ne işe yaradığına dair renk kodlu, net bir döküm alın; ardından ürünleri karşılaştırın veya tüm rutininizin gerçekten uyum içinde çalışıp çalışmadığını kontrol edin. Hepsi saniyeler içinde, hepsi cihazınızda.**
 
-İçerik etiketleri sizin için değil, kimyagerler için yazılır. FormuLens onları çevirir. Kameranızı herhangi bir ürüne doğrultun; her bileşen çözümlenir ve gerçekte ne işe yaradığına göre sıralanır — yazmak yok, aramak yok, kimya diploması gerekmiyor.
+İçerik etiketleri sizin için değil, kimyagerler için yazılır. FormuLens onları çevirir. Kameranızı herhangi bir ürüne doğrultun; her bileşen çözümlenir ve gerçekte ne işe yaradığına göre sıralanır. Yazmak yok, aramak yok, kimya diploması gerekmiyor.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
@@ -49,7 +49,7 @@ Rutinini ince ayar yapan meraklılar. Kokulara veya belirli aktiflere dikkat ede
 
 ## İndirmesi ücretsiz. Tasarımı gereği özel.
 
-FormuLens'i ücretsiz indirin ve hemen taramaya başlayın — hesap yok, reklam yok, gizli bir şey yok. Yukarıdaki her özellik bugün ücretsiz olarak kullanılabilir. Fotoğraflarınız asla cihazınızdan çıkmaz: tüm tanıma ve analiz işlemleri yerel olarak gerçekleşir; sunucu yok, bulut yok, takip yok.
+FormuLens'i ücretsiz indirin ve hemen taramaya başlayın. Hesap yok, reklam yok, gizli bir şey yok. Yukarıdaki her özellik bugün ücretsiz olarak kullanılabilir. Fotoğraflarınız asla cihazınızdan çıkmaz: tüm tanıma ve analiz işlemleri yerel olarak gerçekleşir; sunucu yok, bulut yok, takip yok.
 
 ## Uyumluluk
 
@@ -57,7 +57,7 @@ iOS 26.2 veya üzeri · iPhone ve iPad
 
 ## Gizliliğiniz korunuyor
 
-Fotoğraflarınız asla cihazınızdan çıkmaz. Tüm tanıma ve analiz işlemleri yerel olarak gerçekleşir — sunucu yok, bulut yok, hesap yok, takip yok.
+Fotoğraflarınız asla cihazınızdan çıkmaz. Tüm tanıma ve analiz işlemleri yerel olarak gerçekleşir. Sunucu yok, bulut yok, hesap yok, takip yok.
 
 Tam [Gizlilik Politikamızı](https://www.bartlettbutter.com/formulens/privacy/) okuyun.
 

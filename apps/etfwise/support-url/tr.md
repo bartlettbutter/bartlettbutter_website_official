@@ -25,7 +25,7 @@ ETFWise her gün, canlı piyasa verilerine dayanarak yedi kategoride (Ana Endeks
 
 ### İnternet bağlantısına ihtiyacım var mı?
 
-Evet, canlı fiyatlar, haberler, duygu analizi ve fon verileri için. Ancak cihaz üzeri yapay zeka modeli indirildikten sonra tamamen çevrimdışı çalışır, bu nedenle yapay zeka tarafından oluşturulan analiz için internet gerekmez.
+Evet, canlı fiyatlar, haberler, duygu analizi ve fon verileri için. Yükseliş ve risk senaryosu analizi, ekranda zaten görüntülenen verilerden cihazınızda anında oluşturulur, bu nedenle ek bir bağlantı gerektirmez.
 
 ### ETFWise ne kadar?
 
@@ -45,13 +45,9 @@ ETFWise, App Store'dan ücretsiz indirilir. Abonelik veya reklam yoktur.
 | Tematik | Yapay zeka ve robotik, temiz enerji, siber güvenlik, bulut, elektrikli araçlar |
 | Temettü | Yüksek getiri, temettü büyümesi, aristokratlar, gelir stratejileri |
 
-### Cihaz üzeri yapay zeka nedir?
+### Yükseliş ve risk senaryoları nasıl oluşturulur?
 
-ETFWise, cihazınızda yerel olarak çalışan hafif bir dil modeli içerir. Fiyat, getiriler, duygu analizi ve haberler dahil ekranda gösterilen gerçek verileri kullanarak yükseliş ve risk senaryoları oluşturur. Tüm işlemler cihazınızda gerçekleşir ve hiçbir şey harici sunuculara gönderilmez.
-
-### Yapay zeka modelini nasıl indiririm?
-
-Model önceden yüklü değilse, ana ekranda ve ETF ayrıntı görünümlerinde bir "Modeli İndir" kartı görürsünüz. İndirmek için ona dokunun (yaklaşık 290 MB). Bir ilerleme çubuğu indirme durumunu gösterir. Tamamlandığında model, gelecekteki kullanım için yerel olarak kaydedilir.
+ETFWise, her yükseliş ve risk senaryosunu, o ETF için zaten görüntülenen gerçek verilerden (fiyat, getiriler, duygu analizi, gider oranı ve daha fazlası) cihazınızda oluşturur. Oluşturma anlıktır, indirme veya hesap gerektirmez ve hiçbir şey harici sunuculara gönderilmez.
 
 ### Haber duygu analizi nasıl çalışır?
 
@@ -67,7 +63,7 @@ Evet. Hesap yok, analiz yok, izleme yok. Finansal veri sağlayıcılarına yaln�
 
 ### Uygulamayı silersem ne olur?
 
-ETFWise'ı kaldırmak, önbelleğe alınmış öneriler, yapay zeka analizi ve API anahtarınız dahil yerel olarak saklanan tüm verileri kalıcı olarak kaldırır. Bulut yedeklemesi olmadığından bu işlem geri alınamaz.
+ETFWise'ı kaldırmak, önbelleğe alınmış öneriler, oluşturulan analiz ve API anahtarınız dahil yerel olarak saklanan tüm verileri kalıcı olarak kaldırır. Bulut yedeklemesi olmadığından bu işlem geri alınamaz.
 
 ## Sorun Giderme
 
@@ -79,9 +75,9 @@ Geçerli bir Finnhub API anahtarı girdiğinizden ([finnhub.io](https://finnhub.
 
 Bu genellikle bir ağ isteğinin başarısız olduğu anlamına gelir. İnternet bağlantınızı kontrol edin ve "Yeniden Dene"ye dokunun. Bir Finnhub API anahtarı kullanıyorsanız, uygulama ayarlarına doğru girildiğini doğrulayın.
 
-### Yükseliş ve risk senaryoları oluşturulmuyor
+### Yükseliş ve risk senaryoları görünmüyor
 
-Önce cihaz üzeri yapay zeka modelinin indirilmesi gerekir. Ana ekranda veya ETF ayrıntı görünümünde "Modeli İndir" kartını bulun ve indirmek için dokunun.
+Yükseliş ve risk senaryoları, bir ETF'nin fiyat, performans ve duygu analizi verilerinden oluşturulur. Görünmüyorlarsa, bu temel veriler henüz yüklenmeyi tamamlamamıştır: internete bağlı olduğunuzdan emin olun, ardından ETF ayrıntı görünümünü yeniden açın.
 
 ### Fon verileri (varlıklar, performans) yüklenmiyor
 

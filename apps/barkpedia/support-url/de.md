@@ -17,15 +17,15 @@ Wir möchten, dass du eine großartige Erfahrung mit Barkpedia machst. Wenn etwa
 
 ### Wie funktioniert die Rassenerkennung?
 
-Barkpedia verwendet fortschrittliche geräteinterne Intelligenz, um dein Foto zu analysieren und die Hunderasse zu identifizieren. Die gesamte Verarbeitung erfolgt lokal auf deinem iPhone oder iPad — deine Fotos werden niemals irgendwohin hochgeladen.
+Barkpedia verwendet fortschrittliche geräteinterne Intelligenz, um dein Foto zu analysieren und die Hunderasse zu identifizieren. Die gesamte Verarbeitung erfolgt lokal auf deinem iPhone oder iPad, sodass deine Fotos niemals irgendwohin hochgeladen werden.
 
 ### Brauche ich eine Internetverbindung?
 
-Nicht für das Kernerlebnis. Rassenerkennung, gespeicherte Favoriten, Rassensuche und die Weltkarte funktionieren vollständig offline. Die Rassendetailseiten (Temperament, Geschichte, Fotos), das Quiz und die Hunde-Trivia benötigen eine Internetverbindung, um Inhalte zu laden.
+Nicht für den Großteil des Erlebnisses. Rassenerkennung, gespeicherte Favoriten, Rassensuche, die Weltkarte und die Hunde-Trivia funktionieren alle vollständig offline. Die Rassendetailseiten (Temperament, Geschichte, Fotos) und das Rassen-Quiz benötigen eine Internetverbindung, um Inhalte zu laden.
 
 ### Ist Barkpedia wirklich kostenlos?
 
-Ja — völlig kostenlos und ohne Haken. Es gibt keine In-App-Käufe, keine Abonnements und keine Werbung.
+Ja, völlig kostenlos und ohne Haken. Es gibt keine In-App-Käufe, keine Abonnements und keine Werbung.
 
 ### Wie viele Rassen kann Barkpedia erkennen?
 
@@ -47,11 +47,11 @@ Sowohl die Suche als auch die Karte funktionieren offline.
 - **Rassen-Quiz** — Dir wird ein Hundefoto gezeigt und du wählst die richtige Rasse aus vier Auswahlmöglichkeiten. Jede Runde hat 10 Fragen. Verdiene Belohnungstitel basierend auf deiner Punktzahl.
 - **Hunde-Trivia** — Richtig-oder-Falsch-Aussagen, die echte Hundefakten mit plausiblen Mythen mischen. Ebenfalls 10 Fragen pro Runde mit Belohnungstiteln.
 
-Beide Spiele benötigen eine Internetverbindung.
+Das Rassen-Quiz benötigt eine Internetverbindung, um Fotos zu laden. Die Hunde-Trivia funktioniert vollständig offline.
 
 ### Funktioniert Barkpedia auf dem iPad?
 
-Ja. Barkpedia passt sein Layout automatisch an — Tab-Navigation auf dem iPhone und Seitenleisten-Navigation auf dem iPad. Alle fünf Bereiche (Scannen, Favoriten, Entdecken, Quiz und Trivia) sind für beide Geräte vollständig optimiert.
+Ja. Barkpedia passt sein Layout automatisch an, mit Tab-Navigation auf dem iPhone und Seitenleisten-Navigation auf dem iPad. Alle fünf Bereiche (Scannen, Favoriten, Entdecken, Quiz und Trivia) sind für beide Geräte vollständig optimiert.
 
 ## Datenschutz und Daten
 
@@ -75,7 +75,7 @@ Die Deinstallation von Barkpedia entfernt dauerhaft alle gespeicherten Favoriten
 
 ### Warum benötigt Barkpedia Zugriff auf die Kamera?
 
-Der Kamerazugriff ermöglicht es dir, Hunde direkt in der App für die Rassenerkennung zu fotografieren. Diese Berechtigung ist optional — du kannst stattdessen deine Fotomediathek verwenden.
+Der Kamerazugriff ermöglicht es dir, Hunde direkt in der App für die Rassenerkennung zu fotografieren. Diese Berechtigung ist optional. Du kannst stattdessen deine Fotomediathek verwenden.
 
 ### Warum benötigt Barkpedia Zugriff auf die Fotomediathek?
 
@@ -91,9 +91,9 @@ Nein. Barkpedia fordert nur Zugriff auf die Kamera und die Fotomediathek an. Es 
 
 Gehe zu Einstellungen → Barkpedia und bestätige, dass der Kamerazugriff aktiviert ist. Falls er bereits aktiviert ist, versuche, die App zwangszubeenden und erneut zu öffnen.
 
-### Rasseninfos, Quiz- oder Trivia-Inhalte werden nicht geladen
+### Rassendetails oder Quiz-Inhalte werden nicht geladen
 
-Diese Funktionen erfordern eine aktive Internetverbindung. Überprüfe deine WLAN- oder Mobilfunkverbindung und versuche es erneut. Wenn das Problem weiterhin besteht, ist der Inhaltsdienst möglicherweise vorübergehend nicht verfügbar — warte ein paar Minuten und versuche es erneut.
+Die Rassendetailseiten und das Rassen-Quiz erfordern eine aktive Internetverbindung. Überprüfe deine WLAN- oder Mobilfunkverbindung und versuche es erneut. Wenn das Problem weiterhin besteht, ist der Inhaltsdienst möglicherweise vorübergehend nicht verfügbar. Warte ein paar Minuten und versuche es erneut. (Die Hunde-Trivia funktioniert offline und sollte nicht betroffen sein.)
 
 ### Die App sagt „Kein Hund"
 
@@ -105,7 +105,7 @@ Stelle sicher, dass du die neueste Version aus dem App Store verwendest, starte 
 
 ## Kompatibilität
 
-Barkpedia erfordert iOS 17.0 oder neuer und läuft sowohl auf iPhone als auch iPad.
+Barkpedia erfordert iOS 18.0 oder neuer und läuft sowohl auf iPhone als auch iPad.
 
 ## Kontakt
 

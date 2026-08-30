@@ -11,7 +11,7 @@ redirect_from:
 
 **Data de vigência:** 25 de abril de 2026
 
-ETFWise ("o Aplicativo") é um aplicativo iOS gratuito que fornece recomendações diárias de ETF com dados de mercado ao vivo e análise de IA no dispositivo. Sua privacidade é fundamental na forma como construímos este aplicativo. Aqui está exatamente como suas informações são tratadas.
+ETFWise ("o Aplicativo") é um aplicativo iOS gratuito que fornece recomendações diárias de ETF com dados de mercado ao vivo e análise instantânea no dispositivo. Sua privacidade é fundamental na forma como construímos este aplicativo. Aqui está exatamente como suas informações são tratadas.
 
 ## Versão Resumida
 
@@ -22,7 +22,7 @@ ETFWise ("o Aplicativo") é um aplicativo iOS gratuito que fornece recomendaçõ
 | Há rastreamento ou análises? | Não |
 | Há anúncios? | Não |
 | Meus dados são vendidos ou compartilhados? | Não |
-| A análise de IA sai do meu dispositivo? | Não |
+| A análise sai do meu dispositivo? | Não |
 | As crianças podem usar o aplicativo com segurança? | Sim |
 
 Os únicos dados enviados externamente são os símbolos de ETF para obter dados de mercado. Sua chave de API do Finnhub é armazenada com segurança no dispositivo e enviada apenas ao Finnhub.
@@ -36,26 +36,25 @@ Nenhum. Não coletamos, armazenamos nem transmitimos nenhuma informação pessoa
 Todos os dados do aplicativo são armazenados localmente no seu dispositivo:
 
 - Recomendações diárias de ETF e preços de mercado em cache
-- Pontuações de sentimento de notícias e análises geradas por IA
+- Pontuações de sentimento de notícias e análises geradas
 - Sua chave de API do Finnhub (armazenada com segurança no armazenamento do dispositivo)
-- O arquivo do modelo de IA baixado
 
 Esses dados são atualizados diariamente e nunca são enviados a servidores externos.
 
 ## Serviços de Terceiros
 
-O ETFWise se conecta a provedores de dados financeiros exclusivamente para obter dados de mercado para exibição. As únicas informações enviadas são os símbolos de ETF e os intervalos de datas. Nenhum dado pessoal, identificador de dispositivo ou informação de localização é transmitido.
+O ETFWise se conecta a provedores terceiros de dados financeiros exclusivamente para obter dados de mercado para exibição. Se você optar por fornecer uma, sua própria chave de API do Finnhub é usada para cotações e notícias ao vivo.
 
-| Serviço | O Que Fornece | Dados Enviados | Informações de Privacidade |
-|---------|---------------|----------------|----------------------------|
-| Finnhub | Cotações em tempo real, notícias, sentimento, dados de analistas | Símbolos, intervalos de datas, sua chave de API | [Política de Privacidade](https://finnhub.io/privacy-policy) |
-| Yahoo Finance | Tamanho do fundo, participações, pesos de setores, desempenho | Símbolos | [Política de Privacidade](https://legal.yahoo.com/us/en/yahoo/privacy/index.html) |
-| Polymarket | Probabilidades de mercados de previsão | Apenas dados de eventos públicos | [Política de Privacidade](https://polymarket.com/privacy) |
-| HuggingFace | Hospeda o arquivo do modelo de IA para download único | Apenas download do arquivo do modelo | [Política de Privacidade](https://huggingface.co/privacy) |
+| Dados Enviados | Dados Pessoais Incluídos |
+|---|---|
+| Símbolos de ETF e intervalos de datas | Nenhum |
+| Sua chave de API do Finnhub (apenas ao Finnhub, para autenticação) | Nenhum |
 
-## Processamento de IA no Dispositivo
+Nenhum identificador de dispositivo, localização ou informação de rastreamento é incluído em qualquer solicitação.
 
-O modelo de IA é executado inteiramente no seu dispositivo. Toda a inferência, incluindo argumentos de alta, argumentos de risco e descrições de fundos, ocorre localmente. Nenhum prompt, entrada ou saída é enviado a qualquer servidor externo para processamento de IA.
+## Análise no Dispositivo
+
+Os argumentos de alta, os argumentos de risco e as descrições de fundos são gerados inteiramente no seu dispositivo a partir dos dados de mercado já obtidos para cada ETF. Essa análise não envolve nenhum download separado nem nenhum servidor externo: nada relacionado a ela sai do seu dispositivo.
 
 ## Segurança da Chave de API
 
@@ -71,7 +70,7 @@ O ETFWise não solicita acesso à sua câmera, localização, contatos, microfon
 
 ## Retenção e Exclusão de Dados
 
-Como não coletamos dados pessoais em nossos servidores, não há nada para reter ou excluir do nosso lado. Todos os dados armazenados localmente, incluindo recomendações, preços em cache, análise de IA e sua chave de API, são removidos permanentemente quando você exclui o aplicativo do seu dispositivo.
+Como não coletamos dados pessoais em nossos servidores, não há nada para reter ou excluir do nosso lado. Todos os dados armazenados localmente, incluindo recomendações, preços em cache, análise gerada e sua chave de API, são removidos permanentemente quando você exclui o aplicativo do seu dispositivo.
 
 ## Seus Direitos
 

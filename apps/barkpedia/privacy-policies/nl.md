@@ -43,16 +43,9 @@ Geen van deze gegevens wordt extern verzonden. Alles wordt automatisch verwijder
 
 ## Netwerkverzoeken
 
-De App maakt uitsluitend verbinding met de volgende diensten om weergave-inhoud op te halen (rasprofielen, afbeeldingen en spelvragen):
+De App maakt uitsluitend verbinding met externe referentiediensten voor hondenrassen om weergave-inhoud op te halen: rasprofielen (temperament, statistieken, geschiedenis), rasafbeeldingen en quizfoto's. Dit zijn standaardverzoeken om inhoud op te halen.
 
-| Dienst | Doel | Verzonden Persoonsgegevens |
-|--------|------|----------------------------|
-| The Dog API | Rasinformatie (temperament, statistieken, geschiedenis) | Geen |
-| dogapi.dog | Aanvullende rasinformatie en hondenweetjes voor trivia | Geen |
-| Dog CEO API | Rasafbeeldingen en quizfoto's | Geen |
-| Wikipedia | Referentieafbeeldingen van rassen | Geen |
-
-Dit zijn standaardverzoeken om inhoud op te halen. Er worden in geen enkel verzoek persoonsgegevens, apparaat-ID's of trackinginformatie opgenomen.
+**Er worden in geen enkel verzoek persoonsgegevens, apparaat-ID's of trackinginformatie opgenomen.** Geen enkel verzoek identificeert u, en er worden nooit analyse- of advertentiegegevens verzonden.
 
 ## Gegevens Delen
 
@@ -69,7 +62,7 @@ We verkopen, verhuren of delen geen gebruikersgegevens met derden. Er zijn geen 
 
 ## Bewaring en Verwijdering van Gegevens
 
-Omdat we geen gegevens op onze servers verzamelen, is er aan onze kant niets te bewaren of te verwijderen. Alle lokaal opgeslagen gegevens — inclusief favorieten en scangeschiedenis — worden automatisch verwijderd wanneer u de App van uw apparaat verwijdert.
+Omdat we geen gegevens op onze servers verzamelen, is er aan onze kant niets te bewaren of te verwijderen. Alle lokaal opgeslagen gegevens, inclusief favorieten en scangeschiedenis, worden automatisch verwijderd wanneer u de App van uw apparaat verwijdert.
 
 ## Uw Rechten
 

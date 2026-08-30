@@ -42,14 +42,9 @@ Os resultados de escaneamento de raças que você salva nos Favoritos são armaz
 
 ## Serviços de Terceiros
 
-O Aplicativo se conecta aos seguintes serviços unicamente para buscar conteúdo de exibição, como informações sobre raças, imagens e dados de jogos:
+O Aplicativo se conecta a serviços de referência sobre gatos de terceiros unicamente para buscar conteúdo de exibição: informações sobre raças (temperamento, estatísticas, história), imagens de raças e de quiz, e curiosidades.
 
-| Serviço | Propósito | Dados Enviados | Informações de Privacidade |
-|---------|-----------|----------------|---------------------------|
-| The Cat API | Informações de raças (temperamento, estatísticas, história) e fotos de quiz | Nenhum | [thecatapi.com](https://thecatapi.com) |
-| catfact.ninja | Fatos sobre gatos para o recurso de trivia | Nenhum | [catfact.ninja](https://catfact.ninja) |
-
-Estas são solicitações padrão de busca de conteúdo. Nenhum dado pessoal, identificador de dispositivo ou informação de rastreamento é incluído.
+**Nenhum dado pessoal, identificador de dispositivo ou informação de rastreamento é incluído em qualquer solicitação.** Nenhuma solicitação identifica você, e nenhum dado de análise ou publicidade é jamais transmitido.
 
 ## Compartilhamento de Dados
 

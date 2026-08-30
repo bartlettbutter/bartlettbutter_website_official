@@ -12,7 +12,7 @@ redirect_from:
 
 # Elke reis verdient een folio.
 
-Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreadsheets. Journeyfolio brengt je volledige reis samen in één prachtig georganiseerd reisschema — vluchten, hotels, documenten, live weer en realtime vluchtstatus — zodat je je kunt concentreren op de reis zelf.
+Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreadsheets. Journeyfolio brengt je volledige reis samen in één prachtig georganiseerd reisschema dat vluchten, hotels, documenten, live weer en realtime vluchtstatus bundelt, zodat je je kunt concentreren op de reis zelf.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
 
@@ -27,7 +27,7 @@ Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreads
 
 Journeyfolio is nu **gratis te downloaden** met optionele premium-abonnementen voor geavanceerde functies.
 
-- **Gratis met flexibele plannen.** Bestaande kopers behouden permanente premium-toegang — geen actie nodig.
+- **Gratis met flexibele plannen.** Bestaande kopers behouden permanente premium-toegang, zonder dat er actie nodig is.
 - **Voeg reisdocumenten toe** aan elke activiteit. Slimme OCR leest instapkaarten en boekingsbevestigingen automatisch.
 - **Volledige iPad-ondersteuning** met adaptieve lay-outs, Split View en Slide Over-multitasking.
 - **Verbeterde betrouwbaarheid, toegankelijkheid en algehele stabiliteit** over de hele linie.
@@ -40,15 +40,15 @@ Bouw een volledig schema met zeven activiteitscategorieën: vluchten, hotels, ve
 
 ### Live vluchtvolging
 
-Voeg een vluchtnummer toe en krijg de realtime status — Op tijd, Vertraagd, Geannuleerd, Geland of In de lucht — direct in je reisschema weergegeven met de tijden in de lokale tijdzone van elke luchthaven.
+Voeg een vluchtnummer toe en krijg de realtime status (Op tijd, Vertraagd, Geannuleerd, Geland of In de lucht) direct in je reisschema weergegeven met de tijden in de lokale tijdzone van elke luchthaven.
 
 ### Nauwkeurige weersvoorspellingen
 
-Bekijk de huidige omstandigheden en een betrouwbare 5-daagse verwachting voor elke bestemming. Aangedreven door [Apple Weer](https://weatherkit.apple.com/legal-attribution.html) met OpenWeatherMap als reserve, zodat je altijd weet wat je moet inpakken.
+Bekijk de huidige omstandigheden en een betrouwbare 5-daagse verwachting voor elke bestemming. Aangedreven door [Apple Weer](https://weatherkit.apple.com/legal-attribution.html) met een aanvullende weerdienst als reserve, zodat je altijd weet wat je moet inpakken.
 
 ### Tickets en documenten op één plek
 
-Upload instapkaarten, boekingsbevestigingen, bonnen en reisdocumenten rechtstreeks naar activiteiten. Maak een foto of importeer een bestand — alles blijft georganiseerd en toegankelijk wanneer je het het hardst nodig hebt.
+Upload instapkaarten, boekingsbevestigingen, bonnen en reisdocumenten rechtstreeks naar activiteiten. Maak een foto of importeer een bestand, en alles blijft georganiseerd en toegankelijk wanneer je het het hardst nodig hebt.
 
 ### Prachtig, opgeruimd ontwerp
 
@@ -64,7 +64,7 @@ Een minimalistische interface die plannen moeiteloos maakt. Reizen georganiseerd
 
 ## Begin gratis. Upgrade wanneer je er klaar voor bent.
 
-Plan tot 10 reizen kosteloos. Ontgrendel onbeperkte reizen, live vluchtvolging en weersvoorspellingen met Premium — beschikbaar als maandelijks, halfjaarlijks of jaarlijks automatisch verlengend abonnement.
+Plan tot 10 reizen kosteloos. Ontgrendel onbeperkte reizen, live vluchtvolging en weersvoorspellingen met Premium, beschikbaar als maandelijks, halfjaarlijks of jaarlijks automatisch verlengend abonnement.
 
 ## Compatibiliteit
 

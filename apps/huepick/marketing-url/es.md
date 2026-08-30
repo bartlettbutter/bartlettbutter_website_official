@@ -18,28 +18,29 @@ Haz una foto de cualquier cosa que te inspire. Huepick revela al instante la pal
 
 ## Qué harás realmente con Huepick
 
-- **Encuentra la paleta perfecta en segundos.** Apunta tu cámara a un atardecer, un mural, una muestra de tela: Huepick extrae los colores dominantes y crea paletas armoniosas que puedes usar de inmediato. Se acabó calcular códigos hex a ojo o adivinar qué combina.
-- **Obtén paletas diseñadas para tu proyecto.** Ya sea que estés decorando una habitación, planificando un atuendo, eligiendo tonos de maquillaje o diseñando una interfaz, Huepick genera paletas con roles de color etiquetados que tienen sentido para tu contexto.
-- **Transforma tus fotos en arte.** Cinco herramientas creativas —Aislar, Duotono, Pixelizar, Desenfocar y Glitch— te permiten convertir cualquier foto en algo compartible usando colores de tu propia paleta.
+- **Encuentra la paleta perfecta en segundos.** Apunta tu cámara a un atardecer, un mural, una muestra de tela, y Huepick extrae una paleta de 12 colores que puedes usar de inmediato. Toca cualquier muestra para copiar su código hex. Se acabó calcular colores a ojo o adivinar qué hay en el encuadre.
+- **Entiende los colores que capturaste.** Huepick descompone tu paleta con un análisis visual claro: distribución de matices, temperatura cálida frente a fría, luminosidad y contraste, saturación y un desglose completo de color. Descubre qué hace que una imagen funcione.
+- **Transforma tus fotos en arte.** Seis herramientas creativas (Aislar, Duotono, Tritono, Pixelizar, Desenfocar y Glitch) te permiten convertir cualquier foto en algo compartible usando colores de tu propia paleta.
 - **Mantén todo privado y sin conexión.** Tus fotos nunca salen de tu dispositivo. Sin registros, sin subidas a la nube, sin rastreo. Funciona en cualquier lugar, incluso sin Wi-Fi.
 
 ## Cómo funciona
 
 1. **Haz o elige una foto** — sin cuenta, sin configuración
-2. **Ve tu paleta** — hasta 12 colores dominantes extraídos al instante
-3. **Elige un estilo** — escoge entre 6 tipos de armonía de color y 5 escenarios del mundo real
-4. **Juega** — transforma tu foto con herramientas creativas adaptadas a tu paleta
-5. **Guarda y comparte** — exporta paletas, descarga creaciones o comparte directamente
+2. **Ve tu paleta** — hasta 12 colores dominantes extraídos al instante, toca para copiar cualquier código hex
+3. **Explora el análisis** — matiz, temperatura, luminosidad, contraste y saturación de un vistazo
+4. **Juega** — transforma tu foto con seis herramientas creativas, guiado por sugerencias inteligentes para tu imagen
+5. **Guarda y comparte** — descarga tus creaciones en tus Fotos o compártelas directamente
 
 ## Qué hay dentro
 
-**Analiza** — Extrae colores, genera paletas con seis tipos de armonía y explora tu paleta con desgloses visuales detallados. La aplicación incluso recomienda qué herramientas creativas funcionarán mejor con tu foto específica.
+**Analiza** — Extrae una paleta de 12 colores y explórala con desgloses visuales detallados: una vista general con puntuación de diversidad y amplitud de matices, distribución de matices, temperatura de color, luminosidad y contraste, saturación y un desglose color por color. Huepick incluso recomienda qué herramientas creativas funcionarán mejor con tu foto específica.
 
-**Playground** — Cinco herramientas para transformar tu imagen:
+**Playground** — Seis herramientas para transformar tu imagen:
 - *Aislar* — destaca colores específicos mientras el resto se vuelve monocromo
 - *Duotono* — reasigna tu imagen a dos tonos audaces
-- *Pixelizar* — convierte en arte de píxeles geométrico
-- *Desenfocar* — añade un enfoque suave y de ensueño
+- *Tritono* — reasigna tu imagen a tres tonos para degradados más ricos
+- *Pixelizar* — convierte en un mosaico de teselas geométricas
+- *Desenfocar* — añade un enfoque suave y de ensueño con una variedad de estilos de desenfoque
 - *Glitch* — aplica distorsión digital para un look atrevido
 
 **Galería** — Cada creación que guardes vive aquí. Reedita, descarga o comparte cuando quieras.

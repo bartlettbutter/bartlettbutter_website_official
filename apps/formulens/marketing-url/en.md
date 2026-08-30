@@ -2,7 +2,7 @@
 layout: default
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
-app_description: "Scan any ingredient list. Know exactly what's in your skincare — and how it all works together."
+app_description: "Scan any ingredient list. Know exactly what's in your skincare, and how it all works together."
 app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
 permalink: /formulens/
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 # Know exactly what's in your skincare.
 
-**Snap a photo of any ingredient list and get a clear, color-coded breakdown of what everything does — then compare products or check whether your whole routine actually works together. All in seconds, all on your device.**
+**Snap a photo of any ingredient list and get a clear, color-coded breakdown of what everything does. Then compare products or check whether your whole routine actually works together. All in seconds, all on your device.**
 
-Ingredient labels are written for chemists, not for you. FormuLens translates them. Point your camera at any product, and every ingredient is decoded and sorted by what it actually does — no typing, no searching, no chemistry degree.
+Ingredient labels are written for chemists, not for you. FormuLens translates them. Point your camera at any product, and every ingredient is decoded and sorted by what it actually does. No typing, no searching, no chemistry degree.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
 
@@ -48,7 +48,7 @@ Enthusiasts fine-tuning a routine. Sensitive shoppers watching for fragrances or
 
 ## Free to download. Private by design.
 
-Download FormuLens free and start scanning right away — no account, no ads, no catch. Every feature above is available today at no cost. Your photos never leave your device: all recognition and analysis happen locally, with no servers, no cloud, and no tracking.
+Download FormuLens free and start scanning right away, with no account, no ads, and no catch. Every feature above is available today at no cost. Your photos never leave your device: all recognition and analysis happen locally, with no servers, no cloud, and no tracking.
 
 ## Compatibility
 
@@ -56,7 +56,7 @@ iOS 26.2 or later · iPhone and iPad
 
 ## Your privacy, protected
 
-Your photos never leave your device. All recognition and analysis happens locally — no servers, no cloud, no accounts, no tracking.
+Your photos never leave your device. All recognition and analysis happens locally, with no servers, no cloud, no accounts, and no tracking.
 
 Read our full [Privacy Policy](https://www.bartlettbutter.com/formulens/privacy/).
 

@@ -10,7 +10,7 @@ redirect_from:
 
 **Effective Date:** July 8, 2026
 
-Solcast ("the App") is a free weather and lifestyle guidance app for iPhone and iPad. Privacy is central to how we built it. This policy explains exactly what data is involved when you use Solcast — and, more importantly, what isn't.
+Solcast ("the App") is a free weather and lifestyle guidance app for iPhone and iPad. Privacy is central to how we built it. This policy explains exactly what data is involved when you use Solcast and, more importantly, what isn't.
 
 ## The Short Version
 
@@ -58,7 +58,7 @@ Solcast requests one permission:
 |------------|---------|
 | **Location (When In Use)** | Fetch weather, air quality, and pollen data for your current position |
 
-No other permissions are requested — not camera, contacts, microphone, notifications, tracking, or anything else.
+No other permissions are requested: not camera, contacts, microphone, notifications, tracking, or anything else.
 
 ## Third-Party Services
 
@@ -67,9 +67,9 @@ The app connects to the following services to fetch weather and environmental da
 | Service | What It Provides | Data Sent |
 |---------|-----------------|-----------|
 | [Apple Weather](https://www.apple.com/legal/privacy/) | Weather forecasts and conditions | Geographic coordinates only |
-| [Open-Meteo](https://open-meteo.com/en/terms) | Supplemental forecasts, air quality, pollen | Geographic coordinates only |
 | [Apple Maps](https://www.apple.com/legal/privacy/) | Location search and city name display | Search query or coordinates only |
-| [Nager.Date](https://github.com/nager/Nager.Date) | Public holiday detection | Country code only (e.g., "US") |
+| Third-party weather & environmental services | Supplemental forecasts, air quality, pollen | Geographic coordinates only |
+| Public holiday service | Public holiday detection | Country code only (e.g., "US") |
 
 **No personal data, device identifiers, advertising IDs, or user preferences are ever sent to these services.**
 
@@ -91,7 +91,7 @@ Solcast does not collect information from anyone, including children under 13 (o
 
 ## International Users
 
-Because Solcast collects no personal data, no cross-border transfer of personal information occurs. Weather and holiday requests contain only geographic coordinates or country codes — no personal data or device identifiers are included regardless of your location.
+Because Solcast collects no personal data, no cross-border transfer of personal information occurs. Weather and holiday requests contain only geographic coordinates or country codes. No personal data or device identifiers are included regardless of your location.
 
 ## Changes to This Policy
 

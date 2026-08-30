@@ -41,14 +41,9 @@ Breed scan results you save to Favorites are stored on your device only. This da
 
 ## Third-Party Services
 
-The App connects to the following services solely to fetch display content such as breed information, images, and game data:
+The App connects to third-party cat reference services solely to fetch display content: breed information (temperament, stats, history), breed and quiz images, and trivia facts.
 
-| Service | Purpose | Data Sent | Privacy Info |
-|---------|---------|-----------|--------------|
-| The Cat API | Breed information (temperament, stats, history) and quiz photos | None | [thecatapi.com](https://thecatapi.com) |
-| catfact.ninja | Cat facts for the trivia feature | None | [catfact.ninja](https://catfact.ninja) |
-
-These are standard content-fetch requests. No personal data, device identifiers, or tracking information is included.
+**No personal data, device identifiers, or tracking information is included in any request.** No request identifies you, and no analytics or advertising data is ever transmitted.
 
 ## Data Sharing
 

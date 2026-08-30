@@ -43,16 +43,9 @@ Bu verilerin hiçbiri dışarıya iletilmez. Uygulamayı sildiğinizde tümü ot
 
 ## Ağ İstekleri
 
-Uygulama, yalnızca görüntüleme içeriğini (ırk profilleri, görseller ve oyun soruları) almak için aşağıdaki hizmetlere bağlanır:
+Uygulama, yalnızca görüntüleme içeriğini almak için üçüncü taraf köpek ırkı referans hizmetlerine bağlanır: ırk profilleri (mizaç, istatistikler, tarihçe), ırk görselleri ve sınav fotoğrafları. Bunlar standart içerik alma istekleridir.
 
-| Hizmet | Amaç | Gönderilen Kişisel Veri |
-|--------|------|-------------------------|
-| The Dog API | Irk bilgileri (mizaç, istatistikler, tarihçe) | Yok |
-| dogapi.dog | Ek ırk bilgileri ve bilgi yarışması için köpek gerçekleri | Yok |
-| Dog CEO API | Irk görselleri ve sınav fotoğrafları | Yok |
-| Wikipedia | Irk referans görselleri | Yok |
-
-Bunlar standart içerik alma istekleridir. Hiçbir istekte kişisel veri, cihaz tanımlayıcısı veya izleme bilgisi yer almaz.
+**Hiçbir istekte kişisel veri, cihaz tanımlayıcısı veya izleme bilgisi yer almaz.** Hiçbir istek sizi tanımlamaz ve hiçbir zaman analiz veya reklam verisi iletilmez.
 
 ## Veri Paylaşımı
 

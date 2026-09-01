@@ -25,7 +25,7 @@ ETFWise („die App") ist eine kostenlose iOS-Anwendung, die tägliche ETF-Empfe
 | Verlässt die Analyse mein Gerät? | Nein |
 | Können Kinder die App sicher verwenden? | Ja |
 
-Die einzigen extern gesendeten Daten sind ETF-Tickersymbole, um Marktdaten abzurufen. Ihr Finnhub-API-Schlüssel wird sicher auf dem Gerät gespeichert und nur an Finnhub gesendet.
+Die einzigen extern gesendeten Daten sind ETF-Tickersymbole, um Marktdaten abzurufen.
 
 ## Welche Daten Wir Erheben
 
@@ -37,28 +37,22 @@ Alle App-Daten werden lokal auf Ihrem Gerät gespeichert:
 
 - Tägliche ETF-Empfehlungen und zwischengespeicherte Marktpreise
 - Nachrichtenstimmungs-Scores und generierte Analysen
-- Ihr Finnhub-API-Schlüssel (sicher im Gerätespeicher gespeichert)
 
 Diese Daten werden täglich aktualisiert und niemals auf externe Server hochgeladen.
 
 ## Dienste von Drittanbietern
 
-ETFWise verbindet sich mit Finanzdatenanbietern von Drittanbietern ausschließlich, um Marktdaten zur Anzeige abzurufen. Wenn Sie sich dafür entscheiden, einen anzugeben, wird Ihr eigener Finnhub-API-Schlüssel für Live-Kurse und Nachrichten verwendet.
+ETFWise verbindet sich mit Finanzdatenanbietern von Drittanbietern ausschließlich, um Marktdaten zur Anzeige abzurufen.
 
 | Gesendete Daten | Enthaltene personenbezogene Daten |
 |---|---|
 | ETF-Tickersymbole und Datumsbereiche | Keine |
-| Ihr Finnhub-API-Schlüssel (nur an Finnhub, zur Authentifizierung) | Keine |
 
 Keine Gerätekennungen, Standort- oder Tracking-Informationen sind in einer Anfrage enthalten.
 
 ## Geräteinterne Analyse
 
 Die Bull-Cases, Risiko-Cases und Fondsbeschreibungen werden vollständig auf Ihrem Gerät aus den bereits für jeden ETF abgerufenen Marktdaten erstellt. Diese Analyse erfordert keinen separaten Download und keinen externen Server. Nichts davon wird von Ihrem Gerät gesendet.
-
-## Sicherheit des API-Schlüssels
-
-Wenn Sie einen Finnhub-API-Schlüssel eingeben, wird dieser sicher auf Ihrem Gerät gespeichert und nur zur Authentifizierung an die API von Finnhub übertragen. Er wird niemals woanders hin gesendet oder mit einer anderen Partei geteilt.
 
 ## Datenweitergabe
 
@@ -70,7 +64,7 @@ ETFWise fordert keinen Zugriff auf Ihre Kamera, Ihren Standort, Ihre Kontakte, I
 
 ## Datenaufbewahrung und -löschung
 
-Da wir keine personenbezogenen Daten auf unseren Servern erheben, gibt es auf unserer Seite nichts aufzubewahren oder zu löschen. Alle lokal gespeicherten Daten, einschließlich Empfehlungen, zwischengespeicherter Preise, generierter Analysen und Ihres API-Schlüssels, werden dauerhaft gelöscht, wenn Sie die App von Ihrem Gerät löschen.
+Da wir keine personenbezogenen Daten auf unseren Servern erheben, gibt es auf unserer Seite nichts aufzubewahren oder zu löschen. Alle lokal gespeicherten Daten, einschließlich Empfehlungen, zwischengespeicherter Preise und generierter Analysen, werden dauerhaft gelöscht, wenn Sie die App von Ihrem Gerät löschen.
 
 ## Ihre Rechte
 

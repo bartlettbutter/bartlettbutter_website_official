@@ -25,7 +25,7 @@ ETFWise ("de App") is een gratis iOS-applicatie die dagelijkse ETF-aanbevelingen
 | Verlaat de analyse mijn apparaat? | Nee |
 | Kunnen kinderen de app veilig gebruiken? | Ja |
 
-De enige gegevens die extern worden verzonden zijn ETF-tickersymbolen om marktgegevens op te halen. Uw Finnhub API-sleutel wordt veilig op het apparaat opgeslagen en alleen naar Finnhub verzonden.
+De enige gegevens die extern worden verzonden zijn ETF-tickersymbolen om marktgegevens op te halen.
 
 ## Welke Gegevens We Verzamelen
 
@@ -37,28 +37,22 @@ Alle appgegevens worden lokaal op uw apparaat opgeslagen:
 
 - Dagelijkse ETF-aanbevelingen en marktprijzen in cache
 - Sentimentscores van nieuws en gegenereerde analyse
-- Uw Finnhub API-sleutel (veilig opgeslagen in de opslag van het apparaat)
 
 Deze gegevens worden dagelijks vernieuwd en worden nooit naar externe servers geüpload.
 
 ## Diensten van Derden
 
-ETFWise maakt uitsluitend verbinding met externe financiële dataproviders om marktgegevens op te halen voor weergave. Als u ervoor kiest er een op te geven, wordt uw eigen Finnhub API-sleutel gebruikt voor live koersen en nieuws.
+ETFWise maakt uitsluitend verbinding met externe financiële dataproviders om marktgegevens op te halen voor weergave.
 
 | Verzonden Gegevens | Persoonsgegevens Inbegrepen |
 |---|---|
 | ETF-tickersymbolen en datumbereiken | Geen |
-| Uw Finnhub API-sleutel (alleen naar Finnhub, voor authenticatie) | Geen |
 
 Er worden geen apparaat-ID's, locatie of trackinggegevens opgenomen in enig verzoek.
 
 ## Analyse op het Apparaat
 
 De bull-cases, risico-cases en fondsbeschrijvingen worden volledig op uw apparaat gegenereerd uit de marktgegevens die al voor elke ETF zijn opgehaald. Deze analyse omvat geen aparte download en geen externe server: niets ervan verlaat uw apparaat.
-
-## Beveiliging van de API-sleutel
-
-Als u een Finnhub API-sleutel invoert, wordt deze veilig op uw apparaat opgeslagen en alleen naar de API van Finnhub verzonden voor authenticatie. Deze wordt nooit ergens anders heen verzonden of met een andere partij gedeeld.
 
 ## Gegevens Delen
 
@@ -70,7 +64,7 @@ ETFWise vraagt geen toegang tot uw camera, locatie, contacten, microfoon, gezond
 
 ## Bewaring en Verwijdering van Gegevens
 
-Omdat we geen persoonsgegevens op onze servers verzamelen, is er aan onze kant niets te bewaren of te verwijderen. Alle lokaal opgeslagen gegevens, waaronder aanbevelingen, prijzen in cache, gegenereerde analyse en uw API-sleutel, worden permanent verwijderd wanneer u de app van uw apparaat verwijdert.
+Omdat we geen persoonsgegevens op onze servers verzamelen, is er aan onze kant niets te bewaren of te verwijderen. Alle lokaal opgeslagen gegevens, waaronder aanbevelingen, prijzen in cache en gegenereerde analyse, worden permanent verwijderd wanneer u de app van uw apparaat verwijdert.
 
 ## Uw Rechten
 

@@ -19,10 +19,6 @@ ETFWise'dan en iyi şekilde yararlanmanıza yardımcı olmak için buradayız. A
 
 ETFWise her gün, canlı piyasa verilerine dayanarak yedi kategoride (Ana Endeks, Sektör, Tahvil ve Sabit Getiri, Uluslararası, Emtia, Tematik ve Temettü) en iyi ETF'leri seçer. Liste, görünümünüzün sabit kalması için tüm gün sabitlenirken fiyatlar ve duygu analizi her 5 dakikada bir otomatik olarak yenilenir. Alt kategorileri keşfetmek için herhangi bir bölümde "Daha Fazla Gör"e dokunun.
 
-### API anahtarına ihtiyacım var mı?
-
-Ücretsiz bir Finnhub API anahtarı canlı fiyatların, haberlerin ve analist verilerinin kilidini açar. [finnhub.io](https://finnhub.io) adresinden bir tane edinebilir ve ilk açılışta girebilirsiniz. Bu adımı atlarsanız, uygulama tüm arayüzü keşfedebilmeniz için yerleşik demo verileriyle çalışır.
-
 ### İnternet bağlantısına ihtiyacım var mı?
 
 Evet, canlı fiyatlar, haberler, duygu analizi ve fon verileri için. Yükseliş ve risk senaryosu analizi, ekranda zaten görüntülenen verilerden cihazınızda anında oluşturulur, bu nedenle ek bir bağlantı gerektirmez.
@@ -63,17 +59,17 @@ Evet. Hesap yok, analiz yok, izleme yok. Finansal veri sağlayıcılarına yaln�
 
 ### Uygulamayı silersem ne olur?
 
-ETFWise'ı kaldırmak, önbelleğe alınmış öneriler, oluşturulan analiz ve API anahtarınız dahil yerel olarak saklanan tüm verileri kalıcı olarak kaldırır. Bulut yedeklemesi olmadığından bu işlem geri alınamaz.
+ETFWise'ı kaldırmak, önbelleğe alınmış öneriler ve oluşturulan analiz dahil yerel olarak saklanan tüm verileri kalıcı olarak kaldırır. Bulut yedeklemesi olmadığından bu işlem geri alınamaz.
 
 ## Sorun Giderme
 
 ### Fiyatlar yüklenmiyor
 
-Geçerli bir Finnhub API anahtarı girdiğinizden ([finnhub.io](https://finnhub.io) adresinden ücretsiz edinin) emin olun ve cihazınızın internete bağlı olduğunu kontrol edin. API anahtarı adımını atladıysanız, uygulama canlı fiyatlar yerine demo verileri gösterir; bu beklenen bir davranıştır.
+Cihazınızın internete bağlı olduğunu kontrol edin. Fiyatlar her 5 dakikada bir otomatik olarak yenilenir; bir yenileme başarısız olursa, bir sonraki döngüde veya uygulamayı yeniden açtığınızda güncellenir.
 
 ### "ETF verileri yüklenemiyor" hatası
 
-Bu genellikle bir ağ isteğinin başarısız olduğu anlamına gelir. İnternet bağlantınızı kontrol edin ve "Yeniden Dene"ye dokunun. Bir Finnhub API anahtarı kullanıyorsanız, uygulama ayarlarına doğru girildiğini doğrulayın.
+Bu genellikle bir ağ isteğinin başarısız olduğu anlamına gelir. İnternet bağlantınızı kontrol edin ve "Yeniden Dene"ye dokunun.
 
 ### Yükseliş ve risk senaryoları görünmüyor
 

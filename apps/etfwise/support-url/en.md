@@ -18,10 +18,6 @@ We're here to help you get the most out of ETFWise. Browse the answers below, or
 
 Each day, ETFWise selects top ETFs across seven categories (Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend) based on live market data. The list is pinned for the full day so your view stays stable, while prices and sentiment refresh automatically every 5 minutes. Tap "See More" on any section to explore subcategories.
 
-### Do I need an API key?
-
-A free Finnhub API key unlocks live prices, news, and analyst data. You can get one at [finnhub.io](https://finnhub.io) and enter it on first launch. If you skip this step, the app runs with built-in demo data so you can explore the full interface.
-
 ### Do I need an internet connection?
 
 Yes, for live prices, news, sentiment, and fund data. The bull and risk case analysis is generated instantly on your device from data already on screen, so it needs no additional connection.
@@ -62,17 +58,17 @@ Yes. No accounts, no analytics, no tracking. Only ticker symbols are sent to fin
 
 ### What happens if I delete the app?
 
-Uninstalling ETFWise permanently removes all locally stored data, including cached recommendations, generated analysis, and your API key. Since there is no cloud backup, this cannot be undone.
+Uninstalling ETFWise permanently removes all locally stored data, including cached recommendations and generated analysis. Since there is no cloud backup, this cannot be undone.
 
 ## Troubleshooting
 
 ### Prices aren't loading
 
-Make sure you've entered a valid Finnhub API key (get a free one at [finnhub.io](https://finnhub.io)) and check that your device is connected to the internet. If you skipped the API key step, the app shows demo data instead of live prices, which is expected behavior.
+Check that your device is connected to the internet. Prices refresh automatically every 5 minutes; if a refresh fails, they update on the next cycle or when you reopen the app.
 
 ### "Unable to load ETF data" error
 
-This usually means a network request failed. Check your internet connection and tap "Retry." If you're using a Finnhub API key, verify it's entered correctly in the app settings.
+This usually means a network request failed. Check your internet connection and tap "Retry."
 
 ### Bull and risk cases aren't showing
 

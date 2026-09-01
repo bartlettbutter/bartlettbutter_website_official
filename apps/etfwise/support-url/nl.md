@@ -19,10 +19,6 @@ We zijn er om je te helpen het meeste uit ETFWise te halen. Blader door de antwo
 
 Elke dag selecteert ETFWise de beste ETF's in zeven categorieën (Hoofdindex, Sector, Obligaties en Vastrentend, Internationaal, Grondstoffen, Thematisch en Dividend) op basis van live marktgegevens. De lijst wordt de hele dag vastgezet zodat je weergave stabiel blijft, terwijl prijzen en sentiment automatisch elke 5 minuten worden ververst. Tik op "Meer weergeven" in een sectie om subcategorieën te verkennen.
 
-### Heb ik een API-sleutel nodig?
-
-Een gratis Finnhub API-sleutel ontgrendelt live prijzen, nieuws en analistengegevens. Je kunt er een krijgen op [finnhub.io](https://finnhub.io) en deze invoeren bij het eerste opstarten. Als je deze stap overslaat, draait de app met ingebouwde demogegevens zodat je de volledige interface kunt verkennen.
-
 ### Heb ik een internetverbinding nodig?
 
 Ja, voor live prijzen, nieuws, sentiment en fondsgegevens. De analyse van de bull- en risicoscenario's wordt direct op je apparaat gegenereerd uit gegevens die al op het scherm staan, dus er is geen aanvullende verbinding nodig.
@@ -63,17 +59,17 @@ Ja. Geen accounts, geen analyse, geen tracking. Alleen tickersymbolen worden naa
 
 ### Wat gebeurt er als ik de app verwijder?
 
-Het de-installeren van ETFWise verwijdert permanent alle lokaal opgeslagen gegevens, waaronder aanbevelingen in cache, gegenereerde analyse en je API-sleutel. Omdat er geen cloudback-up is, kan dit niet ongedaan worden gemaakt.
+Het de-installeren van ETFWise verwijdert permanent alle lokaal opgeslagen gegevens, waaronder aanbevelingen in cache en gegenereerde analyse. Omdat er geen cloudback-up is, kan dit niet ongedaan worden gemaakt.
 
 ## Probleemoplossing
 
 ### Prijzen laden niet
 
-Zorg ervoor dat je een geldige Finnhub API-sleutel hebt ingevoerd (verkrijg er gratis een op [finnhub.io](https://finnhub.io)) en controleer of je apparaat verbonden is met internet. Als je de API-sleutelstap hebt overgeslagen, toont de app demogegevens in plaats van live prijzen, wat verwacht gedrag is.
+Controleer of je apparaat verbonden is met internet. Prijzen worden automatisch elke 5 minuten ververst; als een verversing mislukt, worden ze bijgewerkt bij de volgende cyclus of wanneer je de app opnieuw opent.
 
 ### Fout "Kan ETF-gegevens niet laden"
 
-Dit betekent meestal dat een netwerkverzoek is mislukt. Controleer je internetverbinding en tik op "Opnieuw proberen". Als je een Finnhub API-sleutel gebruikt, controleer dan of deze correct is ingevoerd in de app-instellingen.
+Dit betekent meestal dat een netwerkverzoek is mislukt. Controleer je internetverbinding en tik op "Opnieuw proberen".
 
 ### Bull- en risicoscenario's worden niet weergegeven
 

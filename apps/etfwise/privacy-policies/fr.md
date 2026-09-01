@@ -25,7 +25,7 @@ ETFWise (« l'Application ») est une application iOS gratuite qui fournit des r
 | L'analyse quitte-t-elle mon appareil ? | Non |
 | Les enfants peuvent-ils utiliser l'application en toute sécurité ? | Oui |
 
-Les seules données envoyées à l'extérieur sont les symboles boursiers des ETF pour récupérer les données de marché. Votre clé d'API Finnhub est stockée de manière sécurisée sur l'appareil et n'est envoyée qu'à Finnhub.
+Les seules données envoyées à l'extérieur sont les symboles boursiers des ETF pour récupérer les données de marché.
 
 ## Quelles Données Nous Collectons
 
@@ -37,28 +37,22 @@ Toutes les données de l'application sont stockées localement sur votre apparei
 
 - Recommandations quotidiennes d'ETF et prix de marché en cache
 - Scores de sentiment des actualités et analyses générées
-- Votre clé d'API Finnhub (stockée de manière sécurisée dans le stockage de l'appareil)
 
 Ces données sont actualisées quotidiennement et ne sont jamais téléchargées vers des serveurs externes.
 
 ## Services Tiers
 
-ETFWise se connecte à des fournisseurs tiers de données financières uniquement pour récupérer les données de marché à afficher. Si vous choisissez d'en fournir une, votre propre clé d'API Finnhub est utilisée pour les cotations et les actualités en direct.
+ETFWise se connecte à des fournisseurs tiers de données financières uniquement pour récupérer les données de marché à afficher.
 
 | Données Envoyées | Données Personnelles Incluses |
 |---|---|
 | Symboles boursiers des ETF et plages de dates | Aucune |
-| Votre clé d'API Finnhub (uniquement à Finnhub, pour l'authentification) | Aucune |
 
 Aucun identifiant d'appareil, aucune localisation ni aucune information de suivi n'est inclus dans une requête.
 
 ## Analyse sur l'Appareil
 
 Les arguments haussiers, les arguments de risque et les descriptions de fonds sont générés entièrement sur votre appareil à partir des données de marché déjà récupérées pour chaque ETF. Cette analyse n'implique aucun téléchargement séparé ni aucun serveur externe : rien à son sujet ne quitte votre appareil.
-
-## Sécurité de la Clé d'API
-
-Si vous saisissez une clé d'API Finnhub, elle est stockée de manière sécurisée sur votre appareil et transmise uniquement à l'API de Finnhub à des fins d'authentification. Elle n'est jamais envoyée ailleurs ni partagée avec une autre partie.
 
 ## Partage des Données
 
@@ -70,7 +64,7 @@ ETFWise ne demande pas l'accès à votre appareil photo, votre localisation, vos
 
 ## Conservation et Suppression des Données
 
-Comme nous ne collectons aucune donnée personnelle sur nos serveurs, il n'y a rien à conserver ou à supprimer de notre côté. Toutes les données stockées localement, y compris les recommandations, les prix en cache, l'analyse générée et votre clé d'API, sont définitivement supprimées lorsque vous désinstallez l'application de votre appareil.
+Comme nous ne collectons aucune donnée personnelle sur nos serveurs, il n'y a rien à conserver ou à supprimer de notre côté. Toutes les données stockées localement, y compris les recommandations, les prix en cache et l'analyse générée, sont définitivement supprimées lorsque vous désinstallez l'application de votre appareil.
 
 ## Vos Droits
 

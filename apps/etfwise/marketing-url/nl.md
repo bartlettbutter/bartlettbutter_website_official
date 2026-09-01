@@ -38,9 +38,8 @@ Tik op een willekeurige ETF voor uitgebreid inzicht:
 ## Begin in enkele seconden
 
 1. **Download** ETFWise gratis uit de App Store
-2. **Voeg een gratis API-sleutel** van Finnhub toe voor live data, of sla dit over en verken met de ingebouwde demogegevens
-3. **Blader door de selecties van vandaag** in zeven categorieën
-4. **Tik op een willekeurige ETF** voor diepgaande analyse, sentiment en datagestuurde inzichten
+2. **Blader door de selecties van vandaag** in zeven categorieën, met live data direct beschikbaar
+3. **Tik op een willekeurige ETF** voor diepgaande analyse, sentiment en datagestuurde inzichten
 
 ## Compatibiliteit
 

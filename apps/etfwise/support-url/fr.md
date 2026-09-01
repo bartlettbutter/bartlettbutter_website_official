@@ -19,10 +19,6 @@ Nous sommes là pour vous aider à tirer le meilleur parti d'ETFWise. Parcourez 
 
 Chaque jour, ETFWise sélectionne les meilleurs ETF dans sept catégories (Indice Principal, Secteur, Obligations et Revenu Fixe, International, Matières Premières, Thématique et Dividendes) sur la base de données de marché en direct. La liste est figée pour toute la journée afin que votre vue reste stable, tandis que les prix et le sentiment se rafraîchissent automatiquement toutes les 5 minutes. Touchez « Voir plus » sur n'importe quelle section pour explorer les sous-catégories.
 
-### Ai-je besoin d'une clé d'API ?
-
-Une clé d'API Finnhub gratuite débloque les prix en direct, les actualités et les données d'analystes. Vous pouvez en obtenir une sur [finnhub.io](https://finnhub.io) et la saisir au premier lancement. Si vous ignorez cette étape, l'application fonctionne avec des données de démonstration intégrées pour que vous puissiez explorer toute l'interface.
-
 ### Ai-je besoin d'une connexion internet ?
 
 Oui, pour les prix en direct, les actualités, le sentiment et les données de fonds. L'analyse des arguments haussiers et de risque est générée instantanément sur votre appareil à partir des données déjà affichées à l'écran, elle ne nécessite donc aucune connexion supplémentaire.
@@ -63,17 +59,17 @@ Oui. Aucun compte, aucune analyse, aucun suivi. Seuls les symboles boursiers son
 
 ### Que se passe-t-il si je supprime l'application ?
 
-La désinstallation d'ETFWise supprime définitivement toutes les données stockées localement, y compris les recommandations en cache, l'analyse générée et votre clé d'API. Comme il n'y a aucune sauvegarde dans le cloud, cette action est irréversible.
+La désinstallation d'ETFWise supprime définitivement toutes les données stockées localement, y compris les recommandations en cache et l'analyse générée. Comme il n'y a aucune sauvegarde dans le cloud, cette action est irréversible.
 
 ## Dépannage
 
 ### Les prix ne se chargent pas
 
-Assurez-vous d'avoir saisi une clé d'API Finnhub valide (obtenez-en une gratuitement sur [finnhub.io](https://finnhub.io)) et vérifiez que votre appareil est connecté à internet. Si vous avez ignoré l'étape de la clé d'API, l'application affiche des données de démonstration au lieu des prix en direct, ce qui est un comportement attendu.
+Vérifiez que votre appareil est connecté à internet. Les prix se rafraîchissent automatiquement toutes les 5 minutes ; si un rafraîchissement échoue, ils se mettent à jour au cycle suivant ou lorsque vous rouvrez l'application.
 
 ### Erreur « Impossible de charger les données de l'ETF »
 
-Cela signifie généralement qu'une requête réseau a échoué. Vérifiez votre connexion internet et touchez « Réessayer ». Si vous utilisez une clé d'API Finnhub, vérifiez qu'elle est correctement saisie dans les réglages de l'application.
+Cela signifie généralement qu'une requête réseau a échoué. Vérifiez votre connexion internet et touchez « Réessayer ».
 
 ### Les arguments haussiers et de risque ne s'affichent pas
 

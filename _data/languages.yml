@@ -6,7 +6,9 @@
 - code: en
   label: English
 - code: zh-Hans
-  label: 中文
+  label: 简体中文
+- code: zh-Hant
+  label: 繁體中文
 - code: es
   label: Español
 - code: hi

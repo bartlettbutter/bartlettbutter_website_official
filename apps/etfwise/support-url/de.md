@@ -19,10 +19,6 @@ Wir sind hier, um dir zu helfen, das Beste aus ETFWise herauszuholen. Durchstöb
 
 Jeden Tag wählt ETFWise die besten ETFs aus sieben Kategorien (Hauptindex, Sektor, Anleihen und festverzinsliche Wertpapiere, International, Rohstoffe, Themen und Dividenden) auf Basis von Live-Marktdaten aus. Die Liste wird für den ganzen Tag fixiert, damit deine Ansicht stabil bleibt, während Preise und Stimmung automatisch alle 5 Minuten aktualisiert werden. Tippe in einem beliebigen Bereich auf „Mehr anzeigen", um Unterkategorien zu erkunden.
 
-### Brauche ich einen API-Schlüssel?
-
-Ein kostenloser Finnhub-API-Schlüssel schaltet Live-Preise, Nachrichten und Analystendaten frei. Du kannst einen auf [finnhub.io](https://finnhub.io) erhalten und ihn beim ersten Start eingeben. Wenn du diesen Schritt überspringst, läuft die App mit integrierten Demo-Daten, damit du die gesamte Oberfläche erkunden kannst.
-
 ### Brauche ich eine Internetverbindung?
 
 Ja, für Live-Preise, Nachrichten, Stimmung und Fondsdaten. Die Analyse der Bull- und Risiko-Szenarien wird sofort auf deinem Gerät aus den bereits auf dem Bildschirm angezeigten Daten erstellt, sodass dafür keine zusätzliche Verbindung erforderlich ist.
@@ -63,17 +59,17 @@ Ja. Keine Konten, keine Analysen, kein Tracking. Nur Tickersymbole werden an Fin
 
 ### Was passiert, wenn ich die App lösche?
 
-Die Deinstallation von ETFWise entfernt dauerhaft alle lokal gespeicherten Daten, einschließlich zwischengespeicherter Empfehlungen, generierter Analysen und deines API-Schlüssels. Da es keine Cloud-Sicherung gibt, kann dies nicht rückgängig gemacht werden.
+Die Deinstallation von ETFWise entfernt dauerhaft alle lokal gespeicherten Daten, einschließlich zwischengespeicherter Empfehlungen und generierter Analysen. Da es keine Cloud-Sicherung gibt, kann dies nicht rückgängig gemacht werden.
 
 ## Fehlerbehebung
 
 ### Preise werden nicht geladen
 
-Stelle sicher, dass du einen gültigen Finnhub-API-Schlüssel eingegeben hast (kostenlos erhältlich auf [finnhub.io](https://finnhub.io)), und überprüfe, ob dein Gerät mit dem Internet verbunden ist. Wenn du den API-Schlüssel-Schritt übersprungen hast, zeigt die App Demo-Daten statt Live-Preisen an, was erwartetes Verhalten ist.
+Stelle sicher, dass dein Gerät mit dem Internet verbunden ist. Die Preise werden automatisch alle 5 Minuten aktualisiert; schlägt eine Aktualisierung fehl, erfolgt sie im nächsten Zyklus oder wenn du die App erneut öffnest.
 
 ### Fehler „ETF-Daten können nicht geladen werden"
 
-Dies bedeutet in der Regel, dass eine Netzwerkanfrage fehlgeschlagen ist. Überprüfe deine Internetverbindung und tippe auf „Erneut versuchen". Wenn du einen Finnhub-API-Schlüssel verwendest, vergewissere dich, dass er in den App-Einstellungen korrekt eingegeben ist.
+Dies bedeutet in der Regel, dass eine Netzwerkanfrage fehlgeschlagen ist. Überprüfe deine Internetverbindung und tippe auf „Erneut versuchen".
 
 ### Bull- und Risiko-Szenarien werden nicht angezeigt
 

@@ -24,7 +24,7 @@ ETFWise ("the App") is a free iOS application that provides daily ETF recommenda
 | Does the analysis leave my device? | No |
 | Can children use the app safely? | Yes |
 
-The only data sent externally is ETF ticker symbols to fetch market data. Your Finnhub API key is stored securely on-device and sent only to Finnhub.
+The only data sent externally is ETF ticker symbols to fetch market data.
 
 ## What Data We Collect
 
@@ -36,28 +36,22 @@ All app data is stored locally on your device:
 
 - Daily ETF recommendations and cached market prices
 - News sentiment scores and generated analysis
-- Your Finnhub API key (stored securely in on-device storage)
 
 This data is refreshed daily and is never uploaded to external servers.
 
 ## Third-Party Services
 
-ETFWise connects to third-party financial data providers solely to fetch market data for display. If you choose to supply one, your own Finnhub API key is used for live quotes and news.
+ETFWise connects to third-party financial data providers solely to fetch market data for display.
 
 | Data Sent | Personal Data Included |
 |---|---|
 | ETF ticker symbols and date ranges | None |
-| Your Finnhub API key (only to Finnhub, for authentication) | None |
 
 No device identifiers, location, or tracking information is included in any request.
 
 ## On-Device Analysis
 
 The bull cases, risk cases, and fund descriptions are generated entirely on your device from the market data already fetched for each ETF. This analysis involves no separate download and no external server. Nothing about it is sent off your device.
-
-## API Key Security
-
-If you enter a Finnhub API key, it is stored securely on your device and transmitted only to Finnhub's API for authentication. It is never sent anywhere else or shared with any other party.
 
 ## Data Sharing
 
@@ -69,7 +63,7 @@ ETFWise does not request access to your camera, location, contacts, microphone, 
 
 ## Data Retention and Deletion
 
-Since we collect no personal data on our servers, there is nothing to retain or delete on our end. All locally stored data, including recommendations, cached prices, generated analysis, and your API key, is permanently removed when you delete the app from your device.
+Since we collect no personal data on our servers, there is nothing to retain or delete on our end. All locally stored data, including recommendations, cached prices, and generated analysis, is permanently removed when you delete the app from your device.
 
 ## Your Rights
 

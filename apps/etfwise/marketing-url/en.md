@@ -37,9 +37,8 @@ Tap any ETF for comprehensive insight:
 ## Get started in seconds
 
 1. **Download** ETFWise free from the App Store
-2. **Add a free API key** from Finnhub for live data, or skip and explore with built-in demo data
-3. **Browse today's picks** across seven categories
-4. **Tap any ETF** for deep analysis, sentiment, and data-driven insights
+2. **Browse today's picks** across seven categories, with live data ready to go
+3. **Tap any ETF** for deep analysis, sentiment, and data-driven insights
 
 ## Compatibility
 

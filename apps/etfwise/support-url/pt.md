@@ -19,10 +19,6 @@ Estamos aqui para ajudar você a aproveitar ao máximo o ETFWise. Navegue pelas 
 
 Todos os dias, o ETFWise seleciona os principais ETFs em sete categorias (Índice Principal, Setor, Títulos e Renda Fixa, Internacional, Commodities, Temática e Dividendos) com base em dados de mercado ao vivo. A lista é fixada durante todo o dia para que sua visualização permaneça estável, enquanto os preços e o sentimento são atualizados automaticamente a cada 5 minutos. Toque em "Ver mais" em qualquer seção para explorar subcategorias.
 
-### Preciso de uma chave de API?
-
-Uma chave de API gratuita da Finnhub desbloqueia preços ao vivo, notícias e dados de analistas. Você pode obter uma em [finnhub.io](https://finnhub.io) e inseri-la na primeira inicialização. Se você pular essa etapa, o aplicativo funciona com dados de demonstração integrados para que você possa explorar toda a interface.
-
 ### Preciso de conexão com a internet?
 
 Sim, para preços ao vivo, notícias, sentimento e dados de fundos. A análise dos argumentos de alta e de risco é gerada instantaneamente no seu dispositivo a partir dos dados já exibidos na tela, portanto não precisa de nenhuma conexão adicional.
@@ -63,17 +59,17 @@ Sim. Sem contas, sem análises, sem rastreamento. Apenas símbolos de tickers s�
 
 ### O que acontece se eu excluir o aplicativo?
 
-Desinstalar o ETFWise remove permanentemente todos os dados armazenados localmente, incluindo recomendações em cache, análise gerada e sua chave de API. Como não há backup na nuvem, isso não pode ser desfeito.
+Desinstalar o ETFWise remove permanentemente todos os dados armazenados localmente, incluindo recomendações em cache e análise gerada. Como não há backup na nuvem, isso não pode ser desfeito.
 
 ## Solução de Problemas
 
 ### Os preços não carregam
 
-Certifique-se de ter inserido uma chave de API válida da Finnhub (obtenha uma gratuitamente em [finnhub.io](https://finnhub.io)) e verifique se o seu dispositivo está conectado à internet. Se você pulou a etapa da chave de API, o aplicativo exibe dados de demonstração em vez de preços ao vivo, o que é o comportamento esperado.
+Verifique se o seu dispositivo está conectado à internet. Os preços são atualizados automaticamente a cada 5 minutos; se uma atualização falhar, eles são atualizados no próximo ciclo ou quando você reabre o aplicativo.
 
 ### Erro "Não foi possível carregar os dados do ETF"
 
-Isso geralmente significa que uma solicitação de rede falhou. Verifique sua conexão com a internet e toque em "Tentar novamente". Se você estiver usando uma chave de API da Finnhub, verifique se ela está inserida corretamente nas configurações do aplicativo.
+Isso geralmente significa que uma solicitação de rede falhou. Verifique sua conexão com a internet e toque em "Tentar novamente".
 
 ### Os argumentos de alta e de risco não estão aparecendo
 

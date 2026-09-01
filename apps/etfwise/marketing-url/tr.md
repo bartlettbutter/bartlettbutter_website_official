@@ -38,9 +38,8 @@ Kapsamlı içgörü için herhangi bir ETF'ye dokunun:
 ## Saniyeler içinde başlayın
 
 1. ETFWise'ı App Store'dan ücretsiz **indirin**
-2. Canlı veriler için Finnhub'dan ücretsiz bir **API anahtarı ekleyin** veya bunu atlayıp yerleşik demo verileriyle keşfedin
-3. Yedi kategoride **bugünün seçimlerine göz atın**
-4. Derinlemesine analiz, duygu analizi ve veriye dayalı içgörüler için **herhangi bir ETF'ye dokunun**
+2. Yedi kategoride **bugünün seçimlerine göz atın**, canlı veriler anında hazır
+3. Derinlemesine analiz, duygu analizi ve veriye dayalı içgörüler için **herhangi bir ETF'ye dokunun**
 
 ## Uyumluluk
 

@@ -19,10 +19,6 @@ Siamo qui per aiutarti a ottenere il massimo da ETFWise. Sfoglia le risposte qui
 
 Ogni giorno, ETFWise seleziona i migliori ETF in sette categorie (Indice Principale, Settore, Obbligazioni e Reddito Fisso, Internazionale, Materie Prime, Tematica e Dividendi) sulla base di dati di mercato in tempo reale. L'elenco è fissato per l'intera giornata così la tua vista resta stabile, mentre i prezzi e il sentiment si aggiornano automaticamente ogni 5 minuti. Tocca "Vedi altro" in qualsiasi sezione per esplorare le sottocategorie.
 
-### Ho bisogno di una chiave API?
-
-Una chiave API Finnhub gratuita sblocca prezzi in tempo reale, notizie e dati degli analisti. Puoi ottenerne una su [finnhub.io](https://finnhub.io) e inserirla al primo avvio. Se salti questo passaggio, l'app funziona con dati demo integrati così puoi esplorare l'intera interfaccia.
-
 ### Ho bisogno di una connessione internet?
 
 Sì, per prezzi in tempo reale, notizie, sentiment e dati sui fondi. L'analisi degli scenari rialzisti e di rischio viene generata istantaneamente sul tuo dispositivo a partire dai dati già mostrati sullo schermo, quindi non richiede alcuna connessione aggiuntiva.
@@ -63,17 +59,17 @@ Sì. Nessun account, nessuna analisi, nessun tracciamento. Solo i simboli ticker
 
 ### Cosa succede se elimino l'app?
 
-La disinstallazione di ETFWise rimuove definitivamente tutti i dati memorizzati localmente, incluse le raccomandazioni in cache, l'analisi generata e la tua chiave API. Poiché non esiste un backup sul cloud, questa operazione non può essere annullata.
+La disinstallazione di ETFWise rimuove definitivamente tutti i dati memorizzati localmente, incluse le raccomandazioni in cache e l'analisi generata. Poiché non esiste un backup sul cloud, questa operazione non può essere annullata.
 
 ## Risoluzione dei Problemi
 
 ### I prezzi non si caricano
 
-Assicurati di aver inserito una chiave API Finnhub valida (ottienine una gratis su [finnhub.io](https://finnhub.io)) e verifica che il tuo dispositivo sia connesso a internet. Se hai saltato il passaggio della chiave API, l'app mostra dati demo anziché prezzi in tempo reale, il che è un comportamento previsto.
+Verifica che il tuo dispositivo sia connesso a internet. I prezzi si aggiornano automaticamente ogni 5 minuti; se un aggiornamento fallisce, vengono aggiornati al ciclo successivo o quando riapri l'app.
 
 ### Errore "Impossibile caricare i dati dell'ETF"
 
-Di solito significa che una richiesta di rete è fallita. Controlla la tua connessione internet e tocca "Riprova". Se stai usando una chiave API Finnhub, verifica che sia inserita correttamente nelle impostazioni dell'app.
+Di solito significa che una richiesta di rete è fallita. Controlla la tua connessione internet e tocca "Riprova".
 
 ### Gli scenari rialzisti e di rischio non vengono mostrati
 

@@ -25,7 +25,7 @@ ETFWise ("Uygulama"), canlı piyasa verileri ve cihaz üzerinde anlık analiz il
 | Analiz cihazımdan çıkıyor mu? | Hayır |
 | Çocuklar uygulamayı güvenle kullanabilir mi? | Evet |
 
-Dışarıya gönderilen tek veri, piyasa verilerini almak için kullanılan ETF hisse senedi sembolleridir. Finnhub API anahtarınız cihazda güvenli bir şekilde saklanır ve yalnızca Finnhub'a gönderilir.
+Dışarıya gönderilen tek veri, piyasa verilerini almak için kullanılan ETF hisse senedi sembolleridir.
 
 ## Hangi Verileri Topluyoruz
 
@@ -37,28 +37,22 @@ Tüm uygulama verileri cihazınızda yerel olarak saklanır:
 
 - Günlük ETF önerileri ve önbelleğe alınmış piyasa fiyatları
 - Haber duygu puanları ve oluşturulan analizler
-- Finnhub API anahtarınız (cihaz depolamasında güvenli bir şekilde saklanır)
 
 Bu veriler günlük olarak yenilenir ve hiçbir zaman harici sunuculara yüklenmez.
 
 ## Üçüncü Taraf Hizmetleri
 
-ETFWise, yalnızca görüntüleme için piyasa verilerini almak amacıyla üçüncü taraf finansal veri sağlayıcılarına bağlanır. Bir tane sağlamayı seçerseniz, kendi Finnhub API anahtarınız canlı fiyatlar ve haberler için kullanılır.
+ETFWise, yalnızca görüntüleme için piyasa verilerini almak amacıyla üçüncü taraf finansal veri sağlayıcılarına bağlanır.
 
 | Gönderilen Veri | İçerdiği Kişisel Veri |
 |---|---|
 | ETF hisse senedi sembolleri ve tarih aralıkları | Yok |
-| Finnhub API anahtarınız (yalnızca Finnhub'a, kimlik doğrulama için) | Yok |
 
 Hiçbir istekte cihaz tanımlayıcısı, konum veya izleme bilgisi yer almaz.
 
 ## Cihaz Üzerinde Analiz
 
 Yükseliş senaryoları, risk senaryoları ve fon açıklamaları, her ETF için zaten alınan piyasa verilerinden tamamen cihazınızda oluşturulur. Bu analiz ayrı bir indirme veya harici bir sunucu içermez; onunla ilgili hiçbir şey cihazınızdan çıkmaz.
-
-## API Anahtarı Güvenliği
-
-Bir Finnhub API anahtarı girerseniz, bu anahtar cihazınızda güvenli bir şekilde saklanır ve yalnızca kimlik doğrulama için Finnhub'ın API'sine iletilir. Asla başka bir yere gönderilmez veya başka bir tarafla paylaşılmaz.
 
 ## Veri Paylaşımı
 
@@ -70,7 +64,7 @@ ETFWise; kameranıza, konumunuza, kişilerinize, mikrofonunuza, sağlık veriler
 
 ## Verilerin Saklanması ve Silinmesi
 
-Sunucularımızda hiçbir kişisel veri toplamadığımız için bizim tarafımızda saklanacak veya silinecek bir şey yoktur. Öneriler, önbelleğe alınmış fiyatlar, oluşturulan analiz ve API anahtarınız dahil tüm yerel olarak saklanan veriler, Uygulamayı cihazınızdan sildiğinizde kalıcı olarak kaldırılır.
+Sunucularımızda hiçbir kişisel veri toplamadığımız için bizim tarafımızda saklanacak veya silinecek bir şey yoktur. Öneriler, önbelleğe alınmış fiyatlar ve oluşturulan analiz dahil tüm yerel olarak saklanan veriler, Uygulamayı cihazınızdan sildiğinizde kalıcı olarak kaldırılır.
 
 ## Haklarınız
 

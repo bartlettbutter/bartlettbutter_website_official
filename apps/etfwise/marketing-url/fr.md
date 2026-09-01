@@ -38,9 +38,8 @@ Touchez n'importe quel ETF pour une vue complète :
 ## Commencez en quelques secondes
 
 1. **Téléchargez** ETFWise gratuitement depuis l'App Store
-2. **Ajoutez une clé d'API gratuite** de Finnhub pour des données en direct, ou passez cette étape et explorez avec les données de démonstration intégrées
-3. **Parcourez les sélections du jour** dans sept catégories
-4. **Touchez n'importe quel ETF** pour une analyse approfondie, le sentiment et des idées fondées sur les données
+2. **Parcourez les sélections du jour** dans sept catégories, avec des données en direct prêtes à l'emploi
+3. **Touchez n'importe quel ETF** pour une analyse approfondie, le sentiment et des idées fondées sur les données
 
 ## Compatibilité
 

@@ -117,7 +117,8 @@
     pt: 'Em desenvolvimento',
     ru: 'В разработке',
     tr: 'Geliştirme aşamasında',
-    'zh-Hans': '开发中'
+    'zh-Hans': '开发中',
+    'zh-Hant': '開發中'
   };
 
   function enhanceStoreBadges() {

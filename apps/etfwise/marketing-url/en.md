@@ -20,7 +20,7 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recom
 - **Fresh picks every morning** across Major Index, Sector, Bond, International, Commodity, Thematic, and Dividend categories, refreshed daily so you always know where to look.
 - **See what moves the market** with news sentiment scores, prediction market probabilities, and analyst consensus giving you the full picture before you act.
 - **Analysis that stays private** generated instantly on your device, with bull and risk cases built from real metrics. No cloud uploads. No data leaves your device.
-- **Live data, zero cost** with real-time prices refreshing every 5 minutes, 200+ curated ETFs, and 400+ searchable tickers. No subscriptions. No ads. Ever.
+- **Live data, zero cost** with real-time prices refreshing every 5 minutes, 200+ curated ETFs, and 450+ searchable tickers. No subscriptions. No ads. Ever.
 
 ## Deep analysis at your fingertips
 

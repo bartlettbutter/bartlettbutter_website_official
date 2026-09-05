@@ -21,7 +21,7 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
 - **Elke ochtend verse selecties** in de categorieën Hoofdindex, Sector, Obligaties, Internationaal, Grondstoffen, Thematisch en Dividend, dagelijks ververst zodat je altijd weet waar je moet kijken.
 - **Zie wat de markt beweegt** met nieuwssentimentscores, waarschijnlijkheden van voorspellingsmarkten en analistenconsensus die je het volledige beeld geven voordat je handelt.
 - **Analyse die privé blijft**, direct op je apparaat gegenereerd; bull- en risicoscenario's opgebouwd uit echte statistieken. Geen cloud-uploads. Geen gegevens verlaten je apparaat.
-- **Live data, nul kosten** met realtime prijzen die elke 5 minuten worden ververst, meer dan 200 samengestelde ETF's en meer dan 400 doorzoekbare tickers. Geen abonnementen. Geen advertenties. Nooit.
+- **Live data, nul kosten** met realtime prijzen die elke 5 minuten worden ververst, meer dan 200 samengestelde ETF's en meer dan 450 doorzoekbare tickers. Geen abonnementen. Geen advertenties. Nooit.
 
 ## Diepgaande analyse binnen handbereik
 

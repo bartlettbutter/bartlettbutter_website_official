@@ -51,7 +51,7 @@ Uygulama, her ETF için yakın tarihli haber makalelerini (7 günlük pencere) a
 
 ### Belirli bir ETF arayabilir miyim?
 
-Evet. Herhangi bir ETF'yi hisse sembolü veya adıyla bulmak için arama çubuğunu kullanın. Arama, 200'den fazla özenle seçilmiş ETF'nin yanı sıra toplamda 400'den fazla sembolden oluşan genişletilmiş bir kitaplığı kapsar.
+Evet. Herhangi bir ETF'yi hisse sembolü veya adıyla bulmak için arama çubuğunu kullanın. Arama, 200'den fazla özenle seçilmiş ETF'nin yanı sıra toplamda 450'den fazla sembolden oluşan genişletilmiş bir kitaplığı kapsar.
 
 ### Verilerim gizli mi?
 

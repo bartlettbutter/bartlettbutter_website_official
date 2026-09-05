@@ -21,7 +21,7 @@ Sonsuz hisse sembolleri arasında gezinmeyi bırakın. ETFWise, canlı piyasa ve
 - **Her sabah taze seçimler** — Ana Endeks, Sektör, Tahvil, Uluslararası, Emtia, Tematik ve Temettü kategorilerinde, her gün yenilenerek nereye bakacağınızı her zaman bilmenizi sağlar.
 - **Piyasayı neyin hareket ettirdiğini görün** — haber duygu puanları, tahmin piyasası olasılıkları ve analist konsensüsü ile harekete geçmeden önce tüm resmi görün.
 - **Özel kalan analiz** — cihazınızda anında oluşturulur; yükseliş ve risk senaryoları gerçek metriklerden oluşturulur. Bulut yüklemesi yok. Hiçbir veri cihazınızdan çıkmaz.
-- **Canlı veri, sıfır maliyet** — her 5 dakikada bir yenilenen gerçek zamanlı fiyatlar, 200'den fazla özenle seçilmiş ETF ve 400'den fazla aranabilir sembol. Abonelik yok. Reklam yok. Asla.
+- **Canlı veri, sıfır maliyet** — her 5 dakikada bir yenilenen gerçek zamanlı fiyatlar, 200'den fazla özenle seçilmiş ETF ve 450'den fazla aranabilir sembol. Abonelik yok. Reklam yok. Asla.
 
 ## Parmaklarınızın ucunda derinlemesine analiz
 

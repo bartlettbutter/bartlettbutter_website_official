@@ -21,7 +21,7 @@ Pare de percorrer tickers intermináveis. O ETFWise oferece recomendações diá
 - **Seleções novas todas as manhãs** nas categorias Índice Principal, Setor, Títulos, Internacional, Commodities, Temática e Dividendos, atualizadas diariamente para que você sempre saiba onde procurar.
 - **Veja o que move o mercado** com pontuações de sentimento de notícias, probabilidades de mercados de previsão e consenso de analistas, dando a você o panorama completo antes de agir.
 - **Análise que permanece privada**, gerada instantaneamente no seu dispositivo; argumentos de alta e de risco construídos a partir de métricas reais. Sem envios para a nuvem. Nenhum dado sai do seu dispositivo.
-- **Dados ao vivo, custo zero** com preços em tempo real atualizados a cada 5 minutos, mais de 200 ETFs selecionados e mais de 400 tickers pesquisáveis. Sem assinaturas. Sem anúncios. Nunca.
+- **Dados ao vivo, custo zero** com preços em tempo real atualizados a cada 5 minutos, mais de 200 ETFs selecionados e mais de 450 tickers pesquisáveis. Sem assinaturas. Sem anúncios. Nunca.
 
 ## Análise profunda ao seu alcance
 

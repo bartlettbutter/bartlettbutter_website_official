@@ -21,7 +21,7 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
 - **Jeden Morgen frische Auswahl** in den Kategorien Hauptindex, Sektor, Anleihen, International, Rohstoffe, Themen und Dividenden, täglich aktualisiert, damit du immer weißt, wo du hinschauen musst.
 - **Sieh, was den Markt bewegt** mit Nachrichtenstimmungs-Scores, Wahrscheinlichkeiten von Prognosemärkten und Analystenkonsens, die dir das vollständige Bild geben, bevor du handelst.
 - **Analyse, die privat bleibt**, sofort auf deinem Gerät erstellt; Bull- und Risiko-Szenarien aus echten Kennzahlen. Keine Cloud-Uploads. Keine Daten verlassen dein Gerät.
-- **Live-Daten, keine Kosten** mit Echtzeitpreisen, die alle 5 Minuten aktualisiert werden, über 200 kuratierten ETFs und über 400 durchsuchbaren Tickern. Keine Abonnements. Keine Werbung. Niemals.
+- **Live-Daten, keine Kosten** mit Echtzeitpreisen, die alle 5 Minuten aktualisiert werden, über 200 kuratierten ETFs und über 450 durchsuchbaren Tickern. Keine Abonnements. Keine Werbung. Niemals.
 
 ## Tiefgehende Analyse zum Greifen nah
 

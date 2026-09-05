@@ -51,7 +51,7 @@ De app analyseert recente nieuwsartikelen (venster van 7 dagen) voor elke ETF en
 
 ### Kan ik naar een specifieke ETF zoeken?
 
-Ja. Gebruik de zoekbalk om een ETF op tickersymbool of naam te vinden. De zoekopdracht dekt meer dan 200 samengestelde ETF's plus een uitgebreide bibliotheek van in totaal meer dan 400 tickers.
+Ja. Gebruik de zoekbalk om een ETF op tickersymbool of naam te vinden. De zoekopdracht dekt meer dan 200 samengestelde ETF's plus een uitgebreide bibliotheek van in totaal meer dan 450 tickers.
 
 ### Zijn mijn gegevens privé?
 

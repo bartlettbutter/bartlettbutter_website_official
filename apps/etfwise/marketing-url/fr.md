@@ -21,7 +21,7 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
 - **Des sélections fraîches chaque matin** dans les catégories Indice Principal, Secteur, Obligations, International, Matières Premières, Thématique et Dividendes, actualisées quotidiennement pour que vous sachiez toujours où regarder.
 - **Voyez ce qui fait bouger le marché** avec des scores de sentiment des actualités, des probabilités de marchés de prédiction et un consensus d'analystes qui vous donnent une vue d'ensemble avant d'agir.
 - **Une analyse qui reste privée**, générée instantanément sur votre appareil ; des arguments haussiers et de risque construits à partir de métriques réelles. Aucun envoi vers le cloud. Aucune donnée ne quitte votre appareil.
-- **Données en direct, coût nul** avec des prix en temps réel actualisés toutes les 5 minutes, plus de 200 ETF sélectionnés et plus de 400 symboles consultables. Aucun abonnement. Aucune publicité. Jamais.
+- **Données en direct, coût nul** avec des prix en temps réel actualisés toutes les 5 minutes, plus de 200 ETF sélectionnés et plus de 450 symboles consultables. Aucun abonnement. Aucune publicité. Jamais.
 
 ## Une analyse approfondie au bout des doigts
 

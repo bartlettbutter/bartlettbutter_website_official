@@ -51,7 +51,7 @@ L'application analyse les articles d'actualité récents (fenêtre de 7 jours) p
 
 ### Puis-je rechercher un ETF spécifique ?
 
-Oui. Utilisez la barre de recherche pour trouver n'importe quel ETF par symbole boursier ou par nom. La recherche couvre plus de 200 ETF sélectionnés plus une bibliothèque étendue de plus de 400 symboles au total.
+Oui. Utilisez la barre de recherche pour trouver n'importe quel ETF par symbole boursier ou par nom. La recherche couvre plus de 200 ETF sélectionnés plus une bibliothèque étendue de plus de 450 symboles au total.
 
 ### Mes données sont-elles privées ?
 

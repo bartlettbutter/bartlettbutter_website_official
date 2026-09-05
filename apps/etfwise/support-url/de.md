@@ -51,7 +51,7 @@ Die App analysiert aktuelle Nachrichtenartikel (7-Tage-Fenster) für jeden ETF u
 
 ### Kann ich nach einem bestimmten ETF suchen?
 
-Ja. Verwende die Suchleiste, um einen beliebigen ETF nach Tickersymbol oder Namen zu finden. Die Suche umfasst über 200 kuratierte ETFs plus eine erweiterte Bibliothek von insgesamt über 400 Tickern.
+Ja. Verwende die Suchleiste, um einen beliebigen ETF nach Tickersymbol oder Namen zu finden. Die Suche umfasst über 200 kuratierte ETFs plus eine erweiterte Bibliothek von insgesamt über 450 Tickern.
 
 ### Sind meine Daten privat?
 

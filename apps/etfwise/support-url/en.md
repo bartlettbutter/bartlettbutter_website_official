@@ -50,7 +50,7 @@ The app analyzes recent news articles (7-day window) for each ETF and scores the
 
 ### Can I search for a specific ETF?
 
-Yes. Use the search bar to find any ETF by ticker symbol or name. The search covers 200+ curated ETFs plus an extended library of over 400 tickers in total.
+Yes. Use the search bar to find any ETF by ticker symbol or name. The search covers 200+ curated ETFs plus an extended library of over 450 tickers in total.
 
 ### Is my data private?
 

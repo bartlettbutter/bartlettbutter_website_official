@@ -51,7 +51,7 @@ La aplicación analiza artículos de noticias recientes (ventana de 7 días) par
 
 ### ¿Puedo buscar un ETF específico?
 
-Sí. Usa la barra de búsqueda para encontrar cualquier ETF por símbolo o nombre. La búsqueda cubre más de 200 ETF seleccionados más una biblioteca ampliada de más de 400 tickers en total.
+Sí. Usa la barra de búsqueda para encontrar cualquier ETF por símbolo o nombre. La búsqueda cubre más de 200 ETF seleccionados más una biblioteca ampliada de más de 450 tickers en total.
 
 ### ¿Mis datos son privados?
 

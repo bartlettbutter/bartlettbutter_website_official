@@ -21,7 +21,7 @@ Smetti di scorrere ticker infiniti. ETFWise offre raccomandazioni giornaliere su
 - **Selezioni fresche ogni mattina** nelle categorie Indice Principale, Settore, Obbligazioni, Internazionale, Materie Prime, Tematica e Dividendi, aggiornate quotidianamente così sai sempre dove guardare.
 - **Vedi cosa muove il mercato** con punteggi di sentiment delle notizie, probabilità dei mercati predittivi e consenso degli analisti che ti danno il quadro completo prima di agire.
 - **Analisi che resta privata**, generata istantaneamente sul tuo dispositivo; scenari rialzisti e di rischio costruiti a partire da metriche reali. Nessun caricamento sul cloud. Nessun dato lascia il tuo dispositivo.
-- **Dati in tempo reale, costo zero** con prezzi in tempo reale aggiornati ogni 5 minuti, oltre 200 ETF selezionati e oltre 400 ticker ricercabili. Nessun abbonamento. Nessuna pubblicità. Mai.
+- **Dati in tempo reale, costo zero** con prezzi in tempo reale aggiornati ogni 5 minuti, oltre 200 ETF selezionati e oltre 450 ticker ricercabili. Nessun abbonamento. Nessuna pubblicità. Mai.
 
 ## Analisi approfondita a portata di mano
 

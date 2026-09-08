@@ -47,6 +47,10 @@ body {
   color: var(--color-text);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* Guard against the few-px horizontal scroll that the full-bleed marketing
+     bands (100vw-based negative margins) can otherwise introduce, matching
+     the landing page. */
+  overflow-x: hidden;
 }
 
 /* ─── Navigation ─── */

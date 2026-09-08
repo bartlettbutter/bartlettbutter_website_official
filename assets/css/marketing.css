@@ -85,8 +85,20 @@
 .marketing-band {
   position: relative;
   overflow: hidden;
-  margin: 72px -40px 0;
-  padding: clamp(48px, 6vw, 64px) 40px;
+  /* Full-bleed: break out of the centered, max-width .content-body so the
+     band's background reaches both viewport edges (matching the landing
+     page's edge-to-edge sections) instead of stopping at the content box
+     and leaving white gutters left and right. */
+  margin-top: 72px;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  /* Center the band's content within the same max-width as the rest of the
+     page (app-header-inner is 1120px), so full-bleeding the background does
+     not stretch the content edge-to-edge. */
+  padding-top: clamp(48px, 6vw, 64px);
+  padding-bottom: clamp(48px, 6vw, 64px);
+  padding-left: max(clamp(20px, 4vw, 40px), calc(50vw - 560px));
+  padding-right: max(clamp(20px, 4vw, 40px), calc(50vw - 560px));
   border-top: 1px solid rgba(var(--app-accent-rgb), 0.14);
   background: var(--app-ambient, linear-gradient(180deg, rgba(255, 255, 255, 0.98) 0%, rgba(249, 250, 251, 0.96) 100%));
 }
@@ -408,13 +420,20 @@ h3.marketing-price-summary {
 }
 
 /* ─── Screenshot showcase ─── */
-/* Negative inline margins cancel .content-body's 40px padding so the section
-   spans the full content column as a distinct band. */
+/* Full-bleed: break out of the centered, max-width .content-body so the
+   showcase background reaches both viewport edges, then center its content
+   within the page's shared max-width (matches .marketing-band). */
 .app-showcase {
   position: relative;
   overflow: hidden;
-  margin: 72px -40px 16px;
-  padding: clamp(56px, 7vw, 72px) 40px 16px;
+  margin-top: 72px;
+  margin-bottom: 16px;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  padding-top: clamp(56px, 7vw, 72px);
+  padding-bottom: 16px;
+  padding-left: max(clamp(20px, 4vw, 40px), calc(50vw - 560px));
+  padding-right: max(clamp(20px, 4vw, 40px), calc(50vw - 560px));
   border-top: 1px solid var(--color-border);
   background:
     radial-gradient(circle at top left, var(--app-accent-soft, var(--color-bg-subtle)) 0%, transparent 42%),
@@ -601,8 +620,11 @@ h3.marketing-price-summary {
   }
 
   .marketing-band {
-    margin: 56px -20px 0;
-    padding: 44px 20px;
+    /* Keep the full-bleed left/right margins from the base rule; only tighten
+       vertical rhythm on phones. */
+    margin-top: 56px;
+    padding-top: 44px;
+    padding-bottom: 44px;
   }
 
   .marketing-section-head {
@@ -643,11 +665,13 @@ h3.marketing-price-summary {
     padding: 28px 20px;
   }
 
-  /* Horizontal values mirror .content-body's ≤768px padding (20px) so the
-     band spans the content column exactly without overflowing. */
+  /* Keep the full-bleed left/right margins from the base rule; only tighten
+     vertical rhythm on phones. */
   .app-showcase {
-    margin: 56px -20px 12px;
-    padding: 48px 20px 12px;
+    margin-top: 56px;
+    margin-bottom: 12px;
+    padding-top: 48px;
+    padding-bottom: 12px;
   }
 
   .app-showcase-title {

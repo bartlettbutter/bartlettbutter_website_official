@@ -63,10 +63,11 @@
       var pointerX = null;   // last known pointer x within the track (px)
       var rafId = null;
 
-      // Dead zone in the middle where the strip holds still; the outer
-      // fraction on each side is the active "glide" region.
-      var EDGE_ZONE = 0.28;  // 28% of width on each side reacts to the pointer
-      var MAX_SPEED = 14;    // px per frame at the very edge
+      // Small dead zone in the middle where the strip holds still; most of the
+      // width on each side is an active "glide" region so moving the mouse
+      // almost anywhere over the strip visibly scrolls it.
+      var EDGE_ZONE = 0.42;  // 42% of width on each side reacts to the pointer
+      var MAX_SPEED = 16;    // px per frame at the very edge
 
       function step() {
         // Nothing to scroll, or pointer left the track: stop the loop.

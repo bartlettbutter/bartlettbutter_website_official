@@ -26,58 +26,58 @@
 
 /* Barkpedia — teal badge, warm tan dog. */
 [data-app="barkpedia"] {
-  --app-accent: #2C8A8B;
-  --app-accent-strong: #1F5E60;
-  --app-accent-soft: #E4F1F1;
-  --app-header-bg: linear-gradient(180deg, #E4F1F1 0%, var(--color-bg) 100%);
+  --app-accent: #28B8C7;
+  --app-accent-strong: #153B72;
+  --app-accent-soft: #E4F7FA;
+  --app-header-bg: linear-gradient(135deg, #E4F7FA 0%, #EEF3FF 100%);
 }
 
 /* ETFWise — finance green with a rising blue arrow. */
 [data-app="etfwise"] {
-  --app-accent: #2E9E63;
-  --app-accent-strong: #17663F;
-  --app-accent-soft: #E5F3EA;
-  --app-header-bg: linear-gradient(180deg, #E5F3EA 0%, var(--color-bg) 100%);
+  --app-accent: #2D8D62;
+  --app-accent-strong: #1C5A95;
+  --app-accent-soft: #EAF6EF;
+  --app-header-bg: linear-gradient(135deg, #EAF6EF 0%, #EDF4FB 60%, #FBF2D9 100%);
 }
 
 /* Huepick — teal camera body over a rainbow color spectrum on cream. The
    single accent tracks the teal camera body; the header wash nods to the
    rainbow. */
 [data-app="huepick"] {
-  --app-accent: #3E8DA6;
-  --app-accent-strong: #26697F;
-  --app-accent-soft: #E6F0F3;
-  --app-header-bg: linear-gradient(120deg, #FDECE6 0%, #FCE9F1 33%, #EAF0FB 66%, #E6F5EF 100%);
+  --app-accent: #4A98AF;
+  --app-accent-strong: #2B6B7D;
+  --app-accent-soft: #F8EEDC;
+  --app-header-bg: linear-gradient(120deg, #F8EEDC 0%, #FCE9F1 32%, #EAF0FB 66%, #EAF7EF 100%);
 }
 
 /* Nekopedia — purple badge, warm tan cat. */
 [data-app="nekopedia"] {
-  --app-accent: #8A4FC0;
-  --app-accent-strong: #5A2A88;
-  --app-accent-soft: #F1E9F9;
-  --app-header-bg: linear-gradient(180deg, #F1E9F9 0%, var(--color-bg) 100%);
+  --app-accent: #A45AE0;
+  --app-accent-strong: #52257E;
+  --app-accent-soft: #F3E8FC;
+  --app-header-bg: linear-gradient(135deg, #F3E8FC 0%, #FAF4FF 100%);
 }
 
 /* Solcast — golden sun over a soft cloud. */
 [data-app="solcast"] {
-  --app-accent: #E7A61E;
-  --app-accent-strong: #8A5E12;
-  --app-accent-soft: #FBF1D9;
-  --app-header-bg: linear-gradient(180deg, #FBF1D9 0%, var(--color-bg) 100%);
+  --app-accent: #E7AB13;
+  --app-accent-strong: #A55B10;
+  --app-accent-soft: #FCF2D6;
+  --app-header-bg: linear-gradient(135deg, #FFF7E6 0%, #FCF2D6 52%, #FFFDF6 100%);
 }
 
 /* FormuLens — magenta field, deep maroon flask. */
 [data-app="formulens"] {
-  --app-accent: #E23A82;
-  --app-accent-strong: #9B2A57;
-  --app-accent-soft: #FCE9F1;
-  --app-header-bg: linear-gradient(180deg, #FCE9F1 0%, var(--color-bg) 100%);
+  --app-accent: #E44D8D;
+  --app-accent-strong: #8A173A;
+  --app-accent-soft: #FBE6EE;
+  --app-header-bg: linear-gradient(135deg, #FBE6EE 0%, #FFF7FA 100%);
 }
 
-/* Journeyfolio — blue travel folder. */
+/* Journeyfolio — blue travel folder with warm ticket / sun details. */
 [data-app="journeyfolio"] {
-  --app-accent: #2F6FE0;
-  --app-accent-strong: #1E4FAF;
-  --app-accent-soft: #E7EEFC;
-  --app-header-bg: linear-gradient(180deg, #E7EEFC 0%, var(--color-bg) 100%);
+  --app-accent: #2F71E5;
+  --app-accent-strong: #1B4EAD;
+  --app-accent-soft: #E8F0FE;
+  --app-header-bg: linear-gradient(135deg, #E8F0FE 0%, #F6FAFF 64%, #FFF4C9 100%);
 }

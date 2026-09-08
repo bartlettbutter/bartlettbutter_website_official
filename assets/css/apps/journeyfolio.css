@@ -26,12 +26,37 @@
 
 .jf-page h1:first-child + p {
   max-width: 620px;
-  margin: 0 auto 20px;
+  margin: 0 auto 24px;
   font-family: var(--font);
   font-size: 18px;
   line-height: 1.6;
   text-align: center;
   color: var(--color-text-muted);
+}
+
+.jf-page h2 + ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  padding-left: 0;
+  list-style: none;
+}
+
+.jf-page h2 + ul li {
+  margin-bottom: 0;
+  padding: 22px 24px;
+  border: 1px solid var(--app-accent-soft);
+  border-radius: 24px;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F7FAFF 100%);
+  box-shadow: 0 18px 40px rgba(27, 78, 173, 0.08);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.jf-page h2 + p + ul {
+  padding: 22px 24px 22px 44px;
+  border: 1px solid var(--app-accent-soft);
+  border-radius: 24px;
+  background: linear-gradient(135deg, var(--app-accent-soft) 0%, #FFFFFF 100%);
 }
 
 /* Centered section headings with a short accent underline. */
@@ -76,15 +101,20 @@
   position: relative;
   min-height: 36px;
   margin-bottom: 18px;
-  padding-left: 52px;
+  padding: 18px 22px 18px 64px;
   counter-increment: jf-step;
+  border: 1px solid var(--app-accent-soft);
+  border-radius: 24px;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F7FAFF 100%);
+  box-shadow: 0 18px 40px rgba(27, 78, 173, 0.06);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
 }
 
 .jf-page ol > li::before {
   content: counter(jf-step);
   position: absolute;
-  inset-inline-start: 0;
-  top: 0;
+  inset-inline-start: 16px;
+  top: 16px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -101,7 +131,9 @@
 /* Showcase variant: serif titles, larger phones, more air. */
 .app-showcase--jf {
   border-top-color: var(--app-accent-soft);
-  background: linear-gradient(180deg, var(--app-accent-soft) 0%, transparent 55%);
+  background:
+    radial-gradient(circle at 12% 16%, rgba(255, 244, 201, 0.95) 0%, transparent 22%),
+    linear-gradient(180deg, var(--app-accent-soft) 0%, transparent 55%);
 }
 
 .app-showcase--jf .app-showcase-title,
@@ -118,6 +150,24 @@
   width: 300px;
 }
 
+.app-showcase--jf .showcase-item {
+  border-color: rgba(47, 113, 229, 0.12);
+  box-shadow: 0 24px 64px rgba(27, 78, 173, 0.1);
+}
+
+.app-showcase--jf .showcase-step {
+  background: linear-gradient(135deg, #FFFFFF 0%, #FFF7DD 100%);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .jf-page h2 + ul li:hover,
+  .jf-page ol > li:hover {
+    transform: translateY(-2px);
+    border-color: rgba(47, 113, 229, 0.18);
+    box-shadow: 0 22px 48px rgba(27, 78, 173, 0.1);
+  }
+}
+
 @media (max-width: 768px) {
   .jf-page h1:first-child {
     font-size: 32px;
@@ -125,6 +175,14 @@
 
   .jf-page h2 {
     font-size: 26px;
+  }
+
+  .jf-page h2 + ul {
+    grid-template-columns: 1fr;
+  }
+
+  .jf-page h2 + p + ul {
+    padding-inline: 20px;
   }
 
   .app-showcase--jf .showcase-media {

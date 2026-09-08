@@ -9,9 +9,31 @@
 /* Negative inline margins cancel .content-body's 40px padding so the section
    spans the full content column as a distinct band. */
 .app-showcase {
-  margin: 72px -40px 8px;
-  padding: 64px 40px 8px;
+  position: relative;
+  overflow: hidden;
+  margin: 72px -40px 16px;
+  padding: clamp(56px, 7vw, 72px) 40px 16px;
   border-top: 1px solid var(--color-border);
+  background:
+    radial-gradient(circle at top left, var(--app-accent-soft, var(--color-bg-subtle)) 0%, transparent 42%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.98) 0%, rgba(255, 255, 255, 0.9) 100%);
+}
+
+.app-showcase::before {
+  content: "";
+  position: absolute;
+  inset: auto -120px -120px auto;
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  background: var(--app-accent-soft, var(--color-bg-subtle));
+  filter: blur(8px);
+  opacity: 0.8;
+}
+
+.app-showcase > * {
+  position: relative;
+  z-index: 1;
 }
 
 .app-showcase-head {
@@ -47,14 +69,20 @@
 .app-showcase-list {
   display: flex;
   flex-direction: column;
-  gap: 40px;
-  margin-top: 56px;
+  gap: clamp(24px, 3vw, 32px);
+  margin-top: clamp(40px, 6vw, 56px);
 }
 
 .showcase-item {
   display: flex;
-  align-items: center;
-  gap: 48px;
+  align-items: flex-start;
+  gap: 56px;
+  padding: 32px;
+  border: 1px solid var(--color-border);
+  border-radius: 32px;
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.98) 0%, rgba(255, 255, 255, 0.86) 100%);
+  box-shadow: 0 24px 60px rgba(3, 7, 18, 0.06);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
 }
 
 /* Alternate which side the mockup sits on down the page. */
@@ -64,15 +92,19 @@
 
 .showcase-media {
   flex: none;
-  width: 280px;
+  width: clamp(248px, 27vw, 296px);
+  padding: 10px;
+  border-radius: 30px;
+  border: 1px solid var(--app-accent-soft, var(--color-border));
+  background: linear-gradient(180deg, #FFFFFF 0%, var(--app-accent-soft, var(--color-bg-subtle)) 100%);
 }
 
 .showcase-media img {
   display: block;
   width: 100%;
   height: auto;
-  border-radius: 22px;
-  box-shadow: 0 24px 60px rgba(3, 7, 18, 0.14);
+  border-radius: 24px;
+  box-shadow: 0 24px 60px rgba(3, 7, 18, 0.12);
 }
 
 .showcase-copy {
@@ -84,20 +116,22 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 30px;
-  height: 30px;
-  padding: 0 10px;
+  min-width: 48px;
+  height: 48px;
+  padding: 0 14px;
   margin-bottom: 14px;
   border-radius: 999px;
-  background: var(--app-accent-soft, var(--color-bg-subtle));
-  border: 1px solid var(--app-accent, var(--color-border));
-  font-size: 13px;
-  font-weight: 600;
+  background: #FFFFFF;
+  border: 1px solid var(--app-accent-soft, var(--color-border));
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
   color: var(--app-accent-strong, var(--color-text-muted));
 }
 
 .showcase-item-title {
-  font-size: 22px;
+  font-size: 26px;
+  line-height: 1.15;
   font-weight: 600;
   letter-spacing: -0.01em;
   color: var(--color-text-strong);
@@ -108,6 +142,32 @@
   font-size: 16px;
   line-height: 1.65;
   color: var(--color-text-muted);
+  max-width: 42ch;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .showcase-item:hover,
+  .showcase-item:focus-within {
+    transform: translateY(-2px);
+    border-color: var(--app-accent-soft, var(--color-border));
+    box-shadow: 0 28px 64px rgba(3, 7, 18, 0.08);
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .app-showcase {
+    margin-top: 64px;
+    padding-top: 60px;
+  }
+
+  .showcase-item {
+    gap: 32px;
+    padding: 28px;
+  }
+
+  .showcase-media {
+    width: 252px;
+  }
 }
 
 /* ─── Scroll reveal ─── */
@@ -132,8 +192,8 @@
   /* Horizontal values mirror .content-body's ≤768px padding (20px) so the
      band spans the content column exactly without overflowing. */
   .app-showcase {
-    margin: 56px -20px 8px;
-    padding: 48px 20px 8px;
+    margin: 56px -20px 12px;
+    padding: 48px 20px 12px;
   }
 
   .app-showcase-title {
@@ -141,7 +201,7 @@
   }
 
   .app-showcase-list {
-    gap: 56px;
+    gap: 20px;
     margin-top: 44px;
   }
 
@@ -150,14 +210,24 @@
     flex-direction: column;
     gap: 24px;
     text-align: center;
+    padding: 24px 20px;
   }
 
   .showcase-media {
     width: 232px;
+    padding: 8px;
   }
 
   .showcase-step {
     margin-inline: auto;
+  }
+
+  .showcase-item-title {
+    font-size: 22px;
+  }
+
+  .showcase-item-body {
+    max-width: none;
   }
 }
 

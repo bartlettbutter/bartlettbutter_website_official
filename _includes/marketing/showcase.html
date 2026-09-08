@@ -26,12 +26,20 @@
 
   <div class="app-showcase-list">
     {%- for shot in sc.shots %}
+    {%- assign shot_step = shot.step -%}
+    {%- if shot_step == nil or shot_step == "" -%}
+      {%- if forloop.index < 10 -%}
+        {%- assign shot_step = "0" | append: forloop.index -%}
+      {%- else -%}
+        {%- assign shot_step = forloop.index -%}
+      {%- endif -%}
+    {%- endif -%}
     <article class="showcase-item reveal">
       <div class="showcase-media">
         <img src="{{ shot.image }}" alt="{{ shot.alt | default: shot.title }}" width="660" height="1434" loading="lazy" decoding="async">
       </div>
       <div class="showcase-copy">
-        {%- if shot.step %}<span class="showcase-step">{{ shot.step }}</span>{%- endif %}
+        <span class="showcase-step" aria-hidden="true">{{ shot_step }}</span>
         <h3 class="showcase-item-title">{{ shot.title }}</h3>
         <p class="showcase-item-body">{{ shot.body }}</p>
       </div>

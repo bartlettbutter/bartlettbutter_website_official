@@ -1,0 +1,42 @@
+{%- comment -%}
+  Hero mockup gallery. A row of App Store device mockups shown directly below
+  the page hero (title + lead + download badge), before the narrative
+  `showcase`. It is purely visual — no per-shot copy — so it works from a flat
+  list of images and stays identical across languages.
+
+  Content comes from the `hero_gallery` object in _data/apps/<app>.yml (passed
+  in as `include.gallery`):
+
+    hero_gallery:
+      label:  optional eyebrow above the strip
+      title:  optional heading
+      alt:    accessible description applied to each screen, with the 1-based
+              index appended (e.g. "FormuLens screen 3"); falls back to a
+              generic label when omitted
+      shots:
+        - /assets/screenshots/<app>/hero/01.png
+        - /assets/screenshots/<app>/hero/02.png
+
+  On narrow screens the strip scrolls horizontally; on wide screens it lays the
+  mockups out in a centered, wrapping row. Each frame is a scroll-reveal target
+  (see assets/js/marketing.js); without JS or under reduced-motion the frames
+  are simply visible.
+{%- endcomment -%}
+{%- assign gal = include.gallery -%}
+{%- if gal and gal.shots and gal.shots.size > 0 -%}
+<section class="hero-gallery{% if include.variant %} hero-gallery--{{ include.variant }}{% endif %}"{% if gal.title %} aria-labelledby="hero-gallery-title"{% else %} aria-label="{{ gal.alt | default: 'App screenshots' }}"{% endif %}>
+  {%- if gal.label or gal.title %}
+  <div class="hero-gallery-head reveal">
+    {%- if gal.label %}<span class="hero-gallery-label">{{ gal.label }}</span>{%- endif %}
+    {%- if gal.title %}<h2 id="hero-gallery-title" class="hero-gallery-title">{{ gal.title }}</h2>{%- endif %}
+  </div>
+  {%- endif %}
+  <div class="hero-gallery-track">
+    {%- for shot in gal.shots %}
+    <figure class="hero-gallery-frame reveal">
+      <img src="{{ shot }}" alt="{{ gal.alt | default: 'App screenshot' }} {{ forloop.index }}" width="660" height="1434" loading="lazy" decoding="async">
+    </figure>
+    {%- endfor %}
+  </div>
+</section>
+{%- endif -%}

@@ -138,3 +138,17 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Hero gallery: soft magenta frames and eyebrow, matching the showcase band. */
+.hero-gallery--fl .hero-gallery-label {
+  color: var(--app-accent-strong);
+}
+
+.hero-gallery--fl .hero-gallery-frame {
+  border-color: var(--app-accent-soft);
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFF0F6 100%);
+}
+
+.hero-gallery--fl .hero-gallery-frame img {
+  border: 1px solid var(--app-accent-soft);
+}

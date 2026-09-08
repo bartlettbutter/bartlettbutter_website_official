@@ -189,3 +189,23 @@
     width: 232px;
   }
 }
+
+/* Hero gallery: serif heading and soft blue frames, matching the showcase band. */
+.hero-gallery--jf .hero-gallery-title {
+  font-family: 'Fraunces', Georgia, 'Times New Roman', serif;
+  font-weight: 600;
+  color: var(--app-accent-strong);
+}
+
+.hero-gallery--jf .hero-gallery-label {
+  color: var(--app-accent-strong);
+}
+
+.hero-gallery--jf .hero-gallery-frame {
+  border-color: var(--app-accent-soft);
+  background: linear-gradient(180deg, #FFFFFF 0%, #F7FAFF 100%);
+}
+
+.hero-gallery--jf .hero-gallery-frame img {
+  border: 1px solid var(--app-accent-soft);
+}

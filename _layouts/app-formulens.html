@@ -9,11 +9,16 @@ layout: default
   translated markdown; the showcase is injected at the `<!--showcase-->` marker.
 {%- endcomment -%}
 {%- assign m_data = site.data.apps.formulens[page.lang | default: "en"] | default: site.data.apps.formulens.en -%}
+{%- comment -%} The hero gallery is language-independent (images only), so it is
+  defined once under `en`. Fall back to it for languages that don't override it,
+  the same way the whole entry falls back to `en`. {%- endcomment -%}
+{%- assign m_gallery = m_data.hero_gallery | default: site.data.apps.formulens.en.hero_gallery -%}
 <div class="fl-page app-page">
-{%- if m_data.showcase -%}
+{%- if m_data.showcase or m_gallery -%}
   {%- assign m_parts = content | split: "<!--showcase-->" -%}
   {{ m_parts[0] }}
-  {%- include marketing/showcase.html showcase=m_data.showcase variant="fl" -%}
+  {%- if m_gallery -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="fl" -%}{%- endif -%}
+  {%- if m_data.showcase -%}{%- include marketing/showcase.html showcase=m_data.showcase variant="fl" -%}{%- endif -%}
   {%- if m_parts.size > 1 -%}{{ m_parts[1] }}{%- endif -%}
 {%- else -%}
   {{ content }}

@@ -9,6 +9,21 @@
 # the narratives here add explanation rather than repeat the on-image text).
 
 en:
+  hero_gallery:
+    # No label/title: this strip is purely visual and shared across all
+    # languages (see the layout's en fallback), so it carries no translatable
+    # copy. `alt` is a generic, per-screen accessible description.
+    alt: "Journeyfolio app screen"
+    shots:
+      - /assets/screenshots/journeyfolio/hero/01.png
+      - /assets/screenshots/journeyfolio/hero/02.png
+      - /assets/screenshots/journeyfolio/hero/03.png
+      - /assets/screenshots/journeyfolio/hero/04.png
+      - /assets/screenshots/journeyfolio/hero/05.png
+      - /assets/screenshots/journeyfolio/hero/06.png
+      - /assets/screenshots/journeyfolio/hero/07.png
+      - /assets/screenshots/journeyfolio/hero/08.png
+      - /assets/screenshots/journeyfolio/hero/09.png
   showcase:
     label: "A closer look"
     title: "Your whole trip, beautifully in order"

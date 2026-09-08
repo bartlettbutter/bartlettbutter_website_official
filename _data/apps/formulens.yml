@@ -9,6 +9,20 @@
 # narratives here add explanation rather than repeat the on-image text).
 
 en:
+  hero_gallery:
+    # No label/title: this strip is purely visual and shared across all
+    # languages (see the layout's en fallback), so it carries no translatable
+    # copy. `alt` is a generic, per-screen accessible description.
+    alt: "FormuLens app screen"
+    shots:
+      - /assets/screenshots/formulens/hero/01.png
+      - /assets/screenshots/formulens/hero/02.png
+      - /assets/screenshots/formulens/hero/03.png
+      - /assets/screenshots/formulens/hero/04.png
+      - /assets/screenshots/formulens/hero/05.png
+      - /assets/screenshots/formulens/hero/06.png
+      - /assets/screenshots/formulens/hero/07.png
+      - /assets/screenshots/formulens/hero/08.png
   showcase:
     label: "See it in action"
     title: "From label to clarity in a few taps"

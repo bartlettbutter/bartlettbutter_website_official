@@ -241,3 +241,100 @@
     transition: none;
   }
 }
+
+/* ─── Hero mockup gallery ─── */
+/* A visual strip of device mockups shown just below the page hero, above the
+   narrative .app-showcase. Full-bleed within the content column (matching the
+   showcase band's negative margins). The mockups sit in a centered, wrapping
+   row on wide screens and scroll horizontally on narrow ones. */
+.hero-gallery {
+  margin: clamp(32px, 5vw, 48px) -40px 8px;
+  padding: 0 40px;
+}
+
+.hero-gallery-head {
+  max-width: 640px;
+  margin: 0 auto 24px;
+  text-align: center;
+}
+
+.hero-gallery-label {
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--app-accent-strong, var(--color-text-muted));
+}
+
+.hero-gallery-title {
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--color-text-strong);
+}
+
+.hero-gallery-track {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: clamp(16px, 2.2vw, 28px);
+}
+
+.hero-gallery-frame {
+  flex: 0 0 auto;
+  width: clamp(150px, 17vw, 208px);
+  margin: 0;
+  padding: 8px;
+  border-radius: 26px;
+  border: 1px solid var(--app-accent-soft, var(--color-border));
+  background: linear-gradient(180deg, #FFFFFF 0%, var(--app-accent-soft, var(--color-bg-subtle)) 100%);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.hero-gallery-frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 18px 44px rgba(3, 7, 18, 0.14);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .hero-gallery-frame:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 24px 56px rgba(3, 7, 18, 0.12);
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-gallery {
+    margin: 32px -20px 4px;
+    padding: 0 20px;
+  }
+
+  .hero-gallery-title {
+    font-size: 22px;
+  }
+
+  /* Horizontal scroll strip on phones: mockups keep a comfortable size and the
+     row scrolls, rather than shrinking to fit. Padding + negative margin let
+     the first/last frame breathe against the edges. */
+  .hero-gallery-track {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    gap: 16px;
+    margin: 0 -20px;
+    padding: 4px 20px 12px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .hero-gallery-frame {
+    width: 60vw;
+    max-width: 240px;
+    scroll-snap-align: center;
+  }
+}

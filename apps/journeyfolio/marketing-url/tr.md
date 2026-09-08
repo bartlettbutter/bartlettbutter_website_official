@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-journeyfolio
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Daha akıllı planlayın. Daha hafif seyahat edin. Tüm gezileriniz, tek bir güzel merkezde."
@@ -15,6 +15,8 @@ redirect_from:
 Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablolarla uğraşmayı bırakın. Journeyfolio tüm gezinizi uçuşlar, oteller, belgeler, canlı hava durumu ve gerçek zamanlı uçuş durumunu içeren, güzelce düzenlenmiş bir güzergâhta bir araya getirir; böylece yolculuğun kendisine odaklanabilirsiniz.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
+<!--showcase-->
 
 ## Gezginler neden Journeyfolio'yu seçiyor
 

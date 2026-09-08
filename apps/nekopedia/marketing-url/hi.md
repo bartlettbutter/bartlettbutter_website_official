@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "किसी भी बिल्ली की नस्ल तुरंत पहचानें। निःशुल्क, ऑफ़लाइन और निजी।"

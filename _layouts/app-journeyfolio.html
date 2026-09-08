@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{%- comment -%}
+  Bespoke marketing layout for Journeyfolio. Same shared chrome (nav, app
+  header, footer) as every other page via `default`, but the body is scoped to
+  `.jf-page` and styled by assets/css/apps/journeyfolio.css for a distinct
+  identity (blue, editorial serif display). Content still comes from the
+  translated markdown; the showcase is injected at the `<!--showcase-->` marker.
+{%- endcomment -%}
+{%- assign m_data = site.data.apps.journeyfolio[page.lang | default: "en"] | default: site.data.apps.journeyfolio.en -%}
+<div class="jf-page app-page">
+{%- if m_data.showcase -%}
+  {%- assign m_parts = content | split: "<!--showcase-->" -%}
+  {{ m_parts[0] }}
+  {%- include marketing/showcase.html showcase=m_data.showcase variant="jf" -%}
+  {%- if m_parts.size > 1 -%}{{ m_parts[1] }}{%- endif -%}
+{%- else -%}
+  {{ content }}
+{%- endif -%}
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "어떤 개 품종이든 즉시 식별하세요. 무료, 오프라인, 비공개."

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "किसी भी कुत्ते की नस्ल तुरंत पहचानें। निःशुल्क, ऑफ़लाइन और निजी।"

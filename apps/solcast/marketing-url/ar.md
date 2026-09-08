@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "طقس في الوقت الفعلي مع إرشادات نمط حياة مخصّصة، مصمّمة ليومك."

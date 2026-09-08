@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "लाइव डेटा, समाचार भावना और ऑन-डिवाइस तत्काल विश्लेषण द्वारा संचालित दैनिक ETF अनुशंसाएँ।"

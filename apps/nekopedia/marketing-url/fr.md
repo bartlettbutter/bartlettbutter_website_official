@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Identifiez n'importe quelle race de chat instantanément. Gratuit, hors ligne et privé."

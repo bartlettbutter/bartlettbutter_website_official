@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Meteo in tempo reale con consigli di stile di vita personalizzati, su misura per la tua giornata."

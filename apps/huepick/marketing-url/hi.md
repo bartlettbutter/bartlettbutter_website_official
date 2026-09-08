@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "तस्वीरों से पैलेट निकालें और रचनात्मक उपकरणों से छवियों को रूपांतरित करें। निःशुल्क, निजी, खाते की आवश्यकता नहीं।"

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "どんな成分表もスキャン。あなたのスキンケアに何が入っているか、そしてそれらがどう組み合わさって働くかを正確に把握。"
@@ -17,6 +17,8 @@ redirect_from:
 成分表は化学者向けに書かれていて、あなた向けには書かれていません。FormuLensがそれを翻訳します。どんな製品にでもカメラを向ければ、各成分が解読され、実際の働きによって分類されます。入力なし、検索なし、化学の学位も不要。
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
+
+<!--showcase-->
 
 ## 気に入る理由
 

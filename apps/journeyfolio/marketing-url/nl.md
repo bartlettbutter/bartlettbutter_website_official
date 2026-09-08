@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-journeyfolio
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Plan slimmer. Reis lichter. Al je reizen, één prachtige hub."
@@ -15,6 +15,8 @@ redirect_from:
 Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreadsheets. Journeyfolio brengt je volledige reis samen in één prachtig georganiseerd reisschema dat vluchten, hotels, documenten, live weer en realtime vluchtstatus bundelt, zodat je je kunt concentreren op de reis zelf.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
+<!--showcase-->
 
 ## Waarom reizigers Journeyfolio kiezen
 

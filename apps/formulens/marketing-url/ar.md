@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "امسح أي قائمة مكوّنات ضوئيًا. اعرف بالضبط ما يوجد في منتجات العناية ببشرتك، وكيف يعمل كل شيء معًا."
@@ -17,6 +17,8 @@ redirect_from:
 ملصقات المكوّنات مكتوبة للكيميائيين، لا لك. تطبيق FormuLens يترجمها لك. وجّه كاميرتك نحو أي منتج، وسيُفكَّك كل مكوّن ويُصنَّف حسب ما يفعله فعليًا، دون كتابة، ودون بحث، ودون الحاجة إلى شهادة في الكيمياء.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
+
+<!--showcase-->
 
 ## لماذا ستحبّه
 

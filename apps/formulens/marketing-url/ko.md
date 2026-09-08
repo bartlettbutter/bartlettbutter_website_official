@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "어떤 성분표든 스캔하세요. 당신의 스킨케어에 무엇이 들었는지, 그리고 그것들이 어떻게 함께 작동하는지 정확히 알아보세요."
@@ -17,6 +17,8 @@ redirect_from:
 성분표는 당신이 아니라 화학자를 위해 쓰여 있습니다. FormuLens가 그것을 번역해 드립니다. 어떤 제품에든 카메라를 대면 모든 성분이 해독되고 실제로 하는 일에 따라 분류됩니다. 입력도, 검색도, 화학 학위도 필요 없습니다.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
+
+<!--showcase-->
 
 ## 좋아하게 될 이유
 

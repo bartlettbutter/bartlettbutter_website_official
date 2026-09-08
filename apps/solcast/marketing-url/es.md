@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Clima en tiempo real con orientación de estilo de vida personalizada, adaptada a tu día."

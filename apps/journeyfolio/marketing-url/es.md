@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-journeyfolio
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Planifica mejor. Viaja más ligero. Todos tus viajes, un hermoso centro."
@@ -15,6 +15,8 @@ redirect_from:
 Deja de hacer malabares con capturas de pantalla, correos dispersos y hojas de cálculo a medias. Journeyfolio reúne todo tu viaje en un itinerario bellamente organizado que incluye vuelos, hoteles, documentos, clima en vivo y estado de vuelo en tiempo real, para que puedas concentrarte en el viaje en sí.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
+<!--showcase-->
 
 ## Por qué los viajeros eligen Journeyfolio
 

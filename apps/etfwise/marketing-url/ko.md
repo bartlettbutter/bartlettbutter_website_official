@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "실시간 데이터, 뉴스 감성, 기기 내 즉각 분석으로 구동되는 매일의 ETF 추천."

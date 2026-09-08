@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Haal paletten uit foto's en transformeer afbeeldingen met creatieve hulpmiddelen. Gratis, privé, geen account nodig."

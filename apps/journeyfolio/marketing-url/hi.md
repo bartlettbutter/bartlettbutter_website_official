@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-journeyfolio
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "अधिक समझदारी से योजना बनाएँ। हल्का यात्रा करें। आपकी सभी यात्राएँ, एक सुंदर केंद्र।"
@@ -15,6 +15,8 @@ redirect_from:
 स्क्रीनशॉट, बिखरे हुए ईमेल और अधूरी स्प्रेडशीट से जूझना बंद करें। Journeyfolio आपकी पूरी यात्रा को एक खूबसूरती से व्यवस्थित यात्रा-कार्यक्रम में लाता है, जिसमें उड़ानें, होटल, दस्तावेज़, लाइव मौसम और रीयल-टाइम उड़ान स्थिति शामिल हैं, ताकि आप यात्रा पर ही ध्यान केंद्रित कर सकें।
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
+<!--showcase-->
 
 ## यात्री Journeyfolio क्यों चुनते हैं
 

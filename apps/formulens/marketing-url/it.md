@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Scansiona qualsiasi lista di ingredienti. Scopri esattamente cosa contiene la tua skincare, e come funziona tutto insieme."
@@ -17,6 +17,8 @@ redirect_from:
 Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens le traduce. Punta la fotocamera su qualsiasi prodotto e ogni ingrediente viene decodificato e ordinato in base a cosa fa davvero, senza digitare, senza cercare, senza una laurea in chimica.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
+
+<!--showcase-->
 
 ## Perché lo adorerai
 

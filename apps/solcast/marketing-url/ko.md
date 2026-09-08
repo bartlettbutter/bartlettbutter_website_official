@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "실시간 날씨와 여러분의 하루에 맞춘 개인 맞춤형 라이프스타일 안내."

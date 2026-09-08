@@ -1,0 +1,65 @@
+/* ============================================
+   FormuLens — bespoke marketing styling
+   Scoped to `.fl-page` (the marketing body wrapper from
+   _layouts/app-formulens.html). Distinct magenta/maroon, lab-clean identity.
+   Colors reuse the shared per-app theme tokens (see app-themes.css) so the
+   body, app header, and nav stay in one palette. Loaded only on the FormuLens
+   marketing page.
+   ============================================ */
+
+/* Hero title — magenta→maroon gradient, larger than the neutral base. */
+.fl-page h1:first-child {
+  font-size: 40px;
+  line-height: 1.1;
+  margin-bottom: 20px;
+  background: linear-gradient(120deg, var(--app-accent) 0%, var(--app-accent-strong) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Lead subhead: the bold sentence immediately after the title. */
+.fl-page h1:first-child + p {
+  max-width: 640px;
+  margin: 0 auto 20px;
+  font-size: 19px;
+  line-height: 1.6;
+  text-align: center;
+  color: var(--color-text-strong);
+}
+
+/* Section headings get a hairline accent rule above them. */
+.fl-page h2 {
+  padding-top: 20px;
+  border-top: 2px solid var(--app-accent-soft);
+  color: var(--app-accent-strong);
+}
+
+.fl-page h3 {
+  color: var(--app-accent-strong);
+}
+
+.fl-page strong {
+  color: var(--app-accent-strong);
+}
+
+.fl-page ul li::marker {
+  color: var(--app-accent);
+}
+
+/* Showcase: soft magenta band, tinted device edges. */
+.app-showcase--fl {
+  border-top-color: var(--app-accent-soft);
+  border-radius: 24px;
+  background: linear-gradient(180deg, var(--app-accent-soft) 0%, transparent 55%);
+}
+
+.app-showcase--fl .showcase-media img {
+  border: 1px solid var(--app-accent-soft);
+}
+
+@media (max-width: 768px) {
+  .fl-page h1:first-child {
+    font-size: 30px;
+  }
+}

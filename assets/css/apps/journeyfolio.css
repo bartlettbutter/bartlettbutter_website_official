@@ -1,0 +1,133 @@
+/* ============================================
+   Journeyfolio — bespoke marketing styling
+   Scoped to `.jf-page` (the marketing body wrapper from
+   _layouts/app-journeyfolio.html). Distinct blue, editorial identity with a
+   Fraunces serif display face (loaded conditionally in default.html) that
+   echoes the app's own screenshot typography. Colors reuse the shared per-app
+   theme tokens (see app-themes.css). Loaded only on the Journeyfolio marketing
+   page.
+   ============================================ */
+
+/* Serif display for headings; body copy stays in the site sans. */
+.jf-page h1,
+.jf-page h2,
+.jf-page h3 {
+  font-family: 'Fraunces', Georgia, 'Times New Roman', serif;
+  letter-spacing: 0;
+}
+
+.jf-page h1:first-child {
+  font-size: 44px;
+  line-height: 1.05;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: var(--app-accent-strong);
+}
+
+.jf-page h1:first-child + p {
+  max-width: 620px;
+  margin: 0 auto 20px;
+  font-family: var(--font);
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center;
+  color: var(--color-text-muted);
+}
+
+/* Centered section headings with a short accent underline. */
+.jf-page h2 {
+  margin-top: 56px;
+  font-size: 30px;
+  text-align: center;
+  color: var(--app-accent-strong);
+}
+
+.jf-page h2::after {
+  content: "";
+  display: block;
+  width: 44px;
+  height: 3px;
+  margin: 14px auto 0;
+  border-radius: 2px;
+  background: var(--app-accent);
+}
+
+.jf-page h3 {
+  font-size: 22px;
+  color: var(--app-accent-strong);
+}
+
+.jf-page strong {
+  color: var(--app-accent-strong);
+}
+
+.jf-page ul li::marker {
+  color: var(--app-accent);
+}
+
+/* "How it works" ordered list → a blue-numbered timeline. */
+.jf-page ol {
+  padding-left: 0;
+  list-style: none;
+  counter-reset: jf-step;
+}
+
+.jf-page ol > li {
+  position: relative;
+  min-height: 36px;
+  margin-bottom: 18px;
+  padding-left: 52px;
+  counter-increment: jf-step;
+}
+
+.jf-page ol > li::before {
+  content: counter(jf-step);
+  position: absolute;
+  inset-inline-start: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--app-accent);
+  color: #fff;
+  font-family: var(--font);
+  font-weight: 600;
+  font-size: 15px;
+}
+
+/* Showcase variant: serif titles, larger phones, more air. */
+.app-showcase--jf {
+  border-top-color: var(--app-accent-soft);
+  background: linear-gradient(180deg, var(--app-accent-soft) 0%, transparent 55%);
+}
+
+.app-showcase--jf .app-showcase-title,
+.app-showcase--jf .showcase-item-title {
+  font-family: 'Fraunces', Georgia, 'Times New Roman', serif;
+  font-weight: 600;
+}
+
+.app-showcase--jf .app-showcase-list {
+  gap: 64px;
+}
+
+.app-showcase--jf .showcase-media {
+  width: 300px;
+}
+
+@media (max-width: 768px) {
+  .jf-page h1:first-child {
+    font-size: 32px;
+  }
+
+  .jf-page h2 {
+    font-size: 26px;
+  }
+
+  .app-showcase--jf .showcase-media {
+    width: 232px;
+  }
+}

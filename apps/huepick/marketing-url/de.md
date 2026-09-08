@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Extrahiere Paletten aus Fotos und verwandle Bilder mit kreativen Werkzeugen. Kostenlos, privat und ohne Konto."

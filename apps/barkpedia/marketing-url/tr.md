@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Herhangi bir köpek ırkını anında tanımlayın. Ücretsiz, çevrimdışı ve gizli."

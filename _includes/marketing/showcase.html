@@ -1,0 +1,41 @@
+{%- comment -%}
+  App screenshot showcase. Renders an alternating gallery of device mockups
+  with a written narrative beside each. Content comes from the `showcase`
+  object in _data/apps/<app>.yml (passed in as `include.showcase`):
+
+    showcase:
+      label:    short eyebrow above the section title
+      title:    section heading
+      intro:    optional lead paragraph
+      shots:
+        - image: /assets/screenshots/<app>/<file>.png
+          alt:   accessible description of the screen
+          title: narrative heading for this screen
+          body:  1–2 sentence explanation
+
+  Each row is a scroll-reveal target (see assets/js/marketing.js); without JS
+  or with reduced-motion the rows are simply visible.
+{%- endcomment -%}
+{%- assign sc = include.showcase -%}
+<section class="app-showcase{% if include.variant %} app-showcase--{{ include.variant }}{% endif %}" aria-labelledby="showcase-title">
+  <div class="app-showcase-head reveal">
+    {%- if sc.label %}<span class="app-showcase-label">{{ sc.label }}</span>{%- endif %}
+    <h2 id="showcase-title" class="app-showcase-title">{{ sc.title }}</h2>
+    {%- if sc.intro %}<p class="app-showcase-intro">{{ sc.intro }}</p>{%- endif %}
+  </div>
+
+  <div class="app-showcase-list">
+    {%- for shot in sc.shots %}
+    <article class="showcase-item reveal">
+      <div class="showcase-media">
+        <img src="{{ shot.image }}" alt="{{ shot.alt | default: shot.title }}" width="660" height="1434" loading="lazy" decoding="async">
+      </div>
+      <div class="showcase-copy">
+        {%- if shot.step %}<span class="showcase-step">{{ shot.step }}</span>{%- endif %}
+        <h3 class="showcase-item-title">{{ shot.title }}</h3>
+        <p class="showcase-item-body">{{ shot.body }}</p>
+      </div>
+    </article>
+    {%- endfor %}
+  </div>
+</section>

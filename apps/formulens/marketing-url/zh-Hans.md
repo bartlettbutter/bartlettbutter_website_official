@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "扫描任何成分表，清楚了解你的护肤品里到底有什么，以及它们如何协同作用。"
@@ -17,6 +17,8 @@ redirect_from:
 成分标签是写给化学家看的，不是写给你看的。FormuLens 帮你把它翻译过来。把相机对准任何产品，每种成分都会被解读，并按其实际作用分类整理。无需输入、无需搜索，也不需要化学学位。
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
+
+<!--showcase-->
 
 ## 你会喜欢它的理由
 

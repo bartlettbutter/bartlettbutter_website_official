@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "تعرّف على أي سلالة كلاب فورًا. مجاني، دون اتصال، وخاص."

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
 app_description: "Dagelijkse ETF-aanbevelingen aangedreven door live data, nieuwssentiment en directe analyse op het apparaat."

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Identifica qualsiasi razza di gatto all'istante. Gratis, offline e privato."

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Определяйте любую породу кошек мгновенно. Бесплатно, офлайн и конфиденциально."

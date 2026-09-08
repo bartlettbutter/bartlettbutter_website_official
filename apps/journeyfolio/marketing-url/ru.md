@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-journeyfolio
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Планируйте умнее. Путешествуйте налегке. Все ваши поездки в одном прекрасном центре."
@@ -15,6 +15,8 @@ redirect_from:
 Хватит жонглировать скриншотами, разрозненными письмами и недоделанными таблицами. Journeyfolio объединяет всю вашу поездку в один прекрасно организованный маршрут, включающий рейсы, отели, документы, актуальную погоду и статус рейсов в реальном времени, чтобы вы могли сосредоточиться на самом путешествии.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
+<!--showcase-->
 
 ## Почему путешественники выбирают Journeyfolio
 

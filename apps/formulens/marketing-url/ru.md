@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Сканируйте любой состав. Узнайте, что именно в вашем уходе за кожей, и как всё это работает вместе."
@@ -17,6 +17,8 @@ redirect_from:
 Списки ингредиентов пишут для химиков, а не для вас. FormuLens переводит их на понятный язык. Наведите камеру на любой продукт, и каждый ингредиент будет расшифрован и распределён по тому, что он на самом деле делает. Без набора текста, без поиска, без диплома химика.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
+
+<!--showcase-->
 
 ## Почему вам это понравится
 

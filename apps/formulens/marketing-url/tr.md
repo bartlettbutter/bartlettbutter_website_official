@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Herhangi bir içerik listesini tarayın. Cilt bakımınızda tam olarak ne olduğunu ve her şeyin birlikte nasıl çalıştığını öğrenin."
@@ -17,6 +17,8 @@ redirect_from:
 İçerik etiketleri sizin için değil, kimyagerler için yazılır. FormuLens onları çevirir. Kameranızı herhangi bir ürüne doğrultun; her bileşen çözümlenir ve gerçekte ne işe yaradığına göre sıralanır. Yazmak yok, aramak yok, kimya diploması gerekmiyor.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
+
+<!--showcase-->
 
 ## Neden bayılacaksınız
 

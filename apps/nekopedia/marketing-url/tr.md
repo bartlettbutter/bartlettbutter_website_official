@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Herhangi bir kedi ırkını anında tanımlayın. Ücretsiz, çevrimdışı ve gizli."

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Определяйте любую породу собак мгновенно. Бесплатно, офлайн и конфиденциально."

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-journeyfolio
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "更聰明地規劃。更輕鬆地旅行。所有行程，一個美麗的中心。"
@@ -15,6 +15,8 @@ redirect_from:
 別再費力應付截圖、零散的郵件和未完成的電子表格了。Journeyfolio將您的整個行程整合到一份精心組織的美麗行程表中，涵蓋航班、酒店、文件、實時天氣和實時航班狀態，讓您專注於旅行本身。
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
+<!--showcase-->
 
 ## 旅行者為何選擇Journeyfolio
 

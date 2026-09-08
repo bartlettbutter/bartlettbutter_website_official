@@ -1,0 +1,594 @@
+# Per-app marketing data for FormuLens, keyed by language code (mirrors the
+# convention in _data/home.yml). Consumed by _layouts/marketing.html via
+# _includes/marketing/showcase.html. Each language mirrors the `en` structure;
+# languages without their own entry fall back to `en` so every localized page
+# still renders the showcase.
+#
+# Screenshots live in /assets/screenshots/formulens/ (660px-wide web copies of
+# the App Store mockups; the captions baked into each image are English, so the
+# narratives here add explanation rather than repeat the on-image text).
+
+en:
+  showcase:
+    label: "See it in action"
+    title: "From label to clarity in a few taps"
+    intro: "Every screen of FormuLens is built to answer one question fast: what is actually in this product, and is it right for me?"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "FormuLens home screen with Scan Ingredients, Identify Functions, and Compare options"
+        title: "Point, don't type"
+        body: "Open FormuLens and aim your camera at any ingredient list. No searching, no manual entry — the app reads the label and does the decoding for you."
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "Analyze screen offering Compare Products, Check My Routine, and Scan Collection"
+        title: "Three ways to analyze"
+        body: "Compare products head-to-head, check whether your full routine works together, or just scan a mix of things for a clean per-product breakdown. Pick the goal that matches the moment."
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "Category picker grid across Skincare and Makeup product types"
+        title: "Tell it what you're looking at"
+        body: "Choose from 23 product types across skincare, makeup, hair, bath & body, and fragrance. FormuLens uses the category to know which ingredients matter and which are unusual."
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "Add Products screen with multiple photos captured for each item"
+        title: "Long lists? Snap a few frames"
+        body: "Capture the label across several photos when it wraps around the bottle, and FormuLens merges them into one complete ingredient list before analyzing."
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "Comparison summary with an at-a-glance verdict and benefit badges per product"
+        title: "A plain-language verdict"
+        body: "Get an at-a-glance summary with badges like Rich & Nourishing or Contains Fragrance, plus notes on hydration, actives, and gentleness — no chemistry background required."
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "Ingredient color legend mapping functions to colors"
+        title: "Color-coded by what it does"
+        body: "Every ingredient is sorted by function — humectant, active, preservative, fragrance and more — so you can scan a whole formula visually and tap the colors to filter."
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "Per-product ingredient view highlighting key and unusual ingredients"
+        title: "Spot what matters, and what's odd"
+        body: "Key ingredients for that product type are starred and anything unusual is flagged, so a thoughtful formula — or a red flag — stands out before you buy."
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "Formula profile bar charts and function breakdown comparing three products"
+        title: "See the formula, quantified"
+        body: "Compare hydration, active strength, gentleness, and complexity side by side, with a function breakdown that shows exactly how the products differ."
+
+zh-Hans:
+  showcase:
+    label: "实际体验"
+    title: "从标签到清晰，只需轻点几下"
+    intro: "FormuLens 的每一个界面都为快速回答一个问题而设计：这款产品里到底有什么，它适合我吗？"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "FormuLens 主屏幕，提供扫描成分、识别功能和对比选项"
+        title: "对准即可，无需输入"
+        body: "打开 FormuLens，把相机对准任何成分表。无需搜索，无需手动输入——应用会读取标签并为你完成解读。"
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "分析界面，提供对比产品、检查我的护肤流程和扫描收藏"
+        title: "三种分析方式"
+        body: "把产品正面对决地对比，检查你的整套护肤流程是否协同起效，或者只是扫描一堆产品，获得清晰的逐个产品解读。选择最契合当下的目标。"
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "涵盖护肤和彩妆产品类型的类别选择网格"
+        title: "告诉它你在看什么"
+        body: "从涵盖护肤、彩妆、护发、沐浴与身体护理及香水的 23 种产品类型中选择。FormuLens 会根据类别判断哪些成分重要、哪些不寻常。"
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "添加产品界面，为每件产品拍摄了多张照片"
+        title: "列表太长？多拍几张"
+        body: "当标签绕着瓶身缠绕时，分几张照片拍下来，FormuLens 会在分析前把它们合并成一份完整的成分表。"
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "对比摘要，为每款产品提供一目了然的结论和功效标签"
+        title: "通俗易懂的结论"
+        body: "获得一目了然的摘要，配有诸如「丰盈滋养」或「含香精」这样的标签，以及关于保湿、活性成分和温和度的说明——无需化学背景。"
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "将功能映射到颜色的成分颜色图例"
+        title: "按作用用颜色区分"
+        body: "每种成分都按功能分类——保湿剂、活性成分、防腐剂、香精等等——让你可以直观地扫过整个配方，并点按颜色进行筛选。"
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "逐个产品的成分视图，突出关键成分和不寻常成分"
+        title: "看清什么重要，什么反常"
+        body: "该产品类型的关键成分会被打星标记，任何不寻常的成分都会被标出，让用心的配方——或危险信号——在你下单前就一目了然。"
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "对比三款产品的配方档案条形图和功能分布"
+        title: "量化地看懂配方"
+        body: "并排对比保湿度、活性强度、温和度和复杂度，配以功能分布，精确展示各产品之间的差异。"
+
+zh-Hant:
+  showcase:
+    label: "實際體驗"
+    title: "從標籤到清晰，只需輕點幾下"
+    intro: "FormuLens 的每一個介面都為快速回答一個問題而設計：這款產品裡到底有什麼，它適合我嗎？"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "FormuLens 主畫面，提供掃描成分、識別功能和對比選項"
+        title: "對準即可，無需輸入"
+        body: "打開 FormuLens，把相機對準任何成分表。無需搜尋，無需手動輸入——應用程式會讀取標籤並為你完成解讀。"
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "分析介面，提供對比產品、檢查我的護膚流程和掃描收藏"
+        title: "三種分析方式"
+        body: "把產品正面對決地對比，檢查你的整套護膚流程是否協同起效，或者只是掃描一堆產品，獲得清晰的逐個產品解讀。選擇最契合當下的目標。"
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "涵蓋護膚和彩妝產品類型的類別選擇網格"
+        title: "告訴它你在看什麼"
+        body: "從涵蓋護膚、彩妝、護髮、沐浴與身體護理及香水的 23 種產品類型中選擇。FormuLens 會根據類別判斷哪些成分重要、哪些不尋常。"
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "新增產品介面，為每件產品拍攝了多張照片"
+        title: "列表太長？多拍幾張"
+        body: "當標籤繞著瓶身纏繞時，分幾張照片拍下來，FormuLens 會在分析前把它們合併成一份完整的成分表。"
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "對比摘要，為每款產品提供一目瞭然的結論和功效標籤"
+        title: "通俗易懂的結論"
+        body: "獲得一目瞭然的摘要，配有諸如「豐盈滋養」或「含香精」這樣的標籤，以及關於保溼、活性成分和溫和度的說明——無需化學背景。"
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "將功能對應到顏色的成分顏色圖例"
+        title: "按作用用顏色區分"
+        body: "每種成分都按功能分類——保溼劑、活性成分、防腐劑、香精等等——讓你可以直觀地掃過整個配方，並點按顏色進行篩選。"
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "逐個產品的成分檢視，突出關鍵成分和不尋常成分"
+        title: "看清什麼重要，什麼反常"
+        body: "該產品類型的關鍵成分會被打星標記，任何不尋常的成分都會被標出，讓用心的配方——或危險訊號——在你下單前就一目瞭然。"
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "對比三款產品的配方檔案長條圖和功能分佈"
+        title: "量化地看懂配方"
+        body: "並排對比保溼度、活性強度、溫和度和複雜度，配以功能分佈，精確展示各產品之間的差異。"
+
+ja:
+  showcase:
+    label: "実際の動作を見る"
+    title: "ラベルから明快さまで、数タップで"
+    intro: "FormuLensのどの画面も、ひとつの問いに素早く答えるために作られています。この製品には実際に何が入っていて、自分に合っているのか？"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "成分をスキャン、機能を特定、比較のオプションがあるFormuLensのホーム画面"
+        title: "向けるだけ、入力は不要"
+        body: "FormuLensを開いて、どんな成分表にでもカメラを向けるだけ。検索も手入力も不要——アプリがラベルを読み取り、解読まで行います。"
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "製品を比較、マイルーティンをチェック、コレクションをスキャンを提供する分析画面"
+        title: "分析する3つの方法"
+        body: "製品を真正面から比較したり、ルーティン全体がうまく組み合わさっているかをチェックしたり、いくつかの製品をまとめてスキャンして製品ごとのすっきりした内訳を得たり。その時々に合った目的を選べます。"
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "スキンケアとメイクの製品タイプにわたるカテゴリー選択グリッド"
+        title: "何を見ているか伝える"
+        body: "スキンケア、メイク、ヘア、バス&ボディ、フレグランスにわたる23の製品タイプから選択。FormuLensはカテゴリーをもとに、どの成分が重要で、どれが珍しいかを判断します。"
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "各アイテムごとに複数の写真を撮影する製品追加画面"
+        title: "長いリスト？数枚に分けて撮影"
+        body: "ボトルを一周するように成分表が続くときは、複数の写真に分けて撮影すれば、FormuLensが分析前にそれらを1つの完全な成分表に統合します。"
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "製品ごとの一目でわかる判定と効能バッジが付いた比較サマリー"
+        title: "平易な言葉での判定"
+        body: "「リッチで栄養豊富」や「香料を含む」といったバッジ付きの一目でわかるサマリーに加え、保湿、有効成分、やさしさに関するメモも。化学の知識は不要です。"
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "機能を色に対応させた成分カラー凡例"
+        title: "働きごとに色分け"
+        body: "すべての成分が機能——保湿成分、有効成分、防腐剤、香料など——ごとに分類されるので、処方全体を視覚的に見渡し、色をタップして絞り込めます。"
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "主要な成分と珍しい成分を強調した製品ごとの成分ビュー"
+        title: "大切なもの、そして変わったものを見つける"
+        body: "その製品タイプにとって主要な成分には星が付き、珍しいものにはフラグが立つので、よく練られた処方——あるいは危険信号——が買う前に際立ちます。"
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "3つの製品を比較する処方プロファイルの棒グラフと機能内訳"
+        title: "処方を数値で見る"
+        body: "保湿力、有効成分の強さ、やさしさ、複雑さを並べて比較。機能の内訳が、製品同士がどう違うかを正確に示します。"
+
+ko:
+  showcase:
+    label: "실제로 사용해 보기"
+    title: "라벨에서 명확함까지, 몇 번의 탭으로"
+    intro: "FormuLens의 모든 화면은 하나의 질문에 빠르게 답하기 위해 설계되었습니다. 이 제품에는 실제로 무엇이 들었고, 나에게 맞을까?"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "성분 스캔, 기능 식별, 비교 옵션이 있는 FormuLens 홈 화면"
+        title: "겨누기만 하면 됩니다, 입력은 필요 없어요"
+        body: "FormuLens를 열고 어떤 성분표에든 카메라를 겨누기만 하세요. 검색도, 수동 입력도 없이 앱이 라벨을 읽고 해독까지 대신해 드립니다."
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "제품 비교, 내 루틴 점검, 컬렉션 스캔을 제공하는 분석 화면"
+        title: "세 가지 분석 방법"
+        body: "제품을 정면으로 비교하거나, 전체 루틴이 잘 어우러지는지 점검하거나, 여러 제품을 스캔해 제품별로 깔끔하게 정리된 분석을 받아보세요. 그 순간에 맞는 목적을 고르세요."
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "스킨케어와 메이크업 제품 유형에 걸친 카테고리 선택 그리드"
+        title: "무엇을 보고 있는지 알려주세요"
+        body: "스킨케어, 메이크업, 헤어, 배스 & 바디, 프래그런스에 걸친 23가지 제품 유형에서 선택하세요. FormuLens는 카테고리를 바탕으로 어떤 성분이 중요하고 어떤 것이 특이한지 파악합니다."
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "각 항목마다 여러 장의 사진을 촬영한 제품 추가 화면"
+        title: "목록이 긴가요? 몇 장으로 나눠 찍으세요"
+        body: "성분표가 병을 감싸며 이어질 때는 여러 장의 사진으로 나눠 찍으세요. FormuLens가 분석 전에 이를 하나의 완전한 성분표로 합쳐 드립니다."
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "제품별 한눈에 보는 판정과 효능 배지가 있는 비교 요약"
+        title: "쉬운 말로 된 판정"
+        body: "「풍부하고 영양감 있는」이나 「향료 포함」 같은 배지와 함께 한눈에 보는 요약을, 그리고 보습, 유효 성분, 순함에 대한 메모까지. 화학 지식은 필요 없습니다."
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "기능을 색상에 대응시킨 성분 색상 범례"
+        title: "하는 일에 따라 색으로 구분"
+        body: "모든 성분이 기능——보습제, 유효 성분, 방부제, 향료 등——별로 분류되어, 처방 전체를 한눈에 훑어보고 색상을 탭해 걸러낼 수 있습니다."
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "핵심 성분과 특이한 성분을 강조한 제품별 성분 보기"
+        title: "중요한 것, 그리고 이상한 것을 짚어내기"
+        body: "해당 제품 유형의 핵심 성분에는 별표가, 특이한 성분에는 표시가 붙어, 잘 설계된 처방——또는 위험 신호——이 구매 전에 두드러집니다."
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "세 제품을 비교하는 처방 프로필 막대 그래프와 기능 분석"
+        title: "처방을 수치로 보기"
+        body: "보습, 유효 성분 강도, 순함, 복잡성을 나란히 비교하고, 기능 분석이 제품들이 정확히 어떻게 다른지 보여줍니다."
+
+es:
+  showcase:
+    label: "Míralo en acción"
+    title: "De la etiqueta a la claridad en unos toques"
+    intro: "Cada pantalla de FormuLens está pensada para responder rápido a una pregunta: ¿qué hay realmente en este producto y es adecuado para mí?"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "Pantalla de inicio de FormuLens con las opciones Escanear ingredientes, Identificar funciones y Comparar"
+        title: "Apunta, no escribas"
+        body: "Abre FormuLens y apunta la cámara a cualquier lista de ingredientes. Sin buscar, sin introducir nada a mano: la app lee la etiqueta y hace el descifrado por ti."
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "Pantalla de análisis con Comparar productos, Revisar mi rutina y Escanear colección"
+        title: "Tres formas de analizar"
+        body: "Compara productos frente a frente, comprueba si toda tu rutina funciona en conjunto o simplemente escanea una mezcla de productos para un desglose limpio por producto. Elige el objetivo que encaje con el momento."
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "Cuadrícula de selección de categorías entre tipos de producto de cuidado de la piel y maquillaje"
+        title: "Dile qué estás mirando"
+        body: "Elige entre 23 tipos de producto en cuidado de la piel, maquillaje, cabello, baño y cuerpo, y fragancia. FormuLens usa la categoría para saber qué ingredientes importan y cuáles son inusuales."
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "Pantalla de añadir productos con varias fotos capturadas de cada artículo"
+        title: "¿Listas largas? Haz varias fotos"
+        body: "Captura la etiqueta en varias fotos cuando da la vuelta al envase, y FormuLens las combina en una única lista de ingredientes completa antes de analizar."
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "Resumen comparativo con un veredicto de un vistazo e insignias de beneficios por producto"
+        title: "Un veredicto en lenguaje sencillo"
+        body: "Obtén un resumen de un vistazo con insignias como «Rica y nutritiva» o «Contiene fragancia», además de notas sobre hidratación, activos y suavidad, sin necesidad de conocimientos de química."
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "Leyenda de colores de ingredientes que asocia funciones con colores"
+        title: "Codificado por color según lo que hace"
+        body: "Cada ingrediente se ordena por función —humectante, activo, conservante, fragancia y más—, para que puedas repasar toda una fórmula de un vistazo y tocar los colores para filtrar."
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "Vista de ingredientes por producto que resalta los ingredientes clave e inusuales"
+        title: "Detecta lo que importa y lo que llama la atención"
+        body: "Los ingredientes clave para ese tipo de producto se marcan con una estrella y cualquier cosa inusual se señala, para que una fórmula bien pensada —o una señal de alarma— destaque antes de comprar."
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "Gráficos de barras del perfil de la fórmula y desglose de funciones comparando tres productos"
+        title: "Ve la fórmula, cuantificada"
+        body: "Compara hidratación, potencia de los activos, suavidad y complejidad en paralelo, con un desglose de funciones que muestra exactamente en qué se diferencian los productos."
+
+fr:
+  showcase:
+    label: "Voyez-le en action"
+    title: "De l'étiquette à la clarté en quelques touches"
+    intro: "Chaque écran de FormuLens est conçu pour répondre vite à une question : qu'y a-t-il vraiment dans ce produit, et me convient-il ?"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "Écran d'accueil de FormuLens avec les options Scanner les ingrédients, Identifier les fonctions et Comparer"
+        title: "Visez, ne tapez pas"
+        body: "Ouvrez FormuLens et pointez votre appareil photo vers n'importe quelle liste d'ingrédients. Sans recherche, sans saisie manuelle : l'app lit l'étiquette et fait le décodage pour vous."
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "Écran d'analyse proposant Comparer des produits, Vérifier ma routine et Scanner ma collection"
+        title: "Trois façons d'analyser"
+        body: "Comparez des produits face à face, vérifiez si toute votre routine fonctionne ensemble, ou scannez simplement un ensemble de produits pour une analyse claire, produit par produit. Choisissez l'objectif qui correspond au moment."
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "Grille de sélection des catégories parmi les types de produits de soins et de maquillage"
+        title: "Dites-lui ce que vous regardez"
+        body: "Choisissez parmi 23 types de produits répartis entre soins de la peau, maquillage, cheveux, bain et corps, et parfum. FormuLens s'appuie sur la catégorie pour savoir quels ingrédients comptent et lesquels sortent de l'ordinaire."
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "Écran d'ajout de produits avec plusieurs photos prises pour chaque article"
+        title: "Listes longues ? Prenez plusieurs photos"
+        body: "Photographiez l'étiquette en plusieurs clichés lorsqu'elle fait le tour du flacon, et FormuLens les fusionne en une seule liste d'ingrédients complète avant l'analyse."
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "Résumé comparatif avec un verdict d'un coup d'œil et des badges de bienfaits par produit"
+        title: "Un verdict en langage clair"
+        body: "Obtenez un résumé d'un coup d'œil avec des badges comme « Riche et nourrissant » ou « Contient du parfum », ainsi que des notes sur l'hydratation, les actifs et la douceur, sans aucune notion de chimie."
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "Légende des couleurs des ingrédients associant les fonctions aux couleurs"
+        title: "Codé par couleur selon son rôle"
+        body: "Chaque ingrédient est classé par fonction — humectant, actif, conservateur, parfum et plus — pour que vous puissiez parcourir toute une formule visuellement et toucher les couleurs pour filtrer."
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "Vue des ingrédients par produit mettant en évidence les ingrédients clés et inhabituels"
+        title: "Repérez l'essentiel, et ce qui détonne"
+        body: "Les ingrédients clés pour ce type de produit sont marqués d'une étoile et tout ce qui est inhabituel est signalé, pour qu'une formule bien pensée — ou un signal d'alerte — ressorte avant l'achat."
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "Graphiques en barres du profil de la formule et répartition des fonctions comparant trois produits"
+        title: "Voyez la formule, quantifiée"
+        body: "Comparez hydratation, puissance des actifs, douceur et complexité côte à côte, avec une répartition des fonctions qui montre exactement en quoi les produits diffèrent."
+
+de:
+  showcase:
+    label: "Sieh es in Aktion"
+    title: "Vom Etikett zur Klarheit in wenigen Tipps"
+    intro: "Jeder Bildschirm von FormuLens ist darauf ausgelegt, eine Frage schnell zu beantworten: Was steckt wirklich in diesem Produkt, und ist es das Richtige für mich?"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "FormuLens-Startbildschirm mit den Optionen Inhaltsstoffe scannen, Funktionen erkennen und Vergleichen"
+        title: "Draufhalten statt tippen"
+        body: "Öffne FormuLens und richte deine Kamera auf eine beliebige Inhaltsstoffliste. Kein Suchen, keine manuelle Eingabe – die App liest das Etikett und übernimmt das Entschlüsseln für dich."
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "Analysebildschirm mit Produkte vergleichen, Meine Routine prüfen und Sammlung scannen"
+        title: "Drei Wege zur Analyse"
+        body: "Vergleiche Produkte direkt gegeneinander, prüfe, ob deine gesamte Routine zusammenpasst, oder scanne einfach eine Auswahl an Produkten für eine übersichtliche Aufschlüsselung pro Produkt. Wähle das Ziel, das zum Moment passt."
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "Kategorie-Auswahlraster über Hautpflege- und Make-up-Produkttypen"
+        title: "Sag ihr, was du dir ansiehst"
+        body: "Wähle aus 23 Produkttypen aus Hautpflege, Make-up, Haar, Bad & Körper und Duft. FormuLens nutzt die Kategorie, um zu wissen, welche Inhaltsstoffe wichtig und welche ungewöhnlich sind."
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "Bildschirm zum Hinzufügen von Produkten mit mehreren Fotos pro Artikel"
+        title: "Lange Listen? Mach ein paar Aufnahmen"
+        body: "Erfasse das Etikett über mehrere Fotos, wenn es sich um die Flasche wickelt, und FormuLens fügt sie vor der Analyse zu einer vollständigen Inhaltsstoffliste zusammen."
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "Vergleichsübersicht mit einem Urteil auf einen Blick und Vorteils-Badges pro Produkt"
+        title: "Ein Urteil in klarer Sprache"
+        body: "Erhalte eine Übersicht auf einen Blick mit Badges wie „Reichhaltig & pflegend“ oder „Enthält Duftstoffe“, dazu Hinweise zu Feuchtigkeit, Wirkstoffen und Sanftheit – ganz ohne Chemiekenntnisse."
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "Farblegende der Inhaltsstoffe, die Funktionen den Farben zuordnet"
+        title: "Farblich sortiert nach Wirkung"
+        body: "Jeder Inhaltsstoff ist nach Funktion sortiert – Feuchthaltemittel, Wirkstoff, Konservierungsmittel, Duftstoff und mehr –, sodass du eine ganze Rezeptur visuell überblicken und zum Filtern auf die Farben tippen kannst."
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "Produktbezogene Inhaltsstoffansicht, die wichtige und ungewöhnliche Inhaltsstoffe hervorhebt"
+        title: "Erkenne, was zählt – und was auffällt"
+        body: "Wichtige Inhaltsstoffe für diesen Produkttyp werden mit einem Stern versehen und alles Ungewöhnliche wird markiert, sodass eine durchdachte Rezeptur – oder ein Warnsignal – schon vor dem Kauf hervorsticht."
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "Balkendiagramme des Rezepturprofils und Funktionsaufschlüsselung im Vergleich dreier Produkte"
+        title: "Sieh die Rezeptur in Zahlen"
+        body: "Vergleiche Feuchtigkeit, Wirkstoffstärke, Sanftheit und Komplexität nebeneinander, mit einer Funktionsaufschlüsselung, die genau zeigt, wie sich die Produkte unterscheiden."
+
+it:
+  showcase:
+    label: "Guardalo in azione"
+    title: "Dall'etichetta alla chiarezza in pochi tocchi"
+    intro: "Ogni schermata di FormuLens è pensata per rispondere in fretta a una domanda: cosa contiene davvero questo prodotto ed è adatto a me?"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "Schermata iniziale di FormuLens con le opzioni Scansiona ingredienti, Identifica funzioni e Confronta"
+        title: "Inquadra, non digitare"
+        body: "Apri FormuLens e punta la fotocamera su qualsiasi lista di ingredienti. Senza cercare, senza inserire nulla a mano: l'app legge l'etichetta e fa la decodifica per te."
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "Schermata di analisi con Confronta prodotti, Controlla la mia routine e Scansiona collezione"
+        title: "Tre modi di analizzare"
+        body: "Confronta i prodotti fianco a fianco, verifica se l'intera routine funziona in armonia oppure scansiona semplicemente un insieme di prodotti per un'analisi ordinata prodotto per prodotto. Scegli l'obiettivo giusto per il momento."
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "Griglia di selezione delle categorie tra i tipi di prodotto per skincare e makeup"
+        title: "Digli cosa stai guardando"
+        body: "Scegli tra 23 tipi di prodotto tra skincare, makeup, capelli, bagno e corpo e profumi. FormuLens usa la categoria per capire quali ingredienti contano e quali sono insoliti."
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "Schermata di aggiunta prodotti con più foto acquisite per ogni articolo"
+        title: "Liste lunghe? Scatta qualche foto"
+        body: "Cattura l'etichetta in più foto quando gira attorno al flacone, e FormuLens le unisce in un'unica lista di ingredienti completa prima dell'analisi."
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "Riepilogo del confronto con un verdetto a colpo d'occhio e badge dei benefici per ogni prodotto"
+        title: "Un verdetto in parole semplici"
+        body: "Ottieni un riepilogo a colpo d'occhio con badge come «Ricco e nutriente» o «Contiene fragranza», oltre a note su idratazione, attivi e delicatezza, senza bisogno di basi di chimica."
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "Legenda dei colori degli ingredienti che associa le funzioni ai colori"
+        title: "Codificato a colori in base a cosa fa"
+        body: "Ogni ingrediente è ordinato per funzione — umettante, attivo, conservante, fragranza e altro — così puoi scorrere un'intera formula a colpo d'occhio e toccare i colori per filtrare."
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "Vista degli ingredienti per prodotto che evidenzia quelli chiave e insoliti"
+        title: "Individua ciò che conta e ciò che stona"
+        body: "Gli ingredienti chiave per quel tipo di prodotto sono contrassegnati con una stella e tutto ciò che è insolito viene segnalato, così una formula ben studiata — o un campanello d'allarme — risalta prima dell'acquisto."
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "Grafici a barre del profilo della formula e ripartizione delle funzioni che confrontano tre prodotti"
+        title: "Vedi la formula, quantificata"
+        body: "Confronta idratazione, forza degli attivi, delicatezza e complessità fianco a fianco, con una ripartizione delle funzioni che mostra esattamente come differiscono i prodotti."
+
+pt:
+  showcase:
+    label: "Veja em ação"
+    title: "Do rótulo à clareza em alguns toques"
+    intro: "Cada tela do FormuLens foi feita para responder rápido a uma pergunta: o que há de verdade neste produto e se ele é certo para mim?"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "Tela inicial do FormuLens com as opções Escanear ingredientes, Identificar funções e Comparar"
+        title: "Aponte, não digite"
+        body: "Abra o FormuLens e aponte a câmera para qualquer lista de ingredientes. Sem pesquisar, sem digitar nada: o app lê o rótulo e faz a decifração por você."
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "Tela de análise com Comparar produtos, Verificar minha rotina e Escanear coleção"
+        title: "Três formas de analisar"
+        body: "Compare produtos lado a lado, verifique se toda a sua rotina funciona em conjunto ou simplesmente escaneie uma combinação de produtos para uma análise limpa, produto por produto. Escolha o objetivo que combina com o momento."
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "Grade de seleção de categorias entre tipos de produtos de skincare e maquiagem"
+        title: "Diga o que você está olhando"
+        body: "Escolha entre 23 tipos de produtos em skincare, maquiagem, cabelo, banho e corpo, e fragrância. O FormuLens usa a categoria para saber quais ingredientes importam e quais são incomuns."
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "Tela de adicionar produtos com várias fotos capturadas de cada item"
+        title: "Listas longas? Tire algumas fotos"
+        body: "Capture o rótulo em várias fotos quando ele dá a volta no frasco, e o FormuLens as combina em uma única lista de ingredientes completa antes de analisar."
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "Resumo comparativo com um veredito num relance e selos de benefícios por produto"
+        title: "Um veredito em linguagem simples"
+        body: "Receba um resumo num relance com selos como «Rico e nutritivo» ou «Contém fragrância», além de notas sobre hidratação, ativos e suavidade, sem precisar de conhecimento em química."
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "Legenda de cores dos ingredientes que associa funções a cores"
+        title: "Codificado por cor conforme o que faz"
+        body: "Cada ingrediente é organizado por função — umectante, ativo, conservante, fragrância e mais — para que você possa percorrer uma fórmula inteira visualmente e tocar nas cores para filtrar."
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "Visualização de ingredientes por produto destacando os principais e os incomuns"
+        title: "Perceba o que importa e o que destoa"
+        body: "Os ingredientes-chave para aquele tipo de produto recebem uma estrela e qualquer coisa incomum é sinalizada, para que uma fórmula bem pensada — ou um sinal de alerta — se destaque antes da compra."
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "Gráficos de barras do perfil da fórmula e detalhamento de funções comparando três produtos"
+        title: "Veja a fórmula, quantificada"
+        body: "Compare hidratação, força dos ativos, suavidade e complexidade lado a lado, com um detalhamento de funções que mostra exatamente como os produtos diferem."
+
+ru:
+  showcase:
+    label: "Посмотрите в действии"
+    title: "От этикетки к ясности за несколько касаний"
+    intro: "Каждый экран FormuLens создан, чтобы быстро ответить на один вопрос: что на самом деле в этом продукте и подходит ли он мне?"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "Главный экран FormuLens с опциями «Сканировать состав», «Определить функции» и «Сравнить»"
+        title: "Наведите, а не печатайте"
+        body: "Откройте FormuLens и наведите камеру на любой состав. Без поиска, без ручного ввода — приложение считывает этикетку и само выполняет расшифровку."
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "Экран анализа с опциями «Сравнить продукты», «Проверить мой уход» и «Сканировать коллекцию»"
+        title: "Три способа анализа"
+        body: "Сравнивайте продукты напрямую, проверяйте, работает ли весь ваш уход слаженно, или просто отсканируйте набор продуктов для аккуратной расшифровки по каждому. Выберите цель под текущий момент."
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "Сетка выбора категорий среди типов продуктов для ухода за кожей и макияжа"
+        title: "Подскажите, на что вы смотрите"
+        body: "Выбирайте из 23 типов продуктов в разделах ухода за кожей, макияжа, волос, ванны и тела и ароматов. FormuLens использует категорию, чтобы понять, какие ингредиенты важны, а какие необычны."
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "Экран добавления продуктов с несколькими фотографиями каждого из них"
+        title: "Длинные списки? Сделайте несколько кадров"
+        body: "Снимите этикетку в несколько кадров, когда она обёрнута вокруг флакона, и FormuLens объединит их в один полный состав перед анализом."
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "Сводка сравнения с выводом с одного взгляда и значками пользы для каждого продукта"
+        title: "Вывод на понятном языке"
+        body: "Получите сводку с одного взгляда со значками вроде «Насыщенный и питательный» или «Содержит отдушку», а также заметки об увлажнении, активах и мягкости — без химической подготовки."
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "Цветовая легенда ингредиентов, сопоставляющая функции с цветами"
+        title: "Цветовая маркировка по назначению"
+        body: "Каждый ингредиент распределён по функции — увлажнитель, актив, консервант, отдушка и другое — чтобы вы могли окинуть взглядом всю формулу и коснуться цветов для фильтрации."
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "Просмотр ингредиентов по продукту с выделением ключевых и необычных"
+        title: "Заметьте важное и то, что выбивается"
+        body: "Ключевые ингредиенты для этого типа продукта отмечены звёздочкой, а всё необычное помечается флажком, чтобы продуманная формула — или тревожный сигнал — бросалась в глаза ещё до покупки."
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "Столбчатые диаграммы профиля формулы и разбивка по функциям при сравнении трёх продуктов"
+        title: "Формула в цифрах"
+        body: "Сравнивайте увлажнение, силу активов, мягкость и сложность рядом друг с другом, с разбивкой по функциям, которая точно показывает, чем различаются продукты."
+
+ar:
+  showcase:
+    label: "شاهده أثناء العمل"
+    title: "من الملصق إلى الوضوح ببضع نقرات"
+    intro: "صُمِّمت كل شاشة في FormuLens للإجابة بسرعة عن سؤال واحد: ما الذي يوجد فعلًا في هذا المنتج، وهل يناسبني؟"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "الشاشة الرئيسية لـ FormuLens مع خيارات مسح المكوّنات وتحديد الوظائف والمقارنة"
+        title: "وجِّه، ولا تكتب"
+        body: "افتح FormuLens ووجِّه كاميرتك نحو أي قائمة مكوّنات. دون بحث ودون إدخال يدوي — يقرأ التطبيق الملصق ويقوم بالتفكيك نيابةً عنك."
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "شاشة التحليل التي تتيح مقارنة المنتجات والتحقق من روتيني ومسح المجموعة"
+        title: "ثلاث طرق للتحليل"
+        body: "قارن بين المنتجات جنبًا إلى جنب، وتحقّق مما إذا كان روتينك بأكمله يعمل معًا، أو امسح مجموعة من المنتجات للحصول على تحليل واضح لكل منتج على حدة. اختر الهدف الذي يناسب اللحظة."
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "شبكة اختيار الفئات عبر أنواع منتجات العناية بالبشرة والمكياج"
+        title: "أخبره بما تنظر إليه"
+        body: "اختر من بين 23 نوعًا من المنتجات ضمن العناية بالبشرة والمكياج والشعر والاستحمام والجسم والعطور. يستخدم FormuLens الفئة ليعرف أي المكوّنات مهمة وأيها غير معتاد."
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "شاشة إضافة المنتجات مع التقاط عدة صور لكل عنصر"
+        title: "قوائم طويلة؟ التقط بضع لقطات"
+        body: "التقط الملصق عبر عدة صور عندما يلتف حول العبوة، وسيدمجها FormuLens في قائمة مكوّنات واحدة كاملة قبل التحليل."
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "ملخص المقارنة مع حكم سريع في لمحة وشارات فوائد لكل منتج"
+        title: "حكم بلغة واضحة"
+        body: "احصل على ملخص في لمحة مع شارات مثل «غني ومغذٍّ» أو «يحتوي على عطر»، إضافةً إلى ملاحظات حول الترطيب والمكوّنات الفعّالة واللطف — دون الحاجة إلى خلفية في الكيمياء."
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "مفتاح ألوان المكوّنات الذي يربط الوظائف بالألوان"
+        title: "مُرمَّز بالألوان حسب وظيفته"
+        body: "يُصنَّف كل مكوّن حسب وظيفته — مرطِّب ومكوّن فعّال ومادة حافظة وعطر وغيرها — لتتمكّن من تصفّح التركيبة كاملةً بصريًا والنقر على الألوان للتصفية."
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "عرض مكوّنات كل منتج مع إبراز المكوّنات الأساسية وغير المعتادة"
+        title: "اكتشف ما يهم وما هو غريب"
+        body: "تُميَّز المكوّنات الأساسية لذلك النوع من المنتجات بنجمة، ويُشار إلى أي شيء غير معتاد، لتبرز التركيبة المدروسة — أو العلامة المقلقة — قبل الشراء."
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "رسوم بيانية شريطية لملف التركيبة وتوزيع الوظائف تقارن بين ثلاثة منتجات"
+        title: "شاهد التركيبة بالأرقام"
+        body: "قارن الترطيب وقوة المكوّنات الفعّالة واللطف والتعقيد جنبًا إلى جنب، مع توزيع للوظائف يُظهر بدقة كيف تختلف المنتجات."
+
+hi:
+  showcase:
+    label: "इसे काम करते हुए देखें"
+    title: "लेबल से स्पष्टता तक, चंद टैप में"
+    intro: "FormuLens की हर स्क्रीन एक सवाल का जल्दी जवाब देने के लिए बनी है: इस उत्पाद में असल में क्या है, और क्या यह मेरे लिए सही है?"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "सामग्री स्कैन करें, कार्य पहचानें और तुलना करें विकल्पों वाली FormuLens की होम स्क्रीन"
+        title: "ताकें, टाइप न करें"
+        body: "FormuLens खोलें और अपने कैमरे को किसी भी सामग्री सूची की ओर तानें। कोई खोज नहीं, कोई मैन्युअल एंट्री नहीं — ऐप लेबल पढ़ता है और डिकोडिंग आपके लिए कर देता है।"
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "उत्पादों की तुलना, मेरा रूटीन जाँचें और कलेक्शन स्कैन करें विकल्पों वाली विश्लेषण स्क्रीन"
+        title: "विश्लेषण के तीन तरीके"
+        body: "उत्पादों की आमने-सामने तुलना करें, जाँचें कि आपका पूरा रूटीन मिलकर काम करता है या नहीं, या बस उत्पादों के मिश्रण को स्कैन करके हर उत्पाद का साफ़-सुथरा विश्लेषण पाएँ। उस लक्ष्य को चुनें जो पल के अनुकूल हो।"
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "स्किनकेयर और मेकअप उत्पाद प्रकारों में फैली श्रेणी चयन ग्रिड"
+        title: "इसे बताएँ कि आप क्या देख रहे हैं"
+        body: "स्किनकेयर, मेकअप, बाल, स्नान एवं शरीर, और सुगंध में फैले 23 उत्पाद प्रकारों में से चुनें। FormuLens श्रेणी के आधार पर जानता है कि कौन-सी सामग्रियाँ मायने रखती हैं और कौन-सी असामान्य हैं।"
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "प्रत्येक वस्तु की कई फ़ोटो के साथ उत्पाद जोड़ने की स्क्रीन"
+        title: "लंबी सूचियाँ? कुछ फ़्रेम खींचें"
+        body: "जब लेबल बोतल के चारों ओर लिपटा हो, तो उसे कई फ़ोटो में कैप्चर करें, और FormuLens विश्लेषण से पहले उन्हें एक पूरी सामग्री सूची में जोड़ देता है।"
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "हर उत्पाद के लिए एक नज़र में फ़ैसले और लाभ बैज वाला तुलना सारांश"
+        title: "सरल भाषा में एक फ़ैसला"
+        body: "एक नज़र में सारांश पाएँ, «भरपूर और पोषक» या «सुगंध युक्त» जैसे बैज के साथ, और नमी, सक्रिय तत्वों तथा कोमलता पर नोट्स भी — किसी रसायन ज्ञान की ज़रूरत नहीं।"
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "कार्यों को रंगों से जोड़ने वाली सामग्री रंग सूची"
+        title: "यह क्या करती है, उसके अनुसार रंग-कोडित"
+        body: "हर सामग्री उसके कार्य के अनुसार क्रमबद्ध होती है — ह्यूमेक्टेंट, सक्रिय तत्व, प्रिज़र्वेटिव, सुगंध और भी बहुत कुछ — ताकि आप पूरे फ़ॉर्मूले को नज़र भर देख सकें और फ़िल्टर करने के लिए रंगों पर टैप कर सकें।"
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "मुख्य और असामान्य सामग्रियों को उजागर करने वाला प्रति-उत्पाद सामग्री दृश्य"
+        title: "पहचानें क्या मायने रखता है, और क्या अटपटा है"
+        body: "उस उत्पाद प्रकार के लिए मुख्य सामग्रियों पर तारा लगता है और किसी भी असामान्य चीज़ को चिह्नित किया जाता है, ताकि एक सोच-समझकर बनाया फ़ॉर्मूला — या खतरे का संकेत — खरीदने से पहले ही उभरकर सामने आए।"
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "तीन उत्पादों की तुलना करते फ़ॉर्मूला प्रोफ़ाइल बार चार्ट और कार्य विभाजन"
+        title: "फ़ॉर्मूले को आँकड़ों में देखें"
+        body: "नमी, सक्रिय तत्वों की ताकत, कोमलता और जटिलता की साथ-साथ तुलना करें, एक कार्य विभाजन के साथ जो ठीक-ठीक दिखाता है कि उत्पाद कैसे भिन्न हैं।"
+
+nl:
+  showcase:
+    label: "Zie het in actie"
+    title: "Van etiket naar duidelijkheid in een paar tikken"
+    intro: "Elk scherm van FormuLens is gemaakt om snel één vraag te beantwoorden: wat zit er echt in dit product en is het geschikt voor mij?"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "Startscherm van FormuLens met de opties Ingrediënten scannen, Functies herkennen en Vergelijken"
+        title: "Richten, niet typen"
+        body: "Open FormuLens en richt je camera op een willekeurige ingrediëntenlijst. Geen zoeken, geen handmatige invoer — de app leest het etiket en doet het ontcijferen voor je."
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "Analysescherm met Producten vergelijken, Mijn routine controleren en Collectie scannen"
+        title: "Drie manieren om te analyseren"
+        body: "Vergelijk producten kop aan kop, controleer of je hele routine samenwerkt, of scan gewoon een mix van producten voor een overzichtelijke uitsplitsing per product. Kies het doel dat bij het moment past."
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "Rasterselectie van categorieën over huidverzorgings- en make-upproducttypen"
+        title: "Vertel het wat je bekijkt"
+        body: "Kies uit 23 producttypen binnen huidverzorging, make-up, haar, bad & lichaam en parfum. FormuLens gebruikt de categorie om te weten welke ingrediënten ertoe doen en welke ongewoon zijn."
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "Scherm voor producten toevoegen met meerdere foto's per item"
+        title: "Lange lijsten? Maak een paar foto's"
+        body: "Leg het etiket vast in meerdere foto's wanneer het om het flesje heen loopt, en FormuLens voegt ze samen tot één complete ingrediëntenlijst voordat het analyseert."
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "Vergelijkingsoverzicht met een oordeel in één oogopslag en voordeelbadges per product"
+        title: "Een oordeel in gewone taal"
+        body: "Krijg een overzicht in één oogopslag met badges als «Rijk en voedend» of «Bevat parfum», plus notities over hydratatie, actieve stoffen en zachtheid — geen scheikundige kennis vereist."
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "Kleurenlegenda van ingrediënten die functies aan kleuren koppelt"
+        title: "Kleurgecodeerd naar wat het doet"
+        body: "Elk ingrediënt is gesorteerd op functie — humectant, actieve stof, conserveermiddel, parfum en meer — zodat je een hele formule visueel kunt overzien en op de kleuren kunt tikken om te filteren."
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "Ingrediëntweergave per product die belangrijke en ongewone ingrediënten uitlicht"
+        title: "Zie wat telt, en wat opvalt"
+        body: "Belangrijke ingrediënten voor dat producttype krijgen een ster en alles wat ongewoon is wordt gemarkeerd, zodat een doordachte formule — of een waarschuwingssignaal — opvalt voordat je koopt."
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "Staafdiagrammen van het formuleprofiel en functie-uitsplitsing die drie producten vergelijken"
+        title: "Zie de formule, in cijfers"
+        body: "Vergelijk hydratatie, sterkte van actieve stoffen, zachtheid en complexiteit naast elkaar, met een functie-uitsplitsing die precies laat zien hoe de producten verschillen."
+
+tr:
+  showcase:
+    label: "Nasıl çalıştığını görün"
+    title: "Etiketten netliğe, birkaç dokunuşla"
+    intro: "FormuLens'in her ekranı tek bir soruyu hızlıca yanıtlamak için tasarlandı: bu üründe gerçekte ne var ve bana uygun mu?"
+    shots:
+      - image: /assets/screenshots/formulens/01-decode.png
+        alt: "İçerikleri Tara, İşlevleri Belirle ve Karşılaştır seçeneklerinin bulunduğu FormuLens ana ekranı"
+        title: "Doğrultun, yazmayın"
+        body: "FormuLens'i açın ve kameranızı herhangi bir içerik listesine doğrultun. Arama yok, elle giriş yok — uygulama etiketi okur ve çözümlemeyi sizin için yapar."
+      - image: /assets/screenshots/formulens/02-modes.png
+        alt: "Ürünleri Karşılaştır, Rutinimi Kontrol Et ve Koleksiyon Tara seçeneklerini sunan analiz ekranı"
+        title: "Analiz için üç yol"
+        body: "Ürünleri karşı karşıya karşılaştırın, tüm rutininizin uyum içinde çalışıp çalışmadığını kontrol edin ya da bir grup ürünü tarayarak ürün bazında düzenli bir döküm alın. Ana uygun hedefi seçin."
+      - image: /assets/screenshots/formulens/03-categories.png
+        alt: "Cilt bakımı ve makyaj ürün türleri arasında kategori seçim ızgarası"
+        title: "Neye baktığınızı söyleyin"
+        body: "Cilt bakımı, makyaj, saç, banyo ve vücut ile parfüm başlıkları altında 23 ürün türü arasından seçin. FormuLens, hangi bileşenlerin önemli, hangilerinin alışılmadık olduğunu anlamak için kategoriyi kullanır."
+      - image: /assets/screenshots/formulens/04-scan.png
+        alt: "Her ürün için birden fazla fotoğrafın çekildiği ürün ekleme ekranı"
+        title: "Uzun listeler mi? Birkaç kare çekin"
+        body: "Etiket şişenin çevresini sardığında onu birkaç fotoğrafla yakalayın; FormuLens analiz etmeden önce bunları tek ve eksiksiz bir içerik listesinde birleştirir."
+      - image: /assets/screenshots/formulens/05-summary.png
+        alt: "Ürün başına bir bakışta değerlendirme ve fayda rozetleri içeren karşılaştırma özeti"
+        title: "Sade bir dille değerlendirme"
+        body: "«Zengin ve besleyici» ya da «Koku içerir» gibi rozetlerle bir bakışta özet alın; ayrıca nem, aktifler ve yumuşaklık üzerine notlar da — kimya bilgisi gerekmez."
+      - image: /assets/screenshots/formulens/06-legend.png
+        alt: "İşlevleri renklerle eşleştiren içerik renk açıklaması"
+        title: "Ne işe yaradığına göre renk kodlu"
+        body: "Her bileşen işlevine göre sıralanır — nemlendirici, aktif, koruyucu, koku ve daha fazlası — böylece tüm formülü görsel olarak tarayabilir ve filtrelemek için renklere dokunabilirsiniz."
+      - image: /assets/screenshots/formulens/07-differences.png
+        alt: "Önemli ve alışılmadık bileşenleri öne çıkaran ürün bazında içerik görünümü"
+        title: "Önemli olanı ve tuhaf olanı fark edin"
+        body: "O ürün türü için önemli bileşenler yıldızla işaretlenir ve alışılmadık her şey belirtilir, böylece özenli bir formül — ya da bir uyarı işareti — satın almadan önce öne çıkar."
+      - image: /assets/screenshots/formulens/08-metrics.png
+        alt: "Üç ürünü karşılaştıran formül profili çubuk grafikleri ve işlev dökümü"
+        title: "Formülü sayılarla görün"
+        body: "Nem, aktif gücü, yumuşaklık ve karmaşıklığı yan yana karşılaştırın; işlev dökümü ürünlerin tam olarak nasıl farklılaştığını gösterir."

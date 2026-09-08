@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "從照片中提取調色盤，用創意工具轉換影象。免費、私密、無需賬戶。"

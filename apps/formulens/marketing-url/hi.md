@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "किसी भी सामग्री सूची को स्कैन करें। जानें कि आपके स्किनकेयर में असल में क्या है, और यह सब मिलकर कैसे काम करता है।"
@@ -17,6 +17,8 @@ redirect_from:
 सामग्री के लेबल रसायनज्ञों के लिए लिखे जाते हैं, आपके लिए नहीं। FormuLens उन्हें आपके लिए समझा देता है। अपने कैमरे को किसी भी उत्पाद की ओर तानें, और हर सामग्री डिकोड होकर उसके असल काम के अनुसार क्रमबद्ध हो जाती है, बिना टाइप किए, बिना खोजे, और बिना किसी रसायन विज्ञान की डिग्री के।
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
+
+<!--showcase-->
 
 ## आपको यह क्यों पसंद आएगा
 

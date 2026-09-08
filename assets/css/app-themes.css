@@ -1,0 +1,83 @@
+/* ============================================
+   Bartlett Butter — Per-App Themes
+   Accent tokens derived from each app's icon, applied to the shared subpage
+   chrome (app header, section nav, links, accents) so every app's marketing /
+   support / privacy pages take on the app's color identity while keeping the
+   same header, footer, and structure. Loaded on any page that resolves an app
+   slug (see _layouts/default.html), keyed by <body data-app="…">.
+
+   Tokens:
+     --app-accent         vivid brand color (small fills, borders, hovers)
+     --app-accent-strong  dark brand color (link/text on white, nav pill fill)
+     --app-accent-soft    pale tint (header wash, table headers)
+     --app-header-bg      the app-header background wash
+
+   subpage.css / marketing.css consume these with neutral fallbacks, so any
+   page without a theme is visually unchanged.
+   ============================================ */
+
+/* Neutral fallback — matches the pre-theme look. */
+:root {
+  --app-accent: var(--neutral-60);
+  --app-accent-strong: var(--neutral-90);
+  --app-accent-soft: var(--color-bg-subtle);
+  --app-header-bg: var(--color-bg-subtle);
+}
+
+/* Barkpedia — teal badge, warm tan dog. */
+[data-app="barkpedia"] {
+  --app-accent: #2C8A8B;
+  --app-accent-strong: #1F5E60;
+  --app-accent-soft: #E4F1F1;
+  --app-header-bg: linear-gradient(180deg, #E4F1F1 0%, var(--color-bg) 100%);
+}
+
+/* ETFWise — finance green with a rising blue arrow. */
+[data-app="etfwise"] {
+  --app-accent: #2E9E63;
+  --app-accent-strong: #17663F;
+  --app-accent-soft: #E5F3EA;
+  --app-header-bg: linear-gradient(180deg, #E5F3EA 0%, var(--color-bg) 100%);
+}
+
+/* Huepick — teal camera body over a rainbow color spectrum on cream. The
+   single accent tracks the teal camera body; the header wash nods to the
+   rainbow. */
+[data-app="huepick"] {
+  --app-accent: #3E8DA6;
+  --app-accent-strong: #26697F;
+  --app-accent-soft: #E6F0F3;
+  --app-header-bg: linear-gradient(120deg, #FDECE6 0%, #FCE9F1 33%, #EAF0FB 66%, #E6F5EF 100%);
+}
+
+/* Nekopedia — purple badge, warm tan cat. */
+[data-app="nekopedia"] {
+  --app-accent: #8A4FC0;
+  --app-accent-strong: #5A2A88;
+  --app-accent-soft: #F1E9F9;
+  --app-header-bg: linear-gradient(180deg, #F1E9F9 0%, var(--color-bg) 100%);
+}
+
+/* Solcast — golden sun over a soft cloud. */
+[data-app="solcast"] {
+  --app-accent: #E7A61E;
+  --app-accent-strong: #8A5E12;
+  --app-accent-soft: #FBF1D9;
+  --app-header-bg: linear-gradient(180deg, #FBF1D9 0%, var(--color-bg) 100%);
+}
+
+/* FormuLens — magenta field, deep maroon flask. */
+[data-app="formulens"] {
+  --app-accent: #E23A82;
+  --app-accent-strong: #9B2A57;
+  --app-accent-soft: #FCE9F1;
+  --app-header-bg: linear-gradient(180deg, #FCE9F1 0%, var(--color-bg) 100%);
+}
+
+/* Journeyfolio — blue travel folder. */
+[data-app="journeyfolio"] {
+  --app-accent: #2F6FE0;
+  --app-accent-strong: #1E4FAF;
+  --app-accent-soft: #E7EEFC;
+  --app-header-bg: linear-gradient(180deg, #E7EEFC 0%, var(--color-bg) 100%);
+}

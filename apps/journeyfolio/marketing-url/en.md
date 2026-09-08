@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-journeyfolio
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "Plan smarter. Travel lighter. All your trips, one beautiful hub."
@@ -14,6 +14,8 @@ redirect_from:
 Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Journeyfolio brings your entire trip into one beautifully organized itinerary that holds flights, hotels, documents, live weather, and real-time flight status, so you can focus on the trip itself.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
+<!--showcase-->
 
 ## Why travelers choose Journeyfolio
 

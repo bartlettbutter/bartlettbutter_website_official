@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Извлекайте палитры из фотографий и преображайте изображения творческими инструментами. Бесплатно, конфиденциально, без учётной записи."

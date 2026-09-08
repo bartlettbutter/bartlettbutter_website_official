@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "写真からパレットを抽出し、クリエイティブツールで画像を変換。無料、プライベート、アカウント不要。"

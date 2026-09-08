@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "即時識別任何貓的品種。免費、離線、私密。"

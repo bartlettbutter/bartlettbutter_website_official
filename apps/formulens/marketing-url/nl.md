@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Scan elke ingrediëntenlijst. Weet precies wat er in je huidverzorging zit, en hoe alles samenwerkt."
@@ -17,6 +17,8 @@ redirect_from:
 Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuLens vertaalt ze. Richt je camera op een willekeurig product en elk ingrediënt wordt ontcijferd en gesorteerd op wat het echt doet. Geen typen, geen zoeken, geen scheikundediploma nodig.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/formulalens/id6756229042)
+
+<!--showcase-->
 
 ## Waarom je er dol op zult zijn
 

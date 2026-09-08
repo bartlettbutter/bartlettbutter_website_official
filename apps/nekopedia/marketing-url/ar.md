@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "تعرّف على أي سلالة قطط فورًا. مجاني، دون اتصال، وخاص."

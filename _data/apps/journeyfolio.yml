@@ -1,0 +1,654 @@
+# Per-app marketing data for Journeyfolio, keyed by language code (mirrors the
+# convention in _data/home.yml). Consumed by _layouts/marketing.html via
+# _includes/marketing/showcase.html. Each language mirrors the `en` structure;
+# languages without their own entry fall back to `en` so every localized page
+# still renders the showcase.
+#
+# Screenshots live in /assets/screenshots/journeyfolio/ (660px-wide web copies
+# of the App Store mockups; the captions baked into each image are English, so
+# the narratives here add explanation rather than repeat the on-image text).
+
+en:
+  showcase:
+    label: "A closer look"
+    title: "Your whole trip, beautifully in order"
+    intro: "See how Journeyfolio turns scattered bookings, screenshots, and emails into one calm, day-by-day itinerary."
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Journeyfolio welcome screen listing its core promises"
+        title: "Open it and start planning"
+        body: "No account, no sign-up, no setup. Everything lives on your device from the first tap, and it all works offline when you're on the move."
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "Trip overview showing weather, a day selector, and flight cards"
+        title: "The whole journey at a glance"
+        body: "Live weather, a day-by-day selector, and your flights sit together on one screen, so the shape of your trip is clear the moment you open it."
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "Itinerary grouped into Hotel, Transport, and Places & Tickets sections"
+        title: "Organized by day, sorted by type"
+        body: "Flights, hotels, transport, restaurants, tickets, and notes are grouped into clear categories and laid out day by day, so nothing slips through the cracks."
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "Multi-destination trip listing San Francisco, Los Angeles, and Las Vegas"
+        title: "Multi-city trips, made simple"
+        body: "Chaining several cities into one trip? Each destination gets its own dates, activities, weather, and local details, all under a single journey."
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "Single destination itinerary for Las Vegas with weather and activities"
+        title: "Every stop, its own itinerary"
+        body: "Drill into any destination for its forecast, day filters, and full schedule — the same clear view whether it's your first city or your fifth."
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "Activity editor with a verified address and an embedded map"
+        title: "Addresses you can trust"
+        body: "Add a place and Journeyfolio verifies the address against Apple Maps and pins it on an inline map, so getting there is one tap away when you arrive."
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "Activity detail screen for a show with date, address, phone, and map"
+        title: "Every detail, right where you need it"
+        body: "Each activity keeps its time, location, phone number, map, and your own notes together — no digging through emails to find the confirmation."
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "Flight editor showing a verified route, times, and airline"
+        title: "Flights, verified and tracked"
+        body: "Enter a flight number and Journeyfolio fills in the route, times, and airline, then keeps its live status inside your itinerary in each airport's local time."
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "Premium upgrade screen listing features and subscription options"
+        title: "Free to start, more when you need it"
+        body: "Plan your trips at no cost, and unlock unlimited trips, live flight tracking, and weather forecasts with Premium whenever you're ready."
+
+zh-Hans:
+  showcase:
+    label: "近距离一览"
+    title: "您的整个行程，井然有序，尽显美观"
+    intro: "看看 Journeyfolio 如何将零散的预订、截图和邮件整理成一份从容的逐日行程表。"
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Journeyfolio 欢迎屏幕，列出其核心承诺"
+        title: "打开即可开始规划"
+        body: "无需账户，无需注册，无需设置。从第一次点按起，一切都存储在您的设备上，出行途中还可完全离线使用。"
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "行程概览，显示天气、日期选择器和航班卡片"
+        title: "整段旅程一目了然"
+        body: "实时天气、逐日选择器和您的航班齐聚一屏，打开的那一刻，行程的轮廓就清晰可见。"
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "行程表分为酒店、交通以及地点和门票等板块"
+        title: "按天组织，按类型排序"
+        body: "航班、酒店、交通、餐厅、门票和备注被归入清晰的类别并逐日排布，让任何细节都不会遗漏。"
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "多目的地行程，列出旧金山、洛杉矶和拉斯维加斯"
+        title: "多城市行程，轻松搞定"
+        body: "要把多座城市串联成一次行程？每个目的地都有自己的日期、活动、天气和当地详情，全部归于同一段旅程之下。"
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "拉斯维加斯单一目的地行程表，附天气和活动"
+        title: "每一站，都有自己的行程表"
+        body: "深入查看任意目的地的天气预报、日期筛选和完整日程——无论是第一座城市还是第五座，视图同样清晰。"
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "活动编辑器，显示已验证的地址和内嵌地图"
+        title: "值得信赖的地址"
+        body: "添加一个地点，Journeyfolio 会对照 Apple Maps 验证地址并在内嵌地图上标注，到达时一点即可前往。"
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "演出活动详情屏幕，含日期、地址、电话和地图"
+        title: "每个细节，都在您需要的地方"
+        body: "每项活动都将时间、地点、电话号码、地图和您自己的备注集中在一起——无需翻找邮件来寻找确认单。"
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "航班编辑器，显示已验证的航线、时刻和航空公司"
+        title: "航班，经过验证并持续跟踪"
+        body: "输入航班号，Journeyfolio 会自动填入航线、时刻和航空公司，并按各机场当地时间在您的行程表中显示其实时状态。"
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "高级版升级屏幕，列出功能和订阅选项"
+        title: "免费起步，需要时再解锁更多"
+        body: "免费规划您的行程，准备就绪时，通过高级版解锁无限行程、实时航班跟踪和天气预报。"
+
+zh-Hant:
+  showcase:
+    label: "近距離一覽"
+    title: "您的整個行程，井然有序，盡顯美觀"
+    intro: "看看 Journeyfolio 如何將零散的預訂、截圖和郵件整理成一份從容的逐日行程表。"
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Journeyfolio 歡迎螢幕，列出其核心承諾"
+        title: "開啟即可開始規劃"
+        body: "無需賬戶，無需註冊，無需設定。從第一次點按起，一切都儲存在您的裝置上，出行途中還可完全離線使用。"
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "行程概覽，顯示天氣、日期選擇器和航班卡片"
+        title: "整段旅程一目瞭然"
+        body: "實時天氣、逐日選擇器和您的航班齊聚一屏，開啟的那一刻，行程的輪廓就清晰可見。"
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "行程表分為酒店、交通以及地點和門票等板塊"
+        title: "按天組織，按類型排序"
+        body: "航班、酒店、交通、餐廳、門票和備註被歸入清晰的類別並逐日排布，讓任何細節都不會遺漏。"
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "多目的地行程，列出舊金山、洛杉磯和拉斯維加斯"
+        title: "多城市行程，輕鬆搞定"
+        body: "要把多座城市串聯成一次行程？每個目的地都有自己的日期、活動、天氣和當地詳情，全部歸於同一段旅程之下。"
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "拉斯維加斯單一目的地行程表，附天氣和活動"
+        title: "每一站，都有自己的行程表"
+        body: "深入查看任意目的地的天氣預報、日期篩選和完整日程——無論是第一座城市還是第五座，畫面同樣清晰。"
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "活動編輯器，顯示已驗證的地址和內嵌地圖"
+        title: "值得信賴的地址"
+        body: "新增一個地點，Journeyfolio 會對照 Apple Maps 驗證地址並在內嵌地圖上標註，到達時一點即可前往。"
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "演出活動詳情螢幕，含日期、地址、電話和地圖"
+        title: "每個細節，都在您需要的地方"
+        body: "每項活動都將時間、地點、電話號碼、地圖和您自己的備註集中在一起——無需翻找郵件來尋找確認單。"
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "航班編輯器，顯示已驗證的航線、時刻和航空公司"
+        title: "航班，經過驗證並持續跟蹤"
+        body: "輸入航班號，Journeyfolio 會自動填入航線、時刻和航空公司，並按各機場當地時間在您的行程表中顯示其實時狀態。"
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "高階版升級螢幕，列出功能和訂閱選項"
+        title: "免費起步，需要時再解鎖更多"
+        body: "免費規劃您的行程，準備就緒時，透過高階版解鎖無限行程、實時航班跟蹤和天氣預報。"
+
+ja:
+  showcase:
+    label: "詳しく見る"
+    title: "旅のすべてが、美しく整う"
+    intro: "散らばった予約、スクリーンショット、メールを、Journeyfolio がどのように落ち着いた日ごとの旅程へと変えるかご覧ください。"
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Journeyfolio の主な特長を並べたウェルカム画面"
+        title: "開いてすぐに計画開始"
+        body: "アカウントも、登録も、設定も不要。最初のタップからすべてがあなたのデバイス上にあり、移動中もすべてオフラインで動作します。"
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "天気、日ごとのセレクター、フライトカードを表示する旅行の概要"
+        title: "旅全体をひと目で"
+        body: "リアルタイムの天気、日ごとのセレクター、そしてフライトが1つの画面に並び、開いた瞬間に旅の全体像がわかります。"
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "ホテル、交通、場所とチケットのセクションに分かれた旅程"
+        title: "日ごとに整理し、種類ごとに分類"
+        body: "フライト、ホテル、交通、レストラン、チケット、メモが分かりやすいカテゴリーにまとめられ、日ごとに配置されるので、何も見落としません。"
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "サンフランシスコ、ロサンゼルス、ラスベガスを並べた複数目的地の旅行"
+        title: "複数都市の旅行も、シンプルに"
+        body: "いくつもの都市を1つの旅につなげますか? 各目的地には独自の日程、アクティビティ、天気、現地情報があり、すべて1つの旅にまとまります。"
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "天気とアクティビティを備えたラスベガスの単一目的地の旅程"
+        title: "どの立ち寄り先にも、それぞれの旅程"
+        body: "どの目的地でも、予報、日付フィルター、そして完全なスケジュールまで掘り下げられます。最初の都市でも5番目の都市でも、同じ分かりやすい表示です。"
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "検証済みの住所と埋め込み地図を備えたアクティビティエディター"
+        title: "信頼できる住所"
+        body: "場所を追加すると、Journeyfolio が Apple Maps で住所を検証し、埋め込み地図にピンを立てます。だから到着したら、ワンタップで現地へ向かえます。"
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "日付、住所、電話番号、地図が並ぶショーのアクティビティ詳細画面"
+        title: "あらゆる詳細を、必要な場所に"
+        body: "各アクティビティは、時刻、場所、電話番号、地図、そしてあなた自身のメモをまとめて保持します。確認書を探すためにメールを掘り返す必要はありません。"
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "検証済みの経路、時刻、航空会社を表示するフライトエディター"
+        title: "フライトを検証し、追跡"
+        body: "フライト番号を入力すると、Journeyfolio が経路、時刻、航空会社を入力し、各空港の現地時間でリアルタイムの状況を旅程の中に表示し続けます。"
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "機能とサブスクリプションのオプションを並べたプレミアムのアップグレード画面"
+        title: "無料で始めて、必要なときにもっと"
+        body: "旅行の計画は無料。準備ができたら、無制限の旅行、リアルタイムフライト追跡、天気予報をプレミアムで解放できます。"
+
+ko:
+  showcase:
+    label: "자세히 보기"
+    title: "여행 전체가 아름답게 정리됩니다"
+    intro: "Journeyfolio가 흩어진 예약, 스크린샷, 이메일을 차분한 하루하루 일정으로 어떻게 바꾸는지 확인하세요."
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "핵심 약속을 나열한 Journeyfolio 시작 화면"
+        title: "열고 바로 계획 시작"
+        body: "계정도, 가입도, 설정도 필요 없습니다. 첫 탭부터 모든 것이 여러분의 기기에 있으며, 이동 중에도 전부 오프라인으로 작동합니다."
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "날씨, 날짜 선택기, 항공편 카드를 보여주는 여행 개요"
+        title: "여정 전체를 한눈에"
+        body: "실시간 날씨, 하루하루 선택기, 그리고 항공편이 한 화면에 함께 놓여, 열자마자 여행의 윤곽이 뚜렷하게 보입니다."
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "호텔, 교통, 장소 및 티켓 섹션으로 묶인 일정"
+        title: "날짜별로 정리하고, 유형별로 분류"
+        body: "항공편, 호텔, 교통, 식당, 티켓, 메모가 명확한 카테고리로 묶여 하루하루 배치되므로 아무것도 놓치지 않습니다."
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "샌프란시스코, 로스앤젤레스, 라스베이거스를 나열한 여러 목적지 여행"
+        title: "여러 도시 여행도, 간단하게"
+        body: "여러 도시를 하나의 여행으로 잇고 있나요? 각 목적지마다 고유한 날짜, 활동, 날씨, 현지 정보가 모두 하나의 여정 아래에 담깁니다."
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "날씨와 활동이 있는 라스베이거스 단일 목적지 일정"
+        title: "모든 방문지에, 각자의 일정"
+        body: "어떤 목적지든 예보, 날짜 필터, 전체 일정까지 자세히 살펴보세요. 첫 번째 도시든 다섯 번째 도시든 똑같이 명확한 화면입니다."
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "검증된 주소와 삽입된 지도가 있는 활동 편집기"
+        title: "믿을 수 있는 주소"
+        body: "장소를 추가하면 Journeyfolio가 Apple Maps로 주소를 검증하고 삽입된 지도에 핀을 꽂아, 도착했을 때 한 번의 탭으로 찾아갈 수 있습니다."
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "날짜, 주소, 전화번호, 지도가 있는 공연 활동 세부 화면"
+        title: "모든 세부 정보를, 필요한 바로 그곳에"
+        body: "각 활동은 시간, 위치, 전화번호, 지도, 그리고 여러분의 메모를 함께 보관합니다. 확인서를 찾으려고 이메일을 뒤질 필요가 없습니다."
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "검증된 경로, 시간, 항공사를 보여주는 항공편 편집기"
+        title: "항공편을, 검증하고 추적"
+        body: "항공편 번호를 입력하면 Journeyfolio가 경로, 시간, 항공사를 채우고, 각 공항의 현지 시간으로 실시간 상태를 일정 안에 계속 표시합니다."
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "기능과 구독 옵션을 나열한 프리미엄 업그레이드 화면"
+        title: "무료로 시작하고, 필요할 때 더 많이"
+        body: "여행 계획은 무료로 세우고, 준비되면 무제한 여행, 실시간 항공편 추적, 일기 예보를 프리미엄으로 잠금 해제하세요."
+
+es:
+  showcase:
+    label: "Una mirada más de cerca"
+    title: "Todo tu viaje, perfectamente en orden"
+    intro: "Descubre cómo Journeyfolio convierte reservas dispersas, capturas de pantalla y correos en un tranquilo itinerario día a día."
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Pantalla de bienvenida de Journeyfolio que enumera sus promesas principales"
+        title: "Ábrelo y empieza a planificar"
+        body: "Sin cuenta, sin registro, sin configuración. Todo vive en tu dispositivo desde el primer toque, y funciona sin conexión cuando estás en movimiento."
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "Resumen del viaje que muestra el clima, un selector de días y tarjetas de vuelo"
+        title: "Todo el viaje de un vistazo"
+        body: "El clima en vivo, un selector día a día y tus vuelos conviven en una sola pantalla, así que la forma de tu viaje queda clara en cuanto lo abres."
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "Itinerario agrupado en secciones de Hotel, Transporte y Lugares y entradas"
+        title: "Organizado por día, ordenado por tipo"
+        body: "Vuelos, hoteles, transporte, restaurantes, entradas y notas se agrupan en categorías claras y se disponen día a día, para que nada se te escape."
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "Viaje con varios destinos que enumera San Francisco, Los Ángeles y Las Vegas"
+        title: "Viajes a varias ciudades, hechos sencillos"
+        body: "¿Encadenas varias ciudades en un solo viaje? Cada destino tiene sus propias fechas, actividades, clima y detalles locales, todo bajo un mismo viaje."
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "Itinerario de un único destino para Las Vegas con clima y actividades"
+        title: "Cada parada, con su propio itinerario"
+        body: "Profundiza en cualquier destino para ver su pronóstico, filtros por día y horario completo: la misma vista clara, ya sea tu primera ciudad o la quinta."
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "Editor de actividad con una dirección verificada y un mapa integrado"
+        title: "Direcciones en las que puedes confiar"
+        body: "Añade un lugar y Journeyfolio verifica la dirección con Apple Maps y la fija en un mapa integrado, para que llegar esté a un toque cuando llegues."
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "Pantalla de detalle de actividad de un espectáculo con fecha, dirección, teléfono y mapa"
+        title: "Cada detalle, justo donde lo necesitas"
+        body: "Cada actividad mantiene juntos su hora, ubicación, número de teléfono, mapa y tus propias notas, sin rebuscar entre correos para encontrar la confirmación."
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "Editor de vuelo que muestra una ruta verificada, horarios y aerolínea"
+        title: "Vuelos, verificados y con seguimiento"
+        body: "Introduce un número de vuelo y Journeyfolio completa la ruta, los horarios y la aerolínea, y mantiene su estado en vivo dentro de tu itinerario en la hora local de cada aeropuerto."
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "Pantalla de mejora a Premium que enumera funciones y opciones de suscripción"
+        title: "Gratis para empezar, más cuando lo necesites"
+        body: "Planifica tus viajes sin coste y desbloquea viajes ilimitados, seguimiento de vuelos en vivo y pronósticos del tiempo con Premium cuando estés listo."
+
+fr:
+  showcase:
+    label: "Regardez de plus près"
+    title: "Tout votre voyage, parfaitement en ordre"
+    intro: "Découvrez comment Journeyfolio transforme des réservations éparpillées, des captures d'écran et des e-mails en un itinéraire serein, jour par jour."
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Écran d'accueil de Journeyfolio présentant ses promesses essentielles"
+        title: "Ouvrez-le et commencez à planifier"
+        body: "Aucun compte, aucune inscription, aucune configuration. Tout vit sur votre appareil dès la première touche, et tout fonctionne hors ligne quand vous êtes en déplacement."
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "Aperçu du voyage montrant la météo, un sélecteur de jours et des cartes de vol"
+        title: "Tout le voyage en un coup d'œil"
+        body: "La météo en direct, un sélecteur jour par jour et vos vols se côtoient sur un seul écran, pour que la forme de votre voyage soit claire dès l'ouverture."
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "Itinéraire regroupé en sections Hôtel, Transport et Lieux et billets"
+        title: "Organisé par jour, trié par type"
+        body: "Vols, hôtels, transports, restaurants, billets et notes sont regroupés en catégories claires et disposés jour par jour, pour que rien ne passe entre les mailles du filet."
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "Voyage multi-destinations listant San Francisco, Los Angeles et Las Vegas"
+        title: "Les voyages multi-villes, en toute simplicité"
+        body: "Vous enchaînez plusieurs villes en un seul voyage ? Chaque destination a ses propres dates, activités, météo et détails locaux, le tout au sein d'un même voyage."
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "Itinéraire d'une seule destination pour Las Vegas avec météo et activités"
+        title: "Chaque étape, son propre itinéraire"
+        body: "Explorez n'importe quelle destination pour ses prévisions, ses filtres par jour et son programme complet — la même vue claire, que ce soit votre première ville ou la cinquième."
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "Éditeur d'activité avec une adresse vérifiée et une carte intégrée"
+        title: "Des adresses fiables"
+        body: "Ajoutez un lieu et Journeyfolio vérifie l'adresse via Apple Maps et l'épingle sur une carte intégrée, pour que vous y soyez guidé d'une seule touche à votre arrivée."
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "Écran de détail d'activité pour un spectacle avec date, adresse, téléphone et carte"
+        title: "Chaque détail, là où vous en avez besoin"
+        body: "Chaque activité conserve ensemble son horaire, son lieu, son numéro de téléphone, sa carte et vos propres notes — sans fouiller vos e-mails pour retrouver la confirmation."
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "Éditeur de vol montrant un itinéraire vérifié, les horaires et la compagnie aérienne"
+        title: "Des vols vérifiés et suivis"
+        body: "Saisissez un numéro de vol et Journeyfolio renseigne l'itinéraire, les horaires et la compagnie aérienne, puis suit son statut en direct dans votre itinéraire, à l'heure locale de chaque aéroport."
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "Écran de passage à Premium présentant les fonctionnalités et les options d'abonnement"
+        title: "Gratuit pour commencer, plus quand vous en avez besoin"
+        body: "Planifiez vos voyages gratuitement et débloquez des voyages illimités, le suivi de vol en direct et les prévisions météo avec Premium dès que vous êtes prêt."
+
+de:
+  showcase:
+    label: "Ein genauerer Blick"
+    title: "Deine ganze Reise, wunderschön geordnet"
+    intro: "Sieh, wie Journeyfolio verstreute Buchungen, Screenshots und E-Mails in einen ruhigen, Tag-für-Tag-Reiseplan verwandelt."
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Journeyfolio-Willkommensbildschirm mit seinen wichtigsten Versprechen"
+        title: "Öffnen und mit dem Planen beginnen"
+        body: "Kein Konto, keine Anmeldung, keine Einrichtung. Vom ersten Tippen an lebt alles auf deinem Gerät und funktioniert offline, wenn du unterwegs bist."
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "Reiseübersicht mit Wetter, einem Tagesauswähler und Flugkarten"
+        title: "Die ganze Reise auf einen Blick"
+        body: "Live-Wetter, ein Tag-für-Tag-Auswähler und deine Flüge liegen auf einem Bildschirm zusammen, sodass die Form deiner Reise sofort beim Öffnen klar ist."
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "Reiseplan gruppiert in die Abschnitte Hotel, Transport sowie Orte und Tickets"
+        title: "Nach Tag geordnet, nach Typ sortiert"
+        body: "Flüge, Hotels, Transport, Restaurants, Tickets und Notizen werden in klare Kategorien gruppiert und Tag für Tag angeordnet, damit nichts durch die Maschen fällt."
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "Reise mit mehreren Zielen, die San Francisco, Los Angeles und Las Vegas auflistet"
+        title: "Reisen durch mehrere Städte, einfach gemacht"
+        body: "Du verkettest mehrere Städte zu einer Reise? Jedes Ziel erhält eigene Daten, Aktivitäten, Wetter und lokale Details, alles unter einer einzigen Reise."
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "Reiseplan für ein einzelnes Ziel für Las Vegas mit Wetter und Aktivitäten"
+        title: "Jeder Halt, sein eigener Reiseplan"
+        body: "Tauche in jedes Ziel ein für seine Vorhersage, Tagesfilter und den vollständigen Zeitplan — dieselbe klare Ansicht, ob es deine erste Stadt ist oder deine fünfte."
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "Aktivitätseditor mit einer verifizierten Adresse und einer eingebetteten Karte"
+        title: "Adressen, denen du vertrauen kannst"
+        body: "Füge einen Ort hinzu und Journeyfolio überprüft die Adresse mit Apple Maps und markiert sie auf einer eingebetteten Karte, sodass du bei der Ankunft mit einem Tippen dorthin findest."
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "Aktivitätsdetailbildschirm für eine Show mit Datum, Adresse, Telefon und Karte"
+        title: "Jedes Detail, genau dort, wo du es brauchst"
+        body: "Jede Aktivität hält ihre Zeit, ihren Ort, ihre Telefonnummer, ihre Karte und deine eigenen Notizen zusammen — kein Wühlen in E-Mails, um die Bestätigung zu finden."
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "Flugeditor mit einer verifizierten Route, Zeiten und Fluggesellschaft"
+        title: "Flüge, verifiziert und verfolgt"
+        body: "Gib eine Flugnummer ein und Journeyfolio füllt Route, Zeiten und Fluggesellschaft aus und hält den Live-Status in deinem Reiseplan in der Ortszeit jedes Flughafens fest."
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "Premium-Upgrade-Bildschirm mit Funktionen und Abo-Optionen"
+        title: "Kostenlos starten, mehr wenn du es brauchst"
+        body: "Plane deine Reisen kostenlos und schalte unbegrenzte Reisen, Live-Flugverfolgung und Wettervorhersagen mit Premium frei, wann immer du bereit bist."
+
+it:
+  showcase:
+    label: "Uno sguardo più da vicino"
+    title: "Tutto il tuo viaggio, splendidamente in ordine"
+    intro: "Scopri come Journeyfolio trasforma prenotazioni sparse, screenshot ed e-mail in un sereno itinerario giorno per giorno."
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Schermata di benvenuto di Journeyfolio che elenca le sue promesse principali"
+        title: "Aprilo e inizia a pianificare"
+        body: "Nessun account, nessuna registrazione, nessuna configurazione. Tutto risiede sul tuo dispositivo fin dal primo tocco e funziona offline quando sei in movimento."
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "Panoramica del viaggio che mostra il meteo, un selettore dei giorni e le carte dei voli"
+        title: "L'intero viaggio in un colpo d'occhio"
+        body: "Meteo in tempo reale, un selettore giorno per giorno e i tuoi voli convivono su un'unica schermata, così la forma del tuo viaggio è chiara nel momento in cui lo apri."
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "Itinerario raggruppato nelle sezioni Hotel, Trasporti e Luoghi e biglietti"
+        title: "Organizzato per giorno, ordinato per tipo"
+        body: "Voli, hotel, trasporti, ristoranti, biglietti e note sono raggruppati in categorie chiare e disposti giorno per giorno, così nulla sfugge."
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "Viaggio con più destinazioni che elenca San Francisco, Los Angeles e Las Vegas"
+        title: "Viaggi in più città, resi semplici"
+        body: "Stai concatenando più città in un unico viaggio? Ogni destinazione ha le proprie date, attività, meteo e dettagli locali, tutto sotto un unico viaggio."
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "Itinerario di una singola destinazione per Las Vegas con meteo e attività"
+        title: "Ogni tappa, il proprio itinerario"
+        body: "Approfondisci qualsiasi destinazione per le sue previsioni, i filtri per giorno e il programma completo: la stessa vista chiara, che sia la tua prima città o la quinta."
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "Editor delle attività con un indirizzo verificato e una mappa integrata"
+        title: "Indirizzi di cui fidarti"
+        body: "Aggiungi un luogo e Journeyfolio verifica l'indirizzo con Apple Maps e lo fissa su una mappa integrata, così raggiungerlo è a un tocco di distanza quando arrivi."
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "Schermata dei dettagli dell'attività per uno spettacolo con data, indirizzo, telefono e mappa"
+        title: "Ogni dettaglio, proprio dove ti serve"
+        body: "Ogni attività tiene insieme orario, luogo, numero di telefono, mappa e le tue note, senza scavare tra le e-mail per trovare la conferma."
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "Editor dei voli che mostra una rotta verificata, gli orari e la compagnia aerea"
+        title: "Voli, verificati e monitorati"
+        body: "Inserisci un numero di volo e Journeyfolio compila rotta, orari e compagnia aerea, poi mantiene il suo stato in tempo reale nel tuo itinerario nell'ora locale di ciascun aeroporto."
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "Schermata di upgrade a Premium che elenca funzioni e opzioni di abbonamento"
+        title: "Gratis per iniziare, di più quando ti serve"
+        body: "Pianifica i tuoi viaggi senza costi e sblocca viaggi illimitati, tracciamento voli in tempo reale e previsioni meteo con Premium quando sei pronto."
+
+pt:
+  showcase:
+    label: "Um olhar mais de perto"
+    title: "Toda a sua viagem, lindamente em ordem"
+    intro: "Veja como o Journeyfolio transforma reservas espalhadas, capturas de tela e e-mails em um tranquilo itinerário dia a dia."
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Tela de boas-vindas do Journeyfolio listando suas principais promessas"
+        title: "Abra e comece a planejar"
+        body: "Sem conta, sem cadastro, sem configuração. Tudo fica no seu dispositivo desde o primeiro toque e funciona offline quando você está em movimento."
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "Visão geral da viagem mostrando o clima, um seletor de dias e cartões de voo"
+        title: "Toda a jornada de relance"
+        body: "Clima ao vivo, um seletor dia a dia e seus voos ficam juntos em uma única tela, para que o formato da sua viagem fique claro no momento em que você a abre."
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "Itinerário agrupado em seções de Hotel, Transporte e Lugares e ingressos"
+        title: "Organizado por dia, ordenado por tipo"
+        body: "Voos, hotéis, transporte, restaurantes, ingressos e notas são agrupados em categorias claras e dispostos dia a dia, para que nada passe despercebido."
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "Viagem com vários destinos listando San Francisco, Los Angeles e Las Vegas"
+        title: "Viagens para várias cidades, simplificadas"
+        body: "Encadeando várias cidades em uma só viagem? Cada destino ganha suas próprias datas, atividades, clima e detalhes locais, tudo dentro de uma única jornada."
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "Itinerário de um único destino para Las Vegas com clima e atividades"
+        title: "Cada parada, seu próprio itinerário"
+        body: "Aprofunde-se em qualquer destino para ver sua previsão, filtros por dia e programação completa — a mesma visão clara, seja sua primeira cidade ou a quinta."
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "Editor de atividade com um endereço verificado e um mapa incorporado"
+        title: "Endereços em que você pode confiar"
+        body: "Adicione um lugar e o Journeyfolio verifica o endereço no Apple Maps e o fixa em um mapa incorporado, para que chegar lá esteja a um toque de distância quando você chegar."
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "Tela de detalhes da atividade de um espetáculo com data, endereço, telefone e mapa"
+        title: "Cada detalhe, exatamente onde você precisa"
+        body: "Cada atividade mantém juntos seu horário, local, número de telefone, mapa e suas próprias notas — sem vasculhar e-mails para encontrar a confirmação."
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "Editor de voo mostrando uma rota verificada, horários e companhia aérea"
+        title: "Voos, verificados e rastreados"
+        body: "Insira um número de voo e o Journeyfolio preenche a rota, os horários e a companhia aérea, e mantém seu status ao vivo dentro do seu itinerário no horário local de cada aeroporto."
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "Tela de upgrade para Premium listando recursos e opções de assinatura"
+        title: "Grátis para começar, mais quando você precisar"
+        body: "Planeje suas viagens sem custo e desbloqueie viagens ilimitadas, rastreamento de voos ao vivo e previsões do tempo com o Premium quando estiver pronto."
+
+ru:
+  showcase:
+    label: "Взгляд поближе"
+    title: "Вся ваша поездка — прекрасно упорядочена"
+    intro: "Посмотрите, как Journeyfolio превращает разрозненные брони, скриншоты и письма в спокойный маршрут по дням."
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Экран приветствия Journeyfolio с перечислением его ключевых обещаний"
+        title: "Откройте и начните планировать"
+        body: "Никаких учётных записей, регистрации и настройки. С первого касания всё хранится на вашем устройстве и полностью работает офлайн, когда вы в пути."
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "Обзор поездки с погодой, выбором дня и карточками рейсов"
+        title: "Всё путешествие с одного взгляда"
+        body: "Актуальная погода, выбор по дням и ваши рейсы собраны на одном экране, так что форма поездки ясна с момента открытия."
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "Маршрут, сгруппированный по разделам «Отель», «Транспорт» и «Места и билеты»"
+        title: "Упорядочено по дням, отсортировано по типу"
+        body: "Рейсы, отели, транспорт, рестораны, билеты и заметки сгруппированы в понятные категории и разложены по дням, чтобы ничего не ускользнуло."
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "Поездка с несколькими пунктами назначения: Сан-Франциско, Лос-Анджелес и Лас-Вегас"
+        title: "Поездки по нескольким городам — это просто"
+        body: "Связываете несколько городов в одну поездку? У каждого пункта назначения свои даты, мероприятия, погода и местные детали — всё в рамках одного путешествия."
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "Маршрут для одного пункта назначения — Лас-Вегаса — с погодой и мероприятиями"
+        title: "У каждой остановки — свой маршрут"
+        body: "Откройте любой пункт назначения, чтобы увидеть прогноз, фильтры по дням и полное расписание — тот же понятный вид, будь то первый город или пятый."
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "Редактор мероприятия с проверенным адресом и встроенной картой"
+        title: "Адреса, которым можно доверять"
+        body: "Добавьте место, и Journeyfolio сверит адрес с Apple Maps и отметит его на встроенной карте, так что по прибытии добраться туда можно одним касанием."
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "Экран сведений о мероприятии для шоу с датой, адресом, телефоном и картой"
+        title: "Каждая деталь — там, где нужно"
+        body: "Каждое мероприятие держит вместе время, место, номер телефона, карту и ваши заметки — не нужно копаться в письмах в поисках подтверждения."
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "Редактор рейса с проверенным маршрутом, временем и авиакомпанией"
+        title: "Рейсы — проверены и отслеживаются"
+        body: "Введите номер рейса, и Journeyfolio заполнит маршрут, время и авиакомпанию, а затем будет показывать его статус в реальном времени в вашем маршруте по местному времени каждого аэропорта."
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "Экран перехода на Premium с перечислением функций и вариантов подписки"
+        title: "Бесплатно для старта, больше — когда нужно"
+        body: "Планируйте поездки бесплатно и открывайте неограниченное число поездок, отслеживание рейсов в реальном времени и прогнозы погоды с Premium, когда будете готовы."
+
+ar:
+  showcase:
+    label: "نظرة أقرب"
+    title: "رحلتك بالكامل، منظّمة بشكل جميل"
+    intro: "شاهد كيف يحوّل Journeyfolio الحجوزات المبعثرة ولقطات الشاشة والرسائل الإلكترونية إلى مسار هادئ يومًا بيوم."
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "شاشة ترحيب Journeyfolio التي تسرد وعوده الأساسية"
+        title: "افتحه وابدأ التخطيط"
+        body: "لا حساب، ولا تسجيل، ولا إعداد. كل شيء موجود على جهازك منذ أول نقرة، ويعمل بالكامل دون اتصال عندما تكون في الطريق."
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "نظرة عامة على الرحلة تعرض الطقس ومحدّد الأيام وبطاقات الرحلات الجوية"
+        title: "الرحلة كلها في لمحة"
+        body: "الطقس المباشر، ومحدّد يومًا بيوم، ورحلاتك الجوية تجتمع على شاشة واحدة، فيتّضح شكل رحلتك لحظة فتحه."
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "مسار مقسّم إلى أقسام الفندق والمواصلات والأماكن والتذاكر"
+        title: "منظّم حسب اليوم، مرتّب حسب النوع"
+        body: "الرحلات الجوية والفنادق والمواصلات والمطاعم والتذاكر والملاحظات مجمّعة في فئات واضحة ومرتّبة يومًا بيوم، حتى لا يفوتك شيء."
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "رحلة متعددة الوجهات تسرد سان فرانسيسكو ولوس أنجلوس ولاس فيغاس"
+        title: "رحلات متعددة المدن، بكل بساطة"
+        body: "هل تربط عدة مدن في رحلة واحدة؟ تحصل كل وجهة على تواريخها وأنشطتها وطقسها وتفاصيلها المحلية الخاصة، وكل ذلك ضمن رحلة واحدة."
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "مسار لوجهة واحدة في لاس فيغاس مع الطقس والأنشطة"
+        title: "كل محطة، ولها مسارها الخاص"
+        body: "تعمّق في أي وجهة لرؤية توقّعاتها ومرشّحات الأيام والجدول الكامل — العرض الواضح نفسه، سواء كانت مدينتك الأولى أو الخامسة."
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "محرّر النشاط مع عنوان مُتحقَّق منه وخريطة مدمجة"
+        title: "عناوين يمكنك الوثوق بها"
+        body: "أضف مكانًا ويتحقّق Journeyfolio من العنوان عبر Apple Maps ويثبّته على خريطة مدمجة، فيصبح الوصول إليه على بُعد نقرة واحدة عند وصولك."
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "شاشة تفاصيل النشاط لعرض مع التاريخ والعنوان والهاتف والخريطة"
+        title: "كل تفصيل، في المكان الذي تحتاجه"
+        body: "يحتفظ كل نشاط بوقته وموقعه ورقم هاتفه وخريطته وملاحظاتك الخاصة معًا — دون البحث في الرسائل الإلكترونية للعثور على التأكيد."
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "محرّر الرحلة الجوية يعرض مسارًا مُتحقَّقًا منه والأوقات وشركة الطيران"
+        title: "رحلات جوية، مُتحقَّق منها ومُتتبَّعة"
+        body: "أدخل رقم رحلة ويملأ Journeyfolio المسار والأوقات وشركة الطيران، ثم يُبقي حالتها المباشرة داخل مسارك بالتوقيت المحلي لكل مطار."
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "شاشة الترقية إلى Premium التي تسرد الميزات وخيارات الاشتراك"
+        title: "ابدأ مجانًا، والمزيد عندما تحتاجه"
+        body: "خطّط لرحلاتك دون تكلفة، وافتح رحلات غير محدودة وتتبعًا مباشرًا للرحلات الجوية وتوقعات الطقس مع Premium متى كنت مستعدًا."
+
+hi:
+  showcase:
+    label: "करीब से एक नज़र"
+    title: "आपकी पूरी यात्रा, खूबसूरती से व्यवस्थित"
+    intro: "देखें कि Journeyfolio कैसे बिखरी हुई बुकिंग, स्क्रीनशॉट और ईमेल को एक शांत, दिन-प्रतिदिन यात्रा-कार्यक्रम में बदल देता है।"
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Journeyfolio का स्वागत स्क्रीन जो इसके मुख्य वादों को सूचीबद्ध करता है"
+        title: "इसे खोलें और योजना बनाना शुरू करें"
+        body: "कोई खाता नहीं, कोई साइन-अप नहीं, कोई सेटअप नहीं। पहले टैप से ही सब कुछ आपके डिवाइस पर रहता है, और चलते-फिरते यह सब ऑफ़लाइन काम करता है।"
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "यात्रा का अवलोकन जो मौसम, एक दिन चयनकर्ता और उड़ान कार्ड दिखाता है"
+        title: "पूरी यात्रा एक नज़र में"
+        body: "लाइव मौसम, एक दिन-प्रतिदिन चयनकर्ता और आपकी उड़ानें एक ही स्क्रीन पर साथ रहती हैं, ताकि खोलते ही आपकी यात्रा का स्वरूप स्पष्ट हो जाए।"
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "होटल, परिवहन तथा स्थान और टिकट अनुभागों में समूहित यात्रा-कार्यक्रम"
+        title: "दिन के अनुसार व्यवस्थित, प्रकार के अनुसार क्रमबद्ध"
+        body: "उड़ानें, होटल, परिवहन, रेस्तरां, टिकट और नोट्स स्पष्ट श्रेणियों में समूहित और दिन-प्रतिदिन व्यवस्थित होते हैं, ताकि कुछ भी छूट न जाए।"
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "बहु-गंतव्य यात्रा जो सैन फ्रांसिस्को, लॉस एंजिल्स और लास वेगास को सूचीबद्ध करती है"
+        title: "बहु-शहर यात्राएँ, सरल बनाई गईं"
+        body: "कई शहरों को एक यात्रा में जोड़ रहे हैं? प्रत्येक गंतव्य को अपनी तारीखें, गतिविधियाँ, मौसम और स्थानीय विवरण मिलते हैं, सभी एक ही यात्रा के तहत।"
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "मौसम और गतिविधियों के साथ लास वेगास के लिए एकल-गंतव्य यात्रा-कार्यक्रम"
+        title: "हर पड़ाव, अपना यात्रा-कार्यक्रम"
+        body: "किसी भी गंतव्य में गहराई से जाएँ उसके पूर्वानुमान, दिन फ़िल्टर और पूरे कार्यक्रम के लिए — वही स्पष्ट दृश्य, चाहे वह आपका पहला शहर हो या पाँचवाँ।"
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "सत्यापित पते और एम्बेडेड मानचित्र के साथ गतिविधि संपादक"
+        title: "ऐसे पते जिन पर आप भरोसा कर सकते हैं"
+        body: "एक स्थान जोड़ें और Journeyfolio Apple Maps के विरुद्ध पते को सत्यापित करता है और इसे एम्बेडेड मानचित्र पर पिन करता है, ताकि पहुँचने पर वहाँ जाना एक टैप की दूरी पर हो।"
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "किसी शो के लिए तारीख, पता, फ़ोन और मानचित्र के साथ गतिविधि विवरण स्क्रीन"
+        title: "हर विवरण, ठीक वहीं जहाँ आपको चाहिए"
+        body: "प्रत्येक गतिविधि अपना समय, स्थान, फ़ोन नंबर, मानचित्र और आपके अपने नोट्स एक साथ रखती है — पुष्टिकरण खोजने के लिए ईमेल खंगालने की ज़रूरत नहीं।"
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "सत्यापित मार्ग, समय और एयरलाइन दिखाने वाला उड़ान संपादक"
+        title: "उड़ानें, सत्यापित और ट्रैक की गईं"
+        body: "एक उड़ान संख्या दर्ज करें और Journeyfolio मार्ग, समय और एयरलाइन भर देता है, फिर प्रत्येक हवाई अड्डे के स्थानीय समय में इसकी लाइव स्थिति को आपके यात्रा-कार्यक्रम में बनाए रखता है।"
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "सुविधाओं और सदस्यता विकल्पों को सूचीबद्ध करने वाला प्रीमियम अपग्रेड स्क्रीन"
+        title: "शुरू करने के लिए निःशुल्क, ज़रूरत होने पर अधिक"
+        body: "अपनी यात्राओं की योजना निःशुल्क बनाएँ, और जब भी आप तैयार हों, प्रीमियम के साथ असीमित यात्राएँ, लाइव उड़ान ट्रैकिंग और मौसम पूर्वानुमान अनलॉक करें।"
+
+nl:
+  showcase:
+    label: "Een nadere blik"
+    title: "Je hele reis, prachtig op orde"
+    intro: "Ontdek hoe Journeyfolio verspreide boekingen, screenshots en e-mails omzet in één rustig, dag-voor-dag reisschema."
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Journeyfolio-welkomstscherm met zijn belangrijkste beloften"
+        title: "Open het en begin met plannen"
+        body: "Geen account, geen aanmelding, geen installatie. Vanaf de eerste tik leeft alles op je apparaat, en het werkt allemaal offline wanneer je onderweg bent."
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "Reisoverzicht met het weer, een dagkiezer en vluchtkaarten"
+        title: "De hele reis in één oogopslag"
+        body: "Live weer, een dag-voor-dag kiezer en je vluchten staan samen op één scherm, zodat de vorm van je reis meteen duidelijk is zodra je het opent."
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "Reisschema gegroepeerd in de secties Hotel, Vervoer en Plaatsen en tickets"
+        title: "Geordend per dag, gesorteerd op type"
+        body: "Vluchten, hotels, vervoer, restaurants, tickets en notities worden in duidelijke categorieën gegroepeerd en dag voor dag geordend, zodat niets door de mazen glipt."
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "Reis met meerdere bestemmingen met San Francisco, Los Angeles en Las Vegas"
+        title: "Reizen naar meerdere steden, eenvoudig gemaakt"
+        body: "Rijg je meerdere steden aaneen tot één reis? Elke bestemming krijgt zijn eigen data, activiteiten, weer en lokale details, allemaal onder één reis."
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "Reisschema voor één bestemming voor Las Vegas met weer en activiteiten"
+        title: "Elke stop, zijn eigen reisschema"
+        body: "Duik in elke bestemming voor de verwachting, dagfilters en het volledige schema — dezelfde heldere weergave, of het nu je eerste stad is of je vijfde."
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "Activiteiteneditor met een geverifieerd adres en een ingesloten kaart"
+        title: "Adressen die je kunt vertrouwen"
+        body: "Voeg een plek toe en Journeyfolio verifieert het adres met Apple Maps en zet het op een ingesloten kaart, zodat je er bij aankomst met één tik naartoe gaat."
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "Activiteitdetailscherm voor een show met datum, adres, telefoon en kaart"
+        title: "Elk detail, precies waar je het nodig hebt"
+        body: "Elke activiteit houdt zijn tijd, locatie, telefoonnummer, kaart en je eigen notities bij elkaar — geen gespit in e-mails om de bevestiging te vinden."
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "Vluchteditor met een geverifieerde route, tijden en luchtvaartmaatschappij"
+        title: "Vluchten, geverifieerd en gevolgd"
+        body: "Voer een vluchtnummer in en Journeyfolio vult de route, tijden en luchtvaartmaatschappij in, en houdt de live status in je reisschema bij in de lokale tijd van elke luchthaven."
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "Premium-upgradescherm met functies en abonnementsopties"
+        title: "Gratis om te beginnen, meer wanneer je het nodig hebt"
+        body: "Plan je reizen kosteloos en ontgrendel onbeperkte reizen, live vluchtvolging en weersvoorspellingen met Premium wanneer je er klaar voor bent."
+
+tr:
+  showcase:
+    label: "Daha yakından bir bakış"
+    title: "Tüm geziniz, güzelce düzenlenmiş"
+    intro: "Journeyfolio'nun dağınık rezervasyonları, ekran görüntülerini ve e-postaları nasıl sakin, gün gün bir güzergâha dönüştürdüğünü görün."
+    shots:
+      - image: /assets/screenshots/journeyfolio/01-welcome.png
+        alt: "Temel vaatlerini sıralayan Journeyfolio karşılama ekranı"
+        title: "Açın ve planlamaya başlayın"
+        body: "Hesap yok, kayıt yok, kurulum yok. İlk dokunuştan itibaren her şey cihazınızda bulunur ve yoldayken tamamen çevrimdışı çalışır."
+      - image: /assets/screenshots/journeyfolio/02-glance.png
+        alt: "Hava durumunu, bir gün seçiciyi ve uçuş kartlarını gösteren gezi genel görünümü"
+        title: "Tüm yolculuk tek bakışta"
+        body: "Canlı hava durumu, gün gün seçici ve uçuşlarınız tek bir ekranda bir arada durur; böylece gezinizin şekli açtığınız anda netleşir."
+      - image: /assets/screenshots/journeyfolio/03-daily.png
+        alt: "Otel, Ulaşım ve Yerler ve biletler bölümlerine gruplanmış güzergâh"
+        title: "Güne göre düzenlenmiş, türe göre sıralanmış"
+        body: "Uçuşlar, oteller, ulaşım, restoranlar, biletler ve notlar net kategorilere gruplanır ve gün gün düzenlenir; böylece hiçbir şey gözden kaçmaz."
+      - image: /assets/screenshots/journeyfolio/04-multicity.png
+        alt: "San Francisco, Los Angeles ve Las Vegas'ı sıralayan çok hedefli gezi"
+        title: "Çok şehirli geziler, basitleştirildi"
+        body: "Birkaç şehri tek bir geziye mi bağlıyorsunuz? Her hedef kendi tarihlerine, etkinliklerine, hava durumuna ve yerel ayrıntılarına sahip olur; hepsi tek bir yolculuk altında."
+      - image: /assets/screenshots/journeyfolio/05-itinerary.png
+        alt: "Hava durumu ve etkinliklerle Las Vegas için tek hedefli güzergâh"
+        title: "Her durak, kendi güzergâhı"
+        body: "Herhangi bir hedefe tahminini, gün filtrelerini ve tam programını görmek için inin — ister ilk şehriniz ister beşincisi olsun, aynı net görünüm."
+      - image: /assets/screenshots/journeyfolio/06-navigation.png
+        alt: "Doğrulanmış bir adres ve gömülü bir harita içeren etkinlik düzenleyici"
+        title: "Güvenebileceğiniz adresler"
+        body: "Bir yer ekleyin; Journeyfolio adresi Apple Maps ile doğrular ve gömülü bir haritada işaretler; böylece vardığınızda oraya gitmek tek bir dokunuş uzağınızda olur."
+      - image: /assets/screenshots/journeyfolio/07-timelines.png
+        alt: "Bir gösteri için tarih, adres, telefon ve harita içeren etkinlik ayrıntı ekranı"
+        title: "Her ayrıntı, tam ihtiyacınız olan yerde"
+        body: "Her etkinlik saatini, konumunu, telefon numarasını, haritasını ve kendi notlarınızı bir arada tutar — onayı bulmak için e-postaları karıştırmaya gerek yok."
+      - image: /assets/screenshots/journeyfolio/08-flights.png
+        alt: "Doğrulanmış bir rota, saatler ve havayolu gösteren uçuş düzenleyici"
+        title: "Uçuşlar, doğrulanmış ve takip edilmiş"
+        body: "Bir uçuş numarası girin; Journeyfolio rotayı, saatleri ve havayolunu doldurur, ardından canlı durumunu her havaalanının yerel saatinde güzergâhınızın içinde tutar."
+      - image: /assets/screenshots/journeyfolio/09-premium.png
+        alt: "Özellikleri ve abonelik seçeneklerini sıralayan Premium yükseltme ekranı"
+        title: "Başlamak ücretsiz, ihtiyaç duyduğunuzda daha fazlası"
+        body: "Gezilerinizi ücretsiz planlayın ve hazır olduğunuzda Premium ile sınırsız gezi, canlı uçuş takibi ve hava tahminlerinin kilidini açın."

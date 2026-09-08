@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-journeyfolio
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "خطّط بذكاء أكبر. سافر بحمولة أخف. كل رحلاتك في مركز واحد جميل."
@@ -15,6 +15,8 @@ redirect_from:
 توقّف عن التلاعب بلقطات الشاشة والرسائل الإلكترونية المبعثرة وجداول البيانات نصف المكتملة. يجمع Journeyfolio رحلتك بالكامل في مسار منظّم بشكل جميل يضمّ الرحلات الجوية، والفنادق، والمستندات، والطقس المباشر، وحالة الرحلات في الوقت الفعلي، حتى تتمكّن من التركيز على الرحلة نفسها.
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
+<!--showcase-->
 
 ## لماذا يختار المسافرون Journeyfolio
 

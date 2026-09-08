@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "即时识别任何狗的品种。免费、离线、私密。"

@@ -130,7 +130,7 @@ body {
   text-align: center;
   padding: 64px 24px 48px;
   border-bottom: 1px solid var(--color-border);
-  background: var(--color-bg-subtle);
+  background: var(--app-header-bg, var(--color-bg-subtle));
 }
 
 .app-header-inner {
@@ -195,13 +195,13 @@ body {
 }
 
 .app-nav a:hover {
-  color: var(--color-text-strong);
-  border-color: var(--neutral-30);
+  color: var(--app-accent-strong, var(--color-text-strong));
+  border-color: var(--app-accent, var(--neutral-30));
 }
 
 .app-nav a[aria-current="page"] {
-  background: var(--neutral-90);
-  border-color: var(--neutral-90);
+  background: var(--app-accent-strong, var(--neutral-90));
+  border-color: var(--app-accent-strong, var(--neutral-90));
   color: var(--neutral-0);
 }
 
@@ -340,14 +340,14 @@ body {
 }
 
 .content-body a {
-  color: var(--neutral-60);
+  color: var(--app-accent-strong, var(--neutral-60));
   text-decoration: underline;
   text-underline-offset: 2px;
   transition: color 200ms ease;
 }
 
 .content-body a:hover {
-  color: var(--color-text-strong);
+  color: var(--app-accent, var(--color-text-strong));
 }
 
 .content-body ul, .content-body ol {
@@ -366,7 +366,7 @@ body {
 }
 
 .content-body blockquote {
-  border-left: 3px solid var(--neutral-30);
+  border-left: 3px solid var(--app-accent, var(--neutral-30));
   margin: 24px 0;
   padding: 12px 20px;
   color: var(--color-text-muted);
@@ -393,7 +393,7 @@ body {
 .content-body th {
   font-weight: 600;
   color: var(--color-text-strong);
-  background: var(--color-bg-subtle);
+  background: var(--app-accent-soft, var(--color-bg-subtle));
   font-size: 13px;
   text-transform: uppercase;
   letter-spacing: 0.04em;

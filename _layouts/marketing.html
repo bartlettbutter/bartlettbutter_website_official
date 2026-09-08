@@ -1,0 +1,41 @@
+---
+layout: default
+---
+{%- comment -%}
+  Marketing layout. Wraps the app's marketing markdown (`{{ content }}`, still
+  authored per language under apps/<app>/marketing-url/<lang>.md) in the shared
+  `default` chrome, then appends any per-app rich sections declared in
+  _data/apps/<app>.yml.
+
+  Apps with no data file render exactly as before — this layout is a no-op for
+  them, so switching a page from `layout: default` to `layout: marketing`
+  leaves its content and links untouched. Apps with a data file gain bespoke
+  sections (screenshot showcases today; video, custom blocks, etc. later)
+  without touching their translated prose.
+
+  The app slug is the first path segment of the URL; the language is page.lang
+  (English falls back to the `en` entry so every localized page still renders a
+  showcase even before its own translation lands).
+{%- endcomment -%}
+{%- comment -%}
+  Placement: the showcase is injected wherever the page's markdown places the
+  literal marker `<!--showcase-->` (authored just after the hero / App Store
+  badge, so screenshots read as the second section). The marker survives
+  kramdown as an HTML comment, so splitting the rendered `content` on it gives
+  the pre-marker hero and the post-marker prose. Pages with showcase data but
+  no marker get the showcase appended after their content; pages with no data
+  render their markdown untouched.
+{%- endcomment -%}
+{%- assign m_url_parts = page.url | split: "/" -%}
+{%- assign m_app_slug = m_url_parts[1] -%}
+{%- assign m_lang = page.lang | default: "en" -%}
+{%- assign m_app = site.data.apps[m_app_slug] -%}
+{%- if m_app -%}{%- assign m_data = m_app[m_lang] | default: m_app["en"] -%}{%- endif -%}
+{%- if m_data.showcase -%}
+  {%- assign m_parts = content | split: "<!--showcase-->" -%}
+  {{ m_parts[0] }}
+  {%- include marketing/showcase.html showcase=m_data.showcase -%}
+  {%- if m_parts.size > 1 -%}{{ m_parts[1] }}{%- endif -%}
+{%- else -%}
+  {{ content }}
+{%- endif -%}

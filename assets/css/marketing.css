@@ -1,0 +1,173 @@
+/* ============================================
+   Bartlett Butter — Marketing Style
+   Per-app rich sections layered on top of the shared subpage.css chrome.
+   Loaded only on marketing pages (see _layouts/default.html). Anything here
+   is additive: apps without showcase data never render these elements.
+   ============================================ */
+
+/* ─── Screenshot showcase ─── */
+/* Negative inline margins cancel .content-body's 40px padding so the section
+   spans the full content column as a distinct band. */
+.app-showcase {
+  margin: 72px -40px 8px;
+  padding: 64px 40px 8px;
+  border-top: 1px solid var(--color-border);
+}
+
+.app-showcase-head {
+  max-width: 640px;
+  margin: 0 auto 8px;
+  text-align: center;
+}
+
+.app-showcase-label {
+  display: inline-block;
+  margin-bottom: 12px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--app-accent-strong, var(--color-text-muted));
+}
+
+.app-showcase-title {
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--color-text-strong);
+}
+
+.app-showcase-intro {
+  margin-top: 14px;
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--color-text-muted);
+}
+
+.app-showcase-list {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-top: 56px;
+}
+
+.showcase-item {
+  display: flex;
+  align-items: center;
+  gap: 48px;
+}
+
+/* Alternate which side the mockup sits on down the page. */
+.showcase-item:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.showcase-media {
+  flex: none;
+  width: 280px;
+}
+
+.showcase-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 22px;
+  box-shadow: 0 24px 60px rgba(3, 7, 18, 0.14);
+}
+
+.showcase-copy {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.showcase-step {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 30px;
+  height: 30px;
+  padding: 0 10px;
+  margin-bottom: 14px;
+  border-radius: 999px;
+  background: var(--app-accent-soft, var(--color-bg-subtle));
+  border: 1px solid var(--app-accent, var(--color-border));
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--app-accent-strong, var(--color-text-muted));
+}
+
+.showcase-item-title {
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--color-text-strong);
+  margin-bottom: 12px;
+}
+
+.showcase-item-body {
+  font-size: 16px;
+  line-height: 1.65;
+  color: var(--color-text-muted);
+}
+
+/* ─── Scroll reveal ─── */
+/* Reveal targets are only hidden once marketing.js has confirmed it can animate
+   them (it adds .js-reveal to <html>). Without JS — or under reduced motion,
+   where the script deliberately skips adding the class — .reveal stays fully
+   visible, so content is never trapped behind an animation that won't run. */
+.js-reveal .reveal {
+  opacity: 0;
+  transform: translateY(26px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+  will-change: opacity, transform;
+}
+
+.js-reveal .reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+/* ─── Responsive ─── */
+@media (max-width: 768px) {
+  /* Horizontal values mirror .content-body's ≤768px padding (20px) so the
+     band spans the content column exactly without overflowing. */
+  .app-showcase {
+    margin: 56px -20px 8px;
+    padding: 48px 20px 8px;
+  }
+
+  .app-showcase-title {
+    font-size: 24px;
+  }
+
+  .app-showcase-list {
+    gap: 56px;
+    margin-top: 44px;
+  }
+
+  .showcase-item,
+  .showcase-item:nth-child(even) {
+    flex-direction: column;
+    gap: 24px;
+    text-align: center;
+  }
+
+  .showcase-media {
+    width: 232px;
+  }
+
+  .showcase-step {
+    margin-inline: auto;
+  }
+}
+
+/* Respect reduced-motion: even if .js-reveal is present, show targets
+   immediately with no transition. (marketing.js also skips adding .js-reveal
+   under reduced motion, so this is a belt-and-suspenders safeguard.) */
+@media (prefers-reduced-motion: reduce) {
+  .js-reveal .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}

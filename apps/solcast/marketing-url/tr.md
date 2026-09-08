@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Gününüze göre uyarlanmış kişiselleştirilmiş yaşam tarzı rehberliğiyle gerçek zamanlı hava durumu."

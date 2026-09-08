@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Fotoğraflardan paletler çıkarın ve yaratıcı araçlarla görüntüleri dönüştürün. Ücretsiz, gizli, hesap gerekmez."

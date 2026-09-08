@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "實時天氣，配以個性化生活方式指導，為您的一天量身定製。"

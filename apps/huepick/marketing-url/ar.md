@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "استخرج لوحات الألوان من الصور وحوّل الصور بأدوات إبداعية. مجاني، وخاص، ولا يحتاج إلى حساب."

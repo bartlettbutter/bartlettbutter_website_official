@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: marketing
 title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
 app_description: "Echtzeit-Wetter mit personalisierten Lifestyle-Empfehlungen, zugeschnitten auf deinen Tag."

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: app-journeyfolio
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
 app_description: "より賢く計画。より軽やかに旅する。すべての旅を、1つの美しいハブに。"
@@ -15,6 +15,8 @@ redirect_from:
 スクリーンショット、散らばったメール、書きかけの表計算に振り回されるのはもうやめましょう。Journeyfolioは、フライト、ホテル、書類、リアルタイムの天気、リアルタイムのフライト状況をまとめ、あなたの旅全体を美しく整理された旅程にします。だから旅そのものに集中できます。
 
 [![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/journeyfolio/id6762172188)
+
+<!--showcase-->
 
 ## 旅行者がJourneyfolioを選ぶ理由
 

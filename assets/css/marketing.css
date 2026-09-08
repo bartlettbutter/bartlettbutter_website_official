@@ -608,6 +608,15 @@ h3.marketing-price-summary {
   transform: none;
 }
 
+/* Gallery frames live in a horizontal scroller, so frames off-screen to the
+   right never intersect the viewport and would stay stuck hidden. Keep them
+   always visible (the gallery heading still fades in) so every mockup is
+   rendered and reachable by scrolling the strip. */
+.js-reveal .hero-gallery-frame.reveal {
+  opacity: 1;
+  transform: none;
+}
+
 /* ─── Responsive ─── */
 @media (max-width: 768px) {
   .marketing-chip-row {
@@ -769,19 +778,36 @@ h3.marketing-price-summary {
   -webkit-overflow-scrolling: touch;
 }
 
-/* Wide, centered rows still look balanced when the mockups don't fill the
-   viewport: auto side margins center a short strip, while a long one scrolls. */
+/* Wide screens: the strip is a horizontal scroller. `safe center` centers the
+   frames when they all fit and falls back to start-alignment (so the row stays
+   scrollable from the beginning) when there are more mockups than fit. A slim,
+   always-visible scrollbar signals that the strip scrolls, so every mockup is
+   reachable by dragging the scrollbar, two-finger/wheel scroll, or keyboard. */
 @media (min-width: 769px) {
   .hero-gallery-track {
-    scroll-snap-type: none;
+    justify-content: safe center;
+    scroll-snap-type: x proximity;
+    scrollbar-width: thin;
+    scrollbar-color: var(--app-accent, var(--neutral-40)) transparent;
   }
 
-  .hero-gallery-frame:first-child {
-    margin-left: auto;
+  .hero-gallery-frame {
+    scroll-snap-align: center;
   }
 
-  .hero-gallery-frame:last-child {
-    margin-right: auto;
+  /* Always-visible slim scrollbar so the scroll affordance is obvious on
+     desktop (WebKit/Blink; Firefox uses scrollbar-color above). */
+  .hero-gallery-track::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .hero-gallery-track::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .hero-gallery-track::-webkit-scrollbar-thumb {
+    background: var(--app-accent, var(--neutral-40));
+    border-radius: 999px;
   }
 }
 

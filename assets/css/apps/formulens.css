@@ -21,11 +21,29 @@
 /* Lead subhead: the bold sentence immediately after the title. */
 .fl-page h1:first-child + p {
   max-width: 640px;
-  margin: 0 auto 20px;
+  margin: 0 auto 24px;
   font-size: 19px;
   line-height: 1.6;
   text-align: center;
   color: var(--color-text-strong);
+}
+
+.fl-page h2 + ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  padding-left: 0;
+  list-style: none;
+}
+
+.fl-page h2 + ul li {
+  margin-bottom: 0;
+  padding: 22px 24px;
+  border: 1px solid var(--app-accent-soft);
+  border-radius: 24px;
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFF7FA 100%);
+  box-shadow: 0 18px 42px rgba(138, 23, 58, 0.08);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
 }
 
 /* Section headings get a hairline accent rule above them. */
@@ -47,19 +65,76 @@
   color: var(--app-accent);
 }
 
+.fl-page ol {
+  padding-left: 0;
+  list-style: none;
+  counter-reset: fl-step;
+}
+
+.fl-page ol > li {
+  position: relative;
+  margin-bottom: 16px;
+  padding: 18px 24px 18px 70px;
+  counter-increment: fl-step;
+  border: 1px solid var(--app-accent-soft);
+  border-radius: 24px;
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFF8FB 100%);
+  box-shadow: 0 18px 42px rgba(138, 23, 58, 0.06);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.fl-page ol > li::before {
+  content: counter(fl-step);
+  position: absolute;
+  inset-inline-start: 20px;
+  top: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--app-accent) 0%, var(--app-accent-strong) 100%);
+  color: #FFFFFF;
+  font-weight: 700;
+}
+
 /* Showcase: soft magenta band, tinted device edges. */
 .app-showcase--fl {
   border-top-color: var(--app-accent-soft);
   border-radius: 24px;
-  background: linear-gradient(180deg, var(--app-accent-soft) 0%, transparent 55%);
+  background:
+    radial-gradient(circle at 88% 14%, rgba(228, 77, 141, 0.12) 0%, transparent 24%),
+    linear-gradient(180deg, var(--app-accent-soft) 0%, transparent 55%);
 }
 
 .app-showcase--fl .showcase-media img {
   border: 1px solid var(--app-accent-soft);
 }
 
+.app-showcase--fl .showcase-item {
+  border-color: rgba(138, 23, 58, 0.08);
+}
+
+.app-showcase--fl .showcase-step {
+  background: linear-gradient(135deg, #FFFFFF 0%, #FFF0F6 100%);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .fl-page h2 + ul li:hover,
+  .fl-page ol > li:hover {
+    transform: translateY(-2px);
+    border-color: rgba(138, 23, 58, 0.16);
+    box-shadow: 0 22px 48px rgba(138, 23, 58, 0.1);
+  }
+}
+
 @media (max-width: 768px) {
   .fl-page h1:first-child {
     font-size: 30px;
+  }
+
+  .fl-page h2 + ul {
+    grid-template-columns: 1fr;
   }
 }

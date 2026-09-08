@@ -11,11 +11,11 @@
 {%- assign app_slug = url_parts[1] -%}
 {%- if page.url contains "/support/" -%}
   {%- assign section = "support" -%}
-  {%- assign page_kind = "Support" -%}
+  {%- assign page_kind = page.app_description | default: "Support" -%}
   {%- assign kind_meta = page.title | append: " support — answers to common questions and how to reach Bartlett Butter." -%}
 {%- elsif page.url contains "/privacy/" -%}
   {%- assign section = "privacy" -%}
-  {%- assign page_kind = "Privacy Policy" -%}
+  {%- assign page_kind = page.app_description | default: "Privacy Policy" -%}
   {%- assign kind_meta = "How " | append: page.title | append: " handles your data — the full privacy policy from Bartlett Butter." -%}
 {%- else -%}
   {%- assign section = "marketing" -%}
@@ -65,6 +65,7 @@
   {%- when "nekopedia" -%}{%- assign browser_theme_color = "#52257E" -%}
   {%- when "solcast" -%}{%- assign browser_theme_color = "#A55B10" -%}
 {%- endcase -%}
+{%- assign ui = site.data.ui_strings[page.lang | default: "en"] | default: site.data.ui_strings.en -%}
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: 'en' }}"{% if page.lang == 'ar' %} dir="rtl"{% endif %}>
 <head>
@@ -130,8 +131,12 @@
   {% if section == "marketing" and app_slug == "formulens" %}<link rel="stylesheet" href="/assets/css/apps/formulens.css">{% endif %}
   {% if section == "marketing" and app_slug == "journeyfolio" %}<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet"><link rel="stylesheet" href="/assets/css/apps/journeyfolio.css">{% endif %}
 </head>
-<body{% if app_slug and app_slug != "" %} data-app="{{ app_slug }}"{% endif %}>
-  <a href="#main" class="skip-link">Skip to content</a>
+<body{% if app_slug and app_slug != "" %} data-app="{{ app_slug }}"{% endif %}
+  data-ui-on-this-page="{{ ui.on_this_page | escape }}"
+  data-ui-scroll-table="{{ ui.scroll_table | escape }}"
+  data-ui-development-in-progress="{{ ui.development_in_progress | escape }}"
+  data-ui-google-play-coming-soon="{{ ui.google_play_coming_soon | escape }}">
+  <a href="#main" class="skip-link">{{ ui.skip_to_content }}</a>
 
   <!-- Navigation -->
   <nav class="nav">
@@ -141,8 +146,8 @@
     </a>
     <div class="nav-actions">
       <a href="/" class="nav-back nav-action-link">
-        <span aria-hidden="true">&larr;</span>
-        <span>Back to Home</span>
+        <span aria-hidden="true">{% if page.lang == "ar" %}&rarr;{% else %}&larr;{% endif %}</span>
+        <span>{{ ui.back_to_home }}</span>
       </a>
       {% if page_languages %}
       <div class="language-picker{% if page_languages.size == 1 %} language-picker--single{% endif %}">
@@ -154,7 +159,7 @@
               <path d="M5 7.5 10 12.5 15 7.5" stroke-linecap="round" stroke-linejoin="round" />
             </svg>
           </summary>
-          <nav class="language-picker-list" aria-label="Available languages">
+          <nav class="language-picker-list" aria-label="{{ ui.language_menu }}">
             {% for option in page_languages %}
               {% if option.code == "en" %}{% assign option_url = lang_base_url %}{% else %}{% assign option_url = lang_base_url | append: option.code | append: "/" %}{% endif %}
               {% if page.url == option_url %}
@@ -180,14 +185,23 @@
       <img src="{{ page.app_icon }}" alt="{{ page.title }} icon" class="app-icon" width="120" height="120">
       <h1>{{ page.title }}</h1>
       {% if page.app_description %}<p title="{{ page.app_description }}">{{ page.app_description }}</p>{% endif %}
+      {% if section == "marketing" and page.app_store_url %}
+      <a href="{{ page.app_store_url }}" class="app-cta" aria-label="{{ ui.download_on_app_store }}: {{ page.title }}">
+        <span>{{ ui.download_on_app_store }}</span>
+        <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+          <path d="M5 10h10" stroke-linecap="round" />
+          <path d="m11 6 4 4-4 4" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </a>
+      {% endif %}
 
       {%- if app_slug and app_slug != "" -%}
       {%- comment -%} Keep the current language (as a trailing segment) when moving between an app's pages. {%- endcomment -%}
       {%- if page_languages and current_code != "en" -%}{%- assign nav_lang_suffix = current_code | append: "/" -%}{%- else -%}{%- assign nav_lang_suffix = "" -%}{%- endif -%}
-      <nav class="app-nav" aria-label="{{ page.title }} pages">
-        <a href="/{{ app_slug }}/{{ nav_lang_suffix }}"{% if section == "marketing" %} aria-current="page"{% endif %}>Overview</a>
-        <a href="/{{ app_slug }}/support/{{ nav_lang_suffix }}"{% if section == "support" %} aria-current="page"{% endif %}>Support</a>
-        <a href="/{{ app_slug }}/privacy/{{ nav_lang_suffix }}"{% if section == "privacy" %} aria-current="page"{% endif %}>Privacy</a>
+      <nav class="app-nav" aria-label="{{ page.title }} {{ ui.app_pages }}">
+        <a href="/{{ app_slug }}/{{ nav_lang_suffix }}"{% if section == "marketing" %} aria-current="page"{% endif %}>{{ ui.overview }}</a>
+        <a href="/{{ app_slug }}/support/{{ nav_lang_suffix }}"{% if section == "support" %} aria-current="page"{% endif %}>{{ ui.support }}</a>
+        <a href="/{{ app_slug }}/privacy/{{ nav_lang_suffix }}"{% if section == "privacy" %} aria-current="page"{% endif %}>{{ ui.privacy }}</a>
       </nav>
       {%- endif -%}
     </div>

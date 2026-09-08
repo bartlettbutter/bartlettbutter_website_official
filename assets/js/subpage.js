@@ -8,6 +8,12 @@
 (function () {
   'use strict';
 
+  var body = document.body;
+  var onThisPage = (body && body.getAttribute('data-ui-on-this-page')) || 'On this page';
+  var scrollTable = (body && body.getAttribute('data-ui-scroll-table')) || 'Scroll horizontally to see more →';
+  var developmentInProgress = (body && body.getAttribute('data-ui-development-in-progress')) || 'Development in progress';
+  var googlePlayComingSoon = (body && body.getAttribute('data-ui-google-play-coming-soon')) || ('Get it on Google Play — ' + developmentInProgress);
+
   // --- In-page table of contents ---
   // Build a jump-link TOC from the h2 headings on long-form support/privacy
   // pages, giving visitors wayfinding instead of a long uninterrupted scroll.
@@ -29,11 +35,11 @@
     var used = {};
     var nav = document.createElement('nav');
     nav.className = 'page-toc';
-    nav.setAttribute('aria-label', 'On this page');
+    nav.setAttribute('aria-label', onThisPage);
 
     var label = document.createElement('p');
     label.className = 'page-toc-label';
-    label.textContent = 'On this page';
+    label.textContent = onThisPage;
     nav.appendChild(label);
 
     var list = document.createElement('ul');
@@ -83,7 +89,7 @@
 
       var hint = document.createElement('p');
       hint.className = 'table-hint';
-      hint.textContent = 'Scroll horizontally to see more →';
+      hint.textContent = scrollTable;
       wrapper.parentNode.insertBefore(hint, wrapper.nextSibling);
 
       var updateCue = function () {
@@ -103,24 +109,6 @@
   // markdown. Our apps are not on Google Play yet, so we left-align that badge
   // and place a Google Play badge beside it that, when clicked, reveals a
   // localized "development in progress" note instead of navigating anywhere.
-  var IN_PROGRESS = {
-    en: 'Development in progress',
-    ar: 'قيد التطوير',
-    de: 'In Entwicklung',
-    es: 'En desarrollo',
-    fr: 'En cours de développement',
-    hi: 'विकास जारी है',
-    it: 'In fase di sviluppo',
-    ja: '開発中',
-    ko: '개발 진행 중',
-    nl: 'In ontwikkeling',
-    pt: 'Em desenvolvimento',
-    ru: 'В разработке',
-    tr: 'Geliştirme aşamasında',
-    'zh-Hans': '开发中',
-    'zh-Hant': '開發中'
-  };
-
   function enhanceStoreBadges() {
     var body = document.querySelector('.content-body');
     if (!body) return;
@@ -133,8 +121,7 @@
     var appLink = badgeImg.closest('a');
     if (!appLink) return;
 
-    var lang = document.documentElement.lang || 'en';
-    var message = IN_PROGRESS[lang] || IN_PROGRESS.en;
+    var message = developmentInProgress;
 
     // Wrap the App Store badge in a flex row and move it inside.
     var row = document.createElement('div');
@@ -146,7 +133,7 @@
     var playBtn = document.createElement('button');
     playBtn.type = 'button';
     playBtn.className = 'store-badge-play';
-    playBtn.setAttribute('aria-label', 'Get it on Google Play — ' + message);
+    playBtn.setAttribute('aria-label', googlePlayComingSoon);
 
     var playImg = document.createElement('img');
     playImg.src = '/assets/badges/get-it-on-google-play.svg';

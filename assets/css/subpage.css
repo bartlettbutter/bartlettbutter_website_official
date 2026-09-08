@@ -98,7 +98,7 @@ body {
   justify-content: flex-end;
   gap: 20px;
   row-gap: 4px;
-  margin-left: auto;
+  margin-inline-start: auto;
   flex-wrap: wrap;
 }
 
@@ -363,7 +363,7 @@ body {
 }
 
 .content-body ul, .content-body ol {
-  padding-left: 24px;
+  padding-inline-start: 24px;
   margin-bottom: 16px;
 }
 
@@ -378,13 +378,13 @@ body {
 }
 
 .content-body blockquote {
-  border-left: 3px solid var(--app-accent, var(--neutral-30));
+  border-inline-start: 3px solid var(--app-accent, var(--neutral-30));
   margin: 24px 0;
   padding: 12px 20px;
   color: var(--color-text-muted);
   font-style: italic;
   background: var(--color-bg-subtle);
-  border-radius: 0 8px 8px 0;
+  border-radius: 8px;
 }
 
 .content-body table {
@@ -396,7 +396,7 @@ body {
 }
 
 .content-body th, .content-body td {
-  text-align: left;
+  text-align: start;
   padding: 12px 16px;
   border-bottom: 1px solid var(--color-border);
   vertical-align: top;
@@ -608,7 +608,7 @@ body {
      logo yields space instead of the actions wrapping. */
   .nav-actions {
     width: auto;
-    margin-left: auto;
+    margin-inline-start: auto;
     justify-content: flex-end;
     gap: 12px;
     row-gap: 2px;
@@ -700,7 +700,7 @@ a:focus-visible {
    "jump to content" affordance across every surface. Visible only on focus. */
 .skip-link {
   position: absolute;
-  left: 16px;
+  inset-inline-start: 16px;
   top: -60px;
   z-index: 200;
   background: var(--neutral-90);
@@ -804,7 +804,6 @@ a:focus-visible {
 .language-picker-list {
   position: absolute;
   top: calc(100% + 14px);
-  right: 0;
   inset-inline-end: 0;
   z-index: 20;
   display: grid;
@@ -862,8 +861,6 @@ a:focus-visible {
   .language-picker-list {
     position: fixed;
     top: calc(100% + 12px);
-    right: 16px;
-    left: auto;
     inset-inline-end: 16px;
     inset-inline-start: auto;
     width: min(88vw, 280px);

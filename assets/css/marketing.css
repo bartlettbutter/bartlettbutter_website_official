@@ -785,7 +785,10 @@ h3.marketing-price-summary {
    reachable by dragging the scrollbar, two-finger/wheel scroll, or keyboard. */
 @media (min-width: 769px) {
   .hero-gallery-track {
-    justify-content: safe center;
+    /* flex-start (not center) so an overflowing strip is reliably scrollable
+       from the very first frame in both directions — `safe center` has patchy
+       support and can strand the leading frames off the left edge. */
+    justify-content: flex-start;
     scroll-snap-type: x proximity;
     /* Auto-scroll on hover (see marketing.js) is the primary way to browse the
        strip, so keep the scrollbar a quiet, thin fallback rather than a loud
@@ -794,14 +797,8 @@ h3.marketing-price-summary {
     scrollbar-color: var(--neutral-30) transparent;
   }
 
-  /* Size each frame so exactly 5 mockups are visible by default: the track's
-     visible area is the viewport minus its side padding (clamp(40px,6vw,64px)
-     each side); subtract the 4 gaps between 5 frames, then divide by 5. The
-     lower clamp bound keeps frames sensible on smaller laptops; the upper
-     bound stops them ballooning on very wide monitors. */
   .hero-gallery-frame {
     scroll-snap-align: center;
-    width: clamp(150px, calc((100vw - 2 * clamp(40px, 6vw, 64px) - 4 * clamp(16px, 2.2vw, 28px)) / 5), 232px);
   }
 
   /* Quiet slim scrollbar — a fallback for anyone who prefers dragging; the
@@ -823,7 +820,12 @@ h3.marketing-price-summary {
 
 .hero-gallery-frame {
   flex: 0 0 auto;
-  width: clamp(150px, 17vw, 208px);
+  /* Show exactly 5 mockups by default: the visible strip is the viewport minus
+     the track's side padding (clamp(40px,6vw,64px) each side); subtract the 4
+     gaps between 5 frames, then divide by 5. Floors at 150px on small laptops
+     and caps at 232px so frames don't balloon on wide monitors. The mobile
+     rule below (max-width:768px) overrides this to a swipeable 60vw. */
+  width: clamp(150px, calc((100vw - 2 * clamp(40px, 6vw, 64px) - 4 * clamp(16px, 2.2vw, 28px)) / 5), 232px);
   margin: 0;
   padding: 8px;
   border-radius: 26px;

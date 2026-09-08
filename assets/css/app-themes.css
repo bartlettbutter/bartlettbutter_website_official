@@ -19,25 +19,42 @@
 /* Neutral fallback — matches the pre-theme look. */
 :root {
   --app-accent: var(--neutral-60);
+  --app-accent-rgb: 75, 85, 99;
   --app-accent-strong: var(--neutral-90);
+  --app-accent-strong-rgb: 17, 24, 39;
   --app-accent-soft: var(--color-bg-subtle);
+  --app-highlight: #FFFFFF;
   --app-header-bg: var(--color-bg-subtle);
+  --app-ambient: linear-gradient(180deg, rgba(255, 255, 255, 0.98) 0%, rgba(249, 250, 251, 0.96) 100%);
+  --app-card-shadow: 0 24px 60px rgba(3, 7, 18, 0.06);
+  --app-display-font: var(--font);
+  --app-display-weight: 700;
 }
 
 /* Barkpedia — teal badge, warm tan dog. */
 [data-app="barkpedia"] {
   --app-accent: #28B8C7;
+  --app-accent-rgb: 40, 184, 199;
   --app-accent-strong: #153B72;
+  --app-accent-strong-rgb: 21, 59, 114;
   --app-accent-soft: #E4F7FA;
+  --app-highlight: #FFF1D8;
   --app-header-bg: linear-gradient(135deg, #E4F7FA 0%, #EEF3FF 100%);
+  --app-ambient: linear-gradient(180deg, rgba(228, 247, 250, 0.85) 0%, rgba(255, 250, 242, 0.92) 100%);
+  --app-card-shadow: 0 24px 60px rgba(21, 59, 114, 0.08);
 }
 
 /* ETFWise — finance green with a rising blue arrow. */
 [data-app="etfwise"] {
   --app-accent: #2D8D62;
+  --app-accent-rgb: 45, 141, 98;
   --app-accent-strong: #1C5A95;
+  --app-accent-strong-rgb: 28, 90, 149;
   --app-accent-soft: #EAF6EF;
+  --app-highlight: #FBF2D9;
   --app-header-bg: linear-gradient(135deg, #EAF6EF 0%, #EDF4FB 60%, #FBF2D9 100%);
+  --app-ambient: linear-gradient(180deg, rgba(234, 246, 239, 0.9) 0%, rgba(251, 242, 217, 0.62) 100%);
+  --app-card-shadow: 0 24px 60px rgba(28, 90, 149, 0.08);
 }
 
 /* Huepick — teal camera body over a rainbow color spectrum on cream. The
@@ -45,39 +62,67 @@
    rainbow. */
 [data-app="huepick"] {
   --app-accent: #4A98AF;
+  --app-accent-rgb: 74, 152, 175;
   --app-accent-strong: #2B6B7D;
+  --app-accent-strong-rgb: 43, 107, 125;
   --app-accent-soft: #F8EEDC;
+  --app-highlight: #FCE9F1;
   --app-header-bg: linear-gradient(120deg, #F8EEDC 0%, #FCE9F1 32%, #EAF0FB 66%, #EAF7EF 100%);
+  --app-ambient: linear-gradient(180deg, rgba(248, 238, 220, 0.94) 0%, rgba(252, 233, 241, 0.78) 52%, rgba(234, 240, 251, 0.9) 100%);
+  --app-card-shadow: 0 24px 60px rgba(43, 107, 125, 0.08);
 }
 
 /* Nekopedia — purple badge, warm tan cat. */
 [data-app="nekopedia"] {
   --app-accent: #A45AE0;
+  --app-accent-rgb: 164, 90, 224;
   --app-accent-strong: #52257E;
+  --app-accent-strong-rgb: 82, 37, 126;
   --app-accent-soft: #F3E8FC;
+  --app-highlight: #FFF2E8;
   --app-header-bg: linear-gradient(135deg, #F3E8FC 0%, #FAF4FF 100%);
+  --app-ambient: linear-gradient(180deg, rgba(243, 232, 252, 0.9) 0%, rgba(255, 242, 232, 0.64) 100%);
+  --app-card-shadow: 0 24px 60px rgba(82, 37, 126, 0.08);
 }
 
 /* Solcast — golden sun over a soft cloud. */
 [data-app="solcast"] {
   --app-accent: #E7AB13;
+  --app-accent-rgb: 231, 171, 19;
   --app-accent-strong: #A55B10;
+  --app-accent-strong-rgb: 165, 91, 16;
   --app-accent-soft: #FCF2D6;
+  --app-highlight: #FFFDF6;
   --app-header-bg: linear-gradient(135deg, #FFF7E6 0%, #FCF2D6 52%, #FFFDF6 100%);
+  --app-ambient: linear-gradient(180deg, rgba(255, 247, 230, 0.92) 0%, rgba(252, 242, 214, 0.9) 100%);
+  --app-card-shadow: 0 24px 60px rgba(165, 91, 16, 0.08);
 }
 
 /* FormuLens — magenta field, deep maroon flask. */
 [data-app="formulens"] {
   --app-accent: #E44D8D;
+  --app-accent-rgb: 228, 77, 141;
   --app-accent-strong: #8A173A;
+  --app-accent-strong-rgb: 138, 23, 58;
   --app-accent-soft: #FBE6EE;
+  --app-highlight: #FFF3F7;
   --app-header-bg: linear-gradient(135deg, #FBE6EE 0%, #FFF7FA 100%);
+  --app-ambient: linear-gradient(180deg, rgba(251, 230, 238, 0.94) 0%, rgba(255, 243, 247, 0.94) 62%, rgba(255, 255, 255, 0.98) 100%);
+  --app-card-shadow: 0 26px 68px rgba(138, 23, 58, 0.09);
+  --app-display-weight: 700;
 }
 
 /* Journeyfolio — blue travel folder with warm ticket / sun details. */
 [data-app="journeyfolio"] {
   --app-accent: #2F71E5;
+  --app-accent-rgb: 47, 113, 229;
   --app-accent-strong: #1B4EAD;
+  --app-accent-strong-rgb: 27, 78, 173;
   --app-accent-soft: #E8F0FE;
+  --app-highlight: #FFF4C9;
   --app-header-bg: linear-gradient(135deg, #E8F0FE 0%, #F6FAFF 64%, #FFF4C9 100%);
+  --app-ambient: linear-gradient(180deg, rgba(232, 240, 254, 0.92) 0%, rgba(246, 250, 255, 0.96) 48%, rgba(255, 244, 201, 0.54) 100%);
+  --app-card-shadow: 0 28px 72px rgba(27, 78, 173, 0.09);
+  --app-display-font: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --app-display-weight: 600;
 }

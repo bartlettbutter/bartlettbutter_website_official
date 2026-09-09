@@ -730,16 +730,14 @@ h3.marketing-price-summary {
 }
 
 /* ─── Hero mockup gallery ─── */
-/* A visual strip of device mockups shown just below the page hero, above the
-   narrative .app-showcase. Full-bleed within the content column (matching the
-   showcase band's negative margins). The mockups sit in a centered, wrapping
-   row on wide screens and scroll horizontally on narrow ones. */
+/* The marketing hero needs two behaviors:
+   1. A safe fallback strip that always exposes every screenshot.
+   2. A desktop enhancement that turns paired screenshots into a centered flip
+      deck, so moving the mouse left/right swaps the visible set without
+      buttons. */
 .hero-gallery {
-  /* No horizontal margin/padding here: the heading is centered on its own and
-     the track below handles its own full-bleed break-out, so this wrapper stays
-     the width of the content column and the track's calc(50% - 50vw) resolves
-     cleanly against it. */
   margin: clamp(32px, 5vw, 48px) 0 8px;
+  padding-inline: clamp(4px, 1vw, 12px);
 }
 
 .hero-gallery-head {
@@ -765,58 +763,77 @@ h3.marketing-price-summary {
   color: var(--color-text-strong);
 }
 
-/* Single-line strip: all mockups sit on one row that scrolls horizontally. The
-   track is a fixed-width, centered scroll box sized to show exactly 5 fixed-
-   size frames; the rest are reached by scrolling (hover auto-scroll, wheel, or
-   the slim scrollbar). Frames keep a constant size at any window width. */
-.hero-gallery-track {
+.hero-gallery-track--fallback,
+.hero-gallery-flip-track {
+  --hero-gallery-gap: clamp(14px, 2vw, 24px);
+  --hero-gallery-gutter: clamp(18px, 3vw, 34px);
+}
+
+/* Fallback: keep every screenshot reachable in one horizontal strip. */
+.hero-gallery-track--fallback {
   display: flex;
   flex-wrap: nowrap;
   justify-content: flex-start;
-  /* Fixed gap (matches the fixed 200px frame) so the strip layout stays stable
-     and doesn't reflow as the window resizes. */
-  gap: 24px;
-  /* Cap the visible strip to exactly 5 fixed-width frames and center it in the
-     page, so ~5 mockups show by default at any window size and the rest scroll.
-     Width = 5 frames (200px) + 4 gaps (24px) + a little horizontal padding.
-     20px so the first/last frame edges aren't flush against the scroll box. */
+  gap: var(--hero-gallery-gap);
   width: 100%;
-  max-width: calc(5 * 200px + 4 * 24px + 40px);
+  max-width: calc(5 * 200px + 4 * 24px + 2 * var(--hero-gallery-gutter));
   margin: 0 auto;
-  padding: 8px 20px 16px;
+  padding: 12px var(--hero-gallery-gutter) 16px;
   overflow-x: auto;
   scroll-snap-type: x proximity;
   -webkit-overflow-scrolling: touch;
 }
 
-/* Wide screens: keep the scroll affordance quiet. flex-start guarantees the
-   overflowing strip is scrollable from the first frame; the hover auto-scroll
-   (marketing.js) is the primary way to browse, so the scrollbar is a thin,
-   neutral fallback. */
+/* Enhanced desktop deck: hidden until marketing.js confirms that hover and
+   motion are appropriate. */
+.hero-gallery-flip-track {
+  display: none;
+  align-items: stretch;
+  gap: var(--hero-gallery-gap);
+  width: min(100%, calc(var(--hero-gallery-columns) * 188px + (var(--hero-gallery-columns) - 1) * var(--hero-gallery-gap) + 2 * var(--hero-gallery-gutter)));
+  margin: 0 auto;
+  padding: 12px var(--hero-gallery-gutter) 20px;
+  perspective: 1800px;
+  transform-style: preserve-3d;
+  --hero-gallery-rotation: 0deg;
+  --hero-gallery-tilt-x: 0deg;
+  --hero-gallery-tilt-y: 0deg;
+}
+
+.js-gallery-flip .hero-gallery-flip-track {
+  display: flex;
+}
+
+/* Keep the authored strip available to assistive tech even when the visual
+   desktop enhancement is active. */
+.js-gallery-flip .hero-gallery-track--fallback {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
 @media (min-width: 769px) {
-  .hero-gallery-track {
-    justify-content: flex-start;
-    scroll-snap-type: x proximity;
+  .hero-gallery-track--fallback {
     scrollbar-width: thin;
     scrollbar-color: var(--neutral-30) transparent;
   }
 
-  .hero-gallery-frame {
-    scroll-snap-align: center;
-  }
-
-  /* Quiet slim scrollbar — a fallback for anyone who prefers dragging; the
-     hover auto-scroll is the main interaction (WebKit/Blink; Firefox uses
-     scrollbar-color above). */
-  .hero-gallery-track::-webkit-scrollbar {
+  .hero-gallery-track--fallback::-webkit-scrollbar {
     height: 6px;
   }
 
-  .hero-gallery-track::-webkit-scrollbar-track {
+  .hero-gallery-track--fallback::-webkit-scrollbar-track {
     background: transparent;
   }
 
-  .hero-gallery-track::-webkit-scrollbar-thumb {
+  .hero-gallery-track--fallback::-webkit-scrollbar-thumb {
     background: var(--neutral-30);
     border-radius: 999px;
   }
@@ -824,10 +841,6 @@ h3.marketing-price-summary {
 
 .hero-gallery-frame {
   flex: 0 0 auto;
-  /* Fixed frame size so mockups do NOT resize as the window is dragged — they
-     stay a stable, comfortable size and the strip simply shows more/fewer at a
-     time. The mobile rule below (max-width:768px) overrides this to a swipeable
-     60vw so phones still get a comfortably large frame. */
   width: 200px;
   margin: 0;
   padding: 8px;
@@ -845,10 +858,68 @@ h3.marketing-price-summary {
   box-shadow: 0 18px 44px rgba(3, 7, 18, 0.14);
 }
 
+.hero-gallery-frame--flip {
+  flex: 1 1 0;
+  width: auto;
+  max-width: 188px;
+  min-width: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  box-shadow: none;
+}
+
+.hero-gallery-card-shell {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 660 / 1434;
+  transform-style: preserve-3d;
+  transition: transform 620ms cubic-bezier(0.22, 0.76, 0.18, 1), box-shadow 260ms ease;
+  transition-delay: var(--hero-gallery-stagger, 0ms);
+  will-change: transform;
+}
+
+.js-gallery-flip .hero-gallery-flip-track .hero-gallery-card-shell {
+  transform: rotateX(var(--hero-gallery-tilt-y)) rotateY(calc(var(--hero-gallery-rotation) + var(--hero-gallery-tilt-x)));
+}
+
+.js-gallery-flip .hero-gallery-flip-track.is-flipped-forward {
+  --hero-gallery-rotation: -180deg;
+}
+
+.hero-gallery-card-face {
+  position: absolute;
+  inset: 0;
+  padding: 8px;
+  border-radius: 26px;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border: 1px solid var(--app-accent-soft, var(--color-border));
+  background: linear-gradient(180deg, #FFFFFF 0%, var(--app-accent-soft, var(--color-bg-subtle)) 100%);
+  box-shadow: 0 20px 48px rgba(3, 7, 18, 0.12);
+}
+
+.hero-gallery-card-face--back {
+  transform: rotateY(180deg);
+}
+
+.hero-gallery-card-face img {
+  height: 100%;
+  object-fit: cover;
+}
+
 @media (hover: hover) and (pointer: fine) {
   .hero-gallery-frame:hover {
     transform: translateY(-4px);
     box-shadow: 0 24px 56px rgba(3, 7, 18, 0.12);
+  }
+
+  .js-gallery-flip .hero-gallery-frame--flip:hover {
+    transform: translateY(-6px);
+  }
+
+  .js-gallery-flip .hero-gallery-frame--flip:hover .hero-gallery-card-face {
+    box-shadow: 0 28px 64px rgba(3, 7, 18, 0.14);
   }
 }
 
@@ -862,25 +933,40 @@ h3.marketing-price-summary {
     font-size: 22px;
   }
 
-  /* Horizontal scroll strip on phones: mockups keep a comfortable size and the
-     row scrolls, rather than shrinking to fit. Drop the desktop 5-frame cap and
-     let the strip span the screen (with a small negative-margin breakout so the
-     first/last frame breathe against the edges). */
-  .hero-gallery-track {
-    flex-wrap: nowrap;
-    justify-content: flex-start;
+  .hero-gallery-track--fallback {
     gap: 16px;
     max-width: none;
     margin: 0 -20px;
     padding: 4px 20px 12px;
-    overflow-x: auto;
     scroll-snap-type: x mandatory;
-    -webkit-overflow-scrolling: touch;
+  }
+
+  .hero-gallery-flip-track {
+    display: none !important;
   }
 
   .hero-gallery-frame {
     width: 60vw;
     max-width: 240px;
     scroll-snap-align: center;
+  }
+}
+
+@media (max-width: 1100px) {
+  .js-gallery-flip .hero-gallery-track--fallback {
+    position: static;
+    width: 100%;
+    height: auto;
+    padding: 12px var(--hero-gallery-gutter) 16px;
+    margin: 0 auto;
+    overflow-x: auto;
+    clip: auto;
+    clip-path: none;
+    white-space: normal;
+    border: 0;
+  }
+
+  .js-gallery-flip .hero-gallery-flip-track {
+    display: none !important;
   }
 }

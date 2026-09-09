@@ -270,7 +270,6 @@
    white edge to edge and sits behind the gradient box. */
 .fl-page .marketing-cta-panel {
   background: linear-gradient(145deg, rgba(138, 23, 58, 0.98) 0%, rgba(228, 77, 141, 0.9) 100%);
-  isolation: isolate;
 }
 
 .fl-page .marketing-cta-panel::before {

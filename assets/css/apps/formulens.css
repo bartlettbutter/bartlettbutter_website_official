@@ -145,13 +145,13 @@
 }
 
 .hero-gallery--fl .hero-gallery-track--fallback .hero-gallery-frame,
-.hero-gallery--fl .hero-gallery-card-face {
+.hero-gallery--fl .hero-gallery-marquee .hero-gallery-frame {
   border-color: var(--app-accent-soft);
   background: linear-gradient(180deg, #FFFFFF 0%, #FFF0F6 100%);
 }
 
 .hero-gallery--fl .hero-gallery-track--fallback .hero-gallery-frame img,
-.hero-gallery--fl .hero-gallery-card-face img {
+.hero-gallery--fl .hero-gallery-marquee .hero-gallery-frame img {
   border: 1px solid var(--app-accent-soft);
 }
 

@@ -38,16 +38,15 @@
     targets.forEach(function (el) { observer.observe(el); });
   }
 
-  // --- Hero gallery: pointer-direction flip deck ----------------------------
-  // On desktop, paired screenshots flip forward/back as the mouse moves across
-  // the gallery. Moving right reveals the back faces; moving left rotates the
-  // cards back to the fronts. Without this enhancement, the fallback strip
-  // above remains visible and fully usable.
-  function initGalleryFlipDeck() {
-    var tracks = Array.prototype.slice.call(
-      document.querySelectorAll('.hero-gallery-flip-track')
+  // --- Hero gallery: continuous marquee ------------------------------------
+  // On larger desktop screens, progressively enhance the authored screenshot
+  // strip into a slow left-to-right marquee. The original strip stays in the
+  // DOM as the accessible fallback and is what smaller screens continue to use.
+  function initGalleryMarquee() {
+    var marquees = Array.prototype.slice.call(
+      document.querySelectorAll('.hero-gallery-marquee')
     );
-    if (!tracks.length) return;
+    if (!marquees.length) return;
 
     var finePointer = window.matchMedia &&
       window.matchMedia('(hover: hover) and (pointer: fine)').matches;
@@ -55,18 +54,42 @@
       window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (!finePointer || prefersReduced) return;
 
-    function buildFace(img, faceClassName) {
-      var face = document.createElement('div');
-      var clone = img.cloneNode(false);
+    var syncLoopWidths = [];
 
-      face.className = faceClassName;
-      clone.alt = '';
-      face.appendChild(clone);
-      return face;
+    function readGapValue(el) {
+      var styles = window.getComputedStyle(el);
+      var candidates = [styles.gap, styles.columnGap];
+      var i;
+
+      for (i = 0; i < candidates.length; i += 1) {
+        var parsed = parseFloat(candidates[i]);
+        if (!isNaN(parsed)) return parsed;
+      }
+
+      return 0;
     }
 
-    function buildTrack(track) {
-      var section = track.closest('.hero-gallery');
+    function buildGroup(sourceImages) {
+      var group = document.createElement('div');
+      group.className = 'hero-gallery-marquee-group';
+
+      sourceImages.forEach(function (sourceImg) {
+        var frame = document.createElement('figure');
+        var clone = sourceImg.cloneNode(false);
+
+        frame.className = 'hero-gallery-frame';
+        clone.alt = '';
+        clone.loading = 'eager';
+        clone.decoding = 'async';
+        frame.appendChild(clone);
+        group.appendChild(frame);
+      });
+
+      return group;
+    }
+
+    function buildMarquee(marquee) {
+      var section = marquee.closest('.hero-gallery');
       var fallbackTrack = section &&
         section.querySelector('.hero-gallery-track--fallback');
       var sourceImages = fallbackTrack
@@ -74,120 +97,48 @@
         : [];
       if (!sourceImages.length) return false;
 
-      var columns = Math.ceil(sourceImages.length / 2);
-      track.innerHTML = '';
-      track.style.setProperty('--hero-gallery-columns', columns);
+      var inner = document.createElement('div');
+      var groupA = buildGroup(sourceImages);
+      var groupB = buildGroup(sourceImages);
 
-      sourceImages.slice(0, columns).forEach(function (frontImg, index) {
-        var backImg = sourceImages[index + columns] || frontImg;
-        var frame = document.createElement('figure');
-        var shell = document.createElement('div');
+      marquee.innerHTML = '';
+      inner.className = 'hero-gallery-marquee-inner';
+      inner.appendChild(groupA);
+      inner.appendChild(groupB);
+      marquee.appendChild(inner);
 
-        frame.className = 'hero-gallery-frame hero-gallery-frame--flip reveal';
-        frame.setAttribute('aria-label', (frontImg.alt || 'App screenshot') + ' / ' + (backImg.alt || 'App screenshot'));
-        frame.style.setProperty('--hero-gallery-stagger', (index * 45) + 'ms');
+      function syncLoopWidth() {
+        var gap = readGapValue(inner);
+        marquee.style.setProperty(
+          '--hero-gallery-loop-width',
+          (groupA.getBoundingClientRect().width + gap) + 'px'
+        );
+      }
 
-        shell.className = 'hero-gallery-card-shell';
-        shell.appendChild(buildFace(frontImg, 'hero-gallery-card-face hero-gallery-card-face--front'));
-        shell.appendChild(buildFace(backImg, 'hero-gallery-card-face hero-gallery-card-face--back'));
-        frame.appendChild(shell);
-        track.appendChild(frame);
-      });
-
+      syncLoopWidth();
+      syncLoopWidths.push(syncLoopWidth);
       return true;
     }
 
-    var interactiveTracks = tracks.filter(buildTrack);
-    if (!interactiveTracks.length) return;
+    var activeMarquees = marquees.filter(buildMarquee);
+    if (!activeMarquees.length) return;
 
-    document.documentElement.classList.add('js-gallery-flip');
+    document.documentElement.classList.add('js-gallery-marquee');
 
-    interactiveTracks.forEach(function (track) {
-      var lastPointerX = null;
-      var directionTravel = 0;
-      var rafId = null;
-      var targetTiltX = 0;
-      var targetTiltY = 0;
-      var currentTiltX = 0;
-      var currentTiltY = 0;
-
-      function render() {
-        currentTiltX += (targetTiltX - currentTiltX) * 0.16;
-        currentTiltY += (targetTiltY - currentTiltY) * 0.16;
-
-        track.style.setProperty('--hero-gallery-tilt-x', currentTiltX.toFixed(2) + 'deg');
-        track.style.setProperty('--hero-gallery-tilt-y', currentTiltY.toFixed(2) + 'deg');
-
-        var shouldContinue =
-          Math.abs(targetTiltX - currentTiltX) > 0.08 ||
-          Math.abs(targetTiltY - currentTiltY) > 0.08;
-
-        if (shouldContinue) {
-          rafId = window.requestAnimationFrame(render);
-        } else {
-          rafId = null;
-        }
-      }
-
-      function requestRender() {
-        if (rafId === null) {
-          rafId = window.requestAnimationFrame(render);
-        }
-      }
-
-      function updateTilt(e) {
-        var rect = track.getBoundingClientRect();
-        var ratioX = (e.clientX - rect.left) / rect.width;
-        var ratioY = (e.clientY - rect.top) / rect.height;
-
-        targetTiltX = (ratioX - 0.5) * 10;
-        targetTiltY = (0.5 - ratioY) * 8;
-        requestRender();
-
-        return e.clientX - rect.left;
-      }
-
-      track.addEventListener('pointerenter', function (e) {
-        if (e.pointerType && e.pointerType !== 'mouse') return;
-        lastPointerX = updateTilt(e);
-        directionTravel = 0;
+    function syncAllLoopWidths() {
+      syncLoopWidths.forEach(function (syncLoopWidth) {
+        syncLoopWidth();
       });
+    }
 
-      track.addEventListener('pointermove', function (e) {
-        if (e.pointerType && e.pointerType !== 'mouse') return;
-
-        var localPointerX = updateTilt(e);
-        if (lastPointerX !== null) {
-          var deltaX = localPointerX - lastPointerX;
-          if (Math.abs(deltaX) >= 2) {
-            if (directionTravel === 0 || directionTravel * deltaX > 0) {
-              directionTravel += deltaX;
-            } else {
-              directionTravel = deltaX;
-            }
-          }
-
-          if (Math.abs(directionTravel) >= 28) {
-            track.classList.toggle('is-flipped-forward', directionTravel > 0);
-            directionTravel = 0;
-          }
-        }
-        lastPointerX = localPointerX;
-      });
-
-      track.addEventListener('pointerleave', function () {
-        lastPointerX = null;
-        directionTravel = 0;
-        targetTiltX = 0;
-        targetTiltY = 0;
-        requestRender();
-      });
-    });
+    window.addEventListener('resize', syncAllLoopWidths);
+    window.addEventListener('load', syncAllLoopWidths);
+    window.requestAnimationFrame(syncAllLoopWidths);
   }
 
   function boot() {
     init();
-    initGalleryFlipDeck();
+    initGalleryMarquee();
   }
 
   if (document.readyState === 'loading') {

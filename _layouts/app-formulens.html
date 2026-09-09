@@ -22,10 +22,12 @@ layout: default
     page that predates it — the gallery falls back to its previous spot, right
     before the showcase. {%- endcomment -%}
   {%- assign m_hero_parts = m_parts[0] | split: "<!--gallery-->" -%}
-  {{ m_hero_parts[0] }}
-  {%- if m_gallery and m_hero_parts.size > 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="fl" -%}{%- endif -%}
-  {%- if m_hero_parts.size > 1 -%}{{ m_hero_parts[1] }}{%- endif -%}
-  {%- if m_gallery and m_hero_parts.size <= 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="fl" -%}{%- endif -%}
+  <div class="marketing-hero-shell">
+    {{ m_hero_parts[0] }}
+    {%- if m_gallery and m_hero_parts.size > 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="fl" -%}{%- endif -%}
+    {%- if m_hero_parts.size > 1 -%}{{ m_hero_parts[1] }}{%- endif -%}
+    {%- if m_gallery and m_hero_parts.size <= 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="fl" -%}{%- endif -%}
+  </div>
   {%- if m_data.showcase -%}{%- include marketing/showcase.html showcase=m_data.showcase variant="fl" -%}{%- endif -%}
   {%- if m_parts.size > 1 -%}{{ m_parts[1] }}{%- endif -%}
 {%- else -%}

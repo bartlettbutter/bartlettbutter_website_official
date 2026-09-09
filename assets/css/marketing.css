@@ -25,6 +25,23 @@
   z-index: -1;
 }
 
+/* Match the usable content width of the rich middle sections (which are
+   centered within a 1120px measure) for the opening hero cluster and the
+   closing CTA panel, so the first and last blocks align with the rest. */
+.marketing-hero-shell,
+.marketing-cta-panel {
+  width: min(calc(100vw - 2 * clamp(20px, 4vw, 40px)), 1120px);
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.marketing-hero-shell > p {
+  max-width: 60ch;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* ─── Shared marketing modules ─── */
 .marketing-chip-row {
   display: flex;
@@ -850,7 +867,7 @@ h3.marketing-price-summary {
   align-items: flex-start;
   gap: var(--hero-gallery-gap);
   width: max-content;
-  transform: translate3d(calc(-1 * var(--hero-gallery-loop-width, 0px)), 0, 0);
+  transform: translate3d(0, 0, 0);
   animation: hero-gallery-marquee 42s linear infinite;
   will-change: transform;
 }
@@ -882,11 +899,11 @@ h3.marketing-price-summary {
 
 @keyframes hero-gallery-marquee {
   from {
-    transform: translate3d(calc(-1 * var(--hero-gallery-loop-width, 0px)), 0, 0);
+    transform: translate3d(0, 0, 0);
   }
 
   to {
-    transform: translate3d(0, 0, 0);
+    transform: translate3d(calc(-1 * var(--hero-gallery-loop-width, 0px)), 0, 0);
   }
 }
 

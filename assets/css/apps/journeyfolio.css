@@ -318,7 +318,6 @@
    The heading is light yellow to warm up against the blue. */
 .jf-page .marketing-cta-panel {
   background: linear-gradient(145deg, rgba(27, 78, 173, 0.98) 0%, rgba(47, 113, 229, 0.9) 62%, rgba(255, 196, 77, 0.78) 100%);
-  isolation: isolate;
 }
 
 .jf-page .marketing-cta-panel h2,

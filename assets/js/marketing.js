@@ -38,87 +38,156 @@
     targets.forEach(function (el) { observer.observe(el); });
   }
 
-  // --- Hero gallery: pointer-driven auto-scroll -----------------------------
-  // On desktop the mockup strip holds more frames than fit. Rather than make
-  // visitors find and drag the scrollbar, scroll the strip automatically as the
-  // pointer moves across it: hovering near the right edge glides the row right,
-  // near the left edge glides it left, and the speed eases up toward the edges.
-  // Progressive enhancement — without JS the strip is still a normal scroller.
-  function initGalleryAutoScroll() {
+  // --- Hero gallery: pointer-direction flip deck ----------------------------
+  // On desktop, paired screenshots flip forward/back as the mouse moves across
+  // the gallery. Moving right reveals the back faces; moving left rotates the
+  // cards back to the fronts. Without this enhancement, the fallback strip
+  // above remains visible and fully usable.
+  function initGalleryFlipDeck() {
     var tracks = Array.prototype.slice.call(
-      document.querySelectorAll('.hero-gallery-track')
+      document.querySelectorAll('.hero-gallery-flip-track')
     );
     if (!tracks.length) return;
 
-    // Only for devices with a fine pointer that can actually hover (mouse /
-    // trackpad), and never under reduced-motion. Touch devices keep native
-    // swipe scrolling.
     var finePointer = window.matchMedia &&
       window.matchMedia('(hover: hover) and (pointer: fine)').matches;
     var prefersReduced = window.matchMedia &&
       window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (!finePointer || prefersReduced) return;
 
-    tracks.forEach(function (track) {
-      var pointerX = null;   // last known pointer x within the track (px)
+    function buildFace(img, faceClassName) {
+      var face = document.createElement('div');
+      var clone = img.cloneNode(false);
+
+      face.className = faceClassName;
+      clone.alt = '';
+      face.appendChild(clone);
+      return face;
+    }
+
+    function buildTrack(track) {
+      var section = track.closest('.hero-gallery');
+      var fallbackTrack = section &&
+        section.querySelector('.hero-gallery-track--fallback');
+      var sourceImages = fallbackTrack
+        ? Array.prototype.slice.call(fallbackTrack.querySelectorAll('img'))
+        : [];
+      if (!sourceImages.length) return false;
+
+      var columns = Math.ceil(sourceImages.length / 2);
+      track.innerHTML = '';
+      track.style.setProperty('--hero-gallery-columns', columns);
+
+      sourceImages.slice(0, columns).forEach(function (frontImg, index) {
+        var backImg = sourceImages[index + columns] || frontImg;
+        var frame = document.createElement('figure');
+        var shell = document.createElement('div');
+
+        frame.className = 'hero-gallery-frame hero-gallery-frame--flip reveal';
+        frame.setAttribute('aria-label', (frontImg.alt || 'App screenshot') + ' / ' + (backImg.alt || 'App screenshot'));
+        frame.style.setProperty('--hero-gallery-stagger', (index * 45) + 'ms');
+
+        shell.className = 'hero-gallery-card-shell';
+        shell.appendChild(buildFace(frontImg, 'hero-gallery-card-face hero-gallery-card-face--front'));
+        shell.appendChild(buildFace(backImg, 'hero-gallery-card-face hero-gallery-card-face--back'));
+        frame.appendChild(shell);
+        track.appendChild(frame);
+      });
+
+      return true;
+    }
+
+    var interactiveTracks = tracks.filter(buildTrack);
+    if (!interactiveTracks.length) return;
+
+    document.documentElement.classList.add('js-gallery-flip');
+
+    interactiveTracks.forEach(function (track) {
+      var lastPointerX = null;
+      var directionTravel = 0;
       var rafId = null;
+      var targetTiltX = 0;
+      var targetTiltY = 0;
+      var currentTiltX = 0;
+      var currentTiltY = 0;
 
-      // Small dead zone in the middle where the strip holds still; most of the
-      // width on each side is an active "glide" region so moving the mouse
-      // almost anywhere over the strip visibly scrolls it.
-      var EDGE_ZONE = 0.42;  // 42% of width on each side reacts to the pointer
-      var MAX_SPEED = 16;    // px per frame at the very edge
+      function render() {
+        currentTiltX += (targetTiltX - currentTiltX) * 0.16;
+        currentTiltY += (targetTiltY - currentTiltY) * 0.16;
 
-      function step() {
-        // Nothing to scroll, or pointer left the track: stop the loop.
-        var maxScroll = track.scrollWidth - track.clientWidth;
-        if (pointerX === null || maxScroll <= 0) {
+        track.style.setProperty('--hero-gallery-tilt-x', currentTiltX.toFixed(2) + 'deg');
+        track.style.setProperty('--hero-gallery-tilt-y', currentTiltY.toFixed(2) + 'deg');
+
+        var shouldContinue =
+          Math.abs(targetTiltX - currentTiltX) > 0.08 ||
+          Math.abs(targetTiltY - currentTiltY) > 0.08;
+
+        if (shouldContinue) {
+          rafId = window.requestAnimationFrame(render);
+        } else {
           rafId = null;
-          return;
         }
-
-        var width = track.clientWidth;
-        var ratio = pointerX / width;               // 0 (left) .. 1 (right)
-        var speed = 0;
-
-        if (ratio < EDGE_ZONE) {
-          // Left region: scroll left. Intensity grows toward the left edge.
-          var leftIntensity = (EDGE_ZONE - ratio) / EDGE_ZONE;
-          speed = -MAX_SPEED * leftIntensity;
-        } else if (ratio > 1 - EDGE_ZONE) {
-          // Right region: scroll right. Intensity grows toward the right edge.
-          var rightIntensity = (ratio - (1 - EDGE_ZONE)) / EDGE_ZONE;
-          speed = MAX_SPEED * rightIntensity;
-        }
-
-        if (speed !== 0) {
-          track.scrollLeft += speed;
-        }
-        rafId = window.requestAnimationFrame(step);
       }
 
-      function start() {
+      function requestRender() {
         if (rafId === null) {
-          rafId = window.requestAnimationFrame(step);
+          rafId = window.requestAnimationFrame(render);
         }
       }
+
+      function updateTilt(e) {
+        var rect = track.getBoundingClientRect();
+        var ratioX = (e.clientX - rect.left) / rect.width;
+        var ratioY = (e.clientY - rect.top) / rect.height;
+
+        targetTiltX = (ratioX - 0.5) * 10;
+        targetTiltY = (0.5 - ratioY) * 8;
+        requestRender();
+
+        return e.clientX - rect.left;
+      }
+
+      track.addEventListener('pointerenter', function (e) {
+        if (e.pointerType && e.pointerType !== 'mouse') return;
+        lastPointerX = updateTilt(e);
+        directionTravel = 0;
+      });
 
       track.addEventListener('pointermove', function (e) {
         if (e.pointerType && e.pointerType !== 'mouse') return;
-        var rect = track.getBoundingClientRect();
-        pointerX = e.clientX - rect.left;
-        start();
+
+        var localPointerX = updateTilt(e);
+        if (lastPointerX !== null) {
+          var deltaX = localPointerX - lastPointerX;
+          if (Math.abs(deltaX) >= 2) {
+            if (directionTravel === 0 || directionTravel * deltaX > 0) {
+              directionTravel += deltaX;
+            } else {
+              directionTravel = deltaX;
+            }
+          }
+
+          if (Math.abs(directionTravel) >= 28) {
+            track.classList.toggle('is-flipped-forward', directionTravel > 0);
+            directionTravel = 0;
+          }
+        }
+        lastPointerX = localPointerX;
       });
 
       track.addEventListener('pointerleave', function () {
-        pointerX = null;   // step() sees this and halts the loop
+        lastPointerX = null;
+        directionTravel = 0;
+        targetTiltX = 0;
+        targetTiltY = 0;
+        requestRender();
       });
     });
   }
 
   function boot() {
     init();
-    initGalleryAutoScroll();
+    initGalleryFlipDeck();
   }
 
   if (document.readyState === 'loading') {

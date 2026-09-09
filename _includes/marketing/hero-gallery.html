@@ -17,13 +17,14 @@
         - /assets/screenshots/<app>/hero/01.png
         - /assets/screenshots/<app>/hero/02.png
 
-  On narrow screens the strip scrolls horizontally; on wide screens it lays the
-  mockups out in a centered, wrapping row. Each frame is a scroll-reveal target
-  (see assets/js/marketing.js); without JS or under reduced-motion the frames
-  are simply visible.
+  By default this renders a plain horizontal strip so every screenshot stays
+  reachable without JavaScript. On hover-capable desktop devices,
+  assets/js/marketing.js upgrades it into a paired flip deck where moving the
+  mouse right reveals the second set of shots and moving left flips back.
 {%- endcomment -%}
 {%- assign gal = include.gallery -%}
 {%- if gal and gal.shots and gal.shots.size > 0 -%}
+{%- assign paired_columns = gal.shots.size | plus: 1 | divided_by: 2 -%}
 <section class="hero-gallery{% if include.variant %} hero-gallery--{{ include.variant }}{% endif %}"{% if gal.title %} aria-labelledby="hero-gallery-title"{% else %} aria-label="{{ gal.alt | default: 'App screenshots' }}"{% endif %}>
   {%- if gal.label or gal.title %}
   <div class="hero-gallery-head reveal">
@@ -31,12 +32,13 @@
     {%- if gal.title %}<h2 id="hero-gallery-title" class="hero-gallery-title">{{ gal.title }}</h2>{%- endif %}
   </div>
   {%- endif %}
-  <div class="hero-gallery-track">
+  <div class="hero-gallery-track hero-gallery-track--fallback">
     {%- for shot in gal.shots %}
     <figure class="hero-gallery-frame reveal">
       <img src="{{ shot }}" alt="{{ gal.alt | default: 'App screenshot' }} {{ forloop.index }}" width="660" height="1434" loading="lazy" decoding="async">
     </figure>
     {%- endfor %}
   </div>
+  <div class="hero-gallery-flip-track" style="--hero-gallery-columns: {{ paired_columns }};" aria-hidden="true"></div>
 </section>
 {%- endif -%}

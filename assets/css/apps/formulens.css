@@ -162,6 +162,12 @@
   .fl-page h2 + ul {
     grid-template-columns: 1fr;
   }
+
+  /* Match the reduced CTA top margin on phones so the white band covers the
+     gap above the box exactly. */
+  .fl-page .marketing-cta-panel::before {
+    top: -56px;
+  }
 }
 
 /* Hero gallery: soft magenta frames and eyebrow, matching the showcase band. */
@@ -239,6 +245,23 @@
   background: linear-gradient(160deg, rgba(228, 77, 141, 0.16) 0%, rgba(255, 255, 255, 0.96) 76%);
 }
 
+/* CTA box keeps its magenta→maroon gradient, but the area around it (side
+   gutters and the top-margin gap above it) should read white instead of the
+   tinted page background. A full-bleed ::before paints that surrounding band
+   white edge to edge and sits behind the gradient box. */
 .fl-page .marketing-cta-panel {
   background: linear-gradient(145deg, rgba(138, 23, 58, 0.98) 0%, rgba(228, 77, 141, 0.9) 100%);
+  isolation: isolate;
+}
+
+.fl-page .marketing-cta-panel::before {
+  content: "";
+  position: absolute;
+  top: -72px;
+  bottom: 0;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
+  background: #FFFFFF;
+  z-index: -1;
 }

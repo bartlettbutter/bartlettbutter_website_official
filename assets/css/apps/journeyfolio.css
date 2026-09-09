@@ -56,7 +56,7 @@
 .jf-page h1:first-child + p,
 .jf-page .hero-gallery + p {
   max-width: 620px;
-  margin: 0 auto 24px;
+  margin: 28px auto 24px;
   font-family: var(--font);
   font-size: 17px;
   line-height: 1.65;
@@ -218,6 +218,12 @@
   .app-showcase--jf .showcase-media {
     width: 232px;
   }
+
+  /* Match the reduced CTA top margin on phones so the white band covers the
+     gap above the box exactly. */
+  .jf-page .marketing-cta-panel::before {
+    top: -56px;
+  }
 }
 
 /* Hero gallery: serif heading and soft blue frames, matching the showcase band. */
@@ -288,6 +294,23 @@
   background: linear-gradient(155deg, rgba(47, 113, 229, 0.12) 0%, rgba(255, 244, 201, 0.2) 30%, rgba(255, 255, 255, 0.97) 78%);
 }
 
+/* CTA box keeps its blue→gold gradient, but the area around it (side gutters
+   and the top-margin gap above it) should read white instead of the tinted
+   page background. A full-bleed ::before paints that surrounding band white
+   edge to edge and sits behind the gradient box. */
 .jf-page .marketing-cta-panel {
   background: linear-gradient(145deg, rgba(27, 78, 173, 0.98) 0%, rgba(47, 113, 229, 0.9) 62%, rgba(255, 196, 77, 0.78) 100%);
+  isolation: isolate;
+}
+
+.jf-page .marketing-cta-panel::before {
+  content: "";
+  position: absolute;
+  top: -72px;
+  bottom: 0;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
+  background: #FFFFFF;
+  z-index: -1;
 }

@@ -209,7 +209,11 @@
   border-color: rgba(138, 23, 58, 0.1);
 }
 
-.fl-page .marketing-card--featured,
+.fl-page .marketing-card--featured {
+  border-color: rgba(138, 23, 58, 0.1);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.94) 0%, rgba(255, 255, 255, 0.84) 100%);
+}
+
 .fl-page .marketing-price-card.is-featured {
   background: linear-gradient(160deg, rgba(228, 77, 141, 0.16) 0%, rgba(255, 255, 255, 0.96) 76%);
 }

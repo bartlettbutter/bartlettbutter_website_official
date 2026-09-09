@@ -85,14 +85,34 @@
 
 .marketing-cta-row {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 16px 20px;
-  flex-wrap: wrap;
+  gap: 12px;
   margin: 28px 0 12px;
 }
 
+.marketing-cta-badges {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px 16px;
+}
+
+.marketing-cta-badges a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.marketing-cta-badges img {
+  display: block;
+  height: auto;
+}
+
 .marketing-meta-note {
+  text-align: center;
   font-size: 14px;
   line-height: 1.6;
   color: var(--color-text-muted);
@@ -830,7 +850,7 @@ h3.marketing-price-summary {
   align-items: flex-start;
   gap: var(--hero-gallery-gap);
   width: max-content;
-  transform: translate3d(0, 0, 0);
+  transform: translate3d(calc(-1 * var(--hero-gallery-loop-width, 0px)), 0, 0);
   animation: hero-gallery-marquee 42s linear infinite;
   will-change: transform;
 }
@@ -862,11 +882,11 @@ h3.marketing-price-summary {
 
 @keyframes hero-gallery-marquee {
   from {
-    transform: translate3d(0, 0, 0);
+    transform: translate3d(calc(-1 * var(--hero-gallery-loop-width, 0px)), 0, 0);
   }
 
   to {
-    transform: translate3d(calc(-1 * var(--hero-gallery-loop-width, 0px)), 0, 0);
+    transform: translate3d(0, 0, 0);
   }
 }
 

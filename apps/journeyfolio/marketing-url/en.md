@@ -38,9 +38,11 @@ Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Jou
 </div>
 
 <div class="marketing-cta-row">
-  <a href="https://apps.apple.com/us/app/journeyfolio/id6762172188">
-    <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
-  </a>
+  <div class="marketing-cta-badges">
+    <a href="https://apps.apple.com/us/app/journeyfolio/id6762172188">
+      <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+    </a>
+  </div>
   <p class="marketing-meta-note">Free to start on iPhone and iPad. Compatible with iOS 18.0 or later.</p>
 </div>
 

@@ -145,6 +145,25 @@
   background: linear-gradient(135deg, #FFFFFF 0%, #FFF0F6 100%);
 }
 
+/* The showcase and the first section band below it each drew their own top
+   border with a padding gap between them, reading as two lines. Merge them
+   into a single boundary: drop the band's own top border and top padding so it
+   continues directly from the showcase. */
+.fl-page .app-showcase + .marketing-band {
+  border-top: 0;
+  padding-top: 0;
+}
+
+/* Meta-note under the hero download badge ("Free to download... iOS 26.2 or
+   later."): tighten the space above it (closer to the badge) and add more
+   breathing room below it before the showcase. The row lays out badges and
+   note in a column with a flex gap, so reduce the gap for the space above and
+   add bottom margin on the note for the space below. */
+.fl-page .marketing-cta-row {
+  gap: 4px;
+  margin-bottom: 28px;
+}
+
 @media (hover: hover) and (pointer: fine) {
   .fl-page h2 + ul li:hover,
   .fl-page ol > li:hover {
@@ -264,4 +283,18 @@
   transform: translateX(-50%);
   background: #FFFFFF;
   z-index: -1;
+}
+
+/* CTA link pills ("Visit support", "Read privacy policy", contact email):
+   very light fill with dark accent text, overriding the base white-on-dark
+   style used on the gradient panel. */
+.fl-page .marketing-cta-panel .marketing-inline-link {
+  border-color: rgba(138, 23, 58, 0.18);
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--app-accent-strong);
+}
+
+.fl-page .marketing-cta-panel .marketing-inline-link:not(.marketing-inline-link--static):hover {
+  border-color: rgba(138, 23, 58, 0.28);
+  background: #FFFFFF;
 }

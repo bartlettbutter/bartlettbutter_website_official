@@ -735,8 +735,11 @@ h3.marketing-price-summary {
    showcase band's negative margins). The mockups sit in a centered, wrapping
    row on wide screens and scroll horizontally on narrow ones. */
 .hero-gallery {
-  margin: clamp(32px, 5vw, 48px) clamp(-64px, -6vw, -40px) 8px;
-  padding: 0 clamp(40px, 6vw, 64px);
+  /* No horizontal margin/padding here: the heading is centered on its own and
+     the track below handles its own full-bleed break-out, so this wrapper stays
+     the width of the content column and the track's calc(50% - 50vw) resolves
+     cleanly against it. */
+  margin: clamp(32px, 5vw, 48px) 0 8px;
 }
 
 .hero-gallery-head {
@@ -763,15 +766,17 @@ h3.marketing-price-summary {
 }
 
 /* Single-line strip on every screen size: all mockups sit on one row and the
-   row scrolls horizontally rather than wrapping. The negative margin + padding
-   pull the scroll area out to (and past) the content edges so the first/last
-   frame breathe and there's comfortable scroll space on both sides. */
+   row scrolls horizontally rather than wrapping. The track is full-bleed
+   (breaks out of the centered, max-width .content-body to span the whole
+   viewport via calc(50% - 50vw)) so its scrollable width equals 100vw — which
+   is what the frame-width math below assumes when sizing 5 frames across. */
 .hero-gallery-track {
   display: flex;
   flex-wrap: nowrap;
   justify-content: flex-start;
   gap: clamp(16px, 2.2vw, 28px);
-  margin: 0 clamp(-64px, -6vw, -40px);
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
   padding: 8px clamp(40px, 6vw, 64px) 16px;
   overflow-x: auto;
   scroll-snap-type: x proximity;

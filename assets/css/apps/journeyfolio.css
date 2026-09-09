@@ -238,10 +238,10 @@
     width: 232px;
   }
 
-  /* Match the reduced CTA top margin on phones so the white band covers the
+  /* Match the reduced CTA top margin on phones so the white fill covers the
      gap above the box exactly. */
-  .jf-page .marketing-cta-panel::before {
-    top: -56px;
+  .jf-page .marketing-cta-panel {
+    clip-path: inset(-56px -100vw 0 -100vw);
   }
 }
 
@@ -314,27 +314,21 @@
 }
 
 /* CTA box keeps its blue→gold gradient. The area around it (side gutters and
-   the top-margin gap above it) is painted white by the full-bleed ::before.
-   The heading is light yellow to warm up against the blue. */
+   the top-margin gap above it) reads white instead of the tinted page
+   background, achieved with a large white box-shadow that fills the area
+   around the rounded box (clipped so it does not bleed below into the footer).
+   The heading is light yellow to warm up the blue. */
 .jf-page .marketing-cta-panel {
   background: linear-gradient(145deg, rgba(27, 78, 173, 0.98) 0%, rgba(47, 113, 229, 0.9) 62%, rgba(255, 196, 77, 0.78) 100%);
+  box-shadow:
+    0 32px 88px rgba(3, 7, 18, 0.18),
+    0 0 0 100vw #FFFFFF;
+  clip-path: inset(-72px -100vw 0 -100vw);
 }
 
 .jf-page .marketing-cta-panel h2,
 .jf-page .marketing-cta-panel h3 {
   color: #FFF4C9;
-}
-
-.jf-page .marketing-cta-panel::before {
-  content: "";
-  position: absolute;
-  top: -72px;
-  bottom: 0;
-  left: 50%;
-  width: 100vw;
-  transform: translateX(-50%);
-  background: #FFFFFF;
-  z-index: -1;
 }
 
 /* CTA link pills ("Visit support", "Read privacy policy", contact email):

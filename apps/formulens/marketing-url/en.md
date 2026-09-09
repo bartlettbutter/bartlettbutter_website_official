@@ -40,9 +40,11 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
 </div>
 
 <div class="marketing-cta-row">
-  <a href="https://apps.apple.com/us/app/formulalens/id6756229042">
-    <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
-  </a>
+  <div class="marketing-cta-badges">
+    <a href="https://apps.apple.com/us/app/formulalens/id6756229042">
+      <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+    </a>
+  </div>
   <p class="marketing-meta-note">Free to download on iPhone and iPad. Works on iOS 26.2 or later.</p>
 </div>
 

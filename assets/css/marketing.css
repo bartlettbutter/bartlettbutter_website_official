@@ -765,39 +765,38 @@ h3.marketing-price-summary {
   color: var(--color-text-strong);
 }
 
-/* Single-line strip on every screen size: all mockups sit on one row and the
-   row scrolls horizontally rather than wrapping. The track is full-bleed
-   (breaks out of the centered, max-width .content-body to span the whole
-   viewport via calc(50% - 50vw)) so its scrollable width equals 100vw — which
-   is what the frame-width math below assumes when sizing 5 frames across. */
+/* Single-line strip: all mockups sit on one row that scrolls horizontally. The
+   track is a fixed-width, centered scroll box sized to show exactly 5 fixed-
+   size frames; the rest are reached by scrolling (hover auto-scroll, wheel, or
+   the slim scrollbar). Frames keep a constant size at any window width. */
 .hero-gallery-track {
   display: flex;
   flex-wrap: nowrap;
   justify-content: flex-start;
-  gap: clamp(16px, 2.2vw, 28px);
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  padding: 8px clamp(40px, 6vw, 64px) 16px;
+  /* Fixed gap (matches the fixed 200px frame) so the strip layout stays stable
+     and doesn't reflow as the window resizes. */
+  gap: 24px;
+  /* Cap the visible strip to exactly 5 fixed-width frames and center it in the
+     page, so ~5 mockups show by default at any window size and the rest scroll.
+     Width = 5 frames (200px) + 4 gaps (24px) + a little horizontal padding.
+     20px so the first/last frame edges aren't flush against the scroll box. */
+  width: 100%;
+  max-width: calc(5 * 200px + 4 * 24px + 40px);
+  margin: 0 auto;
+  padding: 8px 20px 16px;
   overflow-x: auto;
   scroll-snap-type: x proximity;
   -webkit-overflow-scrolling: touch;
 }
 
-/* Wide screens: the strip is a horizontal scroller. `safe center` centers the
-   frames when they all fit and falls back to start-alignment (so the row stays
-   scrollable from the beginning) when there are more mockups than fit. A slim,
-   always-visible scrollbar signals that the strip scrolls, so every mockup is
-   reachable by dragging the scrollbar, two-finger/wheel scroll, or keyboard. */
+/* Wide screens: keep the scroll affordance quiet. flex-start guarantees the
+   overflowing strip is scrollable from the first frame; the hover auto-scroll
+   (marketing.js) is the primary way to browse, so the scrollbar is a thin,
+   neutral fallback. */
 @media (min-width: 769px) {
   .hero-gallery-track {
-    /* flex-start (not center) so an overflowing strip is reliably scrollable
-       from the very first frame in both directions — `safe center` has patchy
-       support and can strand the leading frames off the left edge. */
     justify-content: flex-start;
     scroll-snap-type: x proximity;
-    /* Auto-scroll on hover (see marketing.js) is the primary way to browse the
-       strip, so keep the scrollbar a quiet, thin fallback rather than a loud
-       accent-colored drag affordance. */
     scrollbar-width: thin;
     scrollbar-color: var(--neutral-30) transparent;
   }
@@ -825,12 +824,11 @@ h3.marketing-price-summary {
 
 .hero-gallery-frame {
   flex: 0 0 auto;
-  /* Show exactly 5 mockups by default: the visible strip is the viewport minus
-     the track's side padding (clamp(40px,6vw,64px) each side); subtract the 4
-     gaps between 5 frames, then divide by 5. Floors at 150px on small laptops
-     and caps at 232px so frames don't balloon on wide monitors. The mobile
-     rule below (max-width:768px) overrides this to a swipeable 60vw. */
-  width: clamp(150px, calc((100vw - 2 * clamp(40px, 6vw, 64px) - 4 * clamp(16px, 2.2vw, 28px)) / 5), 232px);
+  /* Fixed frame size so mockups do NOT resize as the window is dragged — they
+     stay a stable, comfortable size and the strip simply shows more/fewer at a
+     time. The mobile rule below (max-width:768px) overrides this to a swipeable
+     60vw so phones still get a comfortably large frame. */
+  width: 200px;
   margin: 0;
   padding: 8px;
   border-radius: 26px;
@@ -865,12 +863,14 @@ h3.marketing-price-summary {
   }
 
   /* Horizontal scroll strip on phones: mockups keep a comfortable size and the
-     row scrolls, rather than shrinking to fit. Padding + negative margin let
-     the first/last frame breathe against the edges. */
+     row scrolls, rather than shrinking to fit. Drop the desktop 5-frame cap and
+     let the strip span the screen (with a small negative-margin breakout so the
+     first/last frame breathe against the edges). */
   .hero-gallery-track {
     flex-wrap: nowrap;
     justify-content: flex-start;
     gap: 16px;
+    max-width: none;
     margin: 0 -20px;
     padding: 4px 20px 12px;
     overflow-x: auto;

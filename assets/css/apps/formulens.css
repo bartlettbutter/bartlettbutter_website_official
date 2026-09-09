@@ -182,10 +182,10 @@
     grid-template-columns: 1fr;
   }
 
-  /* Match the reduced CTA top margin on phones so the white band covers the
+  /* Match the reduced CTA top margin on phones so the white fill covers the
      gap above the box exactly. */
-  .fl-page .marketing-cta-panel::before {
-    top: -56px;
+  .fl-page .marketing-cta-panel {
+    clip-path: inset(-56px -100vw 0 -100vw);
   }
 }
 
@@ -266,22 +266,15 @@
 
 /* CTA box keeps its magenta→maroon gradient, but the area around it (side
    gutters and the top-margin gap above it) should read white instead of the
-   tinted page background. A full-bleed ::before paints that surrounding band
-   white edge to edge and sits behind the gradient box. */
+   tinted page background, achieved with a large white box-shadow that fills
+   the area around the rounded gradient box (clipped so it does not bleed below
+   the box into the footer). */
 .fl-page .marketing-cta-panel {
   background: linear-gradient(145deg, rgba(138, 23, 58, 0.98) 0%, rgba(228, 77, 141, 0.9) 100%);
-}
-
-.fl-page .marketing-cta-panel::before {
-  content: "";
-  position: absolute;
-  top: -72px;
-  bottom: 0;
-  left: 50%;
-  width: 100vw;
-  transform: translateX(-50%);
-  background: #FFFFFF;
-  z-index: -1;
+  box-shadow:
+    0 32px 88px rgba(3, 7, 18, 0.18),
+    0 0 0 100vw #FFFFFF;
+  clip-path: inset(-72px -100vw 0 -100vw);
 }
 
 /* CTA link pills ("Visit support", "Read privacy policy", contact email):

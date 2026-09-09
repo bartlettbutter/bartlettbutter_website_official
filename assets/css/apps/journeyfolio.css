@@ -15,9 +15,23 @@
 }
 
 /* Hero ("Every journey deserves a folio.") on a clean white surface so it
-   reads distinctly from the tinted bands below it. */
+   reads distinctly from the tinted bands below it. The shell is centered at a
+   max width, so a full-bleed ::before paints the band white edge to edge,
+   including the left/right gutters, instead of only the centered column. */
 .jf-page .marketing-hero-shell {
+  isolation: isolate;
+}
+
+.jf-page .marketing-hero-shell::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
   background: #FFFFFF;
+  z-index: -1;
 }
 
 .jf-page h1,
@@ -274,33 +288,6 @@
   background: linear-gradient(155deg, rgba(47, 113, 229, 0.12) 0%, rgba(255, 244, 201, 0.2) 30%, rgba(255, 255, 255, 0.97) 78%);
 }
 
-/* "Travel lighter, even before you leave." CTA on white. Content is re-colored
-   below so the copy and links stay readable against the light surface. */
 .jf-page .marketing-cta-panel {
-  background: #FFFFFF;
-  border: 1px solid var(--app-accent-soft);
-  color: var(--color-text-strong);
-}
-
-.jf-page .marketing-cta-panel h2,
-.jf-page .marketing-cta-panel h3 {
-  color: var(--app-accent-strong);
-}
-
-.jf-page .marketing-cta-panel p {
-  color: var(--color-text-strong);
-}
-
-/* "Visit support" / "Read privacy policy" links on the white panel. Same
-   treatment as FormuLens: near-white fill, soft accent border, and dark accent
-   text for strong contrast against the light surface. */
-.jf-page .marketing-cta-panel .marketing-inline-link {
-  border-color: var(--app-accent-soft);
-  background: linear-gradient(180deg, #FFFFFF 0%, #F6FAFF 100%);
-  color: var(--app-accent-strong);
-}
-
-.jf-page .marketing-cta-panel .marketing-inline-link:hover {
-  border-color: rgba(27, 78, 173, 0.24);
-  background: linear-gradient(180deg, #FFFFFF 0%, #E8F0FE 100%);
+  background: linear-gradient(145deg, rgba(27, 78, 173, 0.98) 0%, rgba(47, 113, 229, 0.9) 62%, rgba(255, 196, 77, 0.78) 100%);
 }

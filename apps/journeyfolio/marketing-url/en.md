@@ -218,6 +218,6 @@ Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Jou
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Visit support</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Read privacy policy</a>
-    <a class="marketing-inline-link" href="mailto:contact@bartlettbutter.com">contact@bartlettbutter.com</a>
+    <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

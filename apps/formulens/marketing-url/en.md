@@ -208,6 +208,6 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">Visit support</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">Read privacy policy</a>
-    <a class="marketing-inline-link" href="mailto:contact@bartlettbutter.com">contact@bartlettbutter.com</a>
+    <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

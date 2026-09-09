@@ -8,10 +8,15 @@
    ============================================ */
 
 /* Hero title — magenta→maroon gradient, larger than the neutral base. */
+.fl-page {
+  --app-page-bg:
+    linear-gradient(180deg, rgba(255, 249, 251, 0.98) 0%, rgba(251, 236, 242, 0.95) 28%, rgba(255, 243, 247, 0.96) 58%, rgba(255, 249, 251, 0.98) 100%);
+}
+
 .fl-page h1:first-child {
-  font-size: 40px;
-  line-height: 1.1;
-  margin-bottom: 20px;
+  font-size: clamp(32px, 4.6vw, 36px);
+  line-height: 1.12;
+  margin-bottom: 18px;
   background: linear-gradient(120deg, var(--app-accent) 0%, var(--app-accent-strong) 100%);
   -webkit-background-clip: text;
   background-clip: text;
@@ -22,8 +27,8 @@
 .fl-page h1:first-child + p {
   max-width: 640px;
   margin: 0 auto 24px;
-  font-size: 19px;
-  line-height: 1.6;
+  font-size: 18px;
+  line-height: 1.65;
   text-align: center;
   color: var(--color-text-strong);
 }
@@ -131,7 +136,7 @@
 
 @media (max-width: 768px) {
   .fl-page h1:first-child {
-    font-size: 30px;
+    font-size: 28px;
   }
 
   .fl-page h2 + ul {

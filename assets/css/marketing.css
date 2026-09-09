@@ -732,10 +732,10 @@ h3.marketing-price-summary {
 /* ─── Hero mockup gallery ─── */
 /* The marketing hero needs two behaviors:
    1. A safe fallback strip that always exposes every screenshot.
-   2. A desktop enhancement that turns paired screenshots into a centered flip
-      deck, so moving the mouse left/right swaps the visible set without
-      buttons. */
+   2. A desktop enhancement that turns the same row into a slow marquee that
+      glides left-to-right, similar to a polished product showcase. */
 .hero-gallery {
+  position: relative;
   margin: clamp(32px, 5vw, 48px) 0 8px;
   padding-inline: clamp(4px, 1vw, 12px);
 }
@@ -764,7 +764,7 @@ h3.marketing-price-summary {
 }
 
 .hero-gallery-track--fallback,
-.hero-gallery-flip-track {
+.hero-gallery-marquee {
   --hero-gallery-gap: clamp(14px, 2vw, 24px);
   --hero-gallery-gutter: clamp(18px, 3vw, 34px);
 }
@@ -784,29 +784,41 @@ h3.marketing-price-summary {
   -webkit-overflow-scrolling: touch;
 }
 
-/* Enhanced desktop deck: hidden until marketing.js confirms that hover and
+/* Enhanced desktop marquee: hidden until marketing.js confirms that hover and
    motion are appropriate. */
-.hero-gallery-flip-track {
+.hero-gallery-marquee {
   display: none;
-  align-items: stretch;
-  gap: var(--hero-gallery-gap);
-  width: min(100%, calc(var(--hero-gallery-columns) * 188px + (var(--hero-gallery-columns) - 1) * var(--hero-gallery-gap) + 2 * var(--hero-gallery-gutter)));
+  width: min(100%, calc(5 * 200px + 4 * 24px + 2 * var(--hero-gallery-gutter)));
   margin: 0 auto;
   padding: 12px var(--hero-gallery-gutter) 20px;
-  perspective: 1800px;
-  transform-style: preserve-3d;
-  --hero-gallery-rotation: 0deg;
-  --hero-gallery-tilt-x: 0deg;
-  --hero-gallery-tilt-y: 0deg;
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 7%, #000 93%, transparent 100%);
+  mask-image: linear-gradient(90deg, transparent 0%, #000 7%, #000 93%, transparent 100%);
 }
 
-.js-gallery-flip .hero-gallery-flip-track {
+.hero-gallery-marquee-inner {
   display: flex;
+  align-items: flex-start;
+  gap: var(--hero-gallery-gap);
+  width: max-content;
+  transform: translate3d(calc(-1 * var(--hero-gallery-loop-width, 0px)), 0, 0);
+  animation: hero-gallery-marquee 42s linear infinite;
+  will-change: transform;
+}
+
+.hero-gallery-marquee-group {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--hero-gallery-gap);
+}
+
+.js-gallery-marquee .hero-gallery-marquee {
+  display: block;
 }
 
 /* Keep the authored strip available to assistive tech even when the visual
    desktop enhancement is active. */
-.js-gallery-flip .hero-gallery-track--fallback {
+.js-gallery-marquee .hero-gallery-track--fallback {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -817,6 +829,16 @@ h3.marketing-price-summary {
   clip-path: inset(50%);
   white-space: nowrap;
   border: 0;
+}
+
+@keyframes hero-gallery-marquee {
+  from {
+    transform: translate3d(calc(-1 * var(--hero-gallery-loop-width, 0px)), 0, 0);
+  }
+
+  to {
+    transform: translate3d(0, 0, 0);
+  }
 }
 
 @media (min-width: 769px) {
@@ -858,68 +880,15 @@ h3.marketing-price-summary {
   box-shadow: 0 18px 44px rgba(3, 7, 18, 0.14);
 }
 
-.hero-gallery-frame--flip {
-  flex: 1 1 0;
-  width: auto;
-  max-width: 188px;
-  min-width: 0;
-  padding: 0;
-  border: 0;
-  background: none;
-  box-shadow: none;
-}
-
-.hero-gallery-card-shell {
-  position: relative;
-  width: 100%;
-  aspect-ratio: 660 / 1434;
-  transform-style: preserve-3d;
-  transition: transform 620ms cubic-bezier(0.22, 0.76, 0.18, 1), box-shadow 260ms ease;
-  transition-delay: var(--hero-gallery-stagger, 0ms);
-  will-change: transform;
-}
-
-.js-gallery-flip .hero-gallery-flip-track .hero-gallery-card-shell {
-  transform: rotateX(var(--hero-gallery-tilt-y)) rotateY(calc(var(--hero-gallery-rotation) + var(--hero-gallery-tilt-x)));
-}
-
-.js-gallery-flip .hero-gallery-flip-track.is-flipped-forward {
-  --hero-gallery-rotation: -180deg;
-}
-
-.hero-gallery-card-face {
-  position: absolute;
-  inset: 0;
-  padding: 8px;
-  border-radius: 26px;
-  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
-  border: 1px solid var(--app-accent-soft, var(--color-border));
-  background: linear-gradient(180deg, #FFFFFF 0%, var(--app-accent-soft, var(--color-bg-subtle)) 100%);
-  box-shadow: 0 20px 48px rgba(3, 7, 18, 0.12);
-}
-
-.hero-gallery-card-face--back {
-  transform: rotateY(180deg);
-}
-
-.hero-gallery-card-face img {
-  height: 100%;
-  object-fit: cover;
-}
-
 @media (hover: hover) and (pointer: fine) {
   .hero-gallery-frame:hover {
     transform: translateY(-4px);
     box-shadow: 0 24px 56px rgba(3, 7, 18, 0.12);
   }
 
-  .js-gallery-flip .hero-gallery-frame--flip:hover {
-    transform: translateY(-6px);
-  }
-
-  .js-gallery-flip .hero-gallery-frame--flip:hover .hero-gallery-card-face {
-    box-shadow: 0 28px 64px rgba(3, 7, 18, 0.14);
+  .js-gallery-marquee .hero-gallery-marquee:hover .hero-gallery-marquee-inner,
+  .js-gallery-marquee .hero-gallery-marquee:focus-within .hero-gallery-marquee-inner {
+    animation-play-state: paused;
   }
 }
 
@@ -941,7 +910,7 @@ h3.marketing-price-summary {
     scroll-snap-type: x mandatory;
   }
 
-  .hero-gallery-flip-track {
+  .hero-gallery-marquee {
     display: none !important;
   }
 
@@ -953,7 +922,7 @@ h3.marketing-price-summary {
 }
 
 @media (max-width: 1100px) {
-  .js-gallery-flip .hero-gallery-track--fallback {
+  .js-gallery-marquee .hero-gallery-track--fallback {
     position: static;
     width: 100%;
     height: auto;
@@ -966,7 +935,7 @@ h3.marketing-price-summary {
     border: 0;
   }
 
-  .js-gallery-flip .hero-gallery-flip-track {
+  .js-gallery-marquee .hero-gallery-marquee {
     display: none !important;
   }
 }

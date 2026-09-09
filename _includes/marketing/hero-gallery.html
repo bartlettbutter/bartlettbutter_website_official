@@ -18,13 +18,12 @@
         - /assets/screenshots/<app>/hero/02.png
 
   By default this renders a plain horizontal strip so every screenshot stays
-  reachable without JavaScript. On hover-capable desktop devices,
-  assets/js/marketing.js upgrades it into a paired flip deck where moving the
-  mouse right reveals the second set of shots and moving left flips back.
+  reachable without JavaScript. On larger desktop screens,
+  assets/js/marketing.js upgrades it into a slow marquee that drifts from left
+  to right while keeping the authored strip as the accessible fallback.
 {%- endcomment -%}
 {%- assign gal = include.gallery -%}
 {%- if gal and gal.shots and gal.shots.size > 0 -%}
-{%- assign paired_columns = gal.shots.size | plus: 1 | divided_by: 2 -%}
 <section class="hero-gallery{% if include.variant %} hero-gallery--{{ include.variant }}{% endif %}"{% if gal.title %} aria-labelledby="hero-gallery-title"{% else %} aria-label="{{ gal.alt | default: 'App screenshots' }}"{% endif %}>
   {%- if gal.label or gal.title %}
   <div class="hero-gallery-head reveal">
@@ -39,6 +38,6 @@
     </figure>
     {%- endfor %}
   </div>
-  <div class="hero-gallery-flip-track" style="--hero-gallery-columns: {{ paired_columns }};" aria-hidden="true"></div>
+  <div class="hero-gallery-marquee" aria-hidden="true"></div>
 </section>
 {%- endif -%}

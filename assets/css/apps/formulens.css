@@ -13,6 +13,12 @@
     linear-gradient(180deg, rgba(255, 249, 251, 0.98) 0%, rgba(251, 236, 242, 0.95) 28%, rgba(255, 243, 247, 0.96) 58%, rgba(255, 249, 251, 0.98) 100%);
 }
 
+/* Hero ("Know exactly what's in your skincare.") on a clean white surface so
+   it reads distinctly from the tinted bands below it. */
+.fl-page .marketing-hero-shell {
+  background: #FFFFFF;
+}
+
 .fl-page h1:first-child {
   font-size: clamp(32px, 4.6vw, 36px);
   line-height: 1.12;
@@ -193,9 +199,10 @@
     linear-gradient(180deg, rgba(251, 230, 238, 0.96) 0%, rgba(255, 243, 247, 0.94) 58%, rgba(255, 255, 255, 0.98) 100%);
 }
 
+/* "Who it serves" (plain band) on solid white to set it apart from the
+   tinted .marketing-band sections. */
 .fl-page .marketing-band--plain {
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.98) 0%, rgba(255, 248, 251, 0.94) 100%);
+  background: #FFFFFF;
 }
 
 .fl-page .marketing-band::after {
@@ -218,6 +225,30 @@
   background: linear-gradient(160deg, rgba(228, 77, 141, 0.16) 0%, rgba(255, 255, 255, 0.96) 76%);
 }
 
+/* "Ready to read labels..." CTA on white. Content is re-colored below so the
+   copy and links stay readable against the light surface. */
 .fl-page .marketing-cta-panel {
-  background: linear-gradient(145deg, rgba(138, 23, 58, 0.98) 0%, rgba(228, 77, 141, 0.9) 100%);
+  background: #FFFFFF;
+  border: 1px solid var(--app-accent-soft);
+  color: var(--color-text-strong);
+}
+
+.fl-page .marketing-cta-panel h2,
+.fl-page .marketing-cta-panel h3 {
+  color: var(--app-accent-strong);
+}
+
+.fl-page .marketing-cta-panel p {
+  color: var(--color-text-strong);
+}
+
+.fl-page .marketing-cta-panel .marketing-inline-link {
+  border-color: var(--app-accent-soft);
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFF3F7 100%);
+  color: var(--app-accent-strong);
+}
+
+.fl-page .marketing-cta-panel .marketing-inline-link:hover {
+  border-color: rgba(138, 23, 58, 0.24);
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFE9F1 100%);
 }

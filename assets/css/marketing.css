@@ -139,6 +139,16 @@
   text-align: center;
 }
 
+/* A meta-note placed directly after a module grid (e.g. the Apple Weather
+   attribution under the JourneyFolio feature grid) would otherwise sit flush
+   against the bottom row of cards. Give it clear breathing room from the grid. */
+.marketing-card-grid + .marketing-meta-note,
+.marketing-price-grid + .marketing-meta-note,
+.marketing-step-grid + .marketing-meta-note,
+.marketing-story-grid + .marketing-meta-note {
+  margin-top: 40px;
+}
+
 .marketing-band {
   position: relative;
   overflow: hidden;

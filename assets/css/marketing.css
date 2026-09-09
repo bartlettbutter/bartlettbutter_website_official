@@ -117,6 +117,24 @@
   gap: 12px 16px;
 }
 
+/* subpage.js enhances the App Store link into a `.store-badges` flex row and
+   appends a Google Play badge plus a hidden "in progress" note. That row has no
+   justify-content (it is left-aligned on subpages by brand direction), and the
+   trailing note still occupies layout space, which pushes the visible badges
+   left of center inside the hero. In the centered hero, center the row's
+   contents and let the note sit on its own line so the badges are truly
+   centered on the page. */
+.marketing-cta-badges .store-badges {
+  justify-content: center;
+  width: 100%;
+  margin: 0;
+}
+
+.marketing-cta-badges .store-badges .store-badge-note {
+  flex-basis: 100%;
+  justify-content: center;
+}
+
 .marketing-cta-badges a {
   display: inline-flex;
   align-items: center;
@@ -467,6 +485,18 @@ h3.marketing-price-summary {
   background: rgba(255, 255, 255, 0.18);
   border-color: rgba(255, 255, 255, 0.36);
   transform: translateY(-1px);
+}
+
+/* Static variant: displays a value (e.g. an email address) inside the link row
+   without being clickable. Keeps the pill look but drops the interactive cues. */
+.marketing-inline-link--static {
+  cursor: default;
+}
+
+.marketing-inline-link--static:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.24);
+  transform: none;
 }
 
 .marketing-inline-link:focus-visible,

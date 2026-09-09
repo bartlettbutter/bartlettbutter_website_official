@@ -14,9 +14,23 @@
 }
 
 /* Hero ("Know exactly what's in your skincare.") on a clean white surface so
-   it reads distinctly from the tinted bands below it. */
+   it reads distinctly from the tinted bands below it. The shell is centered at
+   a max width, so a full-bleed ::before paints the band white edge to edge,
+   including the left/right gutters, instead of only the centered column. */
 .fl-page .marketing-hero-shell {
+  isolation: isolate;
+}
+
+.fl-page .marketing-hero-shell::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
   background: #FFFFFF;
+  z-index: -1;
 }
 
 .fl-page h1:first-child {
@@ -225,30 +239,6 @@
   background: linear-gradient(160deg, rgba(228, 77, 141, 0.16) 0%, rgba(255, 255, 255, 0.96) 76%);
 }
 
-/* "Ready to read labels..." CTA on white. Content is re-colored below so the
-   copy and links stay readable against the light surface. */
 .fl-page .marketing-cta-panel {
-  background: #FFFFFF;
-  border: 1px solid var(--app-accent-soft);
-  color: var(--color-text-strong);
-}
-
-.fl-page .marketing-cta-panel h2,
-.fl-page .marketing-cta-panel h3 {
-  color: var(--app-accent-strong);
-}
-
-.fl-page .marketing-cta-panel p {
-  color: var(--color-text-strong);
-}
-
-.fl-page .marketing-cta-panel .marketing-inline-link {
-  border-color: var(--app-accent-soft);
-  background: linear-gradient(180deg, #FFFFFF 0%, #FFF3F7 100%);
-  color: var(--app-accent-strong);
-}
-
-.fl-page .marketing-cta-panel .marketing-inline-link:hover {
-  border-color: rgba(138, 23, 58, 0.24);
-  background: linear-gradient(180deg, #FFFFFF 0%, #FFE9F1 100%);
+  background: linear-gradient(145deg, rgba(138, 23, 58, 0.98) 0%, rgba(228, 77, 141, 0.9) 100%);
 }

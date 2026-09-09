@@ -26,7 +26,10 @@
   content: "";
   position: absolute;
   top: 0;
-  bottom: 0;
+  /* Extend the white down through the showcase's 72px top-margin gap so the
+     hero flows straight into the showcase. Without this, the tinted page
+     background shows in that gap, reading as a pale band between two lines. */
+  bottom: -72px;
   left: 50%;
   width: 100vw;
   transform: translateX(-50%);
@@ -281,6 +284,7 @@
 }
 
 .jf-page h2.marketing-section-title::after,
+.jf-page h2.app-showcase-title::after,
 .jf-page .marketing-cta-panel h2::after {
   display: none;
 }

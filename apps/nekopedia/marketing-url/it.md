@@ -1,5 +1,5 @@
 ---
-layout: marketing
+layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "Identifica qualsiasi razza di gatto all'istante. Gratis, offline e privato."
@@ -10,51 +10,203 @@ redirect_from:
   - /marketing-url/nekopedia/it/
 ---
 
-# Che razza è quel gatto? Punta la fotocamera e scoprilo.
+# Ogni gatto ha una storia. Scoprila all'istante.
 
-Ecco Nekopedia, l'enciclopedia felina tascabile che dà un nome a qualsiasi razza in pochi secondi. Scatta una foto o scegline una dalla tua libreria e ottieni una corrispondenza istantanea tra 48 razze riconosciute. Niente internet, niente account, nessun costo.
+<!--gallery-->
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
+Scatta una foto di un gatto qualsiasi e Nekopedia ne indica la razza, poi apre tutta la storia che vi si cela dietro: temperamento, storia, origine e curiosità. Niente da digitare, niente ricerche, niente internet e nessun costo.
 
-## Perché gli amanti dei gatti scelgono Nekopedia
+<div class="marketing-chip-row" aria-label="Nekopedia highlights">
+  <span class="marketing-chip">48 razze</span>
+  <span class="marketing-chip">Funziona completamente offline</span>
+  <span class="marketing-chip">Gratis per sempre</span>
+  <span class="marketing-chip">Nessun account richiesto</span>
+</div>
 
-- **Risposte in pochi secondi, ovunque.** Identifica una razza al bar, al rifugio o sul tuo divano. Tutto avviene sul tuo dispositivo, quindi funziona anche senza Wi-Fi.
-- **Le tue foto restano tue.** Le immagini non lasciano mai il tuo dispositivo. Nessun account, nessun tracciamento, nessuna pubblicità. Mai.
-- **Gratis, senza trattenere nulla.** Nessun abbonamento, nessun acquisto in-app, nessun paywall. Ogni funzione è tua fin dal primo tocco.
-- **Molto più di un nome.** Immergiti in ricchi profili delle razze, gira per una mappa mondiale interattiva e affina il tuo occhio con giochi a quiz e di curiosità.
+<div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">48</span>
+    <span class="marketing-stat-label">razze di gatti con profili ricchi in stile CFA/TICA che puoi cercare ed esplorare</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">2</span>
+    <span class="marketing-stat-label">modalità di gioco, Quiz delle Razze e Curiosità Feline, che ampliano le tue conoscenze feline</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">100%</span>
+    <span class="marketing-stat-label">privato e offline, con foto e dati che restano sul tuo dispositivo</span>
+  </article>
+</div>
 
-## Altro da scoprire
+<div class="marketing-cta-row">
+  <div class="marketing-cta-badges">
+    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+      <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+    </a>
+  </div>
+  <p class="marketing-meta-note">Scaricala gratis su iPhone e iPad. Funziona su iOS 18.0 o successivo.</p>
+</div>
 
-Ogni scansione apre la porta a un profilo completo della razza: temperamento, origine, storia, aspettativa di vita, peso, altezza e foto, per tutte le 48 razze.
+<!--showcase-->
 
-Voglia di curiosare? La scheda Esplora ti consente di cercare le razze per nome o di girare per una mappa mondiale interattiva che mostra dove ciascuna ha avuto inizio. Ti piace un risultato? Salvalo nei Preferiti e torna quando vuoi, tutto memorizzato in modo privato sul tuo dispositivo.
+<section class="marketing-band" aria-labelledby="nk-why-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Perché gli amanti dei gatti la scelgono</p>
+    <h2 id="nk-why-title" class="marketing-section-title">Una guida tascabile serena e completa al mondo dei gatti.</h2>
+    <p class="marketing-section-intro">Nekopedia trasforma un momento di curiosità al bar in una risposta concreta, poi prosegue con la storia, il profilo e un po' di divertimento, il tutto senza registrazione e senza segnale.</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--two">
+    <article class="marketing-card marketing-card--featured">
+      <h3>Identifica qualsiasi gatto in pochi secondi</h3>
+      <p>Punta la fotocamera su un gatto qualsiasi, o scegli una foto dalla tua libreria, e ottieni una corrispondenza di razza con un punteggio di affidabilità in un attimo.</p>
+      <ul class="marketing-list">
+        <li>Un elenco ordinato di altre possibilità per i casi incerti</li>
+        <li>Ogni risultato rimanda direttamente a un profilo completo della razza</li>
+        <li>Funziona completamente offline, ovunque si trovi il gatto</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Profili che vale la pena leggere</h3>
+      <p>Ogni razza apre un profilo in stile CFA/TICA che spiega com'è davvero il gatto, non solo come si chiama.</p>
+      <ul class="marketing-list">
+        <li>Temperamento, aspettativa di vita, peso e altezza a colpo d'occhio</li>
+        <li>Paese di origine e storia della razza</li>
+        <li>Dettagli chiari e in linguaggio semplice per ogni razza</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Impara e gioca offline</h3>
+      <p>Trasforma tutto ciò che hai scansionato in un gioco con due modalità pensate per ampliare davvero le tue conoscenze feline.</p>
+      <ul class="marketing-list">
+        <li>Quiz delle Razze: indovina la razza a partire da una foto</li>
+        <li>Curiosità Feline: miti e fatti vero o falso</li>
+        <li>Nessuna connessione internet necessaria per giocare, mai</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Privato per impostazione predefinita</h3>
+      <p>Nessun account, nessuna analisi, nessuna pubblicità. Le tue foto non lasciano mai il tuo dispositivo e tutto funziona senza connessione.</p>
+      <ul class="marketing-list">
+        <li>Scansioni e preferiti restano memorizzati localmente</li>
+        <li>Niente per cui registrarsi e niente da pagare</li>
+        <li>Lo stesso approccio di fiducia su ogni pagina</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-Pronto per una sfida? Il Quiz delle Razze ti dà una foto e quattro scelte, dieci round alla volta, e assegna titoli di ricompensa man mano che sali. Sai distinguere un Siamese da un Birmano? Oppure passa a Curiosità Feline, round vero o falso che mescolano fatti reali sui gatti con miti allettanti per vedere quanto è affinato il tuo fiuto felino.
+<section class="marketing-band marketing-band--plain" aria-labelledby="nk-modes-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Architettura del prodotto</p>
+    <h2 id="nk-modes-title" class="marketing-section-title">Tre modi per goderne, un'unica guida amichevole in tutto.</h2>
+    <p class="marketing-section-intro">Ogni parte di Nekopedia risponde a uno stato d'animo diverso: una domanda al volo, un pomeriggio di esplorazione o una serata di giochi, mantenendo sempre lo stesso stile chiaro e leggibile.</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--three">
+    <article class="marketing-card marketing-card--featured">
+      <h3>Identifica</h3>
+      <p>Scansiona un gatto e ottieni una corrispondenza di razza con un punteggio di affidabilità e altre possibilità probabili.</p>
+      <ul class="marketing-list">
+        <li>Perfetto per il bar, il rifugio o il tuo divano</li>
+        <li>Salva qualsiasi risultato per rivederlo più tardi</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Esplora</h3>
+      <p>Cerca 48 razze per nome o esplora una mappa mondiale interattiva organizzata per paese di origine.</p>
+      <ul class="marketing-list">
+        <li>Tocca un segnaposto per vedere le razze di quella regione</li>
+        <li>Ottimo per pianificare, sognare e imparare</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Gioca</h3>
+      <p>Metti alla prova le tue conoscenze con due modalità di gioco offline che mescolano foto, fatti e miti.</p>
+      <ul class="marketing-list">
+        <li>Quiz delle Razze con titoli di ricompensa da guadagnare</li>
+        <li>Curiosità Feline per rapidi round vero o falso</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-## Parla la tua lingua
+<section class="marketing-band" aria-labelledby="nk-flow-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Come funziona</p>
+    <h2 id="nk-flow-title" class="marketing-section-title">Da una foto alla storia completa in cinque semplici passaggi.</h2>
+  </div>
+  <div class="marketing-step-grid">
+    <article class="marketing-step">
+      <h3>Apri Nekopedia</h3>
+      <p>Pronta in pochi secondi, senza account, senza registrazione e senza configurazione da affrontare prima.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Scatta o scegli una foto</h3>
+      <p>Usa la fotocamera su un gatto qualsiasi, o scegli una foto esistente dalla tua libreria.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Vedi il tuo risultato</h3>
+      <p>Ottieni il nome della razza, un punteggio di affidabilità e un profilo completo con temperamento, taglia, origine e storia.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Salva i tuoi preferiti</h3>
+      <p>Conserva le razze che ami in una libreria personale che resta memorizzata sul tuo dispositivo.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Continua a esplorare</h3>
+      <p>Cerca razze, esplora la mappa mondiale o gioca a Quiz delle Razze e Curiosità Feline quando vuoi.</p>
+    </article>
+  </div>
+</section>
 
-Nekopedia è completamente localizzata in 14 lingue: i nomi delle razze, i profili, le curiosità e l'intera interfaccia si adattano al tuo dispositivo, layout da destra a sinistra inclusi. Esplora il mondo dei gatti nella lingua in cui ti senti più a tuo agio.
+<section class="marketing-band marketing-band--plain" aria-labelledby="nk-audience-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">A chi è dedicata</p>
+    <h2 id="nk-audience-title" class="marketing-section-title">Un regalo per chiunque ami incontrare nuovi gatti.</h2>
+  </div>
+  <div class="marketing-story-grid">
+    <article class="marketing-story-card">
+      <h3>Conserva una libreria dei gatti che incontri</h3>
+      <p>Salva qualsiasi scansione con la sua razza e il punteggio di affidabilità, poi rivedila quando vuoi. È utile per ricordare il gatto del bar, confrontare i sosia e imparare qualcosa in più ogni volta.</p>
+    </article>
+    <article class="marketing-story-card">
+      <h3>Fatta per gli amanti curiosi dei gatti</h3>
+      <ul class="marketing-list">
+        <li>Neo-proprietari di gattini che cercano di capire l'incrocio</li>
+        <li>Visitatori di rifugi e gattili che incontrano molti gatti</li>
+        <li>Habitué del bar che si chiedono sempre "che razza è quello?"</li>
+        <li>Bambini e famiglie che imparano insieme le razze</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-## Come funziona
+<section class="marketing-band" aria-labelledby="nk-offer-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Offerta e fiducia</p>
+    <h2 id="nk-offer-title" class="marketing-section-title">Gratis da scaricare. Privata per design.</h2>
+  </div>
+  <div class="marketing-price-grid">
+    <article class="marketing-price-card is-featured">
+      <span class="marketing-price-tier">Incluso oggi</span>
+      <h3 class="marketing-price-summary">Ogni funzione è disponibile senza costi.</h3>
+      <p>Identifica le razze, leggi profili completi, salva i preferiti, esplora la mappa e gioca a entrambi i giochi senza account, abbonamento o paywall.</p>
+      <p class="marketing-price-note">Compatibile con iPhone e iPad su iOS 18.0 o successivo.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">Approccio alla privacy</span>
+      <h3 class="marketing-price-summary">Nessun server. Nessun cloud. Nessun tracciamento.</h3>
+      <p>Le tue foto non lasciano mai il tuo dispositivo. Identificazione, profili e giochi funzionano tutti localmente, così la promessa del prodotto è chiara quanto l'interfaccia.</p>
+      <p class="marketing-price-note">Lo stesso approccio incentrato sulla privacy si ritrova nelle pagine di panoramica, supporto e policy.</p>
+    </article>
+  </div>
+</section>
 
-1. **Apri l'app** e sei pronto in pochi secondi, senza registrazione
-2. **Scatta una foto** di un gatto qualsiasi o scegline una dalla tua libreria
-3. **Ottieni il tuo risultato** con il nome della razza, il punteggio di affidabilità, le corrispondenze alternative e un profilo dettagliato della razza
-
-## Inizia a identificare i gatti oggi
-
-È gratis, privata e pronta all'uso appena la apri.
-
-## Compatibilità
-
-iOS 18.0 o successivo · iPhone e iPad
-
-## La tua privacy, protetta
-
-Le tue foto non lasciano mai il tuo dispositivo. Nessun account, nessuna analisi, nessuna pubblicità. Solo tu e i gatti.
-
-Leggi la nostra [Informativa sulla Privacy](https://www.bartlettbutter.com/nekopedia/privacy/) completa.
-
-## Hai bisogno di aiuto?
-
-Visita la nostra [Pagina di Supporto](https://www.bartlettbutter.com/nekopedia/support/) o inviaci un'e-mail all'indirizzo [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+<section class="marketing-cta-panel" aria-labelledby="nk-next-title">
+  <h2 id="nk-next-title">Pronto a dare un nome a ogni gatto che incontri?</h2>
+  <p>Scarica Nekopedia, inizia subito a scansionare e tieni il resto del mondo delle razze a portata di mano ogni volta che ti coglie la curiosità.</p>
+  <div class="marketing-link-row">
+    <a class="marketing-inline-link" href="/nekopedia/support/">Visita il supporto</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/">Leggi l'informativa sulla privacy</a>
+    <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
+  </div>
+</section>

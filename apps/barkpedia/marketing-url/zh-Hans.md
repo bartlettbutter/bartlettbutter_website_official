@@ -1,5 +1,5 @@
 ---
-layout: marketing
+layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "即时识别任何狗的品种。免费、离线、私密。"
@@ -12,55 +12,201 @@ redirect_from:
 
 # 每只狗都有故事。即刻发现它。
 
-拍摄一张照片，识别品种，解锁关于它的一切：性格、历史、趣闻等等。无需联网，无需注册，无需付费。
+<!--gallery-->
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+拍摄任何一只狗的照片，Barkpedia便会叫出它的品种，随后为您展开它背后的整个故事——性格、历史、起源和趣闻。无需打字，无需搜索，无需联网，无需付费。
 
-## 为何爱狗人士选择Barkpedia
+<div class="marketing-chip-row" aria-label="Barkpedia highlights">
+  <span class="marketing-chip">147个品种</span>
+  <span class="marketing-chip">完全离线运行</span>
+  <span class="marketing-chip">永久免费</span>
+  <span class="marketing-chip">无需账户</span>
+</div>
 
-- **随时随地即时获得答案。** 在公园、收容所或您的沙发上，几秒内识别147个品种。完全离线运行。
-- **您的隐私至上。** 照片永远不会离开您的设备。没有账户，没有追踪，没有广告。就这么简单。
-- **永久免费。** 没有订阅，没有应用内购买，没有付费墙。下载一次即可享受所有功能。
-- **学习、探索和玩乐。** 通过详细的品种资料、交互式世界地图和两款测验游戏超越识别本身，检验（并提升）您的狗狗知识。
+<div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">147</span>
+    <span class="marketing-stat-label">个狗品种，配以丰富的AKC风格资料，供您搜索和探索</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">2</span>
+    <span class="marketing-stat-label">种游戏模式，品种测验和狗狗问答，助您增长狗狗知识</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">100%</span>
+    <span class="marketing-stat-label">私密且离线，照片和数据都保留在您的设备上</span>
+  </article>
+</div>
 
-## 您可以用Barkpedia做什么
+<div class="marketing-cta-row">
+  <div class="marketing-cta-badges">
+    <a href="https://apps.apple.com/us/app/barkpedia/id6762066596">
+      <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+    </a>
+  </div>
+  <p class="marketing-meta-note">在iPhone和iPad上免费下载。需要iOS 18.0或更高版本。</p>
+</div>
 
-### 扫描并识别
+<!--showcase-->
 
-将相机对准任何一只狗，或从相册中选择一张照片，即可获得带有置信度分数的品种匹配。每个结果都链接到丰富的品种资料，包括性格、体型、活力水平、起源故事和照片。
+<section class="marketing-band" aria-labelledby="bp-why-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">爱狗人士为何选择它</p>
+    <h2 id="bp-why-title" class="marketing-section-title">一份沉稳、完整的口袋狗世界指南。</h2>
+    <p class="marketing-section-intro">Barkpedia将公园里一个好奇的瞬间变成真正的答案，随后继续带来历史、资料和一点乐趣——全程无需注册，也无需信号。</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--two">
+    <article class="marketing-card marketing-card--featured">
+      <h3>几秒识别任何一只狗</h3>
+      <p>将相机对准任何一只狗，或从相册中选择一张照片，片刻之间即可获得带有置信度分数的品种匹配。</p>
+      <ul class="marketing-list">
+        <li>对于难以判断的情况，提供其他可能性的排名列表</li>
+        <li>每个结果都直接链接到完整的品种资料</li>
+        <li>完全离线运行，无论狗在哪里</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>值得一读的资料</h3>
+      <p>每个品种都会打开一份AKC风格的资料，解释这只狗真正是什么样子，而不仅仅是它叫什么。</p>
+      <ul class="marketing-list">
+        <li>一目了然的性格、寿命、体重和身高</li>
+        <li>原产国和品种的历史</li>
+        <li>为每个品种提供清晰、通俗的细节</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>离线学习与玩乐</h3>
+      <p>将您扫描过的一切变成游戏，两种模式旨在增长真正的狗狗知识。</p>
+      <ul class="marketing-list">
+        <li>品种测验：从照片中猜出品种</li>
+        <li>狗狗问答：真假判断的谬误与事实</li>
+        <li>玩游戏永远无需联网</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>默认私密</h3>
+      <p>没有账户，没有分析，没有广告。您的照片永远不会离开您的设备，一切都无需联网即可运行。</p>
+      <ul class="marketing-list">
+        <li>扫描结果和收藏都存储在本地</li>
+        <li>无需注册，也无需付费</li>
+        <li>每个页面都保持一致的信任姿态</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-### 保存您的收藏
+<section class="marketing-band marketing-band--plain" aria-labelledby="bp-modes-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">产品架构</p>
+    <h2 id="bp-modes-title" class="marketing-section-title">三种享受方式，全程一位友好的向导。</h2>
+    <p class="marketing-section-intro">Barkpedia的每个部分都回应一种不同的心情——一个快速的疑问、一个悠闲浏览的下午，或一个游戏之夜——同时保持同样清晰、易读的风格。</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--three">
+    <article class="marketing-card marketing-card--featured">
+      <h3>识别</h3>
+      <p>扫描一只狗，获得带有置信度分数的品种匹配以及其他可能的候选。</p>
+      <ul class="marketing-list">
+        <li>最适合在公园、收容所或您的沙发上使用</li>
+        <li>保存任何结果以便日后重温</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>探索</h3>
+      <p>按名称搜索147个品种，或浏览按原产国组织的交互式世界地图。</p>
+      <ul class="marketing-list">
+        <li>点击图钉即可查看该地区的品种</li>
+        <li>非常适合计划、憧憬和学习</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>玩乐</h3>
+      <p>用两种离线游戏模式检验您的知识，它们融合了照片、事实和谬误。</p>
+      <ul class="marketing-list">
+        <li>品种测验，可赢取奖励称号</li>
+        <li>狗狗问答，快速的真假判断回合</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-喜欢某个品种？保存您的扫描结果并随时重温。所有内容都存储在您的设备本地。
+<section class="marketing-band" aria-labelledby="bp-flow-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">工作原理</p>
+    <h2 id="bp-flow-title" class="marketing-section-title">五个简单步骤，从一张照片到完整故事。</h2>
+  </div>
+  <div class="marketing-step-grid">
+    <article class="marketing-step">
+      <h3>打开Barkpedia</h3>
+      <p>几秒内就绪，无需账户，无需注册，也无需先完成任何设置。</p>
+    </article>
+    <article class="marketing-step">
+      <h3>拍摄或选择照片</h3>
+      <p>用相机对准任何一只狗，或从相册中选择一张现有照片。</p>
+    </article>
+    <article class="marketing-step">
+      <h3>查看您的结果</h3>
+      <p>获得品种名称、置信度分数，以及一份包含性格、体型、起源和历史的完整资料。</p>
+    </article>
+    <article class="marketing-step">
+      <h3>保存您的收藏</h3>
+      <p>将您喜爱的品种保存在个人库中，它会存储在您的设备上。</p>
+    </article>
+    <article class="marketing-step">
+      <h3>继续探索</h3>
+      <p>随时搜索品种、浏览世界地图，或玩品种测验和狗狗问答。</p>
+    </article>
+  </div>
+</section>
 
-### 探索世界各地的品种
+<section class="marketing-band marketing-band--plain" aria-labelledby="bp-audience-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">它为谁服务</p>
+    <h2 id="bp-audience-title" class="marketing-section-title">送给每一个爱结识新狗狗的人的礼物。</h2>
+  </div>
+  <div class="marketing-story-grid">
+    <article class="marketing-story-card">
+      <h3>为您遇到的狗狗建立一个库</h3>
+      <p>保存任何扫描结果及其品种和置信度分数，然后随时重温。它有助于记住公园里的那只狗、比较相像的品种，并每次多学一点。</p>
+    </article>
+    <article class="marketing-story-card">
+      <h3>为好奇的爱狗人士打造</h3>
+      <ul class="marketing-list">
+        <li>正在弄清自家混血狗的新手狗爸狗妈</li>
+        <li>遇见众多狗狗的收容所与救助站访客</li>
+        <li>总在琢磨"那是什么品种？"的公园常客</li>
+        <li>一起学习品种的孩子和家庭</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-按名称搜索147个品种，或浏览按原产国组织的交互式世界地图。点击一个图钉，发现该地区有哪些品种并深入了解它们的资料。
+<section class="marketing-band" aria-labelledby="bp-offer-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">优惠与信任</p>
+    <h2 id="bp-offer-title" class="marketing-section-title">免费下载。以隐私为本设计。</h2>
+  </div>
+  <div class="marketing-price-grid">
+    <article class="marketing-price-card is-featured">
+      <span class="marketing-price-tier">现已包含</span>
+      <h3 class="marketing-price-summary">每项功能都可免费使用。</h3>
+      <p>识别品种、阅读完整资料、保存收藏、探索地图，以及畅玩两款游戏，无需账户、订阅或付费墙。</p>
+      <p class="marketing-price-note">兼容iPhone和iPad，需要iOS 18.0或更高版本。</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">隐私姿态</span>
+      <h3 class="marketing-price-summary">没有服务器。没有云端。没有追踪。</h3>
+      <p>您的照片永远不会离开您的设备。识别、资料和游戏全部在本地运行，所以产品承诺和界面一样清晰。</p>
+      <p class="marketing-price-note">同样的隐私优先理念贯穿概览、支持和政策页面。</p>
+    </article>
+  </div>
+</section>
 
-### 挑战自己
-
-用两种游戏模式检验您的品种知识：
-
-- **品种测验** — 从照片中猜出品种。10道题，四个选项，赢取奖励称号。
-- **狗狗问答** — 真的还是假的？10轮真实事实与巧妙谬误的混合。完全离线运行。
-
-## 工作原理
-
-1. **打开Barkpedia** — 几秒内就绪，无需账户
-2. **拍摄或选择**任何一只狗的照片
-3. **查看结果** — 品种名称、置信度分数和完整资料
-4. **继续探索** — 搜索品种、浏览地图，或玩测验和问答
-
-## 兼容性
-
-iOS 18.0或更高版本 · iPhone和iPad
-
-## 您的隐私，受到保护
-
-您的照片永远不会离开您的设备。没有账户，没有分析，没有广告。只有您和狗狗。
-
-阅读我们完整的[隐私政策](https://www.bartlettbutter.com/barkpedia/privacy/)。
-
-## 需要帮助？
-
-访问我们的[支持页面](https://www.bartlettbutter.com/barkpedia/support/)或发送电子邮件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。
+<section class="marketing-cta-panel" aria-labelledby="bp-next-title">
+  <h2 id="bp-next-title">准备好叫出您遇到的每一只狗了吗？</h2>
+  <p>下载Barkpedia，立即开始扫描，并在好奇心涌上心头时随时把整个品种世界握在手中。</p>
+  <div class="marketing-link-row">
+    <a class="marketing-inline-link" href="/barkpedia/support/">访问支持</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/">阅读隐私政策</a>
+    <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
+  </div>
+</section>

@@ -1,0 +1,67 @@
+# Per-app marketing data for Huepick, keyed by language code (mirrors the
+# convention in _data/home.yml). Consumed by _layouts/app-huepick.html via
+# _includes/marketing/showcase.html and hero-gallery.html. Each language
+# mirrors the `en` structure; languages without their own entry fall back to
+# `en` so every localized page still renders the showcase.
+#
+# Screenshots live in /assets/screenshots/huepick/ (660px-wide web copies of
+# the App Store mockups; the captions baked into each image are English, so the
+# narratives here add explanation rather than repeat the on-image text).
+
+en:
+  hero_gallery:
+    # No label/title: this strip is purely visual and shared across all
+    # languages (see the layout's en fallback), so it carries no translatable
+    # copy. `alt` is a generic, per-screen accessible description.
+    alt: "Huepick app screen"
+    shots:
+      - /assets/screenshots/huepick/hero/01.png
+      - /assets/screenshots/huepick/hero/02.png
+      - /assets/screenshots/huepick/hero/03.png
+      - /assets/screenshots/huepick/hero/04.png
+      - /assets/screenshots/huepick/hero/05.png
+      - /assets/screenshots/huepick/hero/06.png
+      - /assets/screenshots/huepick/hero/07.png
+      - /assets/screenshots/huepick/hero/08.png
+      - /assets/screenshots/huepick/hero/09.png
+  showcase:
+    label: "See it in action"
+    title: "From a single photo to a palette you can actually use"
+    intro: "Every screen of Huepick is built to answer a color lover's questions fast: what colors are in this image, what makes them work, and what can I create with them?"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "Huepick promotional screen with a color wheel and the line turn everyday inspiration into colors that last"
+        title: "Turn everyday inspiration into color"
+        body: "A sunset, a mural, a fabric swatch — anything that catches your eye becomes a palette you can keep. Huepick makes the colors around you easy to capture and reuse."
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "Huepick welcome screen listing Analyze and Extract, Creative Playground, Make It Yours, and Your Gallery"
+        title: "Everything Huepick does, at a glance"
+        body: "Open the app and start right away — no account, no cost. Extract palettes, play with creative effects, fine-tune every result, and keep it all in your own gallery."
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "Analyze screen prompting to start with a photo using the camera or photo library"
+        title: "Start with any photo"
+        body: "Take a new shot with the camera or choose one from your library. Huepick extracts the colors, analyzes your palette, and recommends the creative tools that suit the image."
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "Extracted palette of twelve colors with hex codes and a color analysis overview for a photo of leaves"
+        title: "Instant twelve-color palettes"
+        body: "Huepick pulls up to twelve dominant colors from your photo in an instant. Tap any swatch to copy its hex code, and see an overview with chromatic count, diversity, and hue spread."
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "Color analysis showing color variety, saturation, lightness, and contrast plus recommended creative tools with match scores"
+        title: "Understand what makes it work"
+        body: "Clear read-outs for color variety, saturation, lightness, and contrast explain the mood of your palette. Huepick then recommends the creative tools most likely to shine, each with a match score."
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "Isolate tool keeping one selected color while the rest of the leaf photo turns monochrome"
+        title: "Isolate the colors that matter"
+        body: "Spotlight the exact colors from your palette and let everything else fall to monochrome. Keep or remove selected colors to create striking selective-color images."
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "Pixelize tool with tile shape options such as square, circle, hexagon, and heart, and a tile size slider"
+        title: "Rebuild your photo in tiles"
+        body: "Turn any image into a mosaic with ten tile shapes — square, circle, hexagon, diamond, star, heart, and more — and a slider to dial the tile size exactly where you want it."
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "Blur tool showing styles including Soft, H-Motion, V-Motion, Zoom, Tilt-Shift, and Bokeh with an intensity slider"
+        title: "Master soft, dreamy blur"
+        body: "Choose from blur styles like Soft, Zoom, Tilt-Shift, and Bokeh, then set the intensity to add atmospheric focus and depth to any photo."
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "Gallery grid of saved creations labeled Glitch, Blur, Pixelize, Tritone, and Isolate"
+        title: "Keep every creation in one place"
+        body: "Each palette and edit you save lives in your gallery. Re-edit, download to your Photos, or share your creations anytime — all stored privately on your device."

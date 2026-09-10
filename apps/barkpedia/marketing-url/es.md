@@ -1,5 +1,5 @@
 ---
-layout: marketing
+layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "Identifica cualquier raza de perro al instante. Gratis, sin conexión y privado."
@@ -12,55 +12,201 @@ redirect_from:
 
 # Cada perro tiene una historia. Descúbrela al instante.
 
-Haz una foto, identifica la raza y descubre todo lo que hay que saber: temperamento, historia, datos curiosos y más. Sin necesidad de internet, sin registro, sin coste.
+<!--gallery-->
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la historia que hay detrás: temperamento, historia, origen y datos curiosos. Sin teclear, sin buscar, sin internet y sin coste.
 
-## Por qué los amantes de los perros eligen Barkpedia
+<div class="marketing-chip-row" aria-label="Barkpedia highlights">
+  <span class="marketing-chip">147 razas</span>
+  <span class="marketing-chip">Funciona totalmente sin conexión</span>
+  <span class="marketing-chip">Gratis para siempre</span>
+  <span class="marketing-chip">Sin necesidad de cuenta</span>
+</div>
 
-- **Respuestas al instante, en cualquier lugar.** Identifica 147 razas en segundos: en el parque, en el refugio o en tu sofá. Funciona completamente sin conexión.
-- **Tu privacidad es lo primero.** Las fotos nunca salen de tu dispositivo. Sin cuentas, sin rastreo, sin anuncios. Punto.
-- **Gratis para siempre.** Sin suscripciones, sin compras dentro de la aplicación, sin muros de pago. Descárgala una vez y disfruta de todas las funciones.
-- **Aprende, explora y juega.** Ve más allá de la identificación con perfiles detallados de razas, un mapa mundial interactivo y dos juegos de preguntas que ponen a prueba (y amplían) tus conocimientos caninos.
+<div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">147</span>
+    <span class="marketing-stat-label">razas de perro con perfiles completos al estilo AKC que puedes buscar y explorar</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">2</span>
+    <span class="marketing-stat-label">modos de juego, Concurso de Razas y Curiosidades Caninas, que amplían tus conocimientos caninos</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">100%</span>
+    <span class="marketing-stat-label">privado y sin conexión, con las fotos y los datos guardados en tu dispositivo</span>
+  </article>
+</div>
 
-## Qué puedes hacer con Barkpedia
+<div class="marketing-cta-row">
+  <div class="marketing-cta-badges">
+    <a href="https://apps.apple.com/us/app/barkpedia/id6762066596">
+      <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+    </a>
+  </div>
+  <p class="marketing-meta-note">Descarga gratuita en iPhone y iPad. Funciona en iOS 18.0 o posterior.</p>
+</div>
 
-### Escanea e identifica
+<!--showcase-->
 
-Apunta tu cámara a cualquier perro, o elige una foto de tu galería, y obtén una coincidencia de raza con una puntuación de confianza. Cada resultado enlaza con un perfil de raza completo con temperamento, tamaño, nivel de energía, historia de origen y fotos.
+<section class="marketing-band" aria-labelledby="bp-why-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Por qué lo eligen los amantes de los perros</p>
+    <h2 id="bp-why-title" class="marketing-section-title">Una guía de bolsillo tranquila y completa del mundo canino.</h2>
+    <p class="marketing-section-intro">Barkpedia convierte un momento de curiosidad en el parque en una respuesta real, y sigue con la historia, el perfil y un poco de diversión, todo sin registro ni señal.</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--two">
+    <article class="marketing-card marketing-card--featured">
+      <h3>Identifica cualquier perro en segundos</h3>
+      <p>Apunta tu cámara a cualquier perro, o elige una foto de tu galería, y obtén una coincidencia de raza con una puntuación de confianza en un instante.</p>
+      <ul class="marketing-list">
+        <li>Una lista ordenada de otras posibilidades para los casos difíciles</li>
+        <li>Cada resultado enlaza directamente con un perfil de raza completo</li>
+        <li>Funciona completamente sin conexión, esté donde esté el perro</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Perfiles que vale la pena leer</h3>
+      <p>Cada raza abre un perfil al estilo AKC que explica cómo es realmente el perro, no solo cómo se llama.</p>
+      <ul class="marketing-list">
+        <li>Temperamento, esperanza de vida, peso y altura de un vistazo</li>
+        <li>País de origen y la historia de la raza</li>
+        <li>Detalles claros y en lenguaje sencillo para cada raza</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Aprende y juega sin conexión</h3>
+      <p>Convierte todo lo que has escaneado en un juego con dos modos diseñados para ampliar tus conocimientos caninos reales.</p>
+      <ul class="marketing-list">
+        <li>Concurso de Razas: adivina la raza a partir de una foto</li>
+        <li>Curiosidades Caninas: mitos y datos de verdadero o falso</li>
+        <li>No necesitas internet para jugar, nunca</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Privado por defecto</h3>
+      <p>Sin cuentas, sin analíticas, sin anuncios. Tus fotos nunca salen de tu dispositivo y todo funciona sin conexión.</p>
+      <ul class="marketing-list">
+        <li>Los escaneos y favoritos se guardan localmente</li>
+        <li>Nada que registrar y nada que pagar</li>
+        <li>La misma postura de confianza en todas las páginas</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-### Guarda tus favoritos
+<section class="marketing-band marketing-band--plain" aria-labelledby="bp-modes-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Arquitectura del producto</p>
+    <h2 id="bp-modes-title" class="marketing-section-title">Tres formas de disfrutarlo, una guía amigable de principio a fin.</h2>
+    <p class="marketing-section-intro">Cada parte de Barkpedia responde a un estado de ánimo diferente: una pregunta rápida, una tarde de exploración o una noche de juegos, manteniendo siempre el mismo estilo claro y legible.</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--three">
+    <article class="marketing-card marketing-card--featured">
+      <h3>Identifica</h3>
+      <p>Escanea un perro y obtén una coincidencia de raza con una puntuación de confianza y otras posibilidades probables.</p>
+      <ul class="marketing-list">
+        <li>Ideal para el parque, el refugio o tu sofá</li>
+        <li>Guarda cualquier resultado para revisarlo más tarde</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Explora</h3>
+      <p>Busca 147 razas por nombre o navega por un mapa mundial interactivo organizado por país de origen.</p>
+      <ul class="marketing-list">
+        <li>Toca un marcador para ver las razas de esa región</li>
+        <li>Perfecto para planificar, soñar y aprender</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Juega</h3>
+      <p>Pon a prueba tus conocimientos con dos modos de juego sin conexión que mezclan fotos, datos y mitos.</p>
+      <ul class="marketing-list">
+        <li>Concurso de Razas con títulos de recompensa por ganar</li>
+        <li>Curiosidades Caninas para rondas rápidas de verdadero o falso</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-¿Te encanta una raza? Guarda tus resultados de escaneo y revísalos cuando quieras. Todo se almacena localmente en tu dispositivo.
+<section class="marketing-band" aria-labelledby="bp-flow-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Cómo funciona</p>
+    <h2 id="bp-flow-title" class="marketing-section-title">De una foto a la historia completa en cinco sencillos pasos.</h2>
+  </div>
+  <div class="marketing-step-grid">
+    <article class="marketing-step">
+      <h3>Abre Barkpedia</h3>
+      <p>Lista en segundos, sin cuenta, sin registro y sin configuración que resolver primero.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Haz o elige una foto</h3>
+      <p>Usa tu cámara con cualquier perro, o elige una foto existente de tu galería.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Ve tu resultado</h3>
+      <p>Obtén el nombre de la raza, una puntuación de confianza y un perfil completo con temperamento, tamaño, origen e historia.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Guarda tus favoritos</h3>
+      <p>Conserva las razas que te encantan en una biblioteca personal que se guarda en tu dispositivo.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Sigue explorando</h3>
+      <p>Busca razas, navega por el mapa mundial o juega al Concurso de Razas y las Curiosidades Caninas cuando quieras.</p>
+    </article>
+  </div>
+</section>
 
-### Explora razas de todo el mundo
+<section class="marketing-band marketing-band--plain" aria-labelledby="bp-audience-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">A quién sirve</p>
+    <h2 id="bp-audience-title" class="marketing-section-title">Un regalo para quien disfruta conociendo perros nuevos.</h2>
+  </div>
+  <div class="marketing-story-grid">
+    <article class="marketing-story-card">
+      <h3>Guarda una biblioteca de los perros que conoces</h3>
+      <p>Guarda cualquier escaneo con su raza y puntuación de confianza, y revísalo cuando quieras. Es útil para recordar al perro del parque, comparar parecidos y aprender un poco más cada vez.</p>
+    </article>
+    <article class="marketing-story-card">
+      <h3>Hecho para gente curiosa que ama a los perros</h3>
+      <ul class="marketing-list">
+        <li>Nuevos dueños de cachorros que quieren averiguar su mezcla</li>
+        <li>Visitantes de refugios y rescates que conocen muchos perros</li>
+        <li>Habituales del parque que siempre se preguntan "¿qué raza es esa?"</li>
+        <li>Niños y familias que aprenden razas juntos</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-Busca 147 razas por nombre o navega por un mapa mundial interactivo organizado por país de origen. Toca un marcador para descubrir qué razas provienen de esa región y adéntrate en sus perfiles.
+<section class="marketing-band" aria-labelledby="bp-offer-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Oferta y confianza</p>
+    <h2 id="bp-offer-title" class="marketing-section-title">Descarga gratuita. Privado por diseño.</h2>
+  </div>
+  <div class="marketing-price-grid">
+    <article class="marketing-price-card is-featured">
+      <span class="marketing-price-tier">Incluido hoy</span>
+      <h3 class="marketing-price-summary">Todas las funciones están disponibles sin coste.</h3>
+      <p>Identifica razas, lee perfiles completos, guarda favoritos, explora el mapa y juega a ambos juegos sin cuenta, sin suscripción y sin muro de pago.</p>
+      <p class="marketing-price-note">Compatible con iPhone y iPad en iOS 18.0 o posterior.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">Postura de privacidad</span>
+      <h3 class="marketing-price-summary">Sin servidores. Sin nube. Sin rastreo.</h3>
+      <p>Tus fotos nunca salen de tu dispositivo. La identificación, los perfiles y los juegos funcionan localmente, así que la promesa del producto es tan clara como la interfaz.</p>
+      <p class="marketing-price-note">Ese mismo enfoque de privacidad ante todo se mantiene en las páginas de resumen, soporte y políticas.</p>
+    </article>
+  </div>
+</section>
 
-### Ponte a prueba
-
-Pon a prueba tus conocimientos de razas con dos modos de juego:
-
-- **Concurso de Razas** — Adivina la raza a partir de una foto. 10 preguntas, cuatro opciones, gana títulos de recompensa.
-- **Curiosidades Caninas** — ¿Verdadero o falso? 10 rondas de datos reales mezclados con mitos ingeniosos. Funciona completamente sin conexión.
-
-## Cómo funciona
-
-1. **Abre Barkpedia** — listo en segundos, sin necesidad de cuenta
-2. **Haz o elige una foto** de cualquier perro
-3. **Ve tu resultado** — nombre de la raza, puntuación de confianza y perfil completo
-4. **Sigue explorando** — busca razas, navega por el mapa o juega al Concurso y las Curiosidades
-
-## Compatibilidad
-
-iOS 18.0 o posterior · iPhone y iPad
-
-## Tu privacidad, protegida
-
-Tus fotos nunca salen de tu dispositivo. Sin cuentas, sin analíticas, sin anuncios. Solo tú y los perros.
-
-Lee nuestra [Política de Privacidad](https://www.bartlettbutter.com/barkpedia/privacy/) completa.
-
-## ¿Necesitas ayuda?
-
-Visita nuestra [Página de Soporte](https://www.bartlettbutter.com/barkpedia/support/) o envíanos un correo electrónico a [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+<section class="marketing-cta-panel" aria-labelledby="bp-next-title">
+  <h2 id="bp-next-title">¿Listo para nombrar a cada perro que conozcas?</h2>
+  <p>Descarga Barkpedia, empieza a escanear de inmediato y ten el resto del mundo de las razas a mano siempre que surja la curiosidad.</p>
+  <div class="marketing-link-row">
+    <a class="marketing-inline-link" href="/barkpedia/support/">Visitar soporte</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/">Leer política de privacidad</a>
+    <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
+  </div>
+</section>

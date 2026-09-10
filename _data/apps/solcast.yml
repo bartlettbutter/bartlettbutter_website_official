@@ -1,0 +1,52 @@
+# Per-app marketing data for Solcast, keyed by language code (mirrors the
+# convention in _data/home.yml). Consumed by _layouts/app-solcast.html via
+# _includes/marketing/showcase.html and hero-gallery.html. Each language
+# mirrors the `en` structure; languages without their own entry fall back to
+# `en` so every localized page still renders the showcase.
+#
+# Screenshots live in /assets/screenshots/solcast/ (660px-wide web copies of
+# the App Store mockups; the captions baked into each image are English, so the
+# narratives here add explanation rather than repeat the on-image text).
+
+en:
+  hero_gallery:
+    # No label/title: this strip is purely visual and shared across all
+    # languages (see the layout's en fallback), so it carries no translatable
+    # copy. `alt` is a generic, per-screen accessible description.
+    alt: "Solcast app screen"
+    shots:
+      - /assets/screenshots/solcast/hero/01.png
+      - /assets/screenshots/solcast/hero/02.png
+      - /assets/screenshots/solcast/hero/03.png
+      - /assets/screenshots/solcast/hero/04.png
+      - /assets/screenshots/solcast/hero/05.png
+      - /assets/screenshots/solcast/hero/06.png
+  showcase:
+    label: "See it in action"
+    title: "From raw forecast to a plan for your actual day"
+    intro: "Every screen of Solcast turns weather data into plain-language guidance: what to expect, what to wear, and how to protect the people and pets you care about."
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Solcast welcome screen describing forecast, outfit picks, lifestyle indices, and sensitivity-aware alerts"
+        title: "Your weather-powered life companion"
+        body: "Open Solcast and start right away — no account, no ads, no sign-up. A real-time 7-day forecast, smart outfit picks, personalized lifestyle indices, and sensitivity-aware alerts are all one tap from the start screen."
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "Home dashboard with city tabs and a Today's Briefing of clear-language weather advice"
+        title: "Today at a glance, in plain language"
+        body: "Your daily briefing reads like a helpful note: clear skies and the day's temperature, when to apply SPF, the best window for a workout, air-quality tips, and how light to dress — with the current conditions summarized right below."
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "Today in Detail screen showing temperature, wind, precipitation, and atmosphere metrics"
+        title: "Today in full detail"
+        body: "Tap through for the complete picture — average, high, low, feels-like, and day swing temperatures, plus wind speed and gusts, precipitation and probability, humidity, pressure, and solar and UV readings in one scrollable view."
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "Lifestyle Indices screen with dressing, comfort, UV, SPF, sunglasses, skin care, flu risk, allergy, air pollution, and sports ratings"
+        title: "Science-backed lifestyle indices"
+        body: "Sixteen lifestyle indices translate the data into action — dressing comfort, UV, SPF, sunglasses, skin care, flu risk, allergy, air pollution, sports, and more — each color-coded with a short, practical recommendation."
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "Settings screen with temperature unit, temperature tolerance, sensitivity toggles, dressing style, and household options"
+        title: "Personalized to how you live"
+        body: "Set your temperature unit, whether you run hot or cold, and toggle sun, eye, allergy, and migraine sensitivities. Choose your dressing style and household details so every recommendation adapts to you."
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "Locations screen with a search field and a reorderable list of saved cities across several countries"
+        title: "All your places, one app"
+        body: "Search and save the cities that matter, reorder them to taste, and monitor locations worldwide. Each is shown in its own local timezone, with more places unlocked on Premium."

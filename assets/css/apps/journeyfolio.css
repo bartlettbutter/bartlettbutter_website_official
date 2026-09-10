@@ -342,6 +342,7 @@
   border-color: rgba(27, 78, 173, 0.18);
   background: #FFFFFF;
   color: var(--app-accent-strong);
+  text-decoration: none;
 }
 
 .jf-page .marketing-cta-panel .marketing-inline-link:not(.marketing-inline-link--static):hover {

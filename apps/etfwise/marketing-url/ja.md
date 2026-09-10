@@ -12,9 +12,9 @@ redirect_from:
 
 # ETF投資におけるあなたの日々の優位性。
 
-<!--gallery-->
-
 無限のティッカーをスクロールするのはもうやめましょう。ETFWiseは、リアルタイムの市場データ、リアルタイムのニュースセンチメント、そして決してデバイスから出ない即時分析に裏打ちされた、7つのカテゴリーにわたる厳選された毎日のETF推奨を提供します。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7カテゴリー</span>

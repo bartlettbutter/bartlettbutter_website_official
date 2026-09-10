@@ -12,9 +12,9 @@ redirect_from:
 
 # ETF yatırımında günlük avantajınız.
 
-<!--gallery-->
-
 Sonsuz hisse sembolleri arasında gezinmeyi bırakın. ETFWise, canlı piyasa verileri, gerçek zamanlı haber duygu analizi ve cihazınızdan asla çıkmayan anlık analizle desteklenen, yedi kategoride özenle seçilmiş günlük ETF önerileri sunar.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 kategori</span>

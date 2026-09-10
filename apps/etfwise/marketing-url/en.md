@@ -11,9 +11,9 @@ redirect_from:
 
 # Your daily edge in ETF investing.
 
-<!--gallery-->
-
 Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recommendations across seven categories, backed by live market data, real-time news sentiment, and instant analysis that never leaves your device.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 categories</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # Nasıl giyineceğinizi, planlayacağınızı ve gününüzü koruyacağınızı tam olarak bilin.
 
-<!--gallery-->
-
 Solcast tahminin ötesine geçer. Ne giyeceğinizi, ne zaman şemsiye alacağınızı ve ailenizi nasıl rahat tutacağınızı söyler; hepsi hayatınıza göre kişiselleştirilmiş ve sade bir dille sunulmuştur. Reklam yok, hesap yok, kullanımı ücretsiz, isteğe bağlı bir Premium yükseltmeyle. Sadece açın ve başlayın.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Solcast highlights">
   <span class="marketing-chip">Rakamlar değil, cevaplar</span>

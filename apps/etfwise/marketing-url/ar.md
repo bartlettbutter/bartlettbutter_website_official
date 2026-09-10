@@ -12,9 +12,9 @@ redirect_from:
 
 # ميزتك اليومية في الاستثمار في صناديق ETF.
 
-<!--gallery-->
-
 توقّف عن التمرير عبر رموز لا نهاية لها. يقدّم ETFWise توصيات يومية منسّقة لصناديق ETF عبر سبع فئات، مدعومة ببيانات السوق المباشرة، ومشاعر الأخبار في الوقت الفعلي، وتحليل فوري لا يغادر جهازك أبدًا.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 فئات</span>

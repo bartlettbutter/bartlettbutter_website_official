@@ -12,9 +12,9 @@ redirect_from:
 
 # Elke kat heeft een verhaal. Ontdek het direct.
 
-<!--gallery-->
-
 Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent vervolgens het hele verhaal erachter: temperament, geschiedenis, oorsprong en leuke weetjes. Geen getyp, geen zoeken, geen internet en geen kosten.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 rassen</span>

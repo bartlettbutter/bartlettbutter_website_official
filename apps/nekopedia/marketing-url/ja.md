@@ -12,9 +12,9 @@ redirect_from:
 
 # どの猫にも物語がある。今すぐ見つけよう。
 
-<!--gallery-->
-
 どんな猫でも写真を撮れば、Nekopediaが品種を言い当て、その背後にある物語をまるごと開いてくれます。性格、歴史、起源、そして楽しい豆知識まで。入力も、検索も、インターネットも、費用も一切不要です。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48品種</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # 您在ETF投資中的每日優勢。
 
-<!--gallery-->
-
 別再翻閱無盡的股票代碼了。ETFWise提供跨七大類別的精選每日ETF推薦，由實時市場資料、實時新聞情緒和永不離開您裝置的即時分析支援。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 大類別</span>

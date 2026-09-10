@@ -12,9 +12,9 @@ redirect_from:
 
 # Dein täglicher Vorsprung beim ETF-Investieren.
 
-<!--gallery-->
-
 Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche ETF-Empfehlungen in sieben Kategorien, gestützt auf Live-Marktdaten, Echtzeit-Nachrichtenstimmung und sofortige Analyse, die niemals dein Gerät verlässt.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 Kategorien</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # Sabe exactamente cómo vestir, planificar y proteger tu día.
 
-<!--gallery-->
-
 Solcast va más allá del pronóstico. Te dice qué ponerte, cuándo llevar paraguas y cómo mantener cómoda a tu familia, todo personalizado a tu vida y entregado en lenguaje sencillo. Sin anuncios, sin cuentas, gratis para usar, con una mejora Premium opcional. Solo abre y listo.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Solcast highlights">
   <span class="marketing-chip">Respuestas, no números</span>

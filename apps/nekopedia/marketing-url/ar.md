@@ -12,9 +12,9 @@ redirect_from:
 
 # لكل قطة قصة. اكتشفها فورًا.
 
-<!--gallery-->
-
 التقط صورة لأي قطة ويذكر لك Nekopedia اسم السلالة، ثم يفتح القصة الكاملة وراءها — الطباع والتاريخ والأصل وحقائق ممتعة. بلا كتابة، وبلا بحث، وبلا إنترنت، وبلا تكلفة.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 سلالة</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # Elke reis verdient een folio.
 
-<!--gallery-->
-
 Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreadsheets. Journeyfolio brengt je volledige reis samen in één prachtig georganiseerd reisschema dat vluchten, hotels, documenten, live weer en realtime vluchtstatus bundelt, zodat je je kunt concentreren op de reis zelf.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Journeyfolio highlights">
   <span class="marketing-chip">Offline-eerst plannen</span>

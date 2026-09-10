@@ -12,9 +12,9 @@ redirect_from:
 
 # Ogni gatto ha una storia. Scoprila all'istante.
 
-<!--gallery-->
-
 Scatta una foto di un gatto qualsiasi e Nekopedia ne indica la razza, poi apre tutta la storia che vi si cela dietro: temperamento, storia, origine e curiosità. Niente da digitare, niente ricerche, niente internet e nessun costo.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 razze</span>

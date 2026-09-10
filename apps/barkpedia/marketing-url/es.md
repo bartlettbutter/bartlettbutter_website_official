@@ -12,9 +12,9 @@ redirect_from:
 
 # Cada perro tiene una historia. Descúbrela al instante.
 
-<!--gallery-->
-
 Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la historia que hay detrás: temperamento, historia, origen y datos curiosos. Sin teclear, sin buscar, sin internet y sin coste.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 razas</span>

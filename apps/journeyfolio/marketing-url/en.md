@@ -11,9 +11,9 @@ redirect_from:
 
 # Every journey deserves a folio.
 
-<!--gallery-->
-
 Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Journeyfolio brings your entire trip into one beautifully organized itinerary that holds flights, hotels, documents, live weather, and real-time flight status, so you can focus on the trip itself.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Journeyfolio highlights">
   <span class="marketing-chip">Offline-first planning</span>

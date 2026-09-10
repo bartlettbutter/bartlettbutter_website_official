@@ -12,9 +12,9 @@ redirect_from:
 
 # どの犬にも物語がある。それを瞬時に発見。
 
-<!--gallery-->
-
 どんな犬でも写真を撮るだけで、Barkpediaが品種を識別し、その背景にある物語のすべて（性格、歴史、起源、豆知識）を解き放ちます。入力も検索もインターネットも費用も不要です。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147品種</span>

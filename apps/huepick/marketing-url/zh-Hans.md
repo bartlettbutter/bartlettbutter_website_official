@@ -12,9 +12,9 @@ redirect_from:
 
 # 用不同的方式看色彩。将任何照片变成调色板。
 
-<!--gallery-->
-
 拍摄任何激发您灵感的事物，Huepick便会揭示其中隐藏的调色板——多达十二种颜色，可随时复制、理解，并用创意工具重新塑造。无需打字，无需搜索，无需账户，无需付费。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12色调色板</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # Her yolculuk bir folioyu hak eder.
 
-<!--gallery-->
-
 Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablolarla uğraşmayı bırakın. Journeyfolio tüm gezinizi uçuşları, otelleri, belgeleri, canlı hava durumunu ve gerçek zamanlı uçuş durumunu içeren, güzelce düzenlenmiş tek bir güzergâhta bir araya getirir; böylece yolculuğun kendisine odaklanabilirsiniz.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Journeyfolio highlights">
   <span class="marketing-chip">Çevrimdışı öncelikli planlama</span>

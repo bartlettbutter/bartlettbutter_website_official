@@ -12,9 +12,9 @@ redirect_from:
 
 # Wisse genau, wie du dich kleidest, planst und deinen Tag schützt.
 
-<!--gallery-->
-
 Solcast geht über die Vorhersage hinaus. Es sagt dir, was du anziehen sollst, wann du einen Regenschirm mitnehmen musst und wie du deine Familie bequem hältst — alles auf dein Leben personalisiert und in verständlicher Sprache geliefert. Keine Werbung, keine Konten, kostenlos nutzbar, mit optionalem Premium-Upgrade. Einfach öffnen und loslegen.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Solcast highlights">
   <span class="marketing-chip">Antworten, keine Zahlen</span>

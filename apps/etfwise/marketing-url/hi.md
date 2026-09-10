@@ -12,9 +12,9 @@ redirect_from:
 
 # ETF निवेश में आपकी दैनिक बढ़त।
 
-<!--gallery-->
-
 अंतहीन टिकर स्क्रॉल करना बंद करें। ETFWise सात श्रेणियों में क्यूरेटेड दैनिक ETF अनुशंसाएँ प्रदान करता है, जो लाइव मार्केट डेटा, रीयल-टाइम समाचार भावना और तत्काल विश्लेषण द्वारा समर्थित है जो कभी आपके डिवाइस से बाहर नहीं जाता।
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 श्रेणियाँ</span>

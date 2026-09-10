@@ -12,9 +12,9 @@ redirect_from:
 
 # Jouw dagelijkse voordeel bij ETF-beleggen.
 
-<!--gallery-->
-
 Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijkse ETF-aanbevelingen in zeven categorieën, ondersteund door live marktgegevens, realtime nieuwssentiment en directe analyse die nooit je apparaat verlaat.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 categorieën</span>

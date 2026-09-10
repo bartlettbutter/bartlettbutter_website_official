@@ -12,9 +12,9 @@ redirect_from:
 
 # 每隻貓都有一個故事。即刻探索它。
 
-<!--gallery-->
-
 對準任何一隻貓拍下照片，Nekopedia便會叫出品種的名字，接著展開牠背後的完整故事——性格、歷史、起源與趣聞。無需打字、無需搜尋、無需聯網，也無需花費。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48個品種</span>

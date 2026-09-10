@@ -11,9 +11,9 @@ redirect_from:
 
 # See colors differently. Turn any photo into a palette.
 
-<!--gallery-->
-
 Snap a photo of anything that inspires you and Huepick reveals the hidden palette inside — up to twelve colors, ready to copy, understand, and reshape with creative tools. No typing, no searching, no account, and no cost.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12-color palettes</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # Zie kleuren anders. Verander elke foto in een palet.
 
-<!--gallery-->
-
 Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet erin — tot twaalf kleuren, klaar om te kopiëren, te begrijpen en om te vormen met creatieve hulpmiddelen. Geen typen, geen zoeken, geen account en geen kosten.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">Paletten van 12 kleuren</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # 모든 여정에는 폴리오가 필요합니다.
 
-<!--gallery-->
-
 스크린샷, 흩어진 이메일, 미완성 스프레드시트와 씨름하는 것을 멈추세요. Journeyfolio는 항공편, 호텔, 문서, 실시간 날씨, 실시간 항공편 상태를 담은 하나의 아름답게 정리된 일정으로 여러분의 전체 여행을 모아, 여행 그 자체에 집중할 수 있게 합니다.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Journeyfolio highlights">
   <span class="marketing-chip">오프라인 우선 계획</span>

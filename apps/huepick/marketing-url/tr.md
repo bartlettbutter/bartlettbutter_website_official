@@ -12,9 +12,9 @@ redirect_from:
 
 # Renkleri farklı görün. Herhangi bir fotoğrafı bir palete dönüştürün.
 
-<!--gallery-->
-
 Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli paleti ortaya çıkarsın: kopyalamaya, anlamaya ve yaratıcı araçlarla yeniden şekillendirmeye hazır on iki adede kadar renk. Yazma yok, arama yok, hesap yok ve ücret yok.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12 renkli paletler</span>

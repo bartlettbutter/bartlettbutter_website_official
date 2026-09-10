@@ -12,9 +12,9 @@ redirect_from:
 
 # Il tuo vantaggio quotidiano nell'investimento in ETF.
 
-<!--gallery-->
-
 Smetti di scorrere ticker infiniti. ETFWise offre raccomandazioni giornaliere sugli ETF selezionate in sette categorie, supportate da dati di mercato in tempo reale, sentiment delle notizie in tempo reale e analisi istantanea che non lascia mai il tuo dispositivo.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 categorie</span>

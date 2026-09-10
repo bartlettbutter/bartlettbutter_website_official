@@ -12,9 +12,9 @@ redirect_from:
 
 # Her kedinin bir hikayesi vardır. Onu anında keşfedin.
 
-<!--gallery-->
-
 Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ardından ardındaki tüm hikayeyi açsın: mizaç, tarihçe, köken ve eğlenceli gerçekler. Yazma yok, arama yok, internet yok ve ücret yok.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 ırk</span>

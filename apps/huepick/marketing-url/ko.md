@@ -12,9 +12,9 @@ redirect_from:
 
 # 색을 다르게 보세요. 어떤 사진이든 팔레트로 바꾸세요.
 
-<!--gallery-->
-
 여러분에게 영감을 주는 무엇이든 촬영하면 Huepick이 그 안에 숨겨진 팔레트를 드러냅니다 — 최대 12가지 색상을, 복사하고 이해하고 창의적인 도구로 재구성할 수 있도록. 입력 없음, 검색 없음, 계정 없음, 비용 없음.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12색 팔레트</span>

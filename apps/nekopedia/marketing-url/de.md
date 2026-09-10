@@ -12,9 +12,9 @@ redirect_from:
 
 # Jede Katze hat eine Geschichte. Entdecke sie sofort.
 
-<!--gallery-->
-
 Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öffnet dann die ganze Geschichte dahinter — Temperament, Geschichte, Herkunft und spannende Fakten. Kein Tippen, keine Suche, kein Internet und keine Kosten.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 Rassen</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # لكل كلب قصة. اكتشفها فورًا.
 
-<!--gallery-->
-
 التقط صورة لأي كلب فيسمّي Barkpedia السلالة، ثم يفتح القصة الكاملة وراءها — الطباع، والتاريخ، والأصل، والحقائق الممتعة. لا كتابة، ولا بحث، ولا إنترنت، ولا تكلفة.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 سلالة</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # 어떻게 입고, 계획하고, 하루를 지킬지 정확히 아세요.
 
-<!--gallery-->
-
 Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙길지, 가족을 어떻게 편안하게 지킬지 알려줍니다 — 이 모든 것이 여러분의 삶에 맞춰 개인화되고 쉬운 언어로 전달됩니다. 광고 없음, 계정 없음, 무료로 사용하며, 선택적 Premium 업그레이드도 있습니다. 그냥 열고 사용하세요.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Solcast highlights">
   <span class="marketing-chip">숫자가 아닌 답</span>

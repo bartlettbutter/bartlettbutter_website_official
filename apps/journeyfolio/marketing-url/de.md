@@ -12,9 +12,9 @@ redirect_from:
 
 # Jede Reise verdient ein Folio.
 
-<!--gallery-->
-
 Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jonglieren. Journeyfolio bringt deine gesamte Reise in einen wunderschön organisierten Reiseplan, der Flüge, Hotels, Dokumente, Live-Wetter und Echtzeit-Flugstatus vereint, damit du dich auf die Reise selbst konzentrieren kannst.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Journeyfolio highlights">
   <span class="marketing-chip">Offline-first-Planung</span>

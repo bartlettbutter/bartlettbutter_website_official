@@ -11,9 +11,9 @@ redirect_from:
 
 # Know exactly how to dress, plan, and protect your day.
 
-<!--gallery-->
-
 Solcast goes beyond the forecast. It tells you what to wear, when to bring an umbrella, and how to keep your family comfortable — all personalized to your life and delivered in plain language. No ads, no accounts, free to use, with an optional Premium upgrade. Just open and go.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Solcast highlights">
   <span class="marketing-chip">Answers, not numbers</span>

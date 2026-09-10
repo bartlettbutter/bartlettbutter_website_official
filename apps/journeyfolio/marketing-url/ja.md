@@ -12,9 +12,9 @@ redirect_from:
 
 # すべての旅にフォリオを。
 
-<!--gallery-->
-
 スクリーンショット、散らばったメール、書きかけの表計算に振り回されるのはもうやめましょう。Journeyfolioは、フライト、ホテル、書類、リアルタイムの天気、リアルタイムのフライト状況をまとめ、あなたの旅全体を美しく整理された1つの旅程にします。だから旅そのものに集中できます。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Journeyfolio highlights">
   <span class="marketing-chip">オフライン第一の計画</span>

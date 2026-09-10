@@ -12,9 +12,9 @@ redirect_from:
 
 # Her köpeğin bir hikayesi vardır. Onu anında keşfedin.
 
-<!--gallery-->
-
 Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve ardından ardındaki tüm hikayeyi açsın: mizaç, tarihçe, köken ve eğlenceli gerçekler. Yazma yok, arama yok, internet yok ve ücret yok.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 ırk</span>

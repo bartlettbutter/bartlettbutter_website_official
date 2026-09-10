@@ -12,9 +12,9 @@ redirect_from:
 
 # Ogni viaggio merita un folio.
 
-<!--gallery-->
-
 Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciati a metà. Journeyfolio riunisce l'intero viaggio in un itinerario splendidamente organizzato che raccoglie voli, hotel, documenti, meteo in tempo reale e stato dei voli in tempo reale, così puoi concentrarti sul viaggio stesso.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Journeyfolio highlights">
   <span class="marketing-chip">Pianificazione offline-first</span>

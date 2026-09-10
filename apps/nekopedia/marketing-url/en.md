@@ -11,9 +11,9 @@ redirect_from:
 
 # Every cat has a story. Discover it instantly.
 
-<!--gallery-->
-
 Snap a photo of any cat and Nekopedia names the breed, then opens the whole story behind it — temperament, history, origin, and fun facts. No typing, no searching, no internet, and no cost.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 breeds</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # Elke hond heeft een verhaal. Ontdek het direct.
 
-<!--gallery-->
-
 Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daarna het hele verhaal erachter — temperament, geschiedenis, oorsprong en leuke weetjes. Geen typen, geen zoeken, geen internet en geen kosten.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 rassen</span>

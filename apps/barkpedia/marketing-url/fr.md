@@ -12,9 +12,9 @@ redirect_from:
 
 # Chaque chien a une histoire. Découvrez-la instantanément.
 
-<!--gallery-->
-
 Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoile toute l'histoire qui se cache derrière : tempérament, histoire, origine et anecdotes. Sans rien taper, sans rien chercher, sans internet et sans coût.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 races</span>

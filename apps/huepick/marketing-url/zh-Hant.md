@@ -12,9 +12,9 @@ redirect_from:
 
 # 用不同的方式看色彩。將任何照片變成調色盤。
 
-<!--gallery-->
-
 拍攝任何激發您靈感的事物，Huepick 便會揭示其中隱藏的調色盤——多達十二種顏色，可立即複製、理解，並用創意工具重新塑造。無需輸入、無需搜尋、無需帳戶，也完全免費。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12 色調色盤</span>

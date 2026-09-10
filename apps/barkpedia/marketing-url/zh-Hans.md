@@ -12,9 +12,9 @@ redirect_from:
 
 # 每只狗都有故事。即刻发现它。
 
-<!--gallery-->
-
 拍摄任何一只狗的照片，Barkpedia便会叫出它的品种，随后为您展开它背后的整个故事——性格、历史、起源和趣闻。无需打字，无需搜索，无需联网，无需付费。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147个品种</span>

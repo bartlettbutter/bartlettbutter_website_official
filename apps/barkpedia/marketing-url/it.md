@@ -12,9 +12,9 @@ redirect_from:
 
 # Ogni cane ha una storia. Scoprila all'istante.
 
-<!--gallery-->
-
 Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tutta la storia che vi si cela dietro: temperamento, storia, origine e curiosità. Niente da digitare, niente ricerche, niente internet e nessun costo.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 razze</span>

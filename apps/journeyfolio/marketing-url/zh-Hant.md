@@ -12,9 +12,9 @@ redirect_from:
 
 # 每段旅程都值得一份行程冊。
 
-<!--gallery-->
-
 別再費力應付截圖、零散的郵件和未完成的電子表格了。Journeyfolio 將你的整個行程整合到一份精心組織的美麗行程表中，涵蓋航班、酒店、文件、實時天氣和實時航班狀態，讓你專注於旅行本身。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Journeyfolio highlights">
   <span class="marketing-chip">離線優先規劃</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # Todo cão tem uma história. Descubra-a instantaneamente.
 
-<!--gallery-->
-
 Tire uma foto de qualquer cão e o Barkpedia dá nome à raça e, em seguida, abre toda a história por trás dela: temperamento, história, origem e curiosidades. Sem digitar, sem buscar, sem internet e sem custo.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 raças</span>

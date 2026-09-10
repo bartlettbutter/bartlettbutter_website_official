@@ -12,9 +12,9 @@ redirect_from:
 
 # 準確知道如何著裝、規劃和保護您的一天。
 
-<!--gallery-->
-
 Solcast超越了單純的預報。它告訴您該穿什麼、何時帶傘，以及如何讓家人保持舒適，全部根據您的生活個性化定製，並以通俗易懂的語言呈現。沒有廣告，沒有賬戶，免費使用，並提供可選的Premium升級。只需開啟即可使用。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Solcast highlights">
   <span class="marketing-chip">給答案，而非數字</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # Saiba exatamente como se vestir, planejar e proteger seu dia.
 
-<!--gallery-->
-
 O Solcast vai além da previsão. Ele diz o que vestir, quando levar um guarda-chuva e como manter sua família confortável, tudo personalizado para a sua vida e apresentado em linguagem simples. Sem anúncios, sem contas, gratuito para usar, com uma atualização Premium opcional. Basta abrir e usar.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Solcast highlights">
   <span class="marketing-chip">Respostas, não números</span>

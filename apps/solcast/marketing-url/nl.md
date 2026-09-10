@@ -12,9 +12,9 @@ redirect_from:
 
 # Weet precies hoe je je kleedt, plant en je dag beschermt.
 
-<!--gallery-->
-
 Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wanneer je een paraplu moet meenemen en hoe je je gezin comfortabel houdt — allemaal gepersonaliseerd op jouw leven en geleverd in gewone taal. Geen advertenties, geen accounts, gratis te gebruiken, met een optionele Premium-upgrade. Gewoon openen en gaan.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Solcast highlights">
   <span class="marketing-chip">Antwoorden, geen cijfers</span>

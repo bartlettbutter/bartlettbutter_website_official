@@ -12,9 +12,9 @@ redirect_from:
 
 # 모든 고양이에게는 이야기가 있습니다. 즉시 발견하세요.
 
-<!--gallery-->
-
 어떤 고양이든 사진을 찍으면 Nekopedia가 품종의 이름을 알려주고, 그 뒤에 담긴 이야기 전체를 열어줍니다 — 기질, 역사, 기원, 그리고 흥미로운 사실까지. 입력도, 검색도, 인터넷도, 비용도 필요 없습니다.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48개 품종</span>

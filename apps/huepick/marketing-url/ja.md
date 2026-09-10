@@ -12,9 +12,9 @@ redirect_from:
 
 # 色を違った視点で見る。どんな写真もパレットに。
 
-<!--gallery-->
-
 インスピレーションを与えるものを何でも撮影すると、Huepickがその中に隠れたパレットを明らかにします。最大12色を、コピーして、理解して、クリエイティブツールで作り変えられる状態で。入力も、検索も、アカウントも、費用も不要です。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12色のパレット</span>

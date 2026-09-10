@@ -12,9 +12,9 @@ redirect_from:
 
 # Sappi esattamente come vestirti, pianificare e proteggere la tua giornata.
 
-<!--gallery-->
-
 Solcast va oltre le previsioni. Ti dice cosa indossare, quando portare un ombrello e come mantenere comoda la tua famiglia, tutto personalizzato in base alla tua vita e presentato in linguaggio semplice. Nessuna pubblicità, nessun account, gratis da usare, con un upgrade Premium opzionale. Apri e vai.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Solcast highlights">
   <span class="marketing-chip">Risposte, non numeri</span>

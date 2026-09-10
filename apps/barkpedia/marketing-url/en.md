@@ -11,9 +11,9 @@ redirect_from:
 
 # Every dog has a story. Discover it instantly.
 
-<!--gallery-->
-
 Snap a photo of any dog and Barkpedia names the breed, then opens the whole story behind it — temperament, history, origin, and fun facts. No typing, no searching, no internet, and no cost.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 breeds</span>

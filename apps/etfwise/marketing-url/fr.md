@@ -12,9 +12,9 @@ redirect_from:
 
 # Votre avantage quotidien dans l'investissement en ETF.
 
-<!--gallery-->
-
 Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit des recommandations quotidiennes d'ETF sélectionnées dans sept catégories, appuyées par des données de marché en direct, un sentiment des actualités en temps réel et une analyse instantanée qui ne quitte jamais votre appareil.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 catégories</span>

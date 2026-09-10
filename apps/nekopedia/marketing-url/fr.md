@@ -12,9 +12,9 @@ redirect_from:
 
 # Chaque chat a une histoire. Découvrez-la instantanément.
 
-<!--gallery-->
-
 Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoile toute l'histoire qui se cache derrière : tempérament, histoire, origine et anecdotes. Sans rien taper, sans rien chercher, sans internet et sans coût.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 races</span>

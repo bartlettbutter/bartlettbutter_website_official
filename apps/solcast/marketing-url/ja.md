@@ -12,9 +12,9 @@ redirect_from:
 
 # 服装、計画、そして一日の備えを、正確に把握。
 
-<!--gallery-->
-
 Solcastは予報の枠を超えます。何を着るべきか、いつ傘を持っていくべきか、そして家族を快適に保つ方法を教えてくれます。すべてあなたの生活に合わせてパーソナライズされ、平易な言葉で届けられます。広告なし、アカウントなし、無料で使え、オプションのPremiumアップグレードもあります。開くだけで使えます。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Solcast highlights">
   <span class="marketing-chip">数字ではなく、答えを</span>

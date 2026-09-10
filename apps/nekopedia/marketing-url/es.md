@@ -12,9 +12,9 @@ redirect_from:
 
 # Cada gato tiene una historia. Descúbrela al instante.
 
-<!--gallery-->
-
 Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la historia que hay detrás: temperamento, historia, origen y datos curiosos. Sin teclear, sin buscar, sin internet y sin coste.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 razas</span>

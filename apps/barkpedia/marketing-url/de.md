@@ -12,9 +12,9 @@ redirect_from:
 
 # Jeder Hund hat eine Geschichte. Entdecke sie sofort.
 
-<!--gallery-->
-
 Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und öffnet dann die ganze Geschichte dahinter – Temperament, Geschichte, Herkunft und wissenswerte Fakten. Kein Tippen, kein Suchen, kein Internet und keine Kosten.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 Rassen</span>

@@ -12,9 +12,9 @@ redirect_from:
 
 # ETF 투자에서의 매일의 우위.
 
-<!--gallery-->
-
 끝없는 티커를 스크롤하는 것을 멈추세요. ETFWise는 실시간 시장 데이터, 실시간 뉴스 감성, 그리고 절대 기기를 벗어나지 않는 즉각 분석에 기반한, 일곱 개 카테고리에 걸친 엄선된 매일의 ETF 추천을 제공합니다.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7개 카테고리</span>

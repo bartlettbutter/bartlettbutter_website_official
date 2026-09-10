@@ -12,9 +12,9 @@ redirect_from:
 
 # Tu ventaja diaria en la inversión en ETF.
 
-<!--gallery-->
-
 Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones diarias de ETF seleccionadas en siete categorías, respaldadas por datos de mercado en vivo, sentimiento de noticias en tiempo real y análisis instantáneo que nunca sale de tu dispositivo.
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 categorías</span>

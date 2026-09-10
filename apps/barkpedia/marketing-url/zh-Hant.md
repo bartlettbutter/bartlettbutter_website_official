@@ -12,9 +12,9 @@ redirect_from:
 
 # 每隻狗都有故事。即刻發現它。
 
-<!--gallery-->
-
 拍攝任何一隻狗的照片，Barkpedia 即可辨識其品種，並開啟牠背後的完整故事——性格、歷史、起源與趣聞。無需打字、無需搜尋、無需聯網，也無需付費。
+
+<!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 個品種</span>

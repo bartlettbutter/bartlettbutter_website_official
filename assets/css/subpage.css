@@ -320,6 +320,14 @@ body {
   margin-bottom: 24px;
 }
 
+/* Support/privacy subpages (marked with data-toc): let the first heading hug
+   the app header instead of inheriting the 48px top margin from the general
+   `.content-body h1` rule, so support pages start right below the logo section
+   the same way privacy pages (which open with a paragraph) already do. */
+.content-body[data-toc="true"] h1:first-child {
+  margin-top: 0;
+}
+
 .content-body h1 {
   font-size: 24px;
   font-weight: 700;

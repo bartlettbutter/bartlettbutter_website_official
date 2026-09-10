@@ -1,5 +1,5 @@
 ---
-layout: marketing
+layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
 app_description: "即時識別任何貓的品種。免費、離線、私密。"
@@ -10,51 +10,203 @@ redirect_from:
   - /marketing-url/nekopedia/zh-Hant/
 ---
 
-# 那是什麼品種的貓？對準相機即可揭曉。
+# 每隻貓都有一個故事。即刻探索它。
 
-認識一下Nekopedia，您口袋裡的貓咪百科全書，幾秒內叫出任何品種的名字。拍一張照片或從相簿中選一張，即可在48個公認品種中獲得即時匹配。無需聯網，無需賬戶，無需花費。
+<!--gallery-->
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/nekopedia/id6744228183)
+對準任何一隻貓拍下照片，Nekopedia便會叫出品種的名字，接著展開牠背後的完整故事——性格、歷史、起源與趣聞。無需打字、無需搜尋、無需聯網，也無需花費。
 
-## 貓咪愛好者為何選擇Nekopedia
+<div class="marketing-chip-row" aria-label="Nekopedia highlights">
+  <span class="marketing-chip">48個品種</span>
+  <span class="marketing-chip">完全離線運作</span>
+  <span class="marketing-chip">永久免費</span>
+  <span class="marketing-chip">無需賬戶</span>
+</div>
 
-- **隨時隨地，秒出答案。** 在咖啡館、收容所或您自己的沙發上識別品種。一切都在您的裝置上完成，即使沒有Wi-Fi也能使用。
-- **您的照片屬於您。** 照片永遠不會離開您的裝置。沒有賬戶，沒有追蹤，沒有廣告。永遠如此。
-- **完全免費，毫無保留。** 沒有訂閱，沒有應用內購買，沒有付費牆。從第一次點選起，每項功能都屬於您。
-- **遠不止一個名字。** 深入瞭解豐富的品種資料，漫遊互動式世界地圖，並透過測驗與問答遊戲磨練您的眼力。
+<div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">48</span>
+    <span class="marketing-stat-label">個貓咪品種，附有豐富的CFA/TICA風格資料，可供搜尋與探索</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">2</span>
+    <span class="marketing-stat-label">種遊戲模式，品種測驗與貓咪問答，讓您的貓咪知識日益增長</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">100%</span>
+    <span class="marketing-stat-label">私密且離線，照片與資料都留在您的裝置上</span>
+  </article>
+</div>
 
-## 更多值得探索的內容
+<div class="marketing-cta-row">
+  <div class="marketing-cta-badges">
+    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+      <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+    </a>
+  </div>
+  <p class="marketing-meta-note">可於iPhone和iPad免費下載。支援iOS 18.0或更高版本。</p>
+</div>
 
-每一次掃描都開啟一份完整的品種資料：性格、起源、歷史、壽命、體重、身高和照片，涵蓋全部48個品種。
+<!--showcase-->
 
-想隨意瀏覽？探索標籤讓您按名稱搜尋品種，或漫遊一張展示每個品種起源地的互動式世界地圖。喜歡某個結果？將它儲存到收藏夾隨時回看，所有內容都私密地儲存在您的裝置上。
+<section class="marketing-band" aria-labelledby="nk-why-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">貓咪愛好者為何選擇它</p>
+    <h2 id="nk-why-title" class="marketing-section-title">一本從容而完整的貓咪世界口袋指南。</h2>
+    <p class="marketing-section-intro">Nekopedia將咖啡館裡好奇的一瞬化為真實的答案，接著繼續呈現歷史、資料與一點樂趣——全程無需註冊，也無需訊號。</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--two">
+    <article class="marketing-card marketing-card--featured">
+      <h3>幾秒內識別任何貓</h3>
+      <p>將相機對準任何一隻貓，或從相簿中選一張照片，片刻間即可獲得附置信度分數的品種匹配。</p>
+      <ul class="marketing-list">
+        <li>面對難以判斷的情況，提供其他可能性的排序清單</li>
+        <li>每個結果都直接連結到完整的品種資料</li>
+        <li>完全離線運作，無論貓在何處</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>值得一讀的品種資料</h3>
+      <p>每個品種都會開啟一份CFA/TICA風格的資料，說明這隻貓實際上是什麼樣子，而不僅僅是牠叫什麼名字。</p>
+      <ul class="marketing-list">
+        <li>性格、壽命、體重與身高一目了然</li>
+        <li>起源國家與該品種的歷史</li>
+        <li>為每個品種提供清晰、平易近人的細節</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>離線學習與遊玩</h3>
+      <p>將您掃描過的一切化為遊戲，兩種模式旨在培養真正的貓咪知識。</p>
+      <ul class="marketing-list">
+        <li>品種測驗：從照片中猜出品種</li>
+        <li>貓咪問答：真假判斷的謬誤與事實</li>
+        <li>遊玩全程無需聯網</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>預設即私密</h3>
+      <p>沒有賬戶，沒有分析，沒有廣告。您的照片永遠不會離開您的裝置，一切都在沒有連線的情況下運作。</p>
+      <ul class="marketing-list">
+        <li>掃描與收藏都儲存在本機</li>
+        <li>無需註冊，也無需付費</li>
+        <li>每個頁面都保持一致的信任姿態</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-想要挑戰？品種測驗會給您一張照片和四個選項，每次十輪，隨著您的進步頒發獎勵稱號。您能分辨暹羅貓和伯曼貓嗎？或者切換到貓咪問答，真假判斷的回合將真實的貓咪事實與誘人的謬誤混在一起，看看您的貓咪嗅覺到底有多敏銳。
+<section class="marketing-band marketing-band--plain" aria-labelledby="nk-modes-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">產品架構</p>
+    <h2 id="nk-modes-title" class="marketing-section-title">三種享受方式，始終如一的友善指南。</h2>
+    <p class="marketing-section-intro">Nekopedia的每個部分都對應不同的心情——一個快速的疑問、一個午後的瀏覽，或一場遊戲之夜——同時保持同樣清晰、易讀的風格。</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--three">
+    <article class="marketing-card marketing-card--featured">
+      <h3>識別</h3>
+      <p>掃描一隻貓，獲得附置信度分數的品種匹配以及其他可能的選項。</p>
+      <ul class="marketing-list">
+        <li>最適合在咖啡館、收容所或您的沙發上使用</li>
+        <li>儲存任何結果以便日後回看</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>探索</h3>
+      <p>按名稱搜尋48個品種，或瀏覽一張按起源國家整理的互動式世界地圖。</p>
+      <ul class="marketing-list">
+        <li>點選圖釘即可查看該地區的品種</li>
+        <li>非常適合規劃、憧憬與學習</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>遊玩</h3>
+      <p>透過兩種融合照片、事實與謬誤的離線遊戲模式測試您的知識。</p>
+      <ul class="marketing-list">
+        <li>品種測驗，可贏取獎勵稱號</li>
+        <li>貓咪問答，快速的真假判斷回合</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-## 說您的語言
+<section class="marketing-band" aria-labelledby="nk-flow-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">運作原理</p>
+    <h2 id="nk-flow-title" class="marketing-section-title">從一張照片到完整故事，只需五個簡單步驟。</h2>
+  </div>
+  <div class="marketing-step-grid">
+    <article class="marketing-step">
+      <h3>開啟Nekopedia</h3>
+      <p>幾秒內即可就緒，無需賬戶、無需註冊，也無需先完成任何設定。</p>
+    </article>
+    <article class="marketing-step">
+      <h3>拍攝或選擇照片</h3>
+      <p>用相機對準任何一隻貓，或從相簿中選一張現有的照片。</p>
+    </article>
+    <article class="marketing-step">
+      <h3>查看您的結果</h3>
+      <p>獲得品種名稱、置信度分數，以及一份附有性格、體型、起源與歷史的完整資料。</p>
+    </article>
+    <article class="marketing-step">
+      <h3>儲存您的收藏</h3>
+      <p>把您喜愛的品種留在專屬的個人收藏庫中，內容都儲存在您的裝置上。</p>
+    </article>
+    <article class="marketing-step">
+      <h3>持續探索</h3>
+      <p>隨時搜尋品種、瀏覽世界地圖，或遊玩品種測驗與貓咪問答。</p>
+    </article>
+  </div>
+</section>
 
-Nekopedia完整支援14種語言：品種名稱、資料、問答以及整個介面都會適應您裝置的語言，也包括從右到左的佈局。用您最熟悉的語言探索貓咪的世界。
+<section class="marketing-band marketing-band--plain" aria-labelledby="nk-audience-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">為誰而設</p>
+    <h2 id="nk-audience-title" class="marketing-section-title">獻給每一位喜歡結識新貓的人。</h2>
+  </div>
+  <div class="marketing-story-grid">
+    <article class="marketing-story-card">
+      <h3>收藏您遇見的每一隻貓</h3>
+      <p>儲存任何一次掃描，連同牠的品種與置信度分數，隨時回看。這對於記住咖啡館裡的那隻貓、比對相似的品種，以及每次多學一點，都很有幫助。</p>
+    </article>
+    <article class="marketing-story-card">
+      <h3>為好奇的愛貓人而設</h3>
+      <ul class="marketing-list">
+        <li>正在弄清愛貓混血的新手貓爸貓媽</li>
+        <li>結識眾多貓咪的收容所與救援站訪客</li>
+        <li>總在心裡問「那是什麼品種？」的咖啡館常客</li>
+        <li>一起學習品種的孩子與家庭</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-## 工作原理
+<section class="marketing-band" aria-labelledby="nk-offer-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">提供內容與信任</p>
+    <h2 id="nk-offer-title" class="marketing-section-title">免費下載。生而私密。</h2>
+  </div>
+  <div class="marketing-price-grid">
+    <article class="marketing-price-card is-featured">
+      <span class="marketing-price-tier">今日已包含</span>
+      <h3 class="marketing-price-summary">每項功能皆免費提供。</h3>
+      <p>識別品種、閱讀完整資料、儲存收藏、探索地圖，並遊玩兩款遊戲，全都無需賬戶、無需訂閱，也沒有付費牆。</p>
+      <p class="marketing-price-note">相容於iOS 18.0或更高版本的iPhone和iPad。</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">隱私姿態</span>
+      <h3 class="marketing-price-summary">沒有伺服器。沒有雲端。沒有追蹤。</h3>
+      <p>您的照片永遠不會離開您的裝置。識別、資料與遊戲全都在本機運行，因此產品的承諾就如同介面一樣清晰。</p>
+      <p class="marketing-price-note">同樣以隱私為先的理念貫穿概覽、支援與政策頁面。</p>
+    </article>
+  </div>
+</section>
 
-1. **開啟應用**，幾秒內即可就緒，無需註冊
-2. **拍攝**任何一隻貓的照片，或從相簿中選擇一張
-3. **獲得結果**，包括品種名稱、置信度分數、備選匹配以及詳細的品種資料
-
-## 立即開始識別貓咪
-
-免費、私密，開啟即用。
-
-## 相容性
-
-iOS 18.0或更高版本 · iPhone和iPad
-
-## 您的隱私，受到保護
-
-您的照片永遠不會離開您的裝置。沒有賬戶，沒有分析，沒有廣告。只有您和貓咪。
-
-閱讀我們完整的[隱私政策](https://www.bartlettbutter.com/nekopedia/privacy/)。
-
-## 需要幫助？
-
-訪問我們的[支援頁面](https://www.bartlettbutter.com/nekopedia/support/)或傳送電子郵件至 [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com)。
+<section class="marketing-cta-panel" aria-labelledby="nk-next-title">
+  <h2 id="nk-next-title">準備好為您遇見的每隻貓命名了嗎？</h2>
+  <p>下載Nekopedia，立即開始掃描，並在好奇心湧現時，將整個品種世界隨時握在手中。</p>
+  <div class="marketing-link-row">
+    <a class="marketing-inline-link" href="/nekopedia/support/">前往支援</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/">閱讀隱私政策</a>
+    <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
+  </div>
+</section>

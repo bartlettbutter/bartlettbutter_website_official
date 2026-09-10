@@ -1,0 +1,288 @@
+/* ============================================
+   Huepick — bespoke marketing styling
+   Scoped to `.hp-page` (the marketing body wrapper from
+   _layouts/app-huepick.html). teal/sand, creative color-tool feel identity.
+   Colors reuse the shared per-app theme tokens (see app-themes.css) so the
+   body, app header, and nav stay in one palette. Loaded only on the Huepick
+   marketing page.
+   ============================================ */
+
+/* Page wash — soft teal tints. */
+.hp-page {
+  --app-page-bg:
+    linear-gradient(180deg, rgba(248, 238, 220, 0.98) 0%, rgba(248, 238, 220, 0.95) 28%, rgba(248, 238, 220, 0.96) 58%, rgba(248, 238, 220, 0.98) 100%);
+}
+
+/* Hero on a clean white surface so it reads distinctly from the tinted bands
+   below it. The shell is centered at a max width, so a full-bleed ::before
+   paints the band white edge to edge, including the left/right gutters. */
+.hp-page .marketing-hero-shell {
+  isolation: isolate;
+}
+
+.hp-page .marketing-hero-shell::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  /* Extend the white down through the showcase's top-margin gap so the hero
+     flows straight into the showcase. */
+  bottom: -72px;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
+  background: #FFFFFF;
+  z-index: -1;
+}
+
+.hp-page h1:first-child {
+  font-size: clamp(32px, 4.6vw, 36px);
+  line-height: 1.12;
+  margin-bottom: 18px;
+  background: linear-gradient(120deg, var(--app-accent) 0%, var(--app-accent-strong) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Lead subhead: the bold sentence immediately after the title. */
+.hp-page h1:first-child + p {
+  max-width: 640px;
+  margin: 0 auto 24px;
+  font-size: 18px;
+  line-height: 1.65;
+  text-align: center;
+  color: var(--color-text-strong);
+}
+
+.hp-page h2 + ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  padding-left: 0;
+  list-style: none;
+}
+
+.hp-page h2 + ul li {
+  margin-bottom: 0;
+  padding: 22px 24px;
+  border: 1px solid var(--app-accent-soft);
+  border-radius: 24px;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F8EEDC 100%);
+  box-shadow: 0 18px 42px rgba(43, 107, 125, 0.08);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+/* Section headings get a hairline accent rule above them. */
+.hp-page h2 {
+  padding-top: 20px;
+  border-top: 2px solid var(--app-accent-soft);
+  color: var(--app-accent-strong);
+}
+
+.hp-page h3 {
+  color: var(--app-accent-strong);
+}
+
+.hp-page strong {
+  color: var(--app-accent-strong);
+}
+
+.hp-page ul li::marker {
+  color: var(--app-accent);
+}
+
+.hp-page ol {
+  padding-left: 0;
+  list-style: none;
+  counter-reset: hp-step;
+}
+
+.hp-page ol > li {
+  position: relative;
+  margin-bottom: 16px;
+  padding: 18px 24px 18px 70px;
+  counter-increment: hp-step;
+  border: 1px solid var(--app-accent-soft);
+  border-radius: 24px;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F8EEDC 100%);
+  box-shadow: 0 18px 42px rgba(43, 107, 125, 0.06);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.hp-page ol > li::before {
+  content: counter(hp-step);
+  position: absolute;
+  inset-inline-start: 20px;
+  top: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--app-accent) 0%, var(--app-accent-strong) 100%);
+  color: #FFFFFF;
+  font-weight: 700;
+}
+
+/* Showcase: soft teal band, tinted device edges. */
+.app-showcase--hp {
+  border-top-color: var(--app-accent-soft);
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at 88% 14%, rgba(74, 152, 175, 0.12) 0%, transparent 24%),
+    linear-gradient(180deg, var(--app-accent-soft) 0%, transparent 55%);
+}
+
+.app-showcase--hp .showcase-media img {
+  border: 1px solid var(--app-accent-soft);
+}
+
+.app-showcase--hp .showcase-item {
+  border-color: rgba(43, 107, 125, 0.08);
+}
+
+.app-showcase--hp .showcase-step {
+  background: linear-gradient(135deg, #FFFFFF 0%, #F8EEDC 100%);
+}
+
+/* Merge the showcase's bottom boundary with the first band below it into a
+   single line. */
+.hp-page .app-showcase + .marketing-band {
+  border-top: 0;
+  padding-top: 0;
+}
+
+/* Meta-note under the hero download badge: tighten space above, add room below
+   before the showcase. */
+.hp-page .marketing-cta-row {
+  gap: 4px;
+  margin-bottom: 28px;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .hp-page h2 + ul li:hover,
+  .hp-page ol > li:hover {
+    transform: translateY(-2px);
+    border-color: rgba(74, 152, 175, 0.28);
+    box-shadow: 0 22px 48px rgba(43, 107, 125, 0.1);
+  }
+}
+
+@media (max-width: 768px) {
+  .hp-page h1:first-child {
+    font-size: 28px;
+  }
+
+  .hp-page h2 + ul {
+    grid-template-columns: 1fr;
+  }
+
+  .hp-page .marketing-cta-panel {
+    clip-path: inset(-56px -100vw 0 -100vw);
+  }
+}
+
+/* Hero gallery: soft teal frames and eyebrow, matching the showcase band. */
+.hero-gallery--hp .hero-gallery-label {
+  color: var(--app-accent-strong);
+}
+
+.hero-gallery--hp .hero-gallery-track--fallback .hero-gallery-frame,
+.hero-gallery--hp .hero-gallery-marquee .hero-gallery-frame {
+  border-color: var(--app-accent-soft);
+  background: linear-gradient(180deg, #FFFFFF 0%, #F8EEDC 100%);
+}
+
+.hero-gallery--hp .hero-gallery-track--fallback .hero-gallery-frame img,
+.hero-gallery--hp .hero-gallery-marquee .hero-gallery-frame img {
+  border: 1px solid var(--app-accent-soft);
+}
+
+/* Give the intro paragraph more breathing room below the hero gallery. */
+.hp-page .marketing-hero-shell .hero-gallery--hp + p {
+  margin-top: clamp(32px, 5vw, 56px);
+}
+
+/* Shared marketing modules: glossy surfaces, brighter teal chips. */
+.hp-page .marketing-chip {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.94) 0%, rgba(248, 238, 220, 0.9) 100%);
+}
+
+.hp-page h2.marketing-section-title,
+.hp-page h2.app-showcase-title,
+.hp-page .marketing-cta-panel h2 {
+  margin-top: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  border-top: 0;
+  border-bottom: 0;
+}
+
+.hp-page .marketing-cta-panel h2,
+.hp-page .marketing-cta-panel h3,
+.hp-page .marketing-cta-panel p {
+  color: inherit;
+}
+
+.hp-page .marketing-stat-value {
+  background: linear-gradient(135deg, var(--app-accent) 0%, var(--app-accent-strong) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.hp-page .marketing-band {
+  background:
+    radial-gradient(circle at 84% 16%, rgba(74, 152, 175, 0.16) 0%, transparent 24%),
+    linear-gradient(180deg, rgba(248, 238, 220, 0.96) 0%, rgba(248, 238, 220, 0.94) 58%, rgba(255, 255, 255, 0.98) 100%);
+}
+
+/* Plain band on solid white to set it apart from the tinted bands. */
+.hp-page .marketing-band--plain {
+  background: #FFFFFF;
+}
+
+.hp-page .marketing-band::after {
+  background: rgba(43, 107, 125, 0.08);
+}
+
+.hp-page .marketing-card,
+.hp-page .marketing-step,
+.hp-page .marketing-price-card,
+.hp-page .marketing-story-card {
+  border-color: rgba(43, 107, 125, 0.1);
+}
+
+.hp-page .marketing-card--featured {
+  border-color: rgba(43, 107, 125, 0.1);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.94) 0%, rgba(255, 255, 255, 0.84) 100%);
+}
+
+.hp-page .marketing-price-card.is-featured {
+  background: linear-gradient(160deg, rgba(74, 152, 175, 0.16) 0%, rgba(255, 255, 255, 0.96) 76%);
+}
+
+/* CTA box keeps a navy→teal gradient; the area around it reads white via a
+   large white box-shadow (clipped so it does not bleed into the footer). */
+.hp-page .marketing-cta-panel {
+  background: linear-gradient(145deg, rgba(43, 107, 125, 0.98) 0%, rgba(74, 152, 175, 0.9) 100%);
+  box-shadow:
+    0 32px 88px rgba(3, 7, 18, 0.18),
+    0 0 0 100vw #FFFFFF;
+  clip-path: inset(-72px -100vw 0 -100vw);
+}
+
+/* CTA link pills: light fill with dark accent text, overriding the base
+   white-on-dark style used on the gradient panel. */
+.hp-page .marketing-cta-panel .marketing-inline-link {
+  border-color: rgba(43, 107, 125, 0.18);
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--app-accent-strong);
+  text-decoration: none;
+}
+
+.hp-page .marketing-cta-panel .marketing-inline-link:not(.marketing-inline-link--static):hover {
+  border-color: rgba(43, 107, 125, 0.28);
+  background: #FFFFFF;
+}

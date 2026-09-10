@@ -1,0 +1,67 @@
+# Per-app marketing data for ETFWise, keyed by language code (mirrors the
+# convention in _data/home.yml). Consumed by _layouts/app-etfwise.html via
+# _includes/marketing/showcase.html and hero-gallery.html. Each language
+# mirrors the `en` structure; languages without their own entry fall back to
+# `en` so every localized page still renders the showcase.
+#
+# Screenshots live in /assets/screenshots/etfwise/ (660px-wide web copies of
+# the App Store mockups; the captions baked into each image are English, so the
+# narratives here add explanation rather than repeat the on-image text).
+
+en:
+  hero_gallery:
+    # No label/title: this strip is purely visual and shared across all
+    # languages (see the layout's en fallback), so it carries no translatable
+    # copy. `alt` is a generic, per-screen accessible description.
+    alt: "ETFWise app screen"
+    shots:
+      - /assets/screenshots/etfwise/hero/01.png
+      - /assets/screenshots/etfwise/hero/02.png
+      - /assets/screenshots/etfwise/hero/03.png
+      - /assets/screenshots/etfwise/hero/04.png
+      - /assets/screenshots/etfwise/hero/05.png
+      - /assets/screenshots/etfwise/hero/06.png
+      - /assets/screenshots/etfwise/hero/07.png
+      - /assets/screenshots/etfwise/hero/08.png
+      - /assets/screenshots/etfwise/hero/09.png
+  showcase:
+    label: "See it in action"
+    title: "From today's briefing to deep fund analysis"
+    intro: "Every screen of ETFWise is built to answer an investor's questions fast: what should I look at today, how is the market moving, and what is this ETF really made of?"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "ETFWise welcome screen highlighting daily curated picks, instant research, and on-device analysis"
+        title: "Daily picks and one-tap research"
+        body: "Open ETFWise and get top US-traded ETFs ranked by AUM across categories, refreshed every day. Search any fund for price and analyst ratings, with balanced analysis generated right on your device."
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "Today's Briefing screen with plain-language market summary bullets for the day"
+        title: "Start with today's briefing"
+        body: "A dated market briefing sums up the week in plain language — how many tracked ETFs rose or fell, how the major indices moved, and which sectors led or lagged — so you can check once and get on with your day."
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "Today's Market screen listing top gainers and top losers over one week"
+        title: "See what is moving"
+        body: "Today's Market ranks the week's top gainers and losers with clear percentage changes, category tags, and fund names, so you always know where attention is flowing across the ETF landscape."
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "Major Indices screen grouping S&P 500, Nasdaq, and Dow Jones ETFs with weekly changes"
+        title: "Track the major indices"
+        body: "Key benchmark ETFs are grouped by S&P 500, Nasdaq, and Dow Jones, each with a weekly move, so the whole market picture stays readable at a glance."
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "Today's Picks screen with curated Major Index and Dividend ETF cards showing price, sentiment, and expense ratio"
+        title: "Curated picks across categories"
+        body: "Browse today's curated funds by category — Major Index, Dividend, and more — with each card showing price, expense ratio, AUM, a sentiment read, and a one-line reason it made the list."
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "Sector detail screen listing Technology and Bitcoin & Crypto ETFs with price and sentiment"
+        title: "Explore funds by industry"
+        body: "Dive into sector, commodity, and thematic ETFs — tech, energy, financials, gold, crypto, AI, and clean energy — organized by industry so you can find exposure that fits your view."
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "Instant Search screen filtering tickers by the query SPY with matching symbols and providers"
+        title: "Search 450+ tickers instantly"
+        body: "Type any symbol and filter across hundreds of searchable tickers by name and provider, so the fund you want is only a few keystrokes away."
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "Fund overview screen for SPY showing price, expense ratio, tracked index, about text, and top holdings"
+        title: "A complete fund profile"
+        body: "Tap any ETF for the full overview — current price, expense ratio, the index it tracks, a plain fund description, and top holdings with their exact weights — so you know precisely what you own."
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "Fund metrics screen showing AUM, dividend yield, trailing and annual returns, and news sentiment for SPY"
+        title: "Performance history and sentiment"
+        body: "Go deeper with AUM, dividend yield, year-to-date and multi-year returns, trailing and annual performance, plus a seven-day news sentiment score and the latest headlines — all in one scroll."

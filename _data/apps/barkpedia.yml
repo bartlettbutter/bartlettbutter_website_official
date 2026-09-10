@@ -1,0 +1,57 @@
+# Per-app marketing data for Barkpedia, keyed by language code (mirrors the
+# convention in _data/home.yml). Consumed by _layouts/app-barkpedia.html via
+# _includes/marketing/showcase.html and hero-gallery.html. Each language
+# mirrors the `en` structure; languages without their own entry fall back to
+# `en` so every localized page still renders the showcase.
+#
+# Screenshots live in /assets/screenshots/barkpedia/ (660px-wide web copies of
+# the App Store mockups; the captions baked into each image are English, so the
+# narratives here add explanation rather than repeat the on-image text).
+
+en:
+  hero_gallery:
+    # No label/title: this strip is purely visual and shared across all
+    # languages (see the layout's en fallback), so it carries no translatable
+    # copy. `alt` is a generic, per-screen accessible description.
+    alt: "Barkpedia app screen"
+    shots:
+      - /assets/screenshots/barkpedia/hero/01.png
+      - /assets/screenshots/barkpedia/hero/02.png
+      - /assets/screenshots/barkpedia/hero/03.png
+      - /assets/screenshots/barkpedia/hero/04.png
+      - /assets/screenshots/barkpedia/hero/05.png
+      - /assets/screenshots/barkpedia/hero/06.png
+      - /assets/screenshots/barkpedia/hero/07.png
+  showcase:
+    label: "See it in action"
+    title: "From a quick photo to the whole breed story"
+    intro: "Every screen of Barkpedia is built to answer a dog lover's questions fast: what breed is this, where does it come from, and what is it really like?"
+    shots:
+      - image: /assets/screenshots/barkpedia/01-welcome.png
+        alt: "Barkpedia welcome screen listing scan, breed profiles, quizzes, and trivia"
+        title: "Your pocket guide to the dog world"
+        body: "Open Barkpedia and start right away — no account, no sign-up, no cost. Scanning, breed profiles, quizzes, and trivia all work completely offline from the first tap."
+      - image: /assets/screenshots/barkpedia/02-identify.png
+        alt: "Scan screen showing a Miniature Poodle identified with a confidence score and other possibilities"
+        title: "Point your camera, name the breed"
+        body: "Snap a photo or pick one from your library and get a breed match with a confidence score, plus a ranked list of other possibilities so close calls are never a guess."
+      - image: /assets/screenshots/barkpedia/03-profile.png
+        alt: "Breed details screen for the Miniature Poodle with temperament, life span, weight, height, origin, and history"
+        title: "Every breed, fully profiled"
+        body: "Each result opens a rich AKC-style profile — temperament, life span, weight, height, country of origin, and the breed's history — so you learn the story behind the dog, not just its name."
+      - image: /assets/screenshots/barkpedia/04-favorites.png
+        alt: "Favorites grid of saved breed scans including Shiba Inu, Beagle, and Miniature Poodle"
+        title: "Build your own breed library"
+        body: "Love a breed? Save any scan and revisit it anytime. Your favorites form a personal library that stays stored locally on your device."
+      - image: /assets/screenshots/barkpedia/05-explore.png
+        alt: "Explore screen with a breed search bar and an interactive world map of breeds by country"
+        title: "Explore breeds around the world"
+        body: "Search 147 breeds by name, or browse an interactive world map organized by country of origin. Tap a pin to see which breeds come from that region and dive into their profiles."
+      - image: /assets/screenshots/barkpedia/06-quiz.png
+        alt: "Breed Quiz screen asking which breed is shown, with a Pembroke Welsh Corgi answered correctly"
+        title: "Test yourself with Breed Quiz"
+        body: "Guess the breed from a photo across ten multiple-choice questions, earn reward titles, and turn everything you have scanned into a game."
+      - image: /assets/screenshots/barkpedia/07-trivia.png
+        alt: "Dog Trivia screen showing a true-or-false myth question answered correctly"
+        title: "Bust myths with Dog Trivia"
+        body: "Take on ten rounds of true-or-false questions that mix real facts with clever myths, so you pick up practical dog knowledge while you play — offline, anytime."

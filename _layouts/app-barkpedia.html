@@ -1,0 +1,36 @@
+---
+layout: default
+---
+{%- comment -%}
+  Bespoke marketing layout for Barkpedia. Same shared chrome (nav, app header,
+  footer) as every other page via `default`, but the body is scoped to
+  `.bp-page` and styled by assets/css/apps/barkpedia.css for a distinct
+  identity (teal/navy, playful pocket-guide feel). Content still comes from the
+  translated markdown; the showcase is injected at the `<!--showcase-->` marker.
+{%- endcomment -%}
+{%- assign m_data = site.data.apps.barkpedia[page.lang | default: "en"] | default: site.data.apps.barkpedia.en -%}
+{%- comment -%} The hero gallery is language-independent (images only), so it is
+  defined once under `en`. Fall back to it for languages that don't override it,
+  the same way the whole entry falls back to `en`. {%- endcomment -%}
+{%- assign m_gallery = m_data.hero_gallery | default: site.data.apps.barkpedia.en.hero_gallery -%}
+<div class="bp-page app-page">
+{%- if m_data.showcase or m_gallery -%}
+  {%- assign m_parts = content | split: "<!--showcase-->" -%}
+  {%- comment -%} The gallery renders wherever the markdown places the
+    `<!--gallery-->` marker (authored just after the hero lead, so the mockups
+    sit above the intro paragraph). If the marker is absent — e.g. a translated
+    page that predates it — the gallery falls back to its previous spot, right
+    before the showcase. {%- endcomment -%}
+  {%- assign m_hero_parts = m_parts[0] | split: "<!--gallery-->" -%}
+  <div class="marketing-hero-shell">
+    {{ m_hero_parts[0] }}
+    {%- if m_gallery and m_hero_parts.size > 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="bp" -%}{%- endif -%}
+    {%- if m_hero_parts.size > 1 -%}{{ m_hero_parts[1] }}{%- endif -%}
+    {%- if m_gallery and m_hero_parts.size <= 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="bp" -%}{%- endif -%}
+  </div>
+  {%- if m_data.showcase -%}{%- include marketing/showcase.html showcase=m_data.showcase variant="bp" -%}{%- endif -%}
+  {%- if m_parts.size > 1 -%}{{ m_parts[1] }}{%- endif -%}
+{%- else -%}
+  {{ content }}
+{%- endif -%}
+</div>

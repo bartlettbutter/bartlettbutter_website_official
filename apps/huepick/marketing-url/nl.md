@@ -1,5 +1,5 @@
 ---
-layout: marketing
+layout: app-huepick
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Haal paletten uit foto's en transformeer afbeeldingen met creatieve hulpmiddelen. Gratis, privé, geen account nodig."
@@ -10,55 +10,203 @@ redirect_from:
   - /marketing-url/huepick/nl/
 ---
 
-# Zie kleuren anders.
+# Zie kleuren anders. Verander elke foto in een palet.
 
-Maak een foto van alles wat je inspireert. Huepick onthult direct het verborgen palet erin en geeft je creatieve hulpmiddelen om er iets moois mee te maken. Volledig gratis, volledig privé.
+<!--gallery-->
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/huepick)
+Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet erin — tot twaalf kleuren, klaar om te kopiëren, te begrijpen en om te vormen met creatieve hulpmiddelen. Geen typen, geen zoeken, geen account en geen kosten.
 
-## Wat je echt met Huepick gaat doen
+<div class="marketing-chip-row" aria-label="Huepick highlights">
+  <span class="marketing-chip">Paletten van 12 kleuren</span>
+  <span class="marketing-chip">6 creatieve hulpmiddelen</span>
+  <span class="marketing-chip">Voor altijd gratis</span>
+  <span class="marketing-chip">Geen account nodig</span>
+</div>
 
-- **Vind het perfecte palet in enkele seconden.** Richt je camera op een zonsondergang, een muurschildering, een stofstaal, en Huepick haalt een palet van 12 kleuren eruit dat je meteen kunt gebruiken. Tik op een staal om de hexcode ervan te kopiëren. Geen kleuren meer op het oog inschatten of gokken wat er in beeld zit.
-- **Begrijp de kleuren die je hebt vastgelegd.** Huepick ontleedt je palet met een heldere visuele analyse: kleurtoonverdeling, warm-versus-koud temperatuur, lichtheid en contrast, verzadiging en een volledige kleurontleding. Zie wat een beeld doet werken.
-- **Transformeer je foto's tot kunst.** Zes creatieve hulpmiddelen (Isoleren, Duotoon, Tritoon, Pixeliseren, Vervagen en Glitch) laten je elke foto omzetten tot iets deelbaars met kleuren uit je eigen palet.
-- **Houd alles privé en offline.** Je foto's verlaten nooit je apparaat. Geen aanmeldingen, geen cloud-uploads, geen tracking. Werkt overal, zelfs zonder wifi.
+<div class="marketing-stat-grid" aria-label="Huepick at a glance">
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">12</span>
+    <span class="marketing-stat-label">dominante kleuren geëxtraheerd uit elke foto, elk op één tik van hun hexcode</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">6</span>
+    <span class="marketing-stat-label">creatieve hulpmiddelen — Isoleren, Duotoon, Tritoon, Pixeliseren, Vervagen en Glitch</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">100%</span>
+    <span class="marketing-stat-label">privé en offline, waarbij foto's en creaties op je apparaat blijven</span>
+  </article>
+</div>
 
-## Hoe het werkt
+<div class="marketing-cta-row">
+  <div class="marketing-cta-badges">
+    <a href="https://apps.apple.com/app/huepick">
+      <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+    </a>
+  </div>
+  <p class="marketing-meta-note">Gratis te downloaden op iPhone en iPad. Werkt op iOS 18.6 of hoger.</p>
+</div>
 
-1. **Maak of kies een foto** — zonder account, zonder installatie
-2. **Bekijk je palet** — tot 12 dominante kleuren direct geëxtraheerd, tik om een hexcode te kopiëren
-3. **Verken de analyse** — kleurtoon, temperatuur, lichtheid, contrast en verzadiging in één oogopslag
-4. **Speel** — transformeer je foto met zes creatieve hulpmiddelen, geleid door slimme suggesties voor je beeld
-5. **Bewaar en deel** — download creaties naar je Foto's of deel ze direct
+<!--showcase-->
 
-## Wat er in zit
+<section class="marketing-band" aria-labelledby="hp-why-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Waarom kleurliefhebbers ervoor kiezen</p>
+    <h2 id="hp-why-title" class="marketing-section-title">Een rustige, complete manier om kleur vast te leggen en ermee te creëren.</h2>
+    <p class="marketing-section-intro">Huepick verandert een moment van inspiratie in een palet dat je echt kunt gebruiken, en gaat dan verder met heldere analyse en creatieve hulpmiddelen — allemaal zonder aanmelding of signaal.</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--two">
+    <article class="marketing-card marketing-card--featured">
+      <h3>Haal een palet eruit in enkele seconden</h3>
+      <p>Richt je camera op wat dan ook, of kies een foto uit je bibliotheek, en Huepick haalt binnen een moment tot twaalf dominante kleuren tevoorschijn.</p>
+      <ul class="marketing-list">
+        <li>Tik op een willekeurig staal om de hexcode direct te kopiëren</li>
+        <li>Geen kleuren meer op het oog inschatten of gokken wat er in beeld zit</li>
+        <li>Werkt volledig offline, waar inspiratie ook toeslaat</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Begrijp de kleuren die je hebt vastgelegd</h3>
+      <p>Elk palet opent een heldere visuele ontleding die uitlegt wat een beeld doet werken, niet alleen welke kleuren erin zitten.</p>
+      <ul class="marketing-list">
+        <li>Kleurvariatie, verzadiging, lichtheid en contrast in één oogopslag</li>
+        <li>Diversiteitsscore, kleurtoonspreiding en een uitsplitsing per kleur</li>
+        <li>Slimme hulpmiddelaanbevelingen afgestemd op jouw specifieke foto</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Transformeer foto's tot kunst</h3>
+      <p>Zes creatieve hulpmiddelen laten je elke afbeelding omvormen met de kleuren uit je eigen palet.</p>
+      <ul class="marketing-list">
+        <li>Isoleren, Duotoon, Tritoon, Pixeliseren, Vervagen en Glitch</li>
+        <li>Verfijn intensiteit, stijl en richting van elk effect</li>
+        <li>Bewaar, download naar Foto's of deel je creaties</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Standaard privé</h3>
+      <p>Geen accounts, geen analyse, geen advertenties. Je foto's verlaten nooit je apparaat en alles werkt zonder verbinding.</p>
+      <ul class="marketing-list">
+        <li>Paletten en creaties blijven lokaal opgeslagen</li>
+        <li>Niets om je voor aan te melden en niets om te betalen</li>
+        <li>Een consistente vertrouwenshouding op elke pagina</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-**Analyseren** — Haal een palet van 12 kleuren eruit en verken het met gedetailleerde visuele uitsplitsingen: een overzicht met diversiteitsscore en kleurtoonspreiding, kleurtoonverdeling, kleurtemperatuur, lichtheid en contrast, verzadiging en een uitsplitsing per kleur. Huepick raadt zelfs aan welke creatieve hulpmiddelen het beste werken met jouw specifieke foto.
+<section class="marketing-band marketing-band--plain" aria-labelledby="hp-modes-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Productarchitectuur</p>
+    <h2 id="hp-modes-title" class="marketing-section-title">Drie ruimtes om in te werken, één consistente kleurflow overal.</h2>
+    <p class="marketing-section-intro">Elk onderdeel van Huepick beantwoordt een andere intentie — haal de kleuren eruit, speel ermee, of kom terug naar wat je hebt gemaakt — met behoud van dezelfde duidelijke, tastbare stijl.</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--three">
+    <article class="marketing-card marketing-card--featured">
+      <h3>Analyseren</h3>
+      <p>Haal een palet van twaalf kleuren eruit en verken het met gedetailleerde visuele uitsplitsingen en hulpmiddelsuggesties.</p>
+      <ul class="marketing-list">
+        <li>Overzicht met diversiteitsscore en kleurtoonspreiding</li>
+        <li>Aflezingen van temperatuur, lichtheid, contrast en verzadiging</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Playground</h3>
+      <p>Vorm je afbeelding om met zes creatieve hulpmiddelen, elk geleid door suggesties afgestemd op je foto.</p>
+      <ul class="marketing-list">
+        <li>Isoleren, Duotoon, Tritoon, Pixeliseren, Vervagen en Glitch</li>
+        <li>Pas intensiteit, stijl en richting van elk effect aan</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Galerij</h3>
+      <p>Elke creatie die je bewaart leeft hier, klaar om terug te bekijken wanneer inspiratie terugkeert.</p>
+      <ul class="marketing-list">
+        <li>Bewerk elk bewaard palet of creatie opnieuw</li>
+        <li>Download naar Foto's of deel met één tik</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-**Playground** — Zes hulpmiddelen om je afbeelding te transformeren:
-- *Isoleren* — belicht specifieke kleuren terwijl de rest monochroom wordt
-- *Duotoon* — zet je afbeelding om naar twee gedurfde tinten
-- *Tritoon* — zet je afbeelding om naar drie tinten voor rijkere verlopen
-- *Pixeliseren* — zet om naar een mozaïek van geometrische tegels
-- *Vervagen* — voegt met diverse vervagingsstijlen een zachte, dromerige focus toe
-- *Glitch* — past digitale vervorming toe voor een gewaagde look
+<section class="marketing-band" aria-labelledby="hp-flow-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Hoe het werkt</p>
+    <h2 id="hp-flow-title" class="marketing-section-title">Van een foto naar een afgeronde creatie in vijf eenvoudige stappen.</h2>
+  </div>
+  <div class="marketing-step-grid">
+    <article class="marketing-step">
+      <h3>Maak of kies een foto</h3>
+      <p>Gebruik je camera op alles wat je inspireert, of kies een bestaande foto uit je bibliotheek. Geen account, geen setup.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Bekijk je palet</h3>
+      <p>Tot twaalf dominante kleuren worden direct geëxtraheerd. Tik op een willekeurig staal om de hexcode te kopiëren.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Verken de analyse</h3>
+      <p>Bekijk kleurtoon, temperatuur, lichtheid, contrast en verzadiging, en zie welke hulpmiddelen Huepick aanbeveelt.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Speel met de hulpmiddelen</h3>
+      <p>Transformeer je foto met zes creatieve hulpmiddelen, geleid door slimme suggesties voor je afbeelding.</p>
+    </article>
+    <article class="marketing-step">
+      <h3>Bewaar en deel</h3>
+      <p>Bewaar creaties in je galerij, download ze naar Foto's of deel ze direct — allemaal offline.</p>
+    </article>
+  </div>
+</section>
 
-**Galerij** — Elke creatie die je bewaart, leeft hier. Bewerk opnieuw, download of deel wanneer je maar wilt.
+<section class="marketing-band marketing-band--plain" aria-labelledby="hp-audience-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Voor wie het is</p>
+    <h2 id="hp-audience-title" class="marketing-section-title">Een cadeau voor iedereen die om kleur geeft.</h2>
+  </div>
+  <div class="marketing-story-grid">
+    <article class="marketing-story-card">
+      <h3>Bouw een bibliotheek van de kleuren waar je van houdt</h3>
+      <p>Bewaar elk palet of creatie en bekijk het wanneer je maar wilt. Het is handig om een kleur te onthouden die je opviel, looks te vergelijken en exacte hexcodes opnieuw te gebruiken in je werk.</p>
+    </article>
+    <article class="marketing-story-card">
+      <h3>Gemaakt voor creatieve mensen</h3>
+      <ul class="marketing-list">
+        <li>Ontwerpers die merkpaletten kiezen en verfijnen</li>
+        <li>Fotografen en kunstenaars die moodboards verkennen</li>
+        <li>Doe-het-zelvers en visagisten die tinten matchen</li>
+        <li>Ontwikkelaars die toegankelijke, merkgetrouwe interfaces bouwen</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-## Gemaakt voor mensen die om kleur geven
+<section class="marketing-band" aria-labelledby="hp-offer-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">Aanbod en vertrouwen</p>
+    <h2 id="hp-offer-title" class="marketing-section-title">Gratis te downloaden. Privé van nature.</h2>
+  </div>
+  <div class="marketing-price-grid">
+    <article class="marketing-price-card is-featured">
+      <span class="marketing-price-tier">Vandaag inbegrepen</span>
+      <h3 class="marketing-price-summary">Elke functie is kosteloos beschikbaar.</h3>
+      <p>Haal paletten eruit, verken de volledige analyse, gebruik alle zes creatieve hulpmiddelen en houd je galerij bij zonder account, abonnement of betaalmuur.</p>
+      <p class="marketing-price-note">Compatibel met iPhone en iPad op iOS 18.6 of hoger.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">Privacyhouding</span>
+      <h3 class="marketing-price-summary">Geen servers. Geen cloud. Geen tracking.</h3>
+      <p>Je foto's verlaten nooit je apparaat. Extractie, analyse en elk creatief hulpmiddel draaien lokaal, zodat de productbelofte net zo duidelijk is als de interface.</p>
+      <p class="marketing-price-note">Diezelfde privacy-first insteek loopt door op de overzichts-, ondersteunings- en beleidspagina's.</p>
+    </article>
+  </div>
+</section>
 
-Ontwerpers die merkpaletten kiezen. Fotografen die moodboards verkennen. Doe-het-zelvers die verfstalen matchen. Visagisten die tintcombinaties testen. Ontwikkelaars die toegankelijke interfaces bouwen. Iedereen die ooit dacht: "Ik hou van die kleur, wat is het?"
-
-## Compatibiliteit
-
-iOS 18.6 of hoger · iPhone en iPad
-
-## Jouw foto's blijven van jou
-
-Geen accounts. Geen analyse. Geen advertenties. Alles draait op je apparaat.
-
-Lees ons volledige [Privacybeleid](https://www.bartlettbutter.com/huepick/privacy/).
-
-## Hulp nodig?
-
-Bezoek onze [Ondersteuningspagina](https://www.bartlettbutter.com/huepick/support/) of stuur ons een e-mail op [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+<section class="marketing-cta-panel" aria-labelledby="hp-next-title">
+  <h2 id="hp-next-title">Klaar om de kleuren om je heen te zien?</h2>
+  <p>Download Huepick, begin direct met het extraheren van paletten en houd je creatieve hulpmiddelen bij de hand wanneer inspiratie toeslaat.</p>
+  <div class="marketing-link-row">
+    <a class="marketing-inline-link" href="/huepick/support/">Ondersteuning bezoeken</a>
+    <a class="marketing-inline-link" href="/huepick/privacy/">Privacybeleid lezen</a>
+    <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
+  </div>
+</section>

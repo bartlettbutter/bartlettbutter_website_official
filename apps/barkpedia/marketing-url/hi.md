@@ -1,5 +1,5 @@
 ---
-layout: marketing
+layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
 app_description: "किसी भी कुत्ते की नस्ल तुरंत पहचानें। निःशुल्क, ऑफ़लाइन और निजी।"
@@ -12,55 +12,201 @@ redirect_from:
 
 # हर कुत्ते की एक कहानी होती है। इसे तुरंत खोजें।
 
-एक तस्वीर लें, नस्ल पहचानें, और जानने योग्य सब कुछ अनलॉक करें: स्वभाव, इतिहास, मज़ेदार तथ्य और बहुत कुछ। इंटरनेट की आवश्यकता नहीं, साइन-अप नहीं, कोई लागत नहीं।
+<!--gallery-->
 
-[![Download on the App Store](/assets/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/barkpedia/id6762066596)
+किसी भी कुत्ते की तस्वीर लें और Barkpedia नस्ल का नाम बता देता है, फिर उसके पीछे की पूरी कहानी खोल देता है — स्वभाव, इतिहास, उत्पत्ति और मज़ेदार तथ्य। कोई टाइपिंग नहीं, कोई खोज नहीं, कोई इंटरनेट नहीं, और कोई लागत नहीं।
 
-## कुत्ता प्रेमी Barkpedia क्यों चुनते हैं
+<div class="marketing-chip-row" aria-label="Barkpedia highlights">
+  <span class="marketing-chip">147 नस्लें</span>
+  <span class="marketing-chip">पूरी तरह ऑफ़लाइन काम करता है</span>
+  <span class="marketing-chip">हमेशा के लिए निःशुल्क</span>
+  <span class="marketing-chip">खाते की आवश्यकता नहीं</span>
+</div>
 
-- **कहीं भी, तुरंत उत्तर।** पार्क में, आश्रय में, या अपने सोफे पर सेकंडों में 147 नस्लें पहचानें। पूरी तरह ऑफ़लाइन काम करता है।
-- **आपकी गोपनीयता सर्वोपरि है।** तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं। कोई खाता नहीं, कोई ट्रैकिंग नहीं, कोई विज्ञापन नहीं। बस इतना ही।
-- **हमेशा के लिए निःशुल्क।** कोई सदस्यता नहीं, कोई इन-ऐप खरीदारी नहीं, कोई पेवॉल नहीं। एक बार डाउनलोड करें और हर सुविधा का आनंद लें।
-- **सीखें, खोजें और खेलें।** विस्तृत नस्ल प्रोफ़ाइल, एक इंटरैक्टिव विश्व मानचित्र और दो क्विज़ खेलों के साथ पहचान से आगे बढ़ें जो आपके कुत्ता-ज्ञान को परखते (और बढ़ाते) हैं।
+<div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">147</span>
+    <span class="marketing-stat-label">कुत्तों की नस्लें, समृद्ध AKC-शैली प्रोफ़ाइल के साथ जिन्हें आप खोज और एक्सप्लोर कर सकते हैं</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">2</span>
+    <span class="marketing-stat-label">गेम मोड, नस्ल क्विज़ और कुत्ता ट्रिविया, जो आपके कुत्ता-ज्ञान को बढ़ाते हैं</span>
+  </article>
+  <article class="marketing-stat">
+    <span class="marketing-stat-value">100%</span>
+    <span class="marketing-stat-label">निजी और ऑफ़लाइन, तस्वीरें और डेटा आपके डिवाइस पर ही रहते हैं</span>
+  </article>
+</div>
 
-## Barkpedia के साथ आप क्या कर सकते हैं
+<div class="marketing-cta-row">
+  <div class="marketing-cta-badges">
+    <a href="https://apps.apple.com/us/app/barkpedia/id6762066596">
+      <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+    </a>
+  </div>
+  <p class="marketing-meta-note">iPhone और iPad पर डाउनलोड करने के लिए निःशुल्क। iOS 18.0 या बाद के संस्करण पर काम करता है।</p>
+</div>
 
-### स्कैन करें और पहचानें
+<!--showcase-->
 
-अपना कैमरा किसी भी कुत्ते पर तानें, या अपनी लाइब्रेरी से एक तस्वीर चुनें, और विश्वास स्कोर के साथ एक नस्ल मिलान पाएँ। प्रत्येक परिणाम स्वभाव, आकार, ऊर्जा स्तर, उत्पत्ति कहानी और तस्वीरों वाली एक समृद्ध नस्ल प्रोफ़ाइल से जुड़ता है।
+<section class="marketing-band" aria-labelledby="bp-why-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">कुत्ता प्रेमी इसे क्यों चुनते हैं</p>
+    <h2 id="bp-why-title" class="marketing-section-title">कुत्तों की दुनिया के लिए एक शांत, संपूर्ण पॉकेट गाइड।</h2>
+    <p class="marketing-section-intro">Barkpedia पार्क के एक जिज्ञासु पल को एक वास्तविक उत्तर में बदल देता है, फिर इतिहास, प्रोफ़ाइल और थोड़े मज़े के साथ आगे बढ़ता रहता है — यह सब बिना किसी साइन-अप या सिग्नल के।</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--two">
+    <article class="marketing-card marketing-card--featured">
+      <h3>किसी भी कुत्ते को सेकंडों में पहचानें</h3>
+      <p>अपना कैमरा किसी भी कुत्ते पर तानें, या अपनी लाइब्रेरी से एक तस्वीर चुनें, और पलभर में विश्वास स्कोर के साथ एक नस्ल मिलान पाएँ।</p>
+      <ul class="marketing-list">
+        <li>निकट मामलों के लिए अन्य संभावनाओं की एक क्रमबद्ध सूची</li>
+        <li>हर परिणाम सीधे एक पूर्ण नस्ल प्रोफ़ाइल से जुड़ता है</li>
+        <li>पूरी तरह ऑफ़लाइन काम करता है, कुत्ता चाहे जहाँ भी हो</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>पढ़ने योग्य प्रोफ़ाइल</h3>
+      <p>हर नस्ल एक AKC-शैली प्रोफ़ाइल खोलती है जो बताती है कि कुत्ता वास्तव में कैसा है, न कि केवल उसे क्या कहा जाता है।</p>
+      <ul class="marketing-list">
+        <li>स्वभाव, जीवनकाल, वजन और ऊँचाई एक नज़र में</li>
+        <li>मूल देश और नस्ल का इतिहास</li>
+        <li>हर नस्ल के लिए स्पष्ट, सरल भाषा में विवरण</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>ऑफ़लाइन सीखें और खेलें</h3>
+      <p>आपने जो कुछ स्कैन किया है उसे दो मोड वाले गेम में बदलें, जो वास्तविक कुत्ता-ज्ञान बढ़ाने के लिए डिज़ाइन किए गए हैं।</p>
+      <ul class="marketing-list">
+        <li>नस्ल क्विज़: तस्वीर से नस्ल का अनुमान लगाएँ</li>
+        <li>कुत्ता ट्रिविया: सही-या-गलत मिथक और तथ्य</li>
+        <li>खेलने के लिए कभी इंटरनेट की ज़रूरत नहीं</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>डिफ़ॉल्ट रूप से निजी</h3>
+      <p>कोई खाता नहीं, कोई एनालिटिक्स नहीं, कोई विज्ञापन नहीं। आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं और सब कुछ बिना कनेक्शन के काम करता है।</p>
+      <ul class="marketing-list">
+        <li>स्कैन और पसंदीदा स्थानीय रूप से संग्रहीत रहते हैं</li>
+        <li>साइन अप करने को कुछ नहीं और भुगतान करने को कुछ नहीं</li>
+        <li>हर पृष्ठ पर एक जैसा भरोसेमंद रुख</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-### अपने पसंदीदा सहेजें
+<section class="marketing-band marketing-band--plain" aria-labelledby="bp-modes-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">उत्पाद संरचना</p>
+    <h2 id="bp-modes-title" class="marketing-section-title">इसका आनंद लेने के तीन तरीके, पूरे में एक ही मित्रवत गाइड।</h2>
+    <p class="marketing-section-intro">Barkpedia का हर हिस्सा एक अलग मनोदशा का उत्तर देता है — एक त्वरित प्रश्न, ब्राउज़िंग की एक दोपहर, या गेम नाइट — जबकि वही स्पष्ट, पठनीय शैली बनाए रखता है।</p>
+  </div>
+  <div class="marketing-card-grid marketing-card-grid--three">
+    <article class="marketing-card marketing-card--featured">
+      <h3>पहचानें</h3>
+      <p>किसी कुत्ते को स्कैन करें और विश्वास स्कोर व अन्य संभावित संभावनाओं के साथ एक नस्ल मिलान पाएँ।</p>
+      <ul class="marketing-list">
+        <li>पार्क, आश्रय, या आपके सोफे के लिए सर्वश्रेष्ठ</li>
+        <li>बाद में दोबारा देखने के लिए किसी भी परिणाम को सहेजें</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>एक्सप्लोर करें</h3>
+      <p>147 नस्लों को नाम से खोजें या मूल-देश के अनुसार व्यवस्थित एक इंटरैक्टिव विश्व मानचित्र ब्राउज़ करें।</p>
+      <ul class="marketing-list">
+        <li>उस क्षेत्र की नस्लें देखने के लिए किसी पिन पर टैप करें</li>
+        <li>योजना बनाने, सपने देखने और सीखने के लिए बढ़िया</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>खेलें</h3>
+      <p>दो ऑफ़लाइन गेम मोड के साथ अपने ज्ञान को परखें जो तस्वीरों, तथ्यों और मिथकों को मिलाते हैं।</p>
+      <ul class="marketing-list">
+        <li>अर्जित करने योग्य पुरस्कार खिताबों वाला नस्ल क्विज़</li>
+        <li>त्वरित सही-या-गलत राउंड के लिए कुत्ता ट्रिविया</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-किसी नस्ल को पसंद करते हैं? अपने स्कैन परिणाम सहेजें और जब चाहें दोबारा देखें। सब कुछ आपके डिवाइस पर स्थानीय रूप से संग्रहीत होता है।
+<section class="marketing-band" aria-labelledby="bp-flow-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">यह कैसे काम करता है</p>
+    <h2 id="bp-flow-title" class="marketing-section-title">एक तस्वीर से पूरी कहानी तक, पाँच आसान चरणों में।</h2>
+  </div>
+  <div class="marketing-step-grid">
+    <article class="marketing-step">
+      <h3>Barkpedia खोलें</h3>
+      <p>सेकंडों में तैयार, कोई खाता नहीं, कोई साइन-अप नहीं, और पहले से निपटाने को कोई सेटअप नहीं।</p>
+    </article>
+    <article class="marketing-step">
+      <h3>तस्वीर लें या चुनें</h3>
+      <p>किसी भी कुत्ते पर अपने कैमरे का उपयोग करें, या अपनी लाइब्रेरी से मौजूदा तस्वीर चुनें।</p>
+    </article>
+    <article class="marketing-step">
+      <h3>अपना परिणाम देखें</h3>
+      <p>नस्ल का नाम, एक विश्वास स्कोर, और स्वभाव, आकार, उत्पत्ति व इतिहास वाली पूर्ण प्रोफ़ाइल पाएँ।</p>
+    </article>
+    <article class="marketing-step">
+      <h3>अपने पसंदीदा सहेजें</h3>
+      <p>जिन नस्लों को आप पसंद करते हैं उन्हें एक व्यक्तिगत लाइब्रेरी में रखें जो आपके डिवाइस पर संग्रहीत रहती है।</p>
+    </article>
+    <article class="marketing-step">
+      <h3>एक्सप्लोर करते रहें</h3>
+      <p>नस्लें खोजें, विश्व मानचित्र ब्राउज़ करें, या जब चाहें नस्ल क्विज़ और कुत्ता ट्रिविया खेलें।</p>
+    </article>
+  </div>
+</section>
 
-### दुनिया भर की नस्लें खोजें
+<section class="marketing-band marketing-band--plain" aria-labelledby="bp-audience-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">यह किसके काम आता है</p>
+    <h2 id="bp-audience-title" class="marketing-section-title">हर उस व्यक्ति के लिए एक उपहार जो नए कुत्तों से मिलना पसंद करता है।</h2>
+  </div>
+  <div class="marketing-story-grid">
+    <article class="marketing-story-card">
+      <h3>मिलने वाले कुत्तों की एक लाइब्रेरी रखें</h3>
+      <p>किसी भी स्कैन को उसकी नस्ल और विश्वास स्कोर के साथ सहेजें, फिर जब चाहें दोबारा देखें। पार्क के कुत्ते को याद रखने, एक जैसे दिखने वालों की तुलना करने और हर बार थोड़ा और सीखने के लिए यह उपयोगी है।</p>
+    </article>
+    <article class="marketing-story-card">
+      <h3>जिज्ञासु कुत्ता-प्रेमियों के लिए बनाया गया</h3>
+      <ul class="marketing-list">
+        <li>अपनी मिश्रित नस्ल को समझने वाले नए पिल्ला-माता-पिता</li>
+        <li>कई कुत्तों से मिलने वाले आश्रय और रेस्क्यू आगंतुक</li>
+        <li>पार्क के नियमित लोग जो हमेशा सोचते हैं "वह कौन-सी नस्ल है?"</li>
+        <li>साथ मिलकर नस्लें सीखने वाले बच्चे और परिवार</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-147 नस्लों को नाम से खोजें, या मूल-देश के अनुसार व्यवस्थित एक इंटरैक्टिव विश्व मानचित्र ब्राउज़ करें। यह जानने के लिए किसी पिन पर टैप करें कि उस क्षेत्र से कौन-सी नस्लें आती हैं और उनकी प्रोफ़ाइल में गहराई से उतरें।
+<section class="marketing-band" aria-labelledby="bp-offer-title">
+  <div class="marketing-section-head">
+    <p class="marketing-eyebrow">पेशकश और भरोसा</p>
+    <h2 id="bp-offer-title" class="marketing-section-title">डाउनलोड करने के लिए निःशुल्क। डिज़ाइन से ही निजी।</h2>
+  </div>
+  <div class="marketing-price-grid">
+    <article class="marketing-price-card is-featured">
+      <span class="marketing-price-tier">आज शामिल</span>
+      <h3 class="marketing-price-summary">हर सुविधा बिना किसी लागत के उपलब्ध है।</h3>
+      <p>बिना किसी खाते, सदस्यता या पेवॉल के नस्लें पहचानें, पूरी प्रोफ़ाइल पढ़ें, पसंदीदा सहेजें, मानचित्र एक्सप्लोर करें, और दोनों गेम खेलें।</p>
+      <p class="marketing-price-note">iOS 18.0 या बाद के संस्करण पर iPhone और iPad के साथ संगत।</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">गोपनीयता रुख</span>
+      <h3 class="marketing-price-summary">कोई सर्वर नहीं। कोई क्लाउड नहीं। कोई ट्रैकिंग नहीं।</h3>
+      <p>आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं। पहचान, प्रोफ़ाइल और गेम सभी स्थानीय रूप से चलते हैं, इसलिए उत्पाद का वादा इंटरफ़ेस जितना ही स्पष्ट है।</p>
+      <p class="marketing-price-note">वही गोपनीयता-प्रथम ढाँचा अवलोकन, सहायता और नीति पृष्ठों में भी चलता है।</p>
+    </article>
+  </div>
+</section>
 
-### खुद को चुनौती दें
-
-दो गेम मोड के साथ अपने नस्ल ज्ञान को परखें:
-
-- **नस्ल क्विज़** — तस्वीर से नस्ल का अनुमान लगाएँ। 10 प्रश्न, चार विकल्प, पुरस्कार खिताब अर्जित करें।
-- **कुत्ता ट्रिविया** — सही या गलत? वास्तविक तथ्यों को चतुर मिथकों के साथ मिलाकर 10 राउंड। पूरी तरह ऑफ़लाइन काम करता है।
-
-## यह कैसे काम करता है
-
-1. **Barkpedia खोलें** — सेकंडों में तैयार, खाते की आवश्यकता नहीं
-2. किसी भी कुत्ते की **तस्वीर लें या चुनें**
-3. **अपना परिणाम देखें** — नस्ल का नाम, विश्वास स्कोर और पूर्ण प्रोफ़ाइल
-4. **खोजते रहें** — नस्लें खोजें, मानचित्र ब्राउज़ करें, या क्विज़ और ट्रिविया खेलें
-
-## संगतता
-
-iOS 18.0 या बाद का संस्करण · iPhone और iPad
-
-## आपकी गोपनीयता, सुरक्षित
-
-आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं। कोई खाता नहीं, कोई एनालिटिक्स नहीं, कोई विज्ञापन नहीं। बस आप और कुत्ते।
-
-हमारी पूरी [गोपनीयता नीति](https://www.bartlettbutter.com/barkpedia/privacy/) पढ़ें।
-
-## मदद चाहिए?
-
-हमारे [सहायता पृष्ठ](https://www.bartlettbutter.com/barkpedia/support/) पर जाएँ या हमें [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) पर ईमेल करें।
+<section class="marketing-cta-panel" aria-labelledby="bp-next-title">
+  <h2 id="bp-next-title">हर उस कुत्ते का नाम जानने के लिए तैयार हैं जिससे आप मिलते हैं?</h2>
+  <p>Barkpedia डाउनलोड करें, तुरंत स्कैनिंग शुरू करें, और जब भी जिज्ञासा जगे तब बाकी नस्ल-दुनिया को हाथ में रखें।</p>
+  <div class="marketing-link-row">
+    <a class="marketing-inline-link" href="/barkpedia/support/">सहायता पर जाएँ</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/">गोपनीयता नीति पढ़ें</a>
+    <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
+  </div>
+</section>

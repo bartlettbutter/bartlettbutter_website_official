@@ -208,6 +208,11 @@
   border: 1px solid var(--app-accent-soft);
 }
 
+/* Give the intro paragraph more breathing room below the hero gallery. */
+.fl-page .marketing-hero-shell .hero-gallery--fl + p {
+  margin-top: clamp(32px, 5vw, 56px);
+}
+
 /* Shared marketing modules: clinical-gloss surfaces, brighter magenta chips. */
 .fl-page .marketing-chip {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.94) 0%, rgba(255, 243, 247, 0.9) 100%);

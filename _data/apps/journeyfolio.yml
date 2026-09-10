@@ -61,10 +61,6 @@ en:
         alt: "Flight editor showing a verified route, times, and airline"
         title: "Flights, verified and tracked"
         body: "Enter a flight number and Journeyfolio fills in the route, times, and airline, then keeps its live status inside your itinerary in each airport's local time."
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "Premium upgrade screen listing features and subscription options"
-        title: "Free to start, more when you need it"
-        body: "Plan your trips at no cost, and unlock unlimited trips, live flight tracking, and weather forecasts with Premium whenever you're ready."
 
 zh-Hans:
   showcase:
@@ -104,10 +100,6 @@ zh-Hans:
         alt: "航班编辑器，显示已验证的航线、时刻和航空公司"
         title: "航班，经过验证并持续跟踪"
         body: "输入航班号，Journeyfolio 会自动填入航线、时刻和航空公司，并按各机场当地时间在您的行程表中显示其实时状态。"
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "高级版升级屏幕，列出功能和订阅选项"
-        title: "免费起步，需要时再解锁更多"
-        body: "免费规划您的行程，准备就绪时，通过高级版解锁无限行程、实时航班跟踪和天气预报。"
 
 zh-Hant:
   showcase:
@@ -147,10 +139,6 @@ zh-Hant:
         alt: "航班編輯器，顯示已驗證的航線、時刻和航空公司"
         title: "航班，經過驗證並持續跟蹤"
         body: "輸入航班號，Journeyfolio 會自動填入航線、時刻和航空公司，並按各機場當地時間在您的行程表中顯示其實時狀態。"
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "高階版升級螢幕，列出功能和訂閱選項"
-        title: "免費起步，需要時再解鎖更多"
-        body: "免費規劃您的行程，準備就緒時，透過高階版解鎖無限行程、實時航班跟蹤和天氣預報。"
 
 ja:
   showcase:
@@ -190,10 +178,6 @@ ja:
         alt: "検証済みの経路、時刻、航空会社を表示するフライトエディター"
         title: "フライトを検証し、追跡"
         body: "フライト番号を入力すると、Journeyfolio が経路、時刻、航空会社を入力し、各空港の現地時間でリアルタイムの状況を旅程の中に表示し続けます。"
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "機能とサブスクリプションのオプションを並べたプレミアムのアップグレード画面"
-        title: "無料で始めて、必要なときにもっと"
-        body: "旅行の計画は無料。準備ができたら、無制限の旅行、リアルタイムフライト追跡、天気予報をプレミアムで解放できます。"
 
 ko:
   showcase:
@@ -233,10 +217,6 @@ ko:
         alt: "검증된 경로, 시간, 항공사를 보여주는 항공편 편집기"
         title: "항공편을, 검증하고 추적"
         body: "항공편 번호를 입력하면 Journeyfolio가 경로, 시간, 항공사를 채우고, 각 공항의 현지 시간으로 실시간 상태를 일정 안에 계속 표시합니다."
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "기능과 구독 옵션을 나열한 프리미엄 업그레이드 화면"
-        title: "무료로 시작하고, 필요할 때 더 많이"
-        body: "여행 계획은 무료로 세우고, 준비되면 무제한 여행, 실시간 항공편 추적, 일기 예보를 프리미엄으로 잠금 해제하세요."
 
 es:
   showcase:
@@ -276,10 +256,6 @@ es:
         alt: "Editor de vuelo que muestra una ruta verificada, horarios y aerolínea"
         title: "Vuelos, verificados y con seguimiento"
         body: "Introduce un número de vuelo y Journeyfolio completa la ruta, los horarios y la aerolínea, y mantiene su estado en vivo dentro de tu itinerario en la hora local de cada aeropuerto."
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "Pantalla de mejora a Premium que enumera funciones y opciones de suscripción"
-        title: "Gratis para empezar, más cuando lo necesites"
-        body: "Planifica tus viajes sin coste y desbloquea viajes ilimitados, seguimiento de vuelos en vivo y pronósticos del tiempo con Premium cuando estés listo."
 
 fr:
   showcase:
@@ -319,10 +295,6 @@ fr:
         alt: "Éditeur de vol montrant un itinéraire vérifié, les horaires et la compagnie aérienne"
         title: "Des vols vérifiés et suivis"
         body: "Saisissez un numéro de vol et Journeyfolio renseigne l'itinéraire, les horaires et la compagnie aérienne, puis suit son statut en direct dans votre itinéraire, à l'heure locale de chaque aéroport."
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "Écran de passage à Premium présentant les fonctionnalités et les options d'abonnement"
-        title: "Gratuit pour commencer, plus quand vous en avez besoin"
-        body: "Planifiez vos voyages gratuitement et débloquez des voyages illimités, le suivi de vol en direct et les prévisions météo avec Premium dès que vous êtes prêt."
 
 de:
   showcase:
@@ -362,10 +334,6 @@ de:
         alt: "Flugeditor mit einer verifizierten Route, Zeiten und Fluggesellschaft"
         title: "Flüge, verifiziert und verfolgt"
         body: "Gib eine Flugnummer ein und Journeyfolio füllt Route, Zeiten und Fluggesellschaft aus und hält den Live-Status in deinem Reiseplan in der Ortszeit jedes Flughafens fest."
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "Premium-Upgrade-Bildschirm mit Funktionen und Abo-Optionen"
-        title: "Kostenlos starten, mehr wenn du es brauchst"
-        body: "Plane deine Reisen kostenlos und schalte unbegrenzte Reisen, Live-Flugverfolgung und Wettervorhersagen mit Premium frei, wann immer du bereit bist."
 
 it:
   showcase:
@@ -405,10 +373,6 @@ it:
         alt: "Editor dei voli che mostra una rotta verificata, gli orari e la compagnia aerea"
         title: "Voli, verificati e monitorati"
         body: "Inserisci un numero di volo e Journeyfolio compila rotta, orari e compagnia aerea, poi mantiene il suo stato in tempo reale nel tuo itinerario nell'ora locale di ciascun aeroporto."
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "Schermata di upgrade a Premium che elenca funzioni e opzioni di abbonamento"
-        title: "Gratis per iniziare, di più quando ti serve"
-        body: "Pianifica i tuoi viaggi senza costi e sblocca viaggi illimitati, tracciamento voli in tempo reale e previsioni meteo con Premium quando sei pronto."
 
 pt:
   showcase:
@@ -448,10 +412,6 @@ pt:
         alt: "Editor de voo mostrando uma rota verificada, horários e companhia aérea"
         title: "Voos, verificados e rastreados"
         body: "Insira um número de voo e o Journeyfolio preenche a rota, os horários e a companhia aérea, e mantém seu status ao vivo dentro do seu itinerário no horário local de cada aeroporto."
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "Tela de upgrade para Premium listando recursos e opções de assinatura"
-        title: "Grátis para começar, mais quando você precisar"
-        body: "Planeje suas viagens sem custo e desbloqueie viagens ilimitadas, rastreamento de voos ao vivo e previsões do tempo com o Premium quando estiver pronto."
 
 ru:
   showcase:
@@ -491,10 +451,6 @@ ru:
         alt: "Редактор рейса с проверенным маршрутом, временем и авиакомпанией"
         title: "Рейсы — проверены и отслеживаются"
         body: "Введите номер рейса, и Journeyfolio заполнит маршрут, время и авиакомпанию, а затем будет показывать его статус в реальном времени в вашем маршруте по местному времени каждого аэропорта."
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "Экран перехода на Premium с перечислением функций и вариантов подписки"
-        title: "Бесплатно для старта, больше — когда нужно"
-        body: "Планируйте поездки бесплатно и открывайте неограниченное число поездок, отслеживание рейсов в реальном времени и прогнозы погоды с Premium, когда будете готовы."
 
 ar:
   showcase:
@@ -534,10 +490,6 @@ ar:
         alt: "محرّر الرحلة الجوية يعرض مسارًا مُتحقَّقًا منه والأوقات وشركة الطيران"
         title: "رحلات جوية، مُتحقَّق منها ومُتتبَّعة"
         body: "أدخل رقم رحلة ويملأ Journeyfolio المسار والأوقات وشركة الطيران، ثم يُبقي حالتها المباشرة داخل مسارك بالتوقيت المحلي لكل مطار."
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "شاشة الترقية إلى Premium التي تسرد الميزات وخيارات الاشتراك"
-        title: "ابدأ مجانًا، والمزيد عندما تحتاجه"
-        body: "خطّط لرحلاتك دون تكلفة، وافتح رحلات غير محدودة وتتبعًا مباشرًا للرحلات الجوية وتوقعات الطقس مع Premium متى كنت مستعدًا."
 
 hi:
   showcase:
@@ -577,10 +529,6 @@ hi:
         alt: "सत्यापित मार्ग, समय और एयरलाइन दिखाने वाला उड़ान संपादक"
         title: "उड़ानें, सत्यापित और ट्रैक की गईं"
         body: "एक उड़ान संख्या दर्ज करें और Journeyfolio मार्ग, समय और एयरलाइन भर देता है, फिर प्रत्येक हवाई अड्डे के स्थानीय समय में इसकी लाइव स्थिति को आपके यात्रा-कार्यक्रम में बनाए रखता है।"
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "सुविधाओं और सदस्यता विकल्पों को सूचीबद्ध करने वाला प्रीमियम अपग्रेड स्क्रीन"
-        title: "शुरू करने के लिए निःशुल्क, ज़रूरत होने पर अधिक"
-        body: "अपनी यात्राओं की योजना निःशुल्क बनाएँ, और जब भी आप तैयार हों, प्रीमियम के साथ असीमित यात्राएँ, लाइव उड़ान ट्रैकिंग और मौसम पूर्वानुमान अनलॉक करें।"
 
 nl:
   showcase:
@@ -620,10 +568,6 @@ nl:
         alt: "Vluchteditor met een geverifieerde route, tijden en luchtvaartmaatschappij"
         title: "Vluchten, geverifieerd en gevolgd"
         body: "Voer een vluchtnummer in en Journeyfolio vult de route, tijden en luchtvaartmaatschappij in, en houdt de live status in je reisschema bij in de lokale tijd van elke luchthaven."
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "Premium-upgradescherm met functies en abonnementsopties"
-        title: "Gratis om te beginnen, meer wanneer je het nodig hebt"
-        body: "Plan je reizen kosteloos en ontgrendel onbeperkte reizen, live vluchtvolging en weersvoorspellingen met Premium wanneer je er klaar voor bent."
 
 tr:
   showcase:
@@ -663,7 +607,3 @@ tr:
         alt: "Doğrulanmış bir rota, saatler ve havayolu gösteren uçuş düzenleyici"
         title: "Uçuşlar, doğrulanmış ve takip edilmiş"
         body: "Bir uçuş numarası girin; Journeyfolio rotayı, saatleri ve havayolunu doldurur, ardından canlı durumunu her havaalanının yerel saatinde güzergâhınızın içinde tutar."
-      - image: /assets/screenshots/journeyfolio/09-premium.png
-        alt: "Özellikleri ve abonelik seçeneklerini sıralayan Premium yükseltme ekranı"
-        title: "Başlamak ücretsiz, ihtiyaç duyduğunuzda daha fazlası"
-        body: "Gezilerinizi ücretsiz planlayın ve hazır olduğunuzda Premium ile sınırsız gezi, canlı uçuş takibi ve hava tahminlerinin kilidini açın."

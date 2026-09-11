@@ -65,6 +65,17 @@
   {%- when "nekopedia" -%}{%- assign browser_theme_color = "#52257E" -%}
   {%- when "solcast" -%}{%- assign browser_theme_color = "#A55B10" -%}
 {%- endcase -%}
+{%- assign header_slogan = nil -%}
+{%- if app_slug and app_slug != "" -%}
+  {%- assign slogan_data = site.data.app_slogans[app_slug] -%}
+  {%- assign slogan_lang = page.lang | default: "en" -%}
+  {%- if slogan_data -%}
+    {%- assign slogan_set = slogan_data[slogan_lang] | default: slogan_data.en -%}
+    {%- if slogan_set -%}
+      {%- assign header_slogan = slogan_set[section] -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: 'en' }}"{% if page.lang == 'ar' %} dir="rtl"{% endif %}>
 <head>
@@ -184,7 +195,8 @@
     <div class="app-header-inner">
       <img src="{{ page.app_icon }}" alt="{{ page.title }} icon" class="app-icon" width="120" height="120">
       <h1>{{ page.title }}</h1>
-      {% if page.app_description %}<p title="{{ page.app_description }}">{{ page.app_description }}</p>{% endif %}
+      {% assign header_copy = header_slogan | default: page.app_description %}
+      {% if header_copy %}<p{% if section == "marketing" and page.app_description and header_slogan and page.app_description != header_slogan %} title="{{ page.app_description }}"{% endif %}>{{ header_copy }}</p>{% endif %}
       {%- if app_slug and app_slug != "" -%}
       {%- comment -%} Keep the current language (as a trailing segment) when moving between an app's pages. {%- endcomment -%}
       {%- if page_languages and current_code != "en" -%}{%- assign nav_lang_suffix = current_code | append: "/" -%}{%- else -%}{%- assign nav_lang_suffix = "" -%}{%- endif -%}

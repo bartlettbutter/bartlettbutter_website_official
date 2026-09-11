@@ -1,0 +1,438 @@
+# Short header slogans shown under each app name in the shared app header.
+# Keyed by app slug, then language, then page section (`marketing`, `support`,
+# `privacy`). Languages not listed for an app fall back to English in the
+# layout.
+
+barkpedia:
+  en:
+    marketing: "Identify dog breeds instantly"
+    support: "Help for every breed question"
+    privacy: "Private by design, always"
+  ar:
+    marketing: "تعرّف على سلالات الكلاب فورًا"
+    support: "مساعدة لكل سؤال عن السلالات"
+    privacy: "الخصوصية مضمونة دائمًا"
+  de:
+    marketing: "Hunderassen sofort erkennen"
+    support: "Hilfe für jede Rassenfrage"
+    privacy: "Privat entwickelt, immer"
+  es:
+    marketing: "Identifica razas de perros al instante"
+    support: "Ayuda para cada duda de razas"
+    privacy: "Privado por diseño, siempre"
+  fr:
+    marketing: "Identifiez les races de chiens instantanément"
+    support: "Aide pour chaque question de race"
+    privacy: "Privé par conception, toujours"
+  hi:
+    marketing: "कुत्तों की नस्ल तुरंत पहचानें"
+    support: "हर नस्ल सवाल के लिए मदद"
+    privacy: "डिज़ाइन से निजी, हमेशा"
+  it:
+    marketing: "Riconosci subito le razze canine"
+    support: "Supporto per ogni dubbio di razza"
+    privacy: "Privato fin dal progetto"
+  ja:
+    marketing: "犬種をすぐに見分ける"
+    support: "犬種の疑問にすぐ回答"
+    privacy: "いつでもプライバシー優先"
+  ko:
+    marketing: "강아지 품종을 바로 식별하세요"
+    support: "모든 품종 질문에 도움을"
+    privacy: "처음부터 끝까지 프라이빗"
+  nl:
+    marketing: "Hondenrassen direct herkennen"
+    support: "Hulp bij elke rasvraag"
+    privacy: "Altijd privacy, vanaf het ontwerp"
+  pt:
+    marketing: "Identifique raças de cães na hora"
+    support: "Ajuda para cada dúvida de raça"
+    privacy: "Privado por padrão, sempre"
+  ru:
+    marketing: "Мгновенно определяйте породы собак"
+    support: "Помощь по любому вопросу о породах"
+    privacy: "Приватность по замыслу, всегда"
+  tr:
+    marketing: "Köpek ırklarını anında tanıyın"
+    support: "Her ırk sorusu için yardım"
+    privacy: "Tasarım gereği her zaman özel"
+  zh-Hans:
+    marketing: "即时识别狗狗品种"
+    support: "解答每个品种问题"
+    privacy: "从设计开始保护隐私"
+  zh-Hant:
+    marketing: "即時識別狗狗品種"
+    support: "解答每個品種問題"
+    privacy: "從設計開始保護隱私"
+
+etfwise:
+  en:
+    marketing: "Your daily edge in ETFs"
+    support: "Help for every fund question"
+    privacy: "Private analysis, clear data use"
+  ar:
+    marketing: "ميزتك اليومية في صناديق ETF"
+    support: "مساعدة لكل سؤال عن الصناديق"
+    privacy: "تحليل خاص واستخدام بيانات واضح"
+  de:
+    marketing: "Ihr täglicher ETF-Vorsprung"
+    support: "Hilfe für jede Fondsfrage"
+    privacy: "Private Analyse, klare Datennutzung"
+  es:
+    marketing: "Tu ventaja diaria en ETFs"
+    support: "Ayuda para cada duda sobre fondos"
+    privacy: "Análisis privado, uso claro de datos"
+  fr:
+    marketing: "Votre avantage ETF quotidien"
+    support: "Aide pour chaque question sur les fonds"
+    privacy: "Analyse privée, usage clair des données"
+  hi:
+    marketing: "ETF में आपकी रोज़ की बढ़त"
+    support: "हर फंड सवाल के लिए मदद"
+    privacy: "निजी विश्लेषण, डेटा उपयोग साफ़"
+  it:
+    marketing: "Il tuo vantaggio ETF quotidiano"
+    support: "Supporto per ogni dubbio sui fondi"
+    privacy: "Analisi privata, uso dati chiaro"
+  ja:
+    marketing: "毎日のETF判断に優位を"
+    support: "ファンドの疑問をすぐ解決"
+    privacy: "分析は端末内、データは明快"
+  ko:
+    marketing: "매일 ETF 우위를 잡으세요"
+    support: "모든 펀드 질문에 도움을"
+    privacy: "비공개 분석, 명확한 데이터 사용"
+  nl:
+    marketing: "Uw dagelijkse voorsprong in ETF's"
+    support: "Hulp bij elke fondsvraag"
+    privacy: "Privéanalyse, helder datagebruik"
+  pt:
+    marketing: "Sua vantagem diária em ETFs"
+    support: "Ajuda para cada dúvida sobre fundos"
+    privacy: "Análise privada, uso claro de dados"
+  ru:
+    marketing: "Ваше ежедневное преимущество в ETF"
+    support: "Помощь по любому вопросу о фондах"
+    privacy: "Приватный анализ, ясное использование данных"
+  tr:
+    marketing: "ETF'lerde günlük avantajınız"
+    support: "Her fon sorusu için yardım"
+    privacy: "Özel analiz, açık veri kullanımı"
+  zh-Hans:
+    marketing: "把握每日 ETF 先机"
+    support: "解答每个基金问题"
+    privacy: "分析私密，数据透明"
+  zh-Hant:
+    marketing: "掌握每日 ETF 先機"
+    support: "解答每個基金問題"
+    privacy: "分析私密，資料透明"
+
+formulens:
+  en:
+    marketing: "Decode skincare ingredients instantly"
+    support: "Help for every label check"
+    privacy: "Private scans, clear answers"
+  ar:
+    marketing: "افهم مكوّنات العناية فورًا"
+    support: "مساعدة لكل فحص ملصق"
+    privacy: "فحوصات خاصة وإجابات واضحة"
+  de:
+    marketing: "Skincare-Inhaltsstoffe sofort verstehen"
+    support: "Hilfe für jeden Etikett-Check"
+    privacy: "Private Scans, klare Antworten"
+  es:
+    marketing: "Descifra ingredientes cosméticos al instante"
+    support: "Ayuda para cada etiqueta"
+    privacy: "Escaneos privados, respuestas claras"
+  fr:
+    marketing: "Décodez les ingrédients de soin instantanément"
+    support: "Aide pour chaque lecture d'étiquette"
+    privacy: "Analyses privées, réponses claires"
+  hi:
+    marketing: "स्किनकेयर सामग्री तुरंत समझें"
+    support: "हर लेबल जांच के लिए मदद"
+    privacy: "निजी स्कैन, साफ़ जवाब"
+  it:
+    marketing: "Decifra subito gli ingredienti skincare"
+    support: "Supporto per ogni controllo etichetta"
+    privacy: "Scansioni private, risposte chiare"
+  ja:
+    marketing: "スキンケア成分をすぐ理解"
+    support: "成分表示の確認をサポート"
+    privacy: "スキャンは非公開、答えは明快"
+  ko:
+    marketing: "스킨케어 성분을 바로 해독하세요"
+    support: "모든 라벨 확인에 도움을"
+    privacy: "비공개 스캔, 명확한 답변"
+  nl:
+    marketing: "Skincare-ingrediënten direct begrijpen"
+    support: "Hulp bij elke labelcheck"
+    privacy: "Privéscans, heldere antwoorden"
+  pt:
+    marketing: "Decifre ingredientes de skincare na hora"
+    support: "Ajuda para cada leitura de rótulo"
+    privacy: "Escaneamentos privados, respostas claras"
+  ru:
+    marketing: "Сразу разбирайте состав ухода"
+    support: "Помощь с каждой проверкой этикетки"
+    privacy: "Приватные сканы, ясные ответы"
+  tr:
+    marketing: "Cilt bakım içeriklerini anında çözün"
+    support: "Her etiket kontrolü için yardım"
+    privacy: "Özel taramalar, net yanıtlar"
+  zh-Hans:
+    marketing: "即时读懂护肤成分"
+    support: "解答每次标签检查"
+    privacy: "扫描私密，答案清晰"
+  zh-Hant:
+    marketing: "即時讀懂護膚成分"
+    support: "解答每次標籤檢查"
+    privacy: "掃描私密，答案清晰"
+
+huepick:
+  en:
+    marketing: "Turn photos into rich palettes"
+    support: "Help for every color workflow"
+    privacy: "Private tools, no account needed"
+  ar:
+    marketing: "حوّل الصور إلى لوحات ألوان"
+    support: "مساعدة لكل سير عمل لوني"
+    privacy: "أدوات خاصة بلا حساب"
+  de:
+    marketing: "Fotos in starke Paletten verwandeln"
+    support: "Hilfe für jeden Farb-Workflow"
+    privacy: "Private Tools, kein Konto nötig"
+  es:
+    marketing: "Convierte fotos en paletas vibrantes"
+    support: "Ayuda para cada flujo de color"
+    privacy: "Herramientas privadas, sin cuenta"
+  fr:
+    marketing: "Transformez vos photos en palettes riches"
+    support: "Aide pour chaque flux couleur"
+    privacy: "Outils privés, sans compte"
+  hi:
+    marketing: "फोटो को रंग पैलेट में बदलें"
+    support: "हर कलर वर्कफ़्लो के लिए मदद"
+    privacy: "निजी टूल, बिना अकाउंट"
+  it:
+    marketing: "Trasforma le foto in palette ricche"
+    support: "Supporto per ogni flusso colore"
+    privacy: "Strumenti privati, senza account"
+  ja:
+    marketing: "写真を豊かな配色に変える"
+    support: "色の作業をすばやく支援"
+    privacy: "非公開ツール、アカウント不要"
+  ko:
+    marketing: "사진을 풍부한 팔레트로 바꾸세요"
+    support: "모든 색상 작업 흐름에 도움을"
+    privacy: "비공개 도구, 계정 불필요"
+  nl:
+    marketing: "Maak van foto's rijke paletten"
+    support: "Hulp bij elke kleurworkflow"
+    privacy: "Privétools, geen account nodig"
+  pt:
+    marketing: "Transforme fotos em paletas ricas"
+    support: "Ajuda para cada fluxo de cor"
+    privacy: "Ferramentas privadas, sem conta"
+  ru:
+    marketing: "Превращайте фото в богатые палитры"
+    support: "Помощь в любом цветовом процессе"
+    privacy: "Приватные инструменты, без аккаунта"
+  tr:
+    marketing: "Fotoğrafları zengin paletlere dönüştürün"
+    support: "Her renk akışı için yardım"
+    privacy: "Özel araçlar, hesap gerekmez"
+  zh-Hans:
+    marketing: "把照片变成丰富配色"
+    support: "解答每个配色流程"
+    privacy: "私密工具，无需账户"
+  zh-Hant:
+    marketing: "把照片變成豐富配色"
+    support: "解答每個配色流程"
+    privacy: "私密工具，無需帳戶"
+
+journeyfolio:
+  en:
+    marketing: "One calm home for every trip"
+    support: "Help for every travel detail"
+    privacy: "Your plans stay with you"
+  ar:
+    marketing: "بيت هادئ لكل رحلة"
+    support: "مساعدة لكل تفصيل سفر"
+    privacy: "خططك تبقى معك"
+  de:
+    marketing: "Ein ruhiges Zuhause für jede Reise"
+    support: "Hilfe für jedes Reisedetail"
+    privacy: "Ihre Pläne bleiben bei Ihnen"
+  es:
+    marketing: "Un hogar sereno para cada viaje"
+    support: "Ayuda para cada detalle del viaje"
+    privacy: "Tus planes se quedan contigo"
+  fr:
+    marketing: "Un foyer serein pour chaque voyage"
+    support: "Aide pour chaque détail du voyage"
+    privacy: "Vos plans restent avec vous"
+  hi:
+    marketing: "हर यात्रा के लिए शांत घर"
+    support: "हर यात्रा विवरण के लिए मदद"
+    privacy: "आपकी योजनाएँ आपके साथ रहती हैं"
+  it:
+    marketing: "Una casa calma per ogni viaggio"
+    support: "Supporto per ogni dettaglio di viaggio"
+    privacy: "I tuoi piani restano con te"
+  ja:
+    marketing: "旅ごとの静かなホーム"
+    support: "旅の細部までしっかり支援"
+    privacy: "予定はあなたの手元に"
+  ko:
+    marketing: "모든 여행을 위한 차분한 홈"
+    support: "모든 여행 세부 정보에 도움을"
+    privacy: "당신의 계획은 당신 곁에"
+  nl:
+    marketing: "Een rustige thuisbasis voor elke reis"
+    support: "Hulp bij elk reisdetail"
+    privacy: "Uw plannen blijven bij u"
+  pt:
+    marketing: "Um lar calmo para cada viagem"
+    support: "Ajuda para cada detalhe da viagem"
+    privacy: "Seus planos ficam com você"
+  ru:
+    marketing: "Спокойный дом для каждой поездки"
+    support: "Помощь с каждой деталью поездки"
+    privacy: "Ваши планы остаются у вас"
+  tr:
+    marketing: "Her yolculuk için sakin bir yuva"
+    support: "Her seyahat detayı için yardım"
+    privacy: "Planlarınız sizinle kalır"
+  zh-Hans:
+    marketing: "每段旅程的从容主场"
+    support: "解答每个行程细节"
+    privacy: "你的计划始终由你掌握"
+  zh-Hant:
+    marketing: "每段旅程的從容主場"
+    support: "解答每個行程細節"
+    privacy: "你的計畫始終由你掌握"
+
+nekopedia:
+  en:
+    marketing: "Identify cat breeds instantly"
+    support: "Help for every breed question"
+    privacy: "Private by design, always"
+  ar:
+    marketing: "تعرّف على سلالات القطط فورًا"
+    support: "مساعدة لكل سؤال عن السلالات"
+    privacy: "الخصوصية مضمونة دائمًا"
+  de:
+    marketing: "Katzenrassen sofort erkennen"
+    support: "Hilfe für jede Rassenfrage"
+    privacy: "Privat entwickelt, immer"
+  es:
+    marketing: "Identifica razas de gatos al instante"
+    support: "Ayuda para cada duda de razas"
+    privacy: "Privado por diseño, siempre"
+  fr:
+    marketing: "Identifiez les races de chats instantanément"
+    support: "Aide pour chaque question de race"
+    privacy: "Privé par conception, toujours"
+  hi:
+    marketing: "बिल्लियों की नस्ल तुरंत पहचानें"
+    support: "हर नस्ल सवाल के लिए मदद"
+    privacy: "डिज़ाइन से निजी, हमेशा"
+  it:
+    marketing: "Riconosci subito le razze feline"
+    support: "Supporto per ogni dubbio di razza"
+    privacy: "Privato fin dal progetto"
+  ja:
+    marketing: "猫種をすぐに見分ける"
+    support: "猫種の疑問にすぐ回答"
+    privacy: "いつでもプライバシー優先"
+  ko:
+    marketing: "고양이 품종을 바로 식별하세요"
+    support: "모든 품종 질문에 도움을"
+    privacy: "처음부터 끝까지 프라이빗"
+  nl:
+    marketing: "Kattenrassen direct herkennen"
+    support: "Hulp bij elke rasvraag"
+    privacy: "Altijd privacy, vanaf het ontwerp"
+  pt:
+    marketing: "Identifique raças de gatos na hora"
+    support: "Ajuda para cada dúvida de raça"
+    privacy: "Privado por padrão, sempre"
+  ru:
+    marketing: "Мгновенно определяйте породы кошек"
+    support: "Помощь по любому вопросу о породах"
+    privacy: "Приватность по замыслу, всегда"
+  tr:
+    marketing: "Kedi ırklarını anında tanıyın"
+    support: "Her ırk sorusu için yardım"
+    privacy: "Tasarım gereği her zaman özel"
+  zh-Hans:
+    marketing: "即时识别猫咪品种"
+    support: "解答每个品种问题"
+    privacy: "从设计开始保护隐私"
+  zh-Hant:
+    marketing: "即時識別貓咪品種"
+    support: "解答每個品種問題"
+    privacy: "從設計開始保護隱私"
+
+solcast:
+  en:
+    marketing: "Weather guidance for real life"
+    support: "Help for every forecast"
+    privacy: "Personalized, never personal"
+  ar:
+    marketing: "إرشاد للطقس في الحياة اليومية"
+    support: "مساعدة لكل توقع"
+    privacy: "مخصص لك، لا عنك"
+  de:
+    marketing: "Wetterhilfe für den Alltag"
+    support: "Hilfe für jede Vorhersage"
+    privacy: "Persönlich passend, nie persönlich"
+  es:
+    marketing: "Guía del clima para la vida real"
+    support: "Ayuda para cada pronóstico"
+    privacy: "Personalizado, nunca personal"
+  fr:
+    marketing: "La météo pensée pour la vraie vie"
+    support: "Aide pour chaque prévision"
+    privacy: "Personnalisé, jamais personnel"
+  hi:
+    marketing: "असल जीवन के लिए मौसम मार्गदर्शन"
+    support: "हर पूर्वानुमान के लिए मदद"
+    privacy: "आपके लिए निजी, पर व्यक्तिगत नहीं"
+  it:
+    marketing: "Meteo utile per la vita reale"
+    support: "Supporto per ogni previsione"
+    privacy: "Personalizzato, mai personale"
+  ja:
+    marketing: "暮らしに効く天気ガイド"
+    support: "予報の疑問をすばやく解決"
+    privacy: "あなた向けでも個人情報不要"
+  ko:
+    marketing: "실생활을 위한 날씨 가이드"
+    support: "모든 예보 질문에 도움을"
+    privacy: "맞춤형, 개인정보는 필요 없어요"
+  nl:
+    marketing: "Weerhulp voor het echte leven"
+    support: "Hulp bij elke voorspelling"
+    privacy: "Persoonlijk afgestemd, nooit persoonlijk"
+  pt:
+    marketing: "Clima útil para a vida real"
+    support: "Ajuda para cada previsão"
+    privacy: "Personalizado, nunca pessoal"
+  ru:
+    marketing: "Погодные советы для реальной жизни"
+    support: "Помощь по любому прогнозу"
+    privacy: "Под вас, без личных данных"
+  tr:
+    marketing: "Gerçek hayat için hava rehberi"
+    support: "Her tahmin için yardım"
+    privacy: "Kişiye özel, kişisel değil"
+  zh-Hans:
+    marketing: "面向真实生活的天气指引"
+    support: "解答每次天气预报"
+    privacy: "只做个性化，不涉个人信息"
+  zh-Hant:
+    marketing: "面向真實生活的天氣指引"
+    support: "解答每次天氣預報"
+    privacy: "只做個人化，不涉個資"

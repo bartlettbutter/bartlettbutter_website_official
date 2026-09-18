@@ -150,6 +150,11 @@
       }, 3200);
     }
 
+    // Build the two badges first so they always sit side by side in the row,
+    // then append a single shared "development in progress" note after both.
+    // The note is `flex-basis: 100%` in the hero (see marketing.css), so it
+    // sits on its own line below the badges rather than between them. Both
+    // "coming soon" badges reveal this one shared note when clicked.
     if (appStoreUpcoming) {
       // Replace the App Store anchor with a non-navigating button carrying the
       // same badge image, so a dead placeholder link is never clickable.
@@ -159,14 +164,6 @@
       appBtn.setAttribute('aria-label', appStoreComingSoon);
       appBtn.appendChild(badgeImg);
       row.appendChild(appBtn);
-
-      var appNote = document.createElement('span');
-      appNote.className = 'store-badge-note';
-      appNote.setAttribute('role', 'status');
-      appNote.textContent = developmentInProgress;
-      row.appendChild(appNote);
-
-      appBtn.addEventListener('click', function () { flashNote(appNote); });
 
       // The original anchor is now empty; drop it.
       if (appLink.parentNode) appLink.parentNode.removeChild(appLink);
@@ -189,7 +186,8 @@
     playBtn.appendChild(playImg);
     row.appendChild(playBtn);
 
-    // The Play note, hidden until the Play badge is clicked.
+    // One shared note after both badges, so the badges stay on a single row and
+    // every "coming soon" badge flashes the same message.
     var note = document.createElement('span');
     note.className = 'store-badge-note';
     note.setAttribute('role', 'status');
@@ -197,6 +195,9 @@
     row.appendChild(note);
 
     playBtn.addEventListener('click', function () { flashNote(note); });
+    if (appStoreUpcoming) {
+      appBtn.addEventListener('click', function () { flashNote(note); });
+    }
   }
 
   function init() {

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="1434" viewBox="0 0 660 1434" role="img" aria-label="TrafficVibe screenshot placeholder">
+  <defs>
+    <linearGradient id="tvph1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#DCE7F3"/>
+      <stop offset="1" stop-color="#EDF2F9"/>
+    </linearGradient>
+  </defs>
+  <rect width="660" height="1434" rx="48" fill="url(#tvph1)"/>
+  <rect x="1.5" y="1.5" width="657" height="1431" rx="46" fill="none" stroke="#4A82BD" stroke-opacity="0.25" stroke-width="3"/>
+  <rect x="60" y="150" width="540" height="120" rx="24" fill="#FFFFFF" opacity="0.55"/>
+  <rect x="60" y="320" width="540" height="300" rx="28" fill="#FFFFFF" opacity="0.45"/>
+  <rect x="60" y="660" width="255" height="255" rx="24" fill="#FFFFFF" opacity="0.45"/>
+  <rect x="345" y="660" width="255" height="255" rx="24" fill="#FFFFFF" opacity="0.45"/>
+  <rect x="60" y="955" width="540" height="120" rx="24" fill="#FFFFFF" opacity="0.45"/>
+  <g text-anchor="middle" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+    <circle cx="330" cy="1210" r="46" fill="none" stroke="#4A82BD" stroke-opacity="0.55" stroke-width="5"/>
+    <path d="M307 1210 l15 17 l31 -36" fill="none" stroke="#4A82BD" stroke-opacity="0.65" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="330" y="1330" font-size="40" font-weight="700" fill="#152B48" opacity="0.55">Screenshot coming soon</text>
+  </g>
+</svg>

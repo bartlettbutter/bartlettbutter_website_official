@@ -37,13 +37,6 @@ redirect_from:
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>शांति से निकलें, समय पर पहुँचें।</strong> एक नज़र बता देती है कि अभी निकलना है या ज़्यादा सहज सफ़र के लिए कुछ मिनट रुकना है।</li>
-  <li><strong>सड़क पर कोई हैरानी नहीं।</strong> जो जाम, हादसे, मौसम और चौंध सचमुच आपको धीमा करेंगे, उन्हें पहले से जानें — इससे पहले कि वे ऐसा करें।</li>
-  <li><strong>ऐसी पढ़ाई जिस पर आप भरोसा कर सकें।</strong> हर रेटिंग का मतलब हर बार वही रहता है, और TrafficVibe अंदाज़ा लगाने के बजाय "कोई डेटा नहीं" कह देता है।</li>
-  <li><strong>पलों में आपकी।</strong> कोई खाता नहीं, कोई सब्सक्रिप्शन नहीं, कोई झंझट नहीं — बस खोलें और निकल पड़ें।</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

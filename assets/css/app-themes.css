@@ -112,17 +112,19 @@
   --app-display-weight: 700;
 }
 
-/* TrafficVibe — sky-blue road lines crossing a deep navy-slate ground. */
+/* TrafficVibe — sky-blue road lines crossing a deep navy-slate ground. The
+   icon runs darker than the other apps, so the accents and washes sit a shade
+   deeper to match its weight. */
 [data-app="trafficvibe"] {
-  --app-accent: #5B9BD5;
-  --app-accent-rgb: 91, 155, 213;
-  --app-accent-strong: #1F3A5F;
-  --app-accent-strong-rgb: 31, 58, 95;
-  --app-accent-soft: #E8F0F9;
+  --app-accent: #4A82BD;
+  --app-accent-rgb: 74, 130, 189;
+  --app-accent-strong: #152B48;
+  --app-accent-strong-rgb: 21, 43, 72;
+  --app-accent-soft: #DCE7F3;
   --app-highlight: #FFFFFF;
-  --app-header-bg: linear-gradient(135deg, #E8F0F9 0%, #EEF3FB 60%, #F4F7FB 100%);
-  --app-ambient: linear-gradient(180deg, rgba(232, 240, 249, 0.92) 0%, rgba(244, 247, 251, 0.94) 100%);
-  --app-card-shadow: 0 24px 60px rgba(31, 58, 95, 0.1);
+  --app-header-bg: linear-gradient(135deg, #DCE7F3 0%, #E4EDF7 60%, #EDF2F9 100%);
+  --app-ambient: linear-gradient(180deg, rgba(220, 231, 243, 0.94) 0%, rgba(237, 242, 249, 0.95) 100%);
+  --app-card-shadow: 0 24px 60px rgba(21, 43, 72, 0.12);
 }
 
 /* Journeyfolio — blue travel folder with warm ticket / sun details. */

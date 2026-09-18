@@ -37,13 +37,6 @@ redirect_from:
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>更从容地出发，准时抵达。</strong>一眼就能看出该现在就走，还是等几分钟换来更顺畅的行程。</li>
-  <li><strong>路上不再有意外。</strong>提前掌握真正会拖慢你的拥堵、事故、天气和眩光——赶在它们发生之前。</li>
-  <li><strong>值得信赖的读数。</strong>每个评级始终代表同一含义，而 TrafficVibe 宁可显示"无数据"，也不会臆测。</li>
-  <li><strong>数秒即可上手。</strong>无需账户、无需订阅、没有杂乱——打开就走。</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

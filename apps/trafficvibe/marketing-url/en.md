@@ -36,13 +36,6 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>Leave calmer, arrive on time.</strong> One glance tells you whether to go now or wait a few minutes for a smoother trip.</li>
-  <li><strong>No surprises on the road.</strong> Know about the jams, incidents, weather, and glare that will actually slow you down — before they do.</li>
-  <li><strong>A read you can trust.</strong> Every rating means the same thing every time, and TrafficVibe says "no data" rather than guessing.</li>
-  <li><strong>Yours in seconds.</strong> No account, no subscription, no clutter — just open it and go.</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

@@ -37,13 +37,6 @@ redirect_from:
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>更從容地出發，準時抵達。</strong>一眼就能看出該現在就走，還是等幾分鐘換來更順暢的行程。</li>
-  <li><strong>路上不再有意外。</strong>提前掌握真正會拖慢你的壅塞、事故、天氣和眩光——趕在它們發生之前。</li>
-  <li><strong>值得信賴的讀數。</strong>每個評級始終代表同一含義，而 TrafficVibe 寧可顯示「無資料」，也不會臆測。</li>
-  <li><strong>數秒即可上手。</strong>無需帳戶、無需訂閱、沒有雜亂——打開就走。</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

@@ -37,13 +37,6 @@ redirect_from:
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>더 차분하게 나서고, 제때 도착하세요.</strong> 지금 나갈지, 아니면 몇 분 기다려 더 수월한 이동을 택할지 한눈에 알 수 있습니다.</li>
-  <li><strong>도로 위에서 놀랄 일 없이.</strong> 정체, 사고, 날씨, 눈부심처럼 실제로 나를 늦출 요인을, 그 일이 일어나기 전에 미리 파악하세요.</li>
-  <li><strong>믿을 수 있는 정보.</strong> 모든 평가는 언제나 같은 의미이며, TrafficVibe는 추측하는 대신 "데이터 없음"이라고 말합니다.</li>
-  <li><strong>몇 초 만에 내 것으로.</strong> 계정도, 구독도, 번잡함도 없이 — 그저 열고 나서면 됩니다.</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

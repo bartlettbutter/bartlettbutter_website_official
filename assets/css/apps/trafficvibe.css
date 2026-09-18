@@ -7,10 +7,10 @@
    one palette. Loaded only on the TrafficVibe marketing page.
    ============================================ */
 
-/* Page wash — soft slate-blue tints. */
+/* Page wash — soft slate-blue tints, a shade deeper to match the dark icon. */
 .tv-page {
   --app-page-bg:
-    linear-gradient(180deg, rgba(232, 240, 249, 0.98) 0%, rgba(232, 240, 249, 0.95) 28%, rgba(232, 240, 249, 0.96) 58%, rgba(232, 240, 249, 0.98) 100%);
+    linear-gradient(180deg, rgba(220, 231, 243, 0.98) 0%, rgba(220, 231, 243, 0.95) 28%, rgba(220, 231, 243, 0.96) 58%, rgba(220, 231, 243, 0.98) 100%);
 }
 
 /* Hero on a clean white surface so it reads distinctly from the tinted bands
@@ -85,8 +85,8 @@
   padding: 22px 24px;
   border: 1px solid var(--app-accent-soft);
   border-radius: 24px;
-  background: linear-gradient(180deg, #FFFFFF 0%, #E8F0F9 100%);
-  box-shadow: 0 18px 42px rgba(31, 58, 95, 0.08);
+  background: linear-gradient(180deg, #FFFFFF 0%, #DCE7F3 100%);
+  box-shadow: 0 18px 42px rgba(21, 43, 72, 0.08);
   transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
 }
 
@@ -122,8 +122,8 @@
   counter-increment: tv-step;
   border: 1px solid var(--app-accent-soft);
   border-radius: 24px;
-  background: linear-gradient(180deg, #FFFFFF 0%, #E8F0F9 100%);
-  box-shadow: 0 18px 42px rgba(31, 58, 95, 0.06);
+  background: linear-gradient(180deg, #FFFFFF 0%, #DCE7F3 100%);
+  box-shadow: 0 18px 42px rgba(21, 43, 72, 0.06);
   transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
 }
 
@@ -157,11 +157,11 @@
 }
 
 .app-showcase--tv .showcase-item {
-  border-color: rgba(31, 58, 95, 0.08);
+  border-color: rgba(21, 43, 72, 0.08);
 }
 
 .app-showcase--tv .showcase-step {
-  background: linear-gradient(135deg, #FFFFFF 0%, #E8F0F9 100%);
+  background: linear-gradient(135deg, #FFFFFF 0%, #DCE7F3 100%);
 }
 
 /* Merge the showcase's bottom boundary with the first band below it into a
@@ -182,8 +182,8 @@
   .tv-page h2 + ul li:hover,
   .tv-page ol > li:hover {
     transform: translateY(-2px);
-    border-color: rgba(91, 155, 213, 0.4);
-    box-shadow: 0 22px 48px rgba(31, 58, 95, 0.12);
+    border-color: rgba(74, 130, 189, 0.4);
+    box-shadow: 0 22px 48px rgba(21, 43, 72, 0.12);
   }
 }
 
@@ -209,7 +209,7 @@
 .hero-gallery--tv .hero-gallery-track--fallback .hero-gallery-frame,
 .hero-gallery--tv .hero-gallery-marquee .hero-gallery-frame {
   border-color: var(--app-accent-soft);
-  background: linear-gradient(180deg, #FFFFFF 0%, #E8F0F9 100%);
+  background: linear-gradient(180deg, #FFFFFF 0%, #DCE7F3 100%);
 }
 
 .hero-gallery--tv .hero-gallery-track--fallback .hero-gallery-frame img,
@@ -224,7 +224,7 @@
 
 /* Shared marketing modules: glossy surfaces, brighter slate-blue chips. */
 .tv-page .marketing-chip {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.94) 0%, rgba(232, 240, 249, 0.9) 100%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.94) 0%, rgba(220, 231, 243, 0.9) 100%);
 }
 
 .tv-page h2.marketing-section-title,
@@ -253,7 +253,7 @@
 .tv-page .marketing-band {
   background:
     radial-gradient(circle at 84% 16%, rgba(91, 155, 213, 0.18) 0%, transparent 24%),
-    linear-gradient(180deg, rgba(232, 240, 249, 0.96) 0%, rgba(232, 240, 249, 0.94) 58%, rgba(255, 255, 255, 0.98) 100%);
+    linear-gradient(180deg, rgba(220, 231, 243, 0.96) 0%, rgba(220, 231, 243, 0.94) 58%, rgba(255, 255, 255, 0.98) 100%);
 }
 
 /* Plain band on solid white to set it apart from the tinted bands. */
@@ -262,18 +262,18 @@
 }
 
 .tv-page .marketing-band::after {
-  background: rgba(31, 58, 95, 0.08);
+  background: rgba(21, 43, 72, 0.08);
 }
 
 .tv-page .marketing-card,
 .tv-page .marketing-step,
 .tv-page .marketing-price-card,
 .tv-page .marketing-story-card {
-  border-color: rgba(31, 58, 95, 0.1);
+  border-color: rgba(21, 43, 72, 0.1);
 }
 
 .tv-page .marketing-card--featured {
-  border-color: rgba(31, 58, 95, 0.1);
+  border-color: rgba(21, 43, 72, 0.1);
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.94) 0%, rgba(255, 255, 255, 0.84) 100%);
 }
 
@@ -284,7 +284,7 @@
 /* CTA box keeps a navy→sky gradient; the area around it reads white via a
    large white box-shadow (clipped so it does not bleed into the footer). */
 .tv-page .marketing-cta-panel {
-  background: linear-gradient(145deg, rgba(31, 58, 95, 0.98) 0%, rgba(91, 155, 213, 0.92) 100%);
+  background: linear-gradient(145deg, rgba(21, 43, 72, 0.98) 0%, rgba(74, 130, 189, 0.92) 100%);
   box-shadow:
     0 32px 88px rgba(3, 7, 18, 0.18),
     0 0 0 100vw #FFFFFF;
@@ -294,13 +294,13 @@
 /* CTA link pills: light fill with dark accent text, overriding the base
    white-on-dark style used on the gradient panel. */
 .tv-page .marketing-cta-panel .marketing-inline-link {
-  border-color: rgba(31, 58, 95, 0.18);
+  border-color: rgba(21, 43, 72, 0.18);
   background: rgba(255, 255, 255, 0.92);
   color: var(--app-accent-strong);
   text-decoration: none;
 }
 
 .tv-page .marketing-cta-panel .marketing-inline-link:not(.marketing-inline-link--static):hover {
-  border-color: rgba(31, 58, 95, 0.28);
+  border-color: rgba(21, 43, 72, 0.28);
   background: #FFFFFF;
 }

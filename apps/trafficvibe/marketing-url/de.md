@@ -37,13 +37,6 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>Ruhiger losfahren, pünktlich ankommen.</strong> Ein Blick sagt dir, ob du jetzt fahren oder ein paar Minuten auf einen entspannteren Weg warten solltest.</li>
-  <li><strong>Keine Überraschungen unterwegs.</strong> Erfahre von Staus, Vorfällen, Wetter und Blendung, die dich wirklich ausbremsen – bevor sie es tun.</li>
-  <li><strong>Eine Einschätzung, der du vertrauen kannst.</strong> Jede Bewertung bedeutet jedes Mal dasselbe, und TrafficVibe sagt "keine Daten", statt zu raten.</li>
-  <li><strong>In Sekunden deins.</strong> Kein Konto, kein Abo, kein Ballast – einfach öffnen und los.</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

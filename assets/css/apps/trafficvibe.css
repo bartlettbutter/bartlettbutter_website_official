@@ -54,24 +54,6 @@
   color: var(--color-text-strong);
 }
 
-/* Lead benefit list in the hero — outcome-focused, left-aligned in a centered
-   column so it reads as a scannable list rather than the card grids below. */
-.tv-page .marketing-list--lead {
-  max-width: 640px;
-  margin: 0 auto 28px;
-  text-align: start;
-}
-
-.tv-page .marketing-list--lead li {
-  margin-bottom: 14px;
-  font-size: 16px;
-  line-height: 1.55;
-}
-
-.tv-page .marketing-list--lead strong {
-  color: var(--app-accent-strong);
-}
-
 .tv-page h2 + ul {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));

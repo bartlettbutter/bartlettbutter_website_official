@@ -3,27 +3,27 @@
 # _layouts/app-trafficvibe.html via _includes/marketing/showcase.html and
 # hero-gallery.html.
 #
-# Screenshots are not wired up yet. When 660px-wide web copies of the App Store
-# mockups are ready, drop them under /assets/screenshots/trafficvibe/ and
-# uncomment the `hero_gallery` and `showcase` blocks below. Until then the
-# layout detects that neither block is present and renders the rich marketing
-# markdown from marketing-url/en.md on its own — no broken images.
+# Real screenshots are not ready yet. The hero_gallery below points at SVG
+# PLACEHOLDER frames under /assets/screenshots/trafficvibe/hero/ so the hero
+# strip renders in the app palette instead of leaving a gap. When the real
+# 660px-wide web copies of the App Store mockups are ready, drop them in as
+# 01.png, 02.png, … and swap the `shots` paths below (and uncomment `showcase`).
 #
 # Each language mirrors the `en` structure; languages without their own entry
 # fall back to `en`.
 
-en: {}
-  # hero_gallery:
-  #   # No label/title: this strip is purely visual and shared across all
-  #   # languages, so it carries no translatable copy. `alt` is a generic,
-  #   # per-screen accessible description.
-  #   alt: "TrafficVibe app screen"
-  #   shots:
-  #     - /assets/screenshots/trafficvibe/hero/01.png
-  #     - /assets/screenshots/trafficvibe/hero/02.png
-  #     - /assets/screenshots/trafficvibe/hero/03.png
-  #     - /assets/screenshots/trafficvibe/hero/04.png
-  #     - /assets/screenshots/trafficvibe/hero/05.png
+en:
+  hero_gallery:
+    # No label/title: this strip is purely visual and shared across all
+    # languages, so it carries no translatable copy. `alt` is a generic,
+    # per-screen accessible description.
+    alt: "TrafficVibe screenshot placeholder"
+    shots:
+      - /assets/screenshots/trafficvibe/hero/placeholder-01.svg
+      - /assets/screenshots/trafficvibe/hero/placeholder-02.svg
+      - /assets/screenshots/trafficvibe/hero/placeholder-03.svg
+      - /assets/screenshots/trafficvibe/hero/placeholder-01.svg
+      - /assets/screenshots/trafficvibe/hero/placeholder-02.svg
   # showcase:
   #   label: "See it in action"
   #   title: "From this morning's briefing to every signal on your route"

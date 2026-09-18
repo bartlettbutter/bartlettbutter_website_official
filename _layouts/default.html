@@ -73,6 +73,7 @@
   {%- when "journeyfolio" -%}{%- assign browser_theme_color = "#1B4EAD" -%}
   {%- when "nekopedia" -%}{%- assign browser_theme_color = "#52257E" -%}
   {%- when "solcast" -%}{%- assign browser_theme_color = "#A55B10" -%}
+  {%- when "trafficvibe" -%}{%- assign browser_theme_color = "#1F3A5F" -%}
 {%- endcase -%}
 {%- assign header_slogan = nil -%}
 {%- if app_slug and app_slug != "" -%}
@@ -152,10 +153,11 @@
   {% if section == "marketing" and app_slug == "huepick" %}<link rel="stylesheet" href="/assets/css/apps/huepick.css">{% endif %}
   {% if section == "marketing" and app_slug == "nekopedia" %}<link rel="stylesheet" href="/assets/css/apps/nekopedia.css">{% endif %}
   {% if section == "marketing" and app_slug == "solcast" %}<link rel="stylesheet" href="/assets/css/apps/solcast.css">{% endif %}
+  {% if section == "marketing" and app_slug == "trafficvibe" %}<link rel="stylesheet" href="/assets/css/apps/trafficvibe.css">{% endif %}
   {% if section == "marketing" and app_slug == "formulens" %}<link rel="stylesheet" href="/assets/css/apps/formulens.css">{% endif %}
   {% if section == "marketing" and app_slug == "journeyfolio" %}<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet"><link rel="stylesheet" href="/assets/css/apps/journeyfolio.css">{% endif %}
 </head>
-<body{% if app_slug and app_slug != "" %} data-app="{{ app_slug }}"{% endif %} data-ui-on-this-page="{{ ui.on_this_page }}" data-ui-scroll-table="{{ ui.scroll_table }}" data-ui-development-in-progress="{{ ui.development_in_progress }}" data-ui-google-play-coming-soon="{{ ui.google_play_coming_soon }}">
+<body{% if app_slug and app_slug != "" %} data-app="{{ app_slug }}"{% endif %} data-ui-on-this-page="{{ ui.on_this_page }}" data-ui-scroll-table="{{ ui.scroll_table }}" data-ui-development-in-progress="{{ ui.development_in_progress }}" data-ui-google-play-coming-soon="{{ ui.google_play_coming_soon }}" data-ui-app-store-coming-soon="{{ ui.app_store_coming_soon }}">
   <a href="#main" class="skip-link">{{ ui.skip_to_content }}</a>
 
   <!-- Navigation -->

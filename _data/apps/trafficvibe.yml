@@ -1,0 +1,39 @@
+# Per-app marketing data for TrafficVibe, keyed by language code (mirrors the
+# convention in _data/home.yml and _data/apps/etfwise.yml). Consumed by
+# _layouts/app-trafficvibe.html via _includes/marketing/showcase.html and
+# hero-gallery.html.
+#
+# Screenshots are not wired up yet. When 660px-wide web copies of the App Store
+# mockups are ready, drop them under /assets/screenshots/trafficvibe/ and
+# uncomment the `hero_gallery` and `showcase` blocks below. Until then the
+# layout detects that neither block is present and renders the rich marketing
+# markdown from marketing-url/en.md on its own — no broken images.
+#
+# Each language mirrors the `en` structure; languages without their own entry
+# fall back to `en`.
+
+en: {}
+  # hero_gallery:
+  #   # No label/title: this strip is purely visual and shared across all
+  #   # languages, so it carries no translatable copy. `alt` is a generic,
+  #   # per-screen accessible description.
+  #   alt: "TrafficVibe app screen"
+  #   shots:
+  #     - /assets/screenshots/trafficvibe/hero/01.png
+  #     - /assets/screenshots/trafficvibe/hero/02.png
+  #     - /assets/screenshots/trafficvibe/hero/03.png
+  #     - /assets/screenshots/trafficvibe/hero/04.png
+  #     - /assets/screenshots/trafficvibe/hero/05.png
+  # showcase:
+  #   label: "See it in action"
+  #   title: "From this morning's briefing to every signal on your route"
+  #   intro: "Every screen of TrafficVibe answers one commuter question fast: should I leave now, what is slowing me down, and when is the smoothest window to go?"
+  #   shots:
+  #     - image: /assets/screenshots/trafficvibe/01-briefing.png
+  #       alt: "Today's Briefing screen with a plain-language read of the commute, worst issue first"
+  #       title: "Open to today's briefing"
+  #       body: "A calm, plain-language read of your commute with the most important issue called out first — no dials to decode, just what your drive looks like and what to do about it."
+  #     - image: /assets/screenshots/trafficvibe/02-indices.png
+  #       alt: "Commute Life Indices grid of green, yellow, and red badges"
+  #       title: "Commute Life Indices at a glance"
+  #       body: "A grid of color-coded badges rating everything from congestion and rush hour to ice, sun glare, tolls, and road lighting — green for good, yellow for caution, red for act now."

@@ -112,6 +112,19 @@
   --app-display-weight: 700;
 }
 
+/* TrafficVibe — sky-blue road lines crossing a deep navy-slate ground. */
+[data-app="trafficvibe"] {
+  --app-accent: #5B9BD5;
+  --app-accent-rgb: 91, 155, 213;
+  --app-accent-strong: #1F3A5F;
+  --app-accent-strong-rgb: 31, 58, 95;
+  --app-accent-soft: #E8F0F9;
+  --app-highlight: #FFFFFF;
+  --app-header-bg: linear-gradient(135deg, #E8F0F9 0%, #EEF3FB 60%, #F4F7FB 100%);
+  --app-ambient: linear-gradient(180deg, rgba(232, 240, 249, 0.92) 0%, rgba(244, 247, 251, 0.94) 100%);
+  --app-card-shadow: 0 24px 60px rgba(31, 58, 95, 0.1);
+}
+
 /* Journeyfolio — blue travel folder with warm ticket / sun details. */
 [data-app="journeyfolio"] {
   --app-accent: #2F71E5;

@@ -375,6 +375,68 @@ nekopedia:
     support: "解答每個品種問題"
     privacy: "從設計開始保護隱私"
 
+trafficvibe:
+  en:
+    marketing: "Know before you go"
+    support: "Help for every commute"
+    privacy: "Honest by design, private by default"
+  ar:
+    marketing: "اعرف قبل أن تنطلق"
+    support: "مساعدة لكل رحلة تنقّل"
+    privacy: "صادق بالتصميم، خاص افتراضيًا"
+  de:
+    marketing: "Wissen, bevor du losfährst"
+    support: "Hilfe für jeden Arbeitsweg"
+    privacy: "Ehrlich by design, privat von Haus aus"
+  es:
+    marketing: "Sabe antes de salir"
+    support: "Ayuda para cada trayecto"
+    privacy: "Honesto por diseño, privado por defecto"
+  fr:
+    marketing: "Sachez avant de partir"
+    support: "De l'aide pour chaque trajet"
+    privacy: "Honnête par conception, privé par défaut"
+  hi:
+    marketing: "निकलने से पहले जानें"
+    support: "हर सफर के लिए मदद"
+    privacy: "डिज़ाइन से ईमानदार, स्वभाव से निजी"
+  it:
+    marketing: "Sappilo prima di partire"
+    support: "Aiuto per ogni tragitto"
+    privacy: "Onesto per design, privato per impostazione"
+  ja:
+    marketing: "出発前に、ひと目で"
+    support: "毎日の通勤をサポート"
+    privacy: "設計から正直、初めからプライベート"
+  ko:
+    marketing: "나서기 전에 미리 확인"
+    support: "모든 출퇴근을 위한 도움말"
+    privacy: "설계부터 정직하게, 기본이 프라이빗"
+  nl:
+    marketing: "Weet het voor je vertrekt"
+    support: "Hulp voor elke rit"
+    privacy: "Eerlijk van opzet, standaard privé"
+  pt:
+    marketing: "Saiba antes de sair"
+    support: "Ajuda para cada trajeto"
+    privacy: "Honesto por design, privado por padrão"
+  ru:
+    marketing: "Узнайте до того, как выехать"
+    support: "Помощь для каждой поездки"
+    privacy: "Честно по замыслу, приватно по умолчанию"
+  tr:
+    marketing: "Yola çıkmadan önce bilin"
+    support: "Her yolculuk için yardım"
+    privacy: "Tasarımdan dürüst, varsayılan olarak özel"
+  zh-Hans:
+    marketing: "出门前，先知道"
+    support: "为每一次通勤提供帮助"
+    privacy: "设计即诚实，默认即私密"
+  zh-Hant:
+    marketing: "出門前，先知道"
+    support: "為每一次通勤提供協助"
+    privacy: "設計即誠實，預設即私密"
+
 solcast:
   en:
     marketing: "Weather guidance for real life"

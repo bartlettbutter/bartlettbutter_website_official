@@ -11,6 +11,7 @@ en:
   scroll_table: "Scroll horizontally to see more →"
   development_in_progress: "Development in progress"
   google_play_coming_soon: "Get it on Google Play — Development in progress"
+  app_store_coming_soon: "Download on the App Store — Development in progress"
 
 ar:
   skip_to_content: "تخطي إلى المحتوى"
@@ -25,6 +26,7 @@ ar:
   scroll_table: "مرر أفقيًا لرؤية المزيد ←"
   development_in_progress: "قيد التطوير"
   google_play_coming_soon: "احصل عليه على Google Play — قيد التطوير"
+  app_store_coming_soon: "نزّل من App Store — قيد التطوير"
 
 de:
   skip_to_content: "Zum Inhalt springen"
@@ -39,6 +41,7 @@ de:
   scroll_table: "Horizontal scrollen, um mehr zu sehen →"
   development_in_progress: "In Entwicklung"
   google_play_coming_soon: "Bei Google Play verfügbar — In Entwicklung"
+  app_store_coming_soon: "Im App Store laden — In Entwicklung"
 
 es:
   skip_to_content: "Ir al contenido"
@@ -53,6 +56,7 @@ es:
   scroll_table: "Desplázate horizontalmente para ver más →"
   development_in_progress: "En desarrollo"
   google_play_coming_soon: "Consíguelo en Google Play — En desarrollo"
+  app_store_coming_soon: "Descargar en App Store — En desarrollo"
 
 fr:
   skip_to_content: "Aller au contenu"
@@ -67,6 +71,7 @@ fr:
   scroll_table: "Faites défiler horizontalement pour en voir plus →"
   development_in_progress: "En cours de développement"
   google_play_coming_soon: "Disponible sur Google Play — En cours de développement"
+  app_store_coming_soon: "Télécharger sur l’App Store — En cours de développement"
 
 hi:
   skip_to_content: "सामग्री पर जाएँ"
@@ -81,6 +86,7 @@ hi:
   scroll_table: "और देखने के लिए क्षैतिज रूप से स्क्रॉल करें →"
   development_in_progress: "विकास जारी है"
   google_play_coming_soon: "Google Play पर प्राप्त करें — विकास जारी है"
+  app_store_coming_soon: "App Store पर डाउनलोड करें — विकास जारी है"
 
 it:
   skip_to_content: "Vai al contenuto"
@@ -95,6 +101,7 @@ it:
   scroll_table: "Scorri orizzontalmente per vedere di più →"
   development_in_progress: "In fase di sviluppo"
   google_play_coming_soon: "Scaricalo su Google Play — In fase di sviluppo"
+  app_store_coming_soon: "Scarica su App Store — In fase di sviluppo"
 
 ja:
   skip_to_content: "コンテンツへ移動"
@@ -109,6 +116,7 @@ ja:
   scroll_table: "横にスクロールして続きを表示 →"
   development_in_progress: "開発中"
   google_play_coming_soon: "Google Playで手に入れる — 開発中"
+  app_store_coming_soon: "App Storeでダウンロード — 開発中"
 
 ko:
   skip_to_content: "콘텐츠로 건너뛰기"
@@ -123,6 +131,7 @@ ko:
   scroll_table: "더 보려면 가로로 스크롤하세요 →"
   development_in_progress: "개발 진행 중"
   google_play_coming_soon: "Google Play에서 받기 — 개발 진행 중"
+  app_store_coming_soon: "App Store에서 다운로드 — 개발 진행 중"
 
 nl:
   skip_to_content: "Ga naar inhoud"
@@ -137,6 +146,7 @@ nl:
   scroll_table: "Scroll horizontaal om meer te zien →"
   development_in_progress: "In ontwikkeling"
   google_play_coming_soon: "Download op Google Play — In ontwikkeling"
+  app_store_coming_soon: "Download in de App Store — In ontwikkeling"
 
 pt:
   skip_to_content: "Ir para o conteúdo"
@@ -151,6 +161,7 @@ pt:
   scroll_table: "Role horizontalmente para ver mais →"
   development_in_progress: "Em desenvolvimento"
   google_play_coming_soon: "Baixe no Google Play — Em desenvolvimento"
+  app_store_coming_soon: "Baixar na App Store — Em desenvolvimento"
 
 ru:
   skip_to_content: "Перейти к содержимому"
@@ -165,6 +176,7 @@ ru:
   scroll_table: "Прокрутите по горизонтали, чтобы увидеть больше →"
   development_in_progress: "В разработке"
   google_play_coming_soon: "Скачать в Google Play — В разработке"
+  app_store_coming_soon: "Скачать в App Store — В разработке"
 
 tr:
   skip_to_content: "İçeriğe atla"
@@ -179,6 +191,7 @@ tr:
   scroll_table: "Daha fazlasını görmek için yatay kaydırın →"
   development_in_progress: "Geliştirme aşamasında"
   google_play_coming_soon: "Google Play'de edinin — Geliştirme aşamasında"
+  app_store_coming_soon: "App Store'dan indirin — Geliştirme aşamasında"
 
 zh-Hans:
   skip_to_content: "跳到内容"
@@ -193,6 +206,7 @@ zh-Hans:
   scroll_table: "横向滚动查看更多 →"
   development_in_progress: "开发中"
   google_play_coming_soon: "在 Google Play 获取 — 开发中"
+  app_store_coming_soon: "在 App Store 下载 — 开发中"
 
 zh-Hant:
   skip_to_content: "跳至內容"
@@ -207,3 +221,4 @@ zh-Hant:
   scroll_table: "橫向捲動以查看更多 →"
   development_in_progress: "開發中"
   google_play_coming_soon: "在 Google Play 取得 — 開發中"
+  app_store_coming_soon: "於 App Store 下載 — 開發中"

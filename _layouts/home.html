@@ -137,6 +137,12 @@
       <h2 class="section-title fade-in">{{ t.works_title }}</h2>
       <div class="works-grid" role="group" aria-label="{{ t.works_dock_aria }}">
 
+        <a href="/trafficvibe/{{ app_suffix }}" class="work-card fade-in" data-app-name="TrafficVibe" aria-label="{{ t.open_app_prefix }} TrafficVibe {{ t.open_app_suffix }}" title="TrafficVibe">
+          <span class="work-card-icon">
+            <img src="/assets/app-icons/icon_TrafficVibe.png" alt="TrafficVibe" width="104" height="104" loading="lazy">
+          </span>
+        </a>
+
         <a href="/solcast/{{ app_suffix }}" class="work-card fade-in" data-app-name="Solcast" aria-label="{{ t.open_app_prefix }} Solcast {{ t.open_app_suffix }}" title="Solcast">
           <span class="work-card-icon">
             <img src="/assets/app-icons/icon_Solcast.png" alt="Solcast" width="104" height="104" loading="lazy">
@@ -258,6 +264,7 @@
         <div class="footer-contact">
           <p class="footer-contact-label">{{ t.footer_apps_label }}</p>
           <div class="footer-apps">
+            <a href="/trafficvibe/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_TrafficVibe.png" alt="TrafficVibe" width="36" height="36" loading="lazy"></a>
             <a href="/solcast/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_Solcast.png" alt="Solcast" width="36" height="36" loading="lazy"></a>
             <a href="/etfwise/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_ETFWise.png" alt="ETFWise" width="36" height="36" loading="lazy"></a>
             <a href="/barkpedia/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_Barkpedia.png" alt="Barkpedia" width="36" height="36" loading="lazy"></a>

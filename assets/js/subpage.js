@@ -13,6 +13,7 @@
   var scrollTable = (body && body.getAttribute('data-ui-scroll-table')) || 'Scroll horizontally to see more →';
   var developmentInProgress = (body && body.getAttribute('data-ui-development-in-progress')) || 'Development in progress';
   var googlePlayComingSoon = (body && body.getAttribute('data-ui-google-play-coming-soon')) || ('Get it on Google Play — ' + developmentInProgress);
+  var appStoreComingSoon = (body && body.getAttribute('data-ui-app-store-coming-soon')) || ('Download on the App Store — ' + developmentInProgress);
 
   // --- In-page table of contents ---
   // Build a jump-link TOC from the h2 headings on long-form support/privacy
@@ -109,25 +110,70 @@
   // markdown. Our apps are not on Google Play yet, so we left-align that badge
   // and place a Google Play badge beside it that, when clicked, reveals a
   // localized "development in progress" note instead of navigating anywhere.
+  //
+  // An app that is not yet on the App Store either marks its badge anchor with
+  // `data-store-upcoming` (recommended) or points it at a placeholder store URL
+  // ending in `id0000000000`. In that case the App Store badge is treated the
+  // same way as the Google Play one: a non-navigating button that reveals an
+  // "App Store — development in progress" note on click.
   function enhanceStoreBadges() {
     var body = document.querySelector('.content-body');
     if (!body) return;
 
     // Scope to the actual badge image so plain-text "App Store" links elsewhere
-    // are never touched.
+    // are never touched. The wrapper may be a live link or an upcoming anchor.
     var badgeImg = body.querySelector('a img[src*="download-on-the-app-store"]');
     if (!badgeImg) return;
 
     var appLink = badgeImg.closest('a');
     if (!appLink) return;
 
-    var message = developmentInProgress;
+    // Is the App Store listing live yet? Not if the author flagged it upcoming
+    // or left the placeholder id in the href.
+    var appHref = appLink.getAttribute('href') || '';
+    var appStoreUpcoming = appLink.hasAttribute('data-store-upcoming') ||
+      appHref.indexOf('id0000000000') !== -1;
 
     // Wrap the App Store badge in a flex row and move it inside.
     var row = document.createElement('div');
     row.className = 'store-badges';
     appLink.parentNode.insertBefore(row, appLink);
-    row.appendChild(appLink);
+
+    // A small helper that reveals a status note for ~3.2s, shared by any
+    // "coming soon" badge in the row.
+    var hideTimer;
+    function flashNote(note) {
+      note.classList.add('is-visible');
+      window.clearTimeout(hideTimer);
+      hideTimer = window.setTimeout(function () {
+        note.classList.remove('is-visible');
+      }, 3200);
+    }
+
+    if (appStoreUpcoming) {
+      // Replace the App Store anchor with a non-navigating button carrying the
+      // same badge image, so a dead placeholder link is never clickable.
+      var appBtn = document.createElement('button');
+      appBtn.type = 'button';
+      appBtn.className = 'store-badge-play';
+      appBtn.setAttribute('aria-label', appStoreComingSoon);
+      appBtn.appendChild(badgeImg);
+      row.appendChild(appBtn);
+
+      var appNote = document.createElement('span');
+      appNote.className = 'store-badge-note';
+      appNote.setAttribute('role', 'status');
+      appNote.textContent = developmentInProgress;
+      row.appendChild(appNote);
+
+      appBtn.addEventListener('click', function () { flashNote(appNote); });
+
+      // The original anchor is now empty; drop it.
+      if (appLink.parentNode) appLink.parentNode.removeChild(appLink);
+    } else {
+      // Live listing: keep the App Store anchor as a real link.
+      row.appendChild(appLink);
+    }
 
     // Google Play badge (a button — it shows a message, it doesn't navigate).
     var playBtn = document.createElement('button');
@@ -143,21 +189,14 @@
     playBtn.appendChild(playImg);
     row.appendChild(playBtn);
 
-    // The note, hidden until the Play badge is clicked.
+    // The Play note, hidden until the Play badge is clicked.
     var note = document.createElement('span');
     note.className = 'store-badge-note';
     note.setAttribute('role', 'status');
-    note.textContent = message;
+    note.textContent = developmentInProgress;
     row.appendChild(note);
 
-    var hideTimer;
-    playBtn.addEventListener('click', function () {
-      note.classList.add('is-visible');
-      window.clearTimeout(hideTimer);
-      hideTimer = window.setTimeout(function () {
-        note.classList.remove('is-visible');
-      }, 3200);
-    });
+    playBtn.addEventListener('click', function () { flashNote(note); });
   }
 
   function init() {

@@ -37,13 +37,6 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>Parti con calma, arriva in orario.</strong> Un solo sguardo ti dice se partire subito o aspettare qualche minuto per un tragitto più scorrevole.</li>
-  <li><strong>Nessuna sorpresa in strada.</strong> Scopri gli ingorghi, gli incidenti, il meteo e i riflessi del sole che ti rallenteranno davvero, prima che accada.</li>
-  <li><strong>Una lettura di cui fidarti.</strong> Ogni valutazione significa sempre la stessa cosa, e TrafficVibe dice "nessun dato" invece di tirare a indovinare.</li>
-  <li><strong>Tua in pochi secondi.</strong> Nessun account, nessun abbonamento, nessun ingombro: basta aprirla e partire.</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

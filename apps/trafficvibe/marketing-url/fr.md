@@ -37,13 +37,6 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>Partez plus sereinement, arrivez à l'heure.</strong> Un coup d'œil vous dit s'il faut partir maintenant ou attendre quelques minutes pour un trajet plus fluide.</li>
-  <li><strong>Aucune surprise sur la route.</strong> Soyez au courant des bouchons, des incidents, de la météo et de l'éblouissement qui vous ralentiront vraiment, avant qu'ils ne le fassent.</li>
-  <li><strong>Une lecture digne de confiance.</strong> Chaque évaluation signifie la même chose à chaque fois, et TrafficVibe dit « aucune donnée » plutôt que de deviner.</li>
-  <li><strong>À vous en quelques secondes.</strong> Sans compte, sans abonnement, sans encombrement : ouvrez-le et partez.</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

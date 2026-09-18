@@ -37,13 +37,6 @@ redirect_from:
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>Daha sakin çıkın, zamanında varın.</strong> Tek bir bakış, şimdi mi gitmeniz yoksa daha rahat bir yolculuk için birkaç dakika beklemeniz mi gerektiğini söyler.</li>
-  <li><strong>Yolda sürpriz yok.</strong> Sizi gerçekten yavaşlatacak tıkanıklıkları, olayları, hava koşullarını ve göz kamaşmasını daha başınıza gelmeden öğrenin.</li>
-  <li><strong>Güvenebileceğiniz bir okuma.</strong> Her derecelendirme her zaman aynı anlama gelir ve TrafficVibe tahmin etmek yerine "veri yok" der.</li>
-  <li><strong>Saniyeler içinde sizin.</strong> Hesap yok, abonelik yok, karmaşa yok: sadece açın ve yola çıkın.</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

@@ -37,13 +37,6 @@ redirect_from:
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>Sal con calma, llega a tiempo.</strong> Un vistazo te dice si salir ya o esperar unos minutos para un trayecto más fluido.</li>
-  <li><strong>Sin sorpresas en la carretera.</strong> Conoce los atascos, incidentes, el tiempo y el reflejo del sol que de verdad te frenarán, antes de que lo hagan.</li>
-  <li><strong>Una lectura fiable.</strong> Cada valoración significa lo mismo siempre, y TrafficVibe dice "sin datos" en lugar de adivinar.</li>
-  <li><strong>Tuya en segundos.</strong> Sin cuenta, sin suscripción, sin líos: solo ábrela y sal.</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

@@ -37,13 +37,6 @@ redirect_from:
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>انطلق أكثر هدوءًا، وصِل في الوقت المحدد.</strong> نظرة واحدة تخبرك بما إذا كان عليك الانطلاق الآن أو انتظار بضع دقائق من أجل رحلة أكثر سلاسة.</li>
-  <li><strong>لا مفاجآت على الطريق.</strong> اعرف مسبقًا بالازدحامات والحوادث والطقس والوهج التي ستُبطئك فعلًا — قبل أن تفعل.</li>
-  <li><strong>قراءة يمكنك الوثوق بها.</strong> كل تصنيف يعني الشيء نفسه في كل مرة، ويقول TrafficVibe "لا توجد بيانات" بدلًا من التخمين.</li>
-  <li><strong>بين يديك خلال ثوانٍ.</strong> لا حساب، ولا اشتراك، ولا فوضى — فقط افتحه وانطلق.</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

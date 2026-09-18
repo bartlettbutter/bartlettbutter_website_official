@@ -37,13 +37,6 @@ redirect_from:
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>穏やかに出発し、時間どおりに到着。</strong>今すぐ出るべきか、数分待ってよりスムーズな移動にするか、一目で分かります。</li>
-  <li><strong>道路での不意打ちなし。</strong>本当にあなたを妨げる渋滞、事故、天候、まぶしさを、起こる前に把握できます。</li>
-  <li><strong>信頼できる読み解き。</strong>どの評価もいつも同じ意味を持ち、TrafficVibeは推測する代わりに「データなし」と伝えます。</li>
-  <li><strong>数秒であなたのものに。</strong>アカウントも、サブスクリプションも、煩わしさもなし。ただ開いて、出発するだけ。</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

@@ -37,13 +37,6 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>Saia com mais calma, chegue no horário.</strong> Um olhar diz se você deve sair já ou esperar alguns minutos por um trajeto mais tranquilo.</li>
-  <li><strong>Sem surpresas na estrada.</strong> Fique sabendo dos congestionamentos, incidentes, clima e ofuscamento que realmente vão te atrasar, antes que aconteçam.</li>
-  <li><strong>Uma leitura em que você pode confiar.</strong> Cada avaliação significa a mesma coisa sempre, e o TrafficVibe diz "sem dados" em vez de adivinhar.</li>
-  <li><strong>Sua em segundos.</strong> Sem conta, sem assinatura, sem bagunça: é só abrir e sair.</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

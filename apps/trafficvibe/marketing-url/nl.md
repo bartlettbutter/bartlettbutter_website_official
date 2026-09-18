@@ -37,13 +37,6 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
   </article>
 </div>
 
-<ul class="marketing-list marketing-list--lead">
-  <li><strong>Vertrek rustiger, kom op tijd aan.</strong> Eén blik vertelt je of je nu moet gaan of een paar minuten moet wachten voor een soepelere rit.</li>
-  <li><strong>Geen verrassingen onderweg.</strong> Weet welke files, incidenten, weersomstandigheden en tegenlicht je echt zullen ophouden, voordat ze dat doen.</li>
-  <li><strong>Een beeld dat je kunt vertrouwen.</strong> Elke beoordeling betekent elke keer hetzelfde, en TrafficVibe zegt "geen gegevens" in plaats van te gokken.</li>
-  <li><strong>In seconden van jou.</strong> Geen account, geen abonnement, geen rommel: gewoon openen en gaan.</li>
-</ul>
-
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
     <a href="#" data-store-upcoming aria-disabled="true">

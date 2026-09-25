@@ -3,11 +3,11 @@
 # _layouts/app-trafficvibe.html via _includes/marketing/showcase.html and
 # hero-gallery.html.
 #
-# Real screenshots are not ready yet. The hero_gallery below points at SVG
-# PLACEHOLDER frames under /assets/screenshots/trafficvibe/hero/ so the hero
-# strip renders in the app palette instead of leaving a gap. When the real
-# 660px-wide web copies of the App Store mockups are ready, drop them in as
-# 01.png, 02.png, … and swap the `shots` paths below (and uncomment `showcase`).
+# Screenshots live in /assets/screenshots/trafficvibe/ (660px-wide web copies of
+# the App Store mockups in apps/trafficvibe/Apple iPhone 16 Pro Max (1320x2868)/;
+# the captions baked into each image are English, so the narratives here add
+# explanation rather than repeat the on-image text). The hero strip reuses the
+# same files as the showcase so each image is downloaded only once.
 #
 # Each language mirrors the `en` structure; languages without their own entry
 # fall back to `en`.
@@ -17,23 +17,55 @@ en:
     # No label/title: this strip is purely visual and shared across all
     # languages, so it carries no translatable copy. `alt` is a generic,
     # per-screen accessible description.
-    alt: "TrafficVibe screenshot placeholder"
+    alt: "TrafficVibe app screen"
     shots:
-      - /assets/screenshots/trafficvibe/hero/placeholder-01.svg
-      - /assets/screenshots/trafficvibe/hero/placeholder-02.svg
-      - /assets/screenshots/trafficvibe/hero/placeholder-03.svg
-      - /assets/screenshots/trafficvibe/hero/placeholder-01.svg
-      - /assets/screenshots/trafficvibe/hero/placeholder-02.svg
-  # showcase:
-  #   label: "See it in action"
-  #   title: "From this morning's briefing to every signal on your route"
-  #   intro: "Every screen of TrafficVibe answers one commuter question fast: should I leave now, what is slowing me down, and when is the smoothest window to go?"
-  #   shots:
-  #     - image: /assets/screenshots/trafficvibe/01-briefing.png
-  #       alt: "Today's Briefing screen with a plain-language read of the commute, worst issue first"
-  #       title: "Open to today's briefing"
-  #       body: "A calm, plain-language read of your commute with the most important issue called out first — no dials to decode, just what your drive looks like and what to do about it."
-  #     - image: /assets/screenshots/trafficvibe/02-indices.png
-  #       alt: "Commute Life Indices grid of green, yellow, and red badges"
-  #       title: "Commute Life Indices at a glance"
-  #       body: "A grid of color-coded badges rating everything from congestion and rush hour to ice, sun glare, tolls, and road lighting — green for good, yellow for caution, red for act now."
+      - /assets/screenshots/trafficvibe/01-welcome.png
+      - /assets/screenshots/trafficvibe/02-briefing.png
+      - /assets/screenshots/trafficvibe/03-detail.png
+      - /assets/screenshots/trafficvibe/04-gas-prices.png
+      - /assets/screenshots/trafficvibe/05-map-alerts.png
+      - /assets/screenshots/trafficvibe/06-congestion.png
+      - /assets/screenshots/trafficvibe/07-tolls.png
+      - /assets/screenshots/trafficvibe/08-cities.png
+      - /assets/screenshots/trafficvibe/09-settings.png
+  showcase:
+    label: "See it in action"
+    title: "From this morning's briefing to every signal on your route"
+    intro: "Every screen of TrafficVibe answers one commuter question fast: should I leave now, what is slowing me down, and when is the smoothest window to go?"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "TrafficVibe welcome screen highlighting a clearer traffic snapshot, the smoother departure window, and useful alerts"
+        title: "Traffic, clear before you go"
+        body: "Open TrafficVibe and get started in one tap. It promises three things: a clearer traffic snapshot, hourly guidance on the smoothest window to leave, and alerts that only arrive when the change actually matters."
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "Today's Briefing screen with city tabs and plain-language notes on stopped traffic, lane closures, rush hour, and gas prices"
+        title: "Open to today's briefing"
+        body: "A calm, plain-language read of your commute with the most important issue called out first — stopped traffic and when it should clear, lane closures and detours, rush hour outlook, street speeds, and whether it is a good day to fill up."
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "Today in Detail card with the date, week and day of year, gas price, speed limits, and a grid of Traffic Indices"
+        title: "Today in detail, with Traffic Indices"
+        body: "See the date, week, and day of the year alongside local gas prices and speed limits, then scan a grid of color-coded Traffic Indices — road alerts, detours, fuel timing, rail crossings, tolls, speed cameras, rush hour, congestion, weather, ice, and more."
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "Gas Prices card listing seven weeks of regular gas prices with week-over-week changes"
+        title: "Track gas price trends"
+        body: "Seven weeks of regular gas prices for your city, with week-over-week changes marked up or down, so you can tell whether to fill up now or wait a few days."
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "City map with traffic overlays above a list of road alerts grouped by type and severity"
+        title: "Map and road alerts together"
+        body: "A live map shows where the trouble is, and the Road Alerts list below breaks it down — jams, closures, and incidents grouped by type, each with its severity and how long it is expected to last."
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "Congestion list comparing live speeds with speed limits on major highways and streets"
+        title: "Live speeds on major roads"
+        body: "Compare live speeds against the posted limit on every major highway and street nearby. Each road gets a clear status bar, so a slowdown stands out at a glance."
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "Toll Roads card listing regional toll roads and bridges above detailed Traffic Indices cards"
+        title: "Toll roads and full index details"
+        body: "Review the toll roads and bridges mapped near your city, then dig into every Traffic Index with a short explanation of what it means for your drive today."
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "Cities screen with a search field, a reorderable list of saved cities, and a Use Current Location button"
+        title: "All your cities, one app"
+        body: "Search for a city or address, save the places you commute to or visit, reorder them, pick a favorite, or simply use your current location."
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "Settings screen with a notifications toggle and imperial or metric unit and 12- or 24-hour time options"
+        title: "Settings that fit you"
+        body: "Turn notifications on or off, and switch between imperial and metric units and 12- or 24-hour time so every number reads the way you expect."

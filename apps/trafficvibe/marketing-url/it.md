@@ -24,7 +24,7 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">Indici di Vita del Tragitto, ognuno in verde, giallo o rosso a colpo d'occhio</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Presto disponibile per iPhone e iPad con iOS 26.0 o successivo.</p>
+  <p class="marketing-meta-note">Presto disponibile per iPhone e iPad con iOS 26.2 o successivo.</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
     </article>
     <article class="marketing-card">
       <h3>Lungo il percorso</h3>
-      <p>Pedaggi, passaggi a livello e illuminazione dopo il tramonto, oltre ad autovelox, ricarica per veicoli elettrici e bike sharing nelle vicinanze.</p>
+      <p>Pedaggi e passaggi a livello, oltre ad autovelox, ricarica per veicoli elettrici e bike sharing nelle vicinanze.</p>
     </article>
     <article class="marketing-card">
       <h3>Sempre mostrato, mai inventato</h3>
@@ -206,8 +206,8 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Al lancio</span>
       <h3 class="marketing-price-summary">Ogni funzione disponibile senza alcun costo.</h3>
-      <p>Il resoconto mattutino, tutti i diciannove Indici di Vita del Tragitto, la previsione oraria, le città di tragitto salvate e gli avvisi intelligenti, senza account, senza abbonamento e senza paywall.</p>
-      <p class="marketing-price-note">Compatibile con iPhone e iPad con iOS 26.0 o successivo.</p>
+      <p>Il resoconto mattutino, tutti i diciotto Indici di Vita del Tragitto, la previsione oraria, le città di tragitto salvate e gli avvisi intelligenti, senza account, senza abbonamento e senza paywall.</p>
+      <p class="marketing-price-note">Compatibile con iPhone e iPad con iOS 26.2 o successivo.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Approccio alla privacy</span>

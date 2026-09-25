@@ -23,7 +23,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">Commute Life Indices, each rated green, yellow, or red at a glance</span>
   </article>
   <article class="marketing-stat">
@@ -42,7 +42,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Coming soon to iPhone and iPad on iOS 26.0 or later.</p>
+  <p class="marketing-meta-note">Coming soon to iPhone and iPad on iOS 26.2 or later.</p>
 </div>
 
 <!--showcase-->
@@ -118,7 +118,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
     </article>
     <article class="marketing-card">
       <h3>Along the way</h3>
-      <p>Tolls, rail crossings, and lighting after dark, plus speed cameras, EV charging, and bike share nearby.</p>
+      <p>Tolls and rail crossings, plus speed cameras, EV charging, and bike share nearby.</p>
     </article>
     <article class="marketing-card">
       <h3>Always shown, never faked</h3>
@@ -205,8 +205,8 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">At launch</span>
       <h3 class="marketing-price-summary">Every feature available at no cost.</h3>
-      <p>The morning briefing, all nineteen Commute Life Indices, the hourly outlook, saved commute cities, and smart alerts — with no account, no subscription, and no paywall.</p>
-      <p class="marketing-price-note">Compatible with iPhone and iPad on iOS 26.0 or later.</p>
+      <p>The morning briefing, all eighteen Commute Life Indices, the hourly outlook, saved commute cities, and smart alerts — with no account, no subscription, and no paywall.</p>
+      <p class="marketing-price-note">Compatible with iPhone and iPad on iOS 26.2 or later.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacy posture</span>

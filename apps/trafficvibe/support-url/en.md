@@ -40,17 +40,17 @@ Every index reads at a glance: green for good or clear, yellow for caution or mo
 
 TrafficVibe never invents a number. When something genuinely can't be measured for the city you're viewing, that badge reads "no data" instead of showing a made-up rating. Availability varies by place — for example, fuel prices depend on a published price for your country, and some road-feature badges depend on how thoroughly your area is mapped. It's not an error; it's the app being honest.
 
-### What are the nineteen indices?
+### What are the eighteen indices?
 
 They're grouped by what a commuter actually asks:
 
 | Group | Indices |
 |---|---|
 | Should I leave now? | Highway Speed, Rush Hour |
-| What's slowing me down? | Incidents, Congestion, Detour, Delay |
+| What's slowing me down? | Road Alerts, Congestion, Detour, Delay |
 | Weather on the road | Weather, Ice, Visibility, Sun Glare |
 | Planning & context | Fuel Price, Road Load, Fuel Timing |
-| Along the way | Tolls, Rail Crossing, Lighting, Speed Cameras, EV Charging, Bike Share |
+| Along the way | Tolls, Rail Crossing, Speed Cameras, EV Charging, Bike Share |
 
 ### Where does the data come from?
 
@@ -102,7 +102,7 @@ Make sure you're running the latest version from the App Store, then force-close
 
 ## Compatibility
 
-TrafficVibe requires iOS 26.0 or later and runs on both iPhone and iPad.
+TrafficVibe requires iOS 26.2 or later and runs on both iPhone and iPad.
 
 ## Contact Us
 

@@ -24,7 +24,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">Pendel-Indizes, jeder auf einen Blick grün, gelb oder rot bewertet</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Demnächst für iPhone und iPad mit iOS 26.0 oder neuer.</p>
+  <p class="marketing-meta-note">Demnächst für iPhone und iPad mit iOS 26.2 oder neuer.</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
     </article>
     <article class="marketing-card">
       <h3>Unterwegs</h3>
-      <p>Maut, Bahnübergänge und Beleuchtung nach Einbruch der Dunkelheit, dazu Blitzer, Ladepunkte und Bikesharing in der Nähe.</p>
+      <p>Maut und Bahnübergänge, dazu Blitzer, Ladepunkte und Bikesharing in der Nähe.</p>
     </article>
     <article class="marketing-card">
       <h3>Immer angezeigt, nie erfunden</h3>
@@ -206,8 +206,8 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Zum Start</span>
       <h3 class="marketing-price-summary">Alle Funktionen kostenlos verfügbar.</h3>
-      <p>Das Morgen-Briefing, alle neunzehn Pendel-Indizes, die stündliche Vorschau, gespeicherte Pendelstädte und smarte Warnungen – ohne Konto, ohne Abo und ohne Bezahlschranke.</p>
-      <p class="marketing-price-note">Kompatibel mit iPhone und iPad mit iOS 26.0 oder neuer.</p>
+      <p>Das Morgen-Briefing, alle achtzehn Pendel-Indizes, die stündliche Vorschau, gespeicherte Pendelstädte und smarte Warnungen – ohne Konto, ohne Abo und ohne Bezahlschranke.</p>
+      <p class="marketing-price-note">Kompatibel mit iPhone und iPad mit iOS 26.2 oder neuer.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Datenschutz-Haltung</span>

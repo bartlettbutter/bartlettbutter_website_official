@@ -41,17 +41,17 @@ Her endeks bir bakışta okunur: iyi ya da açık için yeşil, dikkat ya da ort
 
 TrafficVibe asla bir sayı uydurmaz. Görüntülediğiniz şehir için bir şey gerçekten ölçülemediğinde, o rozet uydurma bir derecelendirme göstermek yerine "veri yok" der. Kullanılabilirlik yere göre değişir; örneğin yakıt fiyatları ülkeniz için yayımlanmış bir fiyata bağlıdır ve bazı yol özelliği rozetleri bölgenizin ne kadar ayrıntılı haritalandığına bağlıdır. Bu bir hata değildir; uygulamanın dürüst olmasıdır.
 
-### On dokuz endeks nedir?
+### On sekiz endeks nedir?
 
 Bir yolcunun gerçekte sorduğu şeye göre gruplandırılmışlardır:
 
 | Grup | Endeksler |
 |---|---|
 | Şimdi mi çıksam? | Otoyol Hızı, Yoğun Saat |
-| Beni ne yavaşlatıyor? | Olaylar, Tıkanıklık, Sapma, Gecikme |
+| Beni ne yavaşlatıyor? | Yol Uyarıları, Tıkanıklık, Sapma, Gecikme |
 | Yoldaki hava | Hava, Buz, Görüş, Güneş Kamaşması |
 | Planlama ve bağlam | Yakıt Fiyatı, Yol Yükü, Yakıt Zamanlaması |
-| Yol boyunca | Geçiş Ücretleri, Hemzemin Geçit, Aydınlatma, Hız Kameraları, Elektrikli Araç Şarjı, Bisiklet Paylaşımı |
+| Yol boyunca | Geçiş Ücretleri, Hemzemin Geçit, Hız Kameraları, Elektrikli Araç Şarjı, Bisiklet Paylaşımı |
 
 ### Veriler nereden geliyor?
 
@@ -103,7 +103,7 @@ App Store'daki en son sürümü çalıştırdığınızdan emin olun, ardından 
 
 ## Uyumluluk
 
-TrafficVibe iOS 26.0 veya sonrasını gerektirir ve hem iPhone hem de iPad üzerinde çalışır.
+TrafficVibe iOS 26.2 veya sonrasını gerektirir ve hem iPhone hem de iPad üzerinde çalışır.
 
 ## Bize Ulaşın
 

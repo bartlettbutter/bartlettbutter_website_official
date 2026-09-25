@@ -41,17 +41,17 @@ Todo índice se lê de relance: verde para bom ou livre, amarelo para atenção 
 
 O TrafficVibe nunca inventa um número. Quando algo genuinamente não pode ser medido para a cidade que você está vendo, aquele selo mostra "sem dados" em vez de exibir uma avaliação inventada. A disponibilidade varia por lugar — por exemplo, os preços do combustível dependem de um preço publicado para o seu país, e alguns selos de recursos das vias dependem de quão detalhadamente sua área está mapeada. Não é um erro; é o app sendo honesto.
 
-### Quais são os dezenove índices?
+### Quais são os dezoito índices?
 
 Eles são agrupados pelo que um motorista realmente pergunta:
 
 | Grupo | Índices |
 |---|---|
 | Devo sair agora? | Velocidade nas Vias, Horário de Pico |
-| O que está me atrasando? | Incidentes, Congestionamento, Desvio, Atraso |
+| O que está me atrasando? | Alertas de Via, Congestionamento, Desvio, Atraso |
 | Clima na estrada | Clima, Gelo, Visibilidade, Ofuscamento do Sol |
 | Planejamento e contexto | Preço do Combustível, Carga das Vias, Momento de Abastecer |
-| Pelo caminho | Pedágios, Passagem de Nível, Iluminação, Radares, Recarga de Elétricos, Bicicletas Compartilhadas |
+| Pelo caminho | Pedágios, Passagem de Nível, Radares, Recarga de Elétricos, Bicicletas Compartilhadas |
 
 ### De onde vêm os dados?
 
@@ -103,7 +103,7 @@ Confira se você está com a versão mais recente da App Store, depois force o f
 
 ## Compatibilidade
 
-O TrafficVibe requer iOS 26.0 ou posterior e funciona tanto no iPhone quanto no iPad.
+O TrafficVibe requer iOS 26.2 ou posterior e funciona tanto no iPhone quanto no iPad.
 
 ## Fale conosco
 

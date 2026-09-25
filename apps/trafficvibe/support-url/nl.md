@@ -41,17 +41,17 @@ Elke index is in één oogopslag te lezen: groen voor goed of vrij, geel voor vo
 
 TrafficVibe verzint nooit een cijfer. Wanneer iets echt niet te meten is voor de stad die je bekijkt, staat er op die badge "geen gegevens" in plaats van een verzonnen beoordeling. De beschikbaarheid verschilt per plaats; brandstofprijzen hangen bijvoorbeeld af van een gepubliceerde prijs voor jouw land, en sommige badges voor wegkenmerken hangen af van hoe grondig jouw gebied in kaart is gebracht. Het is geen fout; het is de app die eerlijk is.
 
-### Wat zijn de negentien indices?
+### Wat zijn de achttien indices?
 
 Ze zijn gegroepeerd naar wat een forens daadwerkelijk vraagt:
 
 | Groep | Indices |
 |---|---|
 | Ga ik nu? | Snelwegsnelheid, Spits |
-| Wat houdt me op? | Incidenten, Filevorming, Omleiding, Vertraging |
+| Wat houdt me op? | Wegmeldingen, Filevorming, Omleiding, Vertraging |
 | Weer op de weg | Weer, IJzel, Zicht, Tegenlicht |
 | Planning & context | Brandstofprijs, Wegbelasting, Tanktiming |
-| Onderweg | Tol, Spoorwegovergang, Verlichting, Flitspalen, Laden EV, Deelfietsen |
+| Onderweg | Tol, Spoorwegovergang, Flitspalen, Laden EV, Deelfietsen |
 
 ### Waar komen de gegevens vandaan?
 
@@ -103,7 +103,7 @@ Zorg dat je de nieuwste versie uit de App Store gebruikt, sluit de app dan gefor
 
 ## Compatibiliteit
 
-TrafficVibe vereist iOS 26.0 of later en werkt op zowel iPhone als iPad.
+TrafficVibe vereist iOS 26.2 of later en werkt op zowel iPhone als iPad.
 
 ## Neem contact op
 

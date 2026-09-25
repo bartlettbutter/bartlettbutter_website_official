@@ -46,9 +46,9 @@ en:
         title: "Today in detail, with Traffic Indices"
         body: "See the date, week, and day of the year alongside local gas prices and speed limits, then scan a grid of color-coded Traffic Indices — road alerts, detours, fuel timing, rail crossings, tolls, speed cameras, rush hour, congestion, weather, ice, and more."
       - image: /assets/screenshots/trafficvibe/04-gas-prices.png
-        alt: "Gas Prices card listing seven weeks of regular gas prices with week-over-week changes"
+        alt: "Gas Prices card listing recent weekly fuel prices with week-over-week changes"
         title: "Track gas price trends"
-        body: "Seven weeks of regular gas prices for your city, with week-over-week changes marked up or down, so you can tell whether to fill up now or wait a few days."
+        body: "A run of recent weekly fuel prices for your area, shown in your local currency and unit with each week marked up or down, so you can tell whether to fill up now or wait a few days."
       - image: /assets/screenshots/trafficvibe/05-map-alerts.png
         alt: "City map with traffic overlays above a list of road alerts grouped by type and severity"
         title: "Map and road alerts together"

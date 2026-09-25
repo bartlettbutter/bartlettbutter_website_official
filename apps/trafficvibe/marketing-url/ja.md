@@ -24,7 +24,7 @@ redirect_from:
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">の通勤ライフ指数。それぞれが緑・黄・赤で一目で分かるように評価されます</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iOS 26.0以降のiPhoneおよびiPadに近日登場。</p>
+  <p class="marketing-meta-note">iOS 26.2以降のiPhoneおよびiPadに近日登場。</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>道中で</h3>
-      <p>料金所、踏切、日暮れ後の照明に加え、近くのスピードカメラ、EV充電、バイクシェア。</p>
+      <p>料金所や踏切に加え、近くのスピードカメラ、EV充電、バイクシェア。</p>
     </article>
     <article class="marketing-card">
       <h3>いつも表示、決して作り話なし</h3>
@@ -206,8 +206,8 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">ローンチ時</span>
       <h3 class="marketing-price-summary">すべての機能を無料で利用できます。</h3>
-      <p>朝のブリーフィング、19すべての通勤ライフ指数、時間ごとの見通し、保存した通勤都市、そしてスマートアラートを、アカウントもサブスクリプションも有料の壁もなしに。</p>
-      <p class="marketing-price-note">iOS 26.0以降のiPhoneおよびiPadに対応。</p>
+      <p>朝のブリーフィング、18すべての通勤ライフ指数、時間ごとの見通し、保存した通勤都市、そしてスマートアラートを、アカウントもサブスクリプションも有料の壁もなしに。</p>
+      <p class="marketing-price-note">iOS 26.2以降のiPhoneおよびiPadに対応。</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">プライバシーへの姿勢</span>

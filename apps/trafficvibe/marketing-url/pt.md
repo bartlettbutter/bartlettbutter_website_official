@@ -24,7 +24,7 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">Índices de Vida do Trajeto, cada um avaliado em verde, amarelo ou vermelho de relance</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Em breve para iPhone e iPad com iOS 26.0 ou posterior.</p>
+  <p class="marketing-meta-note">Em breve para iPhone e iPad com iOS 26.2 ou posterior.</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
     </article>
     <article class="marketing-card">
       <h3>Pelo caminho</h3>
-      <p>Pedágios, passagens de nível e iluminação após o anoitecer, além de radares, recarga de veículos elétricos e bicicletas compartilhadas por perto.</p>
+      <p>Pedágios e passagens de nível, além de radares, recarga de veículos elétricos e bicicletas compartilhadas por perto.</p>
     </article>
     <article class="marketing-card">
       <h3>Sempre exibido, nunca inventado</h3>
@@ -206,8 +206,8 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">No lançamento</span>
       <h3 class="marketing-price-summary">Todos os recursos disponíveis sem custo.</h3>
-      <p>O resumo matinal, todos os dezenove Índices de Vida do Trajeto, a previsão por hora, as cidades de trajeto salvas e os alertas inteligentes, sem conta, sem assinatura e sem muro de pagamento.</p>
-      <p class="marketing-price-note">Compatível com iPhone e iPad com iOS 26.0 ou posterior.</p>
+      <p>O resumo matinal, todos os dezoito Índices de Vida do Trajeto, a previsão por hora, as cidades de trajeto salvas e os alertas inteligentes, sem conta, sem assinatura e sem muro de pagamento.</p>
+      <p class="marketing-price-note">Compatível com iPhone e iPad com iOS 26.2 ou posterior.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Postura de privacidade</span>

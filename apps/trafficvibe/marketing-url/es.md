@@ -24,7 +24,7 @@ redirect_from:
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">Índices de Vida del Trayecto, cada uno en verde, amarillo o rojo de un vistazo</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Próximamente para iPhone y iPad con iOS 26.0 o posterior.</p>
+  <p class="marketing-meta-note">Próximamente para iPhone y iPad con iOS 26.2 o posterior.</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Por el camino</h3>
-      <p>Peajes, pasos a nivel y alumbrado al anochecer, además de radares, puntos de recarga y bici compartida cerca.</p>
+      <p>Peajes y pasos a nivel, además de radares, puntos de recarga y bici compartida cerca.</p>
     </article>
     <article class="marketing-card">
       <h3>Siempre visible, nunca inventado</h3>
@@ -206,8 +206,8 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">En el lanzamiento</span>
       <h3 class="marketing-price-summary">Todas las funciones disponibles sin coste.</h3>
-      <p>El resumen matutino, los diecinueve Índices de Vida del Trayecto, la previsión por horas, las ciudades guardadas y las alertas inteligentes, sin cuenta, sin suscripción y sin muro de pago.</p>
-      <p class="marketing-price-note">Compatible con iPhone y iPad con iOS 26.0 o posterior.</p>
+      <p>El resumen matutino, los dieciocho Índices de Vida del Trayecto, la previsión por horas, las ciudades guardadas y las alertas inteligentes, sin cuenta, sin suscripción y sin muro de pago.</p>
+      <p class="marketing-price-note">Compatible con iPhone y iPad con iOS 26.2 o posterior.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Postura de privacidad</span>

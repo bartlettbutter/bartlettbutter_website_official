@@ -24,7 +24,7 @@ redirect_from:
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">Yolculuk Yaşam Endeksi, her biri bir bakışta yeşil, sarı veya kırmızı olarak derecelendirilir</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iOS 26.0 veya sonrasını çalıştıran iPhone ve iPad'e çok yakında geliyor.</p>
+  <p class="marketing-meta-note">iOS 26.2 veya sonrasını çalıştıran iPhone ve iPad'e çok yakında geliyor.</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Yol boyunca</h3>
-      <p>Geçiş ücretleri, hemzemin geçitler ve karanlıkta aydınlatma; ayrıca yakındaki hız kameraları, elektrikli araç şarjı ve bisiklet paylaşımı.</p>
+      <p>Geçiş ücretleri ve hemzemin geçitler; ayrıca yakındaki hız kameraları, elektrikli araç şarjı ve bisiklet paylaşımı.</p>
     </article>
     <article class="marketing-card">
       <h3>Her zaman gösterilir, asla uydurulmaz</h3>
@@ -206,8 +206,8 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Lansmanda</span>
       <h3 class="marketing-price-summary">Her özellik ücretsiz olarak sunulur.</h3>
-      <p>Sabah özeti, on dokuz Yolculuk Yaşam Endeksinin tamamı, saatlik görünüm, kayıtlı yolculuk şehirleri ve akıllı uyarılar; hesap, abonelik ve ödeme duvarı olmadan.</p>
-      <p class="marketing-price-note">iOS 26.0 veya sonrasını çalıştıran iPhone ve iPad ile uyumludur.</p>
+      <p>Sabah özeti, on sekiz Yolculuk Yaşam Endeksinin tamamı, saatlik görünüm, kayıtlı yolculuk şehirleri ve akıllı uyarılar; hesap, abonelik ve ödeme duvarı olmadan.</p>
+      <p class="marketing-price-note">iOS 26.2 veya sonrasını çalıştıran iPhone ve iPad ile uyumludur.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Gizlilik duruşu</span>

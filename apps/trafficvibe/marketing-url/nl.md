@@ -24,7 +24,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">Commute Life Indices, elk in één oogopslag beoordeeld met groen, geel of rood</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Binnenkort voor iPhone en iPad met iOS 26.0 of later.</p>
+  <p class="marketing-meta-note">Binnenkort voor iPhone en iPad met iOS 26.2 of later.</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
     </article>
     <article class="marketing-card">
       <h3>Onderweg</h3>
-      <p>Tol, spoorwegovergangen en verlichting na zonsondergang, plus flitspalen, laadpunten en deelfietsen in de buurt.</p>
+      <p>Tol en spoorwegovergangen, plus flitspalen, laadpunten en deelfietsen in de buurt.</p>
     </article>
     <article class="marketing-card">
       <h3>Altijd getoond, nooit verzonnen</h3>
@@ -206,8 +206,8 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Bij lancering</span>
       <h3 class="marketing-price-summary">Alle functies kosteloos beschikbaar.</h3>
-      <p>De ochtendbriefing, alle negentien Commute Life Indices, de verwachting per uur, opgeslagen woon-werksteden en slimme meldingen, zonder account, zonder abonnement en zonder betaalmuur.</p>
-      <p class="marketing-price-note">Compatibel met iPhone en iPad met iOS 26.0 of later.</p>
+      <p>De ochtendbriefing, alle achttien Commute Life Indices, de verwachting per uur, opgeslagen woon-werksteden en slimme meldingen, zonder account, zonder abonnement en zonder betaalmuur.</p>
+      <p class="marketing-price-note">Compatibel met iPhone en iPad met iOS 26.2 of later.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacyhouding</span>

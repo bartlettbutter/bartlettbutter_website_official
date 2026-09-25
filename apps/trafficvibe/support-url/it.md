@@ -41,17 +41,17 @@ Ogni indice si legge a colpo d'occhio: verde per bene o libero, giallo per prude
 
 TrafficVibe non inventa mai un numero. Quando qualcosa non si può davvero misurare per la città che stai visualizzando, quel badge riporta "nessun dato" invece di mostrare una valutazione inventata. La disponibilità varia da luogo a luogo: per esempio, i prezzi del carburante dipendono da un prezzo pubblicato per il tuo Paese, e alcuni badge sulle caratteristiche stradali dipendono da quanto accuratamente è mappata la tua zona. Non è un errore; è l'app che è onesta.
 
-### Quali sono i diciannove indici?
+### Quali sono i diciotto indici?
 
 Sono raggruppati in base a ciò che un pendolare chiede davvero:
 
 | Gruppo | Indici |
 |---|---|
 | Vado ora? | Velocità in Autostrada, Ora di Punta |
-| Cosa mi sta rallentando? | Incidenti, Congestione, Deviazione, Ritardo |
+| Cosa mi sta rallentando? | Avvisi Stradali, Congestione, Deviazione, Ritardo |
 | Il meteo in strada | Meteo, Ghiaccio, Visibilità, Abbagliamento del Sole |
 | Pianificazione e contesto | Prezzo del Carburante, Carico Stradale, Tempistica del Rifornimento |
-| Lungo il percorso | Pedaggi, Passaggio a Livello, Illuminazione, Autovelox, Ricarica Elettrica, Bike Sharing |
+| Lungo il percorso | Pedaggi, Passaggio a Livello, Autovelox, Ricarica Elettrica, Bike Sharing |
 
 ### Da dove provengono i dati?
 
@@ -103,7 +103,7 @@ Assicurati di usare la versione più recente dall'App Store, poi chiudi forzatam
 
 ## Compatibilità
 
-TrafficVibe richiede iOS 26.0 o successivo e funziona sia su iPhone che su iPad.
+TrafficVibe richiede iOS 26.2 o successivo e funziona sia su iPhone che su iPad.
 
 ## Contattaci
 

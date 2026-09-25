@@ -24,7 +24,7 @@ redirect_from:
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">индексов Commute Life Indices, каждый с оценкой «зелёный», «жёлтый» или «красный» с первого взгляда</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Скоро для iPhone и iPad на iOS 26.0 или новее.</p>
+  <p class="marketing-meta-note">Скоро для iPhone и iPad на iOS 26.2 или новее.</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>По пути</h3>
-      <p>Платные участки, железнодорожные переезды и освещение после наступления темноты, а также камеры контроля скорости, зарядка для электромобилей и прокат велосипедов поблизости.</p>
+      <p>Платные участки и железнодорожные переезды, а также камеры контроля скорости, зарядка для электромобилей и прокат велосипедов поблизости.</p>
     </article>
     <article class="marketing-card">
       <h3>Всегда показано, никогда не выдумано</h3>
@@ -206,8 +206,8 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">На старте</span>
       <h3 class="marketing-price-summary">Все функции доступны бесплатно.</h3>
-      <p>Утренняя сводка, все девятнадцать индексов Commute Life Indices, почасовой прогноз, сохранённые города поездок и умные оповещения — без регистрации, без подписки и без платного доступа.</p>
-      <p class="marketing-price-note">Совместимо с iPhone и iPad на iOS 26.0 или новее.</p>
+      <p>Утренняя сводка, все восемнадцать индексов Commute Life Indices, почасовой прогноз, сохранённые города поездок и умные оповещения — без регистрации, без подписки и без платного доступа.</p>
+      <p class="marketing-price-note">Совместимо с iPhone и iPad на iOS 26.2 или новее.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Подход к конфиденциальности</span>

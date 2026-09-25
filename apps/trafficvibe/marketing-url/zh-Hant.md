@@ -24,7 +24,7 @@ redirect_from:
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">項通勤生活指數，每項都以綠、黃、紅一眼呈現</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">即將登陸 iPhone 和 iPad，需 iOS 26.0 或更新版本。</p>
+  <p class="marketing-meta-note">即將登陸 iPhone 和 iPad，需 iOS 26.2 或更新版本。</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>沿途一路</h3>
-      <p>收費站、鐵路平交道和天黑後的照明，還有附近的測速照相、電動車充電和共享單車。</p>
+      <p>收費站和鐵路平交道，還有附近的測速照相、電動車充電和共享單車。</p>
     </article>
     <article class="marketing-card">
       <h3>始終呈現，絕不作假</h3>
@@ -206,8 +206,8 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">上線時</span>
       <h3 class="marketing-price-summary">所有功能均免費提供。</h3>
-      <p>清晨簡報、全部十九項通勤生活指數、逐小時展望、已儲存的通勤城市和智慧提醒——無需帳戶、無需訂閱，也沒有付費牆。</p>
-      <p class="marketing-price-note">相容 iPhone 和 iPad，需 iOS 26.0 或更新版本。</p>
+      <p>清晨簡報、全部十八項通勤生活指數、逐小時展望、已儲存的通勤城市和智慧提醒——無需帳戶、無需訂閱，也沒有付費牆。</p>
+      <p class="marketing-price-note">相容 iPhone 和 iPad，需 iOS 26.2 或更新版本。</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">隱私立場</span>

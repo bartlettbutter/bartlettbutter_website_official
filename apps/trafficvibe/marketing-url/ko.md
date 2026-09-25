@@ -24,7 +24,7 @@ redirect_from:
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">한눈에 초록·노랑·빨강으로 평가되는 출근길 생활 지수</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iOS 26.0 이상을 지원하는 iPhone 및 iPad에 곧 출시 예정입니다.</p>
+  <p class="marketing-meta-note">iOS 26.2 이상을 지원하는 iPhone 및 iPad에 곧 출시 예정입니다.</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>가는 길에</h3>
-      <p>통행료, 철도 건널목, 어두워진 뒤의 조명, 그리고 근처의 과속 단속 카메라, 전기차 충전, 자전거 공유.</p>
+      <p>통행료와 철도 건널목, 그리고 근처의 과속 단속 카메라, 전기차 충전, 자전거 공유.</p>
     </article>
     <article class="marketing-card">
       <h3>언제나 표시, 결코 지어내지 않음</h3>
@@ -206,8 +206,8 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">출시 시점</span>
       <h3 class="marketing-price-summary">모든 기능을 무료로 이용할 수 있습니다.</h3>
-      <p>아침 브리핑, 열아홉 가지 출근길 생활 지수, 시간별 전망, 저장한 출근 도시, 그리고 스마트 알림을 — 계정도, 구독도, 유료 장벽도 없이.</p>
-      <p class="marketing-price-note">iOS 26.0 이상의 iPhone 및 iPad와 호환됩니다.</p>
+      <p>아침 브리핑, 열여덟 가지 출근길 생활 지수, 시간별 전망, 저장한 출근 도시, 그리고 스마트 알림을 — 계정도, 구독도, 유료 장벽도 없이.</p>
+      <p class="marketing-price-note">iOS 26.2 이상의 iPhone 및 iPad와 호환됩니다.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">개인정보 보호 태도</span>

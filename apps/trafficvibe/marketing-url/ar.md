@@ -24,7 +24,7 @@ redirect_from:
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">مؤشرًا لحياة التنقّل، كل منها مُصنّف أخضر أو أصفر أو أحمر بنظرة واحدة</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">قريبًا على iPhone وiPad بنظام iOS 26.0 أو أحدث.</p>
+  <p class="marketing-meta-note">قريبًا على iPhone وiPad بنظام iOS 26.2 أو أحدث.</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>على طول الطريق</h3>
-      <p>الرسوم، ومعابر السكك الحديدية، والإضاءة بعد حلول الظلام، إضافةً إلى كاميرات السرعة، وشحن المركبات الكهربائية، ومشاركة الدرّاجات القريبة.</p>
+      <p>الرسوم، ومعابر السكك الحديدية، إضافةً إلى كاميرات السرعة، وشحن المركبات الكهربائية، ومشاركة الدرّاجات القريبة.</p>
     </article>
     <article class="marketing-card">
       <h3>يُعرض دائمًا، ولا يُلفَّق أبدًا</h3>
@@ -206,8 +206,8 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">عند الإطلاق</span>
       <h3 class="marketing-price-summary">كل ميزة متاحة دون أي تكلفة.</h3>
-      <p>الملخّص الصباحي، وجميع مؤشرات حياة التنقّل التسعة عشر، والتوقّعات بالساعة، ومدن التنقّل المحفوظة، والتنبيهات الذكية — بلا حساب، ولا اشتراك، ولا جدار دفع.</p>
-      <p class="marketing-price-note">متوافق مع iPhone وiPad بنظام iOS 26.0 أو أحدث.</p>
+      <p>الملخّص الصباحي، وجميع مؤشرات حياة التنقّل الثمانية عشر، والتوقّعات بالساعة، ومدن التنقّل المحفوظة، والتنبيهات الذكية — بلا حساب، ولا اشتراك، ولا جدار دفع.</p>
+      <p class="marketing-price-note">متوافق مع iPhone وiPad بنظام iOS 26.2 أو أحدث.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">موقف الخصوصية</span>

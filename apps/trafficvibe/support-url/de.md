@@ -41,17 +41,17 @@ Jeder Index ist auf einen Blick lesbar: grün für gut oder frei, gelb für Vors
 
 TrafficVibe erfindet nie eine Zahl. Wenn sich für die angezeigte Stadt etwas wirklich nicht messen lässt, steht auf dieser Plakette "keine Daten" statt einer erfundenen Bewertung. Die Verfügbarkeit variiert je nach Ort – Spritpreise hängen zum Beispiel von einem veröffentlichten Preis für dein Land ab, und manche Straßenmerkmal-Plaketten hängen davon ab, wie gründlich deine Gegend kartiert ist. Es ist kein Fehler; es ist die App, die ehrlich ist.
 
-### Was sind die neunzehn Indizes?
+### Was sind die achtzehn Indizes?
 
 Sie sind danach gruppiert, was ein Pendler tatsächlich fragt:
 
 | Gruppe | Indizes |
 |---|---|
 | Soll ich jetzt losfahren? | Autobahntempo, Stoßzeit |
-| Was bremst mich aus? | Vorfälle, Stau, Umleitung, Verzögerung |
+| Was bremst mich aus? | Straßenmeldungen, Stau, Umleitung, Verzögerung |
 | Wetter auf der Straße | Wetter, Glatteis, Sicht, Sonnenblendung |
 | Planung &amp; Kontext | Spritpreis, Straßenauslastung, Tank-Timing |
-| Unterwegs | Maut, Bahnübergang, Beleuchtung, Blitzer, E-Laden, Bikesharing |
+| Unterwegs | Maut, Bahnübergang, Blitzer, E-Laden, Bikesharing |
 
 ### Woher stammen die Daten?
 
@@ -103,7 +103,7 @@ Stell sicher, dass du die neueste Version aus dem App Store verwendest, dann sch
 
 ## Kompatibilität
 
-TrafficVibe erfordert iOS 26.0 oder neuer und läuft sowohl auf iPhone als auch auf iPad.
+TrafficVibe erfordert iOS 26.2 oder neuer und läuft sowohl auf iPhone als auch auf iPad.
 
 ## Kontaktiere uns
 

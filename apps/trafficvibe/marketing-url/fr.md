@@ -24,7 +24,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">Indices de trajet, chacun noté vert, jaune ou rouge d'un coup d'œil</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Bientôt disponible sur iPhone et iPad avec iOS 26.0 ou version ultérieure.</p>
+  <p class="marketing-meta-note">Bientôt disponible sur iPhone et iPad avec iOS 26.2 ou version ultérieure.</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
     </article>
     <article class="marketing-card">
       <h3>En chemin</h3>
-      <p>Péages, passages à niveau et éclairage à la tombée de la nuit, ainsi que radars, recharge pour véhicules électriques et vélos en libre-service à proximité.</p>
+      <p>Péages et passages à niveau, ainsi que radars, recharge pour véhicules électriques et vélos en libre-service à proximité.</p>
     </article>
     <article class="marketing-card">
       <h3>Toujours affiché, jamais inventé</h3>
@@ -206,8 +206,8 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Au lancement</span>
       <h3 class="marketing-price-summary">Toutes les fonctionnalités disponibles sans frais.</h3>
-      <p>Le point matinal, les dix-neuf Indices de trajet, la prévision horaire, les villes de trajet enregistrées et les alertes intelligentes, sans compte, sans abonnement et sans péage.</p>
-      <p class="marketing-price-note">Compatible avec iPhone et iPad sous iOS 26.0 ou version ultérieure.</p>
+      <p>Le point matinal, les dix-huit Indices de trajet, la prévision horaire, les villes de trajet enregistrées et les alertes intelligentes, sans compte, sans abonnement et sans péage.</p>
+      <p class="marketing-price-note">Compatible avec iPhone et iPad sous iOS 26.2 ou version ultérieure.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Posture de confidentialité</span>

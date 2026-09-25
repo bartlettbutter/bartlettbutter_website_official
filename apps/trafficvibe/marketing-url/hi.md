@@ -24,7 +24,7 @@ redirect_from:
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">19</span>
+    <span class="marketing-stat-value">18</span>
     <span class="marketing-stat-label">Commute Life Indices, हर एक एक नज़र में हरे, पीले या लाल रंग में आँका गया</span>
   </article>
   <article class="marketing-stat">
@@ -43,7 +43,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iOS 26.0 या उसके बाद वाले iPhone और iPad पर जल्द आ रहा है।</p>
+  <p class="marketing-meta-note">iOS 26.2 या उसके बाद वाले iPhone और iPad पर जल्द आ रहा है।</p>
 </div>
 
 <!--showcase-->
@@ -119,7 +119,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>रास्ते भर में</h3>
-      <p>टोल, रेल क्रॉसिंग, और अँधेरे के बाद रोशनी, साथ ही आस-पास स्पीड कैमरे, EV चार्जिंग, और बाइक शेयर।</p>
+      <p>टोल और रेल क्रॉसिंग, साथ ही आस-पास स्पीड कैमरे, EV चार्जिंग, और बाइक शेयर।</p>
     </article>
     <article class="marketing-card">
       <h3>हमेशा दिखाया, कभी झूठ नहीं</h3>
@@ -206,8 +206,8 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">लॉन्च पर</span>
       <h3 class="marketing-price-summary">हर सुविधा बिना किसी शुल्क के उपलब्ध।</h3>
-      <p>सुबह की जानकारी, सभी उन्नीस Commute Life Indices, घंटे-दर-घंटे का पूर्वानुमान, सहेजे हुए सफ़र वाले शहर, और स्मार्ट सूचनाएँ — न कोई खाता, न सब्सक्रिप्शन, और न कोई पेवॉल।</p>
-      <p class="marketing-price-note">iOS 26.0 या उसके बाद वाले iPhone और iPad के साथ संगत।</p>
+      <p>सुबह की जानकारी, सभी अठारह Commute Life Indices, घंटे-दर-घंटे का पूर्वानुमान, सहेजे हुए सफ़र वाले शहर, और स्मार्ट सूचनाएँ — न कोई खाता, न सब्सक्रिप्शन, और न कोई पेवॉल।</p>
+      <p class="marketing-price-note">iOS 26.2 या उसके बाद वाले iPhone और iPad के साथ संगत।</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">गोपनीयता का रुख़</span>

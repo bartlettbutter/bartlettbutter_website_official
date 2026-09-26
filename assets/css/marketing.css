@@ -36,6 +36,15 @@
   transform: translateX(-50%);
 }
 
+/* In RTL an over-wide block overflows from the right edge instead of the
+   left, so mirror the centering offset or the block shifts off-screen. */
+[dir="rtl"] .marketing-hero-shell,
+[dir="rtl"] .marketing-cta-panel {
+  left: auto;
+  right: 50%;
+  transform: translateX(50%);
+}
+
 .marketing-hero-shell > p {
   max-width: 60ch;
   margin-left: auto;
@@ -944,6 +953,22 @@ h3.marketing-price-summary {
 
   to {
     transform: translate3d(calc(-1 * var(--hero-gallery-loop-width, 0px)), 0, 0);
+  }
+}
+
+/* In RTL the track starts at the right edge with the duplicate group to its
+   left, so drift rightward; the LTR direction would scroll into empty space. */
+[dir="rtl"] .hero-gallery-marquee-inner {
+  animation-name: hero-gallery-marquee-rtl;
+}
+
+@keyframes hero-gallery-marquee-rtl {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+
+  to {
+    transform: translate3d(var(--hero-gallery-loop-width, 0px), 0, 0);
   }
 }
 

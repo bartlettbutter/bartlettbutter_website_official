@@ -33,7 +33,7 @@ redirect_from:
     <span class="marketing-stat-label">أنواع أنشطة أساسية للرحلات الجوية والفنادق والمواصلات والتذاكر والملاحظات والمزيد</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">5-day</span>
+    <span class="marketing-stat-value">5 أيام</span>
     <span class="marketing-stat-label">توقعات للوجهة لخمسة أيام إلى جانب حالة الرحلات المباشرة والسياق المحلي للرحلة</span>
   </article>
 </div>

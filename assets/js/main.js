@@ -36,49 +36,62 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // --- Dock-style app launch animation ---
-  const workCards = document.querySelectorAll('.work-card[href]');
-  const canAnimateDockLaunch = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
-  const launchDurationMs = Number.parseFloat(
-    getComputedStyle(document.documentElement).getPropertyValue('--dock-launch-duration')
-  ) || 2200;
+  // --- One-time app dock introduction ---
+  // Start only when the dock first enters the viewport, so visitors actually
+  // see the wave even though the Apps section begins below the hero.
+  const worksGrid = document.querySelector('.works-grid');
+  const workCards = worksGrid ? Array.from(worksGrid.querySelectorAll('.work-card')) : [];
 
-  if (workCards.length && !prefersReducedMotion && canAnimateDockLaunch) {
-    workCards.forEach(card => {
-      const launchIcon = card.querySelector('.work-card-icon');
+  if (worksGrid && workCards.length && 'IntersectionObserver' in window && !prefersReducedMotion) {
+    const rootStyles = getComputedStyle(document.documentElement);
+    const introDurationMs = Number.parseFloat(
+      rootStyles.getPropertyValue('--dock-intro-duration')
+    ) || 760;
+    const introStaggerMs = Number.parseFloat(
+      rootStyles.getPropertyValue('--dock-intro-stagger')
+    ) || 75;
 
-      if (!launchIcon) return;
-
-      card.addEventListener('click', (e) => {
-        if (
-          e.defaultPrevented ||
-          e.button !== 0 ||
-          e.metaKey ||
-          e.ctrlKey ||
-          e.shiftKey ||
-          e.altKey ||
-          card.target === '_blank' ||
-          card.hasAttribute('download') ||
-          card.classList.contains('is-jumping')
-        ) {
-          return;
-        }
-
-        e.preventDefault();
-        card.classList.add('is-jumping');
-
-        const navigate = () => {
-          window.location.assign(card.href);
-        };
-
-        const fallbackTimer = window.setTimeout(navigate, launchDurationMs + 120);
-
-        launchIcon.addEventListener('animationend', () => {
-          window.clearTimeout(fallbackTimer);
-          navigate();
-        }, { once: true });
-      });
+    workCards.forEach((card, index) => {
+      card.style.setProperty('--dock-delay', `${index * introStaggerMs}ms`);
     });
+
+    const dockIntroObserver = new IntersectionObserver((entries) => {
+      const dockEntry = entries.find(entry => entry.target === worksGrid);
+
+      if (!dockEntry || !dockEntry.isIntersecting) return;
+
+      dockIntroObserver.disconnect();
+      worksGrid.classList.add('is-introducing');
+
+      const lastIcon = workCards[workCards.length - 1].querySelector('.work-card-icon');
+      let introductionFinished = false;
+      let cleanupTimer;
+
+      const finishIntroduction = () => {
+        if (introductionFinished) return;
+        introductionFinished = true;
+        window.clearTimeout(cleanupTimer);
+        worksGrid.classList.remove('is-introducing');
+        workCards.forEach(card => card.style.removeProperty('--dock-delay'));
+      };
+
+      cleanupTimer = window.setTimeout(
+        finishIntroduction,
+        introDurationMs + (workCards.length - 1) * introStaggerMs + 200
+      );
+
+      if (lastIcon) {
+        lastIcon.addEventListener('animationend', finishIntroduction, { once: true });
+      } else {
+        finishIntroduction();
+      }
+    }, {
+      root: null,
+      rootMargin: '0px 0px -8% 0px',
+      threshold: 0.3
+    });
+
+    dockIntroObserver.observe(worksGrid);
   }
 
   // --- Smooth scroll for anchor links ---

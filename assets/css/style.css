@@ -56,7 +56,8 @@
   --duration-fast: 200ms;
   --duration-normal: 400ms;
   --duration-slow: 600ms;
-  --dock-launch-duration: 2200ms;
+  --dock-intro-duration: 760ms;
+  --dock-intro-stagger: 75ms;
 
   /* Layout */
   --max-width: 1200px;
@@ -806,78 +807,43 @@ img {
   filter: saturate(1.02);
 }
 
-.work-card.is-jumping {
-  pointer-events: none;
-  z-index: 3;
+.works-grid.is-introducing .work-card-icon {
+  transform-origin: center bottom;
+  will-change: transform;
+  animation: dockIntro var(--dock-intro-duration) both;
+  animation-delay: var(--dock-delay, 0ms);
 }
 
-.work-card.is-jumping .work-card-icon {
-  will-change: transform, box-shadow;
-  animation: dockLaunch var(--dock-launch-duration) linear both;
+/* Keep a pointer that happens to be resting over the dock from changing the
+   choreography. Normal hover behavior resumes as soon as the wave finishes. */
+.works-grid.is-introducing:hover .work-card {
+  transform: none;
 }
 
-@keyframes dockLaunch {
-  0% {
-    transform: translateY(0) scaleX(1) scaleY(1);
-    box-shadow:
-      0 18px 32px rgba(17, 24, 39, 0.18),
-      0 6px 12px rgba(17, 24, 39, 0.1);
-    animation-timing-function: cubic-bezier(0.3, 0.02, 0.25, 1);
+.works-grid.is-introducing:hover .work-card:hover,
+.works-grid.is-introducing:hover .work-card:focus-visible {
+  transform: none;
+}
+
+@keyframes dockIntro {
+  0%, 100% {
+    transform: translateY(0) scale(1) rotate(0);
   }
-  10% {
-    transform: translateY(3px) scaleX(1.05) scaleY(0.95);
-    box-shadow:
-      0 9px 18px rgba(17, 24, 39, 0.15),
-      0 3px 8px rgba(17, 24, 39, 0.08);
-    animation-timing-function: cubic-bezier(0.18, 0.9, 0.3, 1);
+  14% {
+    transform: translateY(3px) scaleX(1.04) scaleY(0.96);
+    animation-timing-function: cubic-bezier(0.16, 0.82, 0.24, 1);
   }
-  27% {
-    transform: translateY(-42px) scaleX(0.98) scaleY(1.04);
-    box-shadow:
-      0 28px 36px rgba(17, 24, 39, 0.15),
-      0 12px 18px rgba(17, 24, 39, 0.07);
-    animation-timing-function: cubic-bezier(0.58, 0, 0.72, 0.18);
+  42% {
+    transform: translateY(-22px) scale(1.08) rotate(-1.5deg);
+    animation-timing-function: cubic-bezier(0.55, 0.04, 0.72, 0.2);
   }
-  39% {
-    transform: translateY(0) scaleX(1.04) scaleY(0.96);
-    box-shadow:
-      0 12px 24px rgba(17, 24, 39, 0.15),
-      0 4px 10px rgba(17, 24, 39, 0.09);
-    animation-timing-function: cubic-bezier(0.22, 0.84, 0.32, 1);
+  62% {
+    transform: translateY(3px) scaleX(1.03) scaleY(0.97) rotate(0.5deg);
+    animation-timing-function: cubic-bezier(0.18, 0.72, 0.3, 1);
   }
-  53% {
-    transform: translateY(-24px) scaleX(0.99) scaleY(1.02);
-    box-shadow:
-      0 22px 30px rgba(17, 24, 39, 0.15),
-      0 8px 14px rgba(17, 24, 39, 0.08);
-    animation-timing-function: cubic-bezier(0.58, 0, 0.72, 0.18);
-  }
-  65% {
-    transform: translateY(0) scaleX(1.03) scaleY(0.98);
-    box-shadow:
-      0 13px 24px rgba(17, 24, 39, 0.14),
-      0 5px 10px rgba(17, 24, 39, 0.08);
-    animation-timing-function: cubic-bezier(0.24, 0.82, 0.34, 1);
-  }
-  77% {
-    transform: translateY(-11px) scaleX(1) scaleY(1.01);
-    box-shadow:
-      0 17px 25px rgba(17, 24, 39, 0.14),
-      0 6px 12px rgba(17, 24, 39, 0.08);
-    animation-timing-function: cubic-bezier(0.58, 0, 0.72, 0.18);
-  }
-  88% {
-    transform: translateY(0) scaleX(1.01) scaleY(0.99);
-    box-shadow:
-      0 14px 24px rgba(17, 24, 39, 0.14),
-      0 5px 10px rgba(17, 24, 39, 0.08);
-    animation-timing-function: cubic-bezier(0.2, 0.8, 0.3, 1);
-  }
-  100% {
-    transform: translateY(0) scaleX(1) scaleY(1);
-    box-shadow:
-      0 18px 32px rgba(17, 24, 39, 0.18),
-      0 6px 12px rgba(17, 24, 39, 0.1);
+  80% {
+    transform: translateY(-6px) scale(1.02);
+    animation-timing-function: cubic-bezier(0.3, 0.7, 0.4, 1);
   }
 }
 

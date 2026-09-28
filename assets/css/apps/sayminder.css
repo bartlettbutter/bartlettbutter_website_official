@@ -14,9 +14,10 @@
     linear-gradient(180deg, rgba(246, 241, 227, 0.98) 0%, rgba(246, 241, 227, 0.95) 28%, rgba(251, 247, 236, 0.96) 58%, rgba(255, 252, 243, 0.98) 100%);
 }
 
-/* Hero on a clean chalk surface so it reads distinctly from the tinted bands
-   below it. The shell is centered at a max width, so a full-bleed ::before
-   paints the band edge to edge, including the left/right gutters. */
+/* Hero on a clean white surface so it reads distinctly from the tinted bands
+   below it, matching the white-hero treatment every other app's marketing page
+   uses. The shell is centered at a max width, so a full-bleed ::before paints
+   the band edge to edge, including the left/right gutters. */
 .sy-page .marketing-hero-shell {
   isolation: isolate;
 }
@@ -29,7 +30,7 @@
   left: 50%;
   width: 100vw;
   transform: translateX(-50%);
-  background: #FFFCF3;
+  background: #FFFFFF;
   z-index: -1;
 }
 

@@ -625,7 +625,12 @@ img {
   justify-content: center;
   align-items: flex-end;
   gap: 18px;
-  width: min(100%, 1040px);
+  /* Shrink-wrap the pill around the icons like the macOS Dock: size to the
+     content (width: max-content) rather than a fixed frame, so there are no
+     empty gutters, while never exceeding the available width. On overflow the
+     narrow-screen rules below switch it back to a scrollable full-width strip. */
+  width: max-content;
+  max-width: 100%;
   margin: 76px auto 0;
   padding: 22px 20px 26px;
   border: 1px solid rgba(255, 255, 255, 0.65);
@@ -1225,6 +1230,10 @@ img {
 
 @media (max-width: 960px) {
   .works-grid {
+    /* Below the dock's fit width, fall back to a full-width scrollable strip
+       (overriding the shrink-to-fit max-content sizing used on wide screens). */
+    width: 100%;
+    max-width: 100%;
     justify-content: flex-start;
     overflow-x: auto;
     overscroll-behavior-x: contain;

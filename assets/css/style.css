@@ -56,8 +56,8 @@
   --duration-fast: 200ms;
   --duration-normal: 400ms;
   --duration-slow: 600ms;
-  --dock-intro-duration: 760ms;
-  --dock-intro-stagger: 75ms;
+  --dock-intro-duration: 1100ms;
+  --dock-intro-stagger: 95ms;
 
   /* Layout */
   --max-width: 1200px;
@@ -834,7 +834,7 @@ img {
     animation-timing-function: cubic-bezier(0.16, 0.82, 0.24, 1);
   }
   42% {
-    transform: translateY(-22px) scale(1.08) rotate(-1.5deg);
+    transform: translateY(-40px) scale(1.1) rotate(-1.5deg);
     animation-timing-function: cubic-bezier(0.55, 0.04, 0.72, 0.2);
   }
   62% {
@@ -842,7 +842,7 @@ img {
     animation-timing-function: cubic-bezier(0.18, 0.72, 0.3, 1);
   }
   80% {
-    transform: translateY(-6px) scale(1.02);
+    transform: translateY(-11px) scale(1.03);
     animation-timing-function: cubic-bezier(0.3, 0.7, 0.4, 1);
   }
 }

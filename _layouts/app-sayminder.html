@@ -33,6 +33,19 @@ layout: default
   {%- if m_data.showcase -%}{%- include marketing/showcase.html showcase=m_data.showcase variant="sy" -%}{%- endif -%}
   {%- if m_parts.size > 1 -%}{{ m_parts[1] }}{%- endif -%}
 {%- else -%}
-  {{ content }}
+  {%- comment -%} No showcase/gallery data yet (screenshots are placeholders), so
+    render the markdown directly. Wrap only the opening hero cluster (everything
+    before the first `<section class="marketing-band">`) in `.marketing-hero-shell`
+    so it gets the same white backdrop every other app's marketing page uses,
+    while the tinted bands below render outside the shell and keep their palette.
+    `split` drops the delimiter, so the hero is `m_body[0]` and the bands are the
+    original content with that hero prefix removed (which preserves the delimiter). {%- endcomment -%}
+  {%- assign m_body = content | split: '<section class="marketing-band"' -%}
+  <div class="marketing-hero-shell">
+    {{ m_body[0] }}
+  </div>
+  {%- if m_body.size > 1 -%}
+    {{ content | remove_first: m_body[0] }}
+  {%- endif -%}
 {%- endif -%}
 </div>

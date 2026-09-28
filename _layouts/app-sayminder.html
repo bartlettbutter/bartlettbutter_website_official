@@ -1,0 +1,38 @@
+---
+layout: default
+---
+{%- comment -%}
+  Bespoke marketing layout for Sayminder. Same shared chrome (nav, app header,
+  footer) as every other page via `default`, but the body is scoped to
+  `.sy-page` and styled by assets/css/apps/sayminder.css for a distinct
+  identity (warm parchment paper, midnight-steel ink, brass accent). Content
+  still comes from the translated markdown.
+
+  App Store screenshots are not wired up yet, so the marketing page uses
+  placeholder frames instead of the image showcase / hero gallery. If real
+  screenshots are added later, populate _data/apps/sayminder.yml with
+  `hero_gallery` / `showcase` blocks and author the `<!--gallery-->` and
+  `<!--showcase-->` markers into the markdown — this layout already injects them
+  at those markers, matching the other apps.
+{%- endcomment -%}
+{%- assign m_data = site.data.apps.sayminder[page.lang | default: "en"] | default: site.data.apps.sayminder.en -%}
+{%- comment -%} The hero gallery is language-independent (images only), so it is
+  defined once under `en`. Fall back to it for languages that don't override it,
+  the same way the whole entry falls back to `en`. {%- endcomment -%}
+{%- assign m_gallery = m_data.hero_gallery | default: site.data.apps.sayminder.en.hero_gallery -%}
+<div class="sy-page app-page">
+{%- if m_data.showcase or m_gallery -%}
+  {%- assign m_parts = content | split: "<!--showcase-->" -%}
+  {%- assign m_hero_parts = m_parts[0] | split: "<!--gallery-->" -%}
+  <div class="marketing-hero-shell">
+    {{ m_hero_parts[0] }}
+    {%- if m_gallery and m_hero_parts.size > 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="sy" -%}{%- endif -%}
+    {%- if m_hero_parts.size > 1 -%}{{ m_hero_parts[1] }}{%- endif -%}
+    {%- if m_gallery and m_hero_parts.size <= 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="sy" -%}{%- endif -%}
+  </div>
+  {%- if m_data.showcase -%}{%- include marketing/showcase.html showcase=m_data.showcase variant="sy" -%}{%- endif -%}
+  {%- if m_parts.size > 1 -%}{{ m_parts[1] }}{%- endif -%}
+{%- else -%}
+  {{ content }}
+{%- endif -%}
+</div>

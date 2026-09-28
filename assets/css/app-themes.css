@@ -141,3 +141,19 @@
   --app-display-font: 'Fraunces', Georgia, 'Times New Roman', serif;
   --app-display-weight: 600;
 }
+
+/* Sayminder — warm parchment paper with midnight-steel ink and a brass accent,
+   translated from the app's editorial "warm paper + midnight clock" identity. */
+[data-app="sayminder"] {
+  --app-accent: #A97856;
+  --app-accent-rgb: 169, 120, 86;
+  --app-accent-strong: #14314A;
+  --app-accent-strong-rgb: 20, 49, 74;
+  --app-accent-soft: #EFE7D5;
+  --app-highlight: #FFFCF3;
+  --app-header-bg: linear-gradient(135deg, #F6F1E3 0%, #FBF7EC 58%, #EFE7D5 100%);
+  --app-ambient: linear-gradient(180deg, rgba(246, 241, 227, 0.94) 0%, rgba(251, 247, 236, 0.96) 60%, rgba(255, 252, 243, 0.98) 100%);
+  --app-card-shadow: 0 26px 68px rgba(20, 49, 74, 0.1);
+  --app-display-font: Georgia, 'Times New Roman', serif;
+  --app-display-weight: 600;
+}

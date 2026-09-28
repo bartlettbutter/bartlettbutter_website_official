@@ -498,3 +498,65 @@ solcast:
     marketing: "面向真實生活的天氣指引"
     support: "解答每次天氣預報"
     privacy: "只做個人化，不涉個資"
+
+sayminder:
+  en:
+    marketing: "Just speak, and it reminds you"
+    support: "Help with every spoken reminder"
+    privacy: "Your reminders stay on device"
+  zh-Hans:
+    marketing: "开口说，它就提醒你"
+    support: "解答每条语音提醒"
+    privacy: "提醒只留在你的设备上"
+  zh-Hant:
+    marketing: "開口說，它就提醒你"
+    support: "解答每則語音提醒"
+    privacy: "提醒只留在你的裝置上"
+  es:
+    marketing: "Solo habla y te lo recuerda"
+    support: "Ayuda con cada recordatorio por voz"
+    privacy: "Tus recordatorios quedan en el dispositivo"
+  hi:
+    marketing: "बस बोलिए, यह याद दिला देगा"
+    support: "हर बोले गए रिमाइंडर में मदद"
+    privacy: "आपके रिमाइंडर डिवाइस पर ही रहते हैं"
+  ar:
+    marketing: "تحدّث فقط، وسيذكّرك"
+    support: "مساعدة في كل تذكير صوتي"
+    privacy: "تذكيراتك تبقى على جهازك"
+  fr:
+    marketing: "Parlez, et il vous le rappelle"
+    support: "Aide pour chaque rappel vocal"
+    privacy: "Vos rappels restent sur l'appareil"
+  pt:
+    marketing: "É só falar, e ele lembra você"
+    support: "Ajuda com cada lembrete por voz"
+    privacy: "Seus lembretes ficam no dispositivo"
+  ja:
+    marketing: "話すだけで、リマインドします"
+    support: "音声リマインダーのすべてをサポート"
+    privacy: "リマインダーは端末内だけに保存"
+  ko:
+    marketing: "말하면 알아서 알려줍니다"
+    support: "모든 음성 리마인더를 도와드려요"
+    privacy: "리마인더는 기기에만 저장됩니다"
+  de:
+    marketing: "Einfach sprechen, es erinnert dich"
+    support: "Hilfe bei jeder Sprach-Erinnerung"
+    privacy: "Deine Erinnerungen bleiben auf dem Gerät"
+  it:
+    marketing: "Parla e basta, ti ricorda tutto"
+    support: "Aiuto per ogni promemoria vocale"
+    privacy: "I tuoi promemoria restano sul dispositivo"
+  ru:
+    marketing: "Просто скажите — и напомнит"
+    support: "Помощь по любому голосовому напоминанию"
+    privacy: "Напоминания остаются на устройстве"
+  tr:
+    marketing: "Sadece söyle, o hatırlatsın"
+    support: "Her sesli hatırlatıcı için yardım"
+    privacy: "Hatırlatıcılarınız cihazınızda kalır"
+  nl:
+    marketing: "Spreek gewoon, en het herinnert je"
+    support: "Hulp bij elke gesproken herinnering"
+    privacy: "Je herinneringen blijven op je toestel"

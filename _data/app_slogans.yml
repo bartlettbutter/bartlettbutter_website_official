@@ -313,6 +313,68 @@ journeyfolio:
     support: "解答每個行程細節"
     privacy: "你的計畫始終由你掌握"
 
+linkhq:
+  en:
+    marketing: "Keep the things worth returning to"
+    support: "Help for every saved link"
+    privacy: "Local-only, never uploaded"
+  zh-Hans:
+    marketing: "留住值得再次打开的内容"
+    support: "解答每条已保存链接"
+    privacy: "只存本地，从不上传"
+  zh-Hant:
+    marketing: "留住值得再次打開的內容"
+    support: "解答每則已儲存連結"
+    privacy: "只存本機，從不上傳"
+  es:
+    marketing: "Guarda lo que vale la pena reabrir"
+    support: "Ayuda para cada enlace guardado"
+    privacy: "Solo local, nunca se sube"
+  hi:
+    marketing: "जो दोबारा खोलने लायक हो, वही सहेजें"
+    support: "हर सहेजे गए लिंक के लिए मदद"
+    privacy: "सिर्फ़ डिवाइस पर, कभी अपलोड नहीं"
+  ar:
+    marketing: "احتفظ بما يستحق العودة إليه"
+    support: "مساعدة لكل رابط محفوظ"
+    privacy: "محلي فقط، لا يُرفع أبدًا"
+  fr:
+    marketing: "Gardez ce qui mérite d'être rouvert"
+    support: "Aide pour chaque lien enregistré"
+    privacy: "En local uniquement, jamais envoyé"
+  pt:
+    marketing: "Guarde o que vale a pena reabrir"
+    support: "Ajuda para cada link salvo"
+    privacy: "Só local, nunca enviado"
+  ja:
+    marketing: "また開きたくなるものを残す"
+    support: "保存したリンクをすべてサポート"
+    privacy: "端末内だけ、送信は一切なし"
+  ko:
+    marketing: "다시 열어볼 것만 모아 두세요"
+    support: "저장한 모든 링크를 도와드려요"
+    privacy: "기기에만 저장, 업로드 안 함"
+  de:
+    marketing: "Behalte, was sich lohnt wiederzufinden"
+    support: "Hilfe für jeden gespeicherten Link"
+    privacy: "Nur lokal, nie hochgeladen"
+  it:
+    marketing: "Conserva ciò che vale la pena riaprire"
+    support: "Aiuto per ogni link salvato"
+    privacy: "Solo in locale, mai caricato"
+  ru:
+    marketing: "Храните то, к чему стоит вернуться"
+    support: "Помощь по любой сохранённой ссылке"
+    privacy: "Только локально, без выгрузки"
+  tr:
+    marketing: "Yeniden açmaya değenleri saklayın"
+    support: "Her kayıtlı bağlantı için yardım"
+    privacy: "Yalnızca cihazda, hiç yüklenmez"
+  nl:
+    marketing: "Bewaar wat je terug wilt vinden"
+    support: "Hulp bij elke opgeslagen link"
+    privacy: "Alleen lokaal, nooit geüpload"
+
 nekopedia:
   en:
     marketing: "Identify cat breeds instantly"

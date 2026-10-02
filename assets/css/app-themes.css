@@ -157,3 +157,16 @@
   --app-display-font: Georgia, 'Times New Roman', serif;
   --app-display-weight: 600;
 }
+
+/* LinkHQ — deep ocean + sky glass over warm paper. */
+[data-app="linkhq"] {
+  --app-accent: #2E7FA0;
+  --app-accent-rgb: 46, 127, 160;
+  --app-accent-strong: #125877;
+  --app-accent-strong-rgb: 18, 88, 119;
+  --app-accent-soft: #DCEBF0;
+  --app-highlight: #FEFCF7;
+  --app-header-bg: linear-gradient(135deg, #EAF3F6 0%, #DCEBF0 54%, #FEFCF7 100%);
+  --app-ambient: linear-gradient(180deg, rgba(234, 243, 246, 0.94) 0%, rgba(246, 244, 237, 0.96) 60%, rgba(254, 252, 247, 0.98) 100%);
+  --app-card-shadow: 0 26px 68px rgba(11, 42, 57, 0.1);
+}

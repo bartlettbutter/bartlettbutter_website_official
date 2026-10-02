@@ -1,0 +1,57 @@
+---
+layout: default
+---
+{%- comment -%}
+  Bespoke marketing layout for LinkHQ. Same shared chrome (nav, app header,
+  footer) as every other page via `default`, but the body is scoped to
+  `.lk-page` and styled by assets/css/apps/linkhq.css for a distinct
+  identity (deep ocean + sky glass over warm paper). Content still comes from
+  the translated markdown; the showcase is injected at the `<!--showcase-->`
+  marker.
+
+  App Store screenshots are not wired up yet, so the marketing page uses
+  placeholder frames instead of the image showcase / hero gallery. If real
+  screenshots are added later, populate _data/apps/linkhq.yml with
+  `hero_gallery` / `showcase` blocks and author the `<!--gallery-->` and
+  `<!--showcase-->` markers into the markdown — this layout already injects them
+  at those markers, matching the other apps.
+{%- endcomment -%}
+{%- assign m_data = site.data.apps.linkhq[page.lang | default: "en"] | default: site.data.apps.linkhq.en -%}
+{%- comment -%} The hero gallery is language-independent (images only), so it is
+  defined once under `en`. Fall back to it for languages that don't override it,
+  the same way the whole entry falls back to `en`. {%- endcomment -%}
+{%- assign m_gallery = m_data.hero_gallery | default: site.data.apps.linkhq.en.hero_gallery -%}
+<div class="lk-page app-page">
+{%- if m_data.showcase or m_gallery -%}
+  {%- assign m_parts = content | split: "<!--showcase-->" -%}
+  {%- comment -%} The gallery renders wherever the markdown places the
+    `<!--gallery-->` marker (authored just after the hero lead, so the mockups
+    sit above the intro paragraph). If the marker is absent — e.g. a translated
+    page that predates it — the gallery falls back to its previous spot, right
+    before the showcase. {%- endcomment -%}
+  {%- assign m_hero_parts = m_parts[0] | split: "<!--gallery-->" -%}
+  <div class="marketing-hero-shell">
+    {{ m_hero_parts[0] }}
+    {%- if m_gallery and m_hero_parts.size > 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="lk" -%}{%- endif -%}
+    {%- if m_hero_parts.size > 1 -%}{{ m_hero_parts[1] }}{%- endif -%}
+    {%- if m_gallery and m_hero_parts.size <= 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="lk" -%}{%- endif -%}
+  </div>
+  {%- if m_data.showcase -%}{%- include marketing/showcase.html showcase=m_data.showcase variant="lk" -%}{%- endif -%}
+  {%- if m_parts.size > 1 -%}{{ m_parts[1] }}{%- endif -%}
+{%- else -%}
+  {%- comment -%} No showcase/gallery data yet (screenshots are placeholders), so
+    render the markdown directly. Wrap only the opening hero cluster (everything
+    before the first `<section class="marketing-band">`) in `.marketing-hero-shell`
+    so it gets the same white backdrop every other app's marketing page uses,
+    while the tinted bands below render outside the shell and keep their palette.
+    `split` drops the delimiter, so the hero is `m_body[0]` and the bands are the
+    original content with that hero prefix removed (which preserves the delimiter). {%- endcomment -%}
+  {%- assign m_body = content | split: '<section class="marketing-band"' -%}
+  <div class="marketing-hero-shell">
+    {{ m_body[0] }}
+  </div>
+  {%- if m_body.size > 1 -%}
+    {{ content | remove_first: m_body[0] }}
+  {%- endif -%}
+{%- endif -%}
+</div>

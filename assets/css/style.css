@@ -621,15 +621,16 @@ img {
 }
 
 .works-grid {
-  display: flex;
-  flex-wrap: nowrap;
+  /* Two-row dock: 8 tiles per row (apps first, then "?" slots). Shrink-wrap
+     the pill around the grid like the macOS Dock (width: max-content) so there
+     are no empty gutters; on narrower screens the minmax(0, …) tracks and the
+     fluid icons shrink rather than overflow. */
+  display: grid;
+  grid-template-columns: repeat(8, minmax(0, 112px));
   justify-content: center;
-  align-items: flex-end;
-  gap: 18px;
-  /* Shrink-wrap the pill around the icons like the macOS Dock: size to the
-     content (width: max-content) rather than a fixed frame, so there are no
-     empty gutters, while never exceeding the available width. On overflow the
-     narrow-screen rules below switch it back to a scrollable full-width strip. */
+  align-items: end;
+  column-gap: 18px;
+  row-gap: 14px;
   width: max-content;
   max-width: 100%;
   margin: 76px auto 0;
@@ -644,7 +645,6 @@ img {
   backdrop-filter: blur(18px);
   -webkit-backdrop-filter: blur(18px);
   position: relative;
-  min-height: 154px;
 }
 
 .works-story {
@@ -704,14 +704,12 @@ img {
   display: flex;
   align-items: flex-end;
   justify-content: center;
-  flex: 0 0 auto;
-  width: 112px;
+  min-width: 0;
   padding: 18px 6px 6px;
   border-radius: 24px;
   transform-origin: center bottom;
   transition: transform 220ms var(--ease), filter 220ms var(--ease);
   -webkit-tap-highlight-color: transparent;
-  scroll-snap-align: center;
 }
 
 .works-grid:hover .work-card {
@@ -781,8 +779,9 @@ img {
 }
 
 .work-card-icon {
-  width: 100px;
-  height: 100px;
+  width: 100%;
+  max-width: 100px;
+  aspect-ratio: 1;
   border-radius: 22px;
   overflow: hidden;
   flex-shrink: 0;
@@ -805,6 +804,33 @@ img {
     0 18px 32px rgba(17, 24, 39, 0.18),
     0 6px 12px rgba(17, 24, 39, 0.1);
   filter: saturate(1.02);
+}
+
+/* Placeholder slot: same footprint as a .work-card, but inert — a dashed
+   "?" tile hinting at apps still to come. */
+.work-slot {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  min-width: 0;
+  padding: 18px 6px 6px;
+}
+
+.work-slot-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 100px;
+  aspect-ratio: 1;
+  border: 2px dashed rgba(107, 114, 128, 0.32);
+  border-radius: 22px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.7) 0%, rgba(243, 244, 246, 0.7) 100%);
+  color: rgba(107, 114, 128, 0.55);
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1;
+  user-select: none;
 }
 
 .works-grid.is-introducing .work-card-icon {
@@ -1196,25 +1222,13 @@ img {
 
 @media (max-width: 960px) {
   .works-grid {
-    /* Below the dock's fit width, fall back to a full-width scrollable strip
-       (overriding the shrink-to-fit max-content sizing used on wide screens). */
-    width: 100%;
-    max-width: 100%;
-    justify-content: flex-start;
-    overflow-x: auto;
-    overscroll-behavior-x: contain;
-    scroll-snap-type: x proximity;
-    scroll-padding-inline: var(--space-4);
-    scrollbar-width: thin;
+    /* Below this width 8 columns get cramped: switch to 4 columns,
+       10 apps + 2 slots = 3 full rows. */
+    grid-template-columns: repeat(4, minmax(0, 112px));
   }
 
-  .works-grid::-webkit-scrollbar {
-    height: 8px;
-  }
-
-  .works-grid::-webkit-scrollbar-thumb {
-    background: rgba(107, 114, 128, 0.35);
-    border-radius: 999px;
+  .work-slot:nth-last-child(-n+4) {
+    display: none;
   }
 
   .works-story-grid {
@@ -1357,7 +1371,9 @@ img {
   }
 
   .works-grid {
-    gap: 14px;
+    grid-template-columns: repeat(4, minmax(0, 96px));
+    column-gap: 14px;
+    row-gap: 10px;
     margin-top: 60px;
     padding: 18px 14px 20px;
     border-radius: 26px;
@@ -1377,15 +1393,19 @@ img {
     grid-template-columns: 1fr;
   }
 
-  .work-card {
-    width: 96px;
+  .work-card,
+  .work-slot {
     padding: 14px 4px 4px;
   }
 
-  .work-card-icon {
-    width: 84px;
-    height: 84px;
+  .work-card-icon,
+  .work-slot-icon {
+    max-width: 84px;
     border-radius: 20px;
+  }
+
+  .work-slot-icon {
+    font-size: 32px;
   }
 
   .build-grid {
@@ -1421,15 +1441,23 @@ img {
     font-size: 28px;
   }
 
-  .work-card {
-    width: 84px;
+  .works-grid {
+    column-gap: 10px;
+  }
+
+  .work-card,
+  .work-slot {
     padding: 12px 4px 2px;
   }
 
-  .work-card-icon {
-    width: 72px;
-    height: 72px;
+  .work-card-icon,
+  .work-slot-icon {
+    max-width: 72px;
     border-radius: 18px;
+  }
+
+  .work-slot-icon {
+    font-size: 28px;
   }
 
   .work-card::before {

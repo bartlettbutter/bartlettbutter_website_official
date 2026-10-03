@@ -197,6 +197,13 @@
           </span>
         </a>
 
+        {%- comment -%} Decorative "more to come" slots that fill the dock's
+          last row (8 columns; 10 apps + 6 slots = 2 full rows). Narrow screens
+          use 4 columns and hide the last 4 slots. Drop one slot per new app. {%- endcomment -%}
+        {%- for slot in (1..6) %}
+        <span class="work-slot" aria-hidden="true"><span class="work-slot-icon">?</span></span>
+        {%- endfor %}
+
       </div>
       <div id="about" class="works-story">
         <div class="works-story-intro fade-in">

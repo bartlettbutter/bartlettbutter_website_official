@@ -208,7 +208,7 @@
   {% if page.app_icon %}
   <div class="app-header">
     <div class="app-header-inner">
-      <img src="{{ page.app_icon }}" alt="{{ page.title }} icon" class="app-icon" width="120" height="120">
+      <img src="{{ page.app_icon }}" alt="{{ page.title }} icon" class="app-icon" width="144" height="144">
       <h1>{{ page.title }}</h1>
       {% assign header_copy = header_slogan | default: page.app_description %}
       {% if header_copy %}<p{% if section == "marketing" and page.app_description and header_slogan and page.app_description != header_slogan %} title="{{ page.app_description }}"{% endif %}>{{ header_copy }}</p>{% endif %}

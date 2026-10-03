@@ -147,9 +147,9 @@ body {
 }
 
 .app-icon {
-  width: 120px;
-  height: 120px;
-  border-radius: 28px;
+  width: 144px;
+  height: 144px;
+  border-radius: 32px;
   /* Mat frame: hairline + white ring + hairline, then an accent-tinted lift.
      Many icons share their header's pale hue, so the ring is what separates
      them. Spread-only shadows, so layout is unaffected. */
@@ -647,8 +647,8 @@ body {
   }
 
   .app-icon {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     border-radius: 24px;
   }
 

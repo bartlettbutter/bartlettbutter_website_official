@@ -50,3 +50,437 @@ en:
         alt: "Locations screen with a search field and a reorderable list of saved cities across several countries"
         title: "All your places, one app"
         body: "Search and save the cities that matter, reorder them to taste, and monitor locations worldwide. Each is shown in its own local timezone, with more places unlocked on Premium."
+
+zh-Hans:
+  showcase:
+    label: "实际体验"
+    title: "从原始预报到属于您真实一天的计划"
+    intro: "Solcast 的每一个界面都把天气数据转化为通俗易懂的指导：会遇到什么天气、该穿什么，以及如何保护您所关爱的人和宠物。"
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Solcast 欢迎界面，介绍天气预报、穿搭推荐、生活方式指数和基于敏感度的提醒"
+        title: "您的天气生活伴侣"
+        body: "打开 Solcast 即可立即使用——无需账户，没有广告，无需注册。实时 7 天预报、智能穿搭推荐、个性化生活方式指数和基于敏感度的提醒，在开始界面轻点一下即可获得。"
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "主页仪表板，带有城市标签和以通俗语言给出天气建议的今日简报"
+        title: "今日概览，通俗易懂"
+        body: "您的每日简报读起来就像一张贴心的便条：晴朗的天空和当天的气温、何时涂抹 SPF 防晒、锻炼的最佳时段、空气质量提示，以及该穿得多轻便——下方还汇总了当前的天气状况。"
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "今日详情界面，显示温度、风、降水和大气指标"
+        title: "今日完整详情"
+        body: "轻点进入即可查看完整情况——平均、最高、最低、体感温度和昼夜温差，以及风速和阵风、降水量和降水概率、湿度、气压，还有日照与紫外线读数，全部集中在一个可滚动的视图中。"
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "生活方式指数界面，包含穿衣、舒适度、紫外线、SPF、太阳镜、护肤、流感风险、过敏、空气污染和运动评级"
+        title: "有科学依据的生活方式指数"
+        body: "十六项生活方式指数把数据转化为行动——穿衣舒适度、紫外线、SPF、太阳镜、护肤、流感风险、过敏、空气污染、运动等等——每一项都以颜色区分，并附有简短实用的建议。"
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "设置界面，包含温度单位、温度耐受度、敏感度开关、着装风格和家庭选项"
+        title: "根据您的生活方式个性化"
+        body: "设置温度单位、您是怕热还是怕冷，并开启或关闭阳光、眼部、过敏和偏头痛敏感度。选择您的着装风格和家庭情况，让每一条建议都为您量身调整。"
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "地点界面，带有搜索栏和可重新排序、涵盖多个国家的已保存城市列表"
+        title: "所有地点，尽在一个应用"
+        body: "搜索并保存对您重要的城市，按喜好重新排序，随时关注全球各地。每个地点都以其当地时区显示，升级 Premium 可解锁更多地点。"
+
+zh-Hant:
+  showcase:
+    label: "實際體驗"
+    title: "從原始預報到屬於您真實一天的計畫"
+    intro: "Solcast 的每一個介面都把天氣資料轉化為通俗易懂的指導：會遇到什麼天氣、該穿什麼，以及如何保護您所照顧的人和寵物。"
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Solcast 歡迎畫面，介紹天氣預報、穿搭推薦、生活方式指數和依敏感度調整的提醒"
+        title: "您的天氣生活夥伴"
+        body: "開啟 Solcast 即可立即使用——無需帳戶，沒有廣告，無需註冊。即時 7 天預報、智慧穿搭推薦、個性化生活方式指數和依敏感度調整的提醒，在開始畫面輕點一下即可取得。"
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "主頁儀表板，帶有城市分頁和以通俗語言提供天氣建議的今日簡報"
+        title: "今日概覽，通俗易懂"
+        body: "您的每日簡報讀起來就像一張貼心的便條：晴朗的天空和當天的氣溫、何時塗抹 SPF 防曬、運動的最佳時段、空氣質量提示，以及該穿得多輕便——下方還彙整了目前的天氣狀況。"
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "今日詳情畫面，顯示溫度、風、降水和大氣指標"
+        title: "今日完整詳情"
+        body: "輕點進入即可檢視完整情況——平均、最高、最低、體感溫度和日夜溫差，以及風速和陣風、降水量和降水機率、濕度、氣壓，還有日照與紫外線讀數，全部集中在一個可捲動的檢視中。"
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "生活方式指數畫面，包含穿衣、舒適度、紫外線、SPF、太陽眼鏡、護膚、流感風險、過敏、空氣污染和運動評級"
+        title: "有科學依據的生活方式指數"
+        body: "十六項生活方式指數把資料轉化為行動——穿衣舒適度、紫外線、SPF、太陽眼鏡、護膚、流感風險、過敏、空氣污染、運動等等——每一項都以顏色區分，並附有簡短實用的建議。"
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "設定畫面，包含溫度單位、溫度耐受度、敏感度開關、著裝風格和家庭選項"
+        title: "根據您的生活方式個性化"
+        body: "設定溫度單位、您是怕熱還是怕冷，並開啟或關閉陽光、眼睛、過敏和偏頭痛敏感度。選擇您的著裝風格和家庭情況，讓每一條建議都為您量身調整。"
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "地點畫面，帶有搜尋欄位和可重新排序、涵蓋多個國家的已儲存城市清單"
+        title: "所有地點，盡在一個應用程式"
+        body: "搜尋並儲存對您重要的城市，依喜好重新排序，隨時關注世界各地。每個地點都以其當地時區顯示，升級 Premium 可解鎖更多地點。"
+
+ja:
+  showcase:
+    label: "実際の動作を見る"
+    title: "生の予報から、あなたの実際の一日のためのプランへ"
+    intro: "Solcastのすべての画面が、天気データを平易な言葉のガイダンスに変えます。どんな天気になるのか、何を着るべきか、そして大切な人やペットをどう守るかが分かります。"
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "予報、服装の提案、ライフスタイル指数、敏感さに応じたアラートを紹介するSolcastのウェルカム画面"
+        title: "天気を味方にする、暮らしのパートナー"
+        body: "Solcastを開けばすぐに使えます。アカウントも広告もサインアップも不要です。リアルタイムの7日間予報、スマートな服装の提案、パーソナライズされたライフスタイル指数、敏感さに応じたアラートに、スタート画面からワンタップでアクセスできます。"
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "都市タブと、平易な言葉で天気のアドバイスをまとめた今日のブリーフィングを表示するホームダッシュボード"
+        title: "今日がひと目で、平易な言葉で"
+        body: "デイリーブリーフィングは、気の利いたメモのように読めます。晴れ空とその日の気温、SPFを塗るタイミング、ワークアウトに最適な時間帯、大気質のヒント、どのくらい薄着でよいか。そのすぐ下には現在の状況もまとめて表示されます。"
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "気温、風、降水、大気の指標を表示する今日の詳細画面"
+        title: "今日のすべてを詳しく"
+        body: "タップすれば全体像が分かります。平均、最高、最低、体感の各気温と一日の寒暖差に加え、風速と突風、降水量と降水確率、湿度、気圧、日射量とUVの値まで、スクロールできるひとつの画面で確認できます。"
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "服装、快適度、UV、SPF、サングラス、スキンケア、インフルエンザリスク、アレルギー、大気汚染、スポーツの評価を表示するライフスタイル指数画面"
+        title: "科学に基づいたライフスタイル指数"
+        body: "16のライフスタイル指数が、データを行動に変えます。服装の快適度、UV、SPF、サングラス、スキンケア、インフルエンザリスク、アレルギー、大気汚染、スポーツなど、それぞれ色分けされ、短く実用的なおすすめが添えられています。"
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "温度単位、暑さ寒さの感じ方、敏感さの切り替え、服装スタイル、世帯のオプションを表示する設定画面"
+        title: "あなたの暮らし方に合わせてパーソナライズ"
+        body: "温度単位、暑がりか寒がりかを設定し、日差し、目、アレルギー、片頭痛の敏感さをオン・オフできます。服装スタイルや世帯の情報を選べば、すべてのおすすめがあなたに合わせて変わります。"
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "検索フィールドと、複数の国にまたがる保存済み都市の並べ替え可能なリストを表示する地点画面"
+        title: "すべての場所を、ひとつのアプリで"
+        body: "大切な都市を検索して保存し、好きな順に並べ替えて、世界中の地点をチェックできます。各地点はそれぞれの現地タイムゾーンで表示され、Premiumではさらに多くの地点を追加できます。"
+
+ko:
+  showcase:
+    label: "실제로 사용해 보기"
+    title: "날것의 예보에서 여러분의 실제 하루를 위한 계획으로"
+    intro: "Solcast의 모든 화면은 날씨 데이터를 쉬운 말의 안내로 바꿔 줍니다. 어떤 날씨가 될지, 무엇을 입을지, 그리고 아끼는 사람과 반려동물을 어떻게 지킬지 알려 드립니다."
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "예보, 옷차림 추천, 라이프스타일 지수, 민감도 맞춤 알림을 소개하는 Solcast 환영 화면"
+        title: "날씨로 움직이는 생활 동반자"
+        body: "Solcast를 열면 바로 시작할 수 있습니다. 계정도, 광고도, 가입도 필요 없습니다. 실시간 7일 예보, 스마트한 옷차림 추천, 개인 맞춤 라이프스타일 지수, 민감도 맞춤 알림을 시작 화면에서 한 번의 탭으로 확인하세요."
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "도시 탭과 쉬운 말로 날씨 조언을 전하는 오늘의 브리핑이 있는 홈 대시보드"
+        title: "오늘을 한눈에, 쉬운 말로"
+        body: "일일 브리핑은 친절한 메모처럼 읽힙니다. 맑은 하늘과 그날의 기온, SPF를 바를 시점, 운동하기 가장 좋은 시간대, 대기질 팁, 얼마나 가볍게 입으면 될지까지 알려 주며, 바로 아래에는 현재 상황이 요약되어 있습니다."
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "기온, 바람, 강수, 대기 지표를 보여 주는 오늘 상세 화면"
+        title: "오늘의 모든 것을 자세히"
+        body: "탭하면 전체 그림이 펼쳐집니다. 평균, 최고, 최저, 체감 기온과 일교차는 물론 풍속과 돌풍, 강수량과 강수 확률, 습도, 기압, 일사량과 자외선 수치까지 스크롤 가능한 하나의 화면에서 확인할 수 있습니다."
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "옷차림, 쾌적도, 자외선, SPF, 선글라스, 스킨케어, 독감 위험, 알레르기, 대기 오염, 스포츠 등급을 보여 주는 라이프스타일 지수 화면"
+        title: "과학에 기반한 라이프스타일 지수"
+        body: "16가지 라이프스타일 지수가 데이터를 행동으로 바꿔 줍니다. 옷차림 쾌적도, 자외선, SPF, 선글라스, 스킨케어, 독감 위험, 알레르기, 대기 오염, 스포츠 등 각 지수는 색상으로 구분되며 짧고 실용적인 추천이 함께 제공됩니다."
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "온도 단위, 온도 민감도, 민감도 토글, 옷차림 스타일, 가구 옵션이 있는 설정 화면"
+        title: "여러분의 생활 방식에 맞춘 개인화"
+        body: "온도 단위와 더위를 타는지 추위를 타는지 설정하고, 햇빛, 눈, 알레르기, 편두통 민감도를 켜거나 끄세요. 옷차림 스타일과 가구 정보를 선택하면 모든 추천이 여러분에게 맞춰집니다."
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "검색 필드와 여러 국가에 걸친 저장된 도시의 순서 변경 가능한 목록이 있는 위치 화면"
+        title: "모든 장소를 하나의 앱에서"
+        body: "중요한 도시를 검색해 저장하고, 원하는 순서로 정렬하며, 전 세계 위치를 확인하세요. 각 장소는 해당 지역의 현지 시간대로 표시되며, Premium에서는 더 많은 장소를 추가할 수 있습니다."
+
+es:
+  showcase:
+    label: "Míralo en acción"
+    title: "Del pronóstico en bruto a un plan para tu día real"
+    intro: "Cada pantalla de Solcast convierte los datos del clima en orientación en lenguaje sencillo: qué esperar, qué ponerte y cómo proteger a las personas y mascotas que te importan."
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Pantalla de bienvenida de Solcast que describe el pronóstico, las sugerencias de atuendo, los índices de estilo de vida y las alertas según tu sensibilidad"
+        title: "Tu compañero de vida impulsado por el clima"
+        body: "Abre Solcast y empieza al instante — sin cuenta, sin anuncios, sin registro. Un pronóstico de 7 días en tiempo real, sugerencias de atuendo inteligentes, índices de estilo de vida personalizados y alertas según tu sensibilidad están a un toque desde la pantalla de inicio."
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "Panel de inicio con pestañas de ciudades y un Resumen de Hoy con consejos meteorológicos en lenguaje claro"
+        title: "Tu día de un vistazo, en lenguaje sencillo"
+        body: "Tu resumen diario se lee como una nota útil: cielos despejados y la temperatura del día, cuándo aplicar SPF, el mejor momento para entrenar, consejos sobre la calidad del aire y qué tan ligero vestirte — con las condiciones actuales resumidas justo debajo."
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "Pantalla Hoy en Detalle con métricas de temperatura, viento, precipitación y atmósfera"
+        title: "Hoy con todo detalle"
+        body: "Toca para ver el panorama completo — temperaturas media, máxima, mínima, sensación térmica y oscilación del día, además de velocidad del viento y ráfagas, precipitación y probabilidad, humedad, presión y lecturas solares y de UV en una sola vista desplazable."
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "Pantalla de Índices de Estilo de Vida con valoraciones de vestimenta, confort, UV, SPF, gafas de sol, cuidado de la piel, riesgo de gripe, alergia, contaminación del aire y deporte"
+        title: "Índices de estilo de vida respaldados por la ciencia"
+        body: "Dieciséis índices de estilo de vida convierten los datos en acciones — confort al vestir, UV, SPF, gafas de sol, cuidado de la piel, riesgo de gripe, alergia, contaminación del aire, deporte y más — cada uno con un código de colores y una recomendación breve y práctica."
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "Pantalla de ajustes con unidad de temperatura, tolerancia a la temperatura, interruptores de sensibilidad, estilo de vestir y opciones del hogar"
+        title: "Personalizado a cómo vives"
+        body: "Elige tu unidad de temperatura, indica si sueles tener calor o frío y activa las sensibilidades al sol, a los ojos, a las alergias y a las migrañas. Elige tu estilo de vestir y los detalles de tu hogar para que cada recomendación se adapte a ti."
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "Pantalla de ubicaciones con un campo de búsqueda y una lista reordenable de ciudades guardadas en varios países"
+        title: "Todos tus lugares, en una sola app"
+        body: "Busca y guarda las ciudades que te importan, reordénalas a tu gusto y sigue ubicaciones de todo el mundo. Cada una se muestra en su propia zona horaria local, con más lugares disponibles en Premium."
+
+fr:
+  showcase:
+    label: "Voyez-la en action"
+    title: "Des prévisions brutes à un plan pour votre vraie journée"
+    intro: "Chaque écran de Solcast transforme les données météo en conseils en langage simple : à quoi s'attendre, quoi porter et comment protéger les personnes et les animaux qui vous sont chers."
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Écran d'accueil de Solcast présentant les prévisions, les suggestions de tenue, les indices de style de vie et les alertes adaptées à vos sensibilités"
+        title: "Votre compagnon de vie guidé par la météo"
+        body: "Ouvrez Solcast et commencez tout de suite — sans compte, sans publicité, sans inscription. Des prévisions sur 7 jours en temps réel, des suggestions de tenue intelligentes, des indices de style de vie personnalisés et des alertes adaptées à vos sensibilités sont à portée d'un toucher depuis l'écran de démarrage."
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "Tableau de bord d'accueil avec des onglets de villes et un Briefing du Jour de conseils météo clairs"
+        title: "Votre journée en un coup d'œil, en langage simple"
+        body: "Votre briefing quotidien se lit comme un mot bienveillant : ciel dégagé et température du jour, le moment d'appliquer du SPF, le meilleur créneau pour une séance de sport, des conseils sur la qualité de l'air et à quel point vous habiller léger — avec les conditions actuelles résumées juste en dessous."
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "Écran Aujourd'hui en détail affichant la température, le vent, les précipitations et les mesures atmosphériques"
+        title: "Aujourd'hui dans le moindre détail"
+        body: "Touchez pour obtenir le tableau complet — températures moyenne, maximale, minimale, ressentie et amplitude de la journée, ainsi que la vitesse du vent et les rafales, les précipitations et leur probabilité, l'humidité, la pression, et les relevés solaires et UV dans une seule vue défilante."
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "Écran des indices de style de vie avec des évaluations pour l'habillement, le confort, les UV, le SPF, les lunettes de soleil, les soins de la peau, le risque de grippe, les allergies, la pollution de l'air et le sport"
+        title: "Des indices de style de vie fondés sur la science"
+        body: "Seize indices de style de vie traduisent les données en actions — confort vestimentaire, UV, SPF, lunettes de soleil, soins de la peau, risque de grippe, allergies, pollution de l'air, sport, et plus — chacun codé par couleur avec une recommandation courte et pratique."
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "Écran des réglages avec l'unité de température, la tolérance à la température, les options de sensibilité, le style vestimentaire et les options du foyer"
+        title: "Personnalisé selon votre mode de vie"
+        body: "Choisissez votre unité de température, indiquez si vous avez plutôt chaud ou froid, et activez les sensibilités au soleil, aux yeux, aux allergies et aux migraines. Choisissez votre style vestimentaire et les détails de votre foyer pour que chaque recommandation s'adapte à vous."
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "Écran des lieux avec un champ de recherche et une liste réorganisable de villes enregistrées dans plusieurs pays"
+        title: "Tous vos lieux, une seule app"
+        body: "Recherchez et enregistrez les villes qui comptent, réorganisez-les à votre guise et suivez des lieux du monde entier. Chacun s'affiche dans son propre fuseau horaire local, avec davantage de lieux débloqués en Premium."
+
+de:
+  showcase:
+    label: "Sieh es in Aktion"
+    title: "Von der rohen Vorhersage zum Plan für deinen echten Tag"
+    intro: "Jeder Bildschirm von Solcast verwandelt Wetterdaten in verständliche Empfehlungen: was dich erwartet, was du anziehen solltest und wie du die Menschen und Haustiere schützt, die dir am Herzen liegen."
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Solcast-Willkommensbildschirm mit Vorhersage, Outfit-Vorschlägen, Lifestyle-Indizes und empfindlichkeitsbasierten Hinweisen"
+        title: "Dein wettergestützter Begleiter für den Alltag"
+        body: "Öffne Solcast und leg sofort los — kein Konto, keine Werbung, keine Anmeldung. Eine 7-Tage-Vorhersage in Echtzeit, smarte Outfit-Vorschläge, personalisierte Lifestyle-Indizes und empfindlichkeitsbasierte Hinweise sind vom Startbildschirm aus nur einen Tipp entfernt."
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "Start-Dashboard mit Städte-Tabs und einem Briefing für heute mit Wettertipps in klarer Sprache"
+        title: "Der Tag auf einen Blick, in klaren Worten"
+        body: "Dein tägliches Briefing liest sich wie eine hilfreiche Notiz: klarer Himmel und die Temperatur des Tages, wann du LSF auftragen solltest, das beste Zeitfenster fürs Training, Tipps zur Luftqualität und wie leicht du dich anziehen kannst — mit den aktuellen Bedingungen direkt darunter zusammengefasst."
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "Bildschirm Heute im Detail mit Messwerten zu Temperatur, Wind, Niederschlag und Atmosphäre"
+        title: "Heute bis ins Detail"
+        body: "Tippe dich zum Gesamtbild durch — Durchschnitts-, Höchst-, Tiefst- und gefühlte Temperatur sowie die Tagesschwankung, dazu Windgeschwindigkeit und Böen, Niederschlag und Wahrscheinlichkeit, Luftfeuchtigkeit, Luftdruck sowie Sonnen- und UV-Werte in einer scrollbaren Ansicht."
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "Bildschirm Lifestyle-Indizes mit Bewertungen für Kleidung, Komfort, UV, LSF, Sonnenbrille, Hautpflege, Grippe-Risiko, Allergie, Luftverschmutzung und Sport"
+        title: "Wissenschaftlich fundierte Lifestyle-Indizes"
+        body: "Sechzehn Lifestyle-Indizes übersetzen die Daten in Handlungen — Kleidungskomfort, UV, LSF, Sonnenbrille, Hautpflege, Grippe-Risiko, Allergie, Luftverschmutzung, Sport und mehr — jeweils farbcodiert und mit einer kurzen, praktischen Empfehlung."
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "Einstellungsbildschirm mit Temperatureinheit, Temperaturempfinden, Empfindlichkeitsschaltern, Kleidungsstil und Haushaltsoptionen"
+        title: "Personalisiert auf deine Lebensweise"
+        body: "Lege deine Temperatureinheit fest, ob dir eher warm oder kalt ist, und schalte Sonnen-, Augen-, Allergie- und Migräneempfindlichkeit ein. Wähle deinen Kleidungsstil und Angaben zu deinem Haushalt, damit sich jede Empfehlung an dich anpasst."
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "Orte-Bildschirm mit einem Suchfeld und einer sortierbaren Liste gespeicherter Städte in mehreren Ländern"
+        title: "Alle deine Orte in einer App"
+        body: "Suche und speichere die Städte, die dir wichtig sind, sortiere sie nach Belieben und behalte Orte weltweit im Blick. Jeder wird in seiner eigenen lokalen Zeitzone angezeigt, mit weiteren Orten in Premium."
+
+it:
+  showcase:
+    label: "Guardala in azione"
+    title: "Dalla previsione grezza a un piano per la tua giornata reale"
+    intro: "Ogni schermata di Solcast trasforma i dati meteo in consigli in linguaggio semplice: cosa aspettarti, cosa indossare e come proteggere le persone e gli animali a cui tieni."
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Schermata di benvenuto di Solcast che descrive previsioni, consigli sull'outfit, indici sullo stile di vita e avvisi basati sulle sensibilità"
+        title: "Il tuo compagno di vita guidato dal meteo"
+        body: "Apri Solcast e inizia subito — niente account, niente pubblicità, nessuna registrazione. Previsioni a 7 giorni in tempo reale, consigli intelligenti sull'outfit, indici sullo stile di vita personalizzati e avvisi basati sulle tue sensibilità sono a un tocco dalla schermata iniziale."
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "Dashboard iniziale con schede delle città e un Briefing di Oggi con consigli meteo in linguaggio chiaro"
+        title: "La giornata a colpo d'occhio, in parole semplici"
+        body: "Il tuo briefing giornaliero si legge come un biglietto utile: cielo sereno e temperatura del giorno, quando applicare l'SPF, la finestra migliore per allenarti, consigli sulla qualità dell'aria e quanto vestirti leggero — con le condizioni attuali riassunte subito sotto."
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "Schermata Oggi nel dettaglio con dati su temperatura, vento, precipitazioni e atmosfera"
+        title: "Oggi in ogni dettaglio"
+        body: "Tocca per il quadro completo — temperature media, massima, minima, percepita ed escursione giornaliera, oltre a velocità del vento e raffiche, precipitazioni e probabilità, umidità, pressione e valori solari e UV in un'unica vista scorrevole."
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "Schermata Indici sullo stile di vita con valutazioni per abbigliamento, comfort, UV, SPF, occhiali da sole, cura della pelle, rischio influenza, allergia, inquinamento dell'aria e sport"
+        title: "Indici sullo stile di vita basati sulla scienza"
+        body: "Sedici indici sullo stile di vita traducono i dati in azioni — comfort dell'abbigliamento, UV, SPF, occhiali da sole, cura della pelle, rischio influenza, allergia, inquinamento dell'aria, sport e altro — ciascuno con un codice colore e un consiglio breve e pratico."
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "Schermata delle impostazioni con unità di temperatura, tolleranza alla temperatura, interruttori di sensibilità, stile di abbigliamento e opzioni per il nucleo familiare"
+        title: "Personalizzato in base a come vivi"
+        body: "Imposta l'unità di temperatura, indica se soffri più il caldo o il freddo e attiva le sensibilità a sole, occhi, allergie ed emicrania. Scegli il tuo stile di abbigliamento e i dettagli del tuo nucleo familiare, così ogni consiglio si adatta a te."
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "Schermata dei luoghi con un campo di ricerca e un elenco riordinabile di città salvate in diversi paesi"
+        title: "Tutti i tuoi luoghi, in un'unica app"
+        body: "Cerca e salva le città che contano, riordinale come preferisci e tieni d'occhio luoghi in tutto il mondo. Ognuno viene mostrato nel proprio fuso orario locale, con più luoghi sbloccati in Premium."
+
+pt:
+  showcase:
+    label: "Veja em ação"
+    title: "Da previsão bruta a um plano para o seu dia de verdade"
+    intro: "Cada tela do Solcast transforma dados do clima em orientações em linguagem simples: o que esperar, o que vestir e como proteger as pessoas e os pets de quem você cuida."
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Tela de boas-vindas do Solcast descrevendo previsão, sugestões de roupa, índices de estilo de vida e alertas conforme a sensibilidade"
+        title: "Seu companheiro de vida movido pelo clima"
+        body: "Abra o Solcast e comece na hora — sem conta, sem anúncios, sem cadastro. Previsão de 7 dias em tempo real, sugestões inteligentes de roupa, índices de estilo de vida personalizados e alertas conforme a sua sensibilidade estão a um toque da tela inicial."
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "Painel inicial com abas de cidades e um Resumo de Hoje com conselhos do clima em linguagem clara"
+        title: "O dia num relance, em linguagem simples"
+        body: "Seu resumo diário parece um bilhete prestativo: céu limpo e a temperatura do dia, quando aplicar FPS, a melhor janela para um treino, dicas de qualidade do ar e o quão leve se vestir — com as condições atuais resumidas logo abaixo."
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "Tela Hoje em Detalhes mostrando métricas de temperatura, vento, precipitação e atmosfera"
+        title: "Hoje em todos os detalhes"
+        body: "Toque para ver o quadro completo — temperaturas média, máxima, mínima, sensação térmica e variação do dia, além de velocidade do vento e rajadas, precipitação e probabilidade, umidade, pressão e leituras solares e de UV em uma única visualização rolável."
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "Tela de Índices de Estilo de Vida com avaliações de vestuário, conforto, UV, FPS, óculos de sol, cuidados com a pele, risco de gripe, alergia, poluição do ar e esportes"
+        title: "Índices de estilo de vida com base científica"
+        body: "Dezesseis índices de estilo de vida transformam os dados em ação — conforto ao se vestir, UV, FPS, óculos de sol, cuidados com a pele, risco de gripe, alergia, poluição do ar, esportes e mais — cada um com código de cores e uma recomendação curta e prática."
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "Tela de configurações com unidade de temperatura, tolerância à temperatura, opções de sensibilidade, estilo de vestir e opções da casa"
+        title: "Personalizado para o seu modo de vida"
+        body: "Defina sua unidade de temperatura, se você costuma sentir mais calor ou frio, e ative as sensibilidades ao sol, aos olhos, a alergias e a enxaquecas. Escolha seu estilo de vestir e os detalhes da sua casa para que cada recomendação se adapte a você."
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "Tela de locais com um campo de busca e uma lista reordenável de cidades salvas em vários países"
+        title: "Todos os seus lugares, em um só app"
+        body: "Busque e salve as cidades que importam, reordene-as do seu jeito e acompanhe locais no mundo todo. Cada um aparece no próprio fuso horário local, com mais lugares liberados no Premium."
+
+ru:
+  showcase:
+    label: "Посмотрите в действии"
+    title: "От сырого прогноза к плану на ваш настоящий день"
+    intro: "Каждый экран Solcast превращает погодные данные в понятные советы: чего ожидать, что надеть и как защитить людей и питомцев, о которых вы заботитесь."
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Приветственный экран Solcast с описанием прогноза, подбора одежды, индексов образа жизни и оповещений с учётом чувствительности"
+        title: "Ваш спутник по жизни, опирающийся на погоду"
+        body: "Откройте Solcast и начните сразу — без учётной записи, без рекламы, без регистрации. Прогноз на 7 дней в реальном времени, умный подбор одежды, персональные индексы образа жизни и оповещения с учётом чувствительности доступны в одно касание со стартового экрана."
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "Главная панель с вкладками городов и сводкой на сегодня с погодными советами простым языком"
+        title: "Весь день с первого взгляда, простыми словами"
+        body: "Ежедневная сводка читается как полезная записка: ясное небо и температура дня, когда наносить SPF, лучшее время для тренировки, советы по качеству воздуха и насколько легко одеться — а чуть ниже кратко показаны текущие условия."
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "Экран «Сегодня подробно» с показателями температуры, ветра, осадков и атмосферы"
+        title: "Сегодня во всех подробностях"
+        body: "Нажмите, чтобы увидеть полную картину — среднюю, максимальную, минимальную температуру, температуру по ощущениям и суточный перепад, а также скорость ветра и порывы, осадки и их вероятность, влажность, давление, солнечные и УФ-показатели в одном прокручиваемом окне."
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "Экран индексов образа жизни с оценками одежды, комфорта, УФ, SPF, солнцезащитных очков, ухода за кожей, риска гриппа, аллергии, загрязнения воздуха и спорта"
+        title: "Научно обоснованные индексы образа жизни"
+        body: "Шестнадцать индексов образа жизни превращают данные в действия — комфорт одежды, УФ, SPF, солнцезащитные очки, уход за кожей, риск гриппа, аллергия, загрязнение воздуха, спорт и другое — каждый с цветовой маркировкой и коротким практичным советом."
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "Экран настроек с единицами температуры, переносимостью температуры, переключателями чувствительности, стилем одежды и параметрами домохозяйства"
+        title: "Персонализировано под ваш образ жизни"
+        body: "Выберите единицы температуры, укажите, жарко вам обычно или холодно, и включите чувствительность к солнцу, глазам, аллергии и мигрени. Выберите стиль одежды и данные о домохозяйстве, чтобы каждая рекомендация подстраивалась под вас."
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "Экран мест с полем поиска и списком сохранённых городов из нескольких стран, порядок которых можно менять"
+        title: "Все ваши места в одном приложении"
+        body: "Находите и сохраняйте важные для вас города, расставляйте их в удобном порядке и следите за местами по всему миру. Каждое отображается в своём местном часовом поясе, а в Premium можно добавить больше мест."
+
+ar:
+  showcase:
+    label: "شاهده أثناء العمل"
+    title: "من التوقعات الخام إلى خطة ليومك الحقيقي"
+    intro: "تحوّل كل شاشة في Solcast بيانات الطقس إلى إرشادات بلغة واضحة: ما الذي تتوقعه، وماذا ترتدي، وكيف تحمي من تهتم بهم من أشخاص وحيوانات أليفة."
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "شاشة الترحيب في Solcast تصف التوقعات واقتراحات الملابس ومؤشرات نمط الحياة والتنبيهات المراعية للحساسية"
+        title: "رفيق حياتك المدعوم بالطقس"
+        body: "افتح Solcast وابدأ فورًا — بلا حساب، بلا إعلانات، بلا تسجيل. توقعات لمدة 7 أيام في الوقت الفعلي، واقتراحات ملابس ذكية، ومؤشرات نمط حياة مخصّصة، وتنبيهات مراعية للحساسية، كلها على بُعد نقرة واحدة من شاشة البداية."
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "لوحة التحكم الرئيسية مع علامات تبويب للمدن وموجز اليوم بنصائح طقس بلغة واضحة"
+        title: "يومك في لمحة، بلغة واضحة"
+        body: "يُقرأ موجزك اليومي كملاحظة مفيدة: سماء صافية ودرجة حرارة اليوم، ومتى تضع واقي الشمس SPF، وأفضل وقت لتمرين رياضي، ونصائح حول جودة الهواء، ومدى خفة ما ترتديه — مع ملخص للأحوال الحالية أسفله مباشرة."
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "شاشة تفاصيل اليوم تعرض مقاييس درجة الحرارة والرياح والهطول والغلاف الجوي"
+        title: "اليوم بكامل تفاصيله"
+        body: "انقر للاطلاع على الصورة الكاملة — درجات الحرارة المتوسطة والعظمى والصغرى والمحسوسة وتفاوت اليوم، إلى جانب سرعة الرياح والهبّات، والهطول واحتماله، والرطوبة، والضغط، وقراءات الإشعاع الشمسي والأشعة فوق البنفسجية في عرض واحد قابل للتمرير."
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "شاشة مؤشرات نمط الحياة مع تقييمات للباس والراحة والأشعة فوق البنفسجية وSPF والنظارات الشمسية والعناية بالبشرة وخطر الإنفلونزا والحساسية وتلوث الهواء والرياضة"
+        title: "مؤشرات نمط حياة مدعومة بالعلم"
+        body: "ستة عشر مؤشرًا لنمط الحياة تحوّل البيانات إلى أفعال — راحة اللباس، والأشعة فوق البنفسجية، وSPF، والنظارات الشمسية، والعناية بالبشرة، وخطر الإنفلونزا، والحساسية، وتلوث الهواء، والرياضة، والمزيد — كلٌّ منها مرمّز بالألوان مع توصية قصيرة وعملية."
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "شاشة الإعدادات مع وحدة درجة الحرارة وتحمّل الحرارة ومفاتيح الحساسية وأسلوب اللباس وخيارات الأسرة"
+        title: "مخصّص وفق أسلوب حياتك"
+        body: "اضبط وحدة درجة الحرارة، وحدّد ما إذا كنت تشعر بالحر أو البرد أكثر، وفعّل حساسية الشمس والعين والحساسية والصداع النصفي. اختر أسلوب لباسك وتفاصيل أسرتك لتتكيّف كل توصية معك."
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "شاشة المواقع مع حقل بحث وقائمة قابلة لإعادة الترتيب من المدن المحفوظة في عدة دول"
+        title: "كل أماكنك في تطبيق واحد"
+        body: "ابحث عن المدن المهمة لك واحفظها، وأعد ترتيبها كما تشاء، وتابع مواقع حول العالم. يُعرض كل منها بمنطقته الزمنية المحلية، مع إتاحة المزيد من الأماكن في Premium."
+
+hi:
+  showcase:
+    label: "इसे काम करते हुए देखें"
+    title: "कच्चे पूर्वानुमान से आपके असली दिन की योजना तक"
+    intro: "Solcast की हर स्क्रीन मौसम के डेटा को सरल भाषा के मार्गदर्शन में बदलती है: क्या उम्मीद करें, क्या पहनें, और जिन लोगों और पालतू जानवरों की आप परवाह करते हैं उन्हें कैसे सुरक्षित रखें।"
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Solcast की स्वागत स्क्रीन, जिसमें पूर्वानुमान, पोशाक सुझाव, जीवनशैली सूचकांक और संवेदनशीलता-आधारित अलर्ट का वर्णन है"
+        title: "मौसम से संचालित आपका जीवन साथी"
+        body: "Solcast खोलें और तुरंत शुरू करें — न खाता, न विज्ञापन, न साइन-अप। रीयल-टाइम 7-दिन का पूर्वानुमान, स्मार्ट पोशाक सुझाव, वैयक्तिकृत जीवनशैली सूचकांक और संवेदनशीलता-आधारित अलर्ट, सब कुछ शुरुआती स्क्रीन से बस एक टैप दूर है।"
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "शहर टैब और सरल भाषा में मौसम सलाह वाली आज की ब्रीफ़िंग के साथ होम डैशबोर्ड"
+        title: "आज का दिन एक नज़र में, सरल भाषा में"
+        body: "आपकी दैनिक ब्रीफ़िंग एक मददगार नोट की तरह पढ़ी जाती है: साफ़ आसमान और दिन का तापमान, SPF कब लगाएँ, कसरत के लिए सबसे अच्छा समय, वायु गुणवत्ता के सुझाव, और कितने हल्के कपड़े पहनें — ठीक नीचे वर्तमान स्थितियों के सारांश के साथ।"
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "आज का विस्तृत विवरण स्क्रीन, जिसमें तापमान, हवा, वर्षा और वायुमंडल के माप दिखते हैं"
+        title: "आज का पूरा विवरण"
+        body: "पूरी तस्वीर देखने के लिए टैप करें — औसत, अधिकतम, न्यूनतम, महसूस होने वाला तापमान और दिन का उतार-चढ़ाव, साथ ही हवा की गति और झोंके, वर्षा और उसकी संभावना, आर्द्रता, दबाव, और सौर व UV रीडिंग, सब एक स्क्रॉल करने योग्य दृश्य में।"
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "जीवनशैली सूचकांक स्क्रीन, जिसमें पहनावा, आराम, UV, SPF, धूप का चश्मा, त्वचा की देखभाल, फ्लू जोखिम, एलर्जी, वायु प्रदूषण और खेल की रेटिंग हैं"
+        title: "विज्ञान-आधारित जीवनशैली सूचकांक"
+        body: "सोलह जीवनशैली सूचकांक डेटा को कार्रवाई में बदलते हैं — पहनावे का आराम, UV, SPF, धूप का चश्मा, त्वचा की देखभाल, फ्लू जोखिम, एलर्जी, वायु प्रदूषण, खेल और अधिक — हर एक रंग-कोडित है और साथ में एक छोटी, व्यावहारिक सलाह है।"
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "सेटिंग्स स्क्रीन, जिसमें तापमान इकाई, तापमान सहनशीलता, संवेदनशीलता टॉगल, पहनावा शैली और घर से जुड़े विकल्प हैं"
+        title: "आप कैसे रहते हैं, उसके अनुरूप वैयक्तिकृत"
+        body: "अपनी तापमान इकाई चुनें, बताएँ कि आपको ज़्यादा गर्मी लगती है या ठंड, और सूर्य, आँख, एलर्जी और माइग्रेन संवेदनशीलता चालू करें। अपनी पहनावा शैली और घर का विवरण चुनें ताकि हर सलाह आपके अनुसार ढल जाए।"
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "स्थान स्क्रीन, जिसमें खोज फ़ील्ड और कई देशों के सहेजे गए शहरों की पुनर्व्यवस्थित की जा सकने वाली सूची है"
+        title: "आपकी सभी जगहें, एक ही ऐप में"
+        body: "अपने लिए मायने रखने वाले शहर खोजें और सहेजें, उन्हें अपनी पसंद से क्रम में लगाएँ, और दुनिया भर के स्थानों पर नज़र रखें। हर स्थान उसके अपने स्थानीय समय क्षेत्र में दिखाया जाता है, और Premium पर और भी स्थान अनलॉक होते हैं।"
+
+nl:
+  showcase:
+    label: "Zie het in actie"
+    title: "Van ruwe voorspelling naar een plan voor jouw echte dag"
+    intro: "Elk scherm van Solcast zet weerdata om in advies in gewone taal: wat je kunt verwachten, wat je aantrekt en hoe je de mensen en huisdieren beschermt die je dierbaar zijn."
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Welkomstscherm van Solcast dat de voorspelling, outfitsuggesties, lifestyle-indexen en gevoeligheidsbewuste meldingen beschrijft"
+        title: "Je levensmaatje, aangedreven door het weer"
+        body: "Open Solcast en begin meteen — geen account, geen advertenties, geen aanmelding. Een realtime 7-daagse voorspelling, slimme outfitsuggesties, gepersonaliseerde lifestyle-indexen en gevoeligheidsbewuste meldingen zijn allemaal één tik verwijderd vanaf het startscherm."
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "Startdashboard met stadstabbladen en een Briefing van Vandaag met weeradvies in heldere taal"
+        title: "Vandaag in één oogopslag, in gewone taal"
+        body: "Je dagelijkse briefing leest als een behulpzaam briefje: heldere luchten en de temperatuur van de dag, wanneer je SPF moet aanbrengen, het beste moment voor een training, tips over luchtkwaliteit en hoe licht je je kunt kleden — met de huidige omstandigheden er direct onder samengevat."
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "Scherm Vandaag in detail met waarden voor temperatuur, wind, neerslag en atmosfeer"
+        title: "Vandaag tot in detail"
+        body: "Tik door voor het volledige beeld — gemiddelde, hoogste, laagste en gevoelstemperatuur en het temperatuurverschil van de dag, plus windsnelheid en windstoten, neerslag en neerslagkans, luchtvochtigheid, luchtdruk en zonne- en UV-waarden in één scrollbare weergave."
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "Scherm Lifestyle-indexen met beoordelingen voor kleding, comfort, UV, SPF, zonnebril, huidverzorging, grieprisico, allergie, luchtvervuiling en sport"
+        title: "Wetenschappelijk onderbouwde lifestyle-indexen"
+        body: "Zestien lifestyle-indexen vertalen de data naar actie — kledingcomfort, UV, SPF, zonnebril, huidverzorging, grieprisico, allergie, luchtvervuiling, sport en meer — elk met een kleurcode en een kort, praktisch advies."
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "Instellingenscherm met temperatuureenheid, temperatuurgevoel, gevoeligheidsschakelaars, kledingstijl en huishoudopties"
+        title: "Gepersonaliseerd op hoe jij leeft"
+        body: "Stel je temperatuureenheid in, geef aan of je het snel warm of koud hebt en zet gevoeligheid voor zon, ogen, allergie en migraine aan. Kies je kledingstijl en gegevens over je huishouden zodat elk advies zich aan jou aanpast."
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "Locatiescherm met een zoekveld en een herschikbare lijst met opgeslagen steden in verschillende landen"
+        title: "Al je plekken in één app"
+        body: "Zoek en bewaar de steden die ertoe doen, zet ze in de volgorde die jij wilt en volg locaties wereldwijd. Elke plek wordt getoond in zijn eigen lokale tijdzone, met meer plekken ontgrendeld met Premium."
+
+tr:
+  showcase:
+    label: "Nasıl çalıştığını görün"
+    title: "Ham tahminden gerçek gününüz için bir plana"
+    intro: "Solcast'in her ekranı hava durumu verilerini sade dilli rehberliğe dönüştürür: ne beklemeniz gerektiği, ne giymeniz gerektiği ve önem verdiğiniz insanları ve evcil hayvanları nasıl koruyacağınız."
+    shots:
+      - image: /assets/screenshots/solcast/01-welcome.png
+        alt: "Tahmini, kıyafet önerilerini, yaşam tarzı indekslerini ve hassasiyete duyarlı uyarıları anlatan Solcast karşılama ekranı"
+        title: "Hava durumuyla güçlenen yaşam arkadaşınız"
+        body: "Solcast'i açın ve hemen başlayın — hesap yok, reklam yok, kayıt yok. Gerçek zamanlı 7 günlük tahmin, akıllı kıyafet önerileri, kişiselleştirilmiş yaşam tarzı indeksleri ve hassasiyete duyarlı uyarılar başlangıç ekranından tek dokunuş uzağınızda."
+      - image: /assets/screenshots/solcast/02-briefing.png
+        alt: "Şehir sekmeleri ve sade dilli hava durumu tavsiyeleri sunan Bugünün Brifingi ile ana kontrol paneli"
+        title: "Bugün bir bakışta, sade bir dille"
+        body: "Günlük brifinginiz yardımsever bir not gibi okunur: açık gökyüzü ve günün sıcaklığı, SPF'yi ne zaman sürmeniz gerektiği, egzersiz için en iyi zaman aralığı, hava kalitesi ipuçları ve ne kadar ince giyinmeniz gerektiği — hemen altında mevcut koşulların özetiyle birlikte."
+      - image: /assets/screenshots/solcast/03-detail.png
+        alt: "Sıcaklık, rüzgar, yağış ve atmosfer ölçümlerini gösteren Bugün Ayrıntılı ekranı"
+        title: "Bugün tüm ayrıntılarıyla"
+        body: "Tam resmi görmek için dokunun — ortalama, en yüksek, en düşük ve hissedilen sıcaklıklar ile günlük sıcaklık farkı; ayrıca rüzgar hızı ve hamleleri, yağış miktarı ve olasılığı, nem, basınç ve güneş ile UV değerleri, hepsi kaydırılabilir tek bir görünümde."
+      - image: /assets/screenshots/solcast/04-indices.png
+        alt: "Giyim, konfor, UV, SPF, güneş gözlüğü, cilt bakımı, grip riski, alerji, hava kirliliği ve spor derecelendirmelerini içeren Yaşam Tarzı İndeksleri ekranı"
+        title: "Bilime dayalı yaşam tarzı indeksleri"
+        body: "On altı yaşam tarzı indeksi verileri eyleme dönüştürür — giyim konforu, UV, SPF, güneş gözlüğü, cilt bakımı, grip riski, alerji, hava kirliliği, spor ve daha fazlası — her biri renk kodlu ve kısa, pratik bir öneriyle birlikte."
+      - image: /assets/screenshots/solcast/05-preferences.png
+        alt: "Sıcaklık birimi, sıcaklık toleransı, hassasiyet anahtarları, giyim tarzı ve hane seçeneklerini içeren ayarlar ekranı"
+        title: "Yaşam biçiminize göre kişiselleştirilmiş"
+        body: "Sıcaklık biriminizi, sıcağa mı soğuğa mı daha duyarlı olduğunuzu ayarlayın ve güneş, göz, alerji ve migren hassasiyetlerini açın. Giyim tarzınızı ve hane bilgilerinizi seçin; böylece her öneri size göre uyarlanır."
+      - image: /assets/screenshots/solcast/06-locations.png
+        alt: "Arama alanı ve birçok ülkedeki kayıtlı şehirlerin yeniden sıralanabilir listesini içeren konumlar ekranı"
+        title: "Tüm yerleriniz tek bir uygulamada"
+        body: "Önemli şehirleri arayıp kaydedin, istediğiniz gibi yeniden sıralayın ve dünyanın dört bir yanındaki konumları takip edin. Her biri kendi yerel saat diliminde gösterilir; Premium ile daha fazla yerin kilidi açılır."

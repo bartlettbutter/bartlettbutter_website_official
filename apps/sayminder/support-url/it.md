@@ -2,7 +2,7 @@
 layout: default
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "Assistenza"
+app_description: "Supporto"
 lang: it
 permalink: /sayminder/support/it/
 redirect_from:

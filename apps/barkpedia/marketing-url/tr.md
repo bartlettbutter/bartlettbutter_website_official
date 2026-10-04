@@ -2,7 +2,7 @@
 layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
-app_description: "Herhangi bir köpek ırkını anında tanımlayın. Ücretsiz, çevrimdışı ve gizli."
+app_description: "Herhangi bir köpek ırkını anında tanımlayın. Ücretsiz, gizli ve cihaz üzerinde."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: tr
 permalink: /barkpedia/tr/
@@ -12,13 +12,13 @@ redirect_from:
 
 # Her köpeğin bir hikayesi vardır. Onu anında keşfedin.
 
-Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve ardından ardındaki tüm hikayeyi açsın: mizaç, tarihçe, köken ve eğlenceli gerçekler. Yazma yok, arama yok, internet yok ve ücret yok.
+Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve ardından ardındaki tüm hikayeyi açsın: mizaç, tarihçe, köken ve eğlenceli gerçekler. Yazma yok, arama yok, ücret yok; üstelik ırk tanımlama çekim olmasa bile çalışır.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 ırk</span>
-  <span class="marketing-chip">Tamamen çevrimdışı çalışır</span>
+  <span class="marketing-chip">Cihaz üzerinde ırk tanımlama</span>
   <span class="marketing-chip">Sonsuza dek ücretsiz</span>
   <span class="marketing-chip">Hesap gerekmez</span>
 </div>
@@ -34,7 +34,7 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">gizli ve çevrimdışı; fotoğraflar ve veriler cihazınızda kalır</span>
+    <span class="marketing-stat-label">gizli; fotoğraflarınız ve kayıtlı taramalarınız cihazınızda kalır</span>
   </article>
 </div>
 
@@ -53,7 +53,7 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Köpek severler neden seçiyor</p>
     <h2 id="bp-why-title" class="marketing-section-title">Köpek dünyasına sakin ve eksiksiz bir cep rehberi.</h2>
-    <p class="marketing-section-intro">Barkpedia, parktaki meraklı bir anı gerçek bir yanıta dönüştürür ve ardından tarihçe, profil ve biraz eğlenceyle devam eder; hepsi bir kayıt ya da sinyal olmadan.</p>
+    <p class="marketing-section-intro">Barkpedia, parktaki meraklı bir anı gerçek bir yanıta dönüştürür ve ardından tarihçe, profil ve biraz eğlenceyle devam eder; hepsi kayıt olmadan; üstelik ırk tanımlama çekim olmasa bile çalışır.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -62,7 +62,7 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
       <ul class="marketing-list">
         <li>Zorlu durumlar için diğer olasılıkların sıralı bir listesi</li>
         <li>Her sonuç doğrudan tam bir ırk profiline bağlanır</li>
-        <li>Köpek nerede olursa olsun tamamen çevrimdışı çalışır</li>
+        <li>Cihazınızda çalıştığı için köpek nerede olursa olsun çevrimdışı çalışır</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -75,17 +75,17 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Çevrimdışı öğrenin ve oynayın</h3>
+      <h3>Öğrenin ve oynayın</h3>
       <p>Taradığınız her şeyi, gerçek köpek bilgisini geliştirmek için tasarlanmış iki modla bir oyuna dönüştürün.</p>
       <ul class="marketing-list">
         <li>Irk Yarışması: bir fotoğraftan ırkı tahmin edin</li>
         <li>Köpek Bilgi Yarışması: doğru-yanlış efsaneler ve gerçekler</li>
-        <li>Oynamak için asla internet gerekmez</li>
+        <li>Köpek Bilgi Yarışması her zaman çevrimdışı oynanır</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Varsayılan olarak gizli</h3>
-      <p>Hesap yok, analiz yok, reklam yok. Fotoğraflarınız cihazınızdan asla çıkmaz ve her şey bağlantı olmadan çalışır.</p>
+      <p>Hesap yok, analiz yok, reklam yok. Fotoğraflarınız cihazınızda analiz edilir ve asla yüklenmez.</p>
       <ul class="marketing-list">
         <li>Taramalar ve favoriler yerel olarak saklanır</li>
         <li>Kayıt olacak hiçbir şey ve ödenecek hiçbir şey yok</li>
@@ -120,7 +120,7 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
     </article>
     <article class="marketing-card">
       <h3>Oyna</h3>
-      <p>Fotoğrafları, gerçekleri ve efsaneleri harmanlayan iki çevrimdışı oyun moduyla bilginizi sınayın.</p>
+      <p>Fotoğrafları, gerçekleri ve efsaneleri harmanlayan iki oyun moduyla bilginizi sınayın.</p>
       <ul class="marketing-list">
         <li>Kazanılacak ödül unvanlarıyla Irk Yarışması</li>
         <li>Hızlı doğru-yanlış turları için Köpek Bilgi Yarışması</li>
@@ -194,8 +194,8 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Gizlilik duruşu</span>
-      <h3 class="marketing-price-summary">Sunucu yok. Bulut yok. İzleme yok.</h3>
-      <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Tanımlama, profiller ve oyunların tümü yerel olarak çalışır, böylece ürün vaadi arayüz kadar net olur.</p>
+      <h3 class="marketing-price-summary">Yükleme yok. Hesap yok. İzleme yok.</h3>
+      <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Irk tanımlama tamamen cihaz üzerinde yapılır; ırk profilleri ve test fotoğrafları ise hiçbir kişisel veri içermeden herkese açık köpek ırkı kaynaklarından yüklenir.</p>
       <p class="marketing-price-note">Aynı gizlilik öncelikli çerçeve genel bakış, destek ve politika sayfalarında da devam eder.</p>
     </article>
   </div>

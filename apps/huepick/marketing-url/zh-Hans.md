@@ -3,7 +3,7 @@ layout: app-huepick
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "从照片中提取调色板，用创意工具转换图像。免费、私密、无需账户。"
-app_store_url: "https://apps.apple.com/app/huepick"
+app_store_url: "https://apps.apple.com/us/app/huepick/id6770318535"
 lang: zh-Hans
 permalink: /huepick/zh-Hans/
 redirect_from:
@@ -40,7 +40,7 @@ redirect_from:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/huepick">
+    <a href="https://apps.apple.com/us/app/huepick/id6770318535">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>

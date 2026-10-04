@@ -2,7 +2,7 @@
 layout: default
 title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
-app_description: "Política de Privacidad"
+app_description: "Política de privacidad"
 lang: es
 permalink: /etfwise/privacy/es/
 redirect_from:

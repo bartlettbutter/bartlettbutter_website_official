@@ -21,7 +21,7 @@ Nekopedia gebruikt intelligentie op het apparaat om je foto te analyseren en het
 
 ### Heb ik een internetverbinding nodig?
 
-Rasherkenning en favorieten werken volledig offline, zonder internet. De rasdetails, de quiz en de kattenweetjes halen echter inhoud van internet en vereisen een verbinding.
+Rasherkenning, favorieten en de ingebouwde profielen van alle 48 rassen werken volledig offline, zonder internet. Rasfoto's en de Rassenquiz halen echter inhoud van internet en vereisen een verbinding. Kattenweetjes en de leuke weetjes bij elk ras gebruiken in het Engels live inhoud (verbinding vereist) en in alle andere talen ingebouwde inhoud die offline werkt.
 
 ### Is Nekopedia gratis?
 
@@ -59,7 +59,7 @@ Met het tabblad Verkennen kun je alle 48 rassen op naam zoeken of een interactie
 
 ### Hoe werken de Quiz- en Weetjes-spellen?
 
-Beide spellen vereisen een internetverbinding. De Rassenquiz toont je een kattenfoto en vraagt je het juiste ras uit vier keuzes te kiezen, met 10 vragen per ronde. Kattenweetjes presenteert waar-of-onwaar-stellingen over katten, ook 10 vragen per ronde. Beide spellen kennen een beloningstitel toe op basis van je score.
+De Rassenquiz vereist een internetverbinding; Kattenweetjes alleen wanneer de app op Engels staat. De Rassenquiz toont je een kattenfoto en vraagt je het juiste ras uit vier keuzes te kiezen, met 10 vragen per ronde. Kattenweetjes presenteert waar-of-onwaar-stellingen over katten, ook 10 vragen per ronde. Beide spellen kennen een beloningstitel toe op basis van je score.
 
 ### Werkt Nekopedia op de iPad?
 

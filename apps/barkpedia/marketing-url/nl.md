@@ -2,7 +2,7 @@
 layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
-app_description: "Herken elk hondenras direct. Gratis, offline en privé."
+app_description: "Herken elk hondenras direct. Gratis, privé en op je apparaat."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: nl
 permalink: /barkpedia/nl/
@@ -12,13 +12,13 @@ redirect_from:
 
 # Elke hond heeft een verhaal. Ontdek het direct.
 
-Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daarna het hele verhaal erachter — temperament, geschiedenis, oorsprong en leuke weetjes. Geen typen, geen zoeken, geen internet en geen kosten.
+Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daarna het hele verhaal erachter — temperament, geschiedenis, oorsprong en leuke weetjes. Geen typen, geen zoeken en geen kosten — en rasherkenning werkt zelfs zonder bereik.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 rassen</span>
-  <span class="marketing-chip">Werkt volledig offline</span>
+  <span class="marketing-chip">Rasherkenning op je apparaat</span>
   <span class="marketing-chip">Voor altijd gratis</span>
   <span class="marketing-chip">Geen account nodig</span>
 </div>
@@ -34,7 +34,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privé en offline, waarbij foto's en gegevens op je apparaat blijven</span>
+    <span class="marketing-stat-label">privé, waarbij je foto's en opgeslagen scans op je apparaat blijven</span>
   </article>
 </div>
 
@@ -53,7 +53,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Waarom hondenliefhebbers ervoor kiezen</p>
     <h2 id="bp-why-title" class="marketing-section-title">Een rustige, complete zakgids voor de hondenwereld.</h2>
-    <p class="marketing-section-intro">Barkpedia verandert een nieuwsgierig moment in het park in een echt antwoord, en gaat dan verder met de geschiedenis, het profiel en een beetje plezier — allemaal zonder aanmelding of signaal.</p>
+    <p class="marketing-section-intro">Barkpedia verandert een nieuwsgierig moment in het park in een echt antwoord, en gaat dan verder met de geschiedenis, het profiel en een beetje plezier — allemaal zonder aanmelding, en rasherkenning werkt zelfs zonder bereik.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -62,7 +62,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
       <ul class="marketing-list">
         <li>Een gerangschikte lijst met andere mogelijkheden voor twijfelgevallen</li>
         <li>Elk resultaat linkt direct naar een volledig rasprofiel</li>
-        <li>Werkt volledig offline, waar de hond ook is</li>
+        <li>Draait op je apparaat, dus werkt offline waar de hond ook is</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -75,17 +75,17 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Leer en speel offline</h3>
+      <h3>Leer en speel</h3>
       <p>Verander alles wat je hebt gescand in een spel met twee modi die je echte hondenkennis laten groeien.</p>
       <ul class="marketing-list">
         <li>Rassenquiz: raad het ras aan de hand van een foto</li>
         <li>Hondenweetjes: waar-of-onwaar mythes en feiten</li>
-        <li>Nooit internet nodig om te spelen</li>
+        <li>Hondenweetjes speel je altijd offline</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Standaard privé</h3>
-      <p>Geen accounts, geen analyse, geen advertenties. Je foto's verlaten nooit je apparaat en alles werkt zonder verbinding.</p>
+      <p>Geen accounts, geen analyse, geen advertenties. Je foto's worden op je apparaat geanalyseerd en nooit geüpload.</p>
       <ul class="marketing-list">
         <li>Scans en favorieten blijven lokaal opgeslagen</li>
         <li>Niets om je voor aan te melden en niets om te betalen</li>
@@ -120,7 +120,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
     </article>
     <article class="marketing-card">
       <h3>Spelen</h3>
-      <p>Test je kennis met twee offline spelmodi die foto's, feiten en mythes combineren.</p>
+      <p>Test je kennis met twee spelmodi die foto's, feiten en mythes combineren.</p>
       <ul class="marketing-list">
         <li>Rassenquiz met beloningstitels om te verdienen</li>
         <li>Hondenweetjes voor snelle waar-of-onwaar rondes</li>
@@ -194,8 +194,8 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacyhouding</span>
-      <h3 class="marketing-price-summary">Geen servers. Geen cloud. Geen tracking.</h3>
-      <p>Je foto's verlaten nooit je apparaat. Herkenning, profielen en spellen draaien allemaal lokaal, zodat de productbelofte net zo duidelijk is als de interface.</p>
+      <h3 class="marketing-price-summary">Geen uploads. Geen accounts. Geen tracking.</h3>
+      <p>Je foto's verlaten nooit je apparaat. Rasherkenning gebeurt volledig op je apparaat, terwijl rasprofielen en quizfoto's worden geladen uit openbare bronnen over hondenrassen, zonder persoonsgegevens.</p>
       <p class="marketing-price-note">Diezelfde privacy-first insteek loopt door op de overzichts-, ondersteunings- en beleidspagina's.</p>
     </article>
   </div>

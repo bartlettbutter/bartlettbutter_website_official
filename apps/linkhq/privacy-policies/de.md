@@ -2,7 +2,7 @@
 layout: default
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
-app_description: "Datenschutzerklärung"
+app_description: "Datenschutzrichtlinie"
 lang: de
 permalink: /linkhq/privacy/de/
 redirect_from:

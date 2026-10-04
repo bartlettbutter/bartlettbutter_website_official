@@ -16,7 +16,8 @@ layout: default
   `<!--showcase-->` markers into the markdown — this layout already injects them
   at those markers, matching the other apps.
 {%- endcomment -%}
-{%- assign m_data = site.data.apps.linkhq[page.lang | default: "en"] | default: site.data.apps.linkhq.en -%}
+{%- assign m_lang = page.lang | default: "en" -%}
+{%- assign m_data = site.data.apps.linkhq[m_lang] | default: site.data.apps.linkhq.en -%}
 {%- comment -%} The hero gallery is language-independent (images only), so it is
   defined once under `en`. Fall back to it for languages that don't override it,
   the same way the whole entry falls back to `en`. {%- endcomment -%}

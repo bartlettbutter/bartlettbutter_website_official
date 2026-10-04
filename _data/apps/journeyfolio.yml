@@ -15,14 +15,14 @@ en:
     # copy. `alt` is a generic, per-screen accessible description.
     alt: "Journeyfolio app screen"
     shots:
-      - /assets/screenshots/journeyfolio/hero/01.png
-      - /assets/screenshots/journeyfolio/hero/02.png
-      - /assets/screenshots/journeyfolio/hero/03.png
-      - /assets/screenshots/journeyfolio/hero/04.png
-      - /assets/screenshots/journeyfolio/hero/05.png
-      - /assets/screenshots/journeyfolio/hero/06.png
-      - /assets/screenshots/journeyfolio/hero/07.png
-      - /assets/screenshots/journeyfolio/hero/08.png
+      - /assets/screenshots/journeyfolio/01-welcome.png
+      - /assets/screenshots/journeyfolio/02-glance.png
+      - /assets/screenshots/journeyfolio/03-daily.png
+      - /assets/screenshots/journeyfolio/04-multicity.png
+      - /assets/screenshots/journeyfolio/05-itinerary.png
+      - /assets/screenshots/journeyfolio/06-navigation.png
+      - /assets/screenshots/journeyfolio/07-timelines.png
+      - /assets/screenshots/journeyfolio/08-flights.png
   showcase:
     label: "A closer look"
     title: "Your whole trip, beautifully in order"

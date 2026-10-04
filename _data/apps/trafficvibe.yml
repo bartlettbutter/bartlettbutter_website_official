@@ -69,3 +69,605 @@ en:
         alt: "Settings screen with a notifications toggle and imperial or metric unit and 12- or 24-hour time options"
         title: "Settings that fit you"
         body: "Turn notifications on or off, and switch between imperial and metric units and 12- or 24-hour time so every number reads the way you expect."
+
+zh-Hans:
+  showcase:
+    label: "实际体验"
+    title: "从今早的简报，到路线上的每一个信号"
+    intro: "TrafficVibe 的每个屏幕都能迅速回答一个通勤问题：现在该出发吗？是什么在拖慢你？什么时候出发最顺畅？"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "TrafficVibe 欢迎屏幕，突出更清晰的路况概览、更顺畅的出发时段和实用提醒"
+        title: "出发之前，路况一清二楚"
+        body: "打开 TrafficVibe，一次点按即可开始。它承诺三件事：更清晰的路况概览、按小时提示最顺畅的出发时段，以及只在变化真正重要时才送达的提醒。"
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "今日简报屏幕，含城市标签，并以平实语言说明交通停滞、车道封闭、高峰时段和油价"
+        title: "一打开就是今日简报"
+        body: "用平静、平实的语言解读你的通勤，最重要的问题排在最前——交通停滞及预计何时疏通、车道封闭与绕行、高峰时段展望、街道车速，以及今天是否适合加油。"
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "今日详情卡片，显示日期、周数和年内天数、油价、限速，以及交通指数网格"
+        title: "今日详情，附交通指数"
+        body: "查看日期、周数和年内第几天，以及当地油价和限速，再浏览一格格按颜色标示的交通指数——道路提醒、绕行、加油时机、铁路道口、收费、测速摄像头、高峰时段、拥堵、天气、结冰等等。"
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "油价卡片，列出近期每周油价及逐周涨跌"
+        title: "掌握油价走势"
+        body: "列出你所在地区近期的每周油价，以当地货币和单位显示，并标出每周的涨跌，帮你判断是现在加油还是再等几天。"
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "带交通图层的城市地图，下方是按类型和严重程度分组的道路提醒列表"
+        title: "地图与道路提醒一屏呈现"
+        body: "实时地图显示问题出在哪里，下方的道路提醒列表则逐一细分——拥堵、封闭和事故按类型分组，每条都标明严重程度和预计持续时间。"
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "拥堵列表，对比主要高速公路和街道的实时车速与限速"
+        title: "主要道路的实时车速"
+        body: "对比附近每条主要高速公路和街道的实时车速与标示限速。每条道路都有清晰的状态条，哪里变慢一眼就能看出。"
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "收费道路卡片，列出区域内的收费道路和桥梁，下方是详细的交通指数卡片"
+        title: "收费道路与完整指数详情"
+        body: "查看你所在城市附近已标注的收费道路和桥梁，再深入了解每项交通指数，每项都附有简短说明，告诉你它对今天的行车意味着什么。"
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "城市屏幕，含搜索栏、可重新排序的已保存城市列表和“使用当前位置”按钮"
+        title: "所有城市，尽在一个 App"
+        body: "搜索城市或地址，保存你通勤或常去的地方，调整顺序、选出最爱，或者直接使用当前位置。"
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "设置屏幕，含通知开关，以及英制或公制单位、12 或 24 小时制选项"
+        title: "合你心意的设置"
+        body: "开启或关闭通知，并在英制与公制单位、12 小时与 24 小时制之间切换，让每个数字都以你习惯的方式呈现。"
+
+zh-Hant:
+  showcase:
+    label: "實際體驗"
+    title: "從今早的簡報，到路線上的每一個訊號"
+    intro: "TrafficVibe 的每個畫面都能迅速回答一個通勤問題：現在該出發嗎？是什麼在拖慢你？什麼時候出發最順暢？"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "TrafficVibe 歡迎畫面，突顯更清晰的路況概覽、更順暢的出發時段和實用提醒"
+        title: "出發之前，路況一清二楚"
+        body: "開啟 TrafficVibe，一次點按即可開始。它承諾三件事：更清晰的路況概覽、按小時提示最順暢的出發時段，以及只在變化真正重要時才送達的提醒。"
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "今日簡報畫面，含城市標籤，並以淺白語言說明交通停滯、車道封閉、尖峰時段和油價"
+        title: "一開啟就是今日簡報"
+        body: "用平靜、淺白的語言解讀你的通勤，最重要的問題排在最前——交通停滯及預計何時疏通、車道封閉與改道、尖峰時段展望、街道車速，以及今天是否適合加油。"
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "今日詳情卡片，顯示日期、週數和年內天數、油價、速限，以及交通指數網格"
+        title: "今日詳情，附交通指數"
+        body: "查看日期、週數和年內第幾天，以及當地油價和速限，再瀏覽一格格以顏色標示的交通指數——道路提醒、改道、加油時機、鐵路平交道、收費、測速照相、尖峰時段、壅塞、天氣、結冰等等。"
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "油價卡片，列出近期每週油價及逐週漲跌"
+        title: "掌握油價走勢"
+        body: "列出你所在地區近期的每週油價，以當地貨幣和單位顯示，並標出每週的漲跌，幫你判斷是現在加油還是再等幾天。"
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "帶有交通圖層的城市地圖，下方是按類型和嚴重程度分組的道路提醒列表"
+        title: "地圖與道路提醒一屏呈現"
+        body: "即時地圖顯示問題出在哪裡，下方的道路提醒列表則逐一細分——壅塞、封閉和事故按類型分組，每則都標明嚴重程度和預計持續時間。"
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "壅塞列表，比較主要高速公路和街道的即時車速與速限"
+        title: "主要道路的即時車速"
+        body: "比較附近每條主要高速公路和街道的即時車速與標示速限。每條道路都有清楚的狀態列，哪裡變慢一眼就能看出。"
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "收費道路卡片，列出區域內的收費道路和橋梁，下方是詳細的交通指數卡片"
+        title: "收費道路與完整指數詳情"
+        body: "查看你所在城市附近已標註的收費道路和橋梁，再深入了解每項交通指數，每項都附有簡短說明，告訴你它對今天的行車意味著什麼。"
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "城市畫面，含搜尋欄、可重新排序的已儲存城市列表和「使用目前位置」按鈕"
+        title: "所有城市，盡在一個 App"
+        body: "搜尋城市或地址，儲存你通勤或常去的地方，調整順序、選出最愛，或者直接使用目前位置。"
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "設定畫面，含通知開關，以及英制或公制單位、12 或 24 小時制選項"
+        title: "合你心意的設定"
+        body: "開啟或關閉通知，並在英制與公制單位、12 小時與 24 小時制之間切換，讓每個數字都以你習慣的方式呈現。"
+
+ja:
+  showcase:
+    label: "実際の動作を見る"
+    title: "今朝のブリーフィングから、ルート上のあらゆるサインまで"
+    intro: "TrafficVibe のどの画面も、通勤のひとつの疑問にすばやく答えます。今出るべきか、何が遅れの原因か、いつ出発するのがいちばんスムーズか。"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "より分かりやすい交通状況、スムーズな出発時間帯、役立つアラートを紹介する TrafficVibe のウェルカム画面"
+        title: "出かける前に、交通状況をすっきり把握"
+        body: "TrafficVibe を開いたら、ワンタップで始められます。約束するのは三つ。より分かりやすい交通状況、いちばんスムーズに出発できる時間帯を知らせる1時間ごとのガイド、そして本当に重要な変化があったときだけ届くアラートです。"
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "都市タブと、渋滞による停止、車線規制、ラッシュアワー、ガソリン価格を分かりやすい言葉で伝える「今日のブリーフィング」画面"
+        title: "開けば今日のブリーフィング"
+        body: "通勤の状況を落ち着いた分かりやすい言葉で伝え、いちばん重要な問題を最初に示します。停止している渋滞とその解消見込み、車線規制と迂回路、ラッシュアワーの見通し、一般道の速度、そして今日が給油に向いた日かどうかまで。"
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "日付、週番号と年間通算日、ガソリン価格、制限速度、交通指数のグリッドを表示した「今日の詳細」カード"
+        title: "今日の詳細と交通指数"
+        body: "日付や週番号、年間通算日に加えて、地域のガソリン価格や制限速度を確認。さらに色分けされた交通指数のグリッドをひと目でチェックできます。道路アラート、迂回路、給油のタイミング、踏切、有料道路、速度取締カメラ、ラッシュアワー、渋滞、天気、路面凍結など。"
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "最近の週ごとの燃料価格と前週比の変化を一覧にしたガソリン価格カード"
+        title: "ガソリン価格の推移をチェック"
+        body: "お住まいの地域の最近の週ごとの燃料価格を、現地の通貨と単位で表示。週ごとの上昇・下落も示されるので、今給油すべきか数日待つべきかが分かります。"
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "交通情報を重ねた都市マップと、その下に種類と深刻度ごとにまとめた道路アラートの一覧"
+        title: "マップと道路アラートをひとつに"
+        body: "ライブマップで問題の場所が分かり、その下の道路アラート一覧で詳しく確認できます。渋滞、通行止め、事故が種類ごとにまとめられ、それぞれに深刻度と見込まれる継続時間が表示されます。"
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "主要な高速道路や一般道のリアルタイム速度と制限速度を比較した渋滞リスト"
+        title: "主要道路のリアルタイム速度"
+        body: "近くの主要な高速道路や一般道ごとに、リアルタイムの速度と法定の制限速度を比較。各道路に分かりやすいステータスバーが付くので、速度低下がひと目で分かります。"
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "地域の有料道路と橋を一覧にした有料道路カードと、その下の詳しい交通指数カード"
+        title: "有料道路と、指数のすべての詳細"
+        body: "お住まいの都市の周辺にある有料道路や橋を確認し、さらに各交通指数を掘り下げられます。それぞれに、今日の運転にとって何を意味するのかを短く説明しています。"
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "検索フィールド、並べ替え可能な保存済み都市の一覧、「現在地を使用」ボタンのある都市画面"
+        title: "すべての都市を、ひとつのアプリで"
+        body: "都市や住所を検索して、通勤先やよく訪れる場所を保存。並べ替えたり、お気に入りを選んだり、現在地をそのまま使ったりできます。"
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "通知のオン/オフ切り替えと、ヤード・ポンド法またはメートル法の単位、12時間制または24時間制の時刻オプションがある設定画面"
+        title: "あなたに合わせた設定"
+        body: "通知のオン/オフを切り替えたり、ヤード・ポンド法とメートル法、12時間制と24時間制を切り替えたりして、すべての数字を思いどおりの形で表示できます。"
+
+ko:
+  showcase:
+    label: "실제로 사용해 보기"
+    title: "오늘 아침 브리핑부터 경로 위의 모든 신호까지"
+    intro: "TrafficVibe의 모든 화면은 출근길의 질문 하나에 빠르게 답합니다. 지금 나서야 할까, 무엇이 나를 늦추고 있을까, 언제 출발해야 가장 수월할까?"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "더 명확한 교통 현황, 더 수월한 출발 시간대, 유용한 알림을 강조하는 TrafficVibe 환영 화면"
+        title: "출발 전에 교통 상황을 한눈에"
+        body: "TrafficVibe를 열고 한 번만 탭하면 시작됩니다. 약속하는 것은 세 가지입니다. 더 명확한 교통 현황, 가장 수월한 출발 시간대를 알려주는 시간대별 안내, 그리고 정말 중요한 변화가 있을 때만 오는 알림입니다."
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "도시 탭과 함께 정체, 차로 통제, 출퇴근 혼잡 시간, 유가를 쉬운 말로 알려주는 오늘의 브리핑 화면"
+        title: "열면 바로 오늘의 브리핑"
+        body: "출근길 상황을 차분하고 쉬운 말로 알려주며, 가장 중요한 문제를 먼저 보여줍니다. 멈춰 선 정체와 해소 예상 시점, 차로 통제와 우회로, 출퇴근 혼잡 시간 전망, 도로별 속도, 그리고 오늘 주유하기 좋은 날인지까지."
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "날짜, 주차와 연중 일수, 유가, 제한 속도, 교통 지수 그리드가 있는 오늘의 상세 카드"
+        title: "오늘의 상세 정보와 교통 지수"
+        body: "날짜, 주차, 연중 일수와 함께 지역 유가와 제한 속도를 확인하고, 색상으로 구분된 교통 지수 그리드를 훑어보세요. 도로 알림, 우회로, 주유 타이밍, 철도 건널목, 통행료, 과속 단속 카메라, 출퇴근 혼잡, 정체, 날씨, 결빙 등을 담았습니다."
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "최근 주간 연료 가격과 전주 대비 변화를 보여주는 유가 카드"
+        title: "유가 추이 확인"
+        body: "내 지역의 최근 주간 연료 가격을 현지 통화와 단위로 보여주고 주마다 오름과 내림을 표시해, 지금 주유할지 며칠 기다릴지 판단할 수 있습니다."
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "교통 정보가 겹쳐진 도시 지도와 그 아래 유형 및 심각도별로 묶인 도로 알림 목록"
+        title: "지도와 도로 알림을 함께"
+        body: "실시간 지도로 문제가 어디에 있는지 보여주고, 아래의 도로 알림 목록에서 자세히 살펴볼 수 있습니다. 정체, 통제, 사고가 유형별로 묶여 있고, 각각 심각도와 예상 지속 시간이 표시됩니다."
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "주요 고속도로와 도로의 실시간 속도를 제한 속도와 비교하는 정체 목록"
+        title: "주요 도로의 실시간 속도"
+        body: "주변의 모든 주요 고속도로와 도로에서 실시간 속도를 표시된 제한 속도와 비교하세요. 도로마다 명확한 상태 막대가 있어 속도 저하가 한눈에 드러납니다."
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "지역 유료 도로와 교량 목록이 있는 유료 도로 카드와 그 아래의 상세 교통 지수 카드"
+        title: "유료 도로와 지수별 상세 정보"
+        body: "내 도시 주변에 표시된 유료 도로와 교량을 확인한 뒤, 각 교통 지수를 자세히 살펴보세요. 오늘 운전에 어떤 의미인지 짧은 설명이 함께 제공됩니다."
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "검색 필드, 순서를 바꿀 수 있는 저장된 도시 목록, 현재 위치 사용 버튼이 있는 도시 화면"
+        title: "모든 도시를 하나의 앱에서"
+        body: "도시나 주소를 검색하고, 출퇴근하거나 방문하는 곳을 저장하세요. 순서를 바꾸고, 즐겨찾기를 고르거나, 그냥 현재 위치를 사용할 수도 있습니다."
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "알림 토글과 야드파운드법 또는 미터법 단위, 12시간제 또는 24시간제 옵션이 있는 설정 화면"
+        title: "나에게 맞춘 설정"
+        body: "알림을 켜거나 끄고, 야드파운드법과 미터법, 12시간제와 24시간제를 전환해 모든 숫자가 익숙한 방식으로 보이도록 하세요."
+
+es:
+  showcase:
+    label: "Míralo en acción"
+    title: "Del resumen de esta mañana a cada señal de tu ruta"
+    intro: "Cada pantalla de TrafficVibe responde rápido a una pregunta de quien se desplaza: ¿salgo ya, qué me está frenando y cuándo es el momento más fluido para irme?"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "Pantalla de bienvenida de TrafficVibe que destaca una visión más clara del tráfico, la franja de salida más fluida y alertas útiles"
+        title: "El tráfico, claro antes de salir"
+        body: "Abre TrafficVibe y empieza con un solo toque. Te promete tres cosas: una visión más clara del tráfico, una guía hora a hora sobre la franja más fluida para salir y alertas que solo llegan cuando el cambio realmente importa."
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "Pantalla del resumen de hoy con pestañas de ciudades y notas en lenguaje sencillo sobre tráfico detenido, cierres de carriles, hora punta y precios del combustible"
+        title: "Abre directamente el resumen de hoy"
+        body: "Una lectura serena y en lenguaje sencillo de tu trayecto, con lo más importante primero: tráfico detenido y cuándo debería despejarse, cierres de carriles y desvíos, previsión de la hora punta, velocidades en las calles y si hoy es buen día para repostar."
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "Tarjeta Hoy en detalle con la fecha, la semana y el día del año, el precio del combustible, los límites de velocidad y una cuadrícula de índices de tráfico"
+        title: "Hoy en detalle, con índices de tráfico"
+        body: "Consulta la fecha, la semana y el día del año junto con los precios locales del combustible y los límites de velocidad, y repasa una cuadrícula de índices de tráfico con código de colores: alertas viales, desvíos, momento para repostar, pasos a nivel, peajes, radares, hora punta, congestión, clima, hielo y más."
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "Tarjeta de precios del combustible con los precios semanales recientes y su variación respecto a la semana anterior"
+        title: "Sigue la tendencia del precio del combustible"
+        body: "Una serie de precios semanales recientes del combustible en tu zona, en tu moneda y unidad locales y con cada semana marcada al alza o a la baja, para que sepas si te conviene repostar ya o esperar unos días."
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "Mapa de la ciudad con capas de tráfico sobre una lista de alertas viales agrupadas por tipo y gravedad"
+        title: "Mapa y alertas viales juntos"
+        body: "Un mapa en vivo muestra dónde está el problema, y la lista de alertas viales de debajo lo desglosa: atascos, cierres e incidentes agrupados por tipo, cada uno con su gravedad y cuánto se espera que dure."
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "Lista de congestión que compara las velocidades en vivo con los límites de velocidad en las principales autopistas y calles"
+        title: "Velocidades en vivo en las vías principales"
+        body: "Compara las velocidades en vivo con el límite señalizado en cada autopista y calle principal cercana. Cada vía tiene una barra de estado clara, así que cualquier ralentización salta a la vista."
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "Tarjeta de vías de peaje con las carreteras y puentes de peaje de la región sobre tarjetas detalladas de índices de tráfico"
+        title: "Peajes y todos los detalles de los índices"
+        body: "Revisa las carreteras y puentes de peaje registrados cerca de tu ciudad y luego profundiza en cada índice de tráfico, con una breve explicación de lo que significa para tu viaje de hoy."
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "Pantalla de ciudades con un campo de búsqueda, una lista reordenable de ciudades guardadas y un botón para usar la ubicación actual"
+        title: "Todas tus ciudades, en una sola app"
+        body: "Busca una ciudad o dirección, guarda los lugares a los que vas a diario o que visitas, reordénalos, elige un favorito o simplemente usa tu ubicación actual."
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "Pantalla de ajustes con un interruptor de notificaciones y opciones de unidades imperiales o métricas y formato de 12 o 24 horas"
+        title: "Ajustes a tu medida"
+        body: "Activa o desactiva las notificaciones y cambia entre unidades imperiales y métricas y entre el formato de 12 y 24 horas para que cada cifra se lea como esperas."
+
+fr:
+  showcase:
+    label: "Voyez-le en action"
+    title: "Du point de ce matin à chaque signal sur votre itinéraire"
+    intro: "Chaque écran de TrafficVibe répond vite à une question de trajet : faut-il partir maintenant, qu'est-ce qui vous ralentit et quel est le meilleur moment pour partir sans encombre ?"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "Écran d'accueil de TrafficVibe mettant en avant un aperçu plus clair du trafic, le créneau de départ le plus fluide et des alertes utiles"
+        title: "Le trafic, clair avant de partir"
+        body: "Ouvrez TrafficVibe et lancez-vous d'un seul toucher. L'app vous promet trois choses : un aperçu plus clair du trafic, des conseils heure par heure sur le créneau le plus fluide pour partir et des alertes qui n'arrivent que lorsque le changement compte vraiment."
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "Écran du point du jour avec des onglets de villes et des notes en langage clair sur le trafic à l'arrêt, les fermetures de voies, l'heure de pointe et les prix du carburant"
+        title: "Le point du jour, dès l'ouverture"
+        body: "Une lecture sereine et en langage clair de votre trajet, avec le problème le plus important en premier : trafic à l'arrêt et moment où il devrait se dégager, fermetures de voies et déviations, perspectives de l'heure de pointe, vitesses en ville et s'il est opportun de faire le plein aujourd'hui."
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "Carte Aujourd'hui en détail avec la date, la semaine et le jour de l'année, le prix du carburant, les limitations de vitesse et une grille d'indices de trafic"
+        title: "Aujourd'hui en détail, avec les indices de trafic"
+        body: "Consultez la date, la semaine et le jour de l'année ainsi que les prix locaux du carburant et les limitations de vitesse, puis parcourez une grille d'indices de trafic à code couleur : alertes routières, déviations, moment pour faire le plein, passages à niveau, péages, radars, heure de pointe, embouteillages, météo, verglas et plus encore."
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "Carte des prix du carburant listant les prix hebdomadaires récents avec leur évolution d'une semaine à l'autre"
+        title: "Suivez l'évolution du prix du carburant"
+        body: "Une série de prix hebdomadaires récents du carburant dans votre région, affichés dans votre devise et votre unité locales, chaque semaine marquée à la hausse ou à la baisse, pour savoir s'il vaut mieux faire le plein maintenant ou attendre quelques jours."
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "Carte de la ville avec des calques de trafic au-dessus d'une liste d'alertes routières regroupées par type et par gravité"
+        title: "Carte et alertes routières réunies"
+        body: "Une carte en direct montre où se situe le problème, et la liste des alertes routières juste en dessous le détaille : bouchons, fermetures et incidents regroupés par type, chacun avec sa gravité et sa durée prévue."
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "Liste des embouteillages comparant les vitesses en direct aux limitations de vitesse sur les grands axes et les rues principales"
+        title: "Vitesses en direct sur les grands axes"
+        body: "Comparez les vitesses en direct à la limitation affichée sur chaque grand axe et chaque rue principale à proximité. Chaque route dispose d'une barre d'état claire, pour repérer un ralentissement d'un coup d'œil."
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "Carte des routes à péage listant les routes et ponts à péage de la région au-dessus de cartes détaillées des indices de trafic"
+        title: "Péages et détail complet des indices"
+        body: "Passez en revue les routes et ponts à péage répertoriés près de votre ville, puis explorez chaque indice de trafic, accompagné d'une courte explication de ce qu'il signifie pour votre trajet du jour."
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "Écran des villes avec un champ de recherche, une liste réorganisable de villes enregistrées et un bouton pour utiliser la position actuelle"
+        title: "Toutes vos villes, dans une seule app"
+        body: "Recherchez une ville ou une adresse, enregistrez les lieux où vous vous rendez au quotidien ou que vous visitez, réorganisez-les, choisissez un favori ou utilisez simplement votre position actuelle."
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "Écran des réglages avec un interrupteur de notifications et des options d'unités impériales ou métriques et d'heure au format 12 ou 24 heures"
+        title: "Des réglages qui vous ressemblent"
+        body: "Activez ou désactivez les notifications, et basculez entre unités impériales et métriques et entre les formats 12 et 24 heures pour que chaque chiffre s'affiche comme vous l'attendez."
+
+de:
+  showcase:
+    label: "Sieh es in Aktion"
+    title: "Vom Briefing heute Morgen bis zu jedem Signal auf deiner Strecke"
+    intro: "Jeder Bildschirm von TrafficVibe beantwortet schnell eine Pendlerfrage: Soll ich jetzt losfahren, was bremst mich aus, und wann komme ich am entspanntesten durch?"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "Willkommensbildschirm von TrafficVibe mit einem klareren Verkehrsüberblick, dem entspanntesten Zeitfenster zum Losfahren und nützlichen Hinweisen"
+        title: "Der Verkehr – klar, bevor du losfährst"
+        body: "Öffne TrafficVibe und leg mit einem Tipp los. Die App verspricht dir drei Dinge: einen klareren Verkehrsüberblick, stündliche Hinweise zum entspanntesten Zeitfenster für die Abfahrt und Benachrichtigungen, die nur kommen, wenn eine Änderung wirklich zählt."
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "Bildschirm „Briefing für heute“ mit Stadt-Tabs und Hinweisen in klarer Sprache zu stehendem Verkehr, Fahrstreifensperrungen, Stoßzeit und Spritpreisen"
+        title: "Direkt zum heutigen Briefing"
+        body: "Eine ruhige Einschätzung deines Wegs in klarer Sprache, mit dem Wichtigsten zuerst – stehender Verkehr und wann er sich auflösen dürfte, Fahrstreifensperrungen und Umleitungen, der Ausblick auf die Stoßzeit, Geschwindigkeiten in der Stadt und ob heute ein guter Tag zum Tanken ist."
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "Karte „Heute im Detail“ mit Datum, Kalenderwoche und Tag des Jahres, Spritpreis, Tempolimits und einem Raster aus Verkehrsindizes"
+        title: "Heute im Detail, mit Verkehrsindizes"
+        body: "Sieh Datum, Kalenderwoche und Tag des Jahres zusammen mit lokalen Spritpreisen und Tempolimits, und überfliege dann ein Raster farbcodierter Verkehrsindizes – Verkehrsmeldungen, Umleitungen, der richtige Moment zum Tanken, Bahnübergänge, Maut, Blitzer, Stoßzeit, Stau, Wetter, Glätte und mehr."
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "Karte „Spritpreise“ mit den jüngsten Wochenpreisen für Kraftstoff und ihrer Veränderung gegenüber der Vorwoche"
+        title: "Spritpreise im Blick behalten"
+        body: "Eine Reihe aktueller Wochenpreise für Kraftstoff in deiner Gegend, in deiner Landeswährung und Einheit, jede Woche mit Auf- oder Abwärtstrend markiert – so weißt du, ob du jetzt tanken oder ein paar Tage warten solltest."
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "Stadtkarte mit Verkehrsebenen über einer Liste von Verkehrsmeldungen, gruppiert nach Art und Schweregrad"
+        title: "Karte und Verkehrsmeldungen zusammen"
+        body: "Eine Live-Karte zeigt, wo es hakt, und die Liste der Verkehrsmeldungen darunter schlüsselt es auf – Staus, Sperrungen und Vorfälle nach Art gruppiert, jeweils mit Schweregrad und voraussichtlicher Dauer."
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "Stauliste, die Live-Geschwindigkeiten mit den Tempolimits auf wichtigen Schnellstraßen und Straßen vergleicht"
+        title: "Live-Geschwindigkeiten auf den Hauptstraßen"
+        body: "Vergleiche die Live-Geschwindigkeiten mit dem ausgeschilderten Limit auf jeder wichtigen Schnellstraße und Straße in der Nähe. Jede Straße bekommt einen klaren Statusbalken, sodass eine Verlangsamung sofort ins Auge fällt."
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "Karte „Mautstraßen“ mit regionalen Mautstraßen und -brücken über detaillierten Karten zu den Verkehrsindizes"
+        title: "Mautstraßen und alle Index-Details"
+        body: "Sieh dir die erfassten Mautstraßen und -brücken rund um deine Stadt an und tauch dann in jeden Verkehrsindex ein – mit einer kurzen Erklärung, was er heute für deine Fahrt bedeutet."
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "Bildschirm „Städte“ mit einem Suchfeld, einer sortierbaren Liste gespeicherter Städte und einer Schaltfläche „Aktuellen Standort verwenden“"
+        title: "Alle deine Städte in einer App"
+        body: "Suche nach einer Stadt oder Adresse, speichere die Orte, zu denen du pendelst oder die du besuchst, ordne sie neu, wähle einen Favoriten oder nutze einfach deinen aktuellen Standort."
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "Einstellungsbildschirm mit einem Schalter für Benachrichtigungen und Optionen für imperiale oder metrische Einheiten sowie 12- oder 24-Stunden-Format"
+        title: "Einstellungen, die zu dir passen"
+        body: "Schalte Benachrichtigungen ein oder aus und wechsle zwischen imperialen und metrischen Einheiten sowie zwischen 12- und 24-Stunden-Format, damit jede Zahl so erscheint, wie du es erwartest."
+
+it:
+  showcase:
+    label: "Guardalo in azione"
+    title: "Dal resoconto di stamattina a ogni segnale sul tuo percorso"
+    intro: "Ogni schermata di TrafficVibe risponde in fretta a una domanda da pendolare: parto adesso, cosa mi sta rallentando e qual è il momento più scorrevole per mettermi in viaggio?"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "Schermata di benvenuto di TrafficVibe che mette in evidenza un quadro del traffico più chiaro, la fascia di partenza più scorrevole e avvisi utili"
+        title: "Il traffico, chiaro prima di partire"
+        body: "Apri TrafficVibe e inizia con un solo tocco. Ti promette tre cose: un quadro del traffico più chiaro, indicazioni ora per ora sulla fascia più scorrevole per partire e avvisi che arrivano solo quando il cambiamento conta davvero."
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "Schermata del resoconto di oggi con schede delle città e note in linguaggio semplice su traffico fermo, chiusure di corsie, ora di punta e prezzi del carburante"
+        title: "Si apre sul resoconto di oggi"
+        body: "Una lettura serena e in linguaggio semplice del tuo tragitto, con il problema più importante in primo piano: traffico fermo e quando dovrebbe sbloccarsi, chiusure di corsie e deviazioni, previsioni sull'ora di punta, velocità in città e se oggi è una buona giornata per fare benzina."
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "Scheda Oggi nel dettaglio con data, settimana e giorno dell'anno, prezzo del carburante, limiti di velocità e una griglia di indici del traffico"
+        title: "Oggi nel dettaglio, con gli indici del traffico"
+        body: "Consulta data, settimana e giorno dell'anno insieme ai prezzi locali del carburante e ai limiti di velocità, poi scorri una griglia di indici del traffico con codice colore: avvisi stradali, deviazioni, momento giusto per il rifornimento, passaggi a livello, pedaggi, autovelox, ora di punta, congestione, meteo, ghiaccio e altro ancora."
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "Scheda dei prezzi del carburante con i prezzi settimanali recenti e le variazioni rispetto alla settimana precedente"
+        title: "Segui l'andamento del prezzo del carburante"
+        body: "Una serie di prezzi settimanali recenti del carburante nella tua zona, nella valuta e nell'unità di misura locali, con ogni settimana segnata in rialzo o in ribasso, così capisci se conviene fare rifornimento ora o aspettare qualche giorno."
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "Mappa della città con livelli di traffico sopra un elenco di avvisi stradali raggruppati per tipo e gravità"
+        title: "Mappa e avvisi stradali insieme"
+        body: "Una mappa in tempo reale mostra dov'è il problema, e l'elenco degli avvisi stradali qui sotto lo scompone: code, chiusure e incidenti raggruppati per tipo, ciascuno con la sua gravità e la durata prevista."
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "Elenco della congestione che confronta le velocità in tempo reale con i limiti di velocità su superstrade e strade principali"
+        title: "Velocità in tempo reale sulle strade principali"
+        body: "Confronta le velocità in tempo reale con il limite segnalato su ogni superstrada e strada principale nelle vicinanze. Ogni strada ha una barra di stato chiara, così un rallentamento salta subito all'occhio."
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "Scheda delle strade a pedaggio con strade e ponti a pedaggio della zona sopra schede dettagliate degli indici del traffico"
+        title: "Pedaggi e tutti i dettagli degli indici"
+        body: "Controlla le strade e i ponti a pedaggio mappati vicino alla tua città, poi approfondisci ogni indice del traffico con una breve spiegazione di cosa significa per il tuo viaggio di oggi."
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "Schermata delle città con un campo di ricerca, un elenco riordinabile di città salvate e un pulsante per usare la posizione attuale"
+        title: "Tutte le tue città, in un'unica app"
+        body: "Cerca una città o un indirizzo, salva i luoghi in cui vai per lavoro o che visiti, riordinali, scegli un preferito o usa semplicemente la tua posizione attuale."
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "Schermata delle impostazioni con un interruttore per le notifiche e opzioni per unità imperiali o metriche e formato a 12 o 24 ore"
+        title: "Impostazioni su misura per te"
+        body: "Attiva o disattiva le notifiche e passa dalle unità imperiali a quelle metriche e dal formato a 12 ore a quello a 24 ore, così ogni numero si legge proprio come ti aspetti."
+
+pt:
+  showcase:
+    label: "Veja em ação"
+    title: "Do resumo desta manhã a cada sinal na sua rota"
+    intro: "Cada tela do TrafficVibe responde rápido a uma pergunta de quem pega a estrada: saio agora, o que está me atrasando e qual é o melhor momento para ir com o trânsito fluindo?"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "Tela de boas-vindas do TrafficVibe destacando um panorama mais claro do trânsito, o horário de saída mais tranquilo e alertas úteis"
+        title: "O trânsito, claro antes de sair"
+        body: "Abra o TrafficVibe e comece com um toque. Ele promete três coisas: um panorama mais claro do trânsito, orientação hora a hora sobre o melhor horário para sair e alertas que só chegam quando a mudança realmente importa."
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "Tela do resumo de hoje com abas de cidades e notas em linguagem simples sobre trânsito parado, faixas interditadas, horário de pico e preços do combustível"
+        title: "Abra direto no resumo de hoje"
+        body: "Uma leitura tranquila e em linguagem simples do seu trajeto, com o problema mais importante em destaque: trânsito parado e quando deve liberar, faixas interditadas e desvios, previsão do horário de pico, velocidades nas ruas e se hoje é um bom dia para abastecer."
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "Cartão Hoje em detalhes com a data, a semana e o dia do ano, o preço do combustível, os limites de velocidade e uma grade de índices de trânsito"
+        title: "Hoje em detalhes, com índices de trânsito"
+        body: "Veja a data, a semana e o dia do ano junto com os preços locais do combustível e os limites de velocidade, depois confira uma grade de índices de trânsito com código de cores: alertas nas vias, desvios, momento de abastecer, passagens de nível, pedágios, radares, horário de pico, congestionamento, clima, gelo e muito mais."
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "Cartão de preços do combustível listando os preços semanais recentes com a variação em relação à semana anterior"
+        title: "Acompanhe a tendência do preço do combustível"
+        body: "Uma sequência de preços semanais recentes do combustível na sua região, na moeda e unidade locais, com cada semana marcada em alta ou em baixa, para você saber se vale abastecer agora ou esperar alguns dias."
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "Mapa da cidade com camadas de trânsito acima de uma lista de alertas nas vias agrupados por tipo e gravidade"
+        title: "Mapa e alertas nas vias juntos"
+        body: "Um mapa ao vivo mostra onde está o problema, e a lista de alertas nas vias logo abaixo detalha tudo: engarrafamentos, interdições e ocorrências agrupados por tipo, cada um com sua gravidade e quanto tempo deve durar."
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "Lista de congestionamento comparando as velocidades ao vivo com os limites de velocidade nas principais rodovias e ruas"
+        title: "Velocidades ao vivo nas principais vias"
+        body: "Compare as velocidades ao vivo com o limite sinalizado em cada rodovia e rua principal por perto. Cada via ganha uma barra de status clara, então qualquer lentidão salta aos olhos."
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "Cartão de rodovias com pedágio listando as estradas e pontes com pedágio da região acima de cartões detalhados de índices de trânsito"
+        title: "Pedágios e todos os detalhes dos índices"
+        body: "Confira as estradas e pontes com pedágio mapeadas perto da sua cidade e depois aprofunde-se em cada índice de trânsito, com uma breve explicação do que ele significa para a sua viagem de hoje."
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "Tela de cidades com um campo de busca, uma lista reordenável de cidades salvas e um botão para usar a localização atual"
+        title: "Todas as suas cidades, em um só app"
+        body: "Busque uma cidade ou endereço, salve os lugares para onde você se desloca ou que visita, reordene-os, escolha um favorito ou simplesmente use sua localização atual."
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "Tela de ajustes com uma chave de notificações e opções de unidades imperiais ou métricas e formato de 12 ou 24 horas"
+        title: "Ajustes do seu jeito"
+        body: "Ative ou desative as notificações e alterne entre unidades imperiais e métricas e entre o formato de 12 e 24 horas, para que cada número apareça do jeito que você espera."
+
+ru:
+  showcase:
+    label: "Посмотрите в действии"
+    title: "От утренней сводки до каждого сигнала на вашем маршруте"
+    intro: "Каждый экран TrafficVibe быстро отвечает на один вопрос водителя: выезжать ли прямо сейчас, что вас задерживает и когда лучше всего отправиться, чтобы доехать без помех?"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "Экран приветствия TrafficVibe, где выделены более понятная картина дорожной ситуации, самое удобное окно для выезда и полезные оповещения"
+        title: "Дорожная ситуация ясна ещё до выезда"
+        body: "Откройте TrafficVibe и начните одним касанием. Приложение обещает три вещи: более понятную картину дорожной ситуации, почасовые подсказки о самом удобном окне для выезда и оповещения, которые приходят только тогда, когда изменение действительно важно."
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "Экран сводки на сегодня с вкладками городов и понятными заметками о стоящих пробках, перекрытых полосах, часе пик и ценах на топливо"
+        title: "Сразу сводка на сегодня"
+        body: "Спокойный обзор вашей поездки простым языком, где главная проблема стоит первой: стоящие пробки и когда они должны рассосаться, перекрытые полосы и объезды, прогноз на час пик, скорость на улицах и стоит ли сегодня заправляться."
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "Карточка «Сегодня подробно» с датой, номером недели и днём года, ценой топлива, ограничениями скорости и сеткой индексов Traffic Indices"
+        title: "Сегодня подробно, с индексами Traffic Indices"
+        body: "Смотрите дату, номер недели и день года вместе с местными ценами на топливо и ограничениями скорости, а затем окиньте взглядом сетку цветных индексов Traffic Indices: дорожные оповещения, объезды, время для заправки, железнодорожные переезды, платные дороги, камеры контроля скорости, час пик, пробки, погода, гололёд и многое другое."
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "Карточка цен на топливо со списком недавних еженедельных цен и их изменением по сравнению с прошлой неделей"
+        title: "Следите за динамикой цен на топливо"
+        body: "Ряд недавних еженедельных цен на топливо в вашем районе в местной валюте и единицах, где каждая неделя отмечена ростом или снижением, — так вы поймёте, заправиться сейчас или подождать несколько дней."
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "Карта города со слоями трафика над списком дорожных оповещений, сгруппированных по типу и степени серьёзности"
+        title: "Карта и дорожные оповещения вместе"
+        body: "Карта в реальном времени показывает, где возникли проблемы, а список дорожных оповещений под ней раскладывает всё по полочкам: пробки, перекрытия и происшествия сгруппированы по типу, у каждого указаны степень серьёзности и ожидаемая продолжительность."
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "Список загруженности, сравнивающий текущую скорость с ограничениями скорости на основных трассах и улицах"
+        title: "Текущая скорость на основных дорогах"
+        body: "Сравнивайте текущую скорость с установленным ограничением на каждой крупной трассе и улице поблизости. У каждой дороги есть понятная шкала состояния, поэтому замедление сразу бросается в глаза."
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "Карточка платных дорог со списком платных дорог и мостов региона над подробными карточками индексов Traffic Indices"
+        title: "Платные дороги и все подробности индексов"
+        body: "Просмотрите платные дороги и мосты, отмеченные рядом с вашим городом, а затем изучите каждый индекс Traffic Indices с кратким пояснением, что он значит для вашей поездки сегодня."
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "Экран городов с полем поиска, списком сохранённых городов, порядок которых можно менять, и кнопкой «Использовать текущее местоположение»"
+        title: "Все ваши города в одном приложении"
+        body: "Ищите город или адрес, сохраняйте места, куда вы ездите на работу или в гости, меняйте их порядок, выбирайте избранное или просто используйте текущее местоположение."
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "Экран настроек с переключателем уведомлений и вариантами имперских или метрических единиц и 12- или 24-часового формата времени"
+        title: "Настройки под вас"
+        body: "Включайте и отключайте уведомления, переключайтесь между имперскими и метрическими единицами и между 12- и 24-часовым форматом времени, чтобы каждое число выглядело так, как вы привыкли."
+
+ar:
+  showcase:
+    label: "شاهده أثناء العمل"
+    title: "من ملخّص هذا الصباح إلى كل إشارة على طريقك"
+    intro: "كل شاشة في TrafficVibe تجيب بسرعة عن سؤال يطرحه كل متنقّل: هل أنطلق الآن، وما الذي يُبطئني، ومتى تكون أنسب لحظة للانطلاق بسلاسة؟"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "شاشة الترحيب في TrafficVibe تُبرز صورة أوضح لحركة المرور، وأنسب فترة للانطلاق، وتنبيهات مفيدة"
+        title: "حركة المرور واضحة قبل أن تنطلق"
+        body: "افتح TrafficVibe وابدأ بلمسة واحدة. يَعِدك بثلاثة أشياء: صورة أوضح لحركة المرور، وإرشادات ساعة بساعة حول أنسب فترة للانطلاق، وتنبيهات لا تصلك إلا عندما يكون التغيير مهمًا فعلًا."
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "شاشة ملخّص اليوم مع علامات تبويب للمدن وملاحظات بلغة بسيطة عن حركة المرور المتوقفة وإغلاق المسارات وساعة الذروة وأسعار الوقود"
+        title: "ملخّص اليوم فور فتح التطبيق"
+        body: "قراءة هادئة وبلغة بسيطة لتنقّلك، مع إبراز المشكلة الأهم أولًا: حركة المرور المتوقفة ومتى يُتوقع أن تنفرج، وإغلاق المسارات والتحويلات، وتوقعات ساعة الذروة، والسرعات في الشوارع، وما إذا كان اليوم مناسبًا لتعبئة الوقود."
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "بطاقة تفاصيل اليوم مع التاريخ ورقم الأسبوع ويوم السنة وسعر الوقود وحدود السرعة وشبكة من مؤشرات المرور"
+        title: "تفاصيل اليوم مع مؤشرات المرور"
+        body: "اطّلع على التاريخ ورقم الأسبوع ويوم السنة إلى جانب أسعار الوقود المحلية وحدود السرعة، ثم ألقِ نظرة على شبكة من مؤشرات المرور المرمّزة بالألوان: تنبيهات الطرق، والتحويلات، وتوقيت التعبئة، ومعابر السكك الحديدية، ورسوم الطرق، وكاميرات السرعة، وساعة الذروة، والازدحام، والطقس، والجليد، وغيرها."
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "بطاقة أسعار الوقود تعرض الأسعار الأسبوعية الأخيرة مع التغيّر مقارنةً بالأسبوع السابق"
+        title: "تابع اتجاه أسعار الوقود"
+        body: "سلسلة من أسعار الوقود الأسبوعية الأخيرة في منطقتك، معروضة بعملتك ووحدتك المحلية مع تمييز كل أسبوع بالارتفاع أو الانخفاض، لتعرف هل تعبّئ الآن أم تنتظر بضعة أيام."
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "خريطة المدينة مع طبقات حركة المرور فوق قائمة بتنبيهات الطرق مجمّعة حسب النوع ودرجة الخطورة"
+        title: "الخريطة وتنبيهات الطرق معًا"
+        body: "تُظهر خريطة مباشرة مكان المشكلة، وتفصّلها قائمة تنبيهات الطرق أسفلها: الاختناقات والإغلاقات والحوادث مجمّعة حسب النوع، ولكلٍّ منها درجة خطورتها والمدة المتوقعة لاستمرارها."
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "قائمة الازدحام تقارن السرعات المباشرة بحدود السرعة على الطرق السريعة والشوارع الرئيسية"
+        title: "السرعات المباشرة على الطرق الرئيسية"
+        body: "قارن السرعات المباشرة بالحد المعلن على كل طريق سريع وشارع رئيسي قريب. لكل طريق شريط حالة واضح، فيظهر أي تباطؤ من النظرة الأولى."
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "بطاقة الطرق ذات الرسوم تعرض الطرق والجسور ذات الرسوم في المنطقة فوق بطاقات مفصّلة لمؤشرات المرور"
+        title: "الطرق ذات الرسوم وتفاصيل المؤشرات كاملة"
+        body: "راجع الطرق والجسور ذات الرسوم المرصودة قرب مدينتك، ثم تعمّق في كل مؤشر من مؤشرات المرور مع شرح موجز لما يعنيه لقيادتك اليوم."
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "شاشة المدن مع حقل بحث وقائمة قابلة لإعادة الترتيب بالمدن المحفوظة وزر لاستخدام الموقع الحالي"
+        title: "كل مدنك في تطبيق واحد"
+        body: "ابحث عن مدينة أو عنوان، واحفظ الأماكن التي تتنقّل إليها أو تزورها، وأعد ترتيبها، واختر مفضّلة، أو استخدم موقعك الحالي ببساطة."
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "شاشة الإعدادات مع مفتاح للإشعارات وخيارات للوحدات الإمبراطورية أو المترية ونظام 12 أو 24 ساعة"
+        title: "إعدادات تناسبك"
+        body: "شغّل الإشعارات أو أوقفها، وبدّل بين الوحدات الإمبراطورية والمترية وبين نظامَي 12 و24 ساعة، لتظهر كل الأرقام بالطريقة التي تتوقعها."
+
+hi:
+  showcase:
+    label: "इसे काम करते हुए देखें"
+    title: "आज सुबह की जानकारी से लेकर आपके रास्ते के हर संकेत तक"
+    intro: "TrafficVibe की हर स्क्रीन सफ़र से जुड़े एक सवाल का तुरंत जवाब देती है: क्या अभी निकलूँ, मुझे क्या धीमा कर रहा है, और निकलने का सबसे आसान समय कब है?"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "TrafficVibe की स्वागत स्क्रीन, जिसमें ट्रैफ़िक की ज़्यादा साफ़ तस्वीर, निकलने का सबसे आसान समय और काम के अलर्ट दिखाए गए हैं"
+        title: "निकलने से पहले ट्रैफ़िक की साफ़ तस्वीर"
+        body: "TrafficVibe खोलें और एक टैप में शुरू करें। यह तीन वादे करता है: ट्रैफ़िक की ज़्यादा साफ़ तस्वीर, निकलने के सबसे आसान समय पर घंटे-दर-घंटे मार्गदर्शन, और ऐसे अलर्ट जो तभी आते हैं जब बदलाव सच में मायने रखता हो।"
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "आज की जानकारी वाली स्क्रीन, जिसमें शहरों के टैब और रुके ट्रैफ़िक, लेन बंद होने, पीक आवर और पेट्रोल की कीमतों पर आसान भाषा में नोट हैं"
+        title: "खोलते ही आज की जानकारी"
+        body: "आपके सफ़र का शांत और आसान भाषा में ब्योरा, जिसमें सबसे ज़रूरी समस्या सबसे पहले बताई जाती है — रुका हुआ ट्रैफ़िक और वह कब तक खुलेगा, लेन बंद होना और डायवर्ज़न, पीक आवर का अनुमान, सड़कों पर रफ़्तार, और क्या आज ईंधन भरवाने के लिए अच्छा दिन है।"
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "आज का विवरण कार्ड, जिसमें तारीख, सप्ताह और साल का दिन, ईंधन की कीमत, गति सीमा और Traffic Indices की ग्रिड है"
+        title: "आज का विवरण, Traffic Indices के साथ"
+        body: "तारीख, सप्ताह और साल का दिन देखें, साथ में स्थानीय ईंधन की कीमतें और गति सीमाएँ, फिर रंगों से चिह्नित Traffic Indices की ग्रिड पर नज़र डालें — सड़क अलर्ट, डायवर्ज़न, ईंधन भरवाने का समय, रेलवे क्रॉसिंग, टोल, स्पीड कैमरे, पीक आवर, जाम, मौसम, बर्फ़ और भी बहुत कुछ।"
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "ईंधन की कीमतों का कार्ड, जिसमें हाल की साप्ताहिक कीमतें और पिछले हफ़्ते के मुक़ाबले बदलाव दिखाए गए हैं"
+        title: "ईंधन की कीमतों का रुझान देखें"
+        body: "आपके इलाक़े में हाल की साप्ताहिक ईंधन कीमतों की सूची, आपकी स्थानीय मुद्रा और इकाई में, हर हफ़्ते के बढ़ने या घटने के निशान के साथ, ताकि आप तय कर सकें कि अभी ईंधन भरवाएँ या कुछ दिन रुकें।"
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "ट्रैफ़िक लेयर वाला शहर का नक्शा, जिसके नीचे प्रकार और गंभीरता के अनुसार समूहित सड़क अलर्ट की सूची है"
+        title: "नक्शा और सड़क अलर्ट एक साथ"
+        body: "लाइव नक्शा दिखाता है कि दिक़्क़त कहाँ है, और नीचे सड़क अलर्ट की सूची उसका पूरा ब्योरा देती है — जाम, सड़क बंद होना और घटनाएँ प्रकार के अनुसार समूहित, हर एक की गंभीरता और वह कितनी देर रहने की संभावना है।"
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "जाम की सूची, जिसमें प्रमुख हाईवे और सड़कों पर लाइव रफ़्तार की तुलना गति सीमा से की गई है"
+        title: "प्रमुख सड़कों पर लाइव रफ़्तार"
+        body: "आस-पास के हर प्रमुख हाईवे और सड़क पर लाइव रफ़्तार की तुलना तय गति सीमा से करें। हर सड़क का एक साफ़ स्टेटस बार होता है, इसलिए धीमापन एक नज़र में दिख जाता है।"
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "टोल रोड कार्ड, जिसमें इलाक़े की टोल सड़कें और पुल दिए गए हैं, और उसके नीचे Traffic Indices के विस्तृत कार्ड हैं"
+        title: "टोल सड़कें और हर इंडेक्स का पूरा विवरण"
+        body: "अपने शहर के आस-पास दर्ज टोल सड़कें और पुल देखें, फिर हर Traffic Index को गहराई से समझें, साथ में एक छोटी व्याख्या कि आज की ड्राइव के लिए उसका क्या मतलब है।"
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "शहरों की स्क्रीन, जिसमें खोज फ़ील्ड, सहेजे गए शहरों की क्रम बदलने लायक सूची और मौजूदा लोकेशन इस्तेमाल करने का बटन है"
+        title: "आपके सारे शहर, एक ही ऐप में"
+        body: "किसी शहर या पते को खोजें, उन जगहों को सहेजें जहाँ आप रोज़ आते-जाते हैं या घूमने जाते हैं, उनका क्रम बदलें, कोई पसंदीदा चुनें, या बस अपनी मौजूदा लोकेशन इस्तेमाल करें।"
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "सेटिंग्स स्क्रीन, जिसमें नोटिफ़िकेशन टॉगल और इम्पीरियल या मीट्रिक इकाइयों तथा 12 या 24 घंटे के समय के विकल्प हैं"
+        title: "आपके हिसाब की सेटिंग्स"
+        body: "नोटिफ़िकेशन चालू या बंद करें, और इम्पीरियल व मीट्रिक इकाइयों तथा 12 और 24 घंटे के समय के बीच बदलें, ताकि हर संख्या वैसी ही दिखे जैसी आप चाहते हैं।"
+
+nl:
+  showcase:
+    label: "Zie het in actie"
+    title: "Van de briefing van vanochtend tot elk signaal op je route"
+    intro: "Elk scherm van TrafficVibe beantwoordt snel één forensenvraag: moet ik nu vertrekken, wat houdt me op en wanneer kan ik het soepelst op pad?"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "Welkomstscherm van TrafficVibe met een helderder verkeersbeeld, het soepelste vertrekmoment en nuttige meldingen"
+        title: "Het verkeer helder, nog voor je vertrekt"
+        body: "Open TrafficVibe en begin met één tik. De app belooft je drie dingen: een helderder verkeersbeeld, per uur advies over het soepelste moment om te vertrekken en meldingen die alleen komen als een verandering er echt toe doet."
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "Scherm met de briefing van vandaag, tabbladen voor steden en notities in begrijpelijke taal over stilstaand verkeer, rijstrookafsluitingen, de spits en brandstofprijzen"
+        title: "Opent meteen met de briefing van vandaag"
+        body: "Een rustige uitleg van je reis in begrijpelijke taal, met het belangrijkste probleem voorop: stilstaand verkeer en wanneer het naar verwachting oplost, rijstrookafsluitingen en omleidingen, de verwachting voor de spits, snelheden in de stad en of het vandaag een goede dag is om te tanken."
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "Kaart Vandaag in detail met de datum, de week en dag van het jaar, de brandstofprijs, maximumsnelheden en een raster van Traffic Indices"
+        title: "Vandaag in detail, met Traffic Indices"
+        body: "Bekijk de datum, de week en de dag van het jaar samen met lokale brandstofprijzen en maximumsnelheden, en scan daarna een raster van Traffic Indices met kleurcodes: verkeersmeldingen, omleidingen, het moment om te tanken, spoorwegovergangen, tol, flitspalen, de spits, files, weer, gladheid en meer."
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "Kaart met brandstofprijzen die recente weekprijzen toont, met de verandering ten opzichte van de week ervoor"
+        title: "Volg de trend in brandstofprijzen"
+        body: "Een reeks recente weekprijzen voor brandstof in jouw regio, in je lokale valuta en eenheid, met elke week gemarkeerd als stijging of daling, zodat je weet of je nu moet tanken of beter een paar dagen kunt wachten."
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "Stadskaart met verkeerslagen boven een lijst met verkeersmeldingen, gegroepeerd op type en ernst"
+        title: "Kaart en verkeersmeldingen samen"
+        body: "Een livekaart laat zien waar het misgaat, en de lijst met verkeersmeldingen eronder zet het op een rij: files, afsluitingen en incidenten gegroepeerd op type, elk met de ernst en hoelang het naar verwachting duurt."
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "Filelijst die livesnelheden vergelijkt met de maximumsnelheden op belangrijke snelwegen en straten"
+        title: "Livesnelheden op de belangrijkste wegen"
+        body: "Vergelijk livesnelheden met de aangegeven maximumsnelheid op elke belangrijke snelweg en straat in de buurt. Elke weg krijgt een duidelijke statusbalk, zodat vertraging direct opvalt."
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "Kaart Tolwegen met regionale tolwegen en tolbruggen boven gedetailleerde kaarten van de Traffic Indices"
+        title: "Tolwegen en alle details van de indices"
+        body: "Bekijk de tolwegen en tolbruggen die rond je stad in kaart zijn gebracht, en duik daarna in elke Traffic Index, met een korte uitleg van wat die vandaag voor je rit betekent."
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "Scherm Steden met een zoekveld, een herschikbare lijst met bewaarde steden en een knop om de huidige locatie te gebruiken"
+        title: "Al je steden in één app"
+        body: "Zoek een stad of adres, bewaar de plekken waar je naartoe pendelt of die je bezoekt, zet ze in een andere volgorde, kies een favoriet of gebruik gewoon je huidige locatie."
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "Instellingenscherm met een schakelaar voor meldingen en opties voor imperiale of metrische eenheden en een 12- of 24-uursklok"
+        title: "Instellingen die bij je passen"
+        body: "Zet meldingen aan of uit en wissel tussen imperiale en metrische eenheden en tussen een 12- en 24-uursklok, zodat elk getal eruitziet zoals je verwacht."
+
+tr:
+  showcase:
+    label: "Nasıl çalıştığını görün"
+    title: "Bu sabahki özetten rotanızdaki her sinyale kadar"
+    intro: "TrafficVibe'ın her ekranı, yola çıkan herkesin sorduğu bir soruyu hızla yanıtlar: Şimdi mi çıkmalıyım, beni ne yavaşlatıyor ve en rahat ne zaman yola çıkabilirim?"
+    shots:
+      - image: /assets/screenshots/trafficvibe/01-welcome.png
+        alt: "Daha net bir trafik görünümünü, en rahat çıkış aralığını ve faydalı uyarıları öne çıkaran TrafficVibe karşılama ekranı"
+        title: "Yola çıkmadan önce trafik net"
+        body: "TrafficVibe'ı açın ve tek dokunuşla başlayın. Size üç şey vaat eder: daha net bir trafik görünümü, yola çıkmak için en rahat aralığa dair saat saat rehberlik ve yalnızca değişiklik gerçekten önemli olduğunda gelen uyarılar."
+      - image: /assets/screenshots/trafficvibe/02-briefing.png
+        alt: "Şehir sekmeleri ve duran trafik, şerit kapanmaları, yoğun saat ve akaryakıt fiyatları hakkında sade dilde notlar içeren Bugünün Özeti ekranı"
+        title: "Açar açmaz bugünün özeti"
+        body: "Yolculuğunuzun sakin ve sade bir dille anlatımı; en önemli sorun en başta: duran trafik ve ne zaman açılması beklendiği, şerit kapanmaları ve alternatif güzergâhlar, yoğun saat beklentisi, cadde hızları ve bugünün yakıt almak için iyi bir gün olup olmadığı."
+      - image: /assets/screenshots/trafficvibe/03-detail.png
+        alt: "Tarih, hafta ve yılın günü, akaryakıt fiyatı, hız sınırları ve Trafik Endeksleri ızgarası içeren Bugün Ayrıntılı kartı"
+        title: "Bugün ayrıntılı, Trafik Endeksleriyle"
+        body: "Tarihi, haftayı ve yılın kaçıncı günü olduğunu yerel akaryakıt fiyatları ve hız sınırlarıyla birlikte görün, ardından renk kodlu Trafik Endeksleri ızgarasına göz atın: yol uyarıları, alternatif güzergâhlar, yakıt alma zamanı, hemzemin geçitler, geçiş ücretleri, hız kameraları, yoğun saat, trafik sıkışıklığı, hava durumu, buzlanma ve daha fazlası."
+      - image: /assets/screenshots/trafficvibe/04-gas-prices.png
+        alt: "Son haftalık akaryakıt fiyatlarını ve önceki haftaya göre değişimlerini listeleyen Akaryakıt Fiyatları kartı"
+        title: "Akaryakıt fiyat eğilimlerini takip edin"
+        body: "Bölgenizdeki son haftalık akaryakıt fiyatları, yerel para biriminiz ve biriminizle gösterilir; her hafta artış ya da düşüş olarak işaretlenir, böylece şimdi mi yakıt almanız yoksa birkaç gün mü beklemeniz gerektiğini anlarsınız."
+      - image: /assets/screenshots/trafficvibe/05-map-alerts.png
+        alt: "Trafik katmanlı şehir haritası ve altında türe ve ciddiyete göre gruplanmış yol uyarıları listesi"
+        title: "Harita ve yol uyarıları bir arada"
+        body: "Canlı harita sorunun nerede olduğunu gösterir, altındaki Yol Uyarıları listesi ise ayrıntılandırır: sıkışıklıklar, kapanmalar ve olaylar türe göre gruplanır, her birinin ciddiyeti ve ne kadar süreceği belirtilir."
+      - image: /assets/screenshots/trafficvibe/06-congestion.png
+        alt: "Ana otoyollar ve caddelerde canlı hızları hız sınırlarıyla karşılaştıran Trafik Sıkışıklığı listesi"
+        title: "Ana yollarda canlı hızlar"
+        body: "Yakındaki her ana otoyol ve caddede canlı hızları belirtilen sınırla karşılaştırın. Her yolun net bir durum çubuğu vardır; böylece bir yavaşlama ilk bakışta göze çarpar."
+      - image: /assets/screenshots/trafficvibe/07-tolls.png
+        alt: "Bölgedeki ücretli yolları ve köprüleri listeleyen Ücretli Yollar kartı ve altında ayrıntılı Trafik Endeksleri kartları"
+        title: "Ücretli yollar ve tüm endeks ayrıntıları"
+        body: "Şehrinizin yakınında haritalanmış ücretli yolları ve köprüleri inceleyin, ardından her Trafik Endeksi'ni bugünkü sürüşünüz için ne anlama geldiğini anlatan kısa bir açıklamayla derinlemesine keşfedin."
+      - image: /assets/screenshots/trafficvibe/08-cities.png
+        alt: "Arama alanı, yeniden sıralanabilen kayıtlı şehirler listesi ve Mevcut Konumu Kullan düğmesi içeren Şehirler ekranı"
+        title: "Tüm şehirleriniz tek uygulamada"
+        body: "Bir şehir veya adres arayın, işe gidip geldiğiniz ya da ziyaret ettiğiniz yerleri kaydedin, sıralarını değiştirin, bir favori seçin veya doğrudan mevcut konumunuzu kullanın."
+      - image: /assets/screenshots/trafficvibe/09-settings.png
+        alt: "Bildirim anahtarı ile İngiliz veya metrik birim ve 12 ya da 24 saat biçimi seçenekleri içeren Ayarlar ekranı"
+        title: "Size uyan ayarlar"
+        body: "Bildirimleri açın veya kapatın; İngiliz ve metrik birimler ile 12 ve 24 saat biçimi arasında geçiş yaparak her sayının beklediğiniz gibi görünmesini sağlayın."

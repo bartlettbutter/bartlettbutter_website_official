@@ -2,7 +2,7 @@
 layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
-app_description: "即时识别任何狗的品种。免费、离线、私密。"
+app_description: "即时识别任何狗的品种。免费、私密、设备端识别。"
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: zh-Hans
 permalink: /barkpedia/zh-Hans/
@@ -12,13 +12,13 @@ redirect_from:
 
 # 每只狗都有故事。即刻发现它。
 
-拍摄任何一只狗的照片，Barkpedia便会叫出它的品种，随后为您展开它背后的整个故事——性格、历史、起源和趣闻。无需打字，无需搜索，无需联网，无需付费。
+拍摄任何一只狗的照片，Barkpedia便会叫出它的品种，随后为您展开它背后的整个故事——性格、历史、起源和趣闻。无需打字，无需搜索，无需付费——品种识别即使没有信号也能使用。
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147个品种</span>
-  <span class="marketing-chip">完全离线运行</span>
+  <span class="marketing-chip">设备端品种识别</span>
   <span class="marketing-chip">永久免费</span>
   <span class="marketing-chip">无需账户</span>
 </div>
@@ -34,7 +34,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">私密且离线，照片和数据都保留在您的设备上</span>
+    <span class="marketing-stat-label">私密，照片和保存的扫描记录都保留在您的设备上</span>
   </article>
 </div>
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">爱狗人士为何选择它</p>
     <h2 id="bp-why-title" class="marketing-section-title">一份沉稳、完整的口袋狗世界指南。</h2>
-    <p class="marketing-section-intro">Barkpedia将公园里一个好奇的瞬间变成真正的答案，随后继续带来历史、资料和一点乐趣——全程无需注册，也无需信号。</p>
+    <p class="marketing-section-intro">Barkpedia将公园里一个好奇的瞬间变成真正的答案，随后继续带来历史、资料和一点乐趣——全程无需注册，品种识别即使没有信号也能使用。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -62,7 +62,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>对于难以判断的情况，提供其他可能性的排名列表</li>
         <li>每个结果都直接链接到完整的品种资料</li>
-        <li>完全离线运行，无论狗在哪里</li>
+        <li>在您的设备上运行，无论狗在哪里都能离线识别</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -75,17 +75,17 @@ redirect_from:
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>离线学习与玩乐</h3>
+      <h3>学习与玩乐</h3>
       <p>将您扫描过的一切变成游戏，两种模式旨在增长真正的狗狗知识。</p>
       <ul class="marketing-list">
         <li>品种测验：从照片中猜出品种</li>
         <li>狗狗问答：真假判断的谬误与事实</li>
-        <li>玩游戏永远无需联网</li>
+        <li>狗狗问答随时离线畅玩</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>默认私密</h3>
-      <p>没有账户，没有分析，没有广告。您的照片永远不会离开您的设备，一切都无需联网即可运行。</p>
+      <p>没有账户，没有分析，没有广告。您的照片在设备上完成分析，绝不会被上传。</p>
       <ul class="marketing-list">
         <li>扫描结果和收藏都存储在本地</li>
         <li>无需注册，也无需付费</li>
@@ -120,7 +120,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>玩乐</h3>
-      <p>用两种离线游戏模式检验您的知识，它们融合了照片、事实和谬误。</p>
+      <p>用两种游戏模式检验您的知识，它们融合了照片、事实和谬误。</p>
       <ul class="marketing-list">
         <li>品种测验，可赢取奖励称号</li>
         <li>狗狗问答，快速的真假判断回合</li>
@@ -194,8 +194,8 @@ redirect_from:
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">隐私姿态</span>
-      <h3 class="marketing-price-summary">没有服务器。没有云端。没有追踪。</h3>
-      <p>您的照片永远不会离开您的设备。识别、资料和游戏全部在本地运行，所以产品承诺和界面一样清晰。</p>
+      <h3 class="marketing-price-summary">不上传。无需账户。没有追踪。</h3>
+      <p>您的照片永远不会离开您的设备。品种识别完全在设备上进行，品种资料和测验照片则从公开的犬种资料来源加载，不附带任何个人数据。</p>
       <p class="marketing-price-note">同样的隐私优先理念贯穿概览、支持和政策页面。</p>
     </article>
   </div>

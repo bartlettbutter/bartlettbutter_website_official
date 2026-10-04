@@ -11,12 +11,8 @@
 {%- assign app_slug = url_parts[1] -%}
 {%- if page.url contains "/support/" -%}
   {%- assign section = "support" -%}
-  {%- assign page_kind = "Support" -%}
-  {%- assign kind_meta = page.title | append: " support — answers to common questions and how to reach Bartlett Butter." -%}
 {%- elsif page.url contains "/privacy/" -%}
   {%- assign section = "privacy" -%}
-  {%- assign page_kind = "Privacy Policy" -%}
-  {%- assign kind_meta = "How " | append: page.title | append: " handles your data — the full privacy policy from Bartlett Butter." -%}
 {%- else -%}
   {%- assign section = "marketing" -%}
   {%- assign page_kind = "" -%}
@@ -62,6 +58,14 @@
 {%- endcomment -%}
 {%- assign ui_lang = page.lang | default: "en" -%}
 {%- assign ui = site.data.ui_strings[ui_lang] | default: site.data.ui_strings["en"] -%}
+{%- comment -%} Localize the support/privacy title suffix and meta description. {%- endcomment -%}
+{%- if section == "support" -%}
+  {%- assign page_kind = ui.page_kind_support -%}
+  {%- assign kind_meta = ui.meta_support | replace: "%app%", page.title -%}
+{%- elsif section == "privacy" -%}
+  {%- assign page_kind = ui.page_kind_privacy -%}
+  {%- assign kind_meta = ui.meta_privacy | replace: "%app%", page.title -%}
+{%- endif -%}
 {%- comment -%} Home link keeps the current language: English home at /, every other language at /<lang>/. {%- endcomment -%}
 {%- if ui_lang == "en" -%}{%- assign home_url = "/" -%}{%- else -%}{%- assign home_url = "/" | append: ui_lang | append: "/" -%}{%- endif -%}
 {%- assign browser_theme_color = "#030712" -%}
@@ -112,9 +116,7 @@
   <meta property="og:description" content="{{ kind_meta | default: site.description }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   {% if page.app_icon %}<meta property="og:image" content="{{ site.url }}{{ page.app_icon }}">
-  <meta property="og:image:alt" content="{{ page.title }} app icon">
-  <meta property="og:image:width" content="512">
-  <meta property="og:image:height" content="512">{% endif %}
+  <meta property="og:image:alt" content="{{ page.title }} app icon">{% endif %}
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ page.title | default: site.title }}{% if page_kind != '' %} {{ page_kind }}{% endif %} — Bartlett Butter">
   <meta name="twitter:description" content="{{ kind_meta | default: site.description }}">
@@ -133,7 +135,7 @@
     "image": "{{ site.url }}{{ page.app_icon }}",
     "operatingSystem": "iOS",
     "applicationCategory": "MobileApplication",
-    {% if page.app_store_url %}"downloadUrl": {{ page.app_store_url | jsonify }},{% endif %}
+    {% unless page.app_store_url == nil or page.app_store_url contains "id0000000000" %}"downloadUrl": {{ page.app_store_url | jsonify }},{% endunless %}
     "publisher": {
       "@type": "Organization",
       "name": "Bartlett Butter",
@@ -240,7 +242,7 @@
         <img src="/assets/images/logo_footer.png" alt="Bartlett Butter" width="32" height="32">
         <span><strong>BARTLETT</strong> BUTTER</span>
       </div>
-      <p class="footer-copy">&copy; 2026 Bartlett Butter LLC. All rights reserved.</p>
+      <p class="footer-copy">&copy; <span data-current-year>2026</span> Bartlett Butter LLC. All rights reserved.</p>
     </div>
   </footer>
 </body>

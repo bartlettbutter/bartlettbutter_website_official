@@ -34,7 +34,7 @@
   <div class="hero-gallery-track hero-gallery-track--fallback">
     {%- for shot in gal.shots %}
     <figure class="hero-gallery-frame reveal">
-      <img src="{{ shot }}" alt="{{ gal.alt | default: 'App screenshot' }} {{ forloop.index }}" width="660" height="1434" loading="lazy" decoding="async">
+      <img src="{{ shot }}" alt="{{ gal.alt | default: 'App screenshot' }} {{ forloop.index }}" width="660" height="1434" {% if forloop.index <= 3 %}loading="eager"{% if forloop.first %} fetchpriority="high"{% endif %}{% else %}loading="lazy"{% endif %} decoding="async">
     </figure>
     {%- endfor %}
   </div>

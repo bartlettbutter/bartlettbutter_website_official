@@ -2,7 +2,7 @@
 layout: default
 title: Solcast
 app_icon: /assets/app-icons/icon_Solcast.png
-app_description: "Politique de Confidentialité"
+app_description: "Politique de confidentialité"
 lang: fr
 permalink: /solcast/privacy/fr/
 redirect_from:

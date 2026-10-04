@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "어떤 고양이 품종이든 즉시 식별하세요. 무료, 오프라인, 비공개."
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "어떤 고양이 품종이든 즉시 식별하세요. 무료, 비공개, 기기 내 처리."
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 lang: ko
 permalink: /nekopedia/ko/
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 
 # 모든 고양이에게는 이야기가 있습니다. 즉시 발견하세요.
 
-어떤 고양이든 사진을 찍으면 Nekopedia가 품종의 이름을 알려주고, 그 뒤에 담긴 이야기 전체를 열어줍니다 — 기질, 역사, 기원, 그리고 흥미로운 사실까지. 입력도, 검색도, 인터넷도, 비용도 필요 없습니다.
+어떤 고양이든 사진을 찍으면 Nekopedia가 품종의 이름을 알려주고, 그 뒤에 담긴 이야기 전체를 열어줍니다 — 기질, 역사, 기원, 그리고 흥미로운 사실까지. 입력도, 검색도, 비용도 필요 없습니다. 품종 식별은 오프라인에서도 작동합니다.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48개 품종</span>
-  <span class="marketing-chip">완전 오프라인 작동</span>
+  <span class="marketing-chip">기기 내 품종 식별</span>
   <span class="marketing-chip">영원히 무료</span>
   <span class="marketing-chip">계정 불필요</span>
 </div>
@@ -34,13 +34,13 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">사진과 데이터가 기기에 머무는, 완전히 비공개이고 오프라인</span>
+    <span class="marketing-stat-label">사진과 스캔 기록이 기기에 머무는, 완전한 비공개</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">고양이 애호가가 선택하는 이유</p>
     <h2 id="nk-why-title" class="marketing-section-title">고양이의 세계를 담은 차분하고 완전한 포켓 가이드.</h2>
-    <p class="marketing-section-intro">Nekopedia는 카페에서의 궁금한 순간을 진짜 답변으로 바꾸고, 역사와 프로필, 그리고 약간의 재미까지 이어갑니다 — 가입도, 신호도 필요 없이.</p>
+    <p class="marketing-section-intro">Nekopedia는 카페에서의 궁금한 순간을 진짜 답변으로 바꾸고, 역사와 프로필, 그리고 약간의 재미까지 이어갑니다 — 가입은 필요 없고, 품종 식별은 신호가 없어도 작동합니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,17 +75,17 @@ redirect_from:
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>오프라인에서 배우고 즐기기</h3>
-      <p>스캔한 모든 것을 진짜 고양이 지식을 키워주도록 설계된 두 가지 모드의 게임으로 바꿔보세요.</p>
+      <h3>배우고 즐기기</h3>
+      <p>진짜 고양이 지식을 키워주도록 설계된 두 가지 모드로 실력을 시험해 보세요.</p>
       <ul class="marketing-list">
         <li>품종 퀴즈: 사진에서 품종을 맞혀보세요</li>
         <li>고양이 상식 퀴즈: 속설과 사실의 참·거짓</li>
-        <li>즐기는 데 인터넷은 전혀 필요 없습니다</li>
+        <li>새로운 사진과 사실을 온라인으로 불러옵니다</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>기본이 비공개</h3>
-      <p>계정 없음, 분석 없음, 광고 없음. 여러분의 사진은 절대 기기를 벗어나지 않으며 모든 것이 연결 없이 작동합니다.</p>
+      <p>계정 없음, 분석 없음, 광고 없음. 여러분의 사진은 절대 기기를 벗어나지 않으며, 품종 식별은 연결 없이 작동합니다.</p>
       <ul class="marketing-list">
         <li>스캔과 즐겨찾기는 로컬에 저장됩니다</li>
         <li>가입할 것도 없고 지불할 것도 없습니다</li>
@@ -120,7 +120,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>즐기기</h3>
-      <p>사진, 사실, 속설을 섞은 두 가지 오프라인 게임 모드로 지식을 시험해 보세요.</p>
+      <p>사진, 사실, 속설을 섞은 두 가지 게임 모드로 지식을 시험해 보세요.</p>
       <ul class="marketing-list">
         <li>획득할 보상 타이틀이 있는 품종 퀴즈</li>
         <li>빠른 참·거짓 라운드의 고양이 상식 퀴즈</li>
@@ -194,8 +194,8 @@ redirect_from:
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">개인정보 기조</span>
-      <h3 class="marketing-price-summary">서버 없음. 클라우드 없음. 추적 없음.</h3>
-      <p>여러분의 사진은 절대 기기를 벗어나지 않습니다. 식별, 프로필, 게임이 모두 로컬에서 실행되므로 제품의 약속은 인터페이스만큼이나 명확합니다.</p>
+      <h3 class="marketing-price-summary">업로드 없음. 클라우드 없음. 추적 없음.</h3>
+      <p>여러분의 사진은 절대 기기를 벗어나지 않습니다. 품종 식별은 전적으로 기기에서 이루어지고, 온라인 기능은 공개된 고양이 사진과 사실만 불러오므로 제품의 약속은 인터페이스만큼이나 명확합니다.</p>
       <p class="marketing-price-note">같은 개인정보 우선 기조가 개요, 지원, 정책 페이지 전반에 이어집니다.</p>
     </article>
   </div>

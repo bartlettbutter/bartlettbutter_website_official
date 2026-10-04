@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "किसी भी बिल्ली की नस्ल तुरंत पहचानें। निःशुल्क, ऑफ़लाइन और निजी।"
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "किसी भी बिल्ली की नस्ल तुरंत पहचानें। निःशुल्क, निजी और ऑन-डिवाइस।"
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 lang: hi
 permalink: /nekopedia/hi/
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 
 # हर बिल्ली की एक कहानी होती है। इसे तुरंत खोजें।
 
-किसी भी बिल्ली की तस्वीर लें और Nekopedia नस्ल का नाम बता देता है, फिर उसके पीछे की पूरी कहानी खोल देता है — स्वभाव, इतिहास, उत्पत्ति और मज़ेदार तथ्य। कोई टाइपिंग नहीं, कोई खोज नहीं, कोई इंटरनेट नहीं, और कोई लागत नहीं।
+किसी भी बिल्ली की तस्वीर लें और Nekopedia नस्ल का नाम बता देता है, फिर उसके पीछे की पूरी कहानी खोल देता है — स्वभाव, इतिहास, उत्पत्ति और मज़ेदार तथ्य। कोई टाइपिंग नहीं, कोई खोज नहीं और कोई लागत नहीं — और नस्ल पहचान ऑफ़लाइन भी काम करती है।
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 नस्लें</span>
-  <span class="marketing-chip">पूरी तरह ऑफ़लाइन काम करता है</span>
+  <span class="marketing-chip">ऑन-डिवाइस नस्ल पहचान</span>
   <span class="marketing-chip">हमेशा के लिए निःशुल्क</span>
   <span class="marketing-chip">खाते की आवश्यकता नहीं</span>
 </div>
@@ -34,13 +34,13 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">निजी और ऑफ़लाइन, तस्वीरें और डेटा आपके डिवाइस पर ही रहते हैं</span>
+    <span class="marketing-stat-label">निजी, आपकी तस्वीरें और स्कैन आपके डिवाइस पर ही रहते हैं</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">बिल्ली प्रेमी इसे क्यों चुनते हैं</p>
     <h2 id="nk-why-title" class="marketing-section-title">बिल्लियों की दुनिया के लिए एक शांत, संपूर्ण पॉकेट गाइड।</h2>
-    <p class="marketing-section-intro">Nekopedia कैफे के एक जिज्ञासु पल को एक वास्तविक उत्तर में बदल देता है, फिर इतिहास, प्रोफ़ाइल और थोड़े मज़े के साथ आगे बढ़ता रहता है — यह सब बिना किसी साइन-अप या सिग्नल के।</p>
+    <p class="marketing-section-intro">Nekopedia कैफे के एक जिज्ञासु पल को एक वास्तविक उत्तर में बदल देता है, फिर इतिहास, प्रोफ़ाइल और थोड़े मज़े के साथ आगे बढ़ता रहता है — यह सब बिना किसी साइन-अप के, और नस्ल पहचान बिना सिग्नल के भी काम करती है।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,17 +75,17 @@ redirect_from:
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>ऑफ़लाइन सीखें और खेलें</h3>
-      <p>आपने जो कुछ स्कैन किया है उसे दो मोड वाले गेम में बदलें, जो वास्तविक बिल्ली-ज्ञान बढ़ाने के लिए डिज़ाइन किए गए हैं।</p>
+      <h3>सीखें और खेलें</h3>
+      <p>दो मोड के साथ खुद को परखें, जो वास्तविक बिल्ली-ज्ञान बढ़ाने के लिए डिज़ाइन किए गए हैं।</p>
       <ul class="marketing-list">
         <li>नस्ल क्विज़: तस्वीर से नस्ल का अनुमान लगाएँ</li>
         <li>बिल्ली ट्रिविया: सही-या-गलत मिथक और तथ्य</li>
-        <li>खेलने के लिए कभी इंटरनेट की ज़रूरत नहीं</li>
+        <li>ताज़ा तस्वीरें और तथ्य, ऑनलाइन लोड होते हैं</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>डिफ़ॉल्ट रूप से निजी</h3>
-      <p>कोई खाता नहीं, कोई एनालिटिक्स नहीं, कोई विज्ञापन नहीं। आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं और सब कुछ बिना कनेक्शन के काम करता है।</p>
+      <p>कोई खाता नहीं, कोई एनालिटिक्स नहीं, कोई विज्ञापन नहीं। आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं, और नस्ल पहचान बिना कनेक्शन के काम करती है।</p>
       <ul class="marketing-list">
         <li>स्कैन और पसंदीदा स्थानीय रूप से संग्रहीत रहते हैं</li>
         <li>साइन अप करने को कुछ नहीं और भुगतान करने को कुछ नहीं</li>
@@ -120,7 +120,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>खेलें</h3>
-      <p>दो ऑफ़लाइन गेम मोड के साथ अपने ज्ञान को परखें जो तस्वीरों, तथ्यों और मिथकों को मिलाते हैं।</p>
+      <p>दो गेम मोड के साथ अपने ज्ञान को परखें जो तस्वीरों, तथ्यों और मिथकों को मिलाते हैं।</p>
       <ul class="marketing-list">
         <li>अर्जित करने योग्य पुरस्कार खिताबों वाला नस्ल क्विज़</li>
         <li>त्वरित सही-या-गलत राउंड के लिए बिल्ली ट्रिविया</li>
@@ -194,8 +194,8 @@ redirect_from:
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">गोपनीयता रुख</span>
-      <h3 class="marketing-price-summary">कोई सर्वर नहीं। कोई क्लाउड नहीं। कोई ट्रैकिंग नहीं।</h3>
-      <p>आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं। पहचान, प्रोफ़ाइल और गेम सभी स्थानीय रूप से चलते हैं, इसलिए उत्पाद का वादा इंटरफ़ेस जितना ही स्पष्ट है।</p>
+      <h3 class="marketing-price-summary">कोई अपलोड नहीं। कोई क्लाउड नहीं। कोई ट्रैकिंग नहीं।</h3>
+      <p>आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं। नस्ल पहचान पूरी तरह आपके डिवाइस पर होती है, और ऑनलाइन सुविधाएँ केवल बिल्लियों की सार्वजनिक तस्वीरें और तथ्य लाती हैं, इसलिए उत्पाद का वादा इंटरफ़ेस जितना ही स्पष्ट है।</p>
       <p class="marketing-price-note">वही गोपनीयता-प्रथम ढाँचा अवलोकन, सहायता और नीति पृष्ठों में भी चलता है।</p>
     </article>
   </div>

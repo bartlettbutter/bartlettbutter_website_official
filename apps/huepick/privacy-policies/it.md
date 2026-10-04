@@ -2,7 +2,7 @@
 layout: default
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
-app_description: "Informativa sulla Privacy"
+app_description: "Informativa sulla privacy"
 lang: it
 permalink: /huepick/privacy/it/
 redirect_from:

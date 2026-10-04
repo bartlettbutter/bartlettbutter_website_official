@@ -3,7 +3,7 @@ layout: app-huepick
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "Extrae paletas de fotos y transforma imágenes con herramientas creativas: gratis, privado, sin necesidad de cuenta."
-app_store_url: "https://apps.apple.com/app/huepick"
+app_store_url: "https://apps.apple.com/us/app/huepick/id6770318535"
 lang: es
 permalink: /huepick/es/
 redirect_from:
@@ -40,7 +40,7 @@ Haz una foto de cualquier cosa que te inspire y Huepick revela la paleta oculta 
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/huepick">
+    <a href="https://apps.apple.com/us/app/huepick/id6770318535">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>

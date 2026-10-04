@@ -2,7 +2,7 @@
 layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
-app_description: "تعرّف على أي سلالة كلاب فورًا. مجاني، دون اتصال، وخاص."
+app_description: "تعرّف على أي سلالة كلاب فورًا. مجاني، وخاص، ويعمل على جهازك."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: ar
 permalink: /barkpedia/ar/
@@ -12,13 +12,13 @@ redirect_from:
 
 # لكل كلب قصة. اكتشفها فورًا.
 
-التقط صورة لأي كلب فيسمّي Barkpedia السلالة، ثم يفتح القصة الكاملة وراءها — الطباع، والتاريخ، والأصل، والحقائق الممتعة. لا كتابة، ولا بحث، ولا إنترنت، ولا تكلفة.
+التقط صورة لأي كلب فيسمّي Barkpedia السلالة، ثم يفتح القصة الكاملة وراءها — الطباع، والتاريخ، والأصل، والحقائق الممتعة. لا كتابة، ولا بحث، ولا تكلفة — والتعرّف على السلالة يعمل حتى دون إشارة.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 سلالة</span>
-  <span class="marketing-chip">يعمل دون اتصال تمامًا</span>
+  <span class="marketing-chip">تعرّف على السلالة على جهازك</span>
   <span class="marketing-chip">مجاني إلى الأبد</span>
   <span class="marketing-chip">لا حاجة إلى حساب</span>
 </div>
@@ -34,7 +34,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">خاص ودون اتصال، مع بقاء الصور والبيانات على جهازك</span>
+    <span class="marketing-stat-label">خاص، مع بقاء صورك وعمليات المسح المحفوظة على جهازك</span>
   </article>
 </div>
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">لماذا يختاره محبو الكلاب</p>
     <h2 id="bp-why-title" class="marketing-section-title">دليل جيب هادئ ومتكامل لعالم الكلاب.</h2>
-    <p class="marketing-section-intro">يحوّل Barkpedia لحظة فضول في الحديقة إلى إجابة حقيقية، ثم يواصل بالتاريخ، والملف التعريفي، وقليل من المرح — كل ذلك دون تسجيل أو إشارة.</p>
+    <p class="marketing-section-intro">يحوّل Barkpedia لحظة فضول في الحديقة إلى إجابة حقيقية، ثم يواصل بالتاريخ، والملف التعريفي، وقليل من المرح — كل ذلك دون تسجيل، والتعرّف على السلالة يعمل حتى دون إشارة.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -62,7 +62,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>قائمة مرتّبة بالاحتمالات الأخرى للحالات المتقاربة</li>
         <li>ترتبط كل نتيجة مباشرة بملف تعريف كامل للسلالة</li>
-        <li>يعمل دون اتصال تمامًا، أينما كان الكلب</li>
+        <li>يعمل على جهازك، لذا يعمل دون اتصال أينما كان الكلب</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -75,17 +75,17 @@ redirect_from:
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>تعلّم والعب دون اتصال</h3>
+      <h3>تعلّم والعب</h3>
       <p>حوّل كل ما مسحته إلى لعبة بوضعين مصمّمين لتنمية معرفة حقيقية بالكلاب.</p>
       <ul class="marketing-list">
         <li>اختبار السلالات: خمّن السلالة من صورة</li>
         <li>معلومات الكلاب: خرافات وحقائق صواب أم خطأ</li>
-        <li>لا حاجة إلى إنترنت للعب، أبدًا</li>
+        <li>معلومات الكلاب تعمل دون اتصال في أي وقت</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>خاص افتراضيًا</h3>
-      <p>لا حسابات، ولا تحليلات، ولا إعلانات. لا تغادر صورك جهازك أبدًا وكل شيء يعمل دون اتصال.</p>
+      <p>لا حسابات، ولا تحليلات، ولا إعلانات. تُحلَّل صورك على جهازك ولا تُرفع أبدًا.</p>
       <ul class="marketing-list">
         <li>تبقى عمليات المسح والمفضّلات مخزّنة محليًا</li>
         <li>لا شيء للتسجيل فيه ولا شيء لدفعه</li>
@@ -120,7 +120,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>العب</h3>
-      <p>اختبر معرفتك بوضعَي لعب دون اتصال يمزجان الصور والحقائق والخرافات.</p>
+      <p>اختبر معرفتك بوضعَي لعب يمزجان الصور والحقائق والخرافات.</p>
       <ul class="marketing-list">
         <li>اختبار السلالات مع ألقاب مكافآت تكسبها</li>
         <li>معلومات الكلاب لجولات صواب أم خطأ سريعة</li>
@@ -194,8 +194,8 @@ redirect_from:
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">موقف الخصوصية</span>
-      <h3 class="marketing-price-summary">لا خوادم. لا سحابة. لا تتبع.</h3>
-      <p>لا تغادر صورك جهازك أبدًا. يعمل التعرّف، والملفات التعريفية، والألعاب كلها محليًا، فيكون وعد المنتج واضحًا كوضوح الواجهة.</p>
+      <h3 class="marketing-price-summary">لا رفع للصور. لا حسابات. لا تتبع.</h3>
+      <p>لا تغادر صورك جهازك أبدًا. يجري التعرّف على السلالة بالكامل على جهازك، بينما تُحمَّل الملفات التعريفية للسلالات وصور الاختبار من مصادر عامة لمعلومات سلالات الكلاب دون إرفاق أي بيانات شخصية.</p>
       <p class="marketing-price-note">يمتد إطار الخصوصية أولًا نفسه عبر صفحات النظرة العامة، والدعم، والسياسة.</p>
     </article>
   </div>

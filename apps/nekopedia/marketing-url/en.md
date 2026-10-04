@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "Identify any cat breed instantly. Free, offline, and private."
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "Identify any cat breed instantly. Free, private, and on-device."
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 permalink: /nekopedia/
 redirect_from:
   - /marketing-url/nekopedia/
@@ -11,13 +11,13 @@ redirect_from:
 
 # Every cat has a story. Discover it instantly.
 
-Snap a photo of any cat and Nekopedia names the breed, then opens the whole story behind it — temperament, history, origin, and fun facts. No typing, no searching, no internet, and no cost.
+Snap a photo of any cat and Nekopedia names the breed, then opens the whole story behind it — temperament, history, origin, and fun facts. No typing, no searching, and no cost — and breed ID works even offline.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 breeds</span>
-  <span class="marketing-chip">Works fully offline</span>
+  <span class="marketing-chip">On-device breed ID</span>
   <span class="marketing-chip">Free forever</span>
   <span class="marketing-chip">No account required</span>
 </div>
@@ -33,13 +33,13 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">private and offline, with photos and data staying on your device</span>
+    <span class="marketing-stat-label">private, with your photos and scans staying on your device</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -52,7 +52,7 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why cat lovers choose it</p>
     <h2 id="nk-why-title" class="marketing-section-title">A calm, complete pocket guide to the cat world.</h2>
-    <p class="marketing-section-intro">Nekopedia turns a curious moment at the café into a real answer, then keeps going with the history, the profile, and a little fun — all without a sign-up or a signal.</p>
+    <p class="marketing-section-intro">Nekopedia turns a curious moment at the café into a real answer, then keeps going with the history, the profile, and a little fun — all without a sign-up, and breed ID works even without a signal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -74,17 +74,17 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Learn and play offline</h3>
-      <p>Turn everything you have scanned into a game with two modes designed to grow real cat knowledge.</p>
+      <h3>Learn and play</h3>
+      <p>Put yourself to the test with two modes designed to grow real cat knowledge.</p>
       <ul class="marketing-list">
         <li>Breed Quiz: guess the breed from a photo</li>
         <li>Cat Trivia: true-or-false myths and facts</li>
-        <li>No internet needed to play, ever</li>
+        <li>Fresh photos and facts, loaded online</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Private by default</h3>
-      <p>No accounts, no analytics, no ads. Your photos never leave your device and everything works without a connection.</p>
+      <p>No accounts, no analytics, no ads. Your photos never leave your device, and breed ID works without a connection.</p>
       <ul class="marketing-list">
         <li>Scans and favorites stay stored locally</li>
         <li>Nothing to sign up for and nothing to pay</li>
@@ -119,7 +119,7 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
     </article>
     <article class="marketing-card">
       <h3>Play</h3>
-      <p>Test your knowledge with two offline game modes that mix photos, facts, and myths.</p>
+      <p>Test your knowledge with two game modes that mix photos, facts, and myths.</p>
       <ul class="marketing-list">
         <li>Breed Quiz with reward titles to earn</li>
         <li>Cat Trivia for quick true-or-false rounds</li>
@@ -193,8 +193,8 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacy posture</span>
-      <h3 class="marketing-price-summary">No servers. No cloud. No tracking.</h3>
-      <p>Your photos never leave your device. Identification, profiles, and games all run locally, so the product promise is as clear as the interface.</p>
+      <h3 class="marketing-price-summary">No uploads. No cloud. No tracking.</h3>
+      <p>Your photos never leave your device. Breed identification runs entirely on-device, and online features only fetch public cat photos and facts, so the product promise is as clear as the interface.</p>
       <p class="marketing-price-note">That same privacy-first framing carries through overview, support, and policy pages.</p>
     </article>
   </div>

@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "Identifiziere jede Katzenrasse sofort. Kostenlos, offline und privat."
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "Identifiziere jede Katzenrasse sofort. Kostenlos, privat und direkt auf dem Gerät."
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 lang: de
 permalink: /nekopedia/de/
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 
 # Jede Katze hat eine Geschichte. Entdecke sie sofort.
 
-Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öffnet dann die ganze Geschichte dahinter — Temperament, Geschichte, Herkunft und spannende Fakten. Kein Tippen, keine Suche, kein Internet und keine Kosten.
+Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öffnet dann die ganze Geschichte dahinter — Temperament, Geschichte, Herkunft und spannende Fakten. Kein Tippen, keine Suche und keine Kosten — und die Rassenerkennung funktioniert sogar offline.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 Rassen</span>
-  <span class="marketing-chip">Funktioniert vollständig offline</span>
+  <span class="marketing-chip">Rassenerkennung auf dem Gerät</span>
   <span class="marketing-chip">Für immer kostenlos</span>
   <span class="marketing-chip">Kein Konto erforderlich</span>
 </div>
@@ -34,13 +34,13 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privat und offline, deine Fotos und Daten bleiben auf deinem Gerät</span>
+    <span class="marketing-stat-label">privat, deine Fotos und Scans bleiben auf deinem Gerät</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -53,7 +53,7 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Warum Katzenliebhaber es wählen</p>
     <h2 id="nk-why-title" class="marketing-section-title">Ein ruhiger, vollständiger Taschenführer durch die Welt der Katzen.</h2>
-    <p class="marketing-section-intro">Nekopedia macht aus einem neugierigen Moment im Café eine echte Antwort und geht dann weiter mit der Geschichte, dem Profil und ein wenig Spaß — alles ohne Anmeldung und ohne Signal.</p>
+    <p class="marketing-section-intro">Nekopedia macht aus einem neugierigen Moment im Café eine echte Antwort und geht dann weiter mit der Geschichte, dem Profil und ein wenig Spaß — alles ohne Anmeldung, und die Rassenerkennung klappt sogar ohne Signal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,17 +75,17 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Lerne und spiele offline</h3>
-      <p>Verwandle alles, was du gescannt hast, in ein Spiel mit zwei Modi, die echtes Katzenwissen aufbauen.</p>
+      <h3>Lerne und spiele</h3>
+      <p>Stell dich der Herausforderung mit zwei Modi, die echtes Katzenwissen aufbauen.</p>
       <ul class="marketing-list">
         <li>Rassen-Quiz: Errate die Rasse anhand eines Fotos</li>
         <li>Katzen-Trivia: Richtig-oder-Falsch-Mythen und -Fakten</li>
-        <li>Kein Internet zum Spielen nötig, niemals</li>
+        <li>Frische Fotos und Fakten, online geladen</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Privat von Haus aus</h3>
-      <p>Keine Konten, keine Analysen, keine Werbung. Deine Fotos verlassen niemals dein Gerät und alles funktioniert ohne Verbindung.</p>
+      <p>Keine Konten, keine Analysen, keine Werbung. Deine Fotos verlassen niemals dein Gerät, und die Rassenerkennung funktioniert ohne Verbindung.</p>
       <ul class="marketing-list">
         <li>Scans und Favoriten bleiben lokal gespeichert</li>
         <li>Nichts, wofür man sich anmelden muss, und nichts zu bezahlen</li>
@@ -120,7 +120,7 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
     </article>
     <article class="marketing-card">
       <h3>Spielen</h3>
-      <p>Teste dein Wissen mit zwei Offline-Spielmodi, die Fotos, Fakten und Mythen mischen.</p>
+      <p>Teste dein Wissen mit zwei Spielmodi, die Fotos, Fakten und Mythen mischen.</p>
       <ul class="marketing-list">
         <li>Rassen-Quiz mit Belohnungstiteln zum Verdienen</li>
         <li>Katzen-Trivia für schnelle Richtig-oder-Falsch-Runden</li>
@@ -194,8 +194,8 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Datenschutzhaltung</span>
-      <h3 class="marketing-price-summary">Keine Server. Keine Cloud. Kein Tracking.</h3>
-      <p>Deine Fotos verlassen niemals dein Gerät. Identifizierung, Profile und Spiele laufen alle lokal, damit das Produktversprechen so klar ist wie die Oberfläche.</p>
+      <h3 class="marketing-price-summary">Keine Uploads. Keine Cloud. Kein Tracking.</h3>
+      <p>Deine Fotos verlassen niemals dein Gerät. Die Rassenerkennung läuft vollständig auf dem Gerät, und Online-Funktionen laden nur öffentliche Katzenfotos und -fakten, damit das Produktversprechen so klar ist wie die Oberfläche.</p>
       <p class="marketing-price-note">Dieselbe datenschutzorientierte Ausrichtung zieht sich durch Übersichts-, Support- und Richtlinienseiten.</p>
     </article>
   </div>

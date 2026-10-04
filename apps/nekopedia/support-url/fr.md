@@ -21,7 +21,7 @@ Nekopedia utilise l'intelligence embarquée pour analyser votre photo et identif
 
 ### Ai-je besoin d'une connexion internet ?
 
-L'identification des races et les favoris fonctionnent entièrement hors ligne, sans internet. Cependant, les détails des races, le quiz et les anecdotes félines récupèrent du contenu sur internet et nécessitent une connexion.
+L'identification des races, les favoris et les profils intégrés des 48 races fonctionnent entièrement hors ligne, sans internet. Cependant, les photos des races et le Quiz des Races récupèrent du contenu sur internet et nécessitent une connexion. Les Anecdotes Félines et les anecdotes des fiches de race utilisent du contenu en direct en anglais (connexion requise) et du contenu intégré, disponible hors ligne, dans toutes les autres langues.
 
 ### Nekopedia est-il gratuit ?
 
@@ -59,7 +59,7 @@ L'onglet Explorer vous permet de rechercher les 48 races par nom ou de parcourir
 
 ### Comment fonctionnent les jeux Quiz et Anecdotes ?
 
-Les deux jeux nécessitent une connexion internet. Le Quiz des Races vous montre une photo de chat et vous demande de choisir la bonne race parmi quatre choix, avec 10 questions par manche. Les Anecdotes Félines présentent des affirmations vrai ou faux sur les chats, également 10 questions par manche. Les deux jeux attribuent un titre de récompense en fonction de votre score.
+Le Quiz des Races nécessite une connexion internet ; les Anecdotes Félines n'en ont besoin que lorsque l'app est en anglais. Le Quiz des Races vous montre une photo de chat et vous demande de choisir la bonne race parmi quatre choix, avec 10 questions par manche. Les Anecdotes Félines présentent des affirmations vrai ou faux sur les chats, également 10 questions par manche. Les deux jeux attribuent un titre de récompense en fonction de votre score.
 
 ### Nekopedia fonctionne-t-il sur iPad ?
 

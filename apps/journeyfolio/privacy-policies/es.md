@@ -2,7 +2,7 @@
 layout: default
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
-app_description: "Política de Privacidad"
+app_description: "Política de privacidad"
 lang: es
 permalink: /journeyfolio/privacy/es/
 redirect_from:

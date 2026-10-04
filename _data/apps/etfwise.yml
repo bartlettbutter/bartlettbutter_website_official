@@ -15,15 +15,15 @@ en:
     # copy. `alt` is a generic, per-screen accessible description.
     alt: "ETFWise app screen"
     shots:
-      - /assets/screenshots/etfwise/hero/01.png
-      - /assets/screenshots/etfwise/hero/02.png
-      - /assets/screenshots/etfwise/hero/03.png
-      - /assets/screenshots/etfwise/hero/04.png
-      - /assets/screenshots/etfwise/hero/05.png
-      - /assets/screenshots/etfwise/hero/06.png
-      - /assets/screenshots/etfwise/hero/07.png
-      - /assets/screenshots/etfwise/hero/08.png
-      - /assets/screenshots/etfwise/hero/09.png
+      - /assets/screenshots/etfwise/01-welcome.png
+      - /assets/screenshots/etfwise/02-briefing.png
+      - /assets/screenshots/etfwise/03-movers.png
+      - /assets/screenshots/etfwise/04-indices.png
+      - /assets/screenshots/etfwise/05-picks.png
+      - /assets/screenshots/etfwise/06-sector.png
+      - /assets/screenshots/etfwise/07-search.png
+      - /assets/screenshots/etfwise/08-overview.png
+      - /assets/screenshots/etfwise/09-metrics.png
   showcase:
     label: "See it in action"
     title: "From today's briefing to deep fund analysis"
@@ -65,3 +65,605 @@ en:
         alt: "Fund metrics screen showing AUM, dividend yield, trailing and annual returns, and news sentiment for SPY"
         title: "Performance history and sentiment"
         body: "Go deeper with AUM, dividend yield, year-to-date and multi-year returns, trailing and annual performance, plus a seven-day news sentiment score and the latest headlines — all in one scroll."
+
+zh-Hans:
+  showcase:
+    label: "实际体验"
+    title: "从今日简报到深度基金分析"
+    intro: "ETFWise 的每个界面都为快速解答投资者的问题而设计：今天该关注什么？市场走势如何？这只 ETF 究竟由什么构成？"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "ETFWise 欢迎界面，突出展示每日精选、即时研究和设备端分析"
+        title: "每日精选，一点即可研究"
+        body: "打开 ETFWise，即可获取各类别中按资产管理规模排名的美国交易顶级 ETF，每日刷新。搜索任何基金即可查看价格和分析师评级，还有直接在您设备上生成的均衡分析。"
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "今日简报界面，以通俗易懂的要点概括当天市场"
+        title: "从今日简报开始"
+        body: "一份带日期的市场简报用通俗的语言概括本周动态——追踪的 ETF 中有多少上涨或下跌、主要指数走势如何、哪些行业领涨或落后——看一眼，就能继续您的一天。"
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "今日市场界面，列出一周内的涨幅榜和跌幅榜"
+        title: "看清市场动向"
+        body: "今日市场列出本周涨幅和跌幅最大的 ETF，附有清晰的百分比变化、类别标签和基金名称，让您随时了解整个 ETF 市场的关注点流向何处。"
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "主要指数界面，按标普500、纳斯达克和道琼斯分组展示 ETF 及其周涨跌幅"
+        title: "追踪主要指数"
+        body: "关键基准 ETF 按标普500、纳斯达克和道琼斯分组，每只都附有本周涨跌幅，整个市场全貌一目了然。"
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "今日精选界面，展示主要指数和股息 ETF 精选卡片，含价格、情绪和费用率"
+        title: "跨类别精选"
+        body: "按类别浏览今日精选基金——主要指数、股息等——每张卡片都显示价格、费用率、资产管理规模、情绪解读，以及一句话说明其入选理由。"
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "行业详情界面，列出科技以及比特币与加密货币 ETF 的价格和情绪"
+        title: "按行业探索基金"
+        body: "深入了解行业、大宗商品和主题 ETF——科技、能源、金融、黄金、加密货币、AI 和清洁能源——按行业分门别类，助您找到契合自己观点的投资敞口。"
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "即时搜索界面，按查询词 SPY 筛选代码，显示匹配的代码和发行商"
+        title: "即时搜索 450 多个代码"
+        body: "输入任意代码，即可按名称和发行商在数百个可搜索代码中筛选，只需敲几下键盘就能找到想要的基金。"
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "SPY 基金概览界面，显示价格、费用率、跟踪指数、简介和主要持仓"
+        title: "完整的基金资料"
+        body: "点击任何 ETF 查看完整概览——当前价格、费用率、跟踪的指数、简明的基金介绍，以及附带精确权重的主要持仓——让您确切知道自己持有的是什么。"
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "SPY 基金指标界面，显示资产管理规模、股息收益率、滚动收益与年度收益以及新闻情绪"
+        title: "业绩历史与情绪"
+        body: "进一步查看资产管理规模、股息收益率、年初至今及多年回报、滚动与年度业绩，以及七天新闻情绪评分和最新头条——一次滑动，尽收眼底。"
+
+zh-Hant:
+  showcase:
+    label: "實際體驗"
+    title: "從今日簡報到深度基金分析"
+    intro: "ETFWise 的每個畫面都為快速解答投資者的問題而設計：今天該關注什麼？市場走勢如何？這檔 ETF 究竟由什麼構成？"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "ETFWise 歡迎畫面，突顯每日精選、即時研究和裝置端分析"
+        title: "每日精選，一點即可研究"
+        body: "開啟 ETFWise，即可取得各類別中依資產管理規模排名的美國交易頂級 ETF，每日重新整理。搜尋任何基金即可查看價格和分析師評級，還有直接在您裝置上產生的均衡分析。"
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "今日簡報畫面，以淺顯易懂的重點概述當天市場"
+        title: "從今日簡報開始"
+        body: "一份標註日期的市場簡報以白話概述本週動態——追蹤的 ETF 中有多少上漲或下跌、主要指數走勢如何、哪些行業領漲或落後——看一眼，就能繼續您的一天。"
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "今日市場畫面，列出一週內的漲幅榜和跌幅榜"
+        title: "看清市場動向"
+        body: "今日市場列出本週漲幅與跌幅最大的 ETF，附有清楚的百分比變化、類別標籤和基金名稱，讓您隨時掌握整個 ETF 市場的關注焦點流向何處。"
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "主要指數畫面，依標普500、納斯達克和道瓊斯分組顯示 ETF 及其週漲跌幅"
+        title: "追蹤主要指數"
+        body: "關鍵基準 ETF 依標普500、納斯達克和道瓊斯分組，每檔都附有本週漲跌幅，整個市場全貌一目了然。"
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "今日精選畫面，顯示主要指數和股息 ETF 精選卡片，含價格、情緒和費用率"
+        title: "跨類別精選"
+        body: "依類別瀏覽今日精選基金——主要指數、股息等——每張卡片都顯示價格、費用率、資產管理規模、情緒解讀，以及一句話說明其入選理由。"
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "行業詳情畫面，列出科技以及比特幣與加密貨幣 ETF 的價格和情緒"
+        title: "依行業探索基金"
+        body: "深入了解行業、大宗商品和主題 ETF——科技、能源、金融、黃金、加密貨幣、AI 和潔淨能源——依行業分門別類，助您找到符合自身觀點的投資部位。"
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "即時搜尋畫面，依查詢詞 SPY 篩選股票代碼，顯示相符的代碼和提供商"
+        title: "即時搜尋 450 多個股票代碼"
+        body: "輸入任意代碼，即可依名稱和提供商在數百個可搜尋的股票代碼中篩選，只需敲幾下鍵盤就能找到想要的基金。"
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "SPY 基金概覽畫面，顯示價格、費用率、跟蹤指數、簡介和主要持倉"
+        title: "完整的基金資料"
+        body: "點選任何 ETF 查看完整概覽——目前價格、費用率、跟蹤的指數、簡明的基金介紹，以及附帶精確權重的主要持倉——讓您確切知道自己持有的是什麼。"
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "SPY 基金指標畫面，顯示資產管理規模、股息殖利率、滾動報酬與年度報酬以及新聞情緒"
+        title: "業績歷史與情緒"
+        body: "進一步查看資產管理規模、股息殖利率、年初至今及多年報酬、滾動與年度績效，以及七天新聞情緒評分和最新頭條——一次滑動，盡收眼底。"
+
+ja:
+  showcase:
+    label: "実際の画面"
+    title: "今日のブリーフィングから詳細なファンド分析まで"
+    intro: "ETFWise のすべての画面は、投資家の疑問にすばやく答えるために作られています。今日は何をチェックすべきか、市場はどう動いているのか、そしてこの ETF は実際に何で構成されているのか。"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "毎日の厳選おすすめ、即時リサーチ、デバイス上での分析を紹介する ETFWise のウェルカム画面"
+        title: "毎日のおすすめとワンタップリサーチ"
+        body: "ETFWise を開けば、米国で取引される主要 ETF をカテゴリーごとに運用資産（AUM）順でランク付けし、毎日更新してお届けします。任意のファンドを検索して価格やアナリスト評価を確認でき、バランスの取れた分析がデバイス上でそのまま生成されます。"
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "その日の市場を分かりやすい箇条書きでまとめた今日のブリーフィング画面"
+        title: "まずは今日のブリーフィングから"
+        body: "日付入りの市場ブリーフィングが、その週の動きを分かりやすい言葉でまとめます。追跡している ETF のうちいくつが上昇・下落したか、主要指数がどう動いたか、どのセクターが相場を牽引し、どのセクターが出遅れたか。一度確認すれば、あとはいつもの一日に戻れます。"
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "1週間の上昇率トップと下落率トップを一覧表示する今日のマーケット画面"
+        title: "動いている銘柄をチェック"
+        body: "今日のマーケットでは、その週の上昇率・下落率トップを、明確な変動率、カテゴリータグ、ファンド名とともにランキング表示。ETF 市場全体で注目がどこに集まっているかを常に把握できます。"
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "S&P 500、ナスダック、ダウ・ジョーンズの ETF を週間騰落率とともにグループ表示する主要指数画面"
+        title: "主要指数を追跡"
+        body: "主要なベンチマーク ETF を S&P 500、ナスダック、ダウ・ジョーンズごとにグループ化し、それぞれの週間の値動きを表示。市場全体の姿がひと目で読み取れます。"
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "価格、センチメント、経費率を示す主要指数 ETF と配当 ETF の厳選カードが並ぶ今日のおすすめ画面"
+        title: "カテゴリーをまたぐ厳選おすすめ"
+        body: "今日の厳選ファンドを主要指数、配当などのカテゴリー別に閲覧できます。各カードには価格、経費率、運用資産（AUM）、センチメントの見立て、そしてリスト入りした理由が一言で表示されます。"
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "テクノロジーおよびビットコイン・暗号資産 ETF を価格とセンチメントとともに一覧表示するセクター詳細画面"
+        title: "業種別にファンドを探す"
+        body: "テクノロジー、エネルギー、金融、金、暗号資産、AI、クリーンエネルギーなど、セクター・コモディティ・テーマ型の ETF を業種別に整理。自分の見方に合ったエクスポージャーを見つけられます。"
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "検索語 SPY でティッカーを絞り込み、一致するシンボルとプロバイダーを表示する即時検索画面"
+        title: "450以上のティッカーを即時検索"
+        body: "任意のシンボルを入力すれば、数百の検索可能なティッカーを名前やプロバイダーで絞り込めます。目当てのファンドまで、ほんの数回のキー入力です。"
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "価格、経費率、追跡指数、概要、主要保有銘柄を表示する SPY のファンド概要画面"
+        title: "ファンドの完全なプロフィール"
+        body: "任意の ETF をタップすると、現在の価格、経費率、追跡する指数、分かりやすいファンドの説明、正確な比率付きの主要保有銘柄まで、概要をすべて確認できます。自分が何を保有しているのかを正確に把握できます。"
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "SPY の運用資産（AUM）、配当利回り、トレーリングリターンと年間リターン、ニュースセンチメントを表示するファンド指標画面"
+        title: "パフォーマンス履歴とセンチメント"
+        body: "運用資産（AUM）、配当利回り、年初来および複数年のリターン、トレーリングと年間のパフォーマンスに加え、7日間のニュースセンチメントスコアと最新ヘッドラインまで、さらに深く掘り下げられます。すべてワンスクロールで確認できます。"
+
+ko:
+  showcase:
+    label: "실제 화면 보기"
+    title: "오늘의 브리핑부터 심층 펀드 분석까지"
+    intro: "ETFWise의 모든 화면은 투자자의 질문에 빠르게 답하도록 만들어졌습니다. 오늘은 무엇을 살펴봐야 할까? 시장은 어떻게 움직이고 있을까? 이 ETF는 실제로 무엇으로 구성되어 있을까?"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "매일 엄선된 추천, 즉각 리서치, 기기 내 분석을 강조하는 ETFWise 환영 화면"
+        title: "매일의 추천과 원탭 리서치"
+        body: "ETFWise를 열면 미국에서 거래되는 상위 ETF를 카테고리별로 운용 자산(AUM) 순으로 정렬해 매일 새롭게 보여 줍니다. 어떤 펀드든 검색해 가격과 애널리스트 평가를 확인하고, 기기에서 바로 생성되는 균형 잡힌 분석을 받아 보세요."
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "그날의 시장을 쉬운 글머리 기호로 요약한 오늘의 브리핑 화면"
+        title: "오늘의 브리핑으로 시작하세요"
+        body: "날짜가 표시된 시장 브리핑이 한 주를 쉬운 말로 요약합니다. 추적 중인 ETF 중 몇 개가 오르고 내렸는지, 주요 지수가 어떻게 움직였는지, 어떤 섹터가 앞서고 뒤처졌는지 한 번만 확인하고 하루를 이어 가세요."
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "1주일간의 상위 상승 종목과 하락 종목을 나열한 오늘의 시장 화면"
+        title: "무엇이 움직이는지 확인하세요"
+        body: "오늘의 시장은 한 주의 상위 상승·하락 종목을 명확한 등락률, 카테고리 태그, 펀드 이름과 함께 순위로 보여 주어, ETF 시장 전반에서 관심이 어디로 몰리는지 언제나 알 수 있습니다."
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "S&P 500, 나스닥, 다우존스 ETF를 주간 등락률과 함께 묶어 보여 주는 주요 지수 화면"
+        title: "주요 지수를 추적하세요"
+        body: "핵심 벤치마크 ETF를 S&P 500, 나스닥, 다우존스별로 묶고 각각의 주간 움직임을 함께 표시해, 시장 전체의 그림을 한눈에 읽을 수 있습니다."
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "가격, 감성, 보수율을 보여 주는 주요 지수 및 배당 ETF 추천 카드가 담긴 오늘의 추천 화면"
+        title: "카테고리별 엄선된 추천"
+        body: "오늘 엄선된 펀드를 주요 지수, 배당 등 카테고리별로 둘러보세요. 각 카드에는 가격, 보수율, 운용 자산(AUM), 감성 판단, 그리고 목록에 오른 이유 한 줄이 표시됩니다."
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "기술 및 비트코인·암호화폐 ETF를 가격, 감성과 함께 나열한 섹터 상세 화면"
+        title: "산업별로 펀드를 탐색하세요"
+        body: "기술, 에너지, 금융, 금, 암호화폐, AI, 클린 에너지 등 섹터·원자재·테마 ETF를 산업별로 정리해, 나의 관점에 맞는 투자 노출을 찾을 수 있습니다."
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "검색어 SPY로 티커를 필터링해 일치하는 심볼과 제공사를 보여 주는 즉각 검색 화면"
+        title: "450개 이상의 티커를 즉시 검색"
+        body: "아무 심볼이나 입력하면 수백 개의 검색 가능한 티커를 이름과 제공사로 필터링할 수 있어, 원하는 펀드를 몇 번의 입력만으로 찾을 수 있습니다."
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "가격, 보수율, 추적 지수, 소개 문구, 주요 보유 종목을 보여 주는 SPY 펀드 개요 화면"
+        title: "완전한 펀드 프로필"
+        body: "어떤 ETF든 탭하면 현재 가격, 보수율, 추적 지수, 쉬운 펀드 설명, 정확한 비중이 표시된 주요 보유 종목까지 전체 개요를 확인할 수 있어, 내가 무엇을 보유하고 있는지 정확히 알 수 있습니다."
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "SPY의 운용 자산(AUM), 배당 수익률, 트레일링 및 연간 수익률, 뉴스 감성을 보여 주는 펀드 지표 화면"
+        title: "성과 이력과 감성"
+        body: "운용 자산(AUM), 배당 수익률, 연초 대비 및 다년간 수익률, 트레일링·연간 성과는 물론 7일간의 뉴스 감성 점수와 최신 헤드라인까지, 한 번의 스크롤로 더 깊이 살펴보세요."
+
+es:
+  showcase:
+    label: "Míralo en acción"
+    title: "Del informe de hoy al análisis profundo de fondos"
+    intro: "Cada pantalla de ETFWise está pensada para responder rápido a las preguntas de un inversor: qué debería mirar hoy, cómo se está moviendo el mercado y de qué está hecho realmente este ETF."
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "Pantalla de bienvenida de ETFWise que destaca las selecciones diarias, la investigación instantánea y el análisis en el dispositivo"
+        title: "Selecciones diarias e investigación con un toque"
+        body: "Abre ETFWise y obtén los principales ETF cotizados en EE. UU., ordenados por patrimonio gestionado en cada categoría y actualizados cada día. Busca cualquier fondo para ver su precio y las calificaciones de los analistas, con un análisis equilibrado generado directamente en tu dispositivo."
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "Pantalla del informe de hoy con viñetas que resumen el mercado del día en lenguaje sencillo"
+        title: "Empieza con el informe de hoy"
+        body: "Un informe de mercado fechado resume la semana en lenguaje sencillo —cuántos de los ETF seguidos subieron o bajaron, cómo se movieron los principales índices y qué sectores lideraron o se quedaron atrás—, para que lo revises una vez y sigas con tu día."
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "Pantalla del mercado de hoy con las mayores subidas y bajadas de la semana"
+        title: "Mira qué se está moviendo"
+        body: "El mercado de hoy clasifica las mayores subidas y bajadas de la semana con variaciones porcentuales claras, etiquetas de categoría y nombres de fondos, para que siempre sepas hacia dónde fluye la atención en el panorama de los ETF."
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "Pantalla de índices principales que agrupa los ETF del S&P 500, el Nasdaq y el Dow Jones con sus variaciones semanales"
+        title: "Sigue los principales índices"
+        body: "Los ETF de referencia clave se agrupan por S&P 500, Nasdaq y Dow Jones, cada uno con su movimiento semanal, para que el panorama completo del mercado se lea de un vistazo."
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "Pantalla de selecciones de hoy con tarjetas de ETF de Índice Principal y Dividendos que muestran precio, sentimiento y ratio de gastos"
+        title: "Selecciones en todas las categorías"
+        body: "Explora los fondos seleccionados de hoy por categoría —Índice Principal, Dividendos y más—, con tarjetas que muestran precio, ratio de gastos, patrimonio gestionado, una lectura del sentimiento y una línea que explica por qué entró en la lista."
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "Pantalla de detalle de sector con ETF de Tecnología y de Bitcoin y Cripto, con precio y sentimiento"
+        title: "Explora fondos por industria"
+        body: "Sumérgete en ETF sectoriales, de materias primas y temáticos —tecnología, energía, finanzas, oro, cripto, IA y energía limpia—, organizados por industria para que encuentres la exposición que encaja con tu visión."
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "Pantalla de búsqueda instantánea que filtra tickers con la consulta SPY y muestra los símbolos y proveedores coincidentes"
+        title: "Busca más de 450 tickers al instante"
+        body: "Escribe cualquier símbolo y filtra entre cientos de tickers buscables por nombre y proveedor, para que el fondo que buscas esté a solo unas pulsaciones."
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "Pantalla de resumen del fondo SPY con precio, ratio de gastos, índice de seguimiento, descripción y principales holdings"
+        title: "Un perfil completo del fondo"
+        body: "Toca cualquier ETF para ver el resumen completo —precio actual, ratio de gastos, el índice que replica, una descripción clara del fondo y sus principales holdings con su ponderación exacta— y saber con precisión qué tienes."
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "Pantalla de métricas del fondo SPY con patrimonio gestionado, rentabilidad por dividendo, rendimientos por periodo y anuales y sentimiento de noticias"
+        title: "Historial de rendimiento y sentimiento"
+        body: "Profundiza con el patrimonio gestionado, la rentabilidad por dividendo, los rendimientos en lo que va de año y a varios años, el rendimiento por periodo y anual, además de una puntuación de sentimiento de noticias de siete días y los titulares más recientes, todo en un solo desplazamiento."
+
+fr:
+  showcase:
+    label: "Découvrez-le en action"
+    title: "Du briefing du jour à l'analyse approfondie des fonds"
+    intro: "Chaque écran d'ETFWise est conçu pour répondre rapidement aux questions d'un investisseur : que regarder aujourd'hui, comment évolue le marché, et de quoi cet ETF est-il réellement composé ?"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "Écran d'accueil d'ETFWise mettant en avant les sélections quotidiennes, la recherche instantanée et l'analyse sur l'appareil"
+        title: "Sélections quotidiennes et recherche en un geste"
+        body: "Ouvrez ETFWise et retrouvez les meilleurs ETF cotés aux États-Unis, classés par actif sous gestion dans chaque catégorie et actualisés chaque jour. Recherchez n'importe quel fonds pour consulter son prix et les notes des analystes, avec une analyse équilibrée générée directement sur votre appareil."
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "Écran Briefing du jour avec des points clés résumant le marché du jour en langage simple"
+        title: "Commencez par le briefing du jour"
+        body: "Un briefing de marché daté résume la semaine en langage simple — combien d'ETF suivis ont progressé ou reculé, comment les grands indices ont évolué et quels secteurs ont mené ou sont restés à la traîne — pour que vous fassiez le point une fois avant de poursuivre votre journée."
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "Écran Marché du jour listant les plus fortes hausses et les plus fortes baisses sur une semaine"
+        title: "Voyez ce qui bouge"
+        body: "Marché du jour classe les plus fortes hausses et baisses de la semaine avec des variations en pourcentage claires, des étiquettes de catégorie et les noms des fonds, pour que vous sachiez toujours où se porte l'attention dans l'univers des ETF."
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "Écran Grands indices regroupant les ETF S&P 500, Nasdaq et Dow Jones avec leurs variations hebdomadaires"
+        title: "Suivez les grands indices"
+        body: "Les principaux ETF de référence sont regroupés par S&P 500, Nasdaq et Dow Jones, chacun avec sa variation hebdomadaire, pour que la vue d'ensemble du marché reste lisible d'un coup d'œil."
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "Écran Sélections du jour avec des cartes d'ETF Indice Principal et Dividendes indiquant le prix, le sentiment et le ratio de frais"
+        title: "Des sélections dans toutes les catégories"
+        body: "Parcourez les fonds sélectionnés du jour par catégorie — Indice Principal, Dividendes et plus encore — chaque carte affichant le prix, le ratio de frais, l'actif sous gestion, une lecture du sentiment et une raison en une ligne expliquant sa présence dans la liste."
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "Écran de détail sectoriel listant des ETF Technologie et Bitcoin et crypto avec prix et sentiment"
+        title: "Explorez les fonds par secteur d'activité"
+        body: "Plongez dans les ETF sectoriels, de matières premières et thématiques — technologie, énergie, finance, or, crypto, IA et énergie propre — organisés par secteur d'activité pour trouver l'exposition qui correspond à votre vision."
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "Écran Recherche instantanée filtrant les symboles avec la requête SPY et affichant les symboles et fournisseurs correspondants"
+        title: "Recherchez instantanément plus de 450 symboles"
+        body: "Tapez n'importe quel symbole et filtrez parmi des centaines de symboles consultables par nom et fournisseur : le fonds que vous cherchez n'est qu'à quelques frappes."
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "Écran d'aperçu du fonds SPY indiquant le prix, le ratio de frais, l'indice suivi, une description et les principaux avoirs"
+        title: "Un profil de fonds complet"
+        body: "Touchez n'importe quel ETF pour afficher l'aperçu complet — prix actuel, ratio de frais, indice suivi, description claire du fonds et principaux avoirs avec leur pondération exacte — afin de savoir précisément ce que vous détenez."
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "Écran des indicateurs du fonds SPY affichant l'actif sous gestion, le rendement du dividende, les performances glissantes et annuelles et le sentiment des actualités"
+        title: "Historique de performance et sentiment"
+        body: "Allez plus loin avec l'actif sous gestion, le rendement du dividende, les rendements depuis le début de l'année et sur plusieurs années, les performances glissantes et annuelles, ainsi qu'un score de sentiment des actualités sur sept jours et les derniers titres — le tout en un seul défilement."
+
+de:
+  showcase:
+    label: "So sieht es aus"
+    title: "Vom heutigen Briefing bis zur tiefgehenden Fondsanalyse"
+    intro: "Jeder Bildschirm von ETFWise ist darauf ausgelegt, die Fragen von Anlegern schnell zu beantworten: Worauf sollte ich heute schauen, wie bewegt sich der Markt, und woraus besteht dieser ETF wirklich?"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "Willkommensbildschirm von ETFWise mit täglich kuratierter Auswahl, sofortiger Recherche und geräteinterner Analyse"
+        title: "Tägliche Auswahl und Recherche mit einem Tipp"
+        body: "Öffne ETFWise und erhalte die besten in den USA gehandelten ETFs, in jeder Kategorie nach verwaltetem Vermögen gereiht und täglich aktualisiert. Suche nach einem beliebigen Fonds für Preis und Analystenbewertungen, mit einer ausgewogenen Analyse, die direkt auf deinem Gerät erstellt wird."
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "Bildschirm „Heutiges Briefing“ mit Stichpunkten, die den Markt des Tages in verständlicher Sprache zusammenfassen"
+        title: "Starte mit dem heutigen Briefing"
+        body: "Ein datiertes Markt-Briefing fasst die Woche in verständlicher Sprache zusammen — wie viele der verfolgten ETFs gestiegen oder gefallen sind, wie sich die Hauptindizes bewegt haben und welche Sektoren vorn lagen oder zurückblieben — damit du einmal nachsiehst und dann mit deinem Tag weitermachen kannst."
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "Bildschirm „Heutiger Markt“ mit den größten Gewinnern und Verlierern einer Woche"
+        title: "Sieh, was sich bewegt"
+        body: "„Heutiger Markt“ reiht die größten Gewinner und Verlierer der Woche mit klaren prozentualen Veränderungen, Kategorie-Tags und Fondsnamen, sodass du immer weißt, wohin die Aufmerksamkeit im ETF-Markt fließt."
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "Bildschirm „Hauptindizes“ mit ETFs auf S&P 500, Nasdaq und Dow Jones samt Wochenveränderung"
+        title: "Behalte die Hauptindizes im Blick"
+        body: "Wichtige Benchmark-ETFs sind nach S&P 500, Nasdaq und Dow Jones gruppiert, jeweils mit der Bewegung der Woche, damit das Gesamtbild des Marktes auf einen Blick lesbar bleibt."
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "Bildschirm „Heutige Auswahl“ mit kuratierten Karten für Hauptindex- und Dividenden-ETFs mit Preis, Stimmung und Kostenquote"
+        title: "Kuratierte Auswahl über alle Kategorien"
+        body: "Durchstöbere die heute kuratierten Fonds nach Kategorie — Hauptindex, Dividenden und mehr — wobei jede Karte Preis, Kostenquote, verwaltetes Vermögen, eine Stimmungseinschätzung und einen Grund in einer Zeile zeigt, warum der Fonds auf der Liste steht."
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "Sektor-Detailbildschirm mit Technologie- sowie Bitcoin- und Krypto-ETFs samt Preis und Stimmung"
+        title: "Fonds nach Branche entdecken"
+        body: "Tauche ein in Sektor-, Rohstoff- und Themen-ETFs — Technologie, Energie, Finanzen, Gold, Krypto, KI und saubere Energie — nach Branche geordnet, damit du das Engagement findest, das zu deiner Einschätzung passt."
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "Bildschirm „Sofortsuche“, der Ticker nach der Eingabe SPY filtert und passende Symbole und Anbieter zeigt"
+        title: "Über 450 Ticker sofort durchsuchen"
+        body: "Gib ein beliebiges Symbol ein und filtere Hunderte durchsuchbare Ticker nach Name und Anbieter — so ist der gewünschte Fonds nur wenige Tastenanschläge entfernt."
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "Fondsübersicht für SPY mit Preis, Kostenquote, abgebildetem Index, Beschreibung und Top-Positionen"
+        title: "Ein vollständiges Fondsprofil"
+        body: "Tippe auf einen beliebigen ETF für den vollständigen Überblick — aktueller Preis, Kostenquote, der abgebildete Index, eine verständliche Fondsbeschreibung und die Top-Positionen mit ihrer genauen Gewichtung — damit du genau weißt, was du besitzt."
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "Fondskennzahlen für SPY mit verwaltetem Vermögen, Dividendenrendite, rollierenden und jährlichen Renditen sowie Nachrichtenstimmung"
+        title: "Wertentwicklungshistorie und Stimmung"
+        body: "Geh tiefer mit verwaltetem Vermögen, Dividendenrendite, Renditen seit Jahresbeginn und über mehrere Jahre, rollierender und jährlicher Wertentwicklung sowie einem Nachrichtenstimmungs-Score der letzten sieben Tage und den neuesten Schlagzeilen — alles in einem einzigen Bildlauf."
+
+it:
+  showcase:
+    label: "Guardala in azione"
+    title: "Dal briefing di oggi all'analisi approfondita dei fondi"
+    intro: "Ogni schermata di ETFWise è pensata per rispondere in fretta alle domande di un investitore: cosa dovrei guardare oggi, come si sta muovendo il mercato e di cosa è fatto davvero questo ETF?"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "Schermata di benvenuto di ETFWise che mette in evidenza le selezioni giornaliere, la ricerca istantanea e l'analisi sul dispositivo"
+        title: "Selezioni giornaliere e ricerca con un tocco"
+        body: "Apri ETFWise e trovi i migliori ETF negoziati negli Stati Uniti, ordinati per patrimonio gestito in ogni categoria e aggiornati ogni giorno. Cerca qualsiasi fondo per vederne il prezzo e le valutazioni degli analisti, con un'analisi equilibrata generata direttamente sul tuo dispositivo."
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "Schermata Briefing di oggi con punti elenco che riassumono il mercato della giornata in linguaggio semplice"
+        title: "Inizia con il briefing di oggi"
+        body: "Un briefing di mercato datato riassume la settimana in linguaggio semplice — quanti degli ETF monitorati sono saliti o scesi, come si sono mossi gli indici principali e quali settori hanno guidato o sono rimasti indietro — così dai un'occhiata una volta e prosegui con la tua giornata."
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "Schermata Mercato di oggi con i maggiori rialzi e ribassi della settimana"
+        title: "Scopri cosa si muove"
+        body: "Mercato di oggi classifica i maggiori rialzi e ribassi della settimana con variazioni percentuali chiare, etichette di categoria e nomi dei fondi, così sai sempre dove si concentra l'attenzione nel panorama degli ETF."
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "Schermata Indici principali che raggruppa gli ETF su S&P 500, Nasdaq e Dow Jones con le variazioni settimanali"
+        title: "Segui gli indici principali"
+        body: "Gli ETF di riferimento chiave sono raggruppati per S&P 500, Nasdaq e Dow Jones, ciascuno con il proprio andamento settimanale, così il quadro completo del mercato resta leggibile a colpo d'occhio."
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "Schermata Selezioni di oggi con schede di ETF Indice Principale e Dividendi che mostrano prezzo, sentiment e indice di spesa"
+        title: "Selezioni in tutte le categorie"
+        body: "Sfoglia i fondi selezionati di oggi per categoria — Indice Principale, Dividendi e altre — con schede che mostrano prezzo, indice di spesa, patrimonio gestito, una lettura del sentiment e una riga che spiega perché il fondo è in lista."
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "Schermata di dettaglio del settore con ETF Tecnologia e Bitcoin e cripto, con prezzo e sentiment"
+        title: "Esplora i fondi per comparto"
+        body: "Approfondisci gli ETF settoriali, sulle materie prime e tematici — tecnologia, energia, finanza, oro, cripto, IA ed energia pulita — organizzati per comparto, così trovi l'esposizione più adatta alla tua visione."
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "Schermata Ricerca istantanea che filtra i ticker con la query SPY mostrando simboli e fornitori corrispondenti"
+        title: "Cerca oltre 450 ticker all'istante"
+        body: "Digita qualsiasi simbolo e filtra tra centinaia di ticker ricercabili per nome e fornitore, così il fondo che cerchi è a pochi tasti di distanza."
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "Schermata di panoramica del fondo SPY con prezzo, indice di spesa, indice di riferimento, descrizione e principali partecipazioni"
+        title: "Un profilo completo del fondo"
+        body: "Tocca un qualsiasi ETF per la panoramica completa — prezzo attuale, indice di spesa, l'indice replicato, una descrizione chiara del fondo e le principali partecipazioni con i pesi esatti — così sai esattamente cosa possiedi."
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "Schermata delle metriche del fondo SPY con patrimonio gestito, rendimento da dividendi, rendimenti mobili e annuali e sentiment delle notizie"
+        title: "Storico delle performance e sentiment"
+        body: "Vai più a fondo con patrimonio gestito, rendimento da dividendi, rendimenti da inizio anno e pluriennali, performance mobili e annuali, oltre a un punteggio di sentiment delle notizie a sette giorni e ai titoli più recenti, tutto in un'unica schermata da scorrere."
+
+pt:
+  showcase:
+    label: "Veja em ação"
+    title: "Do resumo de hoje à análise aprofundada de fundos"
+    intro: "Cada tela do ETFWise foi criada para responder rápido às perguntas de um investidor: o que devo olhar hoje, como o mercado está se movendo e do que este ETF é realmente feito?"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "Tela de boas-vindas do ETFWise destacando seleções diárias, pesquisa instantânea e análise no dispositivo"
+        title: "Seleções diárias e pesquisa com um toque"
+        body: "Abra o ETFWise e receba os principais ETFs negociados nos EUA, classificados por patrimônio sob gestão em cada categoria e atualizados todos os dias. Busque qualquer fundo para ver o preço e as avaliações de analistas, com uma análise equilibrada gerada direto no seu dispositivo."
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "Tela Resumo de hoje com tópicos que resumem o mercado do dia em linguagem simples"
+        title: "Comece pelo resumo de hoje"
+        body: "Um resumo de mercado datado sintetiza a semana em linguagem simples — quantos ETFs acompanhados subiram ou caíram, como os principais índices se moveram e quais setores lideraram ou ficaram para trás — para você conferir uma vez e seguir com o seu dia."
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "Tela Mercado de hoje listando as maiores altas e as maiores baixas da semana"
+        title: "Veja o que está se movendo"
+        body: "O Mercado de hoje classifica as maiores altas e baixas da semana com variações percentuais claras, tags de categoria e nomes dos fundos, para que você sempre saiba para onde a atenção está indo no universo dos ETFs."
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "Tela Principais índices agrupando ETFs do S&P 500, Nasdaq e Dow Jones com variações semanais"
+        title: "Acompanhe os principais índices"
+        body: "Os principais ETFs de referência são agrupados por S&P 500, Nasdaq e Dow Jones, cada um com seu movimento semanal, para que o panorama completo do mercado fique legível num relance."
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "Tela Seleções de hoje com cartões de ETFs de Índice Principal e Dividendos mostrando preço, sentimento e taxa de despesas"
+        title: "Seleções em todas as categorias"
+        body: "Navegue pelos fundos selecionados de hoje por categoria — Índice Principal, Dividendos e outras — com cada cartão mostrando preço, taxa de despesas, patrimônio sob gestão, uma leitura de sentimento e uma frase explicando por que entrou na lista."
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "Tela de detalhes do setor listando ETFs de Tecnologia e de Bitcoin e Cripto com preço e sentimento"
+        title: "Explore fundos por segmento"
+        body: "Mergulhe em ETFs setoriais, de commodities e temáticos — tecnologia, energia, financeiro, ouro, cripto, IA e energia limpa — organizados por segmento para você encontrar a exposição que combina com a sua visão."
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "Tela Busca instantânea filtrando tickers pela consulta SPY com símbolos e provedores correspondentes"
+        title: "Busque mais de 450 tickers na hora"
+        body: "Digite qualquer símbolo e filtre entre centenas de tickers pesquisáveis por nome e provedor, para que o fundo que você quer esteja a poucas teclas de distância."
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "Tela de visão geral do fundo SPY mostrando preço, taxa de despesas, índice acompanhado, descrição e principais participações"
+        title: "Um perfil completo do fundo"
+        body: "Toque em qualquer ETF para ver a visão geral completa — preço atual, taxa de despesas, o índice que ele acompanha, uma descrição clara do fundo e as principais participações com seus pesos exatos — para saber exatamente o que você tem."
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "Tela de métricas do fundo SPY mostrando patrimônio sob gestão, rendimento de dividendos, retornos por período e anuais e sentimento de notícias"
+        title: "Histórico de desempenho e sentimento"
+        body: "Vá mais fundo com patrimônio sob gestão, rendimento de dividendos, retornos no ano e de vários anos, desempenho por período e anual, além de uma pontuação de sentimento de notícias de sete dias e as manchetes mais recentes — tudo numa única rolagem."
+
+ru:
+  showcase:
+    label: "Посмотрите в действии"
+    title: "От сегодняшнего обзора до глубокого анализа фондов"
+    intro: "Каждый экран ETFWise создан, чтобы быстро отвечать на вопросы инвестора: на что обратить внимание сегодня, как движется рынок и из чего на самом деле состоит этот ETF?"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "Приветственный экран ETFWise с ежедневными подборками, мгновенным исследованием и анализом на устройстве"
+        title: "Ежедневные подборки и исследование в одно касание"
+        body: "Откройте ETFWise и получите ведущие ETF, торгуемые в США, ранжированные по объёму активов в каждой категории и обновляемые каждый день. Найдите любой фонд, чтобы увидеть цену и оценки аналитиков, а также сбалансированный анализ, созданный прямо на вашем устройстве."
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "Экран «Обзор дня» с пунктами, простым языком описывающими рынок за день"
+        title: "Начните с обзора дня"
+        body: "Датированный обзор рынка простым языком подводит итоги недели: сколько отслеживаемых ETF выросло или упало, как двигались основные индексы и какие секторы лидировали или отставали. Загляните один раз — и занимайтесь своими делами."
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "Экран «Рынок сегодня» со списком лидеров роста и падения за неделю"
+        title: "Смотрите, что движется"
+        body: "«Рынок сегодня» ранжирует лидеров роста и падения недели с наглядным изменением в процентах, метками категорий и названиями фондов, чтобы вы всегда знали, куда направлено внимание на рынке ETF."
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "Экран «Основные индексы» с ETF на S&P 500, Nasdaq и Dow Jones и их недельными изменениями"
+        title: "Следите за основными индексами"
+        body: "Ключевые эталонные ETF сгруппированы по S&P 500, Nasdaq и Dow Jones, у каждого — изменение за неделю, так что общая картина рынка читается с первого взгляда."
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "Экран «Подборки дня» с карточками ETF категорий «Основной индекс» и «Дивиденды», где указаны цена, настроения и коэффициент расходов"
+        title: "Подборки по всем категориям"
+        body: "Просматривайте сегодняшние отобранные фонды по категориям — «Основной индекс», «Дивиденды» и другим. На каждой карточке — цена, коэффициент расходов, объём активов, оценка настроений и короткое обоснование, почему фонд попал в список."
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "Экран сектора со списком ETF категорий «Технологии» и «Биткоин и криптовалюты» с ценой и настроениями"
+        title: "Изучайте фонды по отраслям"
+        body: "Погрузитесь в секторные, сырьевые и тематические ETF — технологии, энергетика, финансы, золото, криптовалюты, ИИ и чистая энергетика, — упорядоченные по отраслям, чтобы найти вложения, соответствующие вашему взгляду на рынок."
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "Экран «Мгновенный поиск», фильтрующий тикеры по запросу SPY и показывающий подходящие символы и провайдеров"
+        title: "Мгновенный поиск по 450+ тикерам"
+        body: "Введите любой символ и отфильтруйте сотни доступных для поиска тикеров по названию и провайдеру — нужный фонд всего в нескольких нажатиях клавиш."
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "Экран обзора фонда SPY с ценой, коэффициентом расходов, отслеживаемым индексом, описанием и основными активами"
+        title: "Полный профиль фонда"
+        body: "Нажмите на любой ETF, чтобы открыть полный обзор: текущая цена, коэффициент расходов, отслеживаемый индекс, понятное описание фонда и основные активы с точными долями — и вы будете точно знать, чем владеете."
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "Экран показателей фонда SPY с объёмом активов, дивидендной доходностью, скользящей и годовой доходностью и настроениями новостей"
+        title: "История доходности и настроения"
+        body: "Углубитесь в объём активов, дивидендную доходность, доходность с начала года и за несколько лет, скользящую и годовую динамику, а также оценку настроений новостей за семь дней и свежие заголовки — всё на одной прокручиваемой странице."
+
+ar:
+  showcase:
+    label: "شاهده أثناء العمل"
+    title: "من موجز اليوم إلى التحليل المعمّق للصناديق"
+    intro: "صُممت كل شاشة في ETFWise لتجيب بسرعة عن أسئلة المستثمر: ما الذي ينبغي أن أتابعه اليوم، وكيف يتحرك السوق، ومِمَّ يتكوّن صندوق ETF هذا حقًا؟"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "شاشة الترحيب في ETFWise تُبرز الاختيارات اليومية المنسّقة والبحث الفوري والتحليل على الجهاز"
+        title: "اختيارات يومية وبحث بلمسة واحدة"
+        body: "افتح ETFWise واحصل على أفضل صناديق ETF المتداولة في الولايات المتحدة مرتّبة حسب الأصول المدارة في كل فئة ومحدّثة كل يوم. ابحث عن أي صندوق لترى سعره وتقييمات المحللين، مع تحليل متوازن يُنشأ مباشرة على جهازك."
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "شاشة موجز اليوم بنقاط تلخّص سوق اليوم بلغة واضحة"
+        title: "ابدأ بموجز اليوم"
+        body: "يلخّص موجز سوق مؤرّخ الأسبوع بلغة واضحة — كم صندوقًا من صناديق ETF المتتبَّعة ارتفع أو انخفض، وكيف تحركت المؤشرات الرئيسية، وأي القطاعات تصدّرت أو تراجعت — لتطّلع عليه مرة واحدة ثم تمضي في يومك."
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "شاشة سوق اليوم تعرض أكبر الرابحين وأكبر الخاسرين خلال أسبوع"
+        title: "اعرف ما الذي يتحرك"
+        body: "يرتّب سوق اليوم أكبر الرابحين والخاسرين في الأسبوع مع نسب تغيّر مئوية واضحة ووسوم الفئات وأسماء الصناديق، فتعرف دائمًا إلى أين يتجه الاهتمام في عالم صناديق ETF."
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "شاشة المؤشرات الرئيسية تجمع صناديق ETF الخاصة بـ S&P 500 وNasdaq وDow Jones مع تغيّراتها الأسبوعية"
+        title: "تابع المؤشرات الرئيسية"
+        body: "تُجمَع صناديق ETF المرجعية الأساسية حسب S&P 500 وNasdaq وDow Jones، ولكلٍّ منها حركته الأسبوعية، لتبقى صورة السوق الكاملة سهلة القراءة بنظرة واحدة."
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "شاشة اختيارات اليوم مع بطاقات منسّقة لصناديق ETF من فئتي المؤشر الرئيسي والأرباح تعرض السعر والمشاعر ونسبة المصاريف"
+        title: "اختيارات منسّقة عبر الفئات"
+        body: "تصفّح الصناديق المنسّقة اليوم حسب الفئة — المؤشر الرئيسي والأرباح وغيرها — إذ تعرض كل بطاقة السعر ونسبة المصاريف والأصول المدارة وقراءة للمشاعر وسببًا في سطر واحد لإدراج الصندوق في القائمة."
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "شاشة تفاصيل القطاع تعرض صناديق ETF للتكنولوجيا والبيتكوين والعملات المشفّرة مع السعر والمشاعر"
+        title: "استكشف الصناديق حسب الصناعة"
+        body: "تعمّق في صناديق ETF القطاعية والسلعية والمواضيعية — التكنولوجيا والطاقة والقطاع المالي والذهب والعملات المشفّرة والذكاء الاصطناعي والطاقة النظيفة — مرتّبة حسب الصناعة لتجد الانكشاف الذي يناسب رؤيتك."
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "شاشة البحث الفوري تصفّي الرموز حسب الاستعلام SPY وتعرض الرموز والمزوّدين المطابقين"
+        title: "ابحث في أكثر من 450 رمزًا فورًا"
+        body: "اكتب أي رمز وصفِّ مئات الرموز القابلة للبحث حسب الاسم والمزوّد، ليصبح الصندوق الذي تريده على بُعد ضغطات قليلة."
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "شاشة نظرة عامة على صندوق SPY تعرض السعر ونسبة المصاريف والمؤشر المتتبَّع ونبذة وأهم الحيازات"
+        title: "ملف كامل للصندوق"
+        body: "اضغط على أي صندوق ETF للاطلاع على النظرة العامة الكاملة — السعر الحالي ونسبة المصاريف والمؤشر الذي يتتبّعه ووصف واضح للصندوق وأهم الحيازات بأوزانها الدقيقة — لتعرف بالضبط ما الذي تملكه."
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "شاشة مقاييس صندوق SPY تعرض الأصول المدارة وعائد الأرباح الموزّعة وعوائد الفترات الأخيرة والعوائد السنوية ومشاعر الأخبار"
+        title: "سجل الأداء والمشاعر"
+        body: "تعمّق أكثر مع الأصول المدارة وعائد الأرباح الموزّعة والعوائد منذ بداية العام وعلى مدى عدة سنوات وأداء الفترات الأخيرة والأداء السنوي، إضافة إلى درجة مشاعر الأخبار لسبعة أيام وأحدث العناوين — كل ذلك في تمريرة واحدة."
+
+hi:
+  showcase:
+    label: "इसे काम करते हुए देखें"
+    title: "आज की ब्रीफ़िंग से गहन फंड विश्लेषण तक"
+    intro: "ETFWise की हर स्क्रीन निवेशक के सवालों का तेज़ी से जवाब देने के लिए बनाई गई है: आज मुझे क्या देखना चाहिए, बाज़ार कैसे चल रहा है, और यह ETF वास्तव में किन चीज़ों से बना है?"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "ETFWise की स्वागत स्क्रीन, जो दैनिक क्यूरेटेड पिक्स, तत्काल रिसर्च और ऑन-डिवाइस विश्लेषण को दर्शाती है"
+        title: "दैनिक पिक्स और एक टैप में रिसर्च"
+        body: "ETFWise खोलें और हर श्रेणी में AUM के अनुसार क्रमबद्ध शीर्ष US-कारोबार वाले ETF पाएँ, जो हर दिन रिफ़्रेश होते हैं। कीमत और विश्लेषक रेटिंग के लिए कोई भी फंड खोजें, साथ ही सीधे आपके डिवाइस पर तैयार किया गया संतुलित विश्लेषण पाएँ।"
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "आज की ब्रीफ़िंग स्क्रीन, जिसमें दिन के बाज़ार का सरल भाषा में बिंदुवार सारांश है"
+        title: "आज की ब्रीफ़िंग से शुरुआत करें"
+        body: "एक दिनांकित बाज़ार ब्रीफ़िंग पूरे सप्ताह को सरल भाषा में समेटती है — ट्रैक किए गए कितने ETF चढ़े या गिरे, प्रमुख सूचकांक कैसे चले, और कौन-से सेक्टर आगे रहे या पिछड़ गए — ताकि आप एक बार देख लें और अपने दिन में आगे बढ़ें।"
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "आज का बाज़ार स्क्रीन, जिसमें एक सप्ताह के सबसे ज़्यादा बढ़ने और गिरने वाले ETF सूचीबद्ध हैं"
+        title: "देखें क्या चल रहा है"
+        body: "आज का बाज़ार सप्ताह के सबसे ज़्यादा बढ़ने और गिरने वाले ETF को स्पष्ट प्रतिशत बदलाव, श्रेणी टैग और फंड नामों के साथ रैंक करता है, ताकि आप हमेशा जानें कि ETF परिदृश्य में ध्यान किस ओर जा रहा है।"
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "प्रमुख सूचकांक स्क्रीन, जो S&P 500, Nasdaq और Dow Jones ETF को साप्ताहिक बदलाव के साथ समूहित करती है"
+        title: "प्रमुख सूचकांकों को ट्रैक करें"
+        body: "प्रमुख बेंचमार्क ETF को S&P 500, Nasdaq और Dow Jones के अनुसार समूहित किया गया है, हर एक के साथ उसकी साप्ताहिक चाल, ताकि पूरे बाज़ार की तस्वीर एक नज़र में पढ़ी जा सके।"
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "आज के पिक्स स्क्रीन, जिसमें प्रमुख सूचकांक और डिविडेंड ETF के क्यूरेटेड कार्ड कीमत, भावना और व्यय अनुपात दिखाते हैं"
+        title: "सभी श्रेणियों में क्यूरेटेड पिक्स"
+        body: "आज के क्यूरेटेड फंड को श्रेणी के अनुसार ब्राउज़ करें — प्रमुख सूचकांक, डिविडेंड और अन्य — हर कार्ड में कीमत, व्यय अनुपात, AUM, भावना का आकलन और सूची में शामिल होने का एक पंक्ति का कारण दिखता है।"
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "सेक्टर विवरण स्क्रीन, जिसमें टेक्नोलॉजी और बिटकॉइन व क्रिप्टो ETF कीमत और भावना के साथ सूचीबद्ध हैं"
+        title: "उद्योग के अनुसार फंड खोजें"
+        body: "सेक्टर, कमोडिटी और थीमैटिक ETF में गहराई से उतरें — टेक, ऊर्जा, वित्त, सोना, क्रिप्टो, AI और स्वच्छ ऊर्जा — जो उद्योग के अनुसार व्यवस्थित हैं, ताकि आप अपने नज़रिए के अनुरूप एक्सपोज़र ढूँढ सकें।"
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "तत्काल खोज स्क्रीन, जो SPY क्वेरी से टिकर फ़िल्टर करके मेल खाते प्रतीक और प्रदाता दिखाती है"
+        title: "450+ टिकर तुरंत खोजें"
+        body: "कोई भी प्रतीक टाइप करें और सैकड़ों खोजने योग्य टिकर को नाम और प्रदाता के अनुसार फ़िल्टर करें, ताकि आपका मनचाहा फंड बस कुछ कीस्ट्रोक की दूरी पर हो।"
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "SPY की फंड अवलोकन स्क्रीन, जिसमें कीमत, व्यय अनुपात, ट्रैक किया गया सूचकांक, परिचय और शीर्ष होल्डिंग्स दिखते हैं"
+        title: "एक संपूर्ण फंड प्रोफ़ाइल"
+        body: "पूरे अवलोकन के लिए किसी भी ETF पर टैप करें — मौजूदा कीमत, व्यय अनुपात, वह सूचकांक जिसे वह ट्रैक करता है, फंड का सरल विवरण, और सटीक भार के साथ शीर्ष होल्डिंग्स — ताकि आप ठीक-ठीक जानें कि आपके पास क्या है।"
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "SPY की फंड मेट्रिक्स स्क्रीन, जिसमें AUM, डिविडेंड यील्ड, ट्रेलिंग और वार्षिक रिटर्न तथा समाचार भावना दिखती है"
+        title: "प्रदर्शन इतिहास और भावना"
+        body: "AUM, डिविडेंड यील्ड, वर्ष-दर-तारीख और बहु-वर्षीय रिटर्न, ट्रेलिंग और वार्षिक प्रदर्शन, साथ ही सात दिन का समाचार भावना स्कोर और ताज़ा सुर्खियों के साथ और गहराई में जाएँ — सब कुछ एक ही स्क्रॉल में।"
+
+nl:
+  showcase:
+    label: "Zie het in actie"
+    title: "Van de briefing van vandaag tot diepgaande fondsanalyse"
+    intro: "Elk scherm van ETFWise is gebouwd om de vragen van een belegger snel te beantwoorden: waar moet ik vandaag naar kijken, hoe beweegt de markt, en waaruit bestaat deze ETF eigenlijk?"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "Welkomstscherm van ETFWise met dagelijks samengestelde selecties, direct onderzoek en analyse op het apparaat"
+        title: "Dagelijkse selecties en onderzoek met één tik"
+        body: "Open ETFWise en krijg de best verhandelde Amerikaanse ETF's, per categorie gerangschikt op beheerd vermogen en elke dag ververst. Zoek een willekeurig fonds op voor de prijs en analistenbeoordelingen, met een evenwichtige analyse die direct op je apparaat wordt gegenereerd."
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "Scherm Briefing van vandaag met begrijpelijke opsommingspunten die de markt van de dag samenvatten"
+        title: "Begin met de briefing van vandaag"
+        body: "Een gedateerde marktbriefing vat de week samen in begrijpelijke taal — hoeveel gevolgde ETF's stegen of daalden, hoe de hoofdindices bewogen en welke sectoren voorop liepen of achterbleven — zodat je één keer kijkt en verder kunt met je dag."
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "Scherm Markt van vandaag met de grootste stijgers en dalers over één week"
+        title: "Zie wat er beweegt"
+        body: "Markt van vandaag rangschikt de grootste stijgers en dalers van de week met duidelijke procentuele veranderingen, categorielabels en fondsnamen, zodat je altijd weet waar de aandacht naartoe gaat in het ETF-landschap."
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "Scherm Hoofdindices met ETF's op de S&P 500, Nasdaq en Dow Jones en hun wekelijkse veranderingen"
+        title: "Volg de hoofdindices"
+        body: "Belangrijke benchmark-ETF's zijn gegroepeerd per S&P 500, Nasdaq en Dow Jones, elk met de beweging van de week, zodat het totaalbeeld van de markt in één oogopslag leesbaar blijft."
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "Scherm Selecties van vandaag met kaarten voor Hoofdindex- en Dividend-ETF's met prijs, sentiment en kostenratio"
+        title: "Samengestelde selecties in alle categorieën"
+        body: "Blader door de samengestelde fondsen van vandaag per categorie — Hoofdindex, Dividend en meer — waarbij elke kaart de prijs, kostenratio, beheerd vermogen, een sentimentinschatting en een reden van één regel toont waarom het fonds op de lijst staat."
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "Sectordetailscherm met Technologie- en Bitcoin- en crypto-ETF's met prijs en sentiment"
+        title: "Ontdek fondsen per branche"
+        body: "Duik in sector-, grondstof- en thematische ETF's — tech, energie, financiële sector, goud, crypto, AI en schone energie — geordend per branche, zodat je de blootstelling vindt die bij jouw visie past."
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "Scherm Direct zoeken dat tickers filtert op de zoekopdracht SPY met overeenkomende symbolen en aanbieders"
+        title: "Doorzoek direct 450+ tickers"
+        body: "Typ een willekeurig symbool en filter honderden doorzoekbare tickers op naam en aanbieder, zodat het fonds dat je zoekt maar een paar toetsaanslagen verwijderd is."
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "Fondsoverzicht voor SPY met prijs, kostenratio, gevolgde index, beschrijving en belangrijkste posities"
+        title: "Een volledig fondsprofiel"
+        body: "Tik op een willekeurige ETF voor het volledige overzicht — actuele prijs, kostenratio, de gevolgde index, een heldere fondsbeschrijving en de belangrijkste posities met hun exacte weging — zodat je precies weet wat je bezit."
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "Fondsstatistieken voor SPY met beheerd vermogen, dividendrendement, voortschrijdende en jaarlijkse rendementen en nieuwssentiment"
+        title: "Rendementsgeschiedenis en sentiment"
+        body: "Ga dieper met beheerd vermogen, dividendrendement, rendementen sinds begin dit jaar en over meerdere jaren, voortschrijdende en jaarlijkse prestaties, plus een nieuwssentimentscore over zeven dagen en de laatste koppen — alles in één keer scrollen."
+
+tr:
+  showcase:
+    label: "Uygulamada görün"
+    title: "Bugünün brifinginden derinlemesine fon analizine"
+    intro: "ETFWise'ın her ekranı bir yatırımcının sorularını hızla yanıtlamak için tasarlandı: Bugün neye bakmalıyım, piyasa nasıl hareket ediyor ve bu ETF gerçekte nelerden oluşuyor?"
+    shots:
+      - image: /assets/screenshots/etfwise/01-welcome.png
+        alt: "Günlük özenle seçilmiş önerileri, anlık araştırmayı ve cihaz üzerinde analizi öne çıkaran ETFWise karşılama ekranı"
+        title: "Günlük öneriler ve tek dokunuşla araştırma"
+        body: "ETFWise'ı açın; ABD'de işlem gören en iyi ETF'ler her kategoride yönetilen varlığa (AUM) göre sıralanmış ve her gün yenilenmiş olarak karşınızda. Fiyat ve analist derecelendirmeleri için herhangi bir fonu arayın; dengeli analiz doğrudan cihazınızda oluşturulur."
+      - image: /assets/screenshots/etfwise/02-briefing.png
+        alt: "Günün piyasasını sade dille madde madde özetleyen Bugünün Brifingi ekranı"
+        title: "Bugünün brifingiyle başlayın"
+        body: "Tarihli bir piyasa brifingi haftayı sade bir dille özetler — takip edilen ETF'lerden kaçının yükseldiğini ya da düştüğünü, ana endekslerin nasıl hareket ettiğini ve hangi sektörlerin öne geçip hangilerinin geride kaldığını — böylece bir kez göz atıp gününüze devam edebilirsiniz."
+      - image: /assets/screenshots/etfwise/03-movers.png
+        alt: "Bir haftanın en çok yükselenlerini ve en çok düşenlerini listeleyen Bugünün Piyasası ekranı"
+        title: "Neyin hareket ettiğini görün"
+        body: "Bugünün Piyasası, haftanın en çok yükselen ve düşenlerini net yüzde değişimleri, kategori etiketleri ve fon adlarıyla sıralar; böylece ETF dünyasında ilginin nereye aktığını her zaman bilirsiniz."
+      - image: /assets/screenshots/etfwise/04-indices.png
+        alt: "S&P 500, Nasdaq ve Dow Jones ETF'lerini haftalık değişimleriyle gruplayan Ana Endeksler ekranı"
+        title: "Ana endeksleri takip edin"
+        body: "Önemli gösterge ETF'leri S&P 500, Nasdaq ve Dow Jones'a göre gruplanır ve her birinin haftalık hareketi gösterilir; böylece piyasanın genel tablosu bir bakışta okunabilir kalır."
+      - image: /assets/screenshots/etfwise/05-picks.png
+        alt: "Fiyat, duygu analizi ve gider oranını gösteren Ana Endeks ve Temettü ETF kartlarıyla Bugünün Önerileri ekranı"
+        title: "Kategoriler genelinde özenle seçilmiş öneriler"
+        body: "Bugünün özenle seçilmiş fonlarına Ana Endeks, Temettü ve diğer kategorilere göre göz atın; her kart fiyatı, gider oranını, AUM'u, bir duygu değerlendirmesini ve fonun listeye neden girdiğini anlatan tek satırlık bir gerekçeyi gösterir."
+      - image: /assets/screenshots/etfwise/06-sector.png
+        alt: "Teknoloji ile Bitcoin ve Kripto ETF'lerini fiyat ve duygu analiziyle listeleyen sektör ayrıntı ekranı"
+        title: "Fonları endüstriye göre keşfedin"
+        body: "Teknoloji, enerji, finans, altın, kripto, yapay zekâ ve temiz enerji gibi sektör, emtia ve tematik ETF'lere dalın; endüstriye göre düzenlendikleri için görüşünüze uyan yatırım maruziyetini kolayca bulursunuz."
+      - image: /assets/screenshots/etfwise/07-search.png
+        alt: "SPY sorgusuyla sembolleri filtreleyen ve eşleşen sembolleri ve sağlayıcıları gösteren Anlık Arama ekranı"
+        title: "450'den fazla sembolü anında arayın"
+        body: "Herhangi bir sembol yazın ve yüzlerce aranabilir sembolü ada ve sağlayıcıya göre filtreleyin; istediğiniz fon yalnızca birkaç tuş uzağınızda."
+      - image: /assets/screenshots/etfwise/08-overview.png
+        alt: "SPY için fiyat, gider oranı, takip edilen endeks, açıklama ve en büyük varlıkları gösteren fon genel bakış ekranı"
+        title: "Eksiksiz bir fon profili"
+        body: "Tam genel bakış için herhangi bir ETF'ye dokunun — güncel fiyat, gider oranı, takip ettiği endeks, sade bir fon açıklaması ve tam ağırlıklarıyla en büyük varlıklar — böylece neye sahip olduğunuzu tam olarak bilirsiniz."
+      - image: /assets/screenshots/etfwise/09-metrics.png
+        alt: "SPY için AUM, temettü verimi, dönemsel ve yıllık getiriler ile haber duygu analizini gösteren fon metrikleri ekranı"
+        title: "Performans geçmişi ve duygu analizi"
+        body: "AUM, temettü verimi, yılbaşından bu yana ve çok yıllık getiriler, dönemsel ve yıllık performansın yanı sıra yedi günlük haber duygu skoru ve son manşetlerle daha derine inin — hepsi tek bir kaydırmada."

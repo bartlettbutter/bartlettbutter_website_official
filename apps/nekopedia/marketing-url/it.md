@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "Identifica qualsiasi razza di gatto all'istante. Gratis, offline e privato."
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "Identifica qualsiasi razza di gatto all'istante. Gratis, privato e sul dispositivo."
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 lang: it
 permalink: /nekopedia/it/
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 
 # Ogni gatto ha una storia. Scoprila all'istante.
 
-Scatta una foto di un gatto qualsiasi e Nekopedia ne indica la razza, poi apre tutta la storia che vi si cela dietro: temperamento, storia, origine e curiosità. Niente da digitare, niente ricerche, niente internet e nessun costo.
+Scatta una foto di un gatto qualsiasi e Nekopedia ne indica la razza, poi apre tutta la storia che vi si cela dietro: temperamento, storia, origine e curiosità. Niente da digitare, niente ricerche e nessun costo, e il riconoscimento funziona anche offline.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 razze</span>
-  <span class="marketing-chip">Funziona completamente offline</span>
+  <span class="marketing-chip">Riconoscimento sul dispositivo</span>
   <span class="marketing-chip">Gratis per sempre</span>
   <span class="marketing-chip">Nessun account richiesto</span>
 </div>
@@ -34,13 +34,13 @@ Scatta una foto di un gatto qualsiasi e Nekopedia ne indica la razza, poi apre t
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privato e offline, con foto e dati che restano sul tuo dispositivo</span>
+    <span class="marketing-stat-label">privato, con foto e scansioni che restano sul tuo dispositivo</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -53,7 +53,7 @@ Scatta una foto di un gatto qualsiasi e Nekopedia ne indica la razza, poi apre t
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Perché gli amanti dei gatti la scelgono</p>
     <h2 id="nk-why-title" class="marketing-section-title">Una guida tascabile serena e completa al mondo dei gatti.</h2>
-    <p class="marketing-section-intro">Nekopedia trasforma un momento di curiosità al bar in una risposta concreta, poi prosegue con la storia, il profilo e un po' di divertimento, il tutto senza registrazione e senza segnale.</p>
+    <p class="marketing-section-intro">Nekopedia trasforma un momento di curiosità al bar in una risposta concreta, poi prosegue con la storia, il profilo e un po' di divertimento, il tutto senza registrazione, e il riconoscimento funziona anche senza segnale.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,17 +75,17 @@ Scatta una foto di un gatto qualsiasi e Nekopedia ne indica la razza, poi apre t
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Impara e gioca offline</h3>
-      <p>Trasforma tutto ciò che hai scansionato in un gioco con due modalità pensate per ampliare davvero le tue conoscenze feline.</p>
+      <h3>Impara e gioca</h3>
+      <p>Mettiti alla prova con due modalità pensate per ampliare davvero le tue conoscenze feline.</p>
       <ul class="marketing-list">
         <li>Quiz delle Razze: indovina la razza a partire da una foto</li>
         <li>Curiosità Feline: miti e fatti vero o falso</li>
-        <li>Nessuna connessione internet necessaria per giocare, mai</li>
+        <li>Foto e fatti sempre nuovi, caricati online</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Privato per impostazione predefinita</h3>
-      <p>Nessun account, nessuna analisi, nessuna pubblicità. Le tue foto non lasciano mai il tuo dispositivo e tutto funziona senza connessione.</p>
+      <p>Nessun account, nessuna analisi, nessuna pubblicità. Le tue foto non lasciano mai il tuo dispositivo e il riconoscimento funziona senza connessione.</p>
       <ul class="marketing-list">
         <li>Scansioni e preferiti restano memorizzati localmente</li>
         <li>Niente per cui registrarsi e niente da pagare</li>
@@ -120,7 +120,7 @@ Scatta una foto di un gatto qualsiasi e Nekopedia ne indica la razza, poi apre t
     </article>
     <article class="marketing-card">
       <h3>Gioca</h3>
-      <p>Metti alla prova le tue conoscenze con due modalità di gioco offline che mescolano foto, fatti e miti.</p>
+      <p>Metti alla prova le tue conoscenze con due modalità di gioco che mescolano foto, fatti e miti.</p>
       <ul class="marketing-list">
         <li>Quiz delle Razze con titoli di ricompensa da guadagnare</li>
         <li>Curiosità Feline per rapidi round vero o falso</li>
@@ -194,8 +194,8 @@ Scatta una foto di un gatto qualsiasi e Nekopedia ne indica la razza, poi apre t
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Approccio alla privacy</span>
-      <h3 class="marketing-price-summary">Nessun server. Nessun cloud. Nessun tracciamento.</h3>
-      <p>Le tue foto non lasciano mai il tuo dispositivo. Identificazione, profili e giochi funzionano tutti localmente, così la promessa del prodotto è chiara quanto l'interfaccia.</p>
+      <h3 class="marketing-price-summary">Nessun caricamento. Nessun cloud. Nessun tracciamento.</h3>
+      <p>Le tue foto non lasciano mai il tuo dispositivo. Il riconoscimento delle razze avviene interamente sul dispositivo e le funzioni online scaricano solo foto e fatti pubblici sui gatti, così la promessa del prodotto è chiara quanto l'interfaccia.</p>
       <p class="marketing-price-note">Lo stesso approccio incentrato sulla privacy si ritrova nelle pagine di panoramica, supporto e policy.</p>
     </article>
   </div>

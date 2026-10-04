@@ -11,7 +11,8 @@ layout: default
   Both the gallery and showcase are optional: when neither is present in
   _data/apps/trafficvibe.yml the page renders the plain markdown content.
 {%- endcomment -%}
-{%- assign m_data = site.data.apps.trafficvibe[page.lang | default: "en"] | default: site.data.apps.trafficvibe.en -%}
+{%- assign m_lang = page.lang | default: "en" -%}
+{%- assign m_data = site.data.apps.trafficvibe[m_lang] | default: site.data.apps.trafficvibe.en -%}
 {%- comment -%} The hero gallery is language-independent (images only), so it is
   defined once under `en`. Fall back to it for languages that don't override it,
   the same way the whole entry falls back to `en`. {%- endcomment -%}

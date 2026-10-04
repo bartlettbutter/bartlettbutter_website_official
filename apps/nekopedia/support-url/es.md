@@ -21,7 +21,7 @@ Nekopedia usa inteligencia en el dispositivo para analizar tu foto e identificar
 
 ### ¿Necesito conexión a internet?
 
-La identificación de razas y los favoritos funcionan completamente sin conexión, sin necesidad de internet. Sin embargo, los detalles de las razas, el concurso y las curiosidades felinas obtienen contenido de internet y sí requieren conexión.
+La identificación de razas, los favoritos y los perfiles integrados de las 48 razas funcionan completamente sin conexión, sin necesidad de internet. Sin embargo, las fotos de las razas y el Concurso de Razas obtienen contenido de internet y sí requieren conexión. Las Curiosidades Felinas y los datos curiosos de cada raza usan contenido en directo en inglés (requiere conexión) y contenido integrado que funciona sin conexión en todos los demás idiomas.
 
 ### ¿Nekopedia es gratis?
 
@@ -59,7 +59,7 @@ La pestaña Explorar te permite buscar las 48 razas por nombre o explorar un map
 
 ### ¿Cómo funcionan los juegos de Concurso y Curiosidades?
 
-Ambos juegos requieren conexión a internet. El Concurso de Razas te muestra una foto de un gato y te pide elegir la raza correcta entre cuatro opciones, con 10 preguntas por ronda. Las Curiosidades Felinas presentan afirmaciones de verdadero o falso sobre gatos, también 10 preguntas por ronda. Ambos juegos otorgan un título de recompensa según tu puntuación.
+El Concurso de Razas requiere conexión a internet; las Curiosidades Felinas solo la necesitan cuando la app está en inglés. El Concurso de Razas te muestra una foto de un gato y te pide elegir la raza correcta entre cuatro opciones, con 10 preguntas por ronda. Las Curiosidades Felinas presentan afirmaciones de verdadero o falso sobre gatos, también 10 preguntas por ronda. Ambos juegos otorgan un título de recompensa según tu puntuación.
 
 ### ¿Nekopedia funciona en iPad?
 

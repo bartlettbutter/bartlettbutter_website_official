@@ -2,7 +2,7 @@
 layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
-app_description: "Identifiez n'importe quelle race de chien instantanément. Gratuit, hors ligne et privé."
+app_description: "Identifiez n'importe quelle race de chien instantanément. Gratuit, privé et sur l'appareil."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: fr
 permalink: /barkpedia/fr/
@@ -12,13 +12,13 @@ redirect_from:
 
 # Chaque chien a une histoire. Découvrez-la instantanément.
 
-Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoile toute l'histoire qui se cache derrière : tempérament, histoire, origine et anecdotes. Sans rien taper, sans rien chercher, sans internet et sans coût.
+Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoile toute l'histoire qui se cache derrière : tempérament, histoire, origine et anecdotes. Sans rien taper, sans rien chercher et sans coût — et l'identification de la race fonctionne même sans réseau.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 races</span>
-  <span class="marketing-chip">Fonctionne entièrement hors ligne</span>
+  <span class="marketing-chip">Identification sur l'appareil</span>
   <span class="marketing-chip">Gratuit pour toujours</span>
   <span class="marketing-chip">Aucun compte requis</span>
 </div>
@@ -34,7 +34,7 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privé et hors ligne, vos photos et données restant sur votre appareil</span>
+    <span class="marketing-stat-label">privé, vos photos et scans enregistrés restant sur votre appareil</span>
   </article>
 </div>
 
@@ -53,7 +53,7 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Pourquoi les amoureux des chiens le choisissent</p>
     <h2 id="bp-why-title" class="marketing-section-title">Un guide de poche calme et complet du monde canin.</h2>
-    <p class="marketing-section-intro">Barkpedia transforme un moment de curiosité au parc en une vraie réponse, puis continue avec l'histoire, le profil et un peu de plaisir — le tout sans inscription ni signal.</p>
+    <p class="marketing-section-intro">Barkpedia transforme un moment de curiosité au parc en une vraie réponse, puis continue avec l'histoire, le profil et un peu de plaisir — le tout sans inscription, et l'identification de la race fonctionne même sans réseau.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -62,7 +62,7 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
       <ul class="marketing-list">
         <li>Une liste classée d'autres possibilités pour les cas difficiles</li>
         <li>Chaque résultat renvoie directement à un profil de race complet</li>
-        <li>Fonctionne entièrement hors ligne, où que soit le chien</li>
+        <li>S'exécute sur votre appareil, donc fonctionne hors ligne où que soit le chien</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -75,17 +75,17 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Apprenez et jouez hors ligne</h3>
+      <h3>Apprenez et jouez</h3>
       <p>Transformez tout ce que vous avez scanné en un jeu avec deux modes conçus pour développer de vraies connaissances canines.</p>
       <ul class="marketing-list">
         <li>Quiz des Races : devinez la race à partir d'une photo</li>
         <li>Anecdotes Canines : mythes et faits vrai ou faux</li>
-        <li>Aucun internet nécessaire pour jouer, jamais</li>
+        <li>Anecdotes Canines se joue hors ligne, à tout moment</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Privé par défaut</h3>
-      <p>Aucun compte, aucune analyse, aucune publicité. Vos photos ne quittent jamais votre appareil et tout fonctionne sans connexion.</p>
+      <p>Aucun compte, aucune analyse, aucune publicité. Vos photos sont analysées sur votre appareil et ne sont jamais envoyées.</p>
       <ul class="marketing-list">
         <li>Les scans et favoris restent stockés localement</li>
         <li>Rien à quoi s'inscrire et rien à payer</li>
@@ -120,7 +120,7 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
     </article>
     <article class="marketing-card">
       <h3>Jouer</h3>
-      <p>Testez vos connaissances avec deux modes de jeu hors ligne qui mêlent photos, faits et mythes.</p>
+      <p>Testez vos connaissances avec deux modes de jeu qui mêlent photos, faits et mythes.</p>
       <ul class="marketing-list">
         <li>Quiz des Races avec des titres de récompense à gagner</li>
         <li>Anecdotes Canines pour des manches rapides de vrai ou faux</li>
@@ -194,8 +194,8 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Posture de confidentialité</span>
-      <h3 class="marketing-price-summary">Aucun serveur. Aucun cloud. Aucun suivi.</h3>
-      <p>Vos photos ne quittent jamais votre appareil. L'identification, les profils et les jeux fonctionnent tous localement, donc la promesse du produit est aussi claire que l'interface.</p>
+      <h3 class="marketing-price-summary">Aucun envoi. Aucun compte. Aucun suivi.</h3>
+      <p>Vos photos ne quittent jamais votre appareil. L'identification de la race s'effectue entièrement sur l'appareil, tandis que les profils de races et les photos du quiz sont chargés depuis des sources publiques sur les races de chiens, sans aucune donnée personnelle.</p>
       <p class="marketing-price-note">Ce même cadrage axé sur la confidentialité se retrouve dans les pages de présentation, d'assistance et de politique.</p>
     </article>
   </div>

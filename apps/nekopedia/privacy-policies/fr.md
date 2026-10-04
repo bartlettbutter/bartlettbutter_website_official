@@ -2,7 +2,7 @@
 layout: default
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "Politique de Confidentialité"
+app_description: "Politique de confidentialité"
 lang: fr
 permalink: /nekopedia/privacy/fr/
 redirect_from:

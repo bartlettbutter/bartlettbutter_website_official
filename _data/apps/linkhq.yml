@@ -1,0 +1,669 @@
+# Per-app marketing data for LinkHQ, keyed by language code (mirrors the
+# convention in _data/home.yml). Consumed by _layouts/app-linkhq.html via
+# _includes/marketing/showcase.html and hero-gallery.html. Each language
+# mirrors the `en` structure; languages without their own entry fall back to
+# `en` so every localized page still renders the showcase.
+#
+# Screenshots live in /assets/screenshots/linkhq/ (660px-wide web copies of
+# the App Store mockups; the captions baked into each image are English, so the
+# narratives here add explanation rather than repeat the on-image text).
+
+en:
+  hero_gallery:
+    # No label/title: this strip is purely visual and shared across all
+    # languages (see the layout's en fallback), so it carries no translatable
+    # copy. `alt` is a generic, per-screen accessible description.
+    alt: "LinkHQ app screen"
+    shots:
+      - /assets/screenshots/linkhq/01-welcome.png
+      - /assets/screenshots/linkhq/02-library.png
+      - /assets/screenshots/linkhq/03-details.png
+      - /assets/screenshots/linkhq/04-metadata.png
+      - /assets/screenshots/linkhq/05-favorites.png
+      - /assets/screenshots/linkhq/06-tags.png
+      - /assets/screenshots/linkhq/07-filters.png
+      - /assets/screenshots/linkhq/08-settings.png
+      - /assets/screenshots/linkhq/09-add-link.png
+  showcase:
+    label: "A closer look"
+    title: "A quiet library for everything you mean to revisit"
+    intro: "See how LinkHQ turns shared links into a searchable archive, with real titles, thumbnails, and a one-tap way back to the source."
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "LinkHQ welcome screen explaining Capture, Find, and Return"
+        title: "A home for what moves you"
+        body: "Capture a link from any share sheet, add a note or tag so it's easy to rediscover, and return to it later in its original app or website."
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "Library list of saved links with titles, thumbnails, sources, and tags"
+        title: "Everything saved in one place"
+        body: "Your library lists every link newest first, with its real title, thumbnail, source, and tags doing the work a bare URL never could."
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "Link details with a preview image, Open Original button, and source"
+        title: "Back to the source in one tap"
+        body: "Each link opens to a clean detail view with its preview, title, and source. Tap Open Original and iOS reopens it in the app or site it came from."
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "Link info showing date added, last opened, and availability status"
+        title: "Know its history and status"
+        body: "See when a link was added and last opened, mark it unopened again, and check whether it's still available before you go looking for it."
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "Recipe link details with a photo, a note, and Favorite turned on"
+        title: "Notes and favorites of your own"
+        body: "Star the links you keep coming back to and add a personal note, like a reminder to try that overnight proof next weekend."
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "Organize section with a note, tags, and keywords for a saved link"
+        title: "Tag it, find it later"
+        body: "Add your own tags alongside the keywords LinkHQ extracts on your device, so links on the same topic are easy to pull back together."
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "Filter menu with Favorites, Unopened, Unavailable, sources, and keywords"
+        title: "Filter in an instant"
+        body: "Narrow the library to favorites, unopened, or unavailable links, or to a single source or keyword."
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "Settings screen with the saved link count and Delete All Links"
+        title: "Your library, under your control"
+        body: "Settings shows how many links you've saved and lets you clear the whole library at once. It lives only on your device, so nothing is left behind."
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "Add Link form with URL, optional title, note, and tags fields"
+        title: "Add any link by hand"
+        body: "Not coming from the share sheet? Paste any URL, give it an optional title, and add a note and tags right inside the app."
+
+zh-Hans:
+  showcase:
+    label: "近距离看看"
+    title: "为所有想再看的内容准备的安静收藏库"
+    intro: "看看 LinkHQ 如何把分享的链接变成可搜索的存档：有真实的标题和缩略图，轻点一下就能回到来源。"
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "LinkHQ 欢迎页，介绍收藏、查找与回看"
+        title: "留住让你心动的内容"
+        body: "从任意共享菜单收藏链接，添加备注或标签以便日后重新发现，稍后再回到它所在的原应用或网站。"
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "收藏库列表，显示已保存链接的标题、缩略图、来源和标签"
+        title: "所有内容集中一处"
+        body: "收藏库按最新顺序列出每个链接，用它真正的标题、缩略图、来源和标签，做到一串裸网址做不到的事。"
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "链接详情页，含预览图、“打开原链接”按钮和来源"
+        title: "轻点一下，回到来源"
+        body: "每个链接都会打开一个清爽的详情页，展示预览、标题和来源。轻点“打开原链接”，iOS 就会在它原本所在的应用或网站中重新打开。"
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "链接信息，显示添加日期、上次打开时间和可用状态"
+        title: "了解它的历史与状态"
+        body: "查看链接何时添加、上次何时打开，把它重新标记为未打开，还能在动身去找之前先确认它是否仍然可用。"
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "菜谱链接详情页，含照片、备注，并已开启收藏"
+        title: "属于你自己的备注与收藏"
+        body: "给你常回看的链接加上星标，再写一条个人备注，比如提醒自己下周末试试那个隔夜发酵的做法。"
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "整理区域，含某个已保存链接的备注、标签和关键词"
+        title: "打上标签，日后轻松找到"
+        body: "在 LinkHQ 于你设备上提取的关键词之外，再加上你自己的标签，同一主题的链接就能轻松重新聚到一起。"
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "筛选菜单，含收藏、未打开、不可用、来源和关键词"
+        title: "即刻筛选"
+        body: "把收藏库缩小到收藏、未打开或不可用的链接，或只看某一个来源或关键词。"
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "设置页，显示已保存链接数量和“删除所有链接”"
+        title: "收藏库，由你掌控"
+        body: "设置里会显示你保存了多少个链接，也可以一次清空整个收藏库。它只存放在你的设备上，不会留下任何痕迹。"
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "添加链接表单，含网址、可选标题、备注和标签栏位"
+        title: "手动添加任何链接"
+        body: "不是从共享菜单来的？直接粘贴任意网址，可选填标题，并在应用内添加备注和标签。"
+
+zh-Hant:
+  showcase:
+    label: "近距離看看"
+    title: "為所有想再看的內容準備的安靜收藏庫"
+    intro: "看看 LinkHQ 如何把分享的連結變成可搜尋的存檔：有真實的標題和縮圖，輕點一下就能回到來源。"
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "LinkHQ 歡迎頁，介紹收藏、尋找與回看"
+        title: "留住讓你心動的內容"
+        body: "從任意共享選單收藏連結，加上備註或標籤以便日後重新發現，稍後再回到它所在的原應用程式或網站。"
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "收藏庫列表，顯示已儲存連結的標題、縮圖、來源和標籤"
+        title: "所有內容集中一處"
+        body: "收藏庫按最新順序列出每個連結，用它真正的標題、縮圖、來源和標籤，做到一串裸網址做不到的事。"
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "連結詳情頁，含預覽圖、「開啟原連結」按鈕和來源"
+        title: "輕點一下，回到來源"
+        body: "每個連結都會開啟一個清爽的詳情頁，顯示預覽、標題和來源。輕點「開啟原連結」，iOS 就會在它原本所在的應用程式或網站中重新開啟。"
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "連結資訊，顯示加入日期、上次開啟時間和可用狀態"
+        title: "了解它的歷史與狀態"
+        body: "查看連結何時加入、上次何時開啟，把它重新標記為未開啟，還能在動身去找之前先確認它是否仍然可用。"
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "食譜連結詳情頁，含照片、備註，並已開啟收藏"
+        title: "屬於你自己的備註與收藏"
+        body: "給你常回看的連結加上星號，再寫一則個人備註，例如提醒自己下週末試試那個隔夜發酵的做法。"
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "整理區域，含某個已儲存連結的備註、標籤和關鍵字"
+        title: "打上標籤，日後輕鬆找到"
+        body: "在 LinkHQ 於你裝置上擷取的關鍵字之外，再加上你自己的標籤，同一主題的連結就能輕鬆重新聚在一起。"
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "篩選選單，含收藏、未開啟、無法使用、來源和關鍵字"
+        title: "即刻篩選"
+        body: "把收藏庫縮小到收藏、未開啟或無法使用的連結，或只看某一個來源或關鍵字。"
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "設定頁，顯示已儲存連結數量和「刪除所有連結」"
+        title: "收藏庫，由你掌控"
+        body: "設定裡會顯示你儲存了多少個連結，也可以一次清空整個收藏庫。它只存放在你的裝置上，不會留下任何痕跡。"
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "新增連結表單，含網址、選填標題、備註和標籤欄位"
+        title: "手動新增任何連結"
+        body: "不是從共享選單來的？直接貼上任意網址，可選填標題，並在應用程式內加上備註和標籤。"
+
+ja:
+  showcase:
+    label: "詳しく見る"
+    title: "また見返したいものすべてのための、静かなライブラリ"
+    intro: "共有したリンクが、本当のタイトルとサムネイル、元の場所へワンタップで戻れる検索可能なアーカイブになるようすをご覧ください。"
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "Capture、Find、Return を説明する LinkHQ のウェルカム画面"
+        title: "心を動かされたものの居場所"
+        body: "どの共有シートからでもリンクを取り込み、メモやタグを添えて見つけ直しやすくして、あとで元のアプリや Web サイトに戻れます。"
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "タイトル、サムネイル、ソース、タグ付きで保存済みリンクを並べたライブラリの一覧"
+        title: "保存したものがすべて一か所に"
+        body: "ライブラリには、すべてのリンクが新しい順に並びます。本当のタイトル、サムネイル、ソース、タグが、URL だけでは果たせない役割を担います。"
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "プレビュー画像、Open Original ボタン、ソースを表示したリンクの詳細"
+        title: "ワンタップで元の場所へ"
+        body: "各リンクは、プレビュー、タイトル、ソースをすっきり見せる詳細画面で開きます。Open Original をタップすると、iOS が元のアプリや Web サイトで開き直します。"
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "追加日、最後に開いた日、利用可否を表示したリンク情報"
+        title: "履歴と状態がわかる"
+        body: "リンクをいつ追加し、いつ最後に開いたかを確認したり、未開封に戻したり、探しに行く前にまだ利用できるかを確かめたりできます。"
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "写真とメモがあり、お気に入りをオンにしたレシピのリンク詳細"
+        title: "メモもお気に入りも、自分だけのものに"
+        body: "何度も見返すリンクにスターを付け、来週末にあの一晩寝かせる生地を試す、といった個人的なメモを添えましょう。"
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "保存したリンクのメモ、タグ、キーワードがある整理セクション"
+        title: "タグを付けて、あとで見つける"
+        body: "LinkHQ が端末上で抽出するキーワードに加えて自分のタグも付ければ、同じテーマのリンクをまとめて呼び戻しやすくなります。"
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "お気に入り、Unopened、Unavailable、ソース、キーワードを選べるフィルタメニュー"
+        title: "すぐに絞り込み"
+        body: "ライブラリを、お気に入り、未開封、利用できないリンクだけに、あるいは特定のソースやキーワードだけに絞り込めます。"
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "保存したリンク数と Delete All Links を表示した設定画面"
+        title: "ライブラリは、あなたの手の中に"
+        body: "設定では保存したリンクの数を確認でき、ライブラリ全体を一度に消去することもできます。ライブラリは端末の中だけにあるので、何も残りません。"
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "URL、任意のタイトル、メモ、タグの欄があるリンク追加フォーム"
+        title: "どんなリンクも手動で追加"
+        body: "共有シートからではない場合も、URL を貼り付け、任意でタイトルを付け、アプリ内でそのままメモとタグを追加できます。"
+
+ko:
+  showcase:
+    label: "자세히 보기"
+    title: "다시 보고 싶은 모든 것을 위한 조용한 라이브러리"
+    intro: "LinkHQ가 공유한 링크를 실제 제목과 썸네일이 있고 탭 한 번으로 출처로 돌아갈 수 있는, 검색 가능한 보관함으로 바꾸는 모습을 확인해 보세요."
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "Capture, Find, Return을 설명하는 LinkHQ 환영 화면"
+        title: "마음을 움직이는 것들의 집"
+        body: "어떤 공유 시트에서든 링크를 담고, 메모나 태그를 더해 다시 찾기 쉽게 한 뒤, 나중에 원래 앱이나 웹사이트에서 다시 여세요."
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "제목, 썸네일, 출처, 태그와 함께 저장된 링크를 나열한 라이브러리 목록"
+        title: "저장한 모든 것을 한곳에"
+        body: "라이브러리는 모든 링크를 최신순으로 보여 주며, 실제 제목과 썸네일, 출처, 태그가 URL만으로는 할 수 없던 역할을 해 줍니다."
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "미리보기 이미지, Open Original 버튼, 출처가 있는 링크 상세 화면"
+        title: "탭 한 번으로 출처로"
+        body: "각 링크는 미리보기와 제목, 출처가 깔끔하게 담긴 상세 화면으로 열립니다. Open Original을 탭하면 iOS가 그 링크가 왔던 앱이나 사이트에서 다시 엽니다."
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "추가한 날짜, 마지막으로 연 날짜, 사용 가능 여부를 보여 주는 링크 정보"
+        title: "기록과 상태를 한눈에"
+        body: "링크를 언제 추가했고 마지막으로 언제 열었는지 확인하고, 다시 안 열어 봄으로 표시하고, 찾아가기 전에 아직 사용할 수 있는지 확인하세요."
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "사진과 메모가 있고 즐겨찾기가 켜진 레시피 링크 상세 화면"
+        title: "나만의 메모와 즐겨찾기"
+        body: "자주 돌아오는 링크에 별표를 달고, 다음 주말에 그 하룻밤 숙성 반죽을 해 보자는 식의 개인 메모를 남겨 보세요."
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "저장된 링크의 메모, 태그, 키워드가 있는 정리 섹션"
+        title: "태그로 나중에 쉽게 찾기"
+        body: "LinkHQ가 기기에서 추출한 키워드와 함께 나만의 태그를 더하면, 같은 주제의 링크를 쉽게 다시 모을 수 있습니다."
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "즐겨찾기, Unopened, Unavailable, 출처, 키워드가 있는 필터 메뉴"
+        title: "즉시 필터링"
+        body: "라이브러리를 즐겨찾기, 안 열어 봄, 사용할 수 없는 링크로, 혹은 하나의 출처나 키워드로 좁혀 보세요."
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "저장된 링크 수와 Delete All Links가 있는 설정 화면"
+        title: "내 라이브러리는 내가 관리"
+        body: "설정에서 저장한 링크가 몇 개인지 확인하고 라이브러리 전체를 한 번에 비울 수 있습니다. 라이브러리는 기기에만 있어서 아무것도 남지 않습니다."
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "URL, 선택 입력 제목, 메모, 태그 입력란이 있는 링크 추가 양식"
+        title: "어떤 링크든 직접 추가"
+        body: "공유 시트를 거치지 않았나요? 아무 URL이나 붙여 넣고, 원하면 제목을 지정한 뒤 앱 안에서 바로 메모와 태그를 추가하세요."
+
+es:
+  showcase:
+    label: "Un vistazo más de cerca"
+    title: "Una biblioteca tranquila para todo lo que quieres revisitar"
+    intro: "Mira cómo LinkHQ convierte los enlaces compartidos en un archivo en el que se puede buscar, con títulos reales, miniaturas y una forma de volver al origen con un toque."
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "Pantalla de bienvenida de LinkHQ que explica Capture, Find y Return"
+        title: "Un hogar para lo que te emociona"
+        body: "Captura un enlace desde cualquier hoja de compartir, añade una nota o una etiqueta para que sea fácil de reencontrar y vuelve a él más tarde en su app o sitio web original."
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "Lista de la biblioteca con enlaces guardados, sus títulos, miniaturas, orígenes y etiquetas"
+        title: "Todo lo guardado en un solo lugar"
+        body: "Tu biblioteca muestra cada enlace, del más reciente al más antiguo, con su título real, su miniatura, su origen y sus etiquetas haciendo lo que una simple URL nunca podría."
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "Detalles de un enlace con imagen de vista previa, botón Open Original y origen"
+        title: "De vuelta al origen con un toque"
+        body: "Cada enlace se abre en una vista de detalle limpia con su vista previa, su título y su origen. Toca Open Original y iOS lo vuelve a abrir en la app o el sitio de donde vino."
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "Información del enlace con la fecha de incorporación, la última apertura y su disponibilidad"
+        title: "Conoce su historial y su estado"
+        body: "Consulta cuándo se añadió un enlace y cuándo lo abriste por última vez, márcalo otra vez como sin abrir y comprueba si sigue disponible antes de ir a buscarlo."
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "Detalles de un enlace de receta con foto, una nota y Favorite activado"
+        title: "Notas y favoritos a tu manera"
+        body: "Marca con una estrella los enlaces a los que vuelves una y otra vez y añade una nota personal, como un recordatorio para probar esa masa de reposo nocturno el próximo fin de semana."
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "Sección de organización con una nota, etiquetas y palabras clave de un enlace guardado"
+        title: "Ponle etiquetas y encuéntralo después"
+        body: "Añade tus propias etiquetas junto a las palabras clave que LinkHQ extrae en tu dispositivo, para reunir de nuevo con facilidad los enlaces sobre un mismo tema."
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "Menú de filtros con Favoritos, Unopened, Unavailable, orígenes y palabras clave"
+        title: "Filtra al instante"
+        body: "Reduce la biblioteca a los enlaces favoritos, sin abrir o no disponibles, o a un único origen o palabra clave."
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "Pantalla de ajustes con el número de enlaces guardados y Delete All Links"
+        title: "Tu biblioteca, bajo tu control"
+        body: "Los ajustes muestran cuántos enlaces has guardado y te permiten vaciar toda la biblioteca de una vez. Vive solo en tu dispositivo, así que no queda nada atrás."
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "Formulario Add Link con campos de URL, título opcional, nota y etiquetas"
+        title: "Añade cualquier enlace a mano"
+        body: "¿No vienes de la hoja de compartir? Pega cualquier URL, ponle un título opcional y añade una nota y etiquetas sin salir de la app."
+
+fr:
+  showcase:
+    label: "Un regard de plus près"
+    title: "Une bibliothèque calme pour tout ce que vous voulez retrouver"
+    intro: "Découvrez comment LinkHQ transforme les liens partagés en archive où l'on peut chercher, avec de vrais titres, des vignettes et un retour à la source en un geste."
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "Écran d'accueil de LinkHQ expliquant Capture, Find et Return"
+        title: "Un lieu pour ce qui vous touche"
+        body: "Captez un lien depuis n'importe quelle feuille de partage, ajoutez une note ou un tag pour le retrouver facilement, puis revenez-y plus tard dans son app ou son site d'origine."
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "Liste de la bibliothèque avec les liens enregistrés, leurs titres, vignettes, sources et tags"
+        title: "Tout ce que vous enregistrez, au même endroit"
+        body: "Votre bibliothèque liste chaque lien du plus récent au plus ancien, avec son vrai titre, sa vignette, sa source et ses tags qui font ce qu'une simple URL ne pourrait jamais faire."
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "Détails d'un lien avec image d'aperçu, bouton Open Original et source"
+        title: "De retour à la source en un geste"
+        body: "Chaque lien s'ouvre sur une vue détaillée épurée avec son aperçu, son titre et sa source. Touchez Open Original et iOS le rouvre dans l'app ou le site d'où il vient."
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "Infos d'un lien avec la date d'ajout, la dernière ouverture et sa disponibilité"
+        title: "Connaissez son historique et son état"
+        body: "Voyez quand un lien a été ajouté et ouvert pour la dernière fois, marquez-le de nouveau comme non ouvert et vérifiez s'il est toujours disponible avant de partir à sa recherche."
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "Détails d'un lien de recette avec une photo, une note et Favorite activé"
+        title: "Vos propres notes et favoris"
+        body: "Mettez une étoile aux liens auxquels vous revenez sans cesse et ajoutez une note personnelle, comme un rappel d'essayer cette pâte à repos de nuit le week-end prochain."
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "Section d'organisation avec une note, des tags et des mots-clés pour un lien enregistré"
+        title: "Taggez-le, retrouvez-le plus tard"
+        body: "Ajoutez vos propres tags aux mots-clés que LinkHQ extrait sur votre appareil, pour rassembler facilement les liens sur un même sujet."
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "Menu de filtres avec Favoris, Unopened, Unavailable, sources et mots-clés"
+        title: "Filtrez en un instant"
+        body: "Réduisez la bibliothèque aux liens favoris, non ouverts ou indisponibles, ou à une seule source ou un seul mot-clé."
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "Écran des réglages avec le nombre de liens enregistrés et Delete All Links"
+        title: "Votre bibliothèque, sous votre contrôle"
+        body: "Les réglages indiquent combien de liens vous avez enregistrés et vous permettent de vider toute la bibliothèque d'un coup. Elle ne vit que sur votre appareil, donc rien ne reste derrière."
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "Formulaire Add Link avec les champs URL, titre facultatif, note et tags"
+        title: "Ajoutez n'importe quel lien à la main"
+        body: "Vous ne venez pas de la feuille de partage ? Collez n'importe quelle URL, donnez-lui un titre facultatif et ajoutez une note et des tags directement dans l'app."
+
+de:
+  showcase:
+    label: "Ein genauerer Blick"
+    title: "Eine ruhige Bibliothek für alles, wohin du zurückkehren möchtest"
+    intro: "Sieh, wie LinkHQ geteilte Links in ein durchsuchbares Archiv verwandelt, mit echten Titeln, Vorschaubildern und einem Tipp zurück zur Quelle."
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "LinkHQ-Willkommensbildschirm, der Capture, Find und Return erklärt"
+        title: "Ein Zuhause für das, was dich bewegt"
+        body: "Sichere einen Link aus jedem Teilen-Menü, füge eine Notiz oder ein Tag hinzu, damit du ihn leicht wiederfindest, und kehre später zu ihm in der ursprünglichen App oder auf der Website zurück."
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "Bibliotheksliste gesicherter Links mit Titeln, Vorschaubildern, Quellen und Tags"
+        title: "Alles Gesicherte an einem Ort"
+        body: "Deine Bibliothek listet jeden Link mit dem neuesten zuerst auf, mit echtem Titel, Vorschaubild, Quelle und Tags, die leisten, was eine bloße URL nie könnte."
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "Link-Details mit Vorschaubild, Schaltfläche Open Original und Quelle"
+        title: "Mit einem Tipp zurück zur Quelle"
+        body: "Jeder Link öffnet sich in einer übersichtlichen Detailansicht mit Vorschau, Titel und Quelle. Tippe auf Open Original, und iOS öffnet ihn wieder in der App oder auf der Website, von der er stammt."
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "Link-Infos mit Datum des Hinzufügens, zuletzt geöffnet und Verfügbarkeitsstatus"
+        title: "Kenne seine Geschichte und seinen Status"
+        body: "Sieh, wann ein Link hinzugefügt und zuletzt geöffnet wurde, markiere ihn wieder als ungeöffnet und prüfe, ob er noch verfügbar ist, bevor du dich auf die Suche machst."
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "Details eines Rezept-Links mit Foto, Notiz und aktiviertem Favorite"
+        title: "Eigene Notizen und Favoriten"
+        body: "Markiere die Links, zu denen du immer wieder zurückkehrst, mit einem Stern und füge eine persönliche Notiz hinzu, etwa als Erinnerung, diesen Teig mit Übernachtgare nächstes Wochenende auszuprobieren."
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "Bereich Organisieren mit Notiz, Tags und Schlagwörtern für einen gesicherten Link"
+        title: "Tag vergeben, später wiederfinden"
+        body: "Füge deine eigenen Tags zu den Schlagwörtern hinzu, die LinkHQ auf deinem Gerät extrahiert, damit sich Links zum selben Thema leicht wieder zusammenholen lassen."
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "Filtermenü mit Favoriten, Unopened, Unavailable, Quellen und Schlagwörtern"
+        title: "Im Nu filtern"
+        body: "Grenze die Bibliothek auf Favoriten, ungeöffnete oder nicht verfügbare Links ein oder auf eine einzelne Quelle oder ein einzelnes Schlagwort."
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "Einstellungen mit der Anzahl gesicherter Links und Delete All Links"
+        title: "Deine Bibliothek, unter deiner Kontrolle"
+        body: "Die Einstellungen zeigen, wie viele Links du gesichert hast, und lassen dich die ganze Bibliothek auf einmal leeren. Sie liegt nur auf deinem Gerät, es bleibt also nichts zurück."
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "Add-Link-Formular mit Feldern für URL, optionalen Titel, Notiz und Tags"
+        title: "Jeden Link von Hand hinzufügen"
+        body: "Du kommst nicht aus dem Teilen-Menü? Füge eine beliebige URL ein, gib ihr einen optionalen Titel und ergänze direkt in der App eine Notiz und Tags."
+
+it:
+  showcase:
+    label: "Uno sguardo da vicino"
+    title: "Una libreria tranquilla per tutto ciò che vuoi riprendere"
+    intro: "Scopri come LinkHQ trasforma i link condivisi in un archivio ricercabile, con titoli reali, miniature e un modo per tornare alla fonte con un tocco."
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "Schermata di benvenuto di LinkHQ che spiega Cattura, Trova e Torna"
+        title: "Una casa per ciò che ti emoziona"
+        body: "Cattura un link da qualsiasi foglio di condivisione, aggiungi una nota o un tag per ritrovarlo facilmente e torna a lui più tardi nell'app o nel sito originale."
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "Elenco della libreria con i link salvati, con titoli, miniature, fonti e tag"
+        title: "Tutto salvato in un unico posto"
+        body: "La tua libreria elenca ogni link dal più recente, con titolo reale, miniatura, fonte e tag che fanno ciò che un semplice URL non potrebbe mai fare."
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "Dettagli di un link con immagine di anteprima, pulsante Open Original e fonte"
+        title: "Di nuovo alla fonte con un tocco"
+        body: "Ogni link si apre in una vista di dettaglio pulita con anteprima, titolo e fonte. Tocca Open Original e iOS lo riapre nell'app o nel sito da cui proviene."
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "Informazioni sul link con data di aggiunta, ultima apertura e stato di disponibilità"
+        title: "Conosci la sua storia e il suo stato"
+        body: "Vedi quando un link è stato aggiunto e aperto l'ultima volta, segnalo di nuovo come non aperto e controlla se è ancora disponibile prima di metterti a cercarlo."
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "Dettagli di un link a una ricetta con foto, una nota e Preferito attivato"
+        title: "Note e preferiti tutti tuoi"
+        body: "Contrassegna con la stella i link a cui torni spesso e aggiungi una nota personale, come il promemoria di provare quella lievitazione notturna il prossimo weekend."
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "Sezione Organizza con nota, tag e parole chiave per un link salvato"
+        title: "Taggalo, ritrovalo dopo"
+        body: "Aggiungi i tuoi tag accanto alle parole chiave che LinkHQ estrae sul tuo dispositivo, così i link sullo stesso argomento si raccolgono facilmente."
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "Menu dei filtri con preferiti, Unopened, Unavailable, fonti e parole chiave"
+        title: "Filtra in un istante"
+        body: "Restringi la libreria ai link preferiti, non aperti o non disponibili, oppure a una singola fonte o parola chiave."
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "Schermata Impostazioni con il numero di link salvati e Delete All Links"
+        title: "La tua libreria, sotto il tuo controllo"
+        body: "Le impostazioni mostrano quanti link hai salvato e ti permettono di svuotare l'intera libreria in una volta. Vive solo sul tuo dispositivo, quindi non resta nulla altrove."
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "Modulo Aggiungi link con i campi URL, titolo facoltativo, nota e tag"
+        title: "Aggiungi qualsiasi link a mano"
+        body: "Non arrivi dal foglio di condivisione? Incolla un URL qualsiasi, dagli un titolo facoltativo e aggiungi nota e tag direttamente nell'app."
+
+pt:
+  showcase:
+    label: "Um olhar mais de perto"
+    title: "Uma biblioteca tranquila para tudo o que você quer rever"
+    intro: "Veja como o LinkHQ transforma links compartilhados em um arquivo pesquisável, com títulos reais, miniaturas e um jeito de voltar à origem com um toque."
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "Tela de boas-vindas do LinkHQ explicando Capturar, Encontrar e Voltar"
+        title: "Um lar para o que te move"
+        body: "Capture um link de qualquer folha de compartilhamento, adicione uma nota ou tag para reencontrá-lo com facilidade e volte a ele depois no app ou site original."
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "Lista da biblioteca com links salvos, com títulos, miniaturas, origens e tags"
+        title: "Tudo salvo em um só lugar"
+        body: "Sua biblioteca lista cada link do mais recente ao mais antigo, com título real, miniatura, origem e tags fazendo o que um URL solto nunca faria."
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "Detalhes do link com imagem de prévia, botão Open Original e origem"
+        title: "De volta à origem com um toque"
+        body: "Cada link abre em uma visualização de detalhes limpa, com prévia, título e origem. Toque em Open Original e o iOS o reabre no app ou site de onde veio."
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "Informações do link mostrando data de adição, última abertura e status de disponibilidade"
+        title: "Conheça o histórico e o status"
+        body: "Veja quando um link foi adicionado e aberto pela última vez, marque-o como não aberto de novo e confira se ainda está disponível antes de sair procurando."
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "Detalhes de um link de receita com foto, uma nota e Favorito ativado"
+        title: "Notas e favoritos só seus"
+        body: "Marque com estrela os links aos quais você sempre volta e adicione uma nota pessoal, como um lembrete para testar aquela fermentação noturna no próximo fim de semana."
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "Seção Organizar com nota, tags e palavras-chave de um link salvo"
+        title: "Coloque uma tag, encontre depois"
+        body: "Adicione suas próprias tags junto às palavras-chave que o LinkHQ extrai no seu dispositivo, para reunir facilmente links sobre o mesmo assunto."
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "Menu de filtros com favoritos, Unopened, Unavailable, origens e palavras-chave"
+        title: "Filtre num instante"
+        body: "Reduza a biblioteca a links favoritos, não abertos ou indisponíveis, ou a uma única origem ou palavra-chave."
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "Tela de ajustes com a contagem de links salvos e Delete All Links"
+        title: "Sua biblioteca, sob o seu controle"
+        body: "Os ajustes mostram quantos links você salvou e permitem limpar a biblioteca inteira de uma vez. Ela vive só no seu dispositivo, então nada fica para trás."
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "Formulário Adicionar link com campos de URL, título opcional, nota e tags"
+        title: "Adicione qualquer link manualmente"
+        body: "Não veio da folha de compartilhamento? Cole qualquer URL, dê um título opcional e adicione nota e tags direto no app."
+
+ru:
+  showcase:
+    label: "Подробнее"
+    title: "Тихая библиотека для всего, к чему вы хотите вернуться"
+    intro: "Посмотрите, как LinkHQ превращает ссылки, которыми вы поделились, в архив с поиском: с настоящими заголовками, миниатюрами и возвратом к источнику одним касанием."
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "Экран приветствия LinkHQ с пояснением: сохранить, найти, вернуться"
+        title: "Дом для того, что вас вдохновляет"
+        body: "Сохраните ссылку из любого меню «Поделиться», добавьте заметку или тег, чтобы её было легко найти, и вернитесь к ней позже в исходном приложении или на сайте."
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "Список библиотеки с сохранёнными ссылками, заголовками, миниатюрами, источниками и тегами"
+        title: "Всё сохранено в одном месте"
+        body: "В библиотеке все ссылки идут от новых к старым: настоящий заголовок, миниатюра, источник и теги делают то, что никогда не сделает голый адрес."
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "Сведения о ссылке с изображением предпросмотра, кнопкой Open Original и источником"
+        title: "К источнику одним касанием"
+        body: "Каждая ссылка открывается в аккуратном окне сведений с предпросмотром, заголовком и источником. Коснитесь Open Original, и iOS откроет её в приложении или на сайте, откуда она пришла."
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "Информация о ссылке: дата добавления, последнее открытие и статус доступности"
+        title: "История и статус ссылки"
+        body: "Смотрите, когда ссылка была добавлена и открыта в последний раз, снова отмечайте её неоткрытой и проверяйте, доступна ли она, прежде чем искать."
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "Сведения о ссылке на рецепт с фото, заметкой и включённым пунктом «Избранное»"
+        title: "Свои заметки и избранное"
+        body: "Отмечайте звездой ссылки, к которым возвращаетесь снова и снова, и добавляйте личную заметку, например напоминание попробовать ночную расстойку в следующие выходные."
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "Раздел «Организация» с заметкой, тегами и ключевыми словами сохранённой ссылки"
+        title: "Добавьте тег и найдите позже"
+        body: "Добавляйте свои теги к ключевым словам, которые LinkHQ извлекает на вашем устройстве, чтобы ссылки на одну тему было легко собрать вместе."
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "Меню фильтров: избранное, Unopened, Unavailable, источники и ключевые слова"
+        title: "Мгновенная фильтрация"
+        body: "Сузьте библиотеку до избранных, неоткрытых или недоступных ссылок либо до одного источника или ключевого слова."
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "Экран настроек с числом сохранённых ссылок и кнопкой Delete All Links"
+        title: "Ваша библиотека под вашим контролем"
+        body: "В настройках видно, сколько ссылок вы сохранили, и можно очистить всю библиотеку сразу. Она хранится только на вашем устройстве, поэтому ничего не остаётся где-то ещё."
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "Форма добавления ссылки с полями адреса, необязательного заголовка, заметки и тегов"
+        title: "Добавьте любую ссылку вручную"
+        body: "Не из меню «Поделиться»? Вставьте любой адрес, задайте необязательный заголовок и добавьте заметку и теги прямо в приложении."
+
+ar:
+  showcase:
+    label: "نظرة عن قرب"
+    title: "مكتبة هادئة لكل ما تنوي العودة إليه"
+    intro: "تعرّف كيف يحوّل LinkHQ الروابط التي تشاركها إلى أرشيف قابل للبحث، بعناوين حقيقية وصور مصغّرة وطريقة للعودة إلى المصدر بنقرة واحدة."
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "شاشة الترحيب في LinkHQ تشرح الالتقاط والعثور والعودة"
+        title: "بيت لما يستوقفك"
+        body: "التقط رابطًا من أي ورقة مشاركة، وأضف ملاحظة أو وسمًا ليسهل العثور عليه، ثم عد إليه لاحقًا في تطبيقه الأصلي أو موقعه."
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "قائمة المكتبة بالروابط المحفوظة مع العناوين والصور المصغّرة والمصادر والوسوم"
+        title: "كل شيء محفوظ في مكان واحد"
+        body: "تعرض مكتبتك كل رابط من الأحدث إلى الأقدم، بعنوانه الحقيقي وصورته المصغّرة ومصدره ووسومه، فتؤدي ما لا يؤديه عنوان URL مجرّد."
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "تفاصيل الرابط مع صورة معاينة وزر Open Original والمصدر"
+        title: "العودة إلى المصدر بنقرة واحدة"
+        body: "يُفتح كل رابط في عرض تفاصيل نظيف يضم المعاينة والعنوان والمصدر. انقر Open Original فيعيد iOS فتحه في التطبيق أو الموقع الذي جاء منه."
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "معلومات الرابط تعرض تاريخ الإضافة وآخر فتح وحالة التوفر"
+        title: "اعرف تاريخه وحالته"
+        body: "اطّلع على وقت إضافة الرابط وآخر مرة فُتح فيها، وأعد وسمه بأنه لم يُفتح، وتحقق من أنه ما زال متاحًا قبل أن تبحث عنه."
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "تفاصيل رابط وصفة مع صورة وملاحظة وخيار المفضلة مفعّل"
+        title: "ملاحظاتك ومفضلتك الخاصة"
+        body: "ضع نجمة على الروابط التي تعود إليها دائمًا، وأضف ملاحظة شخصية، مثل تذكير بتجربة التخمير الليلي في نهاية الأسبوع القادم."
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "قسم التنظيم مع ملاحظة ووسوم وكلمات مفتاحية لرابط محفوظ"
+        title: "ضع وسمًا، واعثر عليه لاحقًا"
+        body: "أضف وسومك الخاصة إلى جانب الكلمات المفتاحية التي يستخرجها LinkHQ على جهازك، فيسهل جمع الروابط التي تدور حول الموضوع نفسه."
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "قائمة التصفية بالمفضلة وUnopened وUnavailable والمصادر والكلمات المفتاحية"
+        title: "صفِّ في لحظة"
+        body: "اختصر المكتبة إلى الروابط المفضلة أو التي لم تُفتح أو غير المتاحة، أو إلى مصدر واحد أو كلمة مفتاحية واحدة."
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "شاشة الإعدادات مع عدد الروابط المحفوظة وزر Delete All Links"
+        title: "مكتبتك تحت سيطرتك"
+        body: "تعرض الإعدادات عدد الروابط التي حفظتها وتتيح لك مسح المكتبة كاملة دفعة واحدة. فهي تعيش على جهازك فقط، فلا يبقى شيء خلفك."
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "نموذج إضافة رابط بحقول عنوان URL وعنوان اختياري وملاحظة ووسوم"
+        title: "أضف أي رابط يدويًا"
+        body: "لم تأتِ من ورقة المشاركة؟ الصق أي عنوان URL، وأعطه عنوانًا اختياريًا، وأضف ملاحظة ووسومًا مباشرةً داخل التطبيق."
+
+hi:
+  showcase:
+    label: "करीब से एक नज़र"
+    title: "हर उस चीज़ के लिए एक शांत लाइब्रेरी जिसे आप दोबारा देखना चाहते हैं"
+    intro: "देखें कि LinkHQ साझा किए गए लिंक को खोजने योग्य संग्रह में कैसे बदलता है, जिसमें असली शीर्षक, थंबनेल और स्रोत तक लौटने का एक-टैप रास्ता होता है।"
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "LinkHQ का स्वागत स्क्रीन, जो सहेजना, खोजना और लौटना समझाता है"
+        title: "आपको जो भाए, उसका घर"
+        body: "किसी भी शेयर शीट से लिंक सहेजें, आसानी से दोबारा पाने के लिए नोट या टैग जोड़ें, और बाद में उसे मूल ऐप या वेबसाइट में फिर खोलें।"
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "सहेजे गए लिंक की लाइब्रेरी सूची, शीर्षक, थंबनेल, स्रोत और टैग के साथ"
+        title: "सब कुछ एक ही जगह सहेजा हुआ"
+        body: "आपकी लाइब्रेरी हर लिंक को नए से पुराने क्रम में दिखाती है, और असली शीर्षक, थंबनेल, स्रोत और टैग वह काम करते हैं जो सादा URL कभी नहीं कर पाता।"
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "प्रीव्यू इमेज, Open Original बटन और स्रोत के साथ लिंक का विवरण"
+        title: "एक टैप में स्रोत तक वापसी"
+        body: "हर लिंक प्रीव्यू, शीर्षक और स्रोत के साथ साफ़ विवरण दृश्य में खुलता है। Open Original पर टैप करें और iOS उसे उसी ऐप या साइट में फिर खोल देता है जहाँ से वह आया था।"
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "जोड़ने की तारीख़, आख़िरी बार खोलने और उपलब्धता की स्थिति दिखाती लिंक जानकारी"
+        title: "उसका इतिहास और स्थिति जानें"
+        body: "देखें कि लिंक कब जोड़ा गया और आख़िरी बार कब खोला गया, उसे फिर से बिना खोला चिह्नित करें, और ढूँढने से पहले जाँचें कि वह अब भी उपलब्ध है या नहीं।"
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "फ़ोटो, नोट और चालू पसंदीदा के साथ रेसिपी लिंक का विवरण"
+        title: "आपके अपने नोट और पसंदीदा"
+        body: "जिन लिंक पर आप बार-बार लौटते हैं उन पर स्टार लगाएँ और एक निजी नोट जोड़ें, जैसे अगले सप्ताहांत उस रात भर वाले प्रूफ़ को आज़माने की याद दिलाना।"
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "सहेजे गए लिंक के नोट, टैग और कीवर्ड के साथ व्यवस्थित करें अनुभाग"
+        title: "टैग लगाएँ, बाद में पाएँ"
+        body: "LinkHQ आपके डिवाइस पर जो कीवर्ड निकालता है उनके साथ अपने टैग जोड़ें, ताकि एक ही विषय के लिंक आसानी से एक साथ आ जाएँ।"
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "पसंदीदा, Unopened, Unavailable, स्रोत और कीवर्ड के साथ फ़िल्टर मेनू"
+        title: "पल भर में फ़िल्टर करें"
+        body: "लाइब्रेरी को पसंदीदा, बिना खोले या अनुपलब्ध लिंक तक, या किसी एक स्रोत या कीवर्ड तक सीमित करें।"
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "सहेजे गए लिंक की संख्या और Delete All Links के साथ सेटिंग स्क्रीन"
+        title: "आपकी लाइब्रेरी, आपके नियंत्रण में"
+        body: "सेटिंग दिखाती है कि आपने कितने लिंक सहेजे हैं और पूरी लाइब्रेरी एक साथ साफ़ करने देती है। वह केवल आपके डिवाइस पर रहती है, इसलिए पीछे कुछ नहीं बचता।"
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "URL, वैकल्पिक शीर्षक, नोट और टैग फ़ील्ड के साथ लिंक जोड़ें फ़ॉर्म"
+        title: "कोई भी लिंक हाथ से जोड़ें"
+        body: "शेयर शीट से नहीं आ रहे? कोई भी URL पेस्ट करें, चाहें तो शीर्षक दें, और नोट व टैग सीधे ऐप के भीतर जोड़ें।"
+
+nl:
+  showcase:
+    label: "Van dichtbij"
+    title: "Een rustige bibliotheek voor alles wat je nog eens wilt zien"
+    intro: "Zie hoe LinkHQ gedeelde links verandert in een doorzoekbaar archief, met echte titels, miniaturen en met één tik terug naar de bron."
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "Welkomstscherm van LinkHQ dat Vastleggen, Vinden en Terugkeren uitlegt"
+        title: "Een thuis voor wat je raakt"
+        body: "Leg een link vast vanuit elk deelmenu, voeg een notitie of tag toe zodat je hem makkelijk terugvindt, en keer er later naar terug in de oorspronkelijke app of website."
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "Bibliotheeklijst met bewaarde links, met titels, miniaturen, bronnen en tags"
+        title: "Alles op één plek bewaard"
+        body: "Je bibliotheek toont elke link met de nieuwste bovenaan, met echte titel, miniatuur, bron en tags die doen wat een kale URL nooit kan."
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "Linkdetails met een voorbeeldafbeelding, de knop Open Original en de bron"
+        title: "Met één tik terug naar de bron"
+        body: "Elke link opent in een overzichtelijke detailweergave met voorbeeld, titel en bron. Tik op Open Original en iOS opent hem opnieuw in de app of site waar hij vandaan kwam."
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "Linkinfo met toevoegdatum, laatst geopend en beschikbaarheidsstatus"
+        title: "Ken de geschiedenis en status"
+        body: "Zie wanneer een link is toegevoegd en voor het laatst geopend, markeer hem weer als ongeopend en controleer of hij nog beschikbaar is voordat je gaat zoeken."
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "Details van een receptlink met een foto, een notitie en Favoriet ingeschakeld"
+        title: "Je eigen notities en favorieten"
+        body: "Geef links waar je steeds op terugkomt een ster en voeg een persoonlijke notitie toe, zoals een herinnering om komend weekend die rijzing van een nacht te proberen."
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "Sectie Ordenen met een notitie, tags en trefwoorden voor een bewaarde link"
+        title: "Geef het een tag, vind het later"
+        body: "Voeg je eigen tags toe naast de trefwoorden die LinkHQ op je apparaat haalt, zodat links over hetzelfde onderwerp makkelijk weer bij elkaar komen."
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "Filtermenu met favorieten, Unopened, Unavailable, bronnen en trefwoorden"
+        title: "Filter in een oogwenk"
+        body: "Beperk de bibliotheek tot favoriete, ongeopende of onbeschikbare links, of tot één bron of trefwoord."
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "Instellingenscherm met het aantal bewaarde links en Delete All Links"
+        title: "Je bibliotheek, onder jouw controle"
+        body: "Instellingen toont hoeveel links je hebt bewaard en laat je de hele bibliotheek in één keer wissen. Ze staat alleen op je apparaat, dus er blijft niets achter."
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "Formulier Link toevoegen met velden voor URL, optionele titel, notitie en tags"
+        title: "Voeg elke link handmatig toe"
+        body: "Kom je niet uit het deelmenu? Plak een willekeurige URL, geef hem eventueel een titel en voeg notitie en tags direct in de app toe."
+
+tr:
+  showcase:
+    label: "Yakından bakış"
+    title: "Yeniden bakmak istediğiniz her şey için sakin bir kitaplık"
+    intro: "LinkHQ'nun paylaştığınız bağlantıları gerçek başlıklar, küçük resimler ve kaynağa tek dokunuşla dönüş sağlayan, aranabilir bir arşive nasıl dönüştürdüğünü görün."
+    shots:
+      - image: /assets/screenshots/linkhq/01-welcome.png
+        alt: "Yakala, Bul ve Geri Dön adımlarını anlatan LinkHQ karşılama ekranı"
+        title: "Sizi etkileyenlere bir yuva"
+        body: "Herhangi bir paylaşım sayfasından bağlantı yakalayın, kolayca yeniden bulmak için not veya etiket ekleyin ve sonra özgün uygulamasında ya da sitesinde ona geri dönün."
+      - image: /assets/screenshots/linkhq/02-library.png
+        alt: "Başlıkları, küçük resimleri, kaynakları ve etiketleriyle kayıtlı bağlantıların kitaplık listesi"
+        title: "Her şey tek bir yerde kayıtlı"
+        body: "Kitaplığınız her bağlantıyı en yeniden başlayarak listeler; gerçek başlık, küçük resim, kaynak ve etiketler, çıplak bir adresin asla yapamayacağı işi görür."
+      - image: /assets/screenshots/linkhq/03-details.png
+        alt: "Önizleme görseli, Open Original düğmesi ve kaynakla bağlantı ayrıntıları"
+        title: "Tek dokunuşla kaynağa dönüş"
+        body: "Her bağlantı; önizleme, başlık ve kaynakla sade bir ayrıntı görünümünde açılır. Open Original'a dokunun; iOS onu geldiği uygulamada ya da sitede yeniden açar."
+      - image: /assets/screenshots/linkhq/04-metadata.png
+        alt: "Eklenme tarihini, son açılışı ve kullanılabilirlik durumunu gösteren bağlantı bilgisi"
+        title: "Geçmişini ve durumunu bilin"
+        body: "Bir bağlantının ne zaman eklendiğini ve en son ne zaman açıldığını görün, onu yeniden açılmadı olarak işaretleyin ve aramaya çıkmadan önce hâlâ kullanılabilir olup olmadığına bakın."
+      - image: /assets/screenshots/linkhq/05-favorites.png
+        alt: "Fotoğraf, not ve açık Sık Kullanılan seçeneğiyle bir tarif bağlantısının ayrıntıları"
+        title: "Size özel notlar ve sık kullanılanlar"
+        body: "Tekrar tekrar döndüğünüz bağlantılara yıldız verin ve gelecek hafta sonu o gece mayalamayı denemeyi hatırlatan gibi kişisel bir not ekleyin."
+      - image: /assets/screenshots/linkhq/06-tags.png
+        alt: "Kayıtlı bir bağlantı için not, etiket ve anahtar kelimeler içeren Düzenle bölümü"
+        title: "Etiketleyin, sonra bulun"
+        body: "LinkHQ'nun cihazınızda çıkardığı anahtar kelimelerin yanına kendi etiketlerinizi ekleyin; böylece aynı konudaki bağlantıları yeniden bir araya getirmek kolaylaşır."
+      - image: /assets/screenshots/linkhq/07-filters.png
+        alt: "Sık kullanılanlar, Unopened, Unavailable, kaynaklar ve anahtar kelimeler içeren süzgeç menüsü"
+        title: "Anında süzün"
+        body: "Kitaplığı sık kullanılan, açılmamış veya kullanılamayan bağlantılara ya da tek bir kaynağa veya anahtar kelimeye daraltın."
+      - image: /assets/screenshots/linkhq/08-settings.png
+        alt: "Kayıtlı bağlantı sayısını ve Delete All Links seçeneğini gösteren Ayarlar ekranı"
+        title: "Kitaplığınız, sizin denetiminizde"
+        body: "Ayarlar kaç bağlantı kaydettiğinizi gösterir ve tüm kitaplığı tek seferde temizlemenize izin verir. Kitaplık yalnızca cihazınızda durur, bu yüzden geride hiçbir şey kalmaz."
+      - image: /assets/screenshots/linkhq/09-add-link.png
+        alt: "Adres, isteğe bağlı başlık, not ve etiket alanlarıyla Bağlantı Ekle formu"
+        title: "Herhangi bir bağlantıyı elle ekleyin"
+        body: "Paylaşım sayfasından gelmiyor musunuz? Herhangi bir adresi yapıştırın, isteğe bağlı bir başlık verin ve not ile etiketleri doğrudan uygulamada ekleyin."

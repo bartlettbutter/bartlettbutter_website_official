@@ -12,22 +12,9 @@ redirect_from:
 
 # Guarde o que vale a pena revisitar.
 
-O LinkHQ é um lugar tranquilo para os links que você quer reencontrar. Compartilhe um vídeo, uma publicação ou uma página como enviaria a um amigo, e o LinkHQ captura o link, preenche o título real, as palavras-chave e a miniatura, e o deixa pronto. Toque nele depois e o app original reabre o vídeo ou a publicação na origem. Sua biblioteca fica no seu dispositivo e nunca é enviada.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Compartilhe no LinkHQ</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Sua biblioteca, com títulos e miniaturas</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Busque e filtre por origem</span>
-  </div>
-</div>
+O LinkHQ é um lugar tranquilo para os links que você quer reencontrar. Compartilhe um vídeo, uma publicação ou uma página como enviaria a um amigo, e o LinkHQ captura o link, preenche o título real, as palavras-chave e a miniatura, e o deixa pronto. Toque nele depois e o app original reabre o vídeo ou a publicação na origem. Sua biblioteca fica no seu dispositivo e nunca é enviada.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">Capture de qualquer app</span>
@@ -59,6 +46,8 @@ O LinkHQ é um lugar tranquilo para os links que você quer reencontrar. Compart
   </div>
   <p class="marketing-meta-note">Em breve no iPhone e no iPad.</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

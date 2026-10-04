@@ -12,22 +12,9 @@ redirect_from:
 
 # Храните то, к чему стоит возвращаться.
 
-LinkHQ, это тихое место для ссылок, которые вы хотите найти снова. Поделитесь видео, постом или страницей так же, как отправили бы другу, и LinkHQ подхватит ссылку, заполнит её настоящий заголовок, ключевые слова и миниатюру и будет держать наготове. Коснитесь позже, и исходное приложение снова откроет видео или пост в его источнике. Библиотека живёт на вашем устройстве и никогда не выгружается.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Поделиться в LinkHQ</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Ваша библиотека, с заголовками и миниатюрами</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Поиск и фильтр по источнику</span>
-  </div>
-</div>
+LinkHQ, это тихое место для ссылок, которые вы хотите найти снова. Поделитесь видео, постом или страницей так же, как отправили бы другу, и LinkHQ подхватит ссылку, заполнит её настоящий заголовок, ключевые слова и миниатюру и будет держать наготове. Коснитесь позже, и исходное приложение снова откроет видео или пост в его источнике. Библиотека живёт на вашем устройстве и никогда не выгружается.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">Захват из любого приложения</span>
@@ -59,6 +46,8 @@ LinkHQ, это тихое место для ссылок, которые вы х
   </div>
   <p class="marketing-meta-note">Скоро на iPhone и iPad.</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

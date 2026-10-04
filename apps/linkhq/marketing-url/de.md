@@ -12,22 +12,9 @@ redirect_from:
 
 # Bewahre, was es wert ist, dass du zurückkehrst.
 
-LinkHQ ist ein ruhiger Ort für die Links, die du wiederfinden möchtest. Teile ein Video, einen Beitrag oder eine Seite so, wie du es einem Freund schicken würdest, und LinkHQ erfasst den Link, ergänzt seinen echten Titel, Schlagwörter und ein Vorschaubild und hält ihn bereit. Tippe später darauf, und die ursprüngliche App öffnet das Video oder den Beitrag wieder an seiner Quelle. Deine Bibliothek bleibt auf deinem Gerät und wird nie hochgeladen.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">In LinkHQ teilen</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Deine Bibliothek, mit Titeln und Vorschaubildern</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Nach Quelle suchen und filtern</span>
-  </div>
-</div>
+LinkHQ ist ein ruhiger Ort für die Links, die du wiederfinden möchtest. Teile ein Video, einen Beitrag oder eine Seite so, wie du es einem Freund schicken würdest, und LinkHQ erfasst den Link, ergänzt seinen echten Titel, Schlagwörter und ein Vorschaubild und hält ihn bereit. Tippe später darauf, und die ursprüngliche App öffnet das Video oder den Beitrag wieder an seiner Quelle. Deine Bibliothek bleibt auf deinem Gerät und wird nie hochgeladen.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">Aus jeder App erfassen</span>
@@ -59,6 +46,8 @@ LinkHQ ist ein ruhiger Ort für die Links, die du wiederfinden möchtest. Teile 
   </div>
   <p class="marketing-meta-note">Bald für iPhone und iPad.</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

@@ -12,22 +12,9 @@ redirect_from:
 
 # Geri dönmeye değer şeyleri saklayın.
 
-LinkHQ, yeniden bulmak istediğiniz bağlantılar için sakin bir yer. Bir videoyu, gönderiyi ya da sayfayı bir arkadaşınıza gönderir gibi paylaşın; LinkHQ bağlantıyı yakalar, gerçek başlığını, anahtar kelimelerini ve küçük resmini doldurur ve hazır tutar. Daha sonra dokunduğunuzda özgün uygulama videoyu veya gönderiyi kaynağında yeniden açar. Kitaplığınız cihazınızda kalır ve asla yüklenmez.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">LinkHQ'ya paylaş</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Başlık ve küçük resimlerle kitaplığınız</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Kaynağa göre arayın ve süzün</span>
-  </div>
-</div>
+LinkHQ, yeniden bulmak istediğiniz bağlantılar için sakin bir yer. Bir videoyu, gönderiyi ya da sayfayı bir arkadaşınıza gönderir gibi paylaşın; LinkHQ bağlantıyı yakalar, gerçek başlığını, anahtar kelimelerini ve küçük resmini doldurur ve hazır tutar. Daha sonra dokunduğunuzda özgün uygulama videoyu veya gönderiyi kaynağında yeniden açar. Kitaplığınız cihazınızda kalır ve asla yüklenmez.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">Her uygulamadan yakalayın</span>
@@ -59,6 +46,8 @@ LinkHQ, yeniden bulmak istediğiniz bağlantılar için sakin bir yer. Bir video
   </div>
   <p class="marketing-meta-note">iPhone ve iPad'de yakında.</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

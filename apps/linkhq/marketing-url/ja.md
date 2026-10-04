@@ -12,22 +12,9 @@ redirect_from:
 
 # また戻ってきたいものを、とっておく。
 
-LinkHQ は、もう一度見つけたいリンクのための静かな場所です。動画や投稿、ページを友だちに送るのと同じように共有すると、LinkHQ がリンクを取り込み、本当のタイトル、キーワード、サムネイルを補って、いつでも開ける状態にしておきます。あとでタップすれば、元のアプリがその動画や投稿を元の場所で開き直します。ライブラリは端末の中にとどまり、アップロードされることはありません。
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">LinkHQ へ共有</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">タイトルとサムネイル付きのライブラリ</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">ソース別に検索・絞り込み</span>
-  </div>
-</div>
+LinkHQ は、もう一度見つけたいリンクのための静かな場所です。動画や投稿、ページを友だちに送るのと同じように共有すると、LinkHQ がリンクを取り込み、本当のタイトル、キーワード、サムネイルを補って、いつでも開ける状態にしておきます。あとでタップすれば、元のアプリがその動画や投稿を元の場所で開き直します。ライブラリは端末の中にとどまり、アップロードされることはありません。
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">どのアプリからでも取り込み</span>
@@ -59,6 +46,8 @@ LinkHQ は、もう一度見つけたいリンクのための静かな場所で�
   </div>
   <p class="marketing-meta-note">iPhone と iPad に近日登場。</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

@@ -12,22 +12,9 @@ redirect_from:
 
 # Conserva ciò a cui vale la pena tornare.
 
-LinkHQ è un luogo tranquillo per i link che vuoi ritrovare. Condividi un video, un post o una pagina come lo invieresti a un amico, e LinkHQ cattura il link, ne compila il titolo reale, le parole chiave e la miniatura, e lo tiene pronto. Toccalo più tardi e l'app originale riapre il video o il post alla sua fonte. La tua libreria vive sul tuo dispositivo e non viene mai caricata.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Condividi in LinkHQ</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">La tua libreria, con titoli e miniature</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Cerca e filtra per fonte</span>
-  </div>
-</div>
+LinkHQ è un luogo tranquillo per i link che vuoi ritrovare. Condividi un video, un post o una pagina come lo invieresti a un amico, e LinkHQ cattura il link, ne compila il titolo reale, le parole chiave e la miniatura, e lo tiene pronto. Toccalo più tardi e l'app originale riapre il video o il post alla sua fonte. La tua libreria vive sul tuo dispositivo e non viene mai caricata.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">Cattura da qualsiasi app</span>
@@ -59,6 +46,8 @@ LinkHQ è un luogo tranquillo per i link che vuoi ritrovare. Condividi un video,
   </div>
   <p class="marketing-meta-note">Presto su iPhone e iPad.</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

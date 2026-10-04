@@ -12,22 +12,9 @@ redirect_from:
 
 # Bewaar wat het waard is om naar terug te keren.
 
-LinkHQ is een rustige plek voor de links die je terug wilt vinden. Deel een video, bericht of pagina zoals je het naar een vriend zou sturen, en LinkHQ vangt de link op, vult de echte titel, trefwoorden en miniatuur in, en houdt hem klaar. Tik er later op en de oorspronkelijke app opent de video of het bericht opnieuw bij de bron. Je bibliotheek blijft op je apparaat en wordt nooit geüpload.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Deel naar LinkHQ</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Je bibliotheek, met titels en miniaturen</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Zoek en filter op bron</span>
-  </div>
-</div>
+LinkHQ is een rustige plek voor de links die je terug wilt vinden. Deel een video, bericht of pagina zoals je het naar een vriend zou sturen, en LinkHQ vangt de link op, vult de echte titel, trefwoorden en miniatuur in, en houdt hem klaar. Tik er later op en de oorspronkelijke app opent de video of het bericht opnieuw bij de bron. Je bibliotheek blijft op je apparaat en wordt nooit geüpload.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">Vang vanuit elke app</span>
@@ -59,6 +46,8 @@ LinkHQ is een rustige plek voor de links die je terug wilt vinden. Deel een vide
   </div>
   <p class="marketing-meta-note">Binnenkort op iPhone en iPad.</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

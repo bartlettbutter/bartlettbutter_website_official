@@ -11,22 +11,9 @@ redirect_from:
 
 # Keep the things worth returning to.
 
-LinkHQ is a quiet place for the links you want to find again. Share a video, a post, or a page into it the way you would send it to a friend, and LinkHQ captures the link, fills in its real title, keywords, and thumbnail, and keeps it ready. Tap it later and the original app reopens the video or post at its source. The library lives on your device and is never uploaded.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Share into LinkHQ</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Your library, titles and thumbnails</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Search and filter by source</span>
-  </div>
-</div>
+LinkHQ is a quiet place for the links you want to find again. Share a video, a post, or a page into it the way you would send it to a friend, and LinkHQ captures the link, fills in its real title, keywords, and thumbnail, and keeps it ready. Tap it later and the original app reopens the video or post at its source. The library lives on your device and is never uploaded.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">Capture from any app</span>
@@ -58,6 +45,8 @@ LinkHQ is a quiet place for the links you want to find again. Share a video, a p
   </div>
   <p class="marketing-meta-note">Coming soon on iPhone and iPad.</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

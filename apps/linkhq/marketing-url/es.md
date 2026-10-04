@@ -12,22 +12,9 @@ redirect_from:
 
 # Guarda lo que vale la pena revisitar.
 
-LinkHQ es un lugar tranquilo para los enlaces que quieres volver a encontrar. Comparte un vídeo, una publicación o una página como lo harías con un amigo, y LinkHQ captura el enlace, completa su título real, sus palabras clave y su miniatura, y lo deja listo. Tócalo más tarde y la app original vuelve a abrir el vídeo o la publicación en su origen. Tu biblioteca vive en tu dispositivo y nunca se sube.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Comparte en LinkHQ</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Tu biblioteca, con títulos y miniaturas</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Busca y filtra por origen</span>
-  </div>
-</div>
+LinkHQ es un lugar tranquilo para los enlaces que quieres volver a encontrar. Comparte un vídeo, una publicación o una página como lo harías con un amigo, y LinkHQ captura el enlace, completa su título real, sus palabras clave y su miniatura, y lo deja listo. Tócalo más tarde y la app original vuelve a abrir el vídeo o la publicación en su origen. Tu biblioteca vive en tu dispositivo y nunca se sube.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">Captura desde cualquier app</span>
@@ -59,6 +46,8 @@ LinkHQ es un lugar tranquilo para los enlaces que quieres volver a encontrar. Co
   </div>
   <p class="marketing-meta-note">Muy pronto en iPhone y iPad.</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

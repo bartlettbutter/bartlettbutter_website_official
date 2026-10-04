@@ -12,22 +12,9 @@ redirect_from:
 
 # 다시 돌아올 가치가 있는 것을 간직하세요.
 
-LinkHQ는 다시 찾고 싶은 링크를 위한 조용한 공간입니다. 동영상이나 게시물, 페이지를 친구에게 보내듯 공유하면 LinkHQ가 링크를 담아 실제 제목과 키워드, 썸네일을 채워 준비해 둡니다. 나중에 탭하면 원래 앱이 그 동영상이나 게시물을 출처에서 다시 엽니다. 라이브러리는 기기에 남고 절대 업로드되지 않습니다.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">LinkHQ로 공유</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">제목과 썸네일이 있는 라이브러리</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">출처별로 검색하고 필터링</span>
-  </div>
-</div>
+LinkHQ는 다시 찾고 싶은 링크를 위한 조용한 공간입니다. 동영상이나 게시물, 페이지를 친구에게 보내듯 공유하면 LinkHQ가 링크를 담아 실제 제목과 키워드, 썸네일을 채워 준비해 둡니다. 나중에 탭하면 원래 앱이 그 동영상이나 게시물을 출처에서 다시 엽니다. 라이브러리는 기기에 남고 절대 업로드되지 않습니다.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">어떤 앱에서든 담기</span>
@@ -59,6 +46,8 @@ LinkHQ는 다시 찾고 싶은 링크를 위한 조용한 공간입니다. 동�
   </div>
   <p class="marketing-meta-note">iPhone과 iPad에 곧 출시됩니다.</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

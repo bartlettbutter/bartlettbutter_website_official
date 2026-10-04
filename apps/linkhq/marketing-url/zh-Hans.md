@@ -12,22 +12,9 @@ redirect_from:
 
 # 留住值得回头再看的内容。
 
-LinkHQ 是一处安静的空间，用来存放你想再次找到的链接。像发给朋友那样，把视频、帖子或网页分享进来，LinkHQ 便会抓取链接，补上它真正的标题、关键词和缩略图，并随时为你备好。稍后轻点一下，原应用就会在来源处重新打开那个视频或帖子。你的收藏存放在设备本地，绝不会被上传。
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">分享进 LinkHQ</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">你的收藏，含标题与缩略图</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">按来源搜索与筛选</span>
-  </div>
-</div>
+LinkHQ 是一处安静的空间，用来存放你想再次找到的链接。像发给朋友那样，把视频、帖子或网页分享进来，LinkHQ 便会抓取链接，补上它真正的标题、关键词和缩略图，并随时为你备好。稍后轻点一下，原应用就会在来源处重新打开那个视频或帖子。你的收藏存放在设备本地，绝不会被上传。
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">从任意应用捕获</span>
@@ -59,6 +46,8 @@ LinkHQ 是一处安静的空间，用来存放你想再次找到的链接。像�
   </div>
   <p class="marketing-meta-note">即将登陆 iPhone 与 iPad。</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

@@ -16,12 +16,14 @@ en:
     alt: "Nekopedia app screen"
     shots:
       - /assets/screenshots/nekopedia/01-welcome.png
-      - /assets/screenshots/nekopedia/02-identify.png
-      - /assets/screenshots/nekopedia/03-profile.png
-      - /assets/screenshots/nekopedia/04-favorites.png
-      - /assets/screenshots/nekopedia/05-explore.png
-      - /assets/screenshots/nekopedia/06-quiz.png
-      - /assets/screenshots/nekopedia/07-trivia.png
+      - /assets/screenshots/nekopedia/02-scan.png
+      - /assets/screenshots/nekopedia/03-identify.png
+      - /assets/screenshots/nekopedia/04-profile.png
+      - /assets/screenshots/nekopedia/05-history.png
+      - /assets/screenshots/nekopedia/06-favorites.png
+      - /assets/screenshots/nekopedia/07-explore.png
+      - /assets/screenshots/nekopedia/08-quiz.png
+      - /assets/screenshots/nekopedia/09-trivia.png
   showcase:
     label: "See it in action"
     title: "From a quick photo to the whole breed story"
@@ -31,28 +33,36 @@ en:
         alt: "Nekopedia welcome screen listing scan, breed profiles, quizzes, and trivia"
         title: "Your pocket guide to the cat world"
         body: "Open Nekopedia and start right away — no account, no sign-up, no cost. Breed scanning and the built-in CFA/TICA-style profiles work offline from the first tap; connect to the internet for breed photos, quizzes, and trivia."
-      - image: /assets/screenshots/nekopedia/02-identify.png
-        alt: "Scan screen showing a Khao Manee identified with a 92 percent confidence score and other possibilities"
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "Scan screen inviting you to snap or pick a cat photo, with Library and Camera buttons"
+        title: "Start a breed check in seconds"
+        body: "Tap Camera to snap the cat in front of you, or Library to pick a photo you already have. One tap is all it takes to start the scan."
+      - image: /assets/screenshots/nekopedia/03-identify.png
+        alt: "Scan result identifying a Khao Manee with a 92 percent confidence score and other possibilities"
         title: "Point your camera, name the breed"
-        body: "Snap a photo or pick one from your library and get a breed match with a confidence score, plus a ranked list of other possibilities so close calls are never a guess."
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "Breed details screen for the Khao Manee with temperament, life span, weight, height, origin, and history"
+        body: "Get a breed match with a confidence score, plus a ranked list of other possibilities so close calls are never a guess."
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "Breed details screen for the Khao Manee with a photo, description, temperament, life span, and weight"
         title: "Every breed, fully profiled"
-        body: "Each result opens a rich CFA/TICA-style profile — temperament, life span, weight, height, country of origin, and the breed's history — so you learn the story behind the cat, not just its name."
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "Each result opens a rich CFA/TICA-style profile — temperament, life span, weight, height, and country of origin — so you learn what the cat is really like, not just its name."
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "Breed history for the Khao Manee followed by a list of fun cat facts"
+        title: "The history behind every breed"
+        body: "Scroll on for the breed's origin story and a handful of fun cat facts, so you learn the story behind the cat as well as its stats."
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "Favorites grid of saved breed scans including Sphynx, Abyssinian, Persian, and Norwegian Forest"
         title: "Build your own breed library"
         body: "Love a breed? Save any scan and revisit it anytime. Your favorites form a personal library that stays stored locally on your device."
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "Explore screen with a breed search bar and an interactive world map of breeds by country"
         title: "Explore breeds around the world"
         body: "Search 48 breeds by name, or browse an interactive world map organized by country of origin. Tap a pin to see which breeds come from that region and dive into their profiles."
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "Breed Quiz screen asking which breed is shown, with a Siamese answered correctly"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "Breed Quiz screen asking which breed is shown, with Japanese Bobtail answered correctly"
         title: "Test yourself with Breed Quiz"
         body: "Guess the breed from a photo across ten multiple-choice questions, earn reward titles, and sharpen your eye for every breed you meet."
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "Cat Trivia screen showing a true-or-false myth question answered correctly"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "Cat Trivia screen showing a true-or-false question about cat bones answered correctly"
         title: "Bust myths with Cat Trivia"
         body: "Take on ten rounds of true-or-false questions that mix real feline facts with clever myths, so you pick up practical cat knowledge while you play — anytime you're online."
 
@@ -66,28 +76,36 @@ zh-Hans:
         alt: "Nekopedia 欢迎界面，列出扫描、品种资料、测验和问答"
         title: "您的口袋猫咪百科"
         body: "打开 Nekopedia 即可立即开始——无需账户，无需注册，也无需付费。品种扫描和内置的 CFA/TICA 风格资料从第一次点按起就能离线使用；联网后即可浏览品种照片、测验和问答。"
-      - image: /assets/screenshots/nekopedia/02-identify.png
-        alt: "扫描界面，显示以 92% 置信度识别出的 Khao Manee 猫及其他可能性"
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "扫描界面，提示您拍摄或选取一张猫咪照片，带有“相册”和“相机”按钮"
+        title: "几秒钟即可开始品种检测"
+        body: "点按“相机”拍下眼前的猫咪，或点按“相册”选择已有的照片。只需轻点一下，即可开始扫描。"
+      - image: /assets/screenshots/nekopedia/03-identify.png
+        alt: "扫描结果，显示以 92% 置信度识别出的 Khao Manee 猫及其他可能性"
         title: "对准相机，说出品种"
-        body: "拍一张照片或从相册中选择一张，即可获得带有置信度分数的品种匹配，以及按排名列出的其他可能性，难以判断时也不必靠猜。"
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "Khao Manee 猫的品种详情界面，包含性格、寿命、体重、身高、原产地和历史"
+        body: "获得带有置信度分数的品种匹配，以及按排名列出的其他可能性，难以判断时也不必靠猜。"
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "Khao Manee 猫的品种详情界面，包含照片、简介、性格、寿命和体重"
         title: "每个品种，资料齐全"
-        body: "每个结果都会打开一份内容丰富的 CFA/TICA 风格资料——性格、寿命、体重、身高、原产国以及品种历史——让您了解这只猫背后的故事，而不只是它的名字。"
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "每个结果都会打开一份内容丰富的 CFA/TICA 风格资料——性格、寿命、体重、身高和原产国——让您了解这只猫究竟是什么样的，而不只是它的名字。"
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "Khao Manee 猫的品种历史，下方是一系列有趣的猫咪冷知识"
+        title: "每个品种背后的历史"
+        body: "继续向下滑动，即可阅读品种的起源故事和一些有趣的猫咪冷知识，让您既了解这只猫的数据，也了解它背后的故事。"
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "收藏网格，展示已保存的品种扫描，包括斯芬克斯猫、阿比西尼亚猫、波斯猫和挪威森林猫"
         title: "打造您的专属品种库"
         body: "爱上某个品种？保存任意一次扫描，随时回顾。您的收藏会组成一个个人品种库，并始终存储在您的设备本地。"
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "探索界面，带有品种搜索栏和按国家展示品种的互动世界地图"
         title: "探索世界各地的猫咪品种"
         body: "按名称搜索 48 个品种，或浏览按原产国整理的互动世界地图。点按图钉，即可查看来自该地区的品种并深入了解它们的资料。"
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "品种测验界面，提问图中是什么品种，暹罗猫被正确答出"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "品种测验界面，提问图中是什么品种，日本短尾猫被正确答出"
         title: "用品种测验考考自己"
         body: "通过十道选择题，根据照片猜出品种，赢取奖励称号，练就一双能认出每一只猫品种的慧眼。"
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "猫咪问答界面，显示一道答对的真假判断谬误题"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "猫咪问答界面，显示一道关于猫咪骨骼、已答对的真假判断题"
         title: "用猫咪问答破除谬误"
         body: "挑战十轮真假判断题，题目将真实的猫咪知识与巧妙的谬误混在一起，让您在游戏中掌握实用的养猫知识——只要联网，随时都能玩。"
 
@@ -101,28 +119,36 @@ zh-Hant:
         alt: "Nekopedia 歡迎畫面，列出掃描、品種資料、測驗與問答"
         title: "您的口袋貓咪百科"
         body: "打開 Nekopedia 即可立即開始——無需賬戶、無需註冊，也無需付費。品種掃描與內建的 CFA/TICA 風格資料從第一次點按起就能離線使用；連網後即可瀏覽品種照片、測驗與問答。"
-      - image: /assets/screenshots/nekopedia/02-identify.png
-        alt: "掃描畫面，顯示以 92% 置信度識別出的 Khao Manee 貓及其他可能性"
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "掃描畫面，提示您拍攝或選取一張貓咪照片，附有「相簿」與「相機」按鈕"
+        title: "幾秒鐘即可開始品種檢測"
+        body: "點按「相機」拍下眼前的貓咪，或點按「相簿」選擇現有的照片。只需輕點一下，即可開始掃描。"
+      - image: /assets/screenshots/nekopedia/03-identify.png
+        alt: "掃描結果，顯示以 92% 置信度識別出的 Khao Manee 貓及其他可能性"
         title: "對準相機，說出品種"
-        body: "拍一張照片或從相簿中選一張，即可獲得附置信度分數的品種匹配，以及依排名列出的其他可能性，難以判斷時也不必用猜的。"
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "Khao Manee 貓的品種詳情畫面，包含個性、壽命、體重、身高、原產地與歷史"
+        body: "獲得附置信度分數的品種匹配，以及依排名列出的其他可能性，難以判斷時也不必用猜的。"
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "Khao Manee 貓的品種詳情畫面，包含照片、簡介、個性、壽命與體重"
         title: "每個品種，資料齊全"
-        body: "每個結果都會開啟一份內容豐富的 CFA/TICA 風格資料——個性、壽命、體重、身高、原產國以及品種歷史——讓您認識這隻貓背後的故事，而不只是牠的名字。"
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "每個結果都會開啟一份內容豐富的 CFA/TICA 風格資料——個性、壽命、體重、身高與原產國——讓您認識這隻貓究竟是什麼樣子，而不只是牠的名字。"
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "Khao Manee 貓的品種歷史，下方是一系列有趣的貓咪冷知識"
+        title: "每個品種背後的歷史"
+        body: "繼續向下滑動，即可閱讀品種的起源故事與一些有趣的貓咪冷知識，讓您既了解這隻貓的資料，也了解牠背後的故事。"
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "收藏格狀畫面，展示已儲存的品種掃描，包括斯芬克斯貓、阿比西尼亞貓、波斯貓與挪威森林貓"
         title: "打造您的專屬品種收藏庫"
         body: "愛上某個品種？儲存任何一次掃描，隨時回顧。您的收藏會組成一個個人收藏庫，並始終儲存在您的裝置本機。"
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "探索畫面，附有品種搜尋列與依國家呈現品種的互動世界地圖"
         title: "探索世界各地的貓咪品種"
         body: "依名稱搜尋 48 個品種，或瀏覽依原產國整理的互動世界地圖。點按圖釘，即可查看來自該地區的品種並深入了解牠們的資料。"
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "品種測驗畫面，詢問圖中是什麼品種，暹羅貓被正確答出"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "品種測驗畫面，詢問圖中是什麼品種，日本短尾貓被正確答出"
         title: "用品種測驗考考自己"
         body: "透過十道選擇題，依照片猜出品種，贏取獎勵稱號，練就一雙能認出每隻貓品種的好眼力。"
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "貓咪問答畫面，顯示一道答對的真假判斷謬誤題"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "貓咪問答畫面，顯示一道關於貓咪骨骼、已答對的真假判斷題"
         title: "用貓咪問答破除謬誤"
         body: "挑戰十輪真假判斷題，題目將真實的貓咪知識與巧妙的謬誤混在一起，讓您在遊戲中學到實用的養貓知識——只要連網，隨時都能玩。"
 
@@ -136,28 +162,36 @@ ja:
         alt: "スキャン、品種プロフィール、クイズ、トリビアが並ぶ Nekopedia のウェルカム画面"
         title: "ポケットに入る猫の世界ガイド"
         body: "Nekopedia を開けばすぐに始められます。アカウントも登録も費用も不要です。品種スキャンと内蔵の CFA/TICA スタイルのプロフィールは、最初のタップからオフラインで使えます。品種の写真、クイズ、トリビアはインターネットに接続して楽しめます。"
-      - image: /assets/screenshots/nekopedia/02-identify.png
-        alt: "カオマニーが信頼度92パーセントで識別され、ほかの候補も表示されたスキャン画面"
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "猫の写真を撮るか選ぶよう促し、「ライブラリ」と「カメラ」ボタンが表示されたスキャン画面"
+        title: "数秒で品種チェックを開始"
+        body: "「カメラ」をタップして目の前の猫を撮影するか、「ライブラリ」から手持ちの写真を選びましょう。1回のタップでスキャンが始まります。"
+      - image: /assets/screenshots/nekopedia/03-identify.png
+        alt: "カオマニーが信頼度92パーセントで識別され、ほかの候補も表示されたスキャン結果"
         title: "カメラを向けて、品種がわかる"
-        body: "写真を撮るかライブラリから選ぶだけで、信頼度スコア付きの品種マッチと、ランク付けされたほかの候補が表示されます。判断が難しい場合も、当て推量に頼る必要はありません。"
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "性格、寿命、体重、体高、原産地、歴史を表示したカオマニーの品種詳細画面"
+        body: "信頼度スコア付きの品種マッチと、ランク付けされたほかの候補が表示されます。判断が難しい場合も、当て推量に頼る必要はありません。"
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "写真、説明、性格、寿命、体重を表示したカオマニーの品種詳細画面"
         title: "すべての品種を詳しく紹介"
-        body: "結果ごとに、性格、寿命、体重、体高、原産国、品種の歴史をまとめた充実の CFA/TICA スタイルのプロフィールが開きます。名前だけでなく、その猫の背景にある物語まで知ることができます。"
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "結果ごとに、性格、寿命、体重、体高、原産国をまとめた充実の CFA/TICA スタイルのプロフィールが開きます。名前だけでなく、その猫が本当はどんな猫なのかまで知ることができます。"
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "カオマニーの品種の歴史と、その下に続く猫のおもしろ豆知識のリスト"
+        title: "すべての品種の背景にある歴史"
+        body: "さらにスクロールすると、品種の起源の物語と猫のおもしろ豆知識がいくつも並んでいます。データだけでなく、その猫の背景にある物語まで知ることができます。"
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "スフィンクス、アビシニアン、ペルシャ、ノルウェージャンフォレストキャットなど保存した品種スキャンが並ぶお気に入り画面"
         title: "自分だけの品種ライブラリを"
         body: "気に入った品種があれば、スキャン結果を保存していつでも見返せます。お気に入りは自分だけのライブラリになり、デバイス上にローカルで保存されます。"
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "品種の検索バーと、国別に品種を示すインタラクティブな世界地図がある探索画面"
         title: "世界中の品種を探索"
         body: "48品種を名前で検索したり、原産国ごとに整理されたインタラクティブな世界地図を眺めたりできます。ピンをタップすれば、その地域出身の品種を確認し、プロフィールを詳しく読めます。"
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "表示された品種を問う品種クイズの画面で、シャムが正解となっている様子"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "表示された品種を問う品種クイズの画面で、ジャパニーズボブテイルが正解となっている様子"
         title: "品種クイズで腕試し"
         body: "写真から品種を当てる10問の選択式クイズに挑戦して報酬タイトルを獲得し、出会うすべての品種を見分ける目を磨きましょう。"
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "○×形式の俗説クイズに正解した猫トリビアの画面"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "猫の骨に関する○×問題に正解した猫トリビアの画面"
         title: "猫トリビアで俗説を見抜く"
         body: "本当の猫の豆知識と巧みな俗説が入り混じった○×問題に10ラウンド挑戦。遊びながら役立つ猫の知識が身につきます。オンラインならいつでも楽しめます。"
 
@@ -171,28 +205,36 @@ ko:
         alt: "스캔, 품종 프로필, 퀴즈, 상식 퀴즈가 나열된 Nekopedia 시작 화면"
         title: "주머니 속 고양이 세계 가이드"
         body: "Nekopedia를 열면 바로 시작할 수 있습니다. 계정도, 가입도, 비용도 필요 없습니다. 품종 스캔과 내장된 CFA/TICA 스타일 프로필은 첫 탭부터 오프라인으로 작동하며, 인터넷에 연결하면 품종 사진, 퀴즈, 상식 퀴즈를 즐길 수 있습니다."
-      - image: /assets/screenshots/nekopedia/02-identify.png
-        alt: "카오마니가 92퍼센트 신뢰도로 식별되고 다른 가능성도 함께 표시된 스캔 화면"
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "고양이 사진을 찍거나 고르도록 안내하며 라이브러리와 카메라 버튼이 있는 스캔 화면"
+        title: "몇 초 만에 품종 확인 시작"
+        body: "카메라를 탭해 눈앞의 고양이를 촬영하거나, 라이브러리를 탭해 가지고 있는 사진을 고르세요. 한 번의 탭으로 스캔이 시작됩니다."
+      - image: /assets/screenshots/nekopedia/03-identify.png
+        alt: "카오마니가 92퍼센트 신뢰도로 식별되고 다른 가능성도 함께 표시된 스캔 결과"
         title: "카메라를 향하면 품종이 보입니다"
-        body: "사진을 찍거나 라이브러리에서 고르면 신뢰도 점수와 함께 품종 일치 결과를 얻고, 다른 가능성의 순위 목록도 함께 볼 수 있어 판단이 어려울 때도 짐작에 기댈 필요가 없습니다."
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "성격, 수명, 체중, 체고, 원산지, 역사가 담긴 카오마니 품종 상세 화면"
+        body: "신뢰도 점수와 함께 품종 일치 결과를 얻고, 다른 가능성의 순위 목록도 함께 볼 수 있어 판단이 어려울 때도 짐작에 기댈 필요가 없습니다."
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "사진, 설명, 성격, 수명, 체중이 담긴 카오마니 품종 상세 화면"
         title: "모든 품종의 완벽한 프로필"
-        body: "각 결과는 성격, 수명, 체중, 체고, 원산국, 품종의 역사를 담은 풍부한 CFA/TICA 스타일 프로필로 이어집니다. 이름만이 아니라 그 고양이에 얽힌 이야기까지 알아보세요."
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "각 결과는 성격, 수명, 체중, 체고, 원산국을 담은 풍부한 CFA/TICA 스타일 프로필로 이어집니다. 이름만이 아니라 그 고양이가 실제로 어떤지까지 알아보세요."
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "카오마니의 품종 역사와 그 아래로 이어지는 재미있는 고양이 상식 목록"
+        title: "모든 품종에 담긴 역사"
+        body: "계속 스크롤하면 품종의 기원 이야기와 재미있는 고양이 상식을 만날 수 있어, 수치뿐 아니라 그 고양이에 얽힌 이야기까지 알게 됩니다."
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "스핑크스, 아비시니안, 페르시안, 노르웨이 숲 등 저장한 품종 스캔이 담긴 즐겨찾기 그리드"
         title: "나만의 품종 라이브러리 만들기"
         body: "마음에 드는 품종이 있나요? 스캔 결과를 저장하고 언제든 다시 확인하세요. 즐겨찾기는 기기에 로컬로 저장되는 개인 라이브러리가 됩니다."
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "품종 검색창과 나라별 품종을 보여 주는 인터랙티브 세계 지도가 있는 탐색 화면"
         title: "전 세계 품종 탐색하기"
         body: "48개 품종을 이름으로 검색하거나, 원산국별로 정리된 인터랙티브 세계 지도를 둘러보세요. 핀을 탭하면 그 지역 출신 품종을 확인하고 프로필을 자세히 살펴볼 수 있습니다."
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "사진 속 품종을 묻는 품종 퀴즈 화면에서 샴을 정답으로 맞힌 모습"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "사진 속 품종을 묻는 품종 퀴즈 화면에서 재패니즈 밥테일을 정답으로 맞힌 모습"
         title: "품종 퀴즈로 실력 테스트"
         body: "사진을 보고 품종을 맞히는 10개의 객관식 문제에 도전해 보상 타이틀을 획득하고, 만나는 모든 품종을 알아보는 눈을 키워 보세요."
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "참·거짓 속설 문제를 맞힌 고양이 상식 퀴즈 화면"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "고양이 뼈에 관한 참·거짓 문제를 맞힌 고양이 상식 퀴즈 화면"
         title: "고양이 상식 퀴즈로 속설 깨기"
         body: "실제 고양이 상식과 그럴듯한 속설이 섞인 참·거짓 문제 10라운드에 도전하세요. 게임을 하면서 실용적인 고양이 지식을 익힐 수 있으며, 온라인 상태라면 언제든 즐길 수 있습니다."
 
@@ -206,28 +248,36 @@ es:
         alt: "Pantalla de bienvenida de Nekopedia con el escaneo, los perfiles de razas, los concursos y las curiosidades"
         title: "Tu guía de bolsillo del mundo felino"
         body: "Abre Nekopedia y empieza al instante: sin cuenta, sin registro y sin coste. El escaneo de razas y los perfiles integrados al estilo CFA/TICA funcionan sin conexión desde el primer toque; conéctate a internet para ver fotos de razas, el concurso y las curiosidades."
-      - image: /assets/screenshots/nekopedia/02-identify.png
-        alt: "Pantalla de escaneo que muestra un Khao Manee identificado con una puntuación de confianza del 92 por ciento y otras posibilidades"
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "Pantalla de escaneo que invita a hacer o elegir una foto de un gato, con los botones Biblioteca y Cámara"
+        title: "Empieza a comprobar una raza en segundos"
+        body: "Toca Cámara para fotografiar al gato que tienes delante o Biblioteca para elegir una foto que ya tengas. Basta un toque para iniciar el escaneo."
+      - image: /assets/screenshots/nekopedia/03-identify.png
+        alt: "Resultado del escaneo que identifica un Khao Manee con una puntuación de confianza del 92 por ciento y otras posibilidades"
         title: "Apunta la cámara y descubre la raza"
-        body: "Haz una foto o elige una de tu galería y obtén una coincidencia de raza con una puntuación de confianza, además de una lista ordenada de otras posibilidades para que los casos difíciles nunca sean una conjetura."
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "Pantalla de detalles de la raza Khao Manee con temperamento, esperanza de vida, peso, altura, origen e historia"
+        body: "Obtén una coincidencia de raza con una puntuación de confianza, además de una lista ordenada de otras posibilidades para que los casos difíciles nunca sean una conjetura."
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "Pantalla de detalles de la raza Khao Manee con foto, descripción, temperamento, esperanza de vida y peso"
         title: "Cada raza, con su perfil completo"
-        body: "Cada resultado abre un completo perfil al estilo CFA/TICA —temperamento, esperanza de vida, peso, altura, país de origen e historia de la raza— para que conozcas la historia detrás del gato, no solo su nombre."
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "Cada resultado abre un completo perfil al estilo CFA/TICA —temperamento, esperanza de vida, peso, altura y país de origen— para que conozcas cómo es realmente el gato, no solo su nombre."
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "Historia de la raza Khao Manee seguida de una lista de curiosidades felinas"
+        title: "La historia detrás de cada raza"
+        body: "Sigue desplazándote para descubrir el origen de la raza y un puñado de curiosidades felinas, y así conocerás la historia detrás del gato además de sus datos."
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "Cuadrícula de favoritos con escaneos de razas guardados, como Sphynx, Abisinio, Persa y Bosque de Noruega"
         title: "Crea tu propia biblioteca de razas"
         body: "¿Te encanta una raza? Guarda cualquier escaneo y vuelve a verlo cuando quieras. Tus favoritos forman una biblioteca personal que se guarda localmente en tu dispositivo."
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "Pantalla Explora con una barra de búsqueda de razas y un mapa mundial interactivo de razas por país"
         title: "Explora razas de todo el mundo"
         body: "Busca entre 48 razas por nombre o navega por un mapa mundial interactivo organizado por país de origen. Toca un marcador para ver qué razas proceden de esa región y adéntrate en sus perfiles."
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "Pantalla del Concurso de Razas que pregunta qué raza aparece, con un Siamés respondido correctamente"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "Pantalla del Concurso de Razas que pregunta qué raza aparece, con un Bobtail Japonés respondido correctamente"
         title: "Ponte a prueba con el Concurso de Razas"
         body: "Adivina la raza a partir de una foto en diez preguntas de opción múltiple, gana títulos de recompensa y afina tu ojo para cada raza que conozcas."
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "Pantalla de Curiosidades Felinas con una pregunta de mito de verdadero o falso respondida correctamente"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "Pantalla de Curiosidades Felinas con una pregunta de verdadero o falso sobre los huesos de los gatos respondida correctamente"
         title: "Desmonta mitos con Curiosidades Felinas"
         body: "Enfréntate a diez rondas de preguntas de verdadero o falso que mezclan datos felinos reales con mitos ingeniosos, para que aprendas cosas prácticas sobre los gatos mientras juegas, siempre que estés en línea."
 
@@ -241,28 +291,36 @@ fr:
         alt: "Écran d'accueil de Nekopedia présentant le scan, les profils de races, les quiz et les anecdotes"
         title: "Votre guide de poche du monde des chats"
         body: "Ouvrez Nekopedia et commencez tout de suite : sans compte, sans inscription, sans frais. Le scan des races et les profils intégrés de style CFA/TICA fonctionnent hors ligne dès le premier geste ; connectez-vous à Internet pour les photos de races, le quiz et les anecdotes."
-      - image: /assets/screenshots/nekopedia/02-identify.png
-        alt: "Écran de scan montrant un Khao Manee identifié avec un score de confiance de 92 pour cent et d'autres possibilités"
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "Écran de scan invitant à prendre ou choisir une photo de chat, avec les boutons Photothèque et Appareil photo"
+        title: "Lancez une vérification de race en quelques secondes"
+        body: "Touchez Appareil photo pour photographier le chat qui est devant vous, ou Photothèque pour choisir une photo que vous avez déjà. Un seul geste suffit pour lancer le scan."
+      - image: /assets/screenshots/nekopedia/03-identify.png
+        alt: "Résultat du scan identifiant un Khao Manee avec un score de confiance de 92 pour cent et d'autres possibilités"
         title: "Visez avec l'appareil photo, découvrez la race"
-        body: "Prenez une photo ou choisissez-en une dans votre galerie pour obtenir une correspondance de race avec un score de confiance, ainsi qu'une liste classée d'autres possibilités : les cas serrés ne relèvent jamais de la devinette."
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "Écran de détails de la race Khao Manee avec tempérament, espérance de vie, poids, taille, origine et histoire"
+        body: "Obtenez une correspondance de race avec un score de confiance, ainsi qu'une liste classée d'autres possibilités : les cas serrés ne relèvent jamais de la devinette."
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "Écran de détails de la race Khao Manee avec photo, description, tempérament, espérance de vie et poids"
         title: "Chaque race, en profil complet"
-        body: "Chaque résultat ouvre un profil riche de style CFA/TICA — tempérament, espérance de vie, poids, taille, pays d'origine et histoire de la race — pour découvrir l'histoire du chat, et pas seulement son nom."
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "Chaque résultat ouvre un profil riche de style CFA/TICA — tempérament, espérance de vie, poids, taille et pays d'origine — pour découvrir comment est vraiment le chat, et pas seulement son nom."
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "Histoire de la race Khao Manee suivie d'une liste d'anecdotes amusantes sur les chats"
+        title: "L'histoire derrière chaque race"
+        body: "Continuez à faire défiler pour découvrir l'origine de la race et quelques anecdotes amusantes sur les chats : vous connaîtrez l'histoire derrière le chat, et pas seulement ses caractéristiques."
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "Grille de favoris avec des scans de races enregistrés, dont Sphynx, Abyssin, Persan et Chat des forêts norvégiennes"
         title: "Constituez votre propre bibliothèque de races"
         body: "Une race vous plaît ? Enregistrez n'importe quel scan et retrouvez-le à tout moment. Vos favoris forment une bibliothèque personnelle stockée localement sur votre appareil."
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "Écran Explorer avec une barre de recherche de races et une carte du monde interactive des races par pays"
         title: "Explorez les races du monde entier"
         body: "Recherchez parmi 48 races par nom ou parcourez une carte du monde interactive organisée par pays d'origine. Touchez un repère pour voir les races originaires de cette région et plongez dans leurs profils."
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "Écran du Quiz des Races demandant quelle race est affichée, avec un Siamois trouvé correctement"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "Écran du Quiz des Races demandant quelle race est affichée, avec un Bobtail japonais trouvé correctement"
         title: "Testez-vous avec le Quiz des Races"
         body: "Devinez la race à partir d'une photo au fil de dix questions à choix multiples, gagnez des titres de récompense et affûtez votre regard pour chaque race que vous croisez."
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "Écran des Anecdotes Félines montrant une question vrai ou faux sur un mythe, avec la bonne réponse"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "Écran des Anecdotes Félines montrant une question vrai ou faux sur les os des chats, avec la bonne réponse"
         title: "Démontez les mythes avec les Anecdotes Félines"
         body: "Relevez dix manches de questions vrai ou faux qui mêlent vrais faits sur les chats et mythes bien trouvés : vous acquérez des connaissances félines pratiques tout en jouant, dès que vous êtes en ligne."
 
@@ -276,28 +334,36 @@ de:
         alt: "Willkommensbildschirm von Nekopedia mit Scan, Rassenprofilen, Quiz und Trivia"
         title: "Dein Taschenführer durch die Katzenwelt"
         body: "Öffne Nekopedia und leg sofort los – ohne Konto, ohne Anmeldung, ohne Kosten. Der Rassen-Scan und die integrierten Profile im CFA/TICA-Stil funktionieren ab dem ersten Tippen offline; mit Internetverbindung kommen Rassenfotos, das Quiz und Trivia dazu."
-      - image: /assets/screenshots/nekopedia/02-identify.png
-        alt: "Scan-Bildschirm, der eine Khao Manee mit einem Konfidenzwert von 92 Prozent und weitere Möglichkeiten zeigt"
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "Scan-Bildschirm, der dazu einlädt, ein Katzenfoto aufzunehmen oder auszuwählen, mit den Schaltflächen Mediathek und Kamera"
+        title: "Rassencheck in Sekunden starten"
+        body: "Tippe auf Kamera, um die Katze vor dir zu fotografieren, oder auf Mediathek, um ein vorhandenes Foto auszuwählen. Ein Tipp genügt, um den Scan zu starten."
+      - image: /assets/screenshots/nekopedia/03-identify.png
+        alt: "Scan-Ergebnis, das eine Khao Manee mit einem Konfidenzwert von 92 Prozent und weitere Möglichkeiten zeigt"
         title: "Kamera drauf, Rasse erkannt"
-        body: "Mach ein Foto oder wähle eines aus deiner Mediathek und erhalte eine Rassenübereinstimmung mit Konfidenzwert sowie eine geordnete Liste weiterer Möglichkeiten – so musst du bei knappen Fällen nie raten."
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "Rassendetails der Khao Manee mit Temperament, Lebenserwartung, Gewicht, Größe, Herkunft und Geschichte"
+        body: "Erhalte eine Rassenübereinstimmung mit Konfidenzwert sowie eine geordnete Liste weiterer Möglichkeiten – so musst du bei knappen Fällen nie raten."
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "Rassendetails der Khao Manee mit Foto, Beschreibung, Temperament, Lebenserwartung und Gewicht"
         title: "Jede Rasse mit vollständigem Profil"
-        body: "Jedes Ergebnis öffnet ein ausführliches Profil im CFA/TICA-Stil – Temperament, Lebenserwartung, Gewicht, Größe, Herkunftsland und die Geschichte der Rasse. So erfährst du die Geschichte hinter der Katze, nicht nur ihren Namen."
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "Jedes Ergebnis öffnet ein ausführliches Profil im CFA/TICA-Stil – Temperament, Lebenserwartung, Gewicht, Größe und Herkunftsland. So erfährst du, wie die Katze wirklich ist, nicht nur, wie sie heißt."
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "Rassengeschichte der Khao Manee, gefolgt von einer Liste unterhaltsamer Katzenfakten"
+        title: "Die Geschichte hinter jeder Rasse"
+        body: "Scrolle weiter zur Entstehungsgeschichte der Rasse und einer Handvoll unterhaltsamer Katzenfakten – so lernst du neben den Eckdaten auch die Geschichte hinter der Katze kennen."
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "Favoritenraster mit gespeicherten Rassen-Scans, darunter Sphynx, Abessinier, Perser und Norwegische Waldkatze"
         title: "Deine eigene Rassen-Sammlung"
         body: "Eine Rasse hat es dir angetan? Speichere jeden Scan und sieh ihn dir jederzeit wieder an. Deine Favoriten bilden eine persönliche Sammlung, die lokal auf deinem Gerät gespeichert bleibt."
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "Entdecken-Bildschirm mit Rassensuche und einer interaktiven Weltkarte der Rassen nach Land"
         title: "Rassen aus aller Welt entdecken"
         body: "Durchsuche 48 Rassen nach Namen oder streife über eine interaktive Weltkarte, geordnet nach Herkunftsland. Tippe auf eine Markierung, um zu sehen, welche Rassen aus dieser Region stammen, und tauche in ihre Profile ein."
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "Rassen-Quiz-Bildschirm mit der Frage nach der gezeigten Rasse, eine Siamkatze wurde richtig erkannt"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "Rassen-Quiz-Bildschirm mit der Frage nach der gezeigten Rasse, ein Japanese Bobtail wurde richtig erkannt"
         title: "Teste dich mit dem Rassen-Quiz"
         body: "Errate in zehn Multiple-Choice-Fragen die Rasse anhand eines Fotos, verdiene Belohnungstitel und schärfe deinen Blick für jede Rasse, der du begegnest."
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "Katzen-Trivia-Bildschirm mit einer richtig beantworteten Richtig-oder-Falsch-Frage zu einem Mythos"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "Katzen-Trivia-Bildschirm mit einer richtig beantworteten Richtig-oder-Falsch-Frage zu Katzenknochen"
         title: "Mythen entlarven mit Katzen-Trivia"
         body: "Stell dich zehn Runden Richtig-oder-Falsch-Fragen, die echte Katzenfakten mit cleveren Mythen mischen – so sammelst du beim Spielen praktisches Katzenwissen, jederzeit, wenn du online bist."
 
@@ -311,28 +377,36 @@ it:
         alt: "Schermata di benvenuto di Nekopedia con scansione, profili delle razze, quiz e curiosità"
         title: "La tua guida tascabile al mondo dei gatti"
         body: "Apri Nekopedia e inizia subito: nessun account, nessuna registrazione, nessun costo. La scansione delle razze e i profili integrati in stile CFA/TICA funzionano offline fin dal primo tocco; connettiti a internet per le foto delle razze, il quiz e le curiosità."
-      - image: /assets/screenshots/nekopedia/02-identify.png
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "Schermata di scansione che invita a scattare o scegliere la foto di un gatto, con i pulsanti Libreria e Fotocamera"
+        title: "Avvia il controllo della razza in pochi secondi"
+        body: "Tocca Fotocamera per scattare una foto al gatto che hai davanti, oppure Libreria per sceglierne una che hai già. Basta un tocco per avviare la scansione."
+      - image: /assets/screenshots/nekopedia/03-identify.png
         alt: "Schermata di scansione che mostra un Khao Manee identificato con un punteggio di affidabilità del 92 percento e altre possibilità"
         title: "Inquadra con la fotocamera, scopri la razza"
-        body: "Scatta una foto o scegline una dalla tua libreria e ottieni una corrispondenza di razza con un punteggio di affidabilità, più un elenco ordinato di altre possibilità, così i casi incerti non sono mai un tirare a indovinare."
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "Schermata dei dettagli della razza Khao Manee con temperamento, aspettativa di vita, peso, altezza, origine e storia"
+        body: "Ottieni una corrispondenza di razza con un punteggio di affidabilità, più un elenco ordinato di altre possibilità, così i casi incerti non sono mai un tirare a indovinare."
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "Schermata dei dettagli della razza Khao Manee con foto, descrizione, temperamento, aspettativa di vita e peso"
         title: "Ogni razza, con un profilo completo"
-        body: "Ogni risultato apre un ricco profilo in stile CFA/TICA — temperamento, aspettativa di vita, peso, altezza, paese di origine e storia della razza — così scopri la storia dietro il gatto, non solo il suo nome."
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "Ogni risultato apre un ricco profilo in stile CFA/TICA — temperamento, aspettativa di vita, peso, altezza e paese di origine — così scopri com'è davvero il gatto, non solo il suo nome."
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "Storia della razza Khao Manee seguita da un elenco di curiosità sui gatti"
+        title: "La storia dietro ogni razza"
+        body: "Continua a scorrere per scoprire l'origine della razza e qualche divertente curiosità sui gatti, così conosci la storia dietro il gatto oltre alle sue caratteristiche."
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "Griglia dei preferiti con scansioni di razze salvate, tra cui Sphynx, Abissino, Persiano e Norvegese delle foreste"
         title: "Crea la tua libreria di razze"
         body: "Ti piace una razza? Salva qualsiasi scansione e rivedila quando vuoi. I tuoi preferiti formano una libreria personale che resta memorizzata localmente sul tuo dispositivo."
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "Schermata Esplora con una barra di ricerca delle razze e una mappa mondiale interattiva delle razze per paese"
         title: "Esplora le razze di tutto il mondo"
         body: "Cerca tra 48 razze per nome o esplora una mappa mondiale interattiva organizzata per paese di origine. Tocca un segnaposto per vedere quali razze provengono da quella regione e approfondisci i loro profili."
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "Schermata del Quiz delle Razze che chiede quale razza è mostrata, con un Siamese indovinato correttamente"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "Schermata del Quiz delle Razze che chiede quale razza è mostrata, con un Bobtail giapponese indovinato correttamente"
         title: "Mettiti alla prova con il Quiz delle Razze"
         body: "Indovina la razza da una foto in dieci domande a risposta multipla, guadagna titoli di ricompensa e affina l'occhio per ogni razza che incontri."
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "Schermata di Curiosità Feline con una domanda vero o falso su un mito a cui è stata data la risposta giusta"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "Schermata di Curiosità Feline con una domanda vero o falso sulle ossa dei gatti a cui è stata data la risposta giusta"
         title: "Sfata i miti con Curiosità Feline"
         body: "Affronta dieci round di domande vero o falso che mescolano fatti reali sui gatti e miti ingegnosi, così impari nozioni pratiche sui gatti mentre giochi, ogni volta che sei online."
 
@@ -346,28 +420,36 @@ pt:
         alt: "Tela de boas-vindas do Nekopedia listando escaneamento, perfis de raças, quiz e curiosidades"
         title: "Seu guia de bolso do mundo dos gatos"
         body: "Abra o Nekopedia e comece na hora — sem conta, sem cadastro, sem custo. O escaneamento de raças e os perfis integrados no estilo CFA/TICA funcionam offline desde o primeiro toque; conecte-se à internet para ver fotos das raças, o quiz e as curiosidades."
-      - image: /assets/screenshots/nekopedia/02-identify.png
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "Tela de escaneamento convidando você a tirar ou escolher a foto de um gato, com os botões Galeria e Câmera"
+        title: "Comece a identificar a raça em segundos"
+        body: "Toque em Câmera para fotografar o gato que está na sua frente, ou em Galeria para escolher uma foto que você já tem. Basta um toque para iniciar o escaneamento."
+      - image: /assets/screenshots/nekopedia/03-identify.png
         alt: "Tela de escaneamento mostrando um Khao Manee identificado com pontuação de confiança de 92 por cento e outras possibilidades"
         title: "Aponte a câmera e descubra a raça"
-        body: "Tire uma foto ou escolha uma da sua galeria e obtenha uma correspondência de raça com uma pontuação de confiança, além de uma lista ordenada de outras possibilidades, para que os casos difíceis nunca fiquem no chute."
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "Tela de detalhes da raça Khao Manee com temperamento, expectativa de vida, peso, altura, origem e história"
+        body: "Obtenha uma correspondência de raça com uma pontuação de confiança, além de uma lista ordenada de outras possibilidades, para que os casos difíceis nunca fiquem no chute."
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "Tela de detalhes da raça Khao Manee com foto, descrição, temperamento, expectativa de vida e peso"
         title: "Cada raça com perfil completo"
-        body: "Cada resultado abre um perfil completo no estilo CFA/TICA — temperamento, expectativa de vida, peso, altura, país de origem e a história da raça — para que você conheça a história por trás do gato, não apenas o nome dele."
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "Cada resultado abre um perfil completo no estilo CFA/TICA — temperamento, expectativa de vida, peso, altura e país de origem — para que você saiba como o gato realmente é, não apenas o nome dele."
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "História da raça Khao Manee seguida de uma lista de curiosidades sobre gatos"
+        title: "A história por trás de cada raça"
+        body: "Continue rolando para ver a origem da raça e algumas curiosidades divertidas sobre gatos, para que você conheça a história por trás do gato, além de suas características."
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "Grade de favoritos com escaneamentos de raças salvos, incluindo Sphynx, Abissínio, Persa e Norueguês da Floresta"
         title: "Monte sua própria biblioteca de raças"
         body: "Apaixonou-se por uma raça? Salve qualquer escaneamento e reveja quando quiser. Seus favoritos formam uma biblioteca pessoal que fica armazenada localmente no seu dispositivo."
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "Tela Explorar com uma barra de busca de raças e um mapa-múndi interativo de raças por país"
         title: "Explore raças do mundo todo"
         body: "Busque entre 48 raças por nome ou navegue por um mapa-múndi interativo organizado por país de origem. Toque em um marcador para ver quais raças vêm daquela região e mergulhe nos perfis delas."
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "Tela do Quiz de Raças perguntando qual raça aparece, com um Siamês respondido corretamente"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "Tela do Quiz de Raças perguntando qual raça aparece, com um Bobtail Japonês respondido corretamente"
         title: "Teste-se com o Quiz de Raças"
         body: "Adivinhe a raça a partir de uma foto em dez perguntas de múltipla escolha, ganhe títulos de recompensa e treine o olhar para cada raça que você encontrar."
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "Tela de Curiosidades Felinas mostrando uma pergunta de verdadeiro ou falso sobre um mito respondida corretamente"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "Tela de Curiosidades Felinas mostrando uma pergunta de verdadeiro ou falso sobre os ossos dos gatos respondida corretamente"
         title: "Derrube mitos com Curiosidades Felinas"
         body: "Encare dez rodadas de perguntas de verdadeiro ou falso que misturam fatos reais sobre gatos com mitos engenhosos, para você aprender coisas práticas sobre gatos enquanto joga — sempre que estiver online."
 
@@ -381,28 +463,36 @@ ru:
         alt: "Приветственный экран Nekopedia со сканированием, профилями пород, викториной и кошачьими фактами"
         title: "Карманный путеводитель по миру кошек"
         body: "Откройте Nekopedia и начните сразу — без учётной записи, без регистрации и бесплатно. Сканирование пород и встроенные профили в стиле CFA/TICA работают офлайн с первого касания; подключитесь к интернету, чтобы смотреть фото пород, проходить викторину и читать кошачьи факты."
-      - image: /assets/screenshots/nekopedia/02-identify.png
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "Экран сканирования с предложением сделать или выбрать фото кошки и кнопками «Библиотека» и «Камера»"
+        title: "Начните определять породу за секунды"
+        body: "Нажмите «Камера», чтобы сфотографировать кошку перед вами, или «Библиотека», чтобы выбрать уже имеющееся фото. Одного касания достаточно, чтобы запустить сканирование."
+      - image: /assets/screenshots/nekopedia/03-identify.png
         alt: "Экран сканирования: као мани определена с оценкой достоверности 92 процента, показаны и другие варианты"
         title: "Наведите камеру — узнайте породу"
-        body: "Сделайте снимок или выберите фото из галереи и получите совпадение породы с оценкой достоверности, а также ранжированный список других вариантов, чтобы в спорных случаях не приходилось гадать."
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "Экран с подробностями о породе као мани: характер, продолжительность жизни, вес, рост, происхождение и история"
+        body: "Получите совпадение породы с оценкой достоверности, а также ранжированный список других вариантов, чтобы в спорных случаях не приходилось гадать."
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "Экран с подробностями о породе као мани: фото, описание, характер, продолжительность жизни и вес"
         title: "Подробный профиль каждой породы"
-        body: "Каждый результат открывает подробный профиль в стиле CFA/TICA — характер, продолжительность жизни, вес, рост, страна происхождения и история породы, — чтобы вы узнали историю кошки, а не только её название."
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "Каждый результат открывает подробный профиль в стиле CFA/TICA — характер, продолжительность жизни, вес, рост и страна происхождения, — чтобы вы узнали, какая кошка на самом деле, а не только её название."
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "История породы као мани и список забавных фактов о кошках"
+        title: "История, стоящая за каждой породой"
+        body: "Прокрутите дальше, чтобы узнать историю происхождения породы и несколько забавных фактов о кошках — так вы узнаете историю кошки, а не только её характеристики."
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "Сетка избранного с сохранёнными сканированиями пород, среди которых сфинкс, абиссинская, персидская и норвежская лесная"
         title: "Соберите собственную библиотеку пород"
         body: "Понравилась порода? Сохраните любое сканирование и возвращайтесь к нему в любое время. Избранное складывается в личную библиотеку, которая хранится локально на вашем устройстве."
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "Экран «Исследовать» со строкой поиска пород и интерактивной картой мира с породами по странам"
         title: "Исследуйте породы со всего мира"
         body: "Ищите среди 48 пород по названию или изучайте интерактивную карту мира, упорядоченную по стране происхождения. Коснитесь метки, чтобы увидеть, какие породы родом из этого региона, и перейти к их профилям."
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "Экран «Викторины о породах» с вопросом, какая порода изображена, и правильно угаданной сиамской кошкой"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "Экран «Викторины о породах» с вопросом, какая порода изображена, и правильно угаданным японским бобтейлом"
         title: "Проверьте себя в Викторине о породах"
         body: "Угадывайте породу по фотографии в десяти вопросах с вариантами ответа, зарабатывайте наградные титулы и тренируйте глаз, чтобы узнавать каждую встреченную породу."
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "Экран «Кошачьих фактов» с правильно отвеченным вопросом о мифе в формате «верно или неверно»"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "Экран «Кошачьих фактов» с правильно отвеченным вопросом о костях кошек в формате «верно или неверно»"
         title: "Развенчивайте мифы с Кошачьими фактами"
         body: "Пройдите десять раундов вопросов «верно или неверно», где настоящие факты о кошках перемешаны с хитрыми мифами, — и за игрой получайте полезные знания о кошках в любое время, когда вы онлайн."
 
@@ -416,28 +506,36 @@ ar:
         alt: "شاشة الترحيب في Nekopedia تعرض المسح وملفات تعريف السلالات والاختبارات ومعلومات القطط"
         title: "دليلك الجيبي إلى عالم القطط"
         body: "افتح Nekopedia وابدأ فورًا، دون حساب أو تسجيل أو أي تكلفة. يعمل مسح السلالات وملفات التعريف المدمجة بأسلوب CFA/TICA دون اتصال منذ أول نقرة، واتصل بالإنترنت لتصفح صور السلالات والاختبار ومعلومات القطط."
-      - image: /assets/screenshots/nekopedia/02-identify.png
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "شاشة المسح تدعوك إلى التقاط صورة قطة أو اختيارها، مع زري المكتبة والكاميرا"
+        title: "ابدأ فحص السلالة في ثوانٍ"
+        body: "انقر على الكاميرا لالتقاط صورة للقطة التي أمامك، أو على المكتبة لاختيار صورة لديك مسبقًا. نقرة واحدة فقط تكفي لبدء المسح."
+      - image: /assets/screenshots/nekopedia/03-identify.png
         alt: "شاشة المسح تعرض قطة كاو ماني تم التعرّف عليها بدرجة ثقة 92 بالمئة مع احتمالات أخرى"
         title: "وجّه الكاميرا واعرف السلالة"
-        body: "التقط صورة أو اختر واحدة من مكتبتك لتحصل على تطابق للسلالة مع درجة ثقة، إلى جانب قائمة مرتّبة بالاحتمالات الأخرى، فلا تبقى الحالات المتقاربة مجرد تخمين."
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "شاشة تفاصيل سلالة كاو ماني تعرض الطباع ومتوسط العمر والوزن والطول والموطن والتاريخ"
+        body: "احصل على تطابق للسلالة مع درجة ثقة، إلى جانب قائمة مرتّبة بالاحتمالات الأخرى، فلا تبقى الحالات المتقاربة مجرد تخمين."
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "شاشة تفاصيل سلالة كاو ماني تعرض صورة ووصفًا والطباع ومتوسط العمر والوزن"
         title: "ملف تعريف كامل لكل سلالة"
-        body: "تفتح كل نتيجة ملف تعريف غنيًا بأسلوب CFA/TICA يشمل الطباع ومتوسط العمر والوزن والطول وبلد المنشأ وتاريخ السلالة، لتتعرّف على القصة وراء القطة لا على اسمها فحسب."
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "تفتح كل نتيجة ملف تعريف غنيًا بأسلوب CFA/TICA يشمل الطباع ومتوسط العمر والوزن والطول وبلد المنشأ، لتعرف حقيقة طبيعة القطة لا اسمها فحسب."
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "تاريخ سلالة كاو ماني يليه قائمة بمعلومات ممتعة عن القطط"
+        title: "التاريخ وراء كل سلالة"
+        body: "واصل التمرير لتتعرف على قصة أصل السلالة ومجموعة من المعلومات الممتعة عن القطط، لتعرف القصة وراء القطة إلى جانب مواصفاتها."
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "شبكة المفضلات تعرض عمليات مسح محفوظة لسلالات منها السفينكس والحبشية والفارسية وقطط الغابات النرويجية"
         title: "أنشئ مكتبة السلالات الخاصة بك"
         body: "أعجبتك سلالة؟ احفظ أي عملية مسح وعُد إليها متى شئت. تشكّل مفضلاتك مكتبة شخصية تبقى مخزّنة محليًا على جهازك."
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "شاشة الاستكشاف مع شريط بحث عن السلالات وخريطة عالم تفاعلية للسلالات حسب البلد"
         title: "استكشف السلالات حول العالم"
         body: "ابحث بين 48 سلالة بالاسم، أو تصفّح خريطة عالم تفاعلية منظّمة حسب بلد المنشأ. انقر على دبوس لترى السلالات القادمة من تلك المنطقة وتتعمّق في ملفات تعريفها."
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "شاشة اختبار السلالات تسأل عن السلالة المعروضة، مع إجابة صحيحة بأنها سيامية"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "شاشة اختبار السلالات تسأل عن السلالة المعروضة، مع إجابة صحيحة بأنها بوبتيل ياباني"
         title: "اختبر نفسك مع اختبار السلالات"
         body: "خمّن السلالة من صورة عبر عشرة أسئلة متعددة الخيارات، واكسب ألقاب المكافآت، ودرّب عينك على تمييز كل سلالة تقابلها."
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "شاشة معلومات القطط تعرض سؤال صواب أو خطأ عن خرافة تمت الإجابة عنه بشكل صحيح"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "شاشة معلومات القطط تعرض سؤال صواب أو خطأ عن عظام القطط تمت الإجابة عنه بشكل صحيح"
         title: "فنّد الخرافات مع معلومات القطط"
         body: "خض عشر جولات من أسئلة الصواب أو الخطأ التي تمزج حقائق حقيقية عن القطط بخرافات ذكية، لتكتسب معرفة عملية عن القطط وأنت تلعب، في أي وقت تكون فيه متصلًا بالإنترنت."
 
@@ -451,28 +549,36 @@ hi:
         alt: "Nekopedia की स्वागत स्क्रीन, जिसमें स्कैन, नस्ल प्रोफ़ाइल, क्विज़ और ट्रिविया सूचीबद्ध हैं"
         title: "बिल्लियों की दुनिया की आपकी पॉकेट गाइड"
         body: "Nekopedia खोलें और तुरंत शुरू करें — न खाता, न साइन-अप, न कोई खर्च। नस्ल स्कैनिंग और बिल्ट-इन CFA/TICA-शैली प्रोफ़ाइल पहले टैप से ही ऑफ़लाइन काम करती हैं; नस्लों की तस्वीरों, क्विज़ और ट्रिविया के लिए इंटरनेट से कनेक्ट करें।"
-      - image: /assets/screenshots/nekopedia/02-identify.png
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "स्कैन स्क्रीन, जो बिल्ली की तस्वीर लेने या चुनने को कहती है, लाइब्रेरी और कैमरा बटन के साथ"
+        title: "कुछ ही सेकंड में नस्ल की जाँच शुरू करें"
+        body: "अपने सामने की बिल्ली की तस्वीर लेने के लिए कैमरा पर टैप करें, या पहले से मौजूद तस्वीर चुनने के लिए लाइब्रेरी पर। स्कैन शुरू करने के लिए बस एक टैप काफ़ी है।"
+      - image: /assets/screenshots/nekopedia/03-identify.png
         alt: "स्कैन स्क्रीन, जिसमें 92 प्रतिशत विश्वास स्कोर के साथ पहचानी गई खाओ मानी और अन्य संभावनाएँ दिख रही हैं"
         title: "कैमरा तानें, नस्ल जानें"
-        body: "एक तस्वीर लें या अपनी लाइब्रेरी से चुनें और विश्वास स्कोर के साथ नस्ल मिलान पाएँ, साथ ही अन्य संभावनाओं की एक क्रमबद्ध सूची भी, ताकि करीबी मामलों में कभी अंदाज़ा न लगाना पड़े।"
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "खाओ मानी की नस्ल विवरण स्क्रीन, जिसमें स्वभाव, जीवनकाल, वज़न, ऊँचाई, मूल स्थान और इतिहास है"
+        body: "विश्वास स्कोर के साथ नस्ल मिलान पाएँ, साथ ही अन्य संभावनाओं की एक क्रमबद्ध सूची भी, ताकि करीबी मामलों में कभी अंदाज़ा न लगाना पड़े।"
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "खाओ मानी की नस्ल विवरण स्क्रीन, जिसमें तस्वीर, विवरण, स्वभाव, जीवनकाल और वज़न है"
         title: "हर नस्ल की पूरी प्रोफ़ाइल"
-        body: "हर परिणाम एक विस्तृत CFA/TICA-शैली प्रोफ़ाइल खोलता है — स्वभाव, जीवनकाल, वज़न, ऊँचाई, मूल देश और नस्ल का इतिहास — ताकि आप बिल्ली के पीछे की कहानी जानें, सिर्फ़ उसका नाम नहीं।"
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "हर परिणाम एक विस्तृत CFA/TICA-शैली प्रोफ़ाइल खोलता है — स्वभाव, जीवनकाल, वज़न, ऊँचाई और मूल देश — ताकि आप जानें कि बिल्ली असल में कैसी है, सिर्फ़ उसका नाम नहीं।"
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "खाओ मानी नस्ल का इतिहास, उसके बाद बिल्लियों के मज़ेदार तथ्यों की सूची"
+        title: "हर नस्ल के पीछे का इतिहास"
+        body: "आगे स्क्रॉल करें और नस्ल की उत्पत्ति की कहानी तथा बिल्लियों के कुछ मज़ेदार तथ्य जानें, ताकि आप बिल्ली की विशेषताओं के साथ-साथ उसके पीछे की कहानी भी जानें।"
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "पसंदीदा ग्रिड, जिसमें स्फ़िंक्स, एबिसिनियन, पर्शियन और नॉर्वेजियन फ़ॉरेस्ट सहित सहेजे गए नस्ल स्कैन हैं"
         title: "अपनी खुद की नस्ल लाइब्रेरी बनाएँ"
         body: "कोई नस्ल पसंद आई? किसी भी स्कैन को सहेजें और जब चाहें दोबारा देखें। आपके पसंदीदा एक व्यक्तिगत लाइब्रेरी बनाते हैं जो आपके डिवाइस पर स्थानीय रूप से संग्रहीत रहती है।"
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "एक्सप्लोर स्क्रीन, जिसमें नस्ल खोज बार और देश के अनुसार नस्लों का इंटरैक्टिव विश्व मानचित्र है"
         title: "दुनिया भर की नस्लें एक्सप्लोर करें"
         body: "48 नस्लों को नाम से खोजें, या मूल देश के अनुसार व्यवस्थित इंटरैक्टिव विश्व मानचित्र ब्राउज़ करें। किसी पिन पर टैप करें और देखें कि उस क्षेत्र से कौन-सी नस्लें आती हैं, फिर उनकी प्रोफ़ाइल में गहराई से उतरें।"
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "नस्ल क्विज़ स्क्रीन, जिसमें पूछा गया है कि कौन-सी नस्ल दिख रही है, और स्यामी का सही उत्तर दिया गया है"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "नस्ल क्विज़ स्क्रीन, जिसमें पूछा गया है कि कौन-सी नस्ल दिख रही है, और जापानी बॉबटेल का सही उत्तर दिया गया है"
         title: "नस्ल क्विज़ से खुद को परखें"
         body: "दस बहुविकल्पीय सवालों में तस्वीर देखकर नस्ल का अनुमान लगाएँ, पुरस्कार खिताब अर्जित करें, और मिलने वाली हर नस्ल को पहचानने की अपनी नज़र तेज़ करें।"
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "बिल्ली ट्रिविया स्क्रीन, जिसमें सही-या-गलत मिथक वाले सवाल का सही उत्तर दिखाया गया है"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "बिल्ली ट्रिविया स्क्रीन, जिसमें बिल्ली की हड्डियों के बारे में सही-या-गलत सवाल का सही उत्तर दिखाया गया है"
         title: "बिल्ली ट्रिविया से मिथक तोड़ें"
         body: "सही-या-गलत सवालों के दस राउंड खेलें जिनमें बिल्लियों के असली तथ्य और चतुर मिथक मिले होते हैं, ताकि खेलते-खेलते आप बिल्लियों के बारे में काम का ज्ञान हासिल करें — जब भी आप ऑनलाइन हों।"
 
@@ -486,28 +592,36 @@ nl:
         alt: "Welkomstscherm van Nekopedia met scannen, rasprofielen, quizzen en weetjes"
         title: "Je zakgids voor de kattenwereld"
         body: "Open Nekopedia en begin meteen — geen account, geen aanmelding, geen kosten. Rasscans en de ingebouwde profielen in CFA/TICA-stijl werken vanaf de eerste tik offline; maak verbinding met internet voor rasfoto's, de quiz en weetjes."
-      - image: /assets/screenshots/nekopedia/02-identify.png
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "Scanscherm dat je uitnodigt een kattenfoto te maken of te kiezen, met knoppen voor Bibliotheek en Camera"
+        title: "Start een rascontrole in een paar seconden"
+        body: "Tik op Camera om de kat voor je te fotograferen, of op Bibliotheek om een foto te kiezen die je al hebt. Eén tik is genoeg om de scan te starten."
+      - image: /assets/screenshots/nekopedia/03-identify.png
         alt: "Scanscherm met een Khao Manee herkend met een betrouwbaarheidsscore van 92 procent en andere mogelijkheden"
         title: "Richt je camera, ken het ras"
-        body: "Maak een foto of kies er een uit je bibliotheek en krijg een rasmatch met een betrouwbaarheidsscore, plus een gerangschikte lijst met andere mogelijkheden, zodat je bij twijfelgevallen nooit hoeft te gokken."
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "Rasdetails van de Khao Manee met temperament, levensverwachting, gewicht, hoogte, herkomst en geschiedenis"
+        body: "Krijg een rasmatch met een betrouwbaarheidsscore, plus een gerangschikte lijst met andere mogelijkheden, zodat je bij twijfelgevallen nooit hoeft te gokken."
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "Rasdetails van de Khao Manee met foto, beschrijving, temperament, levensverwachting en gewicht"
         title: "Elk ras, volledig in beeld"
-        body: "Elk resultaat opent een uitgebreid profiel in CFA/TICA-stijl — temperament, levensverwachting, gewicht, hoogte, land van oorsprong en de geschiedenis van het ras — zodat je het verhaal achter de kat leert kennen, niet alleen de naam."
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "Elk resultaat opent een uitgebreid profiel in CFA/TICA-stijl — temperament, levensverwachting, gewicht, hoogte en land van oorsprong — zodat je leert hoe de kat echt is, niet alleen hoe hij heet."
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "Geschiedenis van de Khao Manee gevolgd door een lijst met leuke kattenweetjes"
+        title: "De geschiedenis achter elk ras"
+        body: "Scroll verder voor het oorsprongsverhaal van het ras en een paar leuke kattenweetjes, zodat je naast de kenmerken ook het verhaal achter de kat leert kennen."
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "Favorietenraster met bewaarde rasscans, waaronder Sphynx, Abessijn, Pers en Noorse Boskat"
         title: "Bouw je eigen rassenbibliotheek"
         body: "Verliefd op een ras? Bewaar elke scan en bekijk hem op elk moment opnieuw. Je favorieten vormen een persoonlijke bibliotheek die lokaal op je apparaat opgeslagen blijft."
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "Verkennen-scherm met een zoekbalk voor rassen en een interactieve wereldkaart met rassen per land"
         title: "Verken rassen over de hele wereld"
         body: "Zoek 48 rassen op naam of blader over een interactieve wereldkaart, geordend op land van oorsprong. Tik op een speld om te zien welke rassen uit die regio komen en duik in hun profielen."
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "Rassenquiz-scherm met de vraag welk ras te zien is, met een Siamees correct beantwoord"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "Rassenquiz-scherm met de vraag welk ras te zien is, met een Japanse Bobtail correct beantwoord"
         title: "Test jezelf met Rassenquiz"
         body: "Raad in tien meerkeuzevragen het ras aan de hand van een foto, verdien beloningstitels en scherp je blik aan voor elk ras dat je tegenkomt."
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "Kattenweetjes-scherm met een correct beantwoorde waar-of-onwaar-vraag over een mythe"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "Kattenweetjes-scherm met een correct beantwoorde waar-of-onwaar-vraag over kattenbotten"
         title: "Ontkracht mythes met Kattenweetjes"
         body: "Speel tien rondes waar-of-onwaar-vragen die echte kattenfeiten mengen met slimme mythes, zodat je al spelend praktische kattenkennis opdoet — wanneer je maar online bent."
 
@@ -521,27 +635,35 @@ tr:
         alt: "Tarama, ırk profilleri, yarışmalar ve bilgi yarışmasının listelendiği Nekopedia karşılama ekranı"
         title: "Kedi dünyası için cep rehberiniz"
         body: "Nekopedia'yı açın ve hemen başlayın; hesap, kayıt ya da ücret yok. Irk tarama ve yerleşik CFA/TICA tarzı profiller ilk dokunuştan itibaren çevrimdışı çalışır; ırk fotoğrafları, yarışmalar ve kedi bilgileri için internete bağlanın."
-      - image: /assets/screenshots/nekopedia/02-identify.png
+      - image: /assets/screenshots/nekopedia/02-scan.png
+        alt: "Bir kedi fotoğrafı çekmeye veya seçmeye davet eden, Kitaplık ve Kamera düğmeleri bulunan tarama ekranı"
+        title: "Birkaç saniyede ırk kontrolüne başlayın"
+        body: "Karşınızdaki kediyi çekmek için Kamera'ya, elinizde hazır bir fotoğraf seçmek için Kitaplık'a dokunun. Taramayı başlatmak için tek bir dokunuş yeterli."
+      - image: /assets/screenshots/nekopedia/03-identify.png
         alt: "Yüzde 92 güven puanıyla tanımlanan bir Khao Manee ve diğer olasılıkları gösteren tarama ekranı"
         title: "Kameranızı doğrultun, ırkı öğrenin"
-        body: "Bir fotoğraf çekin ya da kitaplığınızdan birini seçin; güven puanıyla birlikte bir ırk eşleşmesi ve diğer olasılıkların sıralı bir listesini alın. Böylece zorlu durumlarda asla tahmine kalmazsınız."
-      - image: /assets/screenshots/nekopedia/03-profile.png
-        alt: "Mizaç, ömür, ağırlık, boy, köken ve tarihçe bilgilerini içeren Khao Manee ırk ayrıntıları ekranı"
+        body: "Güven puanıyla birlikte bir ırk eşleşmesi ve diğer olasılıkların sıralı bir listesini alın. Böylece zorlu durumlarda asla tahmine kalmazsınız."
+      - image: /assets/screenshots/nekopedia/04-profile.png
+        alt: "Fotoğraf, açıklama, mizaç, ömür ve ağırlık bilgilerini içeren Khao Manee ırk ayrıntıları ekranı"
         title: "Her ırk için eksiksiz profil"
-        body: "Her sonuç; mizaç, ömür, ağırlık, boy, menşe ülke ve ırkın tarihçesini içeren zengin bir CFA/TICA tarzı profil açar. Böylece kedinin yalnızca adını değil, ardındaki hikayeyi de öğrenirsiniz."
-      - image: /assets/screenshots/nekopedia/04-favorites.png
+        body: "Her sonuç; mizaç, ömür, ağırlık, boy ve menşe ülkeyi içeren zengin bir CFA/TICA tarzı profil açar. Böylece kedinin yalnızca adını değil, gerçekte nasıl biri olduğunu da öğrenirsiniz."
+      - image: /assets/screenshots/nekopedia/05-history.png
+        alt: "Khao Manee ırkının tarihçesi ve ardından gelen eğlenceli kedi bilgileri listesi"
+        title: "Her ırkın ardındaki tarih"
+        body: "Irkın köken hikayesini ve birkaç eğlenceli kedi bilgisini görmek için aşağı kaydırın. Böylece kedinin özelliklerinin yanı sıra ardındaki hikayeyi de öğrenirsiniz."
+      - image: /assets/screenshots/nekopedia/06-favorites.png
         alt: "Sphynx, Habeş, İran ve Norveç Orman Kedisi gibi kaydedilmiş ırk taramalarını içeren favoriler ızgarası"
         title: "Kendi ırk kitaplığınızı oluşturun"
         body: "Bir ırka bayıldınız mı? Herhangi bir taramayı kaydedin ve istediğiniz zaman yeniden bakın. Favorileriniz, cihazınızda yerel olarak saklanan kişisel bir kitaplık oluşturur."
-      - image: /assets/screenshots/nekopedia/05-explore.png
+      - image: /assets/screenshots/nekopedia/07-explore.png
         alt: "Irk arama çubuğu ve ülkelere göre ırkları gösteren etkileşimli dünya haritasının bulunduğu Keşfet ekranı"
         title: "Dünyanın dört bir yanındaki ırkları keşfedin"
         body: "48 ırkı ada göre arayın veya menşe ülkeye göre düzenlenmiş etkileşimli bir dünya haritasına göz atın. O bölgeden hangi ırkların geldiğini görmek için bir iğneye dokunun ve profillerine dalın."
-      - image: /assets/screenshots/nekopedia/06-quiz.png
-        alt: "Gösterilen ırkın hangisi olduğunu soran ve Siyam yanıtının doğru verildiği Irk Yarışması ekranı"
+      - image: /assets/screenshots/nekopedia/08-quiz.png
+        alt: "Gösterilen ırkın hangisi olduğunu soran ve Japon Bobtail yanıtının doğru verildiği Irk Yarışması ekranı"
         title: "Irk Yarışması ile kendinizi sınayın"
         body: "On çoktan seçmeli soruda fotoğraftan ırkı tahmin edin, ödül unvanları kazanın ve karşılaştığınız her ırkı tanıyacak gözü geliştirin."
-      - image: /assets/screenshots/nekopedia/07-trivia.png
-        alt: "Doğru-yanlış bir efsane sorusunun doğru yanıtlandığı Kedi Bilgi Yarışması ekranı"
+      - image: /assets/screenshots/nekopedia/09-trivia.png
+        alt: "Kedi kemikleri hakkındaki doğru-yanlış sorusunun doğru yanıtlandığı Kedi Bilgi Yarışması ekranı"
         title: "Kedi Bilgi Yarışması ile efsaneleri çürütün"
         body: "Gerçek kedi bilgilerini akıllıca efsanelerle harmanlayan on turluk doğru-yanlış sorularına meydan okuyun; böylece oynarken pratik kedi bilgisi edinin — çevrimiçi olduğunuz her an."

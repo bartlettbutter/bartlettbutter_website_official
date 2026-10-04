@@ -12,22 +12,9 @@ redirect_from:
 
 # احتفظ بالأشياء التي تستحق العودة إليها.
 
-LinkHQ مكانٌ هادئ للروابط التي تودّ أن تجدها من جديد. شارك مقطعًا أو منشورًا أو صفحة بالطريقة نفسها التي ترسل بها شيئًا إلى صديق، فيلتقط LinkHQ الرابط، ويملأ عنوانه الحقيقي وكلماته المفتاحية وصورته المصغّرة، ويبقيه جاهزًا. انقر عليه لاحقًا فيعيد التطبيق الأصلي فتح المقطع أو المنشور عند مصدره. تبقى مكتبتك على جهازك ولا تُرفَع أبدًا.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">المشاركة إلى LinkHQ</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">مكتبتك، بعناوين وصور مصغّرة</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">ابحث وصفِّ حسب المصدر</span>
-  </div>
-</div>
+LinkHQ مكانٌ هادئ للروابط التي تودّ أن تجدها من جديد. شارك مقطعًا أو منشورًا أو صفحة بالطريقة نفسها التي ترسل بها شيئًا إلى صديق، فيلتقط LinkHQ الرابط، ويملأ عنوانه الحقيقي وكلماته المفتاحية وصورته المصغّرة، ويبقيه جاهزًا. انقر عليه لاحقًا فيعيد التطبيق الأصلي فتح المقطع أو المنشور عند مصدره. تبقى مكتبتك على جهازك ولا تُرفَع أبدًا.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">التقاط من أي تطبيق</span>
@@ -59,6 +46,8 @@ LinkHQ مكانٌ هادئ للروابط التي تودّ أن تجدها من
   </div>
   <p class="marketing-meta-note">قريبًا على iPhone وiPad.</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

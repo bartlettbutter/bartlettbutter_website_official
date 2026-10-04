@@ -12,22 +12,9 @@ redirect_from:
 
 # Gardez ce qui mérite qu'on y revienne.
 
-LinkHQ est un endroit calme pour les liens que vous voulez retrouver. Partagez une vidéo, une publication ou une page comme vous l'enverriez à un ami, et LinkHQ capte le lien, renseigne son vrai titre, ses mots-clés et sa vignette, puis le tient prêt. Touchez-le plus tard et l'app d'origine rouvre la vidéo ou la publication à sa source. Votre bibliothèque reste sur votre appareil et n'est jamais téléversée.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="LinkHQ screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Partager vers LinkHQ</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Votre bibliothèque, titres et vignettes</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Rechercher et filtrer par source</span>
-  </div>
-</div>
+LinkHQ est un endroit calme pour les liens que vous voulez retrouver. Partagez une vidéo, une publication ou une page comme vous l'enverriez à un ami, et LinkHQ capte le lien, renseigne son vrai titre, ses mots-clés et sa vignette, puis le tient prêt. Touchez-le plus tard et l'app d'origine rouvre la vidéo ou la publication à sa source. Votre bibliothèque reste sur votre appareil et n'est jamais téléversée.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
   <span class="marketing-chip">Capturez depuis n'importe quelle app</span>
@@ -59,6 +46,8 @@ LinkHQ est un endroit calme pour les liens que vous voulez retrouver. Partagez u
   </div>
   <p class="marketing-meta-note">Bientôt sur iPhone et iPad.</p>
 </div>
+
+<!--showcase-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

@@ -20,7 +20,7 @@ Nekopedia uses on-device intelligence to analyze your photo and identify the cat
 
 ### Do I need an internet connection?
 
-Breed identification and favorites work entirely offline, no internet required. However, breed details, the quiz, and cat trivia fetch content from the internet and do require a connection.
+Breed identification, favorites, and the built-in profiles for all 48 breeds work entirely offline, no internet required. However, breed photos and the Breed Quiz fetch content from the internet and do require a connection. Cat Trivia and breed fun facts use live content in English (connection required) and built-in content that works offline in every other language.
 
 ### Is Nekopedia free?
 
@@ -58,7 +58,7 @@ The Explore tab lets you search all 48 breeds by name, or browse an interactive 
 
 ### How do the Quiz and Trivia games work?
 
-Both games require an internet connection. The Breed Quiz shows you a cat photo and asks you to pick the correct breed from four choices, with 10 questions per round. Cat Trivia presents true-or-false statements about cats, also 10 questions per round. Both games award a reward title based on your score.
+The Breed Quiz requires an internet connection; Cat Trivia needs one only when the app is set to English. The Breed Quiz shows you a cat photo and asks you to pick the correct breed from four choices, with 10 questions per round. Cat Trivia presents true-or-false statements about cats, also 10 questions per round. Both games award a reward title based on your score.
 
 ### Does Nekopedia work on iPad?
 

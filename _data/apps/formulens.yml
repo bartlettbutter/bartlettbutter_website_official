@@ -15,14 +15,14 @@ en:
     # copy. `alt` is a generic, per-screen accessible description.
     alt: "FormuLens app screen"
     shots:
-      - /assets/screenshots/formulens/hero/01.png
-      - /assets/screenshots/formulens/hero/02.png
-      - /assets/screenshots/formulens/hero/03.png
-      - /assets/screenshots/formulens/hero/04.png
-      - /assets/screenshots/formulens/hero/05.png
-      - /assets/screenshots/formulens/hero/06.png
-      - /assets/screenshots/formulens/hero/07.png
-      - /assets/screenshots/formulens/hero/08.png
+      - /assets/screenshots/formulens/01-decode.png
+      - /assets/screenshots/formulens/02-modes.png
+      - /assets/screenshots/formulens/03-categories.png
+      - /assets/screenshots/formulens/04-scan.png
+      - /assets/screenshots/formulens/05-summary.png
+      - /assets/screenshots/formulens/06-legend.png
+      - /assets/screenshots/formulens/07-differences.png
+      - /assets/screenshots/formulens/08-metrics.png
   showcase:
     label: "See it in action"
     title: "From label to clarity in a few taps"

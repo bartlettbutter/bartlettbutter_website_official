@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "Identifiez n'importe quelle race de chat instantanément. Gratuit, hors ligne et privé."
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "Identifiez n'importe quelle race de chat instantanément. Gratuit, privé et sur l'appareil."
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 lang: fr
 permalink: /nekopedia/fr/
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 
 # Chaque chat a une histoire. Découvrez-la instantanément.
 
-Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoile toute l'histoire qui se cache derrière : tempérament, histoire, origine et anecdotes. Sans rien taper, sans rien chercher, sans internet et sans coût.
+Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoile toute l'histoire qui se cache derrière : tempérament, histoire, origine et anecdotes. Sans rien taper, sans rien chercher et sans coût — et l'identification fonctionne même hors ligne.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 races</span>
-  <span class="marketing-chip">Fonctionne entièrement hors ligne</span>
+  <span class="marketing-chip">Identification sur l'appareil</span>
   <span class="marketing-chip">Gratuit pour toujours</span>
   <span class="marketing-chip">Aucun compte requis</span>
 </div>
@@ -34,13 +34,13 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privé et hors ligne, vos photos et données restant sur votre appareil</span>
+    <span class="marketing-stat-label">privé, vos photos et vos scans restant sur votre appareil</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -53,7 +53,7 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Pourquoi les amoureux des chats le choisissent</p>
     <h2 id="nk-why-title" class="marketing-section-title">Un guide de poche calme et complet du monde félin.</h2>
-    <p class="marketing-section-intro">Nekopedia transforme un moment de curiosité au café en une vraie réponse, puis continue avec l'histoire, le profil et un peu de plaisir — le tout sans inscription ni signal.</p>
+    <p class="marketing-section-intro">Nekopedia transforme un moment de curiosité au café en une vraie réponse, puis continue avec l'histoire, le profil et un peu de plaisir — le tout sans inscription, et l'identification fonctionne même sans signal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,17 +75,17 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Apprenez et jouez hors ligne</h3>
-      <p>Transformez tout ce que vous avez scanné en un jeu avec deux modes conçus pour développer de vraies connaissances félines.</p>
+      <h3>Apprenez et jouez</h3>
+      <p>Mettez-vous à l'épreuve avec deux modes conçus pour développer de vraies connaissances félines.</p>
       <ul class="marketing-list">
         <li>Quiz des Races : devinez la race à partir d'une photo</li>
         <li>Anecdotes Félines : mythes et faits vrai ou faux</li>
-        <li>Aucun internet nécessaire pour jouer, jamais</li>
+        <li>Photos et faits inédits, chargés en ligne</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Privé par défaut</h3>
-      <p>Aucun compte, aucune analyse, aucune publicité. Vos photos ne quittent jamais votre appareil et tout fonctionne sans connexion.</p>
+      <p>Aucun compte, aucune analyse, aucune publicité. Vos photos ne quittent jamais votre appareil et l'identification fonctionne sans connexion.</p>
       <ul class="marketing-list">
         <li>Les scans et favoris restent stockés localement</li>
         <li>Rien à quoi s'inscrire et rien à payer</li>
@@ -120,7 +120,7 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
     </article>
     <article class="marketing-card">
       <h3>Jouer</h3>
-      <p>Testez vos connaissances avec deux modes de jeu hors ligne qui mêlent photos, faits et mythes.</p>
+      <p>Testez vos connaissances avec deux modes de jeu qui mêlent photos, faits et mythes.</p>
       <ul class="marketing-list">
         <li>Quiz des Races avec des titres de récompense à gagner</li>
         <li>Anecdotes Félines pour des manches rapides de vrai ou faux</li>
@@ -194,8 +194,8 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Posture de confidentialité</span>
-      <h3 class="marketing-price-summary">Aucun serveur. Aucun cloud. Aucun suivi.</h3>
-      <p>Vos photos ne quittent jamais votre appareil. L'identification, les profils et les jeux fonctionnent tous localement, donc la promesse du produit est aussi claire que l'interface.</p>
+      <h3 class="marketing-price-summary">Aucun envoi. Aucun cloud. Aucun suivi.</h3>
+      <p>Vos photos ne quittent jamais votre appareil. L'identification des races s'effectue entièrement sur l'appareil, et les fonctions en ligne ne récupèrent que des photos et faits publics sur les chats, donc la promesse du produit est aussi claire que l'interface.</p>
       <p class="marketing-price-note">Ce même cadrage axé sur la confidentialité se retrouve dans les pages de présentation, d'assistance et de politique.</p>
     </article>
   </div>

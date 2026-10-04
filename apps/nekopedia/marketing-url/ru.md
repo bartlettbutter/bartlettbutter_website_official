@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "Определяйте любую породу кошек мгновенно. Бесплатно, офлайн и конфиденциально."
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "Определяйте любую породу кошек мгновенно. Бесплатно, конфиденциально и прямо на устройстве."
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 lang: ru
 permalink: /nekopedia/ru/
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 
 # У каждой кошки есть история. Узнайте её мгновенно.
 
-Сделайте снимок любой кошки, и Nekopedia назовёт породу, а затем раскроет всю историю за ней — характер, происхождение, историю и интересные факты. Без набора текста, без поиска, без интернета и без затрат.
+Сделайте снимок любой кошки, и Nekopedia назовёт породу, а затем раскроет всю историю за ней — характер, происхождение, историю и интересные факты. Без набора текста, без поиска и без затрат — а определение породы работает даже офлайн.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 пород</span>
-  <span class="marketing-chip">Работает полностью офлайн</span>
+  <span class="marketing-chip">Определение породы на устройстве</span>
   <span class="marketing-chip">Бесплатно навсегда</span>
   <span class="marketing-chip">Учётная запись не нужна</span>
 </div>
@@ -34,13 +34,13 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">конфиденциально и офлайн, фотографии и данные остаются на вашем устройстве</span>
+    <span class="marketing-stat-label">конфиденциально, фотографии и сканы остаются на вашем устройстве</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Почему любители кошек выбирают Nekopedia</p>
     <h2 id="nk-why-title" class="marketing-section-title">Спокойный и полный карманный путеводитель по миру кошек.</h2>
-    <p class="marketing-section-intro">Nekopedia превращает любопытный момент в кафе в реальный ответ, а затем продолжает историей, профилем и небольшим развлечением — и всё это без регистрации и без сигнала.</p>
+    <p class="marketing-section-intro">Nekopedia превращает любопытный момент в кафе в реальный ответ, а затем продолжает историей, профилем и небольшим развлечением — и всё это без регистрации, а определение породы работает даже без сигнала.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,17 +75,17 @@ redirect_from:
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Учитесь и играйте офлайн</h3>
-      <p>Превратите всё, что вы отсканировали, в игру с двумя режимами, созданными для расширения реальных знаний о кошках.</p>
+      <h3>Учитесь и играйте</h3>
+      <p>Испытайте себя в двух режимах, созданными для расширения реальных знаний о кошках.</p>
       <ul class="marketing-list">
         <li>Викторина о породах: угадайте породу по фотографии</li>
         <li>Кошачьи факты: мифы и факты в формате «верно или неверно»</li>
-        <li>Для игры интернет никогда не нужен</li>
+        <li>Свежие фото и факты загружаются онлайн</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Конфиденциально по умолчанию</h3>
-      <p>Никаких учётных записей, аналитики и рекламы. Ваши фотографии никогда не покидают ваше устройство, и всё работает без подключения.</p>
+      <p>Никаких учётных записей, аналитики и рекламы. Ваши фотографии никогда не покидают ваше устройство, а определение породы работает без подключения.</p>
       <ul class="marketing-list">
         <li>Сканирования и избранное хранятся локально</li>
         <li>Ничего не нужно регистрировать и ничего не нужно оплачивать</li>
@@ -120,7 +120,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Играйте</h3>
-      <p>Проверьте свои знания с двумя офлайн-режимами, сочетающими фотографии, факты и мифы.</p>
+      <p>Проверьте свои знания с двумя игровыми режимами, сочетающими фотографии, факты и мифы.</p>
       <ul class="marketing-list">
         <li>Викторина о породах с наградными титулами, которые можно заработать</li>
         <li>Кошачьи факты для быстрых раундов «верно или неверно»</li>
@@ -194,8 +194,8 @@ redirect_from:
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Подход к конфиденциальности</span>
-      <h3 class="marketing-price-summary">Никаких серверов. Никакого облака. Никакого отслеживания.</h3>
-      <p>Ваши фотографии никогда не покидают ваше устройство. Определение, профили и игры работают локально, поэтому обещание продукта так же ясно, как и интерфейс.</p>
+      <h3 class="marketing-price-summary">Фото не выгружаются. Никакого облака. Никакого отслеживания.</h3>
+      <p>Ваши фотографии никогда не покидают ваше устройство. Определение породы выполняется полностью на устройстве, а онлайн-функции лишь загружают общедоступные фото и факты о кошках, поэтому обещание продукта так же ясно, как и интерфейс.</p>
       <p class="marketing-price-note">Тот же приоритет конфиденциальности проходит через страницы обзора, поддержки и политики.</p>
     </article>
   </div>

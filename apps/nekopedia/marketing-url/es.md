@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "Identifica cualquier raza de gato al instante. Gratis, sin conexión y privado."
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "Identifica cualquier raza de gato al instante. Gratis, privado y en tu dispositivo."
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 lang: es
 permalink: /nekopedia/es/
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 
 # Cada gato tiene una historia. Descúbrela al instante.
 
-Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la historia que hay detrás: temperamento, historia, origen y datos curiosos. Sin teclear, sin buscar, sin internet y sin coste.
+Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la historia que hay detrás: temperamento, historia, origen y datos curiosos. Sin teclear, sin buscar y sin coste, y la identificación funciona incluso sin conexión.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 razas</span>
-  <span class="marketing-chip">Funciona totalmente sin conexión</span>
+  <span class="marketing-chip">Identificación en el dispositivo</span>
   <span class="marketing-chip">Gratis para siempre</span>
   <span class="marketing-chip">Sin necesidad de cuenta</span>
 </div>
@@ -34,13 +34,13 @@ Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la hi
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privado y sin conexión, con las fotos y los datos guardados en tu dispositivo</span>
+    <span class="marketing-stat-label">privado, con tus fotos y escaneos guardados en tu dispositivo</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -53,7 +53,7 @@ Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la hi
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Por qué lo eligen los amantes de los gatos</p>
     <h2 id="nk-why-title" class="marketing-section-title">Una guía de bolsillo tranquila y completa del mundo felino.</h2>
-    <p class="marketing-section-intro">Nekopedia convierte un momento de curiosidad en la cafetería en una respuesta real, y sigue con la historia, el perfil y un poco de diversión, todo sin registro ni señal.</p>
+    <p class="marketing-section-intro">Nekopedia convierte un momento de curiosidad en la cafetería en una respuesta real, y sigue con la historia, el perfil y un poco de diversión, todo sin registro, y la identificación funciona incluso sin señal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,17 +75,17 @@ Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la hi
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Aprende y juega sin conexión</h3>
-      <p>Convierte todo lo que has escaneado en un juego con dos modos diseñados para ampliar tus conocimientos felinos reales.</p>
+      <h3>Aprende y juega</h3>
+      <p>Ponte a prueba con dos modos diseñados para ampliar tus conocimientos felinos reales.</p>
       <ul class="marketing-list">
         <li>Concurso de Razas: adivina la raza a partir de una foto</li>
         <li>Curiosidades Felinas: mitos y datos de verdadero o falso</li>
-        <li>No necesitas internet para jugar, nunca</li>
+        <li>Fotos y datos nuevos, cargados en línea</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Privado por defecto</h3>
-      <p>Sin cuentas, sin analíticas, sin anuncios. Tus fotos nunca salen de tu dispositivo y todo funciona sin conexión.</p>
+      <p>Sin cuentas, sin analíticas, sin anuncios. Tus fotos nunca salen de tu dispositivo y la identificación funciona sin conexión.</p>
       <ul class="marketing-list">
         <li>Los escaneos y favoritos se guardan localmente</li>
         <li>Nada que registrar y nada que pagar</li>
@@ -120,7 +120,7 @@ Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la hi
     </article>
     <article class="marketing-card">
       <h3>Juega</h3>
-      <p>Pon a prueba tus conocimientos con dos modos de juego sin conexión que mezclan fotos, datos y mitos.</p>
+      <p>Pon a prueba tus conocimientos con dos modos de juego que mezclan fotos, datos y mitos.</p>
       <ul class="marketing-list">
         <li>Concurso de Razas con títulos de recompensa por ganar</li>
         <li>Curiosidades Felinas para rondas rápidas de verdadero o falso</li>
@@ -194,8 +194,8 @@ Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la hi
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Postura de privacidad</span>
-      <h3 class="marketing-price-summary">Sin servidores. Sin nube. Sin rastreo.</h3>
-      <p>Tus fotos nunca salen de tu dispositivo. La identificación, los perfiles y los juegos funcionan localmente, así que la promesa del producto es tan clara como la interfaz.</p>
+      <h3 class="marketing-price-summary">Sin subidas. Sin nube. Sin rastreo.</h3>
+      <p>Tus fotos nunca salen de tu dispositivo. La identificación de razas se realiza íntegramente en el dispositivo y las funciones en línea solo descargan fotos y datos públicos de gatos, así que la promesa del producto es tan clara como la interfaz.</p>
       <p class="marketing-price-note">Ese mismo enfoque de privacidad ante todo se mantiene en las páginas de resumen, soporte y políticas.</p>
     </article>
   </div>

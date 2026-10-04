@@ -21,7 +21,7 @@ Nekopedia, fotoğrafınızı analiz edip kedi ırkını tanımlamak için cihaz 
 
 ### İnternet bağlantısına ihtiyacım var mı?
 
-Irk tanımlama ve favoriler tamamen çevrimdışı çalışır, internet gerekmez. Ancak ırk ayrıntıları, sınav ve kedi bilgi yarışması internetten içerik alır ve bağlantı gerektirir.
+Irk tanımlama, favoriler ve 48 ırkın tamamı için yerleşik profiller tamamen çevrimdışı çalışır, internet gerekmez. Ancak ırk fotoğrafları ve ırk yarışması internetten içerik alır ve bağlantı gerektirir. Kedi bilgi yarışması ve eğlenceli bilgiler İngilizcede canlı içerik (bağlantı gerekir), diğer tüm dillerde ise çevrimdışı çalışan yerleşik içerik kullanır.
 
 ### Nekopedia ücretsiz mi?
 
@@ -59,7 +59,7 @@ Keşfet sekmesi, 48 ırkın tamamını ada göre aramanıza veya her ırkın ner
 
 ### Sınav ve Bilgi Yarışması oyunları nasıl çalışır?
 
-Her iki oyun da internet bağlantısı gerektirir. Irk Yarışması size bir kedi fotoğrafı gösterir ve dört seçenekten doğru ırkı seçmenizi ister; tur başına 10 soru vardır. Kedi Bilgi Yarışması, kediler hakkında doğru-yanlış ifadeleri sunar; bu da tur başına 10 soru. Her iki oyun da puanınıza göre bir ödül unvanı verir.
+Irk Yarışması internet bağlantısı gerektirir; Kedi Bilgi Yarışması ise yalnızca uygulama İngilizceye ayarlıyken bağlantıya ihtiyaç duyar. Irk Yarışması size bir kedi fotoğrafı gösterir ve dört seçenekten doğru ırkı seçmenizi ister; tur başına 10 soru vardır. Kedi Bilgi Yarışması, kediler hakkında doğru-yanlış ifadeleri sunar; bu da tur başına 10 soru. Her iki oyun da puanınıza göre bir ödül unvanı verir.
 
 ### Nekopedia iPad'de çalışır mı?
 

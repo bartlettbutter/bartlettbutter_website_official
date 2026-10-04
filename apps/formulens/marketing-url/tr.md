@@ -3,7 +3,7 @@ layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Herhangi bir içerik listesini tarayın. Cilt bakımınızda tam olarak ne olduğunu ve her şeyin birlikte nasıl çalıştığını öğrenin."
-app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
+app_store_url: "https://apps.apple.com/us/app/formulens/id6783632029"
 lang: tr
 permalink: /formulens/tr/
 redirect_from:
@@ -42,7 +42,7 @@ redirect_from:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/formulalens/id6756229042">
+    <a href="https://apps.apple.com/us/app/formulens/id6783632029">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>

@@ -2,7 +2,7 @@
 layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
-app_description: "Identifica cualquier raza de perro al instante. Gratis, sin conexión y privado."
+app_description: "Identifica cualquier raza de perro al instante. Gratis, privado y en tu dispositivo."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: es
 permalink: /barkpedia/es/
@@ -12,13 +12,13 @@ redirect_from:
 
 # Cada perro tiene una historia. Descúbrela al instante.
 
-Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la historia que hay detrás: temperamento, historia, origen y datos curiosos. Sin teclear, sin buscar, sin internet y sin coste.
+Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la historia que hay detrás: temperamento, historia, origen y datos curiosos. Sin teclear, sin buscar y sin coste, y la identificación de razas funciona incluso sin cobertura.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 razas</span>
-  <span class="marketing-chip">Funciona totalmente sin conexión</span>
+  <span class="marketing-chip">Identificación en el dispositivo</span>
   <span class="marketing-chip">Gratis para siempre</span>
   <span class="marketing-chip">Sin necesidad de cuenta</span>
 </div>
@@ -34,7 +34,7 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privado y sin conexión, con las fotos y los datos guardados en tu dispositivo</span>
+    <span class="marketing-stat-label">privado, con tus fotos y escaneos guardados en tu dispositivo</span>
   </article>
 </div>
 
@@ -53,7 +53,7 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Por qué lo eligen los amantes de los perros</p>
     <h2 id="bp-why-title" class="marketing-section-title">Una guía de bolsillo tranquila y completa del mundo canino.</h2>
-    <p class="marketing-section-intro">Barkpedia convierte un momento de curiosidad en el parque en una respuesta real, y sigue con la historia, el perfil y un poco de diversión, todo sin registro ni señal.</p>
+    <p class="marketing-section-intro">Barkpedia convierte un momento de curiosidad en el parque en una respuesta real, y sigue con la historia, el perfil y un poco de diversión, todo sin registro, y la identificación de razas funciona incluso sin cobertura.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -62,7 +62,7 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
       <ul class="marketing-list">
         <li>Una lista ordenada de otras posibilidades para los casos difíciles</li>
         <li>Cada resultado enlaza directamente con un perfil de raza completo</li>
-        <li>Funciona completamente sin conexión, esté donde esté el perro</li>
+        <li>Se ejecuta en tu dispositivo, así que funciona sin conexión esté donde esté el perro</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -75,17 +75,17 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Aprende y juega sin conexión</h3>
+      <h3>Aprende y juega</h3>
       <p>Convierte todo lo que has escaneado en un juego con dos modos diseñados para ampliar tus conocimientos caninos reales.</p>
       <ul class="marketing-list">
         <li>Concurso de Razas: adivina la raza a partir de una foto</li>
         <li>Curiosidades Caninas: mitos y datos de verdadero o falso</li>
-        <li>No necesitas internet para jugar, nunca</li>
+        <li>Curiosidades Caninas funciona sin conexión, cuando quieras</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Privado por defecto</h3>
-      <p>Sin cuentas, sin analíticas, sin anuncios. Tus fotos nunca salen de tu dispositivo y todo funciona sin conexión.</p>
+      <p>Sin cuentas, sin analíticas, sin anuncios. Tus fotos se analizan en tu dispositivo y nunca se suben.</p>
       <ul class="marketing-list">
         <li>Los escaneos y favoritos se guardan localmente</li>
         <li>Nada que registrar y nada que pagar</li>
@@ -120,7 +120,7 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
     </article>
     <article class="marketing-card">
       <h3>Juega</h3>
-      <p>Pon a prueba tus conocimientos con dos modos de juego sin conexión que mezclan fotos, datos y mitos.</p>
+      <p>Pon a prueba tus conocimientos con dos modos de juego que mezclan fotos, datos y mitos.</p>
       <ul class="marketing-list">
         <li>Concurso de Razas con títulos de recompensa por ganar</li>
         <li>Curiosidades Caninas para rondas rápidas de verdadero o falso</li>
@@ -194,8 +194,8 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Postura de privacidad</span>
-      <h3 class="marketing-price-summary">Sin servidores. Sin nube. Sin rastreo.</h3>
-      <p>Tus fotos nunca salen de tu dispositivo. La identificación, los perfiles y los juegos funcionan localmente, así que la promesa del producto es tan clara como la interfaz.</p>
+      <h3 class="marketing-price-summary">Sin subidas. Sin cuentas. Sin rastreo.</h3>
+      <p>Tus fotos nunca salen de tu dispositivo. La identificación de razas se realiza íntegramente en el dispositivo, mientras que los perfiles de razas y las fotos del quiz se cargan desde fuentes públicas de razas caninas sin ningún dato personal.</p>
       <p class="marketing-price-note">Ese mismo enfoque de privacidad ante todo se mantiene en las páginas de resumen, soporte y políticas.</p>
     </article>
   </div>

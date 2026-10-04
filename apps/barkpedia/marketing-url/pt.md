@@ -2,7 +2,7 @@
 layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
-app_description: "Identifique qualquer raça de cão instantaneamente. Grátis, offline e privado."
+app_description: "Identifique qualquer raça de cão instantaneamente. Grátis, privado e no dispositivo."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: pt
 permalink: /barkpedia/pt/
@@ -12,13 +12,13 @@ redirect_from:
 
 # Todo cão tem uma história. Descubra-a instantaneamente.
 
-Tire uma foto de qualquer cão e o Barkpedia dá nome à raça e, em seguida, abre toda a história por trás dela: temperamento, história, origem e curiosidades. Sem digitar, sem buscar, sem internet e sem custo.
+Tire uma foto de qualquer cão e o Barkpedia dá nome à raça e, em seguida, abre toda a história por trás dela: temperamento, história, origem e curiosidades. Sem digitar, sem buscar e sem custo, e a identificação da raça funciona até sem sinal.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 raças</span>
-  <span class="marketing-chip">Funciona totalmente offline</span>
+  <span class="marketing-chip">Identificação no dispositivo</span>
   <span class="marketing-chip">Grátis para sempre</span>
   <span class="marketing-chip">Sem necessidade de conta</span>
 </div>
@@ -34,7 +34,7 @@ Tire uma foto de qualquer cão e o Barkpedia dá nome à raça e, em seguida, ab
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privado e offline, com fotos e dados permanecendo no seu dispositivo</span>
+    <span class="marketing-stat-label">privado, com suas fotos e escaneamentos salvos permanecendo no seu dispositivo</span>
   </article>
 </div>
 
@@ -53,7 +53,7 @@ Tire uma foto de qualquer cão e o Barkpedia dá nome à raça e, em seguida, ab
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Por que os amantes de cães escolhem</p>
     <h2 id="bp-why-title" class="marketing-section-title">Um guia de bolso tranquilo e completo do mundo dos cães.</h2>
-    <p class="marketing-section-intro">O Barkpedia transforma um momento de curiosidade no parque em uma resposta real e continua com a história, o perfil e um pouco de diversão, tudo sem cadastro ou sinal.</p>
+    <p class="marketing-section-intro">O Barkpedia transforma um momento de curiosidade no parque em uma resposta real e continua com a história, o perfil e um pouco de diversão, tudo sem cadastro, e a identificação da raça funciona até sem sinal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -62,7 +62,7 @@ Tire uma foto de qualquer cão e o Barkpedia dá nome à raça e, em seguida, ab
       <ul class="marketing-list">
         <li>Uma lista ordenada de outras possibilidades para casos difíceis</li>
         <li>Cada resultado leva direto a um perfil completo da raça</li>
-        <li>Funciona totalmente offline, onde quer que o cão esteja</li>
+        <li>Roda no seu dispositivo, então funciona offline onde quer que o cão esteja</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -75,17 +75,17 @@ Tire uma foto de qualquer cão e o Barkpedia dá nome à raça e, em seguida, ab
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Aprenda e jogue offline</h3>
+      <h3>Aprenda e jogue</h3>
       <p>Transforme tudo o que você escaneou em um jogo com dois modos criados para ampliar o conhecimento canino de verdade.</p>
       <ul class="marketing-list">
         <li>Quiz de Raças: adivinhe a raça a partir de uma foto</li>
         <li>Curiosidades Caninas: mitos e fatos de verdadeiro ou falso</li>
-        <li>Sem necessidade de internet para jogar, nunca</li>
+        <li>Curiosidades Caninas funciona offline, a qualquer hora</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Privado por padrão</h3>
-      <p>Sem contas, sem análises, sem anúncios. Suas fotos nunca saem do seu dispositivo e tudo funciona sem conexão.</p>
+      <p>Sem contas, sem análises, sem anúncios. Suas fotos são analisadas no seu dispositivo e nunca são enviadas.</p>
       <ul class="marketing-list">
         <li>Escaneamentos e favoritos ficam armazenados localmente</li>
         <li>Nada para se cadastrar e nada a pagar</li>
@@ -120,7 +120,7 @@ Tire uma foto de qualquer cão e o Barkpedia dá nome à raça e, em seguida, ab
     </article>
     <article class="marketing-card">
       <h3>Jogar</h3>
-      <p>Teste seu conhecimento com dois modos de jogo offline que misturam fotos, fatos e mitos.</p>
+      <p>Teste seu conhecimento com dois modos de jogo que misturam fotos, fatos e mitos.</p>
       <ul class="marketing-list">
         <li>Quiz de Raças com títulos de recompensa para ganhar</li>
         <li>Curiosidades Caninas para rodadas rápidas de verdadeiro ou falso</li>
@@ -194,8 +194,8 @@ Tire uma foto de qualquer cão e o Barkpedia dá nome à raça e, em seguida, ab
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Postura de privacidade</span>
-      <h3 class="marketing-price-summary">Sem servidores. Sem nuvem. Sem rastreamento.</h3>
-      <p>Suas fotos nunca saem do seu dispositivo. Identificação, perfis e jogos rodam localmente, então a promessa do produto é tão clara quanto a interface.</p>
+      <h3 class="marketing-price-summary">Sem uploads. Sem contas. Sem rastreamento.</h3>
+      <p>Suas fotos nunca saem do seu dispositivo. A identificação da raça acontece inteiramente no dispositivo, enquanto os perfis de raças e as fotos do quiz são carregados de fontes públicas sobre raças de cães, sem nenhum dado pessoal.</p>
       <p class="marketing-price-note">Esse mesmo enfoque na privacidade se estende às páginas de visão geral, suporte e políticas.</p>
     </article>
   </div>

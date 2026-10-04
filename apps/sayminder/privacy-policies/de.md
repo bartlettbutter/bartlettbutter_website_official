@@ -2,7 +2,7 @@
 layout: default
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "Datenschutzerklärung"
+app_description: "Datenschutzrichtlinie"
 lang: de
 permalink: /sayminder/privacy/de/
 redirect_from:

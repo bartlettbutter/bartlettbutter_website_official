@@ -2,7 +2,7 @@
 layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
-app_description: "Identifica qualsiasi razza di cane all'istante. Gratis, offline e privato."
+app_description: "Identifica qualsiasi razza di cane all'istante. Gratis, privato e sul dispositivo."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: it
 permalink: /barkpedia/it/
@@ -12,13 +12,13 @@ redirect_from:
 
 # Ogni cane ha una storia. Scoprila all'istante.
 
-Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tutta la storia che vi si cela dietro: temperamento, storia, origine e curiosità. Niente da digitare, niente ricerche, niente internet e nessun costo.
+Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tutta la storia che vi si cela dietro: temperamento, storia, origine e curiosità. Niente da digitare, niente ricerche e nessun costo, e il riconoscimento della razza funziona anche senza campo.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 razze</span>
-  <span class="marketing-chip">Funziona completamente offline</span>
+  <span class="marketing-chip">Riconoscimento sul dispositivo</span>
   <span class="marketing-chip">Gratis per sempre</span>
   <span class="marketing-chip">Nessun account richiesto</span>
 </div>
@@ -34,7 +34,7 @@ Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tu
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privato e offline, con foto e dati che restano sul tuo dispositivo</span>
+    <span class="marketing-stat-label">privato, con le tue foto e le scansioni salvate che restano sul tuo dispositivo</span>
   </article>
 </div>
 
@@ -53,7 +53,7 @@ Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tu
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Perché gli amanti dei cani la scelgono</p>
     <h2 id="bp-why-title" class="marketing-section-title">Una guida tascabile serena e completa al mondo dei cani.</h2>
-    <p class="marketing-section-intro">Barkpedia trasforma un momento di curiosità al parco in una risposta concreta, poi prosegue con la storia, il profilo e un po' di divertimento, il tutto senza registrazione e senza segnale.</p>
+    <p class="marketing-section-intro">Barkpedia trasforma un momento di curiosità al parco in una risposta concreta, poi prosegue con la storia, il profilo e un po' di divertimento, il tutto senza registrazione, e il riconoscimento della razza funziona anche senza campo.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -62,7 +62,7 @@ Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tu
       <ul class="marketing-list">
         <li>Un elenco ordinato di altre possibilità per i casi incerti</li>
         <li>Ogni risultato rimanda direttamente a un profilo completo della razza</li>
-        <li>Funziona completamente offline, ovunque si trovi il cane</li>
+        <li>Funziona sul tuo dispositivo, quindi anche offline, ovunque si trovi il cane</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -75,17 +75,17 @@ Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tu
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Impara e gioca offline</h3>
+      <h3>Impara e gioca</h3>
       <p>Trasforma tutto ciò che hai scansionato in un gioco con due modalità pensate per ampliare davvero le tue conoscenze cinofile.</p>
       <ul class="marketing-list">
         <li>Quiz delle Razze: indovina la razza a partire da una foto</li>
         <li>Curiosità Cinofile: miti e fatti vero o falso</li>
-        <li>Nessuna connessione internet necessaria per giocare, mai</li>
+        <li>Curiosità Cinofile si gioca offline, in qualsiasi momento</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Privato per impostazione predefinita</h3>
-      <p>Nessun account, nessuna analisi, nessuna pubblicità. Le tue foto non lasciano mai il tuo dispositivo e tutto funziona senza connessione.</p>
+      <p>Nessun account, nessuna analisi, nessuna pubblicità. Le tue foto vengono analizzate sul tuo dispositivo e non vengono mai caricate.</p>
       <ul class="marketing-list">
         <li>Scansioni e preferiti restano memorizzati localmente</li>
         <li>Niente per cui registrarsi e niente da pagare</li>
@@ -120,7 +120,7 @@ Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tu
     </article>
     <article class="marketing-card">
       <h3>Gioca</h3>
-      <p>Metti alla prova le tue conoscenze con due modalità di gioco offline che mescolano foto, fatti e miti.</p>
+      <p>Metti alla prova le tue conoscenze con due modalità di gioco che mescolano foto, fatti e miti.</p>
       <ul class="marketing-list">
         <li>Quiz delle Razze con titoli di ricompensa da guadagnare</li>
         <li>Curiosità Cinofile per rapidi round vero o falso</li>
@@ -194,8 +194,8 @@ Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tu
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Approccio alla privacy</span>
-      <h3 class="marketing-price-summary">Nessun server. Nessun cloud. Nessun tracciamento.</h3>
-      <p>Le tue foto non lasciano mai il tuo dispositivo. Identificazione, profili e giochi funzionano tutti localmente, così la promessa del prodotto è chiara quanto l'interfaccia.</p>
+      <h3 class="marketing-price-summary">Nessun caricamento. Nessun account. Nessun tracciamento.</h3>
+      <p>Le tue foto non lasciano mai il tuo dispositivo. Il riconoscimento della razza avviene interamente sul dispositivo, mentre i profili delle razze e le foto del quiz vengono caricati da fonti pubbliche sulle razze canine, senza alcun dato personale.</p>
       <p class="marketing-price-note">Lo stesso approccio incentrato sulla privacy si ritrova nelle pagine di panoramica, supporto e policy.</p>
     </article>
   </div>

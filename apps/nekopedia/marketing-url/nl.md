@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "Herken elk kattenras direct. Gratis, offline en privé."
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "Herken elk kattenras direct. Gratis, privé en op je apparaat."
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 lang: nl
 permalink: /nekopedia/nl/
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 
 # Elke kat heeft een verhaal. Ontdek het direct.
 
-Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent vervolgens het hele verhaal erachter: temperament, geschiedenis, oorsprong en leuke weetjes. Geen getyp, geen zoeken, geen internet en geen kosten.
+Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent vervolgens het hele verhaal erachter: temperament, geschiedenis, oorsprong en leuke weetjes. Geen getyp, geen zoeken en geen kosten — en rasherkenning werkt zelfs offline.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 rassen</span>
-  <span class="marketing-chip">Werkt volledig offline</span>
+  <span class="marketing-chip">Rasherkenning op het apparaat</span>
   <span class="marketing-chip">Voor altijd gratis</span>
   <span class="marketing-chip">Geen account nodig</span>
 </div>
@@ -34,13 +34,13 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privé en offline, waarbij foto's en gegevens op je apparaat blijven</span>
+    <span class="marketing-stat-label">privé, waarbij je foto's en scans op je apparaat blijven</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -53,7 +53,7 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Waarom kattenliefhebbers het kiezen</p>
     <h2 id="nk-why-title" class="marketing-section-title">Een rustige, complete zakgids voor de wereld van katten.</h2>
-    <p class="marketing-section-intro">Nekopedia verandert een nieuwsgierig moment in het café in een echt antwoord, en gaat vervolgens verder met de geschiedenis, het profiel en een beetje plezier, allemaal zonder aanmelding of signaal.</p>
+    <p class="marketing-section-intro">Nekopedia verandert een nieuwsgierig moment in het café in een echt antwoord, en gaat vervolgens verder met de geschiedenis, het profiel en een beetje plezier, allemaal zonder aanmelding, en rasherkenning werkt zelfs zonder signaal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,17 +75,17 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Leren en spelen offline</h3>
-      <p>Verander alles wat je hebt gescand in een spel met twee modi die zijn ontworpen om echte kattenkennis te vergroten.</p>
+      <h3>Leren en spelen</h3>
+      <p>Daag jezelf uit met twee modi die zijn ontworpen om echte kattenkennis te vergroten.</p>
       <ul class="marketing-list">
         <li>Rassenquiz: raad het ras aan de hand van een foto</li>
         <li>Kattenweetjes: waar-of-onwaar mythes en feiten</li>
-        <li>Nooit internet nodig om te spelen</li>
+        <li>Verse foto's en feiten, online geladen</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Privé als standaard</h3>
-      <p>Geen accounts, geen analyse, geen advertenties. Je foto's verlaten nooit je apparaat en alles werkt zonder verbinding.</p>
+      <p>Geen accounts, geen analyse, geen advertenties. Je foto's verlaten nooit je apparaat en rasherkenning werkt zonder verbinding.</p>
       <ul class="marketing-list">
         <li>Scans en favorieten blijven lokaal opgeslagen</li>
         <li>Niets om je voor aan te melden en niets om te betalen</li>
@@ -120,7 +120,7 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
     </article>
     <article class="marketing-card">
       <h3>Spelen</h3>
-      <p>Test je kennis met twee offline spelmodi die foto's, feiten en mythes combineren.</p>
+      <p>Test je kennis met twee spelmodi die foto's, feiten en mythes combineren.</p>
       <ul class="marketing-list">
         <li>Rassenquiz met beloningstitels om te verdienen</li>
         <li>Kattenweetjes voor snelle waar-of-onwaar rondes</li>
@@ -194,8 +194,8 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacyhouding</span>
-      <h3 class="marketing-price-summary">Geen servers. Geen cloud. Geen tracking.</h3>
-      <p>Je foto's verlaten nooit je apparaat. Herkenning, profielen en spellen draaien allemaal lokaal, waardoor de productbelofte net zo helder is als de interface.</p>
+      <h3 class="marketing-price-summary">Geen uploads. Geen cloud. Geen tracking.</h3>
+      <p>Je foto's verlaten nooit je apparaat. Rasherkenning draait volledig op je apparaat en online functies halen alleen openbare kattenfoto's en -feiten op, waardoor de productbelofte net zo helder is als de interface.</p>
       <p class="marketing-price-note">Diezelfde privacy-eerst benadering loopt door op de overzichts-, ondersteunings- en beleidspagina's.</p>
     </article>
   </div>

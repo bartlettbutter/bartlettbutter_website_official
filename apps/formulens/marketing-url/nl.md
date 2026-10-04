@@ -3,7 +3,7 @@ layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Scan elke ingrediëntenlijst. Weet precies wat er in je huidverzorging zit, en hoe alles samenwerkt."
-app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
+app_store_url: "https://apps.apple.com/us/app/formulens/id6783632029"
 lang: nl
 permalink: /formulens/nl/
 redirect_from:
@@ -42,7 +42,7 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/formulalens/id6756229042">
+    <a href="https://apps.apple.com/us/app/formulens/id6783632029">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>

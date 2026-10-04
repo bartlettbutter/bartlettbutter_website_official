@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "どんな猫の品種も瞬時に識別。無料、オフライン、プライベート。"
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "どんな猫の品種も瞬時に識別。無料、プライベート、デバイス上で完結。"
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 lang: ja
 permalink: /nekopedia/ja/
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 
 # どの猫にも物語がある。今すぐ見つけよう。
 
-どんな猫でも写真を撮れば、Nekopediaが品種を言い当て、その背後にある物語をまるごと開いてくれます。性格、歴史、起源、そして楽しい豆知識まで。入力も、検索も、インターネットも、費用も一切不要です。
+どんな猫でも写真を撮れば、Nekopediaが品種を言い当て、その背後にある物語をまるごと開いてくれます。性格、歴史、起源、そして楽しい豆知識まで。入力も、検索も、費用も一切不要。品種の識別はオフラインでも使えます。
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48品種</span>
-  <span class="marketing-chip">完全オフライン対応</span>
+  <span class="marketing-chip">デバイス上で品種を識別</span>
   <span class="marketing-chip">ずっと無料</span>
   <span class="marketing-chip">アカウント不要</span>
 </div>
@@ -34,13 +34,13 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">完全にプライベートかつオフライン。写真もデータもデバイス上にとどまります</span>
+    <span class="marketing-stat-label">完全にプライベート。写真もスキャン結果もデバイス上にとどまります</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">猫好きが選ぶ理由</p>
     <h2 id="nk-why-title" class="marketing-section-title">猫の世界への、静かで完全なポケットガイド。</h2>
-    <p class="marketing-section-intro">Nekopediaは、カフェでのふとした好奇心を本物の答えに変えます。そしてそのまま、歴史やプロフィール、ちょっとした楽しみへと続きます。サインアップも電波も一切不要で。</p>
+    <p class="marketing-section-intro">Nekopediaは、カフェでのふとした好奇心を本物の答えに変えます。そしてそのまま、歴史やプロフィール、ちょっとした楽しみへと続きます。サインアップは一切不要で、品種の識別は電波がなくても使えます。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,17 +75,17 @@ redirect_from:
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>オフラインで学んで遊ぶ</h3>
-      <p>スキャンしたものすべてを、本物の猫の知識を育てるよう設計された2つのモードのゲームに変えましょう。</p>
+      <h3>学んで遊ぶ</h3>
+      <p>本物の猫の知識を育てるよう設計された2つのモードで、腕試しをしましょう。</p>
       <ul class="marketing-list">
         <li>品種クイズ: 写真から品種を当てる</li>
         <li>猫トリビア: ○×形式の俗説と事実</li>
-        <li>遊ぶのにインターネットは一切不要</li>
+        <li>新しい写真と豆知識をオンラインで読み込み</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>はじめからプライベート</h3>
-      <p>アカウントなし、分析なし、広告なし。あなたの写真がデバイスから出ることは一切なく、すべてが接続なしで動作します。</p>
+      <p>アカウントなし、分析なし、広告なし。あなたの写真がデバイスから出ることは一切なく、品種の識別は接続なしで動作します。</p>
       <ul class="marketing-list">
         <li>スキャンとお気に入りはローカルに保存</li>
         <li>登録するものも、支払うものも一切なし</li>
@@ -120,7 +120,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>遊ぶ</h3>
-      <p>写真、事実、俗説を組み合わせた2つのオフラインゲームモードで知識を試しましょう。</p>
+      <p>写真、事実、俗説を組み合わせた2つのゲームモードで知識を試しましょう。</p>
       <ul class="marketing-list">
         <li>獲得できる報酬タイトル付きの品種クイズ</li>
         <li>手軽な○×ラウンドの猫トリビア</li>
@@ -194,8 +194,8 @@ redirect_from:
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">プライバシーの姿勢</span>
-      <h3 class="marketing-price-summary">サーバーなし。クラウドなし。トラッキングなし。</h3>
-      <p>あなたの写真がデバイスから出ることは一切ありません。識別、プロフィール、ゲームはすべてローカルで動作するので、プロダクトの約束はインターフェースと同じくらい明快です。</p>
+      <h3 class="marketing-price-summary">アップロードなし。クラウドなし。トラッキングなし。</h3>
+      <p>あなたの写真がデバイスから出ることは一切ありません。品種の識別はすべてデバイス上で行われ、オンライン機能が取得するのは公開されている猫の写真と豆知識だけなので、プロダクトの約束はインターフェースと同じくらい明快です。</p>
       <p class="marketing-price-note">その同じプライバシー第一の姿勢は、概要・サポート・ポリシーの各ページにも貫かれています。</p>
     </article>
   </div>

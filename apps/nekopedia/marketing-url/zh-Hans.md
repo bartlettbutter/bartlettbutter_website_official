@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "即时识别任何猫的品种。免费、离线、私密。"
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "即时识别任何猫的品种。免费、私密、本机识别。"
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 lang: zh-Hans
 permalink: /nekopedia/zh-Hans/
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 
 # 每只猫都有故事。即刻发现它。
 
-拍摄任何一只猫的照片，Nekopedia便会叫出它的品种，随后为您展开它背后的整个故事——性格、历史、起源和趣闻。无需打字，无需搜索，无需联网，无需付费。
+拍摄任何一只猫的照片，Nekopedia便会叫出它的品种，随后为您展开它背后的整个故事——性格、历史、起源和趣闻。无需打字，无需搜索，无需付费，品种识别离线也能用。
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48个品种</span>
-  <span class="marketing-chip">完全离线运行</span>
+  <span class="marketing-chip">本机品种识别</span>
   <span class="marketing-chip">永久免费</span>
   <span class="marketing-chip">无需账户</span>
 </div>
@@ -34,13 +34,13 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">私密且离线，照片和数据都保留在您的设备上</span>
+    <span class="marketing-stat-label">私密，照片和扫描记录都保留在您的设备上</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">爱猫人士为何选择它</p>
     <h2 id="nk-why-title" class="marketing-section-title">一份沉稳、完整的口袋猫世界指南。</h2>
-    <p class="marketing-section-intro">Nekopedia将咖啡馆里一个好奇的瞬间变成真正的答案，随后继续带来历史、资料和一点乐趣——全程无需注册，也无需信号。</p>
+    <p class="marketing-section-intro">Nekopedia将咖啡馆里一个好奇的瞬间变成真正的答案，随后继续带来历史、资料和一点乐趣——全程无需注册，品种识别没有信号也能用。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,17 +75,17 @@ redirect_from:
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>离线学习与玩乐</h3>
-      <p>将您扫描过的一切变成游戏，两种模式旨在增长真正的猫咪知识。</p>
+      <h3>学习与玩乐</h3>
+      <p>用两种模式挑战自我，增长真正的猫咪知识。</p>
       <ul class="marketing-list">
         <li>品种测验：从照片中猜出品种</li>
         <li>猫咪问答：真假判断的谬误与事实</li>
-        <li>玩游戏永远无需联网</li>
+        <li>联网加载全新照片与趣闻</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>默认私密</h3>
-      <p>没有账户，没有分析，没有广告。您的照片永远不会离开您的设备，一切都无需联网即可运行。</p>
+      <p>没有账户，没有分析，没有广告。您的照片永远不会离开您的设备，品种识别无需联网即可运行。</p>
       <ul class="marketing-list">
         <li>扫描结果和收藏都存储在本地</li>
         <li>无需注册，也无需付费</li>
@@ -120,7 +120,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>玩乐</h3>
-      <p>用两种离线游戏模式检验您的知识，它们融合了照片、事实和谬误。</p>
+      <p>用两种游戏模式检验您的知识，它们融合了照片、事实和谬误。</p>
       <ul class="marketing-list">
         <li>品种测验，可赢取奖励称号</li>
         <li>猫咪问答，快速的真假判断回合</li>
@@ -194,8 +194,8 @@ redirect_from:
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">隐私姿态</span>
-      <h3 class="marketing-price-summary">没有服务器。没有云端。没有追踪。</h3>
-      <p>您的照片永远不会离开您的设备。识别、资料和游戏全部在本地运行，所以产品承诺和界面一样清晰。</p>
+      <h3 class="marketing-price-summary">不上传照片。没有云端。没有追踪。</h3>
+      <p>您的照片永远不会离开您的设备。品种识别完全在本机完成，联网功能只获取公开的猫咪照片和趣闻，所以产品承诺和界面一样清晰。</p>
       <p class="marketing-price-note">同样的隐私优先理念贯穿概览、支持和政策页面。</p>
     </article>
   </div>

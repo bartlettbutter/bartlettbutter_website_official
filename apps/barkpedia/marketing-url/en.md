@@ -2,7 +2,7 @@
 layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
-app_description: "Identify any dog breed instantly. Free, offline, and private."
+app_description: "Identify any dog breed instantly. Free, private, and on-device."
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 permalink: /barkpedia/
 redirect_from:
@@ -11,13 +11,13 @@ redirect_from:
 
 # Every dog has a story. Discover it instantly.
 
-Snap a photo of any dog and Barkpedia names the breed, then opens the whole story behind it — temperament, history, origin, and fun facts. No typing, no searching, no internet, and no cost.
+Snap a photo of any dog and Barkpedia names the breed, then opens the whole story behind it — temperament, history, origin, and fun facts. No typing, no searching, and no cost — and breed identification works even without a signal.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 breeds</span>
-  <span class="marketing-chip">Works fully offline</span>
+  <span class="marketing-chip">On-device breed ID</span>
   <span class="marketing-chip">Free forever</span>
   <span class="marketing-chip">No account required</span>
 </div>
@@ -33,7 +33,7 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">private and offline, with photos and data staying on your device</span>
+    <span class="marketing-stat-label">private, with your photos and saved scans staying on your device</span>
   </article>
 </div>
 
@@ -52,7 +52,7 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why dog lovers choose it</p>
     <h2 id="bp-why-title" class="marketing-section-title">A calm, complete pocket guide to the dog world.</h2>
-    <p class="marketing-section-intro">Barkpedia turns a curious moment at the park into a real answer, then keeps going with the history, the profile, and a little fun — all without a sign-up or a signal.</p>
+    <p class="marketing-section-intro">Barkpedia turns a curious moment at the park into a real answer, then keeps going with the history, the profile, and a little fun — all without a sign-up, and breed identification works even without a signal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -61,7 +61,7 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
       <ul class="marketing-list">
         <li>A ranked list of other possibilities for close calls</li>
         <li>Every result links straight to a full breed profile</li>
-        <li>Works completely offline, wherever the dog is</li>
+        <li>Runs on your device, so it works offline wherever the dog is</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -74,17 +74,17 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Learn and play offline</h3>
+      <h3>Learn and play</h3>
       <p>Turn everything you have scanned into a game with two modes designed to grow real dog knowledge.</p>
       <ul class="marketing-list">
         <li>Breed Quiz: guess the breed from a photo</li>
         <li>Dog Trivia: true-or-false myths and facts</li>
-        <li>No internet needed to play, ever</li>
+        <li>Dog Trivia plays offline, anytime</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Private by default</h3>
-      <p>No accounts, no analytics, no ads. Your photos never leave your device and everything works without a connection.</p>
+      <p>No accounts, no analytics, no ads. Your photos are analyzed on your device and never uploaded.</p>
       <ul class="marketing-list">
         <li>Scans and favorites stay stored locally</li>
         <li>Nothing to sign up for and nothing to pay</li>
@@ -119,7 +119,7 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
     </article>
     <article class="marketing-card">
       <h3>Play</h3>
-      <p>Test your knowledge with two offline game modes that mix photos, facts, and myths.</p>
+      <p>Test your knowledge with two game modes that mix photos, facts, and myths.</p>
       <ul class="marketing-list">
         <li>Breed Quiz with reward titles to earn</li>
         <li>Dog Trivia for quick true-or-false rounds</li>
@@ -193,8 +193,8 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacy posture</span>
-      <h3 class="marketing-price-summary">No servers. No cloud. No tracking.</h3>
-      <p>Your photos never leave your device. Identification, profiles, and games all run locally, so the product promise is as clear as the interface.</p>
+      <h3 class="marketing-price-summary">No uploads. No accounts. No tracking.</h3>
+      <p>Your photos never leave your device. Breed identification runs entirely on-device, while breed profiles and quiz photos load from public dog-breed sources with no personal data attached.</p>
       <p class="marketing-price-note">That same privacy-first framing carries through overview, support, and policy pages.</p>
     </article>
   </div>

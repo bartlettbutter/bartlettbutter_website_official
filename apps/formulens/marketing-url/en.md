@@ -3,7 +3,7 @@ layout: app-formulens
 title: FormuLens
 app_icon: /assets/app-icons/icon_FormuLens.png
 app_description: "Scan any ingredient list. Know exactly what's in your skincare, and how it all works together."
-app_store_url: "https://apps.apple.com/us/app/formulalens/id6756229042"
+app_store_url: "https://apps.apple.com/us/app/formulens/id6783632029"
 permalink: /formulens/
 redirect_from:
   - /marketing-url/formulens/
@@ -41,7 +41,7 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/formulalens/id6756229042">
+    <a href="https://apps.apple.com/us/app/formulens/id6783632029">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>

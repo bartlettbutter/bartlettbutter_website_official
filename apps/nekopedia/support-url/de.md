@@ -21,7 +21,7 @@ Nekopedia verwendet geräteinterne Intelligenz, um dein Foto zu analysieren und 
 
 ### Brauche ich eine Internetverbindung?
 
-Die Rassenerkennung und die Favoriten funktionieren vollständig offline, ohne Internet. Die Rassendetails, das Quiz und die Katzen-Trivia rufen jedoch Inhalte aus dem Internet ab und benötigen eine Verbindung.
+Die Rassenerkennung, die Favoriten und die integrierten Profile aller 48 Rassen funktionieren vollständig offline, ohne Internet. Rassenfotos und das Rassen-Quiz rufen jedoch Inhalte aus dem Internet ab und benötigen eine Verbindung. Katzen-Trivia und die spannenden Rassenfakten nutzen auf Englisch Live-Inhalte (Verbindung nötig) und in allen anderen Sprachen integrierte Inhalte, die offline funktionieren.
 
 ### Ist Nekopedia kostenlos?
 
@@ -59,7 +59,7 @@ Im Entdecken-Tab kannst du alle 48 Rassen nach Namen durchsuchen oder eine inter
 
 ### Wie funktionieren die Quiz- und Trivia-Spiele?
 
-Beide Spiele benötigen eine Internetverbindung. Das Rassen-Quiz zeigt dir ein Katzenfoto und bittet dich, die richtige Rasse aus vier Auswahlmöglichkeiten zu wählen, mit 10 Fragen pro Runde. Katzen-Trivia präsentiert Richtig-oder-Falsch-Aussagen über Katzen, ebenfalls 10 Fragen pro Runde. Beide Spiele vergeben einen Belohnungstitel basierend auf deiner Punktzahl.
+Das Rassen-Quiz benötigt eine Internetverbindung, Katzen-Trivia nur, wenn die App auf Englisch eingestellt ist. Das Rassen-Quiz zeigt dir ein Katzenfoto und bittet dich, die richtige Rasse aus vier Auswahlmöglichkeiten zu wählen, mit 10 Fragen pro Runde. Katzen-Trivia präsentiert Richtig-oder-Falsch-Aussagen über Katzen, ebenfalls 10 Fragen pro Runde. Beide Spiele vergeben einen Belohnungstitel basierend auf deiner Punktzahl.
 
 ### Funktioniert Nekopedia auf dem iPad?
 

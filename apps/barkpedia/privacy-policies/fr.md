@@ -2,7 +2,7 @@
 layout: default
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
-app_description: "Politique de Confidentialité"
+app_description: "Politique de confidentialité"
 lang: fr
 permalink: /barkpedia/privacy/fr/
 redirect_from:

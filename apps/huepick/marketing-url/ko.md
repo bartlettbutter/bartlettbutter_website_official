@@ -3,7 +3,7 @@ layout: app-huepick
 title: Huepick
 app_icon: /assets/app-icons/icon_Huepick.png
 app_description: "사진에서 팔레트를 추출하고 창의적인 도구로 이미지를 변환하세요. 무료, 비공개, 계정 불필요."
-app_store_url: "https://apps.apple.com/app/huepick"
+app_store_url: "https://apps.apple.com/us/app/huepick/id6770318535"
 lang: ko
 permalink: /huepick/ko/
 redirect_from:
@@ -40,7 +40,7 @@ redirect_from:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/huepick">
+    <a href="https://apps.apple.com/us/app/huepick/id6770318535">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>

@@ -2,14 +2,14 @@
 layout: default
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
-app_description: "Política de Privacidad"
+app_description: "Política de privacidad"
 lang: es
 permalink: /trafficvibe/privacy/es/
 redirect_from:
   - /privacy-policies/trafficvibe/es/
 ---
 
-**Fecha de entrada en vigor:** September 17, 2026
+**Fecha de entrada en vigor:** 17 de septiembre de 2026
 
 TrafficVibe ("la App") es una aplicación gratuita de iOS que te ofrece un resumen matutino de tu trayecto en lenguaje claro, elaborado a partir de datos en vivo de tráfico, tiempo y mapas. Tu privacidad es fundamental en la forma en que construimos esta app. Aquí tienes exactamente cómo se maneja tu información.
 

@@ -32,3 +32,6 @@ plugins:
 # under assets/screenshots/<app>/ and are what the pages actually load.
 exclude:
   - "apps/*/Apple iPhone 16 Pro Max (1320x2868)"
+  # Internal planning / design notes, not site content.
+  - TBD.md
+  - assets/design-system

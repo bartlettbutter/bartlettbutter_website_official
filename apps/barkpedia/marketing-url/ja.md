@@ -2,7 +2,7 @@
 layout: app-barkpedia
 title: Barkpedia
 app_icon: /assets/app-icons/icon_Barkpedia.png
-app_description: "どんな犬の品種も瞬時に識別。無料、オフライン、プライベート。"
+app_description: "どんな犬の品種も瞬時に識別。無料、プライベート、デバイス上で完結。"
 app_store_url: "https://apps.apple.com/us/app/barkpedia/id6762066596"
 lang: ja
 permalink: /barkpedia/ja/
@@ -12,13 +12,13 @@ redirect_from:
 
 # どの犬にも物語がある。それを瞬時に発見。
 
-どんな犬でも写真を撮るだけで、Barkpediaが品種を識別し、その背景にある物語のすべて（性格、歴史、起源、豆知識）を解き放ちます。入力も検索もインターネットも費用も不要です。
+どんな犬でも写真を撮るだけで、Barkpediaが品種を識別し、その背景にある物語のすべて（性格、歴史、起源、豆知識）を解き放ちます。入力も検索も費用も不要。品種の識別は電波がなくても使えます。
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147品種</span>
-  <span class="marketing-chip">完全オフライン対応</span>
+  <span class="marketing-chip">デバイス上で品種を識別</span>
   <span class="marketing-chip">ずっと無料</span>
   <span class="marketing-chip">アカウント不要</span>
 </div>
@@ -34,7 +34,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">プライベートかつオフラインで、写真とデータはデバイス上に保持</span>
+    <span class="marketing-stat-label">プライベート。写真と保存したスキャンはデバイス上に保持</span>
   </article>
 </div>
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">犬好きが選ぶ理由</p>
     <h2 id="bp-why-title" class="marketing-section-title">犬の世界への、穏やかで完全なポケットガイド。</h2>
-    <p class="marketing-section-intro">Barkpediaは公園でのふとした好奇心を確かな答えに変え、さらに歴史やプロフィール、ちょっとした遊びへと続きます。サインアップも電波も一切不要です。</p>
+    <p class="marketing-section-intro">Barkpediaは公園でのふとした好奇心を確かな答えに変え、さらに歴史やプロフィール、ちょっとした遊びへと続きます。サインアップは一切不要で、品種の識別は電波がなくても使えます。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -62,7 +62,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>判断が難しい場合は、他の可能性をランク付けして表示</li>
         <li>すべての結果は完全な品種プロフィールに直接リンク</li>
-        <li>犬がどこにいても、完全にオフラインで動作</li>
+        <li>デバイス上で動作するので、犬がどこにいてもオフラインで識別</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -75,17 +75,17 @@ redirect_from:
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>オフラインで学び、遊ぶ</h3>
+      <h3>学んで、遊ぶ</h3>
       <p>スキャンしたすべてを、本物の犬の知識を育てる2つのモードのゲームに変えましょう。</p>
       <ul class="marketing-list">
         <li>品種クイズ：写真から品種を当てる</li>
         <li>犬トリビア：本当か嘘かの俗説と事実</li>
-        <li>遊ぶのにインターネットは一切不要</li>
+        <li>犬トリビアはいつでもオフラインで遊べる</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>標準でプライベート</h3>
-      <p>アカウントなし、分析なし、広告なし。写真がデバイスから出ることはなく、すべてが接続なしで動作します。</p>
+      <p>アカウントなし、分析なし、広告なし。写真はデバイス上で解析され、アップロードされることはありません。</p>
       <ul class="marketing-list">
         <li>スキャンとお気に入りはローカルに保存</li>
         <li>サインアップも支払いも不要</li>
@@ -120,7 +120,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>遊ぶ</h3>
-      <p>写真、事実、俗説を織り交ぜた2つのオフラインゲームモードで知識を試そう。</p>
+      <p>写真、事実、俗説を織り交ぜた2つのゲームモードで知識を試そう。</p>
       <ul class="marketing-list">
         <li>報酬タイトルを獲得できる品種クイズ</li>
         <li>手軽な本当か嘘かの犬トリビア</li>
@@ -194,8 +194,8 @@ redirect_from:
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">プライバシーへの姿勢</span>
-      <h3 class="marketing-price-summary">サーバーなし。クラウドなし。トラッキングなし。</h3>
-      <p>写真がデバイスから出ることはありません。識別、プロフィール、ゲームはすべてローカルで動作するため、プロダクトの約束はインターフェースと同じくらい明快です。</p>
+      <h3 class="marketing-price-summary">アップロードなし。アカウントなし。トラッキングなし。</h3>
+      <p>写真がデバイスから出ることはありません。品種の識別はすべてデバイス上で行われ、品種プロフィールとクイズ用の写真は公開されている犬種情報サービスから読み込まれます。個人データが送信されることはありません。</p>
       <p class="marketing-price-note">同じプライバシー最優先の考え方は、概要、サポート、ポリシーの各ページにも一貫しています。</p>
     </article>
   </div>

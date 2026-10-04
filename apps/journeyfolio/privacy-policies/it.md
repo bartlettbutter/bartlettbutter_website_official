@@ -2,7 +2,7 @@
 layout: default
 title: Journeyfolio
 app_icon: /assets/app-icons/icon_Journeyfolio.png
-app_description: "Informativa sulla Privacy"
+app_description: "Informativa sulla privacy"
 lang: it
 permalink: /journeyfolio/privacy/it/
 redirect_from:

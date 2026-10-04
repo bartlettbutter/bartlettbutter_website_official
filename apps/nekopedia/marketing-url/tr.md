@@ -2,8 +2,8 @@
 layout: app-nekopedia
 title: Nekopedia
 app_icon: /assets/app-icons/icon_Nekopedia.png
-app_description: "Herhangi bir kedi ırkını anında tanımlayın. Ücretsiz, çevrimdışı ve gizli."
-app_store_url: "https://apps.apple.com/us/app/nekopedia/id6744228183"
+app_description: "Herhangi bir kedi ırkını anında tanımlayın. Ücretsiz, gizli ve cihaz üzerinde."
+app_store_url: "https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266"
 lang: tr
 permalink: /nekopedia/tr/
 redirect_from:
@@ -12,13 +12,13 @@ redirect_from:
 
 # Her kedinin bir hikayesi vardır. Onu anında keşfedin.
 
-Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ardından ardındaki tüm hikayeyi açsın: mizaç, tarihçe, köken ve eğlenceli gerçekler. Yazma yok, arama yok, internet yok ve ücret yok.
+Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ardından ardındaki tüm hikayeyi açsın: mizaç, tarihçe, köken ve eğlenceli gerçekler. Yazma yok, arama yok, ücret yok; üstelik ırk tanıma çevrimdışı da çalışır.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 ırk</span>
-  <span class="marketing-chip">Tamamen çevrimdışı çalışır</span>
+  <span class="marketing-chip">Cihaz üzerinde ırk tanıma</span>
   <span class="marketing-chip">Sonsuza dek ücretsiz</span>
   <span class="marketing-chip">Hesap gerekmez</span>
 </div>
@@ -34,13 +34,13 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">gizli ve çevrimdışı; fotoğraflar ve veriler cihazınızda kalır</span>
+    <span class="marketing-stat-label">gizli; fotoğraflarınız ve taramalarınız cihazınızda kalır</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/us/app/nekopedia/id6744228183">
+    <a href="https://apps.apple.com/us/app/nekopedia-cat-breed-finder/id6762495266">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -53,7 +53,7 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Kedi severler neden seçiyor</p>
     <h2 id="nk-why-title" class="marketing-section-title">Kedi dünyasına sakin ve eksiksiz bir cep rehberi.</h2>
-    <p class="marketing-section-intro">Nekopedia, kafedeki meraklı bir anı gerçek bir yanıta dönüştürür ve ardından tarihçe, profil ve biraz eğlenceyle devam eder; hepsi bir kayıt ya da sinyal olmadan.</p>
+    <p class="marketing-section-intro">Nekopedia, kafedeki meraklı bir anı gerçek bir yanıta dönüştürür ve ardından tarihçe, profil ve biraz eğlenceyle devam eder; hepsi kayıt olmadan, üstelik ırk tanıma sinyal olmadan da çalışır.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,17 +75,17 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Çevrimdışı öğrenin ve oynayın</h3>
-      <p>Taradığınız her şeyi, gerçek kedi bilgisini geliştirmek için tasarlanmış iki modla bir oyuna dönüştürün.</p>
+      <h3>Öğrenin ve oynayın</h3>
+      <p>Gerçek kedi bilgisini geliştirmek için tasarlanmış iki modla kendinizi sınayın.</p>
       <ul class="marketing-list">
         <li>Irk Yarışması: bir fotoğraftan ırkı tahmin edin</li>
         <li>Kedi Bilgi Yarışması: doğru-yanlış efsaneler ve gerçekler</li>
-        <li>Oynamak için asla internet gerekmez</li>
+        <li>Taze fotoğraflar ve bilgiler çevrimiçi yüklenir</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Varsayılan olarak gizli</h3>
-      <p>Hesap yok, analiz yok, reklam yok. Fotoğraflarınız cihazınızdan asla çıkmaz ve her şey bağlantı olmadan çalışır.</p>
+      <p>Hesap yok, analiz yok, reklam yok. Fotoğraflarınız cihazınızdan asla çıkmaz ve ırk tanıma bağlantı olmadan çalışır.</p>
       <ul class="marketing-list">
         <li>Taramalar ve favoriler yerel olarak saklanır</li>
         <li>Kayıt olacak hiçbir şey ve ödenecek hiçbir şey yok</li>
@@ -120,7 +120,7 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
     </article>
     <article class="marketing-card">
       <h3>Oyna</h3>
-      <p>Fotoğrafları, gerçekleri ve efsaneleri harmanlayan iki çevrimdışı oyun moduyla bilginizi sınayın.</p>
+      <p>Fotoğrafları, gerçekleri ve efsaneleri harmanlayan iki oyun moduyla bilginizi sınayın.</p>
       <ul class="marketing-list">
         <li>Kazanılacak ödül unvanlarıyla Irk Yarışması</li>
         <li>Hızlı doğru-yanlış turları için Kedi Bilgi Yarışması</li>
@@ -194,8 +194,8 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Gizlilik duruşu</span>
-      <h3 class="marketing-price-summary">Sunucu yok. Bulut yok. İzleme yok.</h3>
-      <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Tanımlama, profiller ve oyunların tümü yerel olarak çalışır, böylece ürün vaadi arayüz kadar net olur.</p>
+      <h3 class="marketing-price-summary">Fotoğraf yükleme yok. Bulut yok. İzleme yok.</h3>
+      <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Irk tanıma tamamen cihaz üzerinde çalışır ve çevrimiçi özellikler yalnızca herkese açık kedi fotoğraflarını ve bilgilerini getirir, böylece ürün vaadi arayüz kadar net olur.</p>
       <p class="marketing-price-note">Aynı gizlilik öncelikli çerçeve genel bakış, destek ve politika sayfalarında da devam eder.</p>
     </article>
   </div>

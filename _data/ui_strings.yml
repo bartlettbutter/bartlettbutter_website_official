@@ -12,6 +12,10 @@ en:
   development_in_progress: "Development in progress"
   google_play_coming_soon: "Get it on Google Play — Development in progress"
   app_store_coming_soon: "Download on the App Store — Development in progress"
+  page_kind_support: "Support"
+  page_kind_privacy: "Privacy Policy"
+  meta_support: "%app% support — answers to common questions and how to reach Bartlett Butter."
+  meta_privacy: "How %app% handles your data — the full privacy policy from Bartlett Butter."
 
 ar:
   skip_to_content: "تخطي إلى المحتوى"
@@ -27,6 +31,10 @@ ar:
   development_in_progress: "قيد التطوير"
   google_play_coming_soon: "احصل عليه على Google Play — قيد التطوير"
   app_store_coming_soon: "نزّل من App Store — قيد التطوير"
+  page_kind_support: "الدعم"
+  page_kind_privacy: "سياسة الخصوصية"
+  meta_support: "دعم %app% — إجابات عن الأسئلة الشائعة وطرق التواصل مع Bartlett Butter."
+  meta_privacy: "كيف يتعامل %app% مع بياناتك — سياسة الخصوصية الكاملة من Bartlett Butter."
 
 de:
   skip_to_content: "Zum Inhalt springen"
@@ -42,6 +50,10 @@ de:
   development_in_progress: "In Entwicklung"
   google_play_coming_soon: "Bei Google Play verfügbar — In Entwicklung"
   app_store_coming_soon: "Im App Store laden — In Entwicklung"
+  page_kind_support: "Support"
+  page_kind_privacy: "Datenschutzrichtlinie"
+  meta_support: "%app% Support – Antworten auf häufige Fragen und wie Sie Bartlett Butter erreichen."
+  meta_privacy: "Wie %app% mit Ihren Daten umgeht – die vollständige Datenschutzrichtlinie von Bartlett Butter."
 
 es:
   skip_to_content: "Ir al contenido"
@@ -57,6 +69,10 @@ es:
   development_in_progress: "En desarrollo"
   google_play_coming_soon: "Consíguelo en Google Play — En desarrollo"
   app_store_coming_soon: "Descargar en App Store — En desarrollo"
+  page_kind_support: "Soporte"
+  page_kind_privacy: "Política de privacidad"
+  meta_support: "Soporte de %app%: respuestas a las preguntas frecuentes y cómo contactar con Bartlett Butter."
+  meta_privacy: "Cómo trata %app% tus datos: la política de privacidad completa de Bartlett Butter."
 
 fr:
   skip_to_content: "Aller au contenu"
@@ -72,6 +88,10 @@ fr:
   development_in_progress: "En cours de développement"
   google_play_coming_soon: "Disponible sur Google Play — En cours de développement"
   app_store_coming_soon: "Télécharger sur l’App Store — En cours de développement"
+  page_kind_support: "Assistance"
+  page_kind_privacy: "Politique de confidentialité"
+  meta_support: "Assistance %app% — réponses aux questions fréquentes et comment contacter Bartlett Butter."
+  meta_privacy: "Comment %app% traite vos données — la politique de confidentialité complète de Bartlett Butter."
 
 hi:
   skip_to_content: "सामग्री पर जाएँ"
@@ -87,6 +107,10 @@ hi:
   development_in_progress: "विकास जारी है"
   google_play_coming_soon: "Google Play पर प्राप्त करें — विकास जारी है"
   app_store_coming_soon: "App Store पर डाउनलोड करें — विकास जारी है"
+  page_kind_support: "सहायता"
+  page_kind_privacy: "निजता नीति"
+  meta_support: "%app% सहायता — सामान्य प्रश्नों के उत्तर और Bartlett Butter से संपर्क करने का तरीका।"
+  meta_privacy: "%app% आपके डेटा को कैसे संभालता है — Bartlett Butter की पूरी निजता नीति।"
 
 it:
   skip_to_content: "Vai al contenuto"
@@ -102,6 +126,10 @@ it:
   development_in_progress: "In fase di sviluppo"
   google_play_coming_soon: "Scaricalo su Google Play — In fase di sviluppo"
   app_store_coming_soon: "Scarica su App Store — In fase di sviluppo"
+  page_kind_support: "Supporto"
+  page_kind_privacy: "Informativa sulla privacy"
+  meta_support: "Supporto %app%: risposte alle domande frequenti e come contattare Bartlett Butter."
+  meta_privacy: "Come %app% gestisce i tuoi dati: l'informativa sulla privacy completa di Bartlett Butter."
 
 ja:
   skip_to_content: "コンテンツへ移動"
@@ -117,6 +145,10 @@ ja:
   development_in_progress: "開発中"
   google_play_coming_soon: "Google Playで手に入れる — 開発中"
   app_store_coming_soon: "App Storeでダウンロード — 開発中"
+  page_kind_support: "サポート"
+  page_kind_privacy: "プライバシーポリシー"
+  meta_support: "%app% サポート — よくある質問への回答と Bartlett Butter へのお問い合わせ方法。"
+  meta_privacy: "%app% によるデータの取り扱いについて — Bartlett Butter のプライバシーポリシー全文。"
 
 ko:
   skip_to_content: "콘텐츠로 건너뛰기"
@@ -132,6 +164,10 @@ ko:
   development_in_progress: "개발 진행 중"
   google_play_coming_soon: "Google Play에서 받기 — 개발 진행 중"
   app_store_coming_soon: "App Store에서 다운로드 — 개발 진행 중"
+  page_kind_support: "지원"
+  page_kind_privacy: "개인정보 처리방침"
+  meta_support: "%app% 지원 — 자주 묻는 질문에 대한 답변과 Bartlett Butter 문의 방법."
+  meta_privacy: "%app%이(가) 데이터를 처리하는 방식 — Bartlett Butter의 전체 개인정보 처리방침."
 
 nl:
   skip_to_content: "Ga naar inhoud"
@@ -147,6 +183,10 @@ nl:
   development_in_progress: "In ontwikkeling"
   google_play_coming_soon: "Download op Google Play — In ontwikkeling"
   app_store_coming_soon: "Download in de App Store — In ontwikkeling"
+  page_kind_support: "Ondersteuning"
+  page_kind_privacy: "Privacybeleid"
+  meta_support: "%app% ondersteuning — antwoorden op veelgestelde vragen en hoe je Bartlett Butter bereikt."
+  meta_privacy: "Hoe %app% met je gegevens omgaat — het volledige privacybeleid van Bartlett Butter."
 
 pt:
   skip_to_content: "Ir para o conteúdo"
@@ -162,6 +202,10 @@ pt:
   development_in_progress: "Em desenvolvimento"
   google_play_coming_soon: "Baixe no Google Play — Em desenvolvimento"
   app_store_coming_soon: "Baixar na App Store — Em desenvolvimento"
+  page_kind_support: "Suporte"
+  page_kind_privacy: "Política de Privacidade"
+  meta_support: "Suporte do %app% — respostas às perguntas frequentes e como entrar em contato com a Bartlett Butter."
+  meta_privacy: "Como o %app% trata seus dados — a política de privacidade completa da Bartlett Butter."
 
 ru:
   skip_to_content: "Перейти к содержимому"
@@ -177,6 +221,10 @@ ru:
   development_in_progress: "В разработке"
   google_play_coming_soon: "Скачать в Google Play — В разработке"
   app_store_coming_soon: "Скачать в App Store — В разработке"
+  page_kind_support: "Поддержка"
+  page_kind_privacy: "Политика конфиденциальности"
+  meta_support: "Поддержка %app% — ответы на частые вопросы и способы связаться с Bartlett Butter."
+  meta_privacy: "Как %app% обращается с вашими данными — полная политика конфиденциальности Bartlett Butter."
 
 tr:
   skip_to_content: "İçeriğe atla"
@@ -192,6 +240,10 @@ tr:
   development_in_progress: "Geliştirme aşamasında"
   google_play_coming_soon: "Google Play'de edinin — Geliştirme aşamasında"
   app_store_coming_soon: "App Store'dan indirin — Geliştirme aşamasında"
+  page_kind_support: "Destek"
+  page_kind_privacy: "Gizlilik Politikası"
+  meta_support: "%app% destek — sık sorulan soruların yanıtları ve Bartlett Butter ile iletişim yolları."
+  meta_privacy: "%app% verilerinizi nasıl işler — Bartlett Butter'ın tam gizlilik politikası."
 
 zh-Hans:
   skip_to_content: "跳到内容"
@@ -207,6 +259,10 @@ zh-Hans:
   development_in_progress: "开发中"
   google_play_coming_soon: "在 Google Play 获取 — 开发中"
   app_store_coming_soon: "在 App Store 下载 — 开发中"
+  page_kind_support: "支持"
+  page_kind_privacy: "隐私政策"
+  meta_support: "%app% 支持 — 常见问题解答以及如何联系 Bartlett Butter。"
+  meta_privacy: "%app% 如何处理你的数据 — Bartlett Butter 的完整隐私政策。"
 
 zh-Hant:
   skip_to_content: "跳至內容"
@@ -222,3 +278,7 @@ zh-Hant:
   development_in_progress: "開發中"
   google_play_coming_soon: "在 Google Play 取得 — 開發中"
   app_store_coming_soon: "於 App Store 下載 — 開發中"
+  page_kind_support: "支援"
+  page_kind_privacy: "隱私政策"
+  meta_support: "%app% 支援 — 常見問題解答以及如何聯絡 Bartlett Butter。"
+  meta_privacy: "%app% 如何處理你的資料 — Bartlett Butter 的完整隱私政策。"

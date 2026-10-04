@@ -15,15 +15,15 @@ en:
     # copy. `alt` is a generic, per-screen accessible description.
     alt: "Huepick app screen"
     shots:
-      - /assets/screenshots/huepick/hero/01.png
-      - /assets/screenshots/huepick/hero/02.png
-      - /assets/screenshots/huepick/hero/03.png
-      - /assets/screenshots/huepick/hero/04.png
-      - /assets/screenshots/huepick/hero/05.png
-      - /assets/screenshots/huepick/hero/06.png
-      - /assets/screenshots/huepick/hero/07.png
-      - /assets/screenshots/huepick/hero/08.png
-      - /assets/screenshots/huepick/hero/09.png
+      - /assets/screenshots/huepick/01-inspiration.png
+      - /assets/screenshots/huepick/02-welcome.png
+      - /assets/screenshots/huepick/03-capture.png
+      - /assets/screenshots/huepick/04-palette.png
+      - /assets/screenshots/huepick/05-analysis.png
+      - /assets/screenshots/huepick/06-isolate.png
+      - /assets/screenshots/huepick/07-pixelize.png
+      - /assets/screenshots/huepick/08-blur.png
+      - /assets/screenshots/huepick/09-gallery.png
   showcase:
     label: "See it in action"
     title: "From a single photo to a palette you can actually use"
@@ -65,3 +65,605 @@ en:
         alt: "Gallery grid of saved creations labeled Glitch, Blur, Pixelize, Tritone, and Isolate"
         title: "Keep every creation in one place"
         body: "Each palette and edit you save lives in your gallery. Re-edit, download to your Photos, or share your creations anytime — all stored privately on your device."
+
+zh-Hans:
+  showcase:
+    label: "实际体验"
+    title: "从一张照片，到一套真正用得上的调色板"
+    intro: "Huepick的每一个界面都为快速解答色彩爱好者的问题而设计：这张图片里有哪些颜色，它们为何如此协调，我又能用它们创作出什么？"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "Huepick宣传界面，展示色轮和“将日常灵感化为持久色彩”的标语"
+        title: "将日常灵感化为色彩"
+        body: "一抹夕阳、一面壁画、一块布料小样——任何吸引您目光的事物，都能变成一套可以保存的调色板。Huepick让您轻松捕捉并重复使用身边的色彩。"
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "Huepick欢迎界面，列出分析与提取、创意游乐场、随心定制和您的画廊"
+        title: "Huepick的全部功能，一目了然"
+        body: "打开应用即可开始——无需账户，无需付费。提取调色板、玩转创意效果、微调每一个结果，并将一切保存在您自己的画廊中。"
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "分析界面，提示使用相机或从照片图库选取照片开始"
+        title: "从任意照片开始"
+        body: "用相机拍一张新照片，或从相册中选择一张。Huepick会提取颜色、分析您的调色板，并推荐适合这张图像的创意工具。"
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "从一张树叶照片中提取的十二色调色板，附有十六进制代码和色彩分析概览"
+        title: "瞬间生成十二色调色板"
+        body: "Huepick能瞬间从您的照片中提取多达十二种主色。点按任意色块即可复制其十六进制代码，还能查看包含彩色数量、多样性和色相跨度的概览。"
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "色彩分析，显示色彩丰富度、饱和度、明度和对比度，以及附带匹配度评分的推荐创意工具"
+        title: "读懂色彩协调的奥秘"
+        body: "色彩丰富度、饱和度、明度和对比度的清晰读数，解释了您调色板的氛围。随后Huepick会推荐最可能出彩的创意工具，并为每一款给出匹配度评分。"
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "隔离工具保留一种选定颜色，树叶照片的其余部分变为单色"
+        title: "隔离真正重要的颜色"
+        body: "突出调色板中的特定颜色，让其余一切褪为单色。保留或移除所选颜色，打造引人注目的局部色彩图像。"
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "像素化工具，提供方形、圆形、六边形和心形等色块形状选项，以及色块大小滑块"
+        title: "用色块重塑您的照片"
+        body: "用十种色块形状——方形、圆形、六边形、菱形、星形、心形等——将任意图像变成马赛克，并通过滑块精确调整色块大小。"
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "模糊工具，展示柔和、水平动感、垂直动感、缩放、移轴和散景等样式，以及强度滑块"
+        title: "驾驭柔和梦幻的模糊"
+        body: "从柔和、缩放、移轴和散景等模糊样式中选择，再设置强度，为任意照片增添富有氛围的焦点与层次。"
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "画廊网格中保存的作品，分别标注为故障、模糊、像素化、三色调和隔离"
+        title: "所有创作，集中一处"
+        body: "您保存的每一套调色板和每一次编辑都存放在画廊中。随时重新编辑、下载到“照片”或分享您的创作——全部私密地存储在您的设备上。"
+
+zh-Hant:
+  showcase:
+    label: "實際體驗"
+    title: "從一張照片，到一組真正用得上的調色盤"
+    intro: "Huepick 的每一個畫面都為快速解答色彩愛好者的問題而設計：這張圖片裡有哪些顏色，它們為何如此協調，我又能用它們創作出什麼？"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "Huepick 宣傳畫面，展示色輪與「將日常靈感化為恆久色彩」的標語"
+        title: "將日常靈感化為色彩"
+        body: "一抹夕陽、一面壁畫、一塊布料樣本——任何吸引您目光的事物，都能變成一組可以保存的調色盤。Huepick 讓您輕鬆捕捉並重複使用身邊的色彩。"
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "Huepick 歡迎畫面，列出分析與提取、創意遊樂場、隨心打造與您的畫廊"
+        title: "Huepick 的所有功能，一目了然"
+        body: "打開 App 即可開始——無需帳戶，無需付費。提取調色盤、玩轉創意效果、微調每一個結果，並將一切保存在您自己的畫廊中。"
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "分析畫面，提示使用相機或從照片圖庫挑選照片開始"
+        title: "從任何照片開始"
+        body: "用相機拍一張新照片，或從圖庫中挑選一張。Huepick 會提取顏色、分析您的調色盤，並推薦適合這張影像的創意工具。"
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "從一張樹葉照片提取的十二色調色盤，附有十六進位色碼與色彩分析概覽"
+        title: "瞬間生成十二色調色盤"
+        body: "Huepick 能瞬間從您的照片中提取多達十二種主色。輕點任意色塊即可複製其十六進位色碼，還能查看包含彩色數量、多樣性與色相跨度的概覽。"
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "色彩分析，顯示色彩豐富度、飽和度、明度與對比度，以及附有匹配度評分的推薦創意工具"
+        title: "讀懂色彩協調的奧秘"
+        body: "色彩豐富度、飽和度、明度與對比度的清晰讀數，說明了您調色盤的氛圍。接著 Huepick 會推薦最可能大放異彩的創意工具，並為每一款給出匹配度評分。"
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "隔離工具保留一種選定顏色，樹葉照片的其餘部分轉為單色"
+        title: "隔離真正重要的顏色"
+        body: "突顯調色盤中的特定顏色，讓其餘一切褪為單色。保留或移除所選顏色，打造引人注目的局部色彩影像。"
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "像素化工具，提供方形、圓形、六邊形與心形等色塊形狀選項，以及色塊大小滑桿"
+        title: "用色塊重塑您的照片"
+        body: "以十種色塊形狀——方形、圓形、六邊形、菱形、星形、心形等——將任何影像變成馬賽克，並透過滑桿精確調整色塊大小。"
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "模糊工具，展示柔和、水平動態、垂直動態、縮放、移軸與散景等樣式，以及強度滑桿"
+        title: "駕馭柔和夢幻的模糊"
+        body: "從柔和、縮放、移軸與散景等模糊樣式中選擇，再設定強度，為任何照片增添富有氛圍的焦點與層次。"
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "畫廊網格中儲存的作品，分別標示為故障、模糊、像素化、三色調與隔離"
+        title: "所有創作，集中一處"
+        body: "您儲存的每一組調色盤與每一次編輯都存放在畫廊中。隨時重新編輯、下載到「照片」或分享您的創作——全部私密地儲存在您的裝置上。"
+
+ja:
+  showcase:
+    label: "実際の画面"
+    title: "1枚の写真から、本当に使えるパレットへ"
+    intro: "Huepickのすべての画面は、色を愛する人の疑問にすばやく答えるために作られています。この画像にはどんな色があるのか、何がその調和を生んでいるのか、そしてその色で何が作れるのか。"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "カラーホイールと「日常のインスピレーションを、ずっと残る色に」というコピーを配したHuepickのプロモーション画面"
+        title: "日常のインスピレーションを色に"
+        body: "夕焼け、壁画、布地の見本——目を引いたものなら何でも、保存できるパレットになります。Huepickなら、身の回りの色を手軽に取り込んで、何度でも活用できます。"
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "分析と抽出、クリエイティブプレイグラウンド、自分好みに、あなたのギャラリーが並ぶHuepickのウェルカム画面"
+        title: "Huepickでできることを一目で"
+        body: "アプリを開けばすぐに始められます。アカウントも費用も不要です。パレットを抽出し、クリエイティブな効果で遊び、あらゆる結果を微調整して、すべてを自分だけのギャラリーに保存できます。"
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "カメラまたはフォトライブラリの写真で始めるよう促す分析画面"
+        title: "どんな写真からでも始められる"
+        body: "カメラで新しく撮影するか、ライブラリから1枚選びましょう。Huepickが色を抽出してパレットを分析し、その画像に合ったクリエイティブツールを提案します。"
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "葉の写真から抽出された、16進数コード付きの12色のパレットと色分析の概要"
+        title: "12色のパレットを瞬時に"
+        body: "Huepickは写真から最大12色の主要な色を瞬時に抽出します。スウォッチをタップすれば16進数コードをコピーでき、有彩色の数、多様性、色相の広がりをまとめた概要も確認できます。"
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "色の多様さ、彩度、明度、コントラストに加え、マッチスコア付きのおすすめクリエイティブツールを表示する色分析"
+        title: "色が調和する理由がわかる"
+        body: "色の多様さ、彩度、明度、コントラストをわかりやすく示し、パレットが持つ雰囲気を読み解きます。さらにHuepickが、映える可能性の高いクリエイティブツールをそれぞれマッチスコア付きで提案します。"
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "選んだ1色だけを残し、葉の写真の残りをモノクロにする分離ツール"
+        title: "大切な色だけを際立たせる"
+        body: "パレットの中の特定の色にスポットライトを当て、それ以外をモノクロに。選んだ色を残すことも取り除くこともでき、印象的なパートカラー画像が作れます。"
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "四角、円、六角形、ハートなどのタイル形状の選択肢とタイルサイズのスライダーを備えたピクセル化ツール"
+        title: "写真をタイルで再構築"
+        body: "四角、円、六角形、ひし形、星、ハートなど10種類のタイル形状で、どんな画像もモザイクに。スライダーでタイルサイズを思いどおりに調整できます。"
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "ソフト、水平モーション、垂直モーション、ズーム、ティルトシフト、ボケなどのスタイルと強度スライダーを表示するぼかしツール"
+        title: "やわらかく幻想的なぼかしを自在に"
+        body: "ソフト、ズーム、ティルトシフト、ボケなどのぼかしスタイルから選び、強度を設定して、どんな写真にも雰囲気のあるフォーカスと奥行きを加えましょう。"
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "グリッチ、ぼかし、ピクセル化、トリトーン、分離のラベルが付いた保存済み作品のギャラリーグリッド"
+        title: "すべての作品をひとつの場所に"
+        body: "保存したパレットや編集はすべてギャラリーに残ります。いつでも再編集したり、「写真」にダウンロードしたり、作品を共有したりできます。すべてデバイス内にプライベートに保存されます。"
+
+ko:
+  showcase:
+    label: "실제 화면 보기"
+    title: "사진 한 장에서, 실제로 쓸 수 있는 팔레트까지"
+    intro: "Huepick의 모든 화면은 색을 사랑하는 사람의 질문에 빠르게 답하도록 만들어졌습니다. 이 이미지에는 어떤 색이 있는지, 무엇이 그 색들을 조화롭게 만드는지, 그리고 그 색으로 무엇을 만들 수 있는지 말이죠."
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "컬러 휠과 일상의 영감을 오래 남는 색으로 바꾸세요라는 문구가 담긴 Huepick 홍보 화면"
+        title: "일상의 영감을 색으로"
+        body: "노을, 벽화, 원단 견본 — 눈길을 끄는 무엇이든 간직할 수 있는 팔레트가 됩니다. Huepick으로 주변의 색을 손쉽게 담고 다시 활용하세요."
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "분석 및 추출, 크리에이티브 플레이그라운드, 나만의 스타일로, 내 갤러리가 나열된 Huepick 시작 화면"
+        title: "Huepick의 모든 기능을 한눈에"
+        body: "앱을 열고 바로 시작하세요. 계정도, 비용도 필요 없습니다. 팔레트를 추출하고, 창의적인 효과를 즐기고, 모든 결과를 세밀하게 다듬은 뒤, 전부 나만의 갤러리에 보관하세요."
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "카메라나 사진 보관함의 사진으로 시작하도록 안내하는 분석 화면"
+        title: "어떤 사진으로든 시작하세요"
+        body: "카메라로 새로 촬영하거나 라이브러리에서 한 장을 고르세요. Huepick이 색을 추출하고 팔레트를 분석한 뒤, 이미지에 어울리는 창의적 도구를 추천합니다."
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "나뭇잎 사진에서 추출한 헥스 코드 포함 12색 팔레트와 색상 분석 개요"
+        title: "즉시 완성되는 12색 팔레트"
+        body: "Huepick은 사진에서 최대 12가지 주요 색상을 순식간에 추출합니다. 견본을 탭하면 헥스 코드가 복사되고, 유채색 수, 다양성, 색상 분포 범위를 담은 개요도 볼 수 있습니다."
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "색 다양성, 채도, 명도, 대비와 함께 일치 점수가 표시된 추천 창의적 도구를 보여 주는 색상 분석"
+        title: "조화의 비결을 이해하세요"
+        body: "색 다양성, 채도, 명도, 대비를 명확하게 보여 주어 팔레트의 분위기를 설명합니다. 이어서 Huepick이 가장 돋보일 만한 창의적 도구를 각각의 일치 점수와 함께 추천합니다."
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "선택한 한 가지 색만 남기고 나머지 나뭇잎 사진을 흑백으로 바꾸는 분리 도구"
+        title: "중요한 색만 돋보이게"
+        body: "팔레트에서 원하는 색에만 스포트라이트를 비추고 나머지는 흑백으로 바꾸세요. 선택한 색을 남기거나 제거해 강렬한 부분 컬러 이미지를 만들 수 있습니다."
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "정사각형, 원, 육각형, 하트 등 타일 모양 옵션과 타일 크기 슬라이더가 있는 픽셀화 도구"
+        title: "사진을 타일로 재구성하세요"
+        body: "정사각형, 원, 육각형, 다이아몬드, 별, 하트 등 열 가지 타일 모양으로 어떤 이미지든 모자이크로 바꾸고, 슬라이더로 타일 크기를 원하는 만큼 정확하게 조절하세요."
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "소프트, 수평 모션, 수직 모션, 줌, 틸트 시프트, 보케 등의 스타일과 강도 슬라이더를 보여 주는 흐림 도구"
+        title: "부드럽고 몽환적인 흐림 효과"
+        body: "소프트, 줌, 틸트 시프트, 보케 등의 흐림 스타일 중에서 고르고 강도를 설정해, 어떤 사진에든 분위기 있는 초점과 깊이를 더하세요."
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "글리치, 흐림, 픽셀화, 트라이톤, 분리로 표시된 저장 작품의 갤러리 그리드"
+        title: "모든 작품을 한곳에"
+        body: "저장한 팔레트와 편집본은 모두 갤러리에 보관됩니다. 언제든 다시 편집하거나 사진 앱에 다운로드하거나 작품을 공유하세요. 모두 기기에 비공개로 저장됩니다."
+
+es:
+  showcase:
+    label: "Míralo en acción"
+    title: "De una sola foto a una paleta que realmente puedes usar"
+    intro: "Cada pantalla de Huepick está pensada para responder rápido a las preguntas de quien ama el color: qué colores hay en esta imagen, qué hace que funcionen y qué puedo crear con ellos."
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "Pantalla promocional de Huepick con una rueda de color y la frase convierte la inspiración cotidiana en colores que perduran"
+        title: "Convierte la inspiración cotidiana en color"
+        body: "Un atardecer, un mural, una muestra de tela: cualquier cosa que te llame la atención se convierte en una paleta que puedes conservar. Huepick hace que sea fácil capturar y reutilizar los colores que te rodean."
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "Pantalla de bienvenida de Huepick con Analiza y extrae, Playground creativo, Hazlo tuyo y Tu galería"
+        title: "Todo lo que hace Huepick, de un vistazo"
+        body: "Abre la app y empieza al instante, sin cuenta y sin coste. Extrae paletas, juega con efectos creativos, ajusta cada resultado y guárdalo todo en tu propia galería."
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "Pantalla Analiza que invita a empezar con una foto de la cámara o de la fototeca"
+        title: "Empieza con cualquier foto"
+        body: "Haz una foto nueva con la cámara o elige una de tu galería. Huepick extrae los colores, analiza tu paleta y te recomienda las herramientas creativas que mejor encajan con la imagen."
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "Paleta extraída de doce colores con códigos hex y una vista general del análisis de color de una foto de hojas"
+        title: "Paletas de doce colores al instante"
+        body: "Huepick extrae al instante hasta doce colores dominantes de tu foto. Toca cualquier muestra para copiar su código hex y consulta una vista general con el número de colores cromáticos, la diversidad y la amplitud de matices."
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "Análisis de color con variedad de color, saturación, luminosidad y contraste, además de herramientas creativas recomendadas con puntuación de afinidad"
+        title: "Entiende qué hace que funcione"
+        body: "Lecturas claras de variedad de color, saturación, luminosidad y contraste explican el carácter de tu paleta. Después, Huepick te recomienda las herramientas creativas con más posibilidades de lucirse, cada una con su puntuación de afinidad."
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "Herramienta Aislar que conserva un color seleccionado mientras el resto de la foto de hojas pasa a monocromo"
+        title: "Aísla los colores que importan"
+        body: "Destaca los colores exactos de tu paleta y deja que todo lo demás pase a monocromo. Conserva o elimina los colores seleccionados para crear impactantes imágenes con color selectivo."
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "Herramienta Pixelizar con formas de tesela como cuadrado, círculo, hexágono y corazón, y un control deslizante para el tamaño"
+        title: "Reconstruye tu foto con teselas"
+        body: "Convierte cualquier imagen en un mosaico con diez formas de tesela (cuadrado, círculo, hexágono, rombo, estrella, corazón y más) y un control deslizante para ajustar el tamaño justo como lo quieres."
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "Herramienta Desenfocar con estilos como Suave, Movimiento horizontal, Movimiento vertical, Zoom, Tilt-Shift y Bokeh, y un control deslizante de intensidad"
+        title: "Domina el desenfoque suave y onírico"
+        body: "Elige entre estilos de desenfoque como Suave, Zoom, Tilt-Shift y Bokeh, y ajusta la intensidad para añadir un enfoque atmosférico y profundidad a cualquier foto."
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "Cuadrícula de la galería con creaciones guardadas etiquetadas como Glitch, Desenfocar, Pixelizar, Tritono y Aislar"
+        title: "Todas tus creaciones en un solo lugar"
+        body: "Cada paleta y edición que guardas vive en tu galería. Vuelve a editarlas, descárgalas en Fotos o comparte tus creaciones cuando quieras, todo guardado de forma privada en tu dispositivo."
+
+fr:
+  showcase:
+    label: "Découvrez-le en action"
+    title: "D'une simple photo à une palette vraiment utilisable"
+    intro: "Chaque écran de Huepick est conçu pour répondre vite aux questions des amoureux de la couleur : quelles couleurs contient cette image, qu'est-ce qui les rend harmonieuses, et que puis-je créer avec elles ?"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "Écran promotionnel de Huepick avec une roue chromatique et la phrase transformez l'inspiration du quotidien en couleurs durables"
+        title: "Transformez l'inspiration du quotidien en couleur"
+        body: "Un coucher de soleil, une fresque, un échantillon de tissu : tout ce qui attire votre regard devient une palette à conserver. Huepick vous permet de capturer et de réutiliser facilement les couleurs qui vous entourent."
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "Écran d'accueil de Huepick présentant Analyser et extraire, Playground créatif, Personnalisez-le et Votre galerie"
+        title: "Tout ce que fait Huepick, en un coup d'œil"
+        body: "Ouvrez l'app et commencez tout de suite, sans compte et sans frais. Extrayez des palettes, jouez avec des effets créatifs, peaufinez chaque résultat et conservez le tout dans votre propre galerie."
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "Écran Analyser invitant à commencer avec une photo prise avec l'appareil photo ou choisie dans la photothèque"
+        title: "Commencez avec n'importe quelle photo"
+        body: "Prenez une nouvelle photo avec l'appareil photo ou choisissez-en une dans votre galerie. Huepick extrait les couleurs, analyse votre palette et recommande les outils créatifs adaptés à l'image."
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "Palette extraite de douze couleurs avec codes hexadécimaux et vue d'ensemble de l'analyse des couleurs d'une photo de feuilles"
+        title: "Des palettes de douze couleurs en un instant"
+        body: "Huepick extrait instantanément jusqu'à douze couleurs dominantes de votre photo. Touchez n'importe quel échantillon pour copier son code hexadécimal, et consultez une vue d'ensemble indiquant le nombre de couleurs chromatiques, la diversité et l'étendue des teintes."
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "Analyse des couleurs montrant la variété des couleurs, la saturation, la luminosité et le contraste, ainsi que des outils créatifs recommandés avec un score de compatibilité"
+        title: "Comprenez ce qui fait son harmonie"
+        body: "Des relevés clairs de la variété des couleurs, de la saturation, de la luminosité et du contraste expliquent l'atmosphère de votre palette. Huepick recommande ensuite les outils créatifs les plus susceptibles de briller, chacun avec un score de compatibilité."
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "Outil Isoler conservant une couleur sélectionnée tandis que le reste de la photo de feuilles passe en monochrome"
+        title: "Isolez les couleurs qui comptent"
+        body: "Mettez en lumière les couleurs précises de votre palette et laissez tout le reste basculer en monochrome. Conservez ou retirez les couleurs sélectionnées pour créer des images saisissantes en couleur sélective."
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "Outil Pixeliser avec des formes de tuiles comme le carré, le cercle, l'hexagone et le cœur, et un curseur de taille des tuiles"
+        title: "Recomposez votre photo en tuiles"
+        body: "Transformez n'importe quelle image en mosaïque avec dix formes de tuiles (carré, cercle, hexagone, losange, étoile, cœur et plus encore) et un curseur pour régler la taille des tuiles exactement comme vous le souhaitez."
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "Outil Flouter présentant des styles tels que Doux, Mouvement horizontal, Mouvement vertical, Zoom, Tilt-Shift et Bokeh, avec un curseur d'intensité"
+        title: "Maîtrisez un flou doux et onirique"
+        body: "Choisissez parmi des styles de flou comme Doux, Zoom, Tilt-Shift et Bokeh, puis réglez l'intensité pour ajouter une mise au point atmosphérique et de la profondeur à n'importe quelle photo."
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "Grille de la galerie avec des créations enregistrées intitulées Glitch, Flouter, Pixeliser, Tritone et Isoler"
+        title: "Toutes vos créations au même endroit"
+        body: "Chaque palette et chaque retouche que vous enregistrez se retrouve dans votre galerie. Modifiez-les à nouveau, téléchargez-les dans vos Photos ou partagez vos créations à tout moment, le tout stocké en privé sur votre appareil."
+
+de:
+  showcase:
+    label: "Sieh es in Aktion"
+    title: "Von einem einzigen Foto zu einer Palette, die du wirklich nutzen kannst"
+    intro: "Jeder Bildschirm von Huepick ist darauf ausgelegt, die Fragen von Farbliebhabern schnell zu beantworten: Welche Farben stecken in diesem Bild, was macht sie stimmig, und was kann ich damit gestalten?"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "Huepick-Werbebildschirm mit einem Farbkreis und dem Satz Verwandle alltägliche Inspiration in Farben, die bleiben"
+        title: "Verwandle alltägliche Inspiration in Farbe"
+        body: "Ein Sonnenuntergang, ein Wandbild, ein Stoffmuster – alles, was dir ins Auge fällt, wird zu einer Palette, die du behalten kannst. Mit Huepick hältst du die Farben um dich herum ganz einfach fest und verwendest sie wieder."
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "Huepick-Willkommensbildschirm mit Analysieren und Extrahieren, Kreativer Playground, Mach es zu deinem und Deine Galerie"
+        title: "Alles, was Huepick kann, auf einen Blick"
+        body: "Öffne die App und leg sofort los – ohne Konto, ohne Kosten. Extrahiere Paletten, spiele mit kreativen Effekten, verfeinere jedes Ergebnis und bewahre alles in deiner eigenen Galerie auf."
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "Analysebildschirm mit der Aufforderung, mit einem Foto aus der Kamera oder der Mediathek zu beginnen"
+        title: "Starte mit einem beliebigen Foto"
+        body: "Mach mit der Kamera ein neues Foto oder wähle eines aus deiner Mediathek. Huepick extrahiert die Farben, analysiert deine Palette und empfiehlt die kreativen Werkzeuge, die zum Bild passen."
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "Extrahierte Palette mit zwölf Farben samt Hex-Codes und einer Übersicht der Farbanalyse für ein Foto von Blättern"
+        title: "Zwölf-Farben-Paletten im Handumdrehen"
+        body: "Huepick holt im Nu bis zu zwölf dominierende Farben aus deinem Foto. Tippe auf ein beliebiges Farbfeld, um seinen Hex-Code zu kopieren, und sieh dir eine Übersicht mit der Anzahl bunter Farben, der Diversität und der Farbtonspanne an."
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "Farbanalyse mit Farbvielfalt, Sättigung, Helligkeit und Kontrast sowie empfohlenen kreativen Werkzeugen mit Übereinstimmungswert"
+        title: "Verstehe, was sie stimmig macht"
+        body: "Klare Anzeigen für Farbvielfalt, Sättigung, Helligkeit und Kontrast erklären die Stimmung deiner Palette. Anschließend empfiehlt Huepick die kreativen Werkzeuge, die am ehesten glänzen, jeweils mit einem Übereinstimmungswert."
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "Werkzeug Isolieren, das eine ausgewählte Farbe behält, während der Rest des Blätterfotos monochrom wird"
+        title: "Isoliere die Farben, auf die es ankommt"
+        body: "Rücke genau die Farben aus deiner Palette ins Rampenlicht und lass alles andere monochrom werden. Behalte oder entferne ausgewählte Farben, um eindrucksvolle Color-Key-Bilder zu gestalten."
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "Werkzeug Pixelisieren mit Kachelformen wie Quadrat, Kreis, Sechseck und Herz sowie einem Regler für die Kachelgröße"
+        title: "Setze dein Foto aus Kacheln neu zusammen"
+        body: "Verwandle jedes Bild in ein Mosaik mit zehn Kachelformen – Quadrat, Kreis, Sechseck, Raute, Stern, Herz und mehr – und stelle die Kachelgröße per Regler genau so ein, wie du sie willst."
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "Werkzeug Weichzeichnen mit Stilen wie Weich, Horizontale Bewegung, Vertikale Bewegung, Zoom, Tilt-Shift und Bokeh sowie einem Intensitätsregler"
+        title: "Meistere sanfte, verträumte Unschärfe"
+        body: "Wähle aus Weichzeichnungsstilen wie Weich, Zoom, Tilt-Shift und Bokeh und stelle dann die Intensität ein, um jedem Foto stimmungsvollen Fokus und Tiefe zu verleihen."
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "Galerieraster mit gespeicherten Kreationen, beschriftet mit Glitch, Weichzeichnen, Pixelisieren, Trioton und Isolieren"
+        title: "Alle Kreationen an einem Ort"
+        body: "Jede Palette und jede Bearbeitung, die du speicherst, landet in deiner Galerie. Bearbeite sie erneut, lade sie in Fotos herunter oder teile deine Kreationen jederzeit – alles privat auf deinem Gerät gespeichert."
+
+it:
+  showcase:
+    label: "Guardalo in azione"
+    title: "Da una sola foto a una palette che puoi davvero usare"
+    intro: "Ogni schermata di Huepick è pensata per rispondere in fretta alle domande di chi ama il colore: quali colori ci sono in questa immagine, cosa li rende armoniosi e cosa posso creare con loro?"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "Schermata promozionale di Huepick con una ruota dei colori e la frase trasforma l'ispirazione quotidiana in colori che durano"
+        title: "Trasforma l'ispirazione quotidiana in colore"
+        body: "Un tramonto, un murale, un campione di tessuto: tutto ciò che cattura il tuo sguardo diventa una palette da conservare. Con Huepick è facile catturare e riutilizzare i colori che ti circondano."
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "Schermata di benvenuto di Huepick con Analizza ed estrai, Playground creativo, Rendilo tuo e La tua galleria"
+        title: "Tutto ciò che fa Huepick, a colpo d'occhio"
+        body: "Apri l'app e inizia subito, senza account e senza costi. Estrai palette, gioca con gli effetti creativi, perfeziona ogni risultato e conserva tutto nella tua galleria personale."
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "Schermata Analizza che invita a iniziare con una foto dalla fotocamera o dalla libreria foto"
+        title: "Inizia da qualsiasi foto"
+        body: "Scatta una nuova foto con la fotocamera o scegline una dalla tua libreria. Huepick estrae i colori, analizza la tua palette e consiglia gli strumenti creativi più adatti all'immagine."
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "Palette estratta di dodici colori con codici esadecimali e panoramica dell'analisi del colore per una foto di foglie"
+        title: "Palette di dodici colori all'istante"
+        body: "Huepick estrae all'istante fino a dodici colori dominanti dalla tua foto. Tocca qualsiasi campione per copiarne il codice esadecimale e consulta una panoramica con numero di colori cromatici, diversità e ampiezza delle tinte."
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "Analisi del colore con varietà cromatica, saturazione, luminosità e contrasto, più strumenti creativi consigliati con punteggio di affinità"
+        title: "Scopri cosa la rende armoniosa"
+        body: "Letture chiare di varietà cromatica, saturazione, luminosità e contrasto spiegano l'atmosfera della tua palette. Huepick consiglia poi gli strumenti creativi con più probabilità di brillare, ciascuno con un punteggio di affinità."
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "Strumento Isola che mantiene un colore selezionato mentre il resto della foto di foglie diventa monocromatico"
+        title: "Isola i colori che contano"
+        body: "Metti in risalto i colori esatti della tua palette e lascia che tutto il resto diventi monocromatico. Mantieni o rimuovi i colori selezionati per creare immagini a colore selettivo di grande impatto."
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "Strumento Pixelizza con forme delle tessere come quadrato, cerchio, esagono e cuore, e un cursore per la dimensione delle tessere"
+        title: "Ricostruisci la tua foto a tessere"
+        body: "Trasforma qualsiasi immagine in un mosaico con dieci forme di tessere (quadrato, cerchio, esagono, rombo, stella, cuore e altre) e un cursore per regolare la dimensione delle tessere esattamente come vuoi."
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "Strumento Sfoca con stili come Morbido, Movimento orizzontale, Movimento verticale, Zoom, Tilt-Shift e Bokeh, e un cursore dell'intensità"
+        title: "Padroneggia una sfocatura morbida e sognante"
+        body: "Scegli tra stili di sfocatura come Morbido, Zoom, Tilt-Shift e Bokeh, poi imposta l'intensità per aggiungere una messa a fuoco suggestiva e profondità a qualsiasi foto."
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "Griglia della galleria con creazioni salvate etichettate Glitch, Sfoca, Pixelizza, Tritone e Isola"
+        title: "Tutte le tue creazioni in un unico posto"
+        body: "Ogni palette e ogni modifica che salvi resta nella tua galleria. Rimodificale, scaricale nelle Foto o condividi le tue creazioni quando vuoi, il tutto archiviato in modo privato sul tuo dispositivo."
+
+pt:
+  showcase:
+    label: "Veja em ação"
+    title: "De uma única foto a uma paleta que você realmente pode usar"
+    intro: "Cada tela do Huepick foi pensada para responder rápido às perguntas de quem ama cores: quais cores existem nesta imagem, o que as faz funcionar juntas e o que posso criar com elas?"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "Tela promocional do Huepick com um círculo cromático e a frase transforme a inspiração do dia a dia em cores que duram"
+        title: "Transforme a inspiração do dia a dia em cor"
+        body: "Um pôr do sol, um mural, uma amostra de tecido: qualquer coisa que chame sua atenção vira uma paleta para guardar. O Huepick facilita capturar e reutilizar as cores ao seu redor."
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "Tela de boas-vindas do Huepick listando Analise e extraia, Playground criativo, Deixe do seu jeito e Sua galeria"
+        title: "Tudo o que o Huepick faz, num relance"
+        body: "Abra o app e comece na hora, sem conta e sem custo. Extraia paletas, brinque com efeitos criativos, ajuste cada resultado e guarde tudo na sua própria galeria."
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "Tela Analisar convidando a começar com uma foto da câmera ou da fototeca"
+        title: "Comece com qualquer foto"
+        body: "Tire uma nova foto com a câmera ou escolha uma da sua galeria. O Huepick extrai as cores, analisa sua paleta e recomenda as ferramentas criativas que combinam com a imagem."
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "Paleta extraída de doze cores com códigos hex e uma visão geral da análise de cores de uma foto de folhas"
+        title: "Paletas de doze cores na hora"
+        body: "O Huepick extrai instantaneamente até doze cores dominantes da sua foto. Toque em qualquer amostra para copiar o código hex e confira uma visão geral com a contagem de cores cromáticas, a diversidade e a amplitude de matizes."
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "Análise de cores mostrando variedade de cores, saturação, luminosidade e contraste, além de ferramentas criativas recomendadas com pontuação de compatibilidade"
+        title: "Entenda o que faz tudo funcionar"
+        body: "Leituras claras de variedade de cores, saturação, luminosidade e contraste explicam o clima da sua paleta. Em seguida, o Huepick recomenda as ferramentas criativas com mais chances de brilhar, cada uma com uma pontuação de compatibilidade."
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "Ferramenta Isolar mantendo uma cor selecionada enquanto o restante da foto de folhas fica monocromático"
+        title: "Isole as cores que importam"
+        body: "Destaque as cores exatas da sua paleta e deixe todo o resto ficar monocromático. Mantenha ou remova as cores selecionadas para criar imagens marcantes com cor seletiva."
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "Ferramenta Pixelizar com opções de formato de bloco como quadrado, círculo, hexágono e coração, e um controle deslizante de tamanho do bloco"
+        title: "Reconstrua sua foto em blocos"
+        body: "Transforme qualquer imagem em um mosaico com dez formatos de bloco (quadrado, círculo, hexágono, losango, estrela, coração e mais) e um controle deslizante para ajustar o tamanho do bloco exatamente como você quiser."
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "Ferramenta Desfocar com estilos como Suave, Movimento horizontal, Movimento vertical, Zoom, Tilt-Shift e Bokeh, e um controle deslizante de intensidade"
+        title: "Domine o desfoque suave e sonhador"
+        body: "Escolha entre estilos de desfoque como Suave, Zoom, Tilt-Shift e Bokeh e defina a intensidade para dar foco atmosférico e profundidade a qualquer foto."
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "Grade da galeria com criações salvas identificadas como Glitch, Desfocar, Pixelizar, Tritono e Isolar"
+        title: "Todas as suas criações em um só lugar"
+        body: "Cada paleta e edição que você salva fica na sua galeria. Reedite, baixe para as Fotos ou compartilhe suas criações quando quiser, tudo armazenado de forma privada no seu dispositivo."
+
+ru:
+  showcase:
+    label: "В действии"
+    title: "От одного фото к палитре, которой действительно можно пользоваться"
+    intro: "Каждый экран Huepick создан, чтобы быстро отвечать на вопросы ценителей цвета: какие цвета есть на этом изображении, что делает их гармоничными и что из них можно создать?"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "Рекламный экран Huepick с цветовым кругом и фразой «Превратите повседневное вдохновение в цвета, которые останутся с вами»"
+        title: "Превратите повседневное вдохновение в цвет"
+        body: "Закат, мурал, образец ткани — всё, что привлекло ваш взгляд, становится палитрой, которую можно сохранить. С Huepick легко запечатлеть окружающие вас цвета и использовать их снова."
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "Приветственный экран Huepick с пунктами «Анализ и извлечение», «Творческий Playground», «Сделайте по-своему» и «Ваша галерея»"
+        title: "Все возможности Huepick с первого взгляда"
+        body: "Откройте приложение и сразу начинайте — без учётной записи и без оплаты. Извлекайте палитры, экспериментируйте с творческими эффектами, настраивайте каждый результат и храните всё в собственной галерее."
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "Экран «Анализ» с предложением начать с фото с камеры или из медиатеки"
+        title: "Начните с любого фото"
+        body: "Сделайте новый снимок камерой или выберите фото из библиотеки. Huepick извлечёт цвета, проанализирует вашу палитру и порекомендует творческие инструменты, подходящие для этого изображения."
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "Извлечённая палитра из двенадцати цветов с hex-кодами и обзор цветового анализа для фото листьев"
+        title: "Палитры из двенадцати цветов мгновенно"
+        body: "Huepick мгновенно извлекает из вашего фото до двенадцати доминирующих цветов. Коснитесь любого образца, чтобы скопировать его hex-код, и посмотрите обзор с числом хроматических цветов, разнообразием и разбросом оттенков."
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "Цветовой анализ с показателями разнообразия цветов, насыщенности, светлоты и контраста, а также рекомендуемые творческие инструменты с оценкой соответствия"
+        title: "Поймите, в чём секрет гармонии"
+        body: "Наглядные показатели разнообразия цветов, насыщенности, светлоты и контраста объясняют настроение вашей палитры. Затем Huepick рекомендует творческие инструменты, которые раскроют её лучше всего, — каждый с оценкой соответствия."
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "Инструмент «Изоляция» сохраняет один выбранный цвет, а остальная часть фото листьев становится монохромной"
+        title: "Выделите главные цвета"
+        body: "Направьте внимание на конкретные цвета из вашей палитры, а всё остальное сделайте монохромным. Сохраняйте или убирайте выбранные цвета, чтобы создавать эффектные изображения с выборочным цветом."
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "Инструмент «Пикселизация» с вариантами формы плиток, такими как квадрат, круг, шестиугольник и сердце, и ползунком размера плитки"
+        title: "Соберите фото из плиток"
+        body: "Превратите любое изображение в мозаику с десятью формами плиток — квадрат, круг, шестиугольник, ромб, звезда, сердце и другие — и точно настройте размер плитки ползунком."
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "Инструмент «Размытие» со стилями «Мягкое», «Горизонтальное движение», «Вертикальное движение», «Зум», «Tilt-Shift» и «Боке» и ползунком интенсивности"
+        title: "Мягкое, мечтательное размытие"
+        body: "Выберите стиль размытия, например «Мягкое», «Зум», «Tilt-Shift» или «Боке», и задайте интенсивность, чтобы придать любому фото атмосферный фокус и глубину."
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "Сетка галереи с сохранёнными творениями с подписями «Глитч», «Размытие», «Пикселизация», «Трёхцветность» и «Изоляция»"
+        title: "Все творения в одном месте"
+        body: "Каждая сохранённая палитра и правка хранится в вашей галерее. Редактируйте заново, скачивайте в «Фото» или делитесь творениями в любой момент — всё хранится приватно на вашем устройстве."
+
+ar:
+  showcase:
+    label: "شاهده أثناء العمل"
+    title: "من صورة واحدة إلى لوحة ألوان يمكنك استخدامها فعلًا"
+    intro: "صُممت كل شاشة في Huepick لتجيب بسرعة عن أسئلة عشّاق الألوان: ما الألوان الموجودة في هذه الصورة، وما الذي يجعلها متناغمة، وماذا يمكنني أن أبدع بها؟"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "شاشة ترويجية لتطبيق Huepick تعرض عجلة ألوان وعبارة حوّل الإلهام اليومي إلى ألوان تدوم"
+        title: "حوّل الإلهام اليومي إلى ألوان"
+        body: "غروب شمس، أو جدارية، أو عيّنة قماش — كل ما يلفت نظرك يصبح لوحة ألوان يمكنك الاحتفاظ بها. يجعل Huepick التقاط الألوان من حولك وإعادة استخدامها أمرًا سهلًا."
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "شاشة الترحيب في Huepick تعرض التحليل والاستخراج، وساحة اللعب الإبداعية، واجعله خاصًا بك، ومعرضك"
+        title: "كل ما يقدّمه Huepick في لمحة"
+        body: "افتح التطبيق وابدأ فورًا، دون حساب ودون أي تكلفة. استخرج لوحات الألوان، وجرّب التأثيرات الإبداعية، واضبط كل نتيجة بدقة، واحتفظ بكل شيء في معرضك الخاص."
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "شاشة التحليل تدعو إلى البدء بصورة من الكاميرا أو من مكتبة الصور"
+        title: "ابدأ بأي صورة"
+        body: "التقط صورة جديدة بالكاميرا أو اختر واحدة من مكتبتك. يستخرج Huepick الألوان، ويحلّل لوحة ألوانك، ويوصي بالأدوات الإبداعية التي تناسب الصورة."
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "لوحة مستخرجة من اثني عشر لونًا مع رموز hex ونظرة عامة على تحليل الألوان لصورة أوراق شجر"
+        title: "لوحات من اثني عشر لونًا في لحظة"
+        body: "يستخرج Huepick في لحظة ما يصل إلى اثني عشر لونًا سائدًا من صورتك. انقر على أي عيّنة لنسخ رمز hex الخاص بها، واطّلع على نظرة عامة تضم عدد الألوان الكروماتية ودرجة التنوّع ومدى انتشار درجات اللون."
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "تحليل الألوان يعرض تنوّع الألوان والتشبّع والإضاءة والتباين، إلى جانب أدوات إبداعية موصى بها مع درجات التوافق"
+        title: "افهم سرّ تناغمها"
+        body: "قراءات واضحة لتنوّع الألوان والتشبّع والإضاءة والتباين تشرح الطابع العام للوحة ألوانك. ثم يوصي Huepick بالأدوات الإبداعية الأكثر قدرة على التألّق، ولكلٍّ منها درجة توافق."
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "أداة العزل تُبقي على لون واحد محدد بينما يتحوّل باقي صورة الأوراق إلى أحادي اللون"
+        title: "اعزل الألوان المهمة"
+        body: "سلّط الضوء على الألوان المحددة من لوحتك ودع كل ما عداها يتحوّل إلى أحادي اللون. أبقِ الألوان المحددة أو أزلها لتصنع صورًا لافتة بألوان انتقائية."
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "أداة البكسلة مع خيارات لشكل البلاطات مثل المربع والدائرة والسداسي والقلب، وشريط تمرير لحجم البلاطة"
+        title: "أعد بناء صورتك بالبلاطات"
+        body: "حوّل أي صورة إلى فسيفساء بعشرة أشكال للبلاطات — المربع والدائرة والسداسي والمعيّن والنجمة والقلب وغيرها — مع شريط تمرير لضبط حجم البلاطة تمامًا كما تريد."
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "أداة التمويه تعرض أنماطًا منها الناعم، والحركة الأفقية، والحركة العمودية، والتكبير، وTilt-Shift، والبوكيه، مع شريط تمرير للشدة"
+        title: "أتقن التمويه الناعم الحالم"
+        body: "اختر من بين أنماط التمويه مثل الناعم، والتكبير، وTilt-Shift، والبوكيه، ثم اضبط الشدة لتضيف تركيزًا مفعمًا بالأجواء وعمقًا إلى أي صورة."
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "شبكة المعرض بأعمال محفوظة تحمل تسميات الخلل، والتمويه، والبكسلة، والثلاثي اللون، والعزل"
+        title: "كل أعمالك في مكان واحد"
+        body: "كل لوحة ألوان وكل تعديل تحفظه يبقى في معرضك. أعد تحريرها، أو نزّلها إلى الصور، أو شارك أعمالك في أي وقت — وكل ذلك محفوظ بخصوصية على جهازك."
+
+hi:
+  showcase:
+    label: "इसे काम करते देखें"
+    title: "एक तस्वीर से ऐसे पैलेट तक, जिसे आप सच में इस्तेमाल कर सकें"
+    intro: "Huepick की हर स्क्रीन रंग-प्रेमियों के सवालों का तेज़ी से जवाब देने के लिए बनी है: इस तस्वीर में कौन-से रंग हैं, उन्हें असरदार क्या बनाता है, और मैं उनसे क्या बना सकता हूँ?"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "रंग चक्र और रोज़मर्रा की प्रेरणा को टिकाऊ रंगों में बदलें पंक्ति वाली Huepick की प्रचार स्क्रीन"
+        title: "रोज़मर्रा की प्रेरणा को रंग में बदलें"
+        body: "ढलता सूरज, कोई भित्ति-चित्र, कपड़े का एक नमूना — जो कुछ भी आपकी नज़र खींचे, वह एक ऐसा पैलेट बन जाता है जिसे आप सहेज सकें। Huepick आपके आस-पास के रंगों को कैप्चर करना और दोबारा इस्तेमाल करना आसान बनाता है।"
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "विश्लेषण और निष्कर्षण, क्रिएटिव प्लेग्राउंड, इसे अपना बनाएँ और आपकी गैलरी दिखाती Huepick की स्वागत स्क्रीन"
+        title: "Huepick की हर सुविधा, एक नज़र में"
+        body: "ऐप खोलें और तुरंत शुरू करें — कोई खाता नहीं, कोई शुल्क नहीं। पैलेट निकालें, रचनात्मक प्रभावों के साथ प्रयोग करें, हर परिणाम को बारीकी से समायोजित करें, और सब कुछ अपनी गैलरी में रखें।"
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "कैमरा या फ़ोटो लाइब्रेरी से तस्वीर लेकर शुरू करने के लिए कहती विश्लेषण स्क्रीन"
+        title: "किसी भी तस्वीर से शुरू करें"
+        body: "कैमरे से नई तस्वीर लें या अपनी लाइब्रेरी से कोई चुनें। Huepick रंग निकालता है, आपके पैलेट का विश्लेषण करता है, और तस्वीर के अनुरूप रचनात्मक उपकरण सुझाता है।"
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "पत्तियों की तस्वीर से निकाला गया हेक्स कोड सहित बारह रंगों का पैलेट और रंग विश्लेषण का अवलोकन"
+        title: "पल भर में बारह रंगों के पैलेट"
+        body: "Huepick पल भर में आपकी तस्वीर से बारह प्रमुख रंगों तक निकाल लेता है। किसी भी स्वैच पर टैप करके उसका हेक्स कोड कॉपी करें, और क्रोमैटिक रंगों की गिनती, विविधता और ह्यू स्प्रेड वाला अवलोकन देखें।"
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "रंगों की विविधता, संतृप्ति, चमक और कंट्रास्ट के साथ मैच स्कोर वाले सुझाए गए रचनात्मक उपकरण दिखाता रंग विश्लेषण"
+        title: "समझें कि यह क्यों जँचता है"
+        body: "रंगों की विविधता, संतृप्ति, चमक और कंट्रास्ट के स्पष्ट रीड-आउट आपके पैलेट के मिज़ाज को समझाते हैं। फिर Huepick उन रचनात्मक उपकरणों का सुझाव देता है जिनके सबसे ज़्यादा निखरने की संभावना है, हर एक के मैच स्कोर के साथ।"
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "आइसोलेट उपकरण, जो एक चुने हुए रंग को बनाए रखता है जबकि पत्तियों की बाकी तस्वीर मोनोक्रोम हो जाती है"
+        title: "ज़रूरी रंगों को अलग करें"
+        body: "अपने पैलेट के ठीक उन्हीं रंगों पर रोशनी डालें और बाकी सब को मोनोक्रोम होने दें। चुने गए रंगों को रखें या हटाएँ और आकर्षक सेलेक्टिव-कलर तस्वीरें बनाएँ।"
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "वर्ग, वृत्त, षट्भुज और दिल जैसे टाइल आकार विकल्पों और टाइल आकार स्लाइडर वाला पिक्सलाइज़ उपकरण"
+        title: "अपनी तस्वीर को टाइलों में फिर से गढ़ें"
+        body: "दस टाइल आकारों — वर्ग, वृत्त, षट्भुज, हीरा, तारा, दिल और भी बहुत कुछ — से किसी भी तस्वीर को मोज़ेक में बदलें, और स्लाइडर से टाइल का आकार ठीक वैसा ही सेट करें जैसा आप चाहें।"
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "सॉफ़्ट, H-मोशन, V-मोशन, ज़ूम, टिल्ट-शिफ़्ट और बोकेह जैसी शैलियों और तीव्रता स्लाइडर वाला ब्लर उपकरण"
+        title: "कोमल, स्वप्निल ब्लर में महारत पाएँ"
+        body: "सॉफ़्ट, ज़ूम, टिल्ट-शिफ़्ट और बोकेह जैसी ब्लर शैलियों में से चुनें, फिर तीव्रता सेट करके किसी भी तस्वीर में माहौल भरा फ़ोकस और गहराई जोड़ें।"
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "ग्लिच, ब्लर, पिक्सलाइज़, ट्राइटोन और आइसोलेट लेबल वाली सहेजी गई रचनाओं का गैलरी ग्रिड"
+        title: "हर रचना एक ही जगह"
+        body: "आपके द्वारा सहेजा गया हर पैलेट और हर संपादन आपकी गैलरी में रहता है। कभी भी दोबारा संपादित करें, Photos में डाउनलोड करें, या अपनी रचनाएँ साझा करें — सब कुछ आपके डिवाइस पर निजी रूप से संग्रहीत।"
+
+nl:
+  showcase:
+    label: "Zie het in actie"
+    title: "Van één foto naar een palet dat je echt kunt gebruiken"
+    intro: "Elk scherm van Huepick is gemaakt om de vragen van kleurliefhebbers snel te beantwoorden: welke kleuren zitten er in deze afbeelding, waarom werken ze zo goed samen en wat kan ik ermee maken?"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "Promotiescherm van Huepick met een kleurenwiel en de zin verander alledaagse inspiratie in kleuren die blijven"
+        title: "Verander alledaagse inspiratie in kleur"
+        body: "Een zonsondergang, een muurschildering, een stoffenstaal: alles wat je oog trekt, wordt een palet dat je kunt bewaren. Met Huepick leg je de kleuren om je heen moeiteloos vast en gebruik je ze opnieuw."
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "Welkomstscherm van Huepick met Analyseren en extraheren, Creatieve playground, Maak het van jou en Jouw galerij"
+        title: "Alles wat Huepick doet, in één oogopslag"
+        body: "Open de app en ga meteen aan de slag, zonder account en zonder kosten. Extraheer paletten, speel met creatieve effecten, verfijn elk resultaat en bewaar alles in je eigen galerij."
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "Analysescherm dat vraagt om te beginnen met een foto via de camera of de fotobibliotheek"
+        title: "Begin met elke foto"
+        body: "Maak een nieuwe foto met de camera of kies er een uit je bibliotheek. Huepick extraheert de kleuren, analyseert je palet en beveelt de creatieve hulpmiddelen aan die bij de afbeelding passen."
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "Geëxtraheerd palet van twaalf kleuren met hexcodes en een overzicht van de kleuranalyse voor een foto van bladeren"
+        title: "Direct paletten van twaalf kleuren"
+        body: "Huepick haalt in een oogwenk tot twaalf dominante kleuren uit je foto. Tik op een willekeurig staal om de hexcode te kopiëren en bekijk een overzicht met het aantal chromatische kleuren, de diversiteit en de kleurtoonspreiding."
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "Kleuranalyse met kleurvariatie, verzadiging, lichtheid en contrast, plus aanbevolen creatieve hulpmiddelen met matchscore"
+        title: "Begrijp waarom het werkt"
+        body: "Heldere aflezingen van kleurvariatie, verzadiging, lichtheid en contrast verklaren de sfeer van je palet. Daarna beveelt Huepick de creatieve hulpmiddelen aan die het meest tot hun recht komen, elk met een matchscore."
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "Hulpmiddel Isoleren dat één geselecteerde kleur behoudt terwijl de rest van de bladerenfoto monochroom wordt"
+        title: "Isoleer de kleuren die ertoe doen"
+        body: "Zet precies de kleuren uit je palet in de spotlight en laat al het andere monochroom worden. Behoud of verwijder geselecteerde kleuren om opvallende beelden met selectieve kleur te maken."
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "Hulpmiddel Pixeliseren met tegelvormen zoals vierkant, cirkel, zeshoek en hart, en een schuifregelaar voor de tegelgrootte"
+        title: "Bouw je foto opnieuw op in tegels"
+        body: "Verander elke afbeelding in een mozaïek met tien tegelvormen (vierkant, cirkel, zeshoek, ruit, ster, hart en meer) en stel met een schuifregelaar de tegelgrootte precies in zoals jij wilt."
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "Hulpmiddel Vervagen met stijlen zoals Zacht, Horizontale beweging, Verticale beweging, Zoom, Tilt-shift en Bokeh, en een schuifregelaar voor de intensiteit"
+        title: "Beheers zachte, dromerige vervaging"
+        body: "Kies uit vervagingsstijlen zoals Zacht, Zoom, Tilt-shift en Bokeh en stel de intensiteit in om elke foto sfeervolle focus en diepte te geven."
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "Galerijraster met bewaarde creaties met de labels Glitch, Vervagen, Pixeliseren, Tritoon en Isoleren"
+        title: "Al je creaties op één plek"
+        body: "Elk palet en elke bewerking die je bewaart, staat in je galerij. Bewerk ze opnieuw, download ze naar Foto's of deel je creaties wanneer je maar wilt, allemaal privé opgeslagen op je apparaat."
+
+tr:
+  showcase:
+    label: "İş başında görün"
+    title: "Tek bir fotoğraftan gerçekten kullanabileceğiniz bir palete"
+    intro: "Huepick'in her ekranı, renk tutkunlarının sorularını hızla yanıtlamak için tasarlandı: Bu görüntüde hangi renkler var, onları uyumlu kılan ne ve onlarla neler yaratabilirim?"
+    shots:
+      - image: /assets/screenshots/huepick/01-inspiration.png
+        alt: "Renk çarkı ve gündelik ilhamı kalıcı renklere dönüştürün yazısının yer aldığı Huepick tanıtım ekranı"
+        title: "Gündelik ilhamı renge dönüştürün"
+        body: "Bir gün batımı, bir duvar resmi, bir kumaş örneği; gözünüze çarpan her şey saklayabileceğiniz bir palete dönüşür. Huepick, çevrenizdeki renkleri yakalamayı ve yeniden kullanmayı kolaylaştırır."
+      - image: /assets/screenshots/huepick/02-welcome.png
+        alt: "Analiz Et ve Çıkar, Yaratıcı Playground, Kendinize Göre Uyarlayın ve Galeriniz seçeneklerini listeleyen Huepick karşılama ekranı"
+        title: "Huepick'in yaptığı her şey bir bakışta"
+        body: "Uygulamayı açın ve hemen başlayın; hesap yok, ücret yok. Paletler çıkarın, yaratıcı efektlerle oynayın, her sonucu ince ayarlayın ve hepsini kendi galerinizde saklayın."
+      - image: /assets/screenshots/huepick/03-capture.png
+        alt: "Kamerayla veya fotoğraf kitaplığından bir fotoğrafla başlamanızı isteyen Analiz ekranı"
+        title: "Herhangi bir fotoğrafla başlayın"
+        body: "Kamerayla yeni bir fotoğraf çekin ya da kitaplığınızdan bir tane seçin. Huepick renkleri çıkarır, paletinizi analiz eder ve görüntüye uygun yaratıcı araçları önerir."
+      - image: /assets/screenshots/huepick/04-palette.png
+        alt: "Bir yaprak fotoğrafından çıkarılmış, hex kodlarıyla birlikte on iki renkli palet ve renk analizi genel bakışı"
+        title: "Anında on iki renkli paletler"
+        body: "Huepick, fotoğrafınızdan on iki adede kadar baskın rengi anında çıkarır. Hex kodunu kopyalamak için herhangi bir renk örneğine dokunun; kromatik renk sayısı, çeşitlilik ve renk tonu yayılımını içeren genel bakışı görün."
+      - image: /assets/screenshots/huepick/05-analysis.png
+        alt: "Renk çeşitliliği, doygunluk, açıklık ve kontrastın yanı sıra eşleşme puanlı önerilen yaratıcı araçları gösteren renk analizi"
+        title: "Uyumun sırrını anlayın"
+        body: "Renk çeşitliliği, doygunluk, açıklık ve kontrast için net okumalar paletinizin havasını açıklar. Ardından Huepick, en çok parlayacak yaratıcı araçları her birinin eşleşme puanıyla birlikte önerir."
+      - image: /assets/screenshots/huepick/06-isolate.png
+        alt: "Seçilen tek bir rengi koruyup yaprak fotoğrafının geri kalanını tek renkli hale getiren İzole aracı"
+        title: "Önemli renkleri öne çıkarın"
+        body: "Paletinizdeki renklerden tam istediklerinizi öne çıkarın, geri kalan her şeyi tek renkli bırakın. Seçili renkleri koruyarak ya da kaldırarak çarpıcı seçici renk görüntüleri oluşturun."
+      - image: /assets/screenshots/huepick/07-pixelize.png
+        alt: "Kare, daire, altıgen ve kalp gibi karo şekli seçenekleri ve karo boyutu kaydırıcısı bulunan Pikselleştir aracı"
+        title: "Fotoğrafınızı karolarla yeniden oluşturun"
+        body: "Kare, daire, altıgen, elmas, yıldız, kalp ve daha fazlası olmak üzere on karo şekliyle herhangi bir görüntüyü mozaiğe dönüştürün; karo boyutunu bir kaydırıcıyla tam istediğiniz gibi ayarlayın."
+      - image: /assets/screenshots/huepick/08-blur.png
+        alt: "Yumuşak, Yatay Hareket, Dikey Hareket, Zoom, Tilt-Shift ve Bokeh gibi stiller ile yoğunluk kaydırıcısını gösteren Bulanıklaştır aracı"
+        title: "Yumuşak, rüya gibi bulanıklıkta ustalaşın"
+        body: "Yumuşak, Zoom, Tilt-Shift ve Bokeh gibi bulanıklık stilleri arasından seçim yapın, ardından yoğunluğu ayarlayarak herhangi bir fotoğrafa atmosferik odak ve derinlik katın."
+      - image: /assets/screenshots/huepick/09-gallery.png
+        alt: "Glitch, Bulanıklaştır, Pikselleştir, Tritone ve İzole etiketli kayıtlı oluşturmaların yer aldığı galeri ızgarası"
+        title: "Tüm oluşturmalarınız tek bir yerde"
+        body: "Kaydettiğiniz her palet ve düzenleme galerinizde yer alır. İstediğiniz zaman yeniden düzenleyin, Fotoğraflar'a indirin veya oluşturmalarınızı paylaşın; hepsi cihazınızda gizli olarak saklanır."

@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         window.scrollTo({
           top: targetPosition,
-          behavior: 'smooth'
+          behavior: prefersReducedMotion ? 'auto' : 'smooth'
         });
 
         // Move keyboard focus to the target so anchor/skip-link navigation
@@ -162,10 +162,14 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
       }
 
-      // Trap Tab within the open menu (hamburger + links) so focus doesn't
-      // drift to page content hidden behind the overlay.
+      // Trap Tab within the open menu (hamburger + every visible control,
+      // including the language picker) so focus doesn't drift to page
+      // content hidden behind the overlay.
       if (e.key === 'Tab') {
-        const focusables = [hamburger].concat(menuLinks);
+        const focusables = [hamburger].concat(
+          Array.from(navLinks.querySelectorAll('a[href], button, summary'))
+            .filter(el => el.offsetParent !== null)
+        );
         const first = focusables[0];
         const last = focusables[focusables.length - 1];
         if (e.shiftKey && document.activeElement === first) {

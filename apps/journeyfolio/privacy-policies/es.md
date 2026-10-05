@@ -47,7 +47,7 @@ Cuando añades un destino o buscas lugares, tus consultas de búsqueda se envía
 
 | Permiso | Cuándo se Solicita | Propósito | ¿Los Datos Salen del Dispositivo? |
 |---------|--------------------|-----------|-----------------------------------|
-| Cámara | Cuando fotografías un documento | Adjuntar documentos de viaje a las actividades | No — procesado en el dispositivo mediante OCR |
+| Cámara | Cuando fotografías un documento | Adjuntar documentos de viaje a las actividades | No, procesado en el dispositivo mediante OCR |
 | Biblioteca de Fotos | Cuando importas una imagen existente | Adjuntar imágenes guardadas a las actividades | No |
 
 Ambos permisos son opcionales. La aplicación funciona completamente sin ellos. Ninguna imagen se sube nunca a servidores externos.

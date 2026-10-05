@@ -35,9 +35,9 @@ Ja. Keine In-App-Käufe, keine Abonnements, keine Werbung. Jede Funktion ist ab 
 
 ### Was sind die drei Tabs?
 
-- **Analysieren** — mach oder wähle ein Foto, extrahiere eine 12-Farben-Palette, sieh dir eine detaillierte Farbanalyse an und erhalte personalisierte Vorschläge für kreative Werkzeuge
-- **Playground** — verwandle dein Foto mit sechs kreativen Werkzeugen (Isolieren, Duoton, Trioton, Pixelisieren, Weichzeichnen, Glitch)
-- **Galerie** — durchstöbere, bearbeite erneut, lade herunter oder teile deine gespeicherten Kreationen
+- **Analysieren**: Mach oder wähle ein Foto, extrahiere eine 12-Farben-Palette, sieh dir eine detaillierte Farbanalyse an und erhalte personalisierte Vorschläge für kreative Werkzeuge
+- **Playground**: Verwandle dein Foto mit sechs kreativen Werkzeugen (Isolieren, Duoton, Trioton, Pixelisieren, Weichzeichnen, Glitch)
+- **Galerie**: Durchstöbere, bearbeite erneut, lade herunter oder teile deine gespeicherten Kreationen
 
 ### Wie funktioniert die Farbanalyse?
 
@@ -49,12 +49,12 @@ Tippe auf ein beliebiges Farbmuster. Eine kurze Bestätigung erscheint, um dir m
 
 ### Was sind die kreativen Werkzeuge im Playground?
 
-- **Isolieren** — behalte ausgewählte Farben lebendig, während der Rest in Graustufen übergeht (oder umgekehrt)
-- **Duoton** — bilde dein Bild auf zwei Töne ab, für einen kräftigen, redaktionellen Look
-- **Trioton** — bilde dein Bild auf drei Töne ab, für einen reicheren, abgestuften Look
-- **Pixelisieren** — verwandle in ein Mosaik aus geometrischen Kacheln mit anpassbarer Kachelgröße
-- **Weichzeichnen** — füge einen sanften, verträumten Fokus mit einer Auswahl an Weichzeichnungsstilen und anpassbarer Intensität hinzu
-- **Glitch** — wende RGB-Kanaltrennung und digitale Verzerrung an
+- **Isolieren**: Behalte ausgewählte Farben lebendig, während der Rest in Graustufen übergeht (oder umgekehrt)
+- **Duoton**: Bilde dein Bild auf zwei Töne ab, für einen kräftigen, redaktionellen Look
+- **Trioton**: Bilde dein Bild auf drei Töne ab, für einen reicheren, abgestuften Look
+- **Pixelisieren**: Verwandle in ein Mosaik aus geometrischen Kacheln mit anpassbarer Kachelgröße
+- **Weichzeichnen**: Füge einen sanften, verträumten Fokus mit einer Auswahl an Weichzeichnungsstilen und anpassbarer Intensität hinzu
+- **Glitch**: Wende RGB-Kanaltrennung und digitale Verzerrung an
 
 ### Wie speichere ich eine Kreation?
 

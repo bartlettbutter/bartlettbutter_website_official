@@ -37,15 +37,15 @@ Barkpedia, AKC standartlarına dayanarak 147 ırkı tanımlar.
 
 Keşfet, ırkları keşfetmenin iki yolunu sunar:
 
-- **Arama** — 147 ırkın tamamında anında filtreleme için herhangi bir ırk adı yazın.
-- **Dünya Haritası** — Irk kökenlerini ülkeye göre gösteren etkileşimli bir haritaya göz atın. O bölgeden hangi ırkların geldiğini görmek için bir işaretçiye dokunun. Haritayı tam ekran görüntülemek için genişletme düğmesini kullanın.
+- **Arama**: 147 ırkın tamamında anında filtreleme için herhangi bir ırk adı yazın.
+- **Dünya Haritası**: Irk kökenlerini ülkeye göre gösteren etkileşimli bir haritaya göz atın. O bölgeden hangi ırkların geldiğini görmek için bir işaretçiye dokunun. Haritayı tam ekran görüntülemek için genişletme düğmesini kullanın.
 
 Hem arama hem de harita çevrimdışı çalışır.
 
 ### Sınav ve Bilgi Yarışması oyunları nasıl çalışır?
 
-- **Irk Yarışması** — Size bir köpek fotoğrafı gösterilir ve dört seçenekten doğru ırkı seçersiniz. Her turda 10 soru vardır. Puanınıza göre ödül unvanları kazanın.
-- **Köpek Bilgi Yarışması** — Gerçek köpek gerçeklerini akla yatkın efsanelerle karıştıran doğru-yanlış ifadeleri. Bu da tur başına 10 soru, ödül unvanlarıyla.
+- **Irk Yarışması**: Size bir köpek fotoğrafı gösterilir ve dört seçenekten doğru ırkı seçersiniz. Her turda 10 soru vardır. Puanınıza göre ödül unvanları kazanın.
+- **Köpek Bilgi Yarışması**: Gerçek köpek gerçeklerini akla yatkın efsanelerle karıştıran doğru-yanlış ifadeleri. Bu da tur başına 10 soru, ödül unvanlarıyla.
 
 Irk Yarışması, fotoğrafları yüklemek için internet bağlantısı gerektirir. Köpek Bilgi Yarışması tamamen çevrimdışı çalışır.
 

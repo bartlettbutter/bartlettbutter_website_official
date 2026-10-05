@@ -11,13 +11,13 @@ redirect_from:
 
 # Wie können wir helfen?
 
-Wir entwickeln TrafficVibe, um deine Morgen ruhiger zu machen, und die Nutzung soll sich genauso anfühlen. Die meisten Fragen werden unten beantwortet – und falls deine nicht dabei ist, ist ein echter Mensch nur eine E-Mail entfernt und hilft immer gern.
+Wir entwickeln TrafficVibe, um deine Morgen ruhiger zu machen, und die Nutzung soll sich genauso anfühlen. Die meisten Fragen werden unten beantwortet, und falls deine nicht dabei ist, ist ein echter Mensch nur eine E-Mail entfernt und hilft immer gern.
 
 ## Erste Schritte
 
 ### Was ist das Morgen-Briefing?
 
-Wenn du TrafficVibe öffnest, siehst du als Erstes eine Einschätzung deines Wegs in klarer Sprache, mit dem wichtigsten Punkt zuerst – wie der Verkehr läuft, was dich ausbremst und ob jetzt ein guter Zeitpunkt zum Losfahren ist. Es gibt keine Anzeigen zu entschlüsseln; es sagt dir einfach, wie deine Fahrt aussieht und was zu tun ist.
+Wenn du TrafficVibe öffnest, siehst du als Erstes eine Einschätzung deines Wegs in klarer Sprache, mit dem wichtigsten Punkt zuerst: wie der Verkehr läuft, was dich ausbremst und ob jetzt ein guter Zeitpunkt zum Losfahren ist. Es gibt keine Anzeigen zu entschlüsseln; es sagt dir einfach, wie deine Fahrt aussieht und was zu tun ist.
 
 ### Woher weiß TrafficVibe den besten Zeitpunkt zum Losfahren?
 
@@ -35,11 +35,11 @@ TrafficVibe ist im App Store kostenlos. Es gibt keine Abos, keine In-App-Käufe 
 
 ### Was bedeuten die Farben?
 
-Jeder Index ist auf einen Blick lesbar: grün für gut oder frei, gelb für Vorsicht oder mäßig, rot für schlecht oder sofort handeln. Eine bestimmte Farbe bedeutet in jeder Stadt dasselbe – nur der Wortlaut des Hinweises passt sich deiner Situation an.
+Jeder Index ist auf einen Blick lesbar: grün für gut oder frei, gelb für Vorsicht oder mäßig, rot für schlecht oder sofort handeln. Eine bestimmte Farbe bedeutet in jeder Stadt dasselbe; nur der Wortlaut des Hinweises passt sich deiner Situation an.
 
 ### Warum steht bei einem Index "keine Daten"?
 
-TrafficVibe erfindet nie eine Zahl. Wenn sich für die angezeigte Stadt etwas wirklich nicht messen lässt, steht auf dieser Plakette "keine Daten" statt einer erfundenen Bewertung. Die Verfügbarkeit variiert je nach Ort – Spritpreise hängen zum Beispiel von einem veröffentlichten Preis für dein Land ab, und manche Straßenmerkmal-Plaketten hängen davon ab, wie gründlich deine Gegend kartiert ist. Es ist kein Fehler; es ist die App, die ehrlich ist.
+TrafficVibe erfindet nie eine Zahl. Wenn sich für die angezeigte Stadt etwas wirklich nicht messen lässt, steht auf dieser Plakette "keine Daten" statt einer erfundenen Bewertung. Die Verfügbarkeit variiert je nach Ort. Spritpreise hängen zum Beispiel von einem veröffentlichten Preis für dein Land ab, und manche Straßenmerkmal-Plaketten hängen davon ab, wie gründlich deine Gegend kartiert ist. Es ist kein Fehler; es ist die App, die ehrlich ist.
 
 ### Was sind die achtzehn Indizes?
 
@@ -55,7 +55,7 @@ Sie sind danach gruppiert, was ein Pendler tatsächlich fragt:
 
 ### Woher stammen die Daten?
 
-TrafficVibe greift auf vertrauenswürdige, etablierte Karten-, Wetter- und öffentliche Datenquellen für Routen und Ankunftszeiten, Bedingungen, nahe Straßenmerkmale, Feiertage und Spritpreise (in deiner lokalen Währung angezeigt) zurück. Dein Briefing und seine Bewertungen werden auf deinem Gerät zusammengestellt – nichts über deinen Weg wird hochgeladen. Was genau dein Gerät verlässt und warum, findest du in unserer [Datenschutzrichtlinie](https://www.bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe greift auf vertrauenswürdige, etablierte Karten-, Wetter- und öffentliche Datenquellen für Routen und Ankunftszeiten, Bedingungen, nahe Straßenmerkmale, Feiertage und Spritpreise (in deiner lokalen Währung angezeigt) zurück. Dein Briefing und seine Bewertungen werden auf deinem Gerät zusammengestellt; nichts über deinen Weg wird hochgeladen. Was genau dein Gerät verlässt und warum, findest du in unserer [Datenschutzrichtlinie](https://www.bartlettbutter.com/trafficvibe/privacy/).
 
 ## Benachrichtigungen
 
@@ -69,7 +69,7 @@ Leg deine eigenen Ruhezeiten fest und aktiviere die Vorliebe nur für Werktage. 
 
 ### Warum werden meine Warnungen nicht ausgelöst?
 
-TrafficVibe aktualisiert sich nicht im Hintergrund – es wertet Warnungen aus, wenn du die App öffnest oder zum Aktualisieren nach unten ziehst. Stell sicher, dass Benachrichtigungen in den Einstellungen aktiviert sind und du dich nicht innerhalb deiner Ruhezeiten oder einer Nur-Werktags-Ausnahme befindest.
+TrafficVibe aktualisiert sich nicht im Hintergrund. Es wertet Warnungen aus, wenn du die App öffnest oder zum Aktualisieren nach unten ziehst. Stell sicher, dass Benachrichtigungen in den Einstellungen aktiviert sind und du dich nicht innerhalb deiner Ruhezeiten oder einer Nur-Werktags-Ausnahme befindest.
 
 ## Pendelstädte
 
@@ -95,7 +95,7 @@ Prüfe, ob dein Gerät mit dem Internet verbunden ist, und zieh dann nach unten 
 
 ### Ein Wert zeigt "keine Daten"
 
-Das ist so gewollt, wenn für die ausgewählte Stadt keine Quelle verfügbar ist (siehe "Warum steht bei einem Index 'keine Daten'?" oben). Es ist kein Fehler – die App weigert sich einfach zu raten.
+Das ist so gewollt, wenn für die ausgewählte Stadt keine Quelle verfügbar ist (siehe "Warum steht bei einem Index 'keine Daten'?" oben). Es ist kein Fehler; die App weigert sich einfach zu raten.
 
 ### Die App stürzt ab oder friert ein
 

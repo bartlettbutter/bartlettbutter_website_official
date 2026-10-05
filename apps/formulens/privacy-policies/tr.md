@@ -41,9 +41,9 @@ FormuLens'in içerik listelerini okuyabilmesi için kamera veya fotoğraf kitapl
 
 Tüm işleme yereldir:
 
-- **Metin çıkarma** — işletim sisteminin yerleşik çerçeveleri tarafından cihazda gerçekleştirilir.
-- **Bileşen tanımlama** — uygulamanın içinde paketlenmiş bir veritabanıyla eşleştirilir.
-- **Karşılaştırmalar ve rutin analizi** — cihazınızın belleğinde hesaplanır.
+- **Metin çıkarma**: İşletim sisteminin yerleşik çerçeveleri tarafından cihazda gerçekleştirilir.
+- **Bileşen tanımlama**: Uygulamanın içinde paketlenmiş bir veritabanıyla eşleştirilir.
+- **Karşılaştırmalar ve rutin analizi**: Cihazınızın belleğinde hesaplanır.
 
 İnternet bağlantısı gerekmez. Bu işlemlerin hiçbiri sırasında hiçbir veri cihazınızdan çıkmaz.
 
@@ -86,8 +86,8 @@ FormuLens şunlara erişim **istemez**: konum, kişiler, mikrofon, Bluetooth, sa
 
 Hiçbir sunucu işletmiyoruz ve hiçbir kullanıcı veritabanı tutmuyoruz. Tüm veriler yalnızca cihazınızda bulunur. Silmek için:
 
-- **Tek tek öğeler** — uygulama içinde silmek için kaydırın.
-- **Tüm veriler** — FormuLens'i cihazınızdan kaldırın.
+- **Tek tek öğeler**: Uygulama içinde silmek için kaydırın.
+- **Tüm veriler**: FormuLens'i cihazınızdan kaldırın.
 
 ## Haklarınız
 

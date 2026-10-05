@@ -203,7 +203,7 @@ O Solcast vai além da previsão. Ele diz o que vestir, quando levar um guarda-c
       <p>O Premium é para quem acompanha o clima em muitas cidades e quer remover os limites gratuitos de lugares salvos.</p>
       <ul class="marketing-list">
         <li>Localizações salvas ilimitadas, cada uma em seu fuso horário local</li>
-        <li>Um upgrade opcional — o aplicativo principal continua grátis</li>
+        <li>Um upgrade opcional; o aplicativo principal continua grátis</li>
         <li>Sem anúncios e sem rastreamento, no plano Grátis ou Premium</li>
       </ul>
     </article>

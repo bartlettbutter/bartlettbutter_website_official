@@ -98,7 +98,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Toda la imagen, de un vistazo</p>
     <h2 id="tv-indices-title" class="marketing-section-title">Todo lo que importa, en una escala de colores honesta.</h2>
-    <p class="marketing-section-intro">Sencillas insignias de colores responden a las preguntas que se hace todo conductor —verde para bien, amarillo para precaución, rojo para actuar ya— para captar todo tu trayecto en segundos.</p>
+    <p class="marketing-section-intro">Sencillas insignias de colores responden a las preguntas que se hace todo conductor: verde para bien, amarillo para precaución, rojo para actuar ya, para captar todo tu trayecto en segundos.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

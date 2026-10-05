@@ -65,7 +65,7 @@ We do not sell, share, or rent your data to anyone. There is no data to share.
 
 | Permission | Why it's needed | Required? |
 |------------|----------------|-----------|
-| Camera | To take photos for color extraction | Optional — you can use your photo library instead |
+| Camera | To take photos for color extraction | Optional: you can use your photo library instead |
 | Photo Library | To select photos and to save processed images | Optional |
 
 We do not request access to your live location. Location data is only read when it already exists in your photo's embedded metadata.

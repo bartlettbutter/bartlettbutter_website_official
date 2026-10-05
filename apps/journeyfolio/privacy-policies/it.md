@@ -47,7 +47,7 @@ Quando aggiungi una destinazione o cerchi luoghi, le tue query di ricerca vengon
 
 | Autorizzazione | Quando Viene Richiesta | Scopo | I Dati Lasciano il Dispositivo? |
 |----------------|------------------------|-------|----------------------------------|
-| Fotocamera | Quando fotografi un documento | Allegare documenti di viaggio alle attività | No — elaborato sul dispositivo tramite OCR |
+| Fotocamera | Quando fotografi un documento | Allegare documenti di viaggio alle attività | No, elaborato sul dispositivo tramite OCR |
 | Libreria Fotografica | Quando importi un'immagine esistente | Allegare immagini salvate alle attività | No |
 
 Entrambe le autorizzazioni sono facoltative. L'app funziona pienamente senza di esse. Nessuna immagine viene mai caricata su server esterni.

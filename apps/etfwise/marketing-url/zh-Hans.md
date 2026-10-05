@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">投资者为何选择它</p>
     <h2 id="ew-why-title" class="marketing-section-title">对整个ETF市场的一次沉稳的每日阅读。</h2>
-    <p class="marketing-section-intro">ETFWise把喧嚣的市场变成一次快速的晨间查看：新鲜精选、一份通俗易懂的简报，以及深度基金分析——全程无需注册、订阅，数据也不会离开设备。</p>
+    <p class="marketing-section-intro">ETFWise把喧嚣的市场变成一次快速的晨间查看：新鲜精选、一份通俗易懂的简报，以及深度基金分析，全程无需注册、订阅，数据也不会离开设备。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">产品架构</p>
     <h2 id="ew-modes-title" class="marketing-section-title">三种驾驭市场的方式，一致的一次阅读。</h2>
-    <p class="marketing-section-intro">ETFWise的每个部分都回答一个不同的问题——今天发生了什么、我该关注什么，以及这只基金到底由什么构成——同时保持同样清晰、易读的风格。</p>
+    <p class="marketing-section-intro">ETFWise的每个部分都保持同样清晰、易读的风格，同时各自回答一个不同的问题：今天发生了什么、我该关注什么，以及这只基金到底由什么构成。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

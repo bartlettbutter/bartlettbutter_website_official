@@ -34,9 +34,9 @@ Yes. No in-app purchases, no subscriptions, no ads. Every feature is available f
 
 ### What are the three tabs?
 
-- **Analyze** — take or pick a photo, extract a 12-color palette, view detailed color analysis, and get personalized creative tool suggestions
-- **Playground** — transform your photo with six creative tools (Isolate, Duotone, Tritone, Pixelize, Blur, Glitch)
-- **Gallery** — browse, re-edit, download, or share your saved creations
+- **Analyze**: take or pick a photo, extract a 12-color palette, view detailed color analysis, and get personalized creative tool suggestions
+- **Playground**: transform your photo with six creative tools (Isolate, Duotone, Tritone, Pixelize, Blur, Glitch)
+- **Gallery**: browse, re-edit, download, or share your saved creations
 
 ### How does the color analysis work?
 
@@ -48,12 +48,12 @@ Tap any color swatch. A brief confirmation appears to let you know the hex code 
 
 ### What are the creative tools in Playground?
 
-- **Isolate** — keep selected colors vibrant while the rest becomes grayscale (or vice versa)
-- **Duotone** — remap your image to two tones for a bold, editorial look
-- **Tritone** — remap your image across three tones for a richer, graduated look
-- **Pixelize** — transform into a mosaic of geometric tiles with adjustable tile size
-- **Blur** — add soft, dreamy focus with a choice of blur styles and adjustable intensity
-- **Glitch** — apply RGB channel separation and digital distortion
+- **Isolate**: keep selected colors vibrant while the rest becomes grayscale (or vice versa)
+- **Duotone**: remap your image to two tones for a bold, editorial look
+- **Tritone**: remap your image across three tones for a richer, graduated look
+- **Pixelize**: transform into a mosaic of geometric tiles with adjustable tile size
+- **Blur**: add soft, dreamy focus with a choice of blur styles and adjustable intensity
+- **Glitch**: apply RGB channel separation and digital distortion
 
 ### How do I save a creation?
 

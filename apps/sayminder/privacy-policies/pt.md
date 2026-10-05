@@ -39,11 +39,11 @@ Quando você concede permissão de microfone e reconhecimento de fala, sua fala 
 
 ### Lembretes e notas
 
-Os lembretes que você cria — seus títulos, notas, horários, recorrência e a transcrição original falada — são armazenados apenas no seu dispositivo, em um contêiner de app compartilhado para que o app, seu widget e a intenção da Siri/Atalhos possam ler uma única fonte confiável. Eles nunca são enviados para a nuvem.
+Os lembretes que você cria, incluindo seus títulos, notas, horários, recorrência e a transcrição original falada, são armazenados apenas no seu dispositivo, em um contêiner de app compartilhado para que o app, seu widget e a intenção da Siri/Atalhos possam ler uma única fonte confiável. Eles nunca são enviados para a nuvem.
 
 ### Calendário (opcional, somente leitura)
 
-Se você ativar **Mostrar eventos do calendário**, o app lê os eventos do calendário do sistema para exibi-los junto aos seus lembretes. Esse acesso é somente leitura — o Sayminder nunca cria, edita ou exclui eventos do calendário — e os eventos são lidos apenas no seu dispositivo para exibir a agenda. Essa camada fica desativada até você habilitá-la.
+Se você ativar **Mostrar eventos do calendário**, o app lê os eventos do calendário do sistema para exibi-los junto aos seus lembretes. Esse acesso é somente leitura: o Sayminder nunca cria, edita ou exclui eventos do calendário, e os eventos são lidos apenas no seu dispositivo para exibir a agenda. Essa camada fica desativada até você habilitá-la.
 
 ### Programação e conversão de texto em fala
 

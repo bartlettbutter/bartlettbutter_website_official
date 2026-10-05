@@ -35,9 +35,9 @@ Oui. Aucun achat intégré, aucun abonnement, aucune publicité. Toutes les fonc
 
 ### Que sont les trois onglets ?
 
-- **Analyser** — prenez ou choisissez une photo, extrayez une palette de 12 couleurs, consultez une analyse détaillée des couleurs et obtenez des suggestions personnalisées d'outils créatifs
-- **Playground** — transformez votre photo avec six outils créatifs (Isoler, Duotone, Tritone, Pixeliser, Flouter, Glitch)
-- **Galerie** — parcourez, modifiez à nouveau, téléchargez ou partagez vos créations enregistrées
+- **Analyser** : prenez ou choisissez une photo, extrayez une palette de 12 couleurs, consultez une analyse détaillée des couleurs et obtenez des suggestions personnalisées d'outils créatifs
+- **Playground** : transformez votre photo avec six outils créatifs (Isoler, Duotone, Tritone, Pixeliser, Flouter, Glitch)
+- **Galerie** : parcourez, modifiez à nouveau, téléchargez ou partagez vos créations enregistrées
 
 ### Comment fonctionne l'analyse des couleurs ?
 
@@ -49,12 +49,12 @@ Touchez n'importe quel échantillon de couleur. Une brève confirmation apparaî
 
 ### Quels sont les outils créatifs du Playground ?
 
-- **Isoler** — gardez les couleurs sélectionnées vives tandis que le reste passe en niveaux de gris (ou vice versa)
-- **Duotone** — remappez votre image sur deux tons pour un look audacieux et éditorial
-- **Tritone** — remappez votre image sur trois tons pour un look plus riche et dégradé
-- **Pixeliser** — transformez en une mosaïque de tuiles géométriques avec une taille de tuile réglable
-- **Flouter** — ajoutez une mise au point douce et onirique avec un choix de styles de flou et une intensité réglable
-- **Glitch** — appliquez une séparation des canaux RVB et une distorsion numérique
+- **Isoler** : gardez les couleurs sélectionnées vives tandis que le reste passe en niveaux de gris (ou vice versa)
+- **Duotone** : remappez votre image sur deux tons pour un look audacieux et éditorial
+- **Tritone** : remappez votre image sur trois tons pour un look plus riche et dégradé
+- **Pixeliser** : transformez en une mosaïque de tuiles géométriques avec une taille de tuile réglable
+- **Flouter** : ajoutez une mise au point douce et onirique avec un choix de styles de flou et une intensité réglable
+- **Glitch** : appliquez une séparation des canaux RVB et une distorsion numérique
 
 ### Comment enregistrer une création ?
 

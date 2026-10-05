@@ -47,7 +47,7 @@ Lorsque vous ajoutez une destination ou recherchez des lieux, vos requêtes de r
 
 | Autorisation | Quand Elle Est Demandée | Objectif | Les Données Quittent-elles l'Appareil ? |
 |--------------|-------------------------|----------|------------------------------------------|
-| Appareil photo | Lorsque vous photographiez un document | Joindre des documents de voyage aux activités | Non — traité sur l'appareil via OCR |
+| Appareil photo | Lorsque vous photographiez un document | Joindre des documents de voyage aux activités | Non, traité sur l'appareil via OCR |
 | Photothèque | Lorsque vous importez une image existante | Joindre des images enregistrées aux activités | Non |
 
 Les deux autorisations sont facultatives. L'application fonctionne pleinement sans elles. Aucune image n'est jamais téléchargée vers des serveurs externes.

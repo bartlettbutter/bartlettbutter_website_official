@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">بنية المنتج</p>
     <h2 id="sc-arch-title" class="marketing-section-title">لوحة تحكم واحدة، وثلاث طرق للتخطيط ليومك.</h2>
-    <p class="marketing-section-intro">يجيب كل جزء من Solcast عن سؤال مختلف — ما الذي يحدث، وماذا يعني ذلك لك، وماذا ترتدي — مع الحفاظ على الأسلوب الهادئ وسهل القراءة نفسه.</p>
+    <p class="marketing-section-intro">يجيب كل جزء من Solcast عن سؤال مختلف: ما الذي يحدث، وماذا يعني ذلك لك، وماذا ترتدي، مع الحفاظ على الأسلوب الهادئ وسهل القراءة نفسه.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -203,7 +203,7 @@ redirect_from:
       <p>Premium لمن يتابعون الطقس عبر مدن كثيرة ويريدون رفع الحدود المجانية على الأماكن المحفوظة.</p>
       <ul class="marketing-list">
         <li>مواقع محفوظة غير محدودة، كل منها بمنطقتها الزمنية المحلية</li>
-        <li>ترقية اختيارية — يبقى التطبيق الأساسي مجانيًا</li>
+        <li>ترقية اختيارية، ويبقى التطبيق الأساسي مجانيًا</li>
         <li>لا إعلانات ولا تتبّع، في المجاني أو Premium</li>
       </ul>
     </article>

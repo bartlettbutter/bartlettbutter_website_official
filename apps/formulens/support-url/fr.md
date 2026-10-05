@@ -27,19 +27,19 @@ Aucun compte, aucune configuration et aucune connexion internet nécessaires.
 
 ### Quelle est la différence entre Comparer, Vérifier ma routine et Scanner ma collection ?
 
-- **Comparer** — scannez plusieurs produits du *même* type pour voir comment ils se comparent face à face, y compris les ingrédients communs et uniques et un verdict en langage clair.
-- **Vérifier ma routine** — scannez votre routine, un produit par étape, pour obtenir l'ordre d'application, des alertes de conflits d'ingrédients, des notes sur les redondances et une analyse des lacunes sur l'ensemble de la routine.
-- **Scanner ma collection** — scannez n'importe quel ensemble de produits pour une analyse simple, produit par produit, sans comparaison ni ordre appliqué.
+- **Comparer** : scannez plusieurs produits du *même* type pour voir comment ils se comparent face à face, y compris les ingrédients communs et uniques et un verdict en langage clair.
+- **Vérifier ma routine** : scannez votre routine, un produit par étape, pour obtenir l'ordre d'application, des alertes de conflits d'ingrédients, des notes sur les redondances et une analyse des lacunes sur l'ensemble de la routine.
+- **Scanner ma collection** : scannez n'importe quel ensemble de produits pour une analyse simple, produit par produit, sans comparaison ni ordre appliqué.
 
 ### Quelles catégories de produits sont disponibles ?
 
 FormuLens prend en charge 23 catégories réparties en cinq groupes :
 
-- **Soins de la peau** — Nettoyant, Exfoliant, Tonique, Sérum, Hydratant, Contour des yeux, Protection solaire, Masque / Patch
-- **Maquillage** — Base, Fond de teint / BB, Blush / Bronzer, Maquillage des yeux, Rouge à lèvres, Baume à lèvres
-- **Cheveux** — Shampooing, Après-shampooing, Masque capillaire
-- **Bain et corps** — Gel douche, Gommage corporel, Lait pour le corps, Crème pour les mains, Déodorant
-- **Parfum** — Parfum
+- **Soins de la peau** : Nettoyant, Exfoliant, Tonique, Sérum, Hydratant, Contour des yeux, Protection solaire, Masque / Patch
+- **Maquillage** : Base, Fond de teint / BB, Blush / Bronzer, Maquillage des yeux, Rouge à lèvres, Baume à lèvres
+- **Cheveux** : Shampooing, Après-shampooing, Masque capillaire
+- **Bain et corps** : Gel douche, Gommage corporel, Lait pour le corps, Crème pour les mains, Déodorant
+- **Parfum** : Parfum
 
 ### FormuLens est-il gratuit ?
 
@@ -65,8 +65,8 @@ Chaque ingrédient est codé par couleur selon sa fonction, par exemple hydratat
 
 ### Que signifient les étiquettes « clé » et « inhabituel » ?
 
-- **Clé** (icône étoile) — l'ingrédient sert directement l'objectif principal du type de produit. Par exemple, les filtres UV sont des ingrédients clés dans une protection solaire.
-- **Inhabituel** — l'ingrédient est peu courant pour la catégorie sélectionnée. Ce n'est pas nécessairement mauvais, mais cela vaut la peine d'y regarder de plus près. Par exemple, un exfoliant signalé dans un contour des yeux.
+- **Clé** (icône étoile) : l'ingrédient sert directement l'objectif principal du type de produit. Par exemple, les filtres UV sont des ingrédients clés dans une protection solaire.
+- **Inhabituel** : l'ingrédient est peu courant pour la catégorie sélectionnée. Ce n'est pas nécessairement mauvais, mais cela vaut la peine d'y regarder de plus près. Par exemple, un exfoliant signalé dans un contour des yeux.
 
 ### Pourquoi les protections solaires affichent-elles des sections « Actifs » et « Inactifs » ?
 

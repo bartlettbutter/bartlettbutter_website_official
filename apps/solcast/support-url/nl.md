@@ -23,9 +23,9 @@ Open gewoon Solcast. Geen account, geen aanmelding. Wanneer daarom wordt gevraag
 
 Tik op het tandwielpictogram (rechtsboven) om Instellingen te openen. Je vindt 11 opties in drie secties:
 
-- **Over Jou** — temperatuureenheid (°C/°F), temperatuurgevoeligheid, zongevoeligheid, ooggevoeligheid, allergiegevoeligheid, migrainegevoeligheid
-- **Jouw Stijl** — kledingstijl (Casual, Business Casual, Formeel, Sportief) en voorkeur voor buitensport
-- **Jouw Huishouden** — kinderen, huisdieren, auto's
+- **Over Jou**: temperatuureenheid (°C/°F), temperatuurgevoeligheid, zongevoeligheid, ooggevoeligheid, allergiegevoeligheid, migrainegevoeligheid
+- **Jouw Stijl**: kledingstijl (Casual, Business Casual, Formeel, Sportief) en voorkeur voor buitensport
+- **Jouw Huishouden**: kinderen, huisdieren, auto's
 
 Elke wijziging wordt onmiddellijk van kracht, zonder dat herladen nodig is.
 

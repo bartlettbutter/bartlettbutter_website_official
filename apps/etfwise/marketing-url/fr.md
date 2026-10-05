@@ -53,7 +53,7 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Pourquoi les investisseurs le choisissent</p>
     <h2 id="ew-why-title" class="marketing-section-title">Une lecture quotidienne posée de tout le marché des ETF.</h2>
-    <p class="marketing-section-intro">ETFWise transforme un marché bruyant en une vérification matinale rapide : des sélections fraîches, un briefing en langage simple et une analyse approfondie des fonds — le tout sans inscription, sans abonnement et sans que vos données quittent l'appareil.</p>
+    <p class="marketing-section-intro">ETFWise transforme un marché bruyant en une vérification matinale rapide : des sélections fraîches, un briefing en langage simple et une analyse approfondie des fonds, le tout sans inscription, sans abonnement et sans que vos données quittent l'appareil.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Architecture du produit</p>
     <h2 id="ew-modes-title" class="marketing-section-title">Trois façons de travailler le marché, une lecture cohérente.</h2>
-    <p class="marketing-section-intro">Chaque partie d'ETFWise répond à une question différente — ce qui s'est passé aujourd'hui, ce que je devrais surveiller et de quoi ce fonds est vraiment fait — tout en gardant le même style clair et lisible.</p>
+    <p class="marketing-section-intro">Tout en gardant le même style clair et lisible, chaque partie d'ETFWise répond à une question différente : ce qui s'est passé aujourd'hui, ce que je devrais surveiller et de quoi ce fonds est vraiment fait.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

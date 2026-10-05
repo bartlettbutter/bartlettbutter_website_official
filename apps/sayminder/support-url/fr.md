@@ -21,7 +21,7 @@ Il suffit d'ouvrir Sayminder. Pas de compte ni d'inscription. Au premier lanceme
 
 ### Comment créer un rappel ?
 
-Touchez le bouton du microphone et parlez — par exemple, « rappelle-moi de prendre mon médicament ce soir à neuf heures ». Sayminder transcrit vos paroles, en extrait la date et l'heure, puis affiche une carte de confirmation. Vérifiez ou modifiez le titre, les notes, l'heure et l'option de répétition, puis enregistrez. Une brève confirmation vous est lue à voix haute.
+Touchez le bouton du microphone et parlez, par exemple : « rappelle-moi de prendre mon médicament ce soir à neuf heures ». Sayminder transcrit vos paroles, en extrait la date et l'heure, puis affiche une carte de confirmation. Vérifiez ou modifiez le titre, les notes, l'heure et l'option de répétition, puis enregistrez. Une brève confirmation vous est lue à voix haute.
 
 ### Quels types d'horaires puis-je dire ?
 
@@ -59,7 +59,7 @@ Oui. Sayminder ajoute un raccourci d'app, ce qui vous permet de créer un rappel
 
 ### Sayminder peut-il afficher les événements de mon calendrier ?
 
-Oui, en option. Activez **Afficher les événements du calendrier** dans les Réglages pour refléter les événements du calendrier système dans le Résumé du jour, la liste À venir et la grille du Calendrier. Cette couche est strictement en lecture seule — Sayminder ne crée, ne modifie ni ne supprime jamais d'événements de calendrier — et elle est désactivée tant que vous ne l'activez pas.
+Oui, en option. Activez **Afficher les événements du calendrier** dans les Réglages pour refléter les événements du calendrier système dans le Résumé du jour, la liste À venir et la grille du Calendrier. Cette couche est strictement en lecture seule : Sayminder ne crée, ne modifie ni ne supprime jamais d'événements de calendrier, et elle est désactivée tant que vous ne l'activez pas.
 
 ### Sayminder fonctionne-t-il sur iPad ?
 
@@ -77,7 +77,7 @@ Un rappel ne peut pas vous atteindre si ni les alarmes ni les notifications ne s
 
 ### Pourquoi l'autorisation de calendrier n'apparaît-elle que parfois ?
 
-L'accès au calendrier en lecture seule est demandé de façon différée — uniquement lorsque vous activez **Afficher les événements du calendrier** dans les Réglages — plutôt qu'au lancement.
+L'accès au calendrier en lecture seule est demandé de façon différée, uniquement lorsque vous activez **Afficher les événements du calendrier** dans les Réglages, plutôt qu'au lancement.
 
 ## Dépannage
 
@@ -91,7 +91,7 @@ Allez dans les Réglages de votre appareil > Confidentialité et sécurité > Mi
 
 ### L'heure qu'il a interprétée est incorrecte
 
-L'analyse est heuristique. Chaque rappel est présenté pour vérification avant l'enregistrement — ajustez l'heure sur la carte de confirmation. Si aucune heure concrète n'a été détectée, le rappel est fixé par défaut dans une heure et signalé pour que vous puissiez le définir.
+L'analyse est heuristique. Chaque rappel est présenté pour vérification avant l'enregistrement. Ajustez l'heure sur la carte de confirmation. Si aucune heure concrète n'a été détectée, le rappel est fixé par défaut dans une heure et signalé pour que vous puissiez le définir.
 
 ### L'heure d'un rappel ponctuel est déjà passée
 

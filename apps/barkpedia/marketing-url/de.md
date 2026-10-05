@@ -12,7 +12,7 @@ redirect_from:
 
 # Jeder Hund hat eine Geschichte. Entdecke sie sofort.
 
-Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und öffnet dann die ganze Geschichte dahinter – Temperament, Geschichte, Herkunft und wissenswerte Fakten. Kein Tippen, kein Suchen und keine Kosten – und die Rassenerkennung funktioniert sogar ohne Netz.
+Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und öffnet dann die ganze Geschichte dahinter: Temperament, Geschichte, Herkunft und wissenswerte Fakten. Kein Tippen, kein Suchen und keine Kosten, und die Rassenerkennung funktioniert sogar ohne Netz.
 
 <!--gallery-->
 
@@ -34,7 +34,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privat – deine Fotos und gespeicherten Scans bleiben auf deinem Gerät</span>
+    <span class="marketing-stat-label">privat: deine Fotos und gespeicherten Scans bleiben auf deinem Gerät</span>
   </article>
 </div>
 
@@ -53,7 +53,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Warum sich Hundeliebhaber dafür entscheiden</p>
     <h2 id="bp-why-title" class="marketing-section-title">Ein ruhiger, vollständiger Taschenführer durch die Welt der Hunde.</h2>
-    <p class="marketing-section-intro">Barkpedia macht aus einem neugierigen Moment im Park eine echte Antwort und geht dann weiter mit der Geschichte, dem Profil und ein bisschen Spaß – alles ohne Anmeldung, und die Rassenerkennung funktioniert sogar ohne Netz.</p>
+    <p class="marketing-section-intro">Barkpedia macht aus einem neugierigen Moment im Park eine echte Antwort und geht dann weiter mit der Geschichte, dem Profil und ein bisschen Spaß, alles ohne Anmeldung. Die Rassenerkennung funktioniert sogar ohne Netz.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -79,7 +79,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
       <p>Verwandle alles, was du gescannt hast, in ein Spiel mit zwei Modi, die echtes Hundewissen erweitern.</p>
       <ul class="marketing-list">
         <li>Rassen-Quiz: Errate die Rasse anhand eines Fotos</li>
-        <li>Hunde-Trivia: Mythen und Fakten – richtig oder falsch</li>
+        <li>Hunde-Trivia: Mythen und Fakten, richtig oder falsch</li>
         <li>Hunde-Trivia läuft jederzeit offline</li>
       </ul>
     </article>
@@ -99,7 +99,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Produktarchitektur</p>
     <h2 id="bp-modes-title" class="marketing-section-title">Drei Arten, es zu genießen, ein freundlicher Begleiter durchweg.</h2>
-    <p class="marketing-section-intro">Jeder Teil von Barkpedia bedient eine andere Stimmung – eine schnelle Frage, einen Nachmittag zum Stöbern oder einen Spieleabend – und behält dabei denselben klaren, gut lesbaren Stil bei.</p>
+    <p class="marketing-section-intro">Jeder Teil von Barkpedia bedient eine andere Stimmung (eine schnelle Frage, einen Nachmittag zum Stöbern oder einen Spieleabend) und behält dabei denselben klaren, gut lesbaren Stil bei.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -195,7 +195,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Datenschutz-Haltung</span>
       <h3 class="marketing-price-summary">Keine Uploads. Keine Konten. Kein Tracking.</h3>
-      <p>Deine Fotos verlassen niemals dein Gerät. Die Rassenerkennung läuft vollständig auf dem Gerät, während Rassenprofile und Quizfotos aus öffentlichen Hunderassen-Quellen geladen werden – ohne persönliche Daten.</p>
+      <p>Deine Fotos verlassen niemals dein Gerät. Die Rassenerkennung läuft vollständig auf dem Gerät, während Rassenprofile und Quizfotos aus öffentlichen Hunderassen-Quellen geladen werden, und zwar ohne persönliche Daten.</p>
       <p class="marketing-price-note">Dieselbe Datenschutz-zuerst-Haltung zieht sich durch Übersichts-, Support- und Richtlinienseiten.</p>
     </article>
   </div>

@@ -46,7 +46,7 @@ When you add a destination or search for places, your search queries are sent to
 
 | Permission | When Requested | Purpose | Data Leaves Device? |
 |-----------|---------------|---------|-------------------|
-| Camera | When you photograph a document | Attach travel documents to activities | No — processed on-device via OCR |
+| Camera | When you photograph a document | Attach travel documents to activities | No, processed on-device via OCR |
 | Photo Library | When you import an existing image | Attach saved images to activities | No |
 
 Both permissions are optional. The app functions fully without them. No images are ever uploaded to external servers.

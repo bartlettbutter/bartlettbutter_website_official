@@ -30,7 +30,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">クリエイティブツール — 分離、デュオトーン、トリトーン、ピクセル化、ぼかし、グリッチ</span>
+    <span class="marketing-stat-label">クリエイティブツール：分離、デュオトーン、トリトーン、ピクセル化、ぼかし、グリッチ</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">プロダクトの構成</p>
     <h2 id="hp-modes-title" class="marketing-section-title">3つの作業スペース、そして全体を貫く一貫したカラーフロー。</h2>
-    <p class="marketing-section-intro">Huepickの各パートは異なる目的に応えます — 色を引き出す、色で遊ぶ、作ったものに戻る — 同じ明快で手触りのあるスタイルを保ちながら。</p>
+    <p class="marketing-section-intro">Huepickの各パートは、同じ明快で手触りのあるスタイルを保ちながら、色を引き出す、色で遊ぶ、作ったものに戻るという異なる目的に応えます。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -153,7 +153,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>保存して共有</h3>
-      <p>作品をギャラリーに保存したり、「写真」にダウンロードしたり、直接共有したり — すべてオフラインで。</p>
+      <p>作品をギャラリーに保存したり、「写真」にダウンロードしたり、直接共有したり、すべてオフラインで行えます。</p>
     </article>
   </div>
 </section>

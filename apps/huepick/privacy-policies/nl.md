@@ -66,7 +66,7 @@ We verkopen, delen of verhuren uw gegevens aan niemand. Er zijn geen gegevens om
 
 | Toestemming | Waarom Het Nodig Is | Vereist? |
 |-------------|---------------------|----------|
-| Camera | Om foto's te maken voor kleurextractie | Optioneel — u kunt in plaats daarvan uw fotobibliotheek gebruiken |
+| Camera | Om foto's te maken voor kleurextractie | Optioneel: u kunt in plaats daarvan uw fotobibliotheek gebruiken |
 | Fotobibliotheek | Om foto's te selecteren en verwerkte afbeeldingen op te slaan | Optioneel |
 
 We vragen geen toegang tot uw live locatie. Locatiegegevens worden alleen gelezen wanneer ze al bestaan in de ingebedde metadata van uw foto.

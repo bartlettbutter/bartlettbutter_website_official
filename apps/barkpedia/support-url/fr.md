@@ -37,15 +37,15 @@ Barkpedia identifie 147 races basées sur les standards de l'AKC.
 
 Explorer vous offre deux façons de découvrir les races :
 
-- **Recherche** — Tapez n'importe quel nom de race pour un filtrage instantané parmi les 147 races.
-- **Carte du Monde** — Parcourez une carte interactive montrant les origines des races par pays. Touchez un repère pour voir quelles races proviennent de cette région. Utilisez le bouton d'agrandissement pour afficher la carte en plein écran.
+- **Recherche** : tapez n'importe quel nom de race pour un filtrage instantané parmi les 147 races.
+- **Carte du Monde** : parcourez une carte interactive montrant les origines des races par pays. Touchez un repère pour voir quelles races proviennent de cette région. Utilisez le bouton d'agrandissement pour afficher la carte en plein écran.
 
 La recherche et la carte fonctionnent toutes deux hors ligne.
 
 ### Comment fonctionnent les jeux Quiz et Anecdotes ?
 
-- **Quiz des Races** — On vous montre une photo de chien et vous choisissez la bonne race parmi quatre choix. Chaque manche comporte 10 questions. Gagnez des titres de récompense en fonction de votre score.
-- **Anecdotes Canines** — Affirmations vrai ou faux mêlant de vrais faits sur les chiens à des mythes plausibles. Également 10 questions par manche avec des titres de récompense.
+- **Quiz des Races** : on vous montre une photo de chien et vous choisissez la bonne race parmi quatre choix. Chaque manche comporte 10 questions. Gagnez des titres de récompense en fonction de votre score.
+- **Anecdotes Canines** : affirmations vrai ou faux mêlant de vrais faits sur les chiens à des mythes plausibles. Également 10 questions par manche avec des titres de récompense.
 
 Le Quiz des Races nécessite une connexion internet pour charger les photos. Les Anecdotes Canines fonctionnent entièrement hors ligne.
 

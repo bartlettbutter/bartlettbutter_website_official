@@ -12,7 +12,7 @@ redirect_from:
 
 # Weet precies hoe je je kleedt, plant en je dag beschermt.
 
-Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wanneer je een paraplu moet meenemen en hoe je je gezin comfortabel houdt — allemaal gepersonaliseerd op jouw leven en geleverd in gewone taal. Geen advertenties, geen accounts, gratis te gebruiken, met een optionele Premium-upgrade. Gewoon openen en gaan.
+Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wanneer je een paraplu moet meenemen en hoe je je gezin comfortabel houdt, allemaal gepersonaliseerd op jouw leven en geleverd in gewone taal. Geen advertenties, geen accounts, gratis te gebruiken, met een optionele Premium-upgrade. Gewoon openen en gaan.
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wann
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Waarom mensen ervoor kiezen</p>
     <h2 id="sc-why-title" class="marketing-section-title">Een weer-app die je vertelt wat je écht moet doen.</h2>
-    <p class="marketing-section-intro">Solcast leest de voorspelling voor je en zet die om in duidelijk, persoonlijk advies — zodat een blik op je telefoon een plan voor de dag wordt in plaats van een muur van cijfers om te ontcijferen.</p>
+    <p class="marketing-section-intro">Solcast leest de voorspelling voor je en zet die om in duidelijk, persoonlijk advies, zodat een blik op je telefoon een plan voor de dag wordt in plaats van een muur van cijfers om te ontcijferen.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wann
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Productarchitectuur</p>
     <h2 id="sc-arch-title" class="marketing-section-title">Eén dashboard, drie manieren om je dag te plannen.</h2>
-    <p class="marketing-section-intro">Elk onderdeel van Solcast beantwoordt een andere vraag — wat er gebeurt, wat het voor jou betekent en wat je moet dragen — met behoud van dezelfde rustige, leesbare stijl.</p>
+    <p class="marketing-section-intro">Met behoud van dezelfde rustige, leesbare stijl beantwoordt elk onderdeel van Solcast een andere vraag: wat er gebeurt, wat het voor jou betekent en wat je moet dragen.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -203,7 +203,7 @@ Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wann
       <p>Premium is voor mensen die het weer in veel steden volgen en de gratis limieten op bewaarde plaatsen willen opheffen.</p>
       <ul class="marketing-list">
         <li>Onbeperkt aantal bewaarde locaties, elk in hun lokale tijdzone</li>
-        <li>Een optionele upgrade — de kern-app blijft gratis</li>
+        <li>Een optionele upgrade; de kern-app blijft gratis</li>
         <li>Geen advertenties en geen tracking, bij Gratis of Premium</li>
       </ul>
     </article>

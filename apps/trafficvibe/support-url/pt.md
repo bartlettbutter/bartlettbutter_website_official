@@ -11,13 +11,13 @@ redirect_from:
 
 # Como podemos ajudar?
 
-Criamos o TrafficVibe para deixar suas manhãs mais tranquilas, e queremos que usá-lo transmita a mesma sensação. A maioria das dúvidas é respondida abaixo — e se a sua não estiver, uma pessoa de verdade está a um e-mail de distância e sempre feliz em ajudar.
+Criamos o TrafficVibe para deixar suas manhãs mais tranquilas, e queremos que usá-lo transmita a mesma sensação. A maioria das dúvidas é respondida abaixo, e se a sua não estiver, uma pessoa de verdade está a um e-mail de distância e sempre feliz em ajudar.
 
 ## Primeiros passos
 
 ### O que é o resumo matinal?
 
-Quando você abre o TrafficVibe, a primeira coisa que vê é uma leitura em linguagem simples do seu trajeto, com o problema mais importante em destaque logo de início — como o trânsito está fluindo, o que está te atrasando e se agora é uma boa hora para sair. Não há indicadores para decifrar; ele apenas diz como sua viagem está e o que fazer a respeito.
+Quando você abre o TrafficVibe, a primeira coisa que vê é uma leitura em linguagem simples do seu trajeto, com o problema mais importante em destaque logo de início: como o trânsito está fluindo, o que está te atrasando e se agora é uma boa hora para sair. Não há indicadores para decifrar; ele apenas diz como sua viagem está e o que fazer a respeito.
 
 ### Como o TrafficVibe sabe o melhor horário para sair?
 
@@ -35,11 +35,11 @@ O TrafficVibe é grátis na App Store. Não há assinaturas, nem compras dentro 
 
 ### O que as cores significam?
 
-Todo índice se lê de relance: verde para bom ou livre, amarelo para atenção ou moderado, vermelho para ruim ou agir agora. Uma dada cor significa a mesma coisa em toda cidade — só o texto do conselho se adapta à sua situação.
+Todo índice se lê de relance: verde para bom ou livre, amarelo para atenção ou moderado, vermelho para ruim ou agir agora. Uma dada cor significa a mesma coisa em toda cidade; só o texto do conselho se adapta à sua situação.
 
 ### Por que um índice diz "sem dados"?
 
-O TrafficVibe nunca inventa um número. Quando algo genuinamente não pode ser medido para a cidade que você está vendo, aquele selo mostra "sem dados" em vez de exibir uma avaliação inventada. A disponibilidade varia por lugar — por exemplo, os preços do combustível dependem de um preço publicado para o seu país, e alguns selos de recursos das vias dependem de quão detalhadamente sua área está mapeada. Não é um erro; é o app sendo honesto.
+O TrafficVibe nunca inventa um número. Quando algo genuinamente não pode ser medido para a cidade que você está vendo, aquele selo mostra "sem dados" em vez de exibir uma avaliação inventada. A disponibilidade varia por lugar. Por exemplo, os preços do combustível dependem de um preço publicado para o seu país, e alguns selos de recursos das vias dependem de quão detalhadamente sua área está mapeada. Não é um erro; é o app sendo honesto.
 
 ### Quais são os dezoito índices?
 
@@ -55,7 +55,7 @@ Eles são agrupados pelo que um motorista realmente pergunta:
 
 ### De onde vêm os dados?
 
-O TrafficVibe se baseia em fontes confiáveis e consolidadas de mapas, clima e dados públicos para rotas e tempos estimados, condições, recursos de vias por perto, feriados e preços de combustível (exibidos na sua moeda local). Seu resumo e suas avaliações são montados no seu dispositivo — nada sobre o seu trajeto é enviado. Para saber exatamente o que sai do seu dispositivo e por quê, veja nossa [Política de Privacidade](https://www.bartlettbutter.com/trafficvibe/privacy/).
+O TrafficVibe se baseia em fontes confiáveis e consolidadas de mapas, clima e dados públicos para rotas e tempos estimados, condições, recursos de vias por perto, feriados e preços de combustível (exibidos na sua moeda local). Seu resumo e suas avaliações são montados no seu dispositivo; nada sobre o seu trajeto é enviado. Para saber exatamente o que sai do seu dispositivo e por quê, veja nossa [Política de Privacidade](https://www.bartlettbutter.com/trafficvibe/privacy/).
 
 ## Notificações
 
@@ -69,7 +69,7 @@ Defina suas próprias horas de silêncio e ative a preferência de apenas dias �
 
 ### Por que meus alertas não estão disparando?
 
-O TrafficVibe não atualiza em segundo plano — ele avalia os alertas quando você abre o app ou puxa para atualizar. Confira se as notificações estão ativadas em Ajustes e se você não está dentro das suas horas de silêncio ou de uma exclusão de apenas dias úteis.
+O TrafficVibe não atualiza em segundo plano. Ele avalia os alertas quando você abre o app ou puxa para atualizar. Confira se as notificações estão ativadas em Ajustes e se você não está dentro das suas horas de silêncio ou de uma exclusão de apenas dias úteis.
 
 ## Cidades de trajeto
 
@@ -95,7 +95,7 @@ Verifique se o seu dispositivo está conectado à internet, depois puxe para bai
 
 ### Uma métrica mostra "sem dados"
 
-Isso é intencional quando uma fonte não está disponível para a cidade selecionada (veja "Por que um índice diz 'sem dados'?" acima). Não é um erro — o app está simplesmente se recusando a adivinhar.
+Isso é intencional quando uma fonte não está disponível para a cidade selecionada (veja "Por que um índice diz 'sem dados'?" acima). Não é um erro; o app está simplesmente se recusando a adivinhar.
 
 ### O app está travando ou congelando
 

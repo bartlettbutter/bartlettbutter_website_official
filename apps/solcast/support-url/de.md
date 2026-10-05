@@ -23,9 +23,9 @@ Wir möchten, dass du das Beste aus Solcast herausholst. Wenn etwas nicht wie er
 
 Tippe auf das Zahnradsymbol (oben rechts), um die Einstellungen zu öffnen. Du findest 11 Optionen in drei Bereichen:
 
-- **Über Dich** — Temperatureinheit (°C/°F), Temperaturempfindlichkeit, Sonnenempfindlichkeit, Augenempfindlichkeit, Allergieempfindlichkeit, Migräneempfindlichkeit
-- **Dein Stil** — Kleidungsstil (Lässig, Business Casual, Formell, Sportlich) und Vorliebe für Sport im Freien
-- **Dein Haushalt** — Kinder, Haustiere, Autos
+- **Über Dich**: Temperatureinheit (°C/°F), Temperaturempfindlichkeit, Sonnenempfindlichkeit, Augenempfindlichkeit, Allergieempfindlichkeit, Migräneempfindlichkeit
+- **Dein Stil**: Kleidungsstil (Lässig, Business Casual, Formell, Sportlich) und Vorliebe für Sport im Freien
+- **Dein Haushalt**: Kinder, Haustiere, Autos
 
 Jede Änderung wird sofort wirksam, ohne dass ein Neuladen erforderlich ist.
 

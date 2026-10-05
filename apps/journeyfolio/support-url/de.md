@@ -49,13 +49,13 @@ Ja. Füge einer einzigen Reise mehrere Reiseziele hinzu. Jede Stadt erhält ihre
 
 Sieben Kategorien decken alles ab, was du brauchst:
 
-- **Flüge** — Flugnummer, Sitzplatz, Bestätigung, Live-Status
-- **Hotels** — Adresse, Telefon, Check-in-/Check-out-Daten, Notizen
-- **Transport** — Mietwagen, Züge, Busse, Fähren, Mitfahrgelegenheiten, Shuttles
-- **Restaurants** — Name, Adresse, Telefon, Notizen
-- **Orte und Tickets** — Sehenswürdigkeiten, Museen, Veranstaltungen, Touren, Parks, Shopping
-- **Versicherung** — Policendetails und Notizen
-- **Sonstiges** — alles andere, das es wert ist, erinnert zu werden
+- **Flüge**: Flugnummer, Sitzplatz, Bestätigung, Live-Status
+- **Hotels**: Adresse, Telefon, Check-in-/Check-out-Daten, Notizen
+- **Transport**: Mietwagen, Züge, Busse, Fähren, Mitfahrgelegenheiten, Shuttles
+- **Restaurants**: Name, Adresse, Telefon, Notizen
+- **Orte und Tickets**: Sehenswürdigkeiten, Museen, Veranstaltungen, Touren, Parks, Shopping
+- **Versicherung**: Policendetails und Notizen
+- **Sonstiges**: alles andere, das es wert ist, erinnert zu werden
 
 ### Kann sich eine Aktivität über mehrere Tage erstrecken?
 

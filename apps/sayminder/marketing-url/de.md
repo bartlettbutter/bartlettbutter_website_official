@@ -2,7 +2,7 @@
 layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "Sprich eine Erinnerung aus und sie erreicht dich pünktlich – auch lautlos – und liest sich selbst laut vor."
+app_description: "Sprich eine Erinnerung aus und sie erreicht dich pünktlich, auch lautlos, und liest sich selbst laut vor."
 app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
 lang: de
 permalink: /sayminder/de/
@@ -12,16 +12,16 @@ redirect_from:
 
 # Erinnere dich mit Stil. Sag es einfach laut.
 
-Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrückt, sag was und wann, und Sayminder transkribiert es, liest die Zeit aus deinen Worten und legt sie in deinen Kalender. Wenn der Moment kommt, meldet es sich – auch lautlos oder im Fokus – und liest dir die Erinnerung mit natürlicher Stimme vor.
+Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrückt, sag was und wann, und Sayminder transkribiert es, liest die Zeit aus deinen Worten und legt sie in deinen Kalender. Wenn der Moment kommt, meldet es sich, auch lautlos oder im Fokus, und liest dir die Erinnerung mit natürlicher Stimme vor.
 
 <div class="marketing-shot-placeholder-grid" aria-label="Sayminder-Screenshots folgen in Kürze">
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Drücken & sprechen – Live-Transkript</span>
+    <span class="marketing-shot-placeholder-caption">Drücken & sprechen: Live-Transkript</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Tagesüberblick – Nächstes zuerst</span>
+    <span class="marketing-shot-placeholder-caption">Tagesüberblick: Nächstes zuerst</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Screenshot</span>
@@ -64,7 +64,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Warum man es wählt</p>
     <h2 id="sy-why-title" class="marketing-section-title">Eine Erinnerungs-App, mit der du sprichst, statt in sie zu tippen.</h2>
-    <p class="marketing-section-intro">Sayminder nimmt einen gesprochenen Satz, versteht die darin enthaltene Zeit und macht daraus eine Erinnerung, die dich wirklich erreicht – so ist ein Gedanke festgehalten, so schnell wie du ihn aussprichst.</p>
+    <p class="marketing-section-intro">Sayminder nimmt einen gesprochenen Satz, versteht die darin enthaltene Zeit und macht daraus eine Erinnerung, die dich wirklich erreicht. So ist ein Gedanke festgehalten, so schnell wie du ihn aussprichst.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -87,7 +87,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
     </article>
     <article class="marketing-card">
       <h3>Es liest dir vor</h3>
-      <p>Wenn eine Erinnerung eintrifft, spricht die App sie laut aus – und bestätigt laut, wenn du eine speicherst – damit der ganze Ablauf freihändig bleibt.</p>
+      <p>Wenn eine Erinnerung eintrifft, spricht die App sie laut aus und bestätigt laut, wenn du eine speicherst, damit der ganze Ablauf freihändig bleibt.</p>
       <ul class="marketing-list">
         <li>„Okay. Ich erinnere dich daran, …" nach dem Speichern</li>
         <li>Jede Listenzeile kann auf Wunsch vorgelesen werden</li>
@@ -110,7 +110,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Produktarchitektur</p>
     <h2 id="sy-arch-title" class="marketing-section-title">Eine Sprachoberfläche, vier Wege, deinen Tag im Griff zu behalten.</h2>
-    <p class="marketing-section-intro">Jeder Teil von Sayminder beantwortet eine andere Frage – was festzuhalten ist, was als Nächstes kommt, was an einem bestimmten Tag ansteht und was gerade ausgelöst hat – und behält dabei denselben ruhigen, gepflegten Stil.</p>
+    <p class="marketing-section-intro">Jeder Teil von Sayminder beantwortet eine andere Frage: was festzuhalten ist, was als Nächstes kommt, was an einem bestimmten Tag ansteht und was gerade ausgelöst hat. Dabei behält es denselben ruhigen, gepflegten Stil.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -160,7 +160,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
     </article>
     <article class="marketing-step">
       <h3>Es erreicht dich</h3>
-      <p>Ein durchbrechender Alarm löst pünktlich aus – auch lautlos – und liest die Erinnerung laut vor.</p>
+      <p>Ein durchbrechender Alarm löst pünktlich aus, auch lautlos, und liest die Erinnerung laut vor.</p>
     </article>
     <article class="marketing-step">
       <h3>Zum Löschen tippen</h3>
@@ -177,7 +177,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Erinnerungen, die mit einem gesprochenen Gedanken Schritt halten</h3>
-      <p>Halte eine Erinnerung in der Sekunde fest, in der sie dir einfällt – beim Gehen, Fahren, mit vollen Händen – ohne anzuhalten, um durch Datumsräder zu tippen. Freihändiges Erstellen über Siri, Kurzbefehle und Spotlight bedeutet, dass eine Erinnerung hinzugefügt werden und pünktlich auslösen kann, selbst wenn du die App nie öffnest.</p>
+      <p>Halte eine Erinnerung in der Sekunde fest, in der sie dir einfällt (beim Gehen, Fahren, mit vollen Händen), ohne anzuhalten, um durch Datumsräder zu tippen. Freihändiges Erstellen über Siri, Kurzbefehle und Spotlight bedeutet, dass eine Erinnerung hinzugefügt werden und pünktlich auslösen kann, selbst wenn du die App nie öffnest.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Für echte tägliche Routinen gemacht</h3>
@@ -193,7 +193,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">Bereit, das Erste auszusprechen, das du nicht vergessen willst?</h2>
-  <p>Lade Sayminder, aktiviere Hinweise, damit Erinnerungen dich erreichen können, und halte die Support- und Datenschutzseiten griffbereit – als Teil desselben ausgefeilten App-Erlebnisses.</p>
+  <p>Lade Sayminder, aktiviere Hinweise, damit Erinnerungen dich erreichen können, und halte die Support- und Datenschutzseiten griffbereit, als Teil desselben ausgefeilten App-Erlebnisses.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/de/">Support besuchen</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/de/">Datenschutzrichtlinie lesen</a>

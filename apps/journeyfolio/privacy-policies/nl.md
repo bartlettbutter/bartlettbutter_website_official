@@ -47,7 +47,7 @@ Wanneer u een bestemming toevoegt of naar plaatsen zoekt, worden uw zoekopdracht
 
 | Toestemming | Wanneer Gevraagd | Doel | Verlaten Gegevens het Apparaat? |
 |-------------|------------------|------|----------------------------------|
-| Camera | Wanneer u een document fotografeert | Reisdocumenten aan activiteiten koppelen | Nee — op het apparaat verwerkt via OCR |
+| Camera | Wanneer u een document fotografeert | Reisdocumenten aan activiteiten koppelen | Nee, op het apparaat verwerkt via OCR |
 | Fotobibliotheek | Wanneer u een bestaande afbeelding importeert | Opgeslagen afbeeldingen aan activiteiten koppelen | Nee |
 
 Beide toestemmingen zijn optioneel. De app werkt volledig zonder deze. Er worden nooit afbeeldingen naar externe servers geüpload.

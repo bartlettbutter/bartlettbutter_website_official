@@ -12,7 +12,7 @@ redirect_from:
 
 # 색을 다르게 보세요. 어떤 사진이든 팔레트로 바꾸세요.
 
-여러분에게 영감을 주는 무엇이든 촬영하면 Huepick이 그 안에 숨겨진 팔레트를 드러냅니다 — 최대 12가지 색상을, 복사하고 이해하고 창의적인 도구로 재구성할 수 있도록. 입력 없음, 검색 없음, 계정 없음, 비용 없음.
+여러분에게 영감을 주는 무엇이든 촬영하면 Huepick이 그 안에 숨겨진 팔레트를 드러냅니다. 최대 12가지 색상을 복사하고 이해하고 창의적인 도구로 재구성할 수 있습니다. 입력 없음, 검색 없음, 계정 없음, 비용 없음.
 
 <!--gallery-->
 
@@ -30,7 +30,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">창의적 도구 — 분리, 듀오톤, 트라이톤, 픽셀화, 흐림, 글리치</span>
+    <span class="marketing-stat-label">창의적 도구: 분리, 듀오톤, 트라이톤, 픽셀화, 흐림, 글리치</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">색을 사랑하는 사람들이 선택하는 이유</p>
     <h2 id="hp-why-title" class="marketing-section-title">색을 담아내고 색으로 만들어내는 차분하고 완전한 방법.</h2>
-    <p class="marketing-section-intro">Huepick은 영감의 순간을 실제로 사용할 수 있는 팔레트로 바꾸고, 명확한 분석과 창의적인 도구로 계속 이어갑니다 — 가입도, 신호도 필요 없이.</p>
+    <p class="marketing-section-intro">Huepick은 영감의 순간을 실제로 사용할 수 있는 팔레트로 바꾸고, 가입도 신호도 필요 없이 명확한 분석과 창의적인 도구로 계속 이어갑니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">제품 구성</p>
     <h2 id="hp-modes-title" class="marketing-section-title">작업할 세 가지 공간, 처음부터 끝까지 일관된 색의 흐름.</h2>
-    <p class="marketing-section-intro">Huepick의 각 부분은 서로 다른 의도에 답합니다 — 색을 뽑아내고, 색을 가지고 놀고, 만든 것으로 다시 돌아오기 — 같은 명확하고 촉각적인 스타일을 유지하면서요.</p>
+    <p class="marketing-section-intro">Huepick의 각 부분은 같은 명확하고 촉각적인 스타일을 유지하면서, 색을 뽑아내고, 색을 가지고 놀고, 만든 것으로 다시 돌아오는 서로 다른 의도에 답합니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -153,7 +153,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>저장하고 공유하세요</h3>
-      <p>작품을 갤러리에 보관하거나 사진 앱에 다운로드하거나 직접 공유하세요 — 모두 오프라인으로.</p>
+      <p>작품을 갤러리에 보관하거나 사진 앱에 다운로드하거나 직접 공유하세요. 모두 오프라인에서 가능합니다.</p>
     </article>
   </div>
 </section>

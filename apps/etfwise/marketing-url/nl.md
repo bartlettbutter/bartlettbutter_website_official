@@ -53,7 +53,7 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Waarom beleggers ervoor kiezen</p>
     <h2 id="ew-why-title" class="marketing-section-title">Een rustige dagelijkse blik op de hele ETF-markt.</h2>
-    <p class="marketing-section-intro">ETFWise verandert een rumoerige markt in een snelle ochtendcheck: verse selecties, een begrijpelijke briefing en diepgaande fondsanalyse — allemaal zonder aanmelding, abonnement of dat je gegevens het apparaat verlaten.</p>
+    <p class="marketing-section-intro">ETFWise verandert een rumoerige markt in een snelle ochtendcheck: verse selecties, een begrijpelijke briefing en diepgaande fondsanalyse, allemaal zonder aanmelding, abonnement of dat je gegevens het apparaat verlaten.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Productarchitectuur</p>
     <h2 id="ew-modes-title" class="marketing-section-title">Drie manieren om de markt te bewerken, één consistente blik.</h2>
-    <p class="marketing-section-intro">Elk onderdeel van ETFWise beantwoordt een andere vraag — wat is er vandaag gebeurd, waar moet ik op letten, en waar bestaat dit fonds eigenlijk uit — met behoud van dezelfde duidelijke, leesbare stijl.</p>
+    <p class="marketing-section-intro">Met behoud van dezelfde duidelijke, leesbare stijl beantwoordt elk onderdeel van ETFWise een andere vraag: wat is er vandaag gebeurd, waar moet ik op letten, en waar bestaat dit fonds eigenlijk uit.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

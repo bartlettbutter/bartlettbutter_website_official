@@ -2,7 +2,7 @@
 layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "说出提醒，它就会准时找到你——即使静音也不例外——还会用自然语音朗读出来。"
+app_description: "说出提醒，它就会准时找到你，即使静音也不例外，还会用自然语音朗读出来。"
 app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
 lang: zh-Hans
 permalink: /sayminder/zh-Hans/
@@ -12,16 +12,16 @@ redirect_from:
 
 # 优雅地记住每件事。说出来就好。
 
-最快的提醒，就是你说出来的那一句。按住麦克风，说出要做什么、什么时候做，Sayminder 会为你转写文字，从你的话里读出时间，并把它放进你的日历。到了那一刻，它会提醒你——即使在静音或专注模式下——并用自然的语音把提醒念给你听。
+最快的提醒，就是你说出来的那一句。按住麦克风，说出要做什么、什么时候做，Sayminder 会为你转写文字，从你的话里读出时间，并把它放进你的日历。到了那一刻，它会提醒你（即使在静音或专注模式下），并用自然的语音把提醒念给你听。
 
 <div class="marketing-shot-placeholder-grid" aria-label="Sayminder 截图即将推出">
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">截图</span>
-    <span class="marketing-shot-placeholder-caption">按住即说——实时转写</span>
+    <span class="marketing-shot-placeholder-caption">按住即说：实时转写</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">截图</span>
-    <span class="marketing-shot-placeholder-caption">今日简报——最近的优先</span>
+    <span class="marketing-shot-placeholder-caption">今日简报：最近的优先</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">截图</span>
@@ -64,7 +64,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">人们为何选择它</p>
     <h2 id="sy-why-title" class="marketing-section-title">一款用来说、而不是用来打字的提醒应用。</h2>
-    <p class="marketing-section-intro">Sayminder 听懂你说的一句话，理解其中的时间，把它变成真正能找到你的提醒——记下一个念头，快得就像说出它一样。</p>
+    <p class="marketing-section-intro">Sayminder 听懂你说的一句话，理解其中的时间，把它变成真正能找到你的提醒。记下一个念头，快得就像说出它一样。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -87,7 +87,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>它会念给你听</h3>
-      <p>提醒到来时，应用会把它朗读出来——保存时也会出声确认——让整个流程都能免持操作。</p>
+      <p>提醒到来时，应用会把它朗读出来，保存时也会出声确认，让整个流程都能免持操作。</p>
       <ul class="marketing-list">
         <li>保存后会说「好的，我会提醒你……」</li>
         <li>任意列表项都能按需朗读</li>
@@ -110,7 +110,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">产品架构</p>
     <h2 id="sy-arch-title" class="marketing-section-title">一个语音入口，四种方式掌控你的一天。</h2>
-    <p class="marketing-section-intro">Sayminder 的每一部分都回答一个不同的问题——要记什么、接下来是什么、某一天有什么、刚刚响了什么——同时保持同样从容、有条理的风格。</p>
+    <p class="marketing-section-intro">Sayminder 的每一部分都回答一个不同的问题：要记什么、接下来是什么、某一天有什么、刚刚响了什么，同时保持同样从容、有条理的风格。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -160,7 +160,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>它会找到你</h3>
-      <p>突破式闹铃准时响起——即使静音——并朗读提醒内容。</p>
+      <p>突破式闹铃即使在静音时也会准时响起，并朗读提醒内容。</p>
     </article>
     <article class="marketing-step">
       <h3>点一下清除</h3>
@@ -177,7 +177,7 @@ redirect_from:
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>跟得上一闪念的提醒</h3>
-      <p>在想到的那一秒就记下提醒——走路、开车、双手忙着都行——无需停下来拨动日期滚轮。通过 Siri、快捷指令和聚焦搜索的免持创建，意味着即使你从未打开应用，提醒也能被添加并准时响起。</p>
+      <p>在想到的那一秒就记下提醒，走路、开车、双手忙着都行，无需停下来拨动日期滚轮。通过 Siri、快捷指令和聚焦搜索的免持创建，意味着即使你从未打开应用，提醒也能被添加并准时响起。</p>
     </article>
     <article class="marketing-story-card">
       <h3>为真实的日常而生</h3>

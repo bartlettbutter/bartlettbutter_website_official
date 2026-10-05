@@ -2,7 +2,7 @@
 layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "Di un recordatorio y te llegará a tiempo —incluso en silencio— y se lee en voz alta."
+app_description: "Di un recordatorio y te llegará a tiempo, incluso en silencio, y se lee en voz alta."
 app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
 lang: es
 permalink: /sayminder/es/
@@ -12,7 +12,7 @@ redirect_from:
 
 # Recuerda con estilo. Solo dilo en voz alta.
 
-El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di qué y cuándo, y Sayminder lo transcribe, extrae la hora de tus palabras y lo coloca en tu calendario. Cuando llega el momento te avisa —incluso en silencio o en modo Concentración— y te lee el recordatorio con una voz natural.
+El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di qué y cuándo, y Sayminder lo transcribe, extrae la hora de tus palabras y lo coloca en tu calendario. Cuando llega el momento te avisa, incluso en silencio o en modo Concentración, y te lee el recordatorio con una voz natural.
 
 <div class="marketing-shot-placeholder-grid" aria-label="Capturas de Sayminder próximamente">
   <div class="marketing-shot-placeholder">
@@ -87,7 +87,7 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
     </article>
     <article class="marketing-card">
       <h3>Te lo lee</h3>
-      <p>Cuando llega un recordatorio, la app lo dice en voz alta —y confirma en voz alta cuando guardas uno— para que todo el ciclo sea manos libres.</p>
+      <p>Cuando llega un recordatorio, la app lo dice en voz alta y confirma en voz alta cuando guardas uno, para que todo el ciclo sea manos libres.</p>
       <ul class="marketing-list">
         <li>«De acuerdo. Te recordaré que…» después de guardar</li>
         <li>Cualquier fila de la lista se puede leer cuando quieras</li>
@@ -110,7 +110,7 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Arquitectura del producto</p>
     <h2 id="sy-arch-title" class="marketing-section-title">Una superficie de voz, cuatro formas de controlar tu día.</h2>
-    <p class="marketing-section-intro">Cada parte de Sayminder responde a una pregunta distinta —qué capturar, qué viene después, qué hay en un día concreto y qué acaba de sonar— manteniendo el mismo estilo sereno y cuidado.</p>
+    <p class="marketing-section-intro">Manteniendo el mismo estilo sereno y cuidado, cada parte de Sayminder responde a una pregunta distinta: qué capturar, qué viene después, qué hay en un día concreto y qué acaba de sonar.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -160,7 +160,7 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
     </article>
     <article class="marketing-step">
       <h3>Te llega</h3>
-      <p>Una alarma prioritaria suena a tiempo —incluso en silencio— y lee el recordatorio en voz alta.</p>
+      <p>Una alarma prioritaria suena a tiempo, incluso en silencio, y lee el recordatorio en voz alta.</p>
     </article>
     <article class="marketing-step">
       <h3>Toca para descartar</h3>
@@ -177,7 +177,7 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Recordatorios que siguen el ritmo de una idea hablada</h3>
-      <p>Captura un recordatorio en el segundo en que se te ocurre —caminando, conduciendo, con las manos ocupadas— sin detenerte a girar ruedas de fecha. La creación manos libres con Siri, Atajos y Spotlight significa que un recordatorio puede añadirse y sonar a tiempo aunque nunca abras la app.</p>
+      <p>Captura un recordatorio en el segundo en que se te ocurre (caminando, conduciendo, con las manos ocupadas) sin detenerte a girar ruedas de fecha. La creación manos libres con Siri, Atajos y Spotlight significa que un recordatorio puede añadirse y sonar a tiempo aunque nunca abras la app.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Hecho para rutinas diarias reales</h3>

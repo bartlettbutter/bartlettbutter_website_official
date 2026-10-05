@@ -21,7 +21,7 @@ Wir möchten, dass Sie das Beste aus Sayminder herausholen. Wenn etwas nicht wie
 
 ### Wie erstelle ich eine Erinnerung?
 
-Tippen Sie auf die Mikrofontaste und sprechen Sie – zum Beispiel „Erinnere mich, heute Abend um neun meine Medizin zu nehmen“. Sayminder transkribiert Ihre Worte, liest daraus Datum und Uhrzeit heraus und zeigt eine Bestätigungskarte an. Überprüfen oder bearbeiten Sie Titel, Notizen, Uhrzeit und Wiederholungsoption und sichern Sie anschließend. Die App liest Ihnen eine kurze Bestätigung vor.
+Tippen Sie auf die Mikrofontaste und sprechen Sie, zum Beispiel: „Erinnere mich, heute Abend um neun meine Medizin zu nehmen“. Sayminder transkribiert Ihre Worte, liest daraus Datum und Uhrzeit heraus und zeigt eine Bestätigungskarte an. Überprüfen oder bearbeiten Sie Titel, Notizen, Uhrzeit und Wiederholungsoption und sichern Sie anschließend. Die App liest Ihnen eine kurze Bestätigung vor.
 
 ### Welche Arten von Zeitangaben kann ich sagen?
 
@@ -59,7 +59,7 @@ Ja. Sayminder fügt einen App-Kurzbefehl hinzu, sodass Sie eine Erinnerung per S
 
 ### Kann Sayminder meine Kalenderereignisse anzeigen?
 
-Ja, optional. Aktivieren Sie **Kalenderereignisse anzeigen** in den Einstellungen, um die Ereignisse Ihres Systemkalenders im Tagesüberblick, in der Anstehend-Liste und im Kalenderraster zu spiegeln. Diese Ebene ist streng schreibgeschützt – Sayminder erstellt, bearbeitet oder löscht niemals Kalenderereignisse – und sie ist deaktiviert, bis Sie sie einschalten.
+Ja, optional. Aktivieren Sie **Kalenderereignisse anzeigen** in den Einstellungen, um die Ereignisse Ihres Systemkalenders im Tagesüberblick, in der Anstehend-Liste und im Kalenderraster zu spiegeln. Diese Ebene ist streng schreibgeschützt: Sayminder erstellt, bearbeitet oder löscht niemals Kalenderereignisse, und sie ist deaktiviert, bis Sie sie einschalten.
 
 ### Funktioniert Sayminder auf dem iPad?
 
@@ -77,7 +77,7 @@ Eine Erinnerung kann Sie nicht erreichen, wenn weder Wecker noch Mitteilungen au
 
 ### Warum erscheint die Kalenderberechtigung nur manchmal?
 
-Der schreibgeschützte Kalenderzugriff wird verzögert angefordert – nur wenn Sie **Kalenderereignisse anzeigen** in den Einstellungen aktivieren – und nicht beim Start.
+Der schreibgeschützte Kalenderzugriff wird verzögert angefordert, nur wenn Sie **Kalenderereignisse anzeigen** in den Einstellungen aktivieren, und nicht beim Start.
 
 ## Fehlerbehebung
 
@@ -91,7 +91,7 @@ Gehen Sie zu den Einstellungen Ihres Geräts > Datenschutz & Sicherheit > Mikrof
 
 ### Die ermittelte Uhrzeit ist falsch
 
-Die Erkennung ist heuristisch. Jede Erinnerung wird vor dem Sichern zur Überprüfung angezeigt – passen Sie die Uhrzeit auf der Bestätigungskarte an. Wurde keine konkrete Uhrzeit erkannt, wird die Erinnerung standardmäßig auf eine Stunde ab jetzt gesetzt und markiert, damit Sie sie festlegen können.
+Die Erkennung ist heuristisch. Jede Erinnerung wird vor dem Sichern zur Überprüfung angezeigt. Passen Sie die Uhrzeit auf der Bestätigungskarte an. Wurde keine konkrete Uhrzeit erkannt, wird die Erinnerung standardmäßig auf eine Stunde ab jetzt gesetzt und markiert, damit Sie sie festlegen können.
 
 ### Die Uhrzeit einer einmaligen Erinnerung liegt bereits in der Vergangenheit
 

@@ -12,7 +12,7 @@ redirect_from:
 
 # 모든 개에게는 이야기가 있습니다. 즉시 발견하세요.
 
-어떤 개든 사진을 찍으면 Barkpedia가 품종의 이름을 알려주고, 그 뒤에 담긴 이야기 전체를 열어줍니다 — 기질, 역사, 기원, 그리고 흥미로운 사실까지. 입력도, 검색도, 비용도 필요 없고, 품종 식별은 신호가 없어도 작동합니다.
+어떤 개든 사진을 찍으면 Barkpedia가 품종의 이름을 알려주고, 기질, 역사, 기원, 그리고 흥미로운 사실까지 그 뒤에 담긴 이야기 전체를 열어줍니다. 입력도, 검색도, 비용도 필요 없고, 품종 식별은 신호가 없어도 작동합니다.
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">개 애호가가 선택하는 이유</p>
     <h2 id="bp-why-title" class="marketing-section-title">개의 세계를 담은 차분하고 완전한 포켓 가이드.</h2>
-    <p class="marketing-section-intro">Barkpedia는 공원에서의 궁금한 순간을 진짜 답변으로 바꾸고, 역사와 프로필, 그리고 약간의 재미까지 이어갑니다 — 가입 없이, 그리고 품종 식별은 신호가 없어도 작동합니다.</p>
+    <p class="marketing-section-intro">Barkpedia는 공원에서의 궁금한 순간을 진짜 답변으로 바꾸고, 역사와 프로필, 그리고 약간의 재미까지 이어갑니다. 모두 가입 없이 이용할 수 있고, 품종 식별은 신호가 없어도 작동합니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">제품 구조</p>
     <h2 id="bp-modes-title" class="marketing-section-title">즐기는 세 가지 방법, 처음부터 끝까지 하나의 친절한 가이드.</h2>
-    <p class="marketing-section-intro">Barkpedia의 각 부분은 서로 다른 기분에 답합니다 — 빠른 질문, 한나절의 탐색, 또는 게임 나이트 — 같은 명확하고 읽기 쉬운 스타일을 유지하면서.</p>
+    <p class="marketing-section-intro">Barkpedia의 각 부분은 같은 명확하고 읽기 쉬운 스타일을 유지하면서 빠른 질문, 한나절의 탐색, 또는 게임 나이트처럼 서로 다른 기분에 답합니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

@@ -2,7 +2,7 @@
 layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "تحدّث بتذكيرٍ فيصلك في وقته المحدد — حتى في الوضع الصامت — ويُقرأ عليك بصوتٍ مسموع."
+app_description: "تحدّث بتذكيرٍ فيصلك في وقته المحدد، حتى في الوضع الصامت، ويُقرأ عليك بصوتٍ مسموع."
 app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
 lang: ar
 permalink: /sayminder/ar/
@@ -12,16 +12,16 @@ redirect_from:
 
 # تذكّر بأناقة. فقط قُلها بصوتٍ عالٍ.
 
-أسرع تذكير هو الذي تنطق به. اضغط على الميكروفون مع الاستمرار، وقُل ماذا ومتى، فيقوم Sayminder بتحويله إلى نص، ويستخرج الوقت من كلماتك، ويضعه في تقويمك. وعند حلول الموعد ينبّهك — حتى في الوضع الصامت أو التركيز — ويقرأ التذكير عليك بصوتٍ طبيعي.
+أسرع تذكير هو الذي تنطق به. اضغط على الميكروفون مع الاستمرار، وقُل ماذا ومتى، فيقوم Sayminder بتحويله إلى نص، ويستخرج الوقت من كلماتك، ويضعه في تقويمك. وعند حلول الموعد ينبّهك، حتى في الوضع الصامت أو التركيز، ويقرأ التذكير عليك بصوتٍ طبيعي.
 
 <div class="marketing-shot-placeholder-grid" aria-label="لقطات شاشة Sayminder قريبًا">
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">لقطة شاشة</span>
-    <span class="marketing-shot-placeholder-caption">اضغط وتحدّث — نص مباشر</span>
+    <span class="marketing-shot-placeholder-caption">اضغط وتحدّث: نص مباشر</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">لقطة شاشة</span>
-    <span class="marketing-shot-placeholder-caption">موجز اليوم — الأقرب أولًا</span>
+    <span class="marketing-shot-placeholder-caption">موجز اليوم: الأقرب أولًا</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">لقطة شاشة</span>
@@ -64,7 +64,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">لماذا يختاره الناس</p>
     <h2 id="sy-why-title" class="marketing-section-title">تطبيق تذكيرات تُحدّثه بدلًا من أن تكتب فيه.</h2>
-    <p class="marketing-section-intro">يأخذ Sayminder جملةً منطوقة، ويفهم الوقت الكامن فيها، ويحوّلها إلى تذكيرٍ يصلك فعلًا — فيصبح تدوين فكرةٍ سريعًا كنطقها.</p>
+    <p class="marketing-section-intro">يأخذ Sayminder جملةً منطوقة، ويفهم الوقت الكامن فيها، ويحوّلها إلى تذكيرٍ يصلك فعلًا، فيصبح تدوين فكرةٍ سريعًا كنطقها.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -87,7 +87,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>يقرأ عليك</h3>
-      <p>عند وصول تذكير، ينطق به التطبيق بصوتٍ مسموع — ويؤكّد بصوتٍ عالٍ عند حفظك لواحد — لتكون الدورة كلها دون استخدام اليدين.</p>
+      <p>عند وصول تذكير، ينطق به التطبيق بصوتٍ مسموع، ويؤكّد بصوتٍ عالٍ عند حفظك لواحد، لتكون الدورة كلها دون استخدام اليدين.</p>
       <ul class="marketing-list">
         <li>«حسنًا. سأذكّرك بأن…» بعد الحفظ</li>
         <li>يمكن نطق أي صفٍّ في القائمة عند الطلب</li>
@@ -110,7 +110,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">بنية المنتج</p>
     <h2 id="sy-arch-title" class="marketing-section-title">واجهة صوتية واحدة، وأربع طرق للسيطرة على يومك.</h2>
-    <p class="marketing-section-intro">يجيب كل جزء من Sayminder عن سؤالٍ مختلف — ماذا تُدوّن، وما التالي، وما الذي في يومٍ محدد، وما الذي انطلق للتو — مع الحفاظ على الأسلوب الهادئ المنسّق نفسه.</p>
+    <p class="marketing-section-intro">يجيب كل جزء من Sayminder عن سؤالٍ مختلف: ماذا تُدوّن، وما التالي، وما الذي في يومٍ محدد، وما الذي انطلق للتو، مع الحفاظ على الأسلوب الهادئ المنسّق نفسه.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -160,7 +160,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>يصلك</h3>
-      <p>ينطلق تنبيه مخترِق في وقته — حتى في الوضع الصامت — ويقرأ التذكير بصوتٍ مسموع.</p>
+      <p>ينطلق تنبيه مخترِق في وقته، حتى في الوضع الصامت، ويقرأ التذكير بصوتٍ مسموع.</p>
     </article>
     <article class="marketing-step">
       <h3>انقر للمسح</h3>
@@ -177,7 +177,7 @@ redirect_from:
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>تذكيرات تواكب الفكرة المنطوقة</h3>
-      <p>سجّل تذكيرًا في اللحظة التي تخطر لك فيها — وأنت تمشي أو تقود أو يداك مشغولتان — دون التوقف لتدوير عجلات التاريخ. يعني الإنشاء دون استخدام اليدين عبر Siri والاختصارات وSpotlight أنه يمكن إضافة تذكير وانطلاقه في وقته حتى لو لم تفتح التطبيق قط.</p>
+      <p>سجّل تذكيرًا في اللحظة التي تخطر لك فيها، وأنت تمشي أو تقود أو يداك مشغولتان، دون التوقف لتدوير عجلات التاريخ. يعني الإنشاء دون استخدام اليدين عبر Siri والاختصارات وSpotlight أنه يمكن إضافة تذكير وانطلاقه في وقته حتى لو لم تفتح التطبيق قط.</p>
     </article>
     <article class="marketing-story-card">
       <h3>مصمَّم لروتينٍ يومي حقيقي</h3>

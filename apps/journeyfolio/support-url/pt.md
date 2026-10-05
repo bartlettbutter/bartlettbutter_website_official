@@ -49,13 +49,13 @@ Sim. Adicione vários destinos a uma única viagem. Cada cidade tem sua própria
 
 Sete categorias cobrem tudo o que você precisa:
 
-- **Voos** — número do voo, assento, confirmação, status ao vivo
-- **Hotéis** — endereço, telefone, datas de check-in/check-out, notas
-- **Transporte** — aluguel de carros, trens, ônibus, balsas, caronas, transfers
-- **Restaurantes** — nome, endereço, telefone, notas
-- **Lugares e Ingressos** — atrações, museus, eventos, tours, parques, compras
-- **Seguro** — detalhes da apólice e notas
-- **Outros** — qualquer outra coisa que valha a pena lembrar
+- **Voos**: número do voo, assento, confirmação, status ao vivo
+- **Hotéis**: endereço, telefone, datas de check-in/check-out, notas
+- **Transporte**: aluguel de carros, trens, ônibus, balsas, caronas, transfers
+- **Restaurantes**: nome, endereço, telefone, notas
+- **Lugares e Ingressos**: atrações, museus, eventos, tours, parques, compras
+- **Seguro**: detalhes da apólice e notas
+- **Outros**: qualquer outra coisa que valha a pena lembrar
 
 ### Uma atividade pode abranger vários dias?
 

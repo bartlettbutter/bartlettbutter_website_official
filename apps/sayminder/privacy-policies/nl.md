@@ -39,11 +39,11 @@ Wanneer je toestemming geeft voor de microfoon en spraakherkenning, wordt je spr
 
 ### Herinneringen en notities
 
-De herinneringen die je maakt — hun titels, notities, tijden, herhaling en de oorspronkelijke ingesproken transcriptie — worden alleen op je apparaat opgeslagen, in een gedeelde app-container zodat de app, de bijbehorende widget en de Siri-/Opdrachten-intentie één betrouwbare bron kunnen lezen. Ze worden nooit geüpload.
+De herinneringen die je maakt, inclusief hun titels, notities, tijden, herhaling en de oorspronkelijke ingesproken transcriptie, worden alleen op je apparaat opgeslagen, in een gedeelde app-container zodat de app, de bijbehorende widget en de Siri-/Opdrachten-intentie één betrouwbare bron kunnen lezen. Ze worden nooit geüpload.
 
 ### Agenda (optioneel, alleen-lezen)
 
-Als je **Agenda-afspraken tonen** inschakelt, leest de app de afspraken van je systeemagenda om ze naast je herinneringen weer te geven. Deze toegang is alleen-lezen — Sayminder maakt, bewerkt of verwijdert nooit agenda-afspraken — en de afspraken worden alleen op je apparaat gelezen om de agenda weer te geven. Deze laag is uitgeschakeld totdat je hem inschakelt.
+Als je **Agenda-afspraken tonen** inschakelt, leest de app de afspraken van je systeemagenda om ze naast je herinneringen weer te geven. Deze toegang is alleen-lezen: Sayminder maakt, bewerkt of verwijdert nooit agenda-afspraken, en de afspraken worden alleen op je apparaat gelezen om de agenda weer te geven. Deze laag is uitgeschakeld totdat je hem inschakelt.
 
 ### Planning en tekst-naar-spraak
 

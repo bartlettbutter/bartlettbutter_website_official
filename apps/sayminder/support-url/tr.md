@@ -21,7 +21,7 @@ Yalnızca Sayminder'ı açın. Hesap yok, kayıt yok. İlk açılışta sizi duy
 
 ### Nasıl hatırlatıcı oluştururum?
 
-Mikrofon düğmesine dokunun ve konuşun — örneğin, "bana bu akşam dokuzda ilaç almamı hatırlat." Sayminder söylediklerinizi yazıya döker, içinden tarih ve saati okur ve bir onay kartı gösterir. Başlığı, notları, saati ve tekrar seçeneğini gözden geçirin veya düzenleyin, sonra kaydedin. Kısa bir onayı size sesli okur.
+Mikrofon düğmesine dokunun ve konuşun, örneğin: "bana bu akşam dokuzda ilaç almamı hatırlat." Sayminder söylediklerinizi yazıya döker, içinden tarih ve saati okur ve bir onay kartı gösterir. Başlığı, notları, saati ve tekrar seçeneğini gözden geçirin veya düzenleyin, sonra kaydedin. Kısa bir onayı size sesli okur.
 
 ### Ne tür saatler söyleyebilirim?
 
@@ -59,7 +59,7 @@ Evet. Sayminder bir Uygulama Kısayolu ekler, böylece Siri, Kısayollar veya Sp
 
 ### Sayminder takvim etkinliklerimi gösterebilir mi?
 
-Evet, isteğe bağlı olarak. Sistem takvimi etkinliklerinizi Bugünün Özeti'ne, Yaklaşan listesine ve Takvim ızgarasına yansıtmak için Ayarlar'da **Takvim etkinliklerini göster** seçeneğini açın. Bu katman kesinlikle salt okunurdur — Sayminder takvim etkinliklerini asla oluşturmaz, düzenlemez veya silmez — ve siz açana kadar kapalıdır.
+Evet, isteğe bağlı olarak. Sistem takvimi etkinliklerinizi Bugünün Özeti'ne, Yaklaşan listesine ve Takvim ızgarasına yansıtmak için Ayarlar'da **Takvim etkinliklerini göster** seçeneğini açın. Bu katman kesinlikle salt okunurdur: Sayminder takvim etkinliklerini asla oluşturmaz, düzenlemez veya silmez. Bu katman siz açana kadar kapalıdır.
 
 ### Sayminder iPad'de çalışır mı?
 
@@ -91,7 +91,7 @@ Cihazınızın Ayarlar > Gizlilik ve Güvenlik > Mikrofon bölümüne gidin ve S
 
 ### Ayrıştırdığı saat yanlış
 
-Ayrıştırma sezgiseldir. Her hatırlatıcı, kaydedilmeden önce gözden geçirilmek üzere gösterilir — onay kartında saati ayarlayın. Somut bir saat algılanmadıysa hatırlatıcı varsayılan olarak bir saat sonrasına ayarlanır ve ayarlayabilmeniz için işaretlenir.
+Ayrıştırma sezgiseldir. Her hatırlatıcı, kaydedilmeden önce gözden geçirilmek üzere gösterilir. Onay kartında saati ayarlayın. Somut bir saat algılanmadıysa hatırlatıcı varsayılan olarak bir saat sonrasına ayarlanır ve ayarlayabilmeniz için işaretlenir.
 
 ### Tek seferlik bir hatırlatıcının saati zaten geçmiş
 

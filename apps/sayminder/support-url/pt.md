@@ -21,7 +21,7 @@ Basta abrir o Sayminder. Não há conta nem cadastro. No primeiro início, ele s
 
 ### Como crio um lembrete?
 
-Toque no botão do microfone e fale — por exemplo, "lembre-me de tomar o remédio hoje à noite às nove". O Sayminder transcreve suas palavras, lê a data e a hora nelas e mostra um cartão de confirmação. Revise ou edite o título, as notas, a hora e a opção de repetição e, em seguida, salve. Ele lê uma breve confirmação de volta para você.
+Toque no botão do microfone e fale, por exemplo: "lembre-me de tomar o remédio hoje à noite às nove". O Sayminder transcreve suas palavras, lê a data e a hora nelas e mostra um cartão de confirmação. Revise ou edite o título, as notas, a hora e a opção de repetição e, em seguida, salve. Ele lê uma breve confirmação de volta para você.
 
 ### Que tipos de horários posso dizer?
 
@@ -59,7 +59,7 @@ Sim. O Sayminder adiciona um Atalho de app, então você pode criar um lembrete 
 
 ### O Sayminder pode mostrar os eventos do meu calendário?
 
-Sim, opcionalmente. Ative **Mostrar eventos do calendário** nos Ajustes para espelhar os eventos do calendário do sistema no Resumo de Hoje, na lista de Próximos e na grade do Calendário. Essa camada é estritamente somente leitura — o Sayminder nunca cria, edita nem exclui eventos do calendário — e fica desativada até você ativá-la.
+Sim, opcionalmente. Ative **Mostrar eventos do calendário** nos Ajustes para espelhar os eventos do calendário do sistema no Resumo de Hoje, na lista de Próximos e na grade do Calendário. Essa camada é estritamente somente leitura: o Sayminder nunca cria, edita nem exclui eventos do calendário, e fica desativada até você ativá-la.
 
 ### O Sayminder funciona no iPad?
 
@@ -77,7 +77,7 @@ Um lembrete não pode alcançá-lo se nem os alarmes nem as notificações estiv
 
 ### Por que a permissão de calendário aparece apenas às vezes?
 
-O acesso ao calendário somente leitura é solicitado de forma tardia — apenas quando você ativa **Mostrar eventos do calendário** nos Ajustes — em vez de no início.
+O acesso ao calendário somente leitura é solicitado de forma tardia, apenas quando você ativa **Mostrar eventos do calendário** nos Ajustes, em vez de no início.
 
 ## Solução de problemas
 
@@ -91,7 +91,7 @@ Vá aos Ajustes do seu dispositivo > Privacidade e Segurança > Microfone e cert
 
 ### O horário que ele interpretou está errado
 
-A análise é heurística. Cada lembrete é mostrado para revisão antes de salvar — ajuste o horário no cartão de confirmação. Se nenhum horário concreto foi detectado, o lembrete é definido para daqui a uma hora por padrão e é sinalizado para que você possa defini-lo.
+A análise é heurística. Cada lembrete é mostrado para revisão antes de salvar. Ajuste o horário no cartão de confirmação. Se nenhum horário concreto foi detectado, o lembrete é definido para daqui a uma hora por padrão e é sinalizado para que você possa defini-lo.
 
 ### O horário de um lembrete único já passou
 

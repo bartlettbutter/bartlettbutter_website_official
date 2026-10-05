@@ -49,13 +49,13 @@ Ja. Voeg meerdere bestemmingen toe aan één reis. Elke stad krijgt zijn eigen r
 
 Zeven categorieën dekken alles wat je nodig hebt:
 
-- **Vluchten** — vluchtnummer, stoel, bevestiging, livestatus
-- **Hotels** — adres, telefoon, in-/uitcheckdata, notities
-- **Vervoer** — autoverhuur, treinen, bussen, veerboten, ritdelen, shuttles
-- **Restaurants** — naam, adres, telefoon, notities
-- **Plaatsen en Tickets** — attracties, musea, evenementen, tours, parken, winkelen
-- **Verzekering** — polisdetails en notities
-- **Overig** — al het andere dat het onthouden waard is
+- **Vluchten**: vluchtnummer, stoel, bevestiging, livestatus
+- **Hotels**: adres, telefoon, in-/uitcheckdata, notities
+- **Vervoer**: autoverhuur, treinen, bussen, veerboten, ritdelen, shuttles
+- **Restaurants**: naam, adres, telefoon, notities
+- **Plaatsen en Tickets**: attracties, musea, evenementen, tours, parken, winkelen
+- **Verzekering**: polisdetails en notities
+- **Overig**: al het andere dat het onthouden waard is
 
 ### Kan een activiteit meerdere dagen beslaan?
 

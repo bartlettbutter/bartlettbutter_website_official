@@ -37,15 +37,15 @@ Barkpedia identifica 147 razze basate sugli standard AKC.
 
 Esplora ti offre due modi per scoprire le razze:
 
-- **Ricerca** — Digita qualsiasi nome di razza per filtrare istantaneamente tra tutte le 147 razze.
-- **Mappa Mondiale** — Sfoglia una mappa interattiva che mostra le origini delle razze per paese. Tocca un segnaposto per vedere quali razze provengono da quella regione. Usa il pulsante di espansione per visualizzare la mappa a schermo intero.
+- **Ricerca**: digita qualsiasi nome di razza per filtrare istantaneamente tra tutte le 147 razze.
+- **Mappa Mondiale**: sfoglia una mappa interattiva che mostra le origini delle razze per paese. Tocca un segnaposto per vedere quali razze provengono da quella regione. Usa il pulsante di espansione per visualizzare la mappa a schermo intero.
 
 Sia la ricerca che la mappa funzionano offline.
 
 ### Come funzionano i giochi Quiz e Curiosità?
 
-- **Quiz delle Razze** — Ti viene mostrata una foto di cane e scegli la razza corretta tra quattro opzioni. Ogni round ha 10 domande. Guadagna titoli di ricompensa in base al tuo punteggio.
-- **Curiosità Cinofile** — Affermazioni vero o falso che mescolano fatti reali sui cani con miti plausibili. Anche qui 10 domande per round con titoli di ricompensa.
+- **Quiz delle Razze**: ti viene mostrata una foto di cane e scegli la razza corretta tra quattro opzioni. Ogni round ha 10 domande. Guadagna titoli di ricompensa in base al tuo punteggio.
+- **Curiosità Cinofile**: affermazioni vero o falso che mescolano fatti reali sui cani con miti plausibili. Anche qui 10 domande per round con titoli di ricompensa.
 
 Il Quiz delle Razze richiede una connessione internet per caricare le foto. Le Curiosità Cinofile funzionano completamente offline.
 

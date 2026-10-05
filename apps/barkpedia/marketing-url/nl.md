@@ -12,7 +12,7 @@ redirect_from:
 
 # Elke hond heeft een verhaal. Ontdek het direct.
 
-Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daarna het hele verhaal erachter — temperament, geschiedenis, oorsprong en leuke weetjes. Geen typen, geen zoeken en geen kosten — en rasherkenning werkt zelfs zonder bereik.
+Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daarna het hele verhaal erachter: temperament, geschiedenis, oorsprong en leuke weetjes. Geen typen, geen zoeken en geen kosten, en rasherkenning werkt zelfs zonder bereik.
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Waarom hondenliefhebbers ervoor kiezen</p>
     <h2 id="bp-why-title" class="marketing-section-title">Een rustige, complete zakgids voor de hondenwereld.</h2>
-    <p class="marketing-section-intro">Barkpedia verandert een nieuwsgierig moment in het park in een echt antwoord, en gaat dan verder met de geschiedenis, het profiel en een beetje plezier — allemaal zonder aanmelding, en rasherkenning werkt zelfs zonder bereik.</p>
+    <p class="marketing-section-intro">Barkpedia verandert een nieuwsgierig moment in het park in een echt antwoord, en gaat dan verder met de geschiedenis, het profiel en een beetje plezier, allemaal zonder aanmelding. Rasherkenning werkt zelfs zonder bereik.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Productarchitectuur</p>
     <h2 id="bp-modes-title" class="marketing-section-title">Drie manieren om ervan te genieten, één vriendelijke gids overal.</h2>
-    <p class="marketing-section-intro">Elk onderdeel van Barkpedia beantwoordt een andere stemming — een snelle vraag, een middag bladeren of een spelavond — met behoud van dezelfde duidelijke, leesbare stijl.</p>
+    <p class="marketing-section-intro">Elk onderdeel van Barkpedia beantwoordt een andere stemming (een snelle vraag, een middag bladeren of een spelavond), met behoud van dezelfde duidelijke, leesbare stijl.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

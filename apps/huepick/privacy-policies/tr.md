@@ -66,7 +66,7 @@ Verilerinizi kimseye satmıyor, paylaşmıyor veya kiralamıyoruz. Paylaşılaca
 
 | İzin | Neden Gerekli | Gerekli mi? |
 |------|---------------|-------------|
-| Kamera | Renk çıkarma için fotoğraf çekmek | İsteğe bağlı — bunun yerine fotoğraf kitaplığınızı kullanabilirsiniz |
+| Kamera | Renk çıkarma için fotoğraf çekmek | İsteğe bağlı: Bunun yerine fotoğraf kitaplığınızı kullanabilirsiniz |
 | Fotoğraf Kitaplığı | Fotoğraf seçmek ve işlenmiş görüntüleri kaydetmek | İsteğe bağlı |
 
 Canlı konumunuza erişim istemiyoruz. Konum verileri yalnızca fotoğrafınızın gömülü meta verilerinde zaten varsa okunur.

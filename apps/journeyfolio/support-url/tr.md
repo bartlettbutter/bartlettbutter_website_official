@@ -49,13 +49,13 @@ Evet. Tek bir geziye birden fazla hedef ekleyin. Her şehir kendi güzergâh bö
 
 Yedi kategori ihtiyacınız olan her şeyi kapsar:
 
-- **Uçuşlar** — uçuş numarası, koltuk, onay, canlı durum
-- **Oteller** — adres, telefon, giriş/çıkış tarihleri, notlar
-- **Ulaşım** — araç kiralama, trenler, otobüsler, feribotlar, yolculuk paylaşımı, servisler
-- **Restoranlar** — ad, adres, telefon, notlar
-- **Yerler ve Biletler** — cazibe merkezleri, müzeler, etkinlikler, turlar, parklar, alışveriş
-- **Sigorta** — poliçe ayrıntıları ve notlar
-- **Diğer** — hatırlanmaya değer başka her şey
+- **Uçuşlar**: uçuş numarası, koltuk, onay, canlı durum
+- **Oteller**: adres, telefon, giriş/çıkış tarihleri, notlar
+- **Ulaşım**: araç kiralama, trenler, otobüsler, feribotlar, yolculuk paylaşımı, servisler
+- **Restoranlar**: ad, adres, telefon, notlar
+- **Yerler ve Biletler**: cazibe merkezleri, müzeler, etkinlikler, turlar, parklar, alışveriş
+- **Sigorta**: poliçe ayrıntıları ve notlar
+- **Diğer**: hatırlanmaya değer başka her şey
 
 ### Bir etkinlik birden fazla güne yayılabilir mi?
 

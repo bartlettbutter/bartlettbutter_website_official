@@ -2,7 +2,7 @@
 layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "Dites un rappel et il vous parvient à l'heure — même en silencieux — et se lit à voix haute."
+app_description: "Dites un rappel et il vous parvient à l'heure, même en silencieux, et se lit à voix haute."
 app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
 lang: fr
 permalink: /sayminder/fr/
@@ -12,16 +12,16 @@ redirect_from:
 
 # Souvenez-vous avec élégance. Dites-le simplement à voix haute.
 
-Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites quoi et quand, et Sayminder le transcrit, extrait l'heure de vos mots et l'ajoute à votre calendrier. Le moment venu, il vous alerte — même en silencieux ou en mode Concentration — et vous relit le rappel d'une voix naturelle.
+Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites quoi et quand, et Sayminder le transcrit, extrait l'heure de vos mots et l'ajoute à votre calendrier. Le moment venu, il vous alerte, même en silencieux ou en mode Concentration, et vous relit le rappel d'une voix naturelle.
 
 <div class="marketing-shot-placeholder-grid" aria-label="Captures d'écran de Sayminder bientôt disponibles">
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Capture d'écran</span>
-    <span class="marketing-shot-placeholder-caption">Appuyez et parlez — transcription en direct</span>
+    <span class="marketing-shot-placeholder-caption">Appuyez et parlez : transcription en direct</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Capture d'écran</span>
-    <span class="marketing-shot-placeholder-caption">L'essentiel du jour — le plus proche d'abord</span>
+    <span class="marketing-shot-placeholder-caption">L'essentiel du jour : le plus proche d'abord</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Capture d'écran</span>
@@ -64,7 +64,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Pourquoi on le choisit</p>
     <h2 id="sy-why-title" class="marketing-section-title">Une app de rappels à laquelle vous parlez, plutôt que de taper dedans.</h2>
-    <p class="marketing-section-intro">Sayminder prend une phrase dite, comprend l'heure qu'elle contient et la transforme en un rappel qui vous parvient vraiment — noter une idée devient aussi rapide que de la dire.</p>
+    <p class="marketing-section-intro">Sayminder prend une phrase dite, comprend l'heure qu'elle contient et la transforme en un rappel qui vous parvient vraiment : noter une idée devient aussi rapide que de la dire.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -87,7 +87,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
     </article>
     <article class="marketing-card">
       <h3>Il vous le relit</h3>
-      <p>Quand un rappel arrive, l'app le prononce à voix haute — et confirme à voix haute quand vous en enregistrez un — pour que toute la boucle soit mains libres.</p>
+      <p>Quand un rappel arrive, l'app le prononce à voix haute et confirme à voix haute quand vous en enregistrez un, pour que toute la boucle soit mains libres.</p>
       <ul class="marketing-list">
         <li>« D'accord. Je te rappellerai de… » après l'enregistrement</li>
         <li>Toute ligne de la liste peut être lue à la demande</li>
@@ -110,7 +110,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Architecture du produit</p>
     <h2 id="sy-arch-title" class="marketing-section-title">Une surface vocale, quatre façons de maîtriser votre journée.</h2>
-    <p class="marketing-section-intro">Chaque partie de Sayminder répond à une question différente — quoi noter, quoi ensuite, quoi un jour donné, et quoi vient de sonner — tout en gardant le même style calme et soigné.</p>
+    <p class="marketing-section-intro">Tout en gardant le même style calme et soigné, chaque partie de Sayminder répond à une question différente : quoi noter, quoi ensuite, quoi un jour donné, et quoi vient de sonner.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -160,7 +160,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
     </article>
     <article class="marketing-step">
       <h3>Il vous parvient</h3>
-      <p>Une alarme prioritaire se déclenche à l'heure — même en silencieux — et lit le rappel à voix haute.</p>
+      <p>Une alarme prioritaire se déclenche à l'heure, même en silencieux, et lit le rappel à voix haute.</p>
     </article>
     <article class="marketing-step">
       <h3>Touchez pour effacer</h3>
@@ -177,7 +177,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Des rappels au rythme d'une pensée exprimée</h3>
-      <p>Notez un rappel à la seconde où l'idée vous vient — en marchant, en conduisant, les mains prises — sans vous arrêter pour faire défiler des roues de date. La création mains libres via Siri, Raccourcis et Spotlight signifie qu'un rappel peut être ajouté et se déclencher à l'heure même si vous n'ouvrez jamais l'app.</p>
+      <p>Notez un rappel à la seconde où l'idée vous vient (en marchant, en conduisant, les mains prises) sans vous arrêter pour faire défiler des roues de date. La création mains libres via Siri, Raccourcis et Spotlight signifie qu'un rappel peut être ajouté et se déclencher à l'heure même si vous n'ouvrez jamais l'app.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Pensé pour de vraies routines quotidiennes</h3>

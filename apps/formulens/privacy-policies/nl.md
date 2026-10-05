@@ -41,9 +41,9 @@ Je verleent toegang tot de camera of fotobibliotheek zodat FormuLens ingrediënt
 
 Alle verwerking is lokaal:
 
-- **Tekstextractie** — op het apparaat uitgevoerd door de ingebouwde frameworks van het besturingssysteem.
-- **Ingrediëntidentificatie** — vergeleken met een database die in de app is gebundeld.
-- **Vergelijkingen en routineanalyse** — in het geheugen op je apparaat berekend.
+- **Tekstextractie**: op het apparaat uitgevoerd door de ingebouwde frameworks van het besturingssysteem.
+- **Ingrediëntidentificatie**: vergeleken met een database die in de app is gebundeld.
+- **Vergelijkingen en routineanalyse**: in het geheugen op je apparaat berekend.
 
 Er is geen internetverbinding nodig. Er verlaten geen gegevens je apparaat tijdens deze bewerkingen.
 
@@ -86,8 +86,8 @@ FormuLens vraagt **geen** toegang tot: locatie, contacten, microfoon, Bluetooth,
 
 We beheren geen servers en houden geen gebruikersdatabases bij. Alle gegevens bestaan alleen op je apparaat. Om ze te verwijderen:
 
-- **Afzonderlijke items** — veeg om te verwijderen in de app.
-- **Alle gegevens** — verwijder FormuLens van je apparaat.
+- **Afzonderlijke items**: veeg om te verwijderen in de app.
+- **Alle gegevens**: verwijder FormuLens van je apparaat.
 
 ## Je rechten
 

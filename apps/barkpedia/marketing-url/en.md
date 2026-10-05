@@ -11,7 +11,7 @@ redirect_from:
 
 # Every dog has a story. Discover it instantly.
 
-Snap a photo of any dog and Barkpedia names the breed, then opens the whole story behind it — temperament, history, origin, and fun facts. No typing, no searching, and no cost — and breed identification works even without a signal.
+Snap a photo of any dog and Barkpedia names the breed, then opens the whole story behind it: temperament, history, origin, and fun facts. No typing, no searching, and no cost. Breed identification works even without a signal.
 
 <!--gallery-->
 
@@ -52,7 +52,7 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why dog lovers choose it</p>
     <h2 id="bp-why-title" class="marketing-section-title">A calm, complete pocket guide to the dog world.</h2>
-    <p class="marketing-section-intro">Barkpedia turns a curious moment at the park into a real answer, then keeps going with the history, the profile, and a little fun — all without a sign-up, and breed identification works even without a signal.</p>
+    <p class="marketing-section-intro">Barkpedia turns a curious moment at the park into a real answer, then keeps going with the history, the profile, and a little fun, all without a sign-up. Breed identification works even without a signal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -98,7 +98,7 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Product architecture</p>
     <h2 id="bp-modes-title" class="marketing-section-title">Three ways to enjoy it, one friendly guide throughout.</h2>
-    <p class="marketing-section-intro">Each part of Barkpedia answers a different mood — a quick question, an afternoon of browsing, or a game night — while keeping the same clear, readable style.</p>
+    <p class="marketing-section-intro">Each part of Barkpedia answers a different mood, whether a quick question, an afternoon of browsing, or a game night, while keeping the same clear, readable style.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

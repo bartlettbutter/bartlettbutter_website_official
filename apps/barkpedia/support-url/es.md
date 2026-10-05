@@ -37,15 +37,15 @@ Barkpedia identifica 147 razas basadas en los estándares del AKC.
 
 Explorar te ofrece dos formas de descubrir razas:
 
-- **Búsqueda** — Escribe cualquier nombre de raza para filtrar al instante entre las 147 razas.
-- **Mapa Mundial** — Navega por un mapa interactivo que muestra los orígenes de las razas por país. Toca un marcador para ver qué razas provienen de esa región. Usa el botón de expandir para ver el mapa en pantalla completa.
+- **Búsqueda**: escribe cualquier nombre de raza para filtrar al instante entre las 147 razas.
+- **Mapa Mundial**: navega por un mapa interactivo que muestra los orígenes de las razas por país. Toca un marcador para ver qué razas provienen de esa región. Usa el botón de expandir para ver el mapa en pantalla completa.
 
 Tanto la búsqueda como el mapa funcionan sin conexión.
 
 ### ¿Cómo funcionan los juegos de Concurso y Curiosidades?
 
-- **Concurso de Razas** — Se te muestra una foto de un perro y eliges la raza correcta entre cuatro opciones. Cada ronda tiene 10 preguntas. Gana títulos de recompensa según tu puntuación.
-- **Curiosidades Caninas** — Afirmaciones de verdadero o falso que mezclan datos reales de perros con mitos plausibles. También 10 preguntas por ronda con títulos de recompensa.
+- **Concurso de Razas**: se te muestra una foto de un perro y eliges la raza correcta entre cuatro opciones. Cada ronda tiene 10 preguntas. Gana títulos de recompensa según tu puntuación.
+- **Curiosidades Caninas**: afirmaciones de verdadero o falso que mezclan datos reales de perros con mitos plausibles. También 10 preguntas por ronda con títulos de recompensa.
 
 El Concurso de Razas requiere conexión a internet para cargar fotos. Las Curiosidades Caninas funcionan completamente sin conexión.
 

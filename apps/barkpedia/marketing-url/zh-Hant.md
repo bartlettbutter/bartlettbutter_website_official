@@ -12,7 +12,7 @@ redirect_from:
 
 # 每隻狗都有故事。即刻發現它。
 
-拍攝任何一隻狗的照片，Barkpedia 即可辨識其品種，並開啟牠背後的完整故事——性格、歷史、起源與趣聞。無需打字、無需搜尋，也無需付費——品種識別即使沒有訊號也能使用。
+拍攝任何一隻狗的照片，Barkpedia 即可辨識其品種，並開啟牠背後的完整故事：性格、歷史、起源與趣聞。無需打字、無需搜尋，也無需付費，品種識別即使沒有訊號也能使用。
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">為何愛狗人士選擇它</p>
     <h2 id="bp-why-title" class="marketing-section-title">一本沉穩而完整的口袋狗狗世界指南。</h2>
-    <p class="marketing-section-intro">Barkpedia 將公園裡好奇的一瞬間化為真正的答案，並繼續帶來歷史、資料與一點樂趣——全程無需註冊，品種識別即使沒有訊號也能使用。</p>
+    <p class="marketing-section-intro">Barkpedia 將公園裡好奇的一瞬間化為真正的答案，並繼續帶來歷史、資料與一點樂趣，全程無需註冊，品種識別即使沒有訊號也能使用。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">產品架構</p>
     <h2 id="bp-modes-title" class="marketing-section-title">三種享受方式，全程一位友善的嚮導。</h2>
-    <p class="marketing-section-intro">Barkpedia 的每個部分都回應不同的心情——一個快速的疑問、一個下午的瀏覽，或是一個遊戲之夜——同時保持同樣清晰易讀的風格。</p>
+    <p class="marketing-section-intro">Barkpedia 的每個部分都回應不同的心情（一個快速的疑問、一個下午的瀏覽，或是一個遊戲之夜），同時保持同樣清晰易讀的風格。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

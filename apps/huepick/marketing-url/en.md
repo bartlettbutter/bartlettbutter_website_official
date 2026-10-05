@@ -11,7 +11,7 @@ redirect_from:
 
 # See colors differently. Turn any photo into a palette.
 
-Snap a photo of anything that inspires you and Huepick reveals the hidden palette inside — up to twelve colors, ready to copy, understand, and reshape with creative tools. No typing, no searching, no account, and no cost.
+Snap a photo of anything that inspires you and Huepick reveals the hidden palette inside: up to twelve colors, ready to copy, understand, and reshape with creative tools. No typing, no searching, no account, and no cost.
 
 <!--gallery-->
 
@@ -29,7 +29,7 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">creative tools — Isolate, Duotone, Tritone, Pixelize, Blur, and Glitch</span>
+    <span class="marketing-stat-label">creative tools: Isolate, Duotone, Tritone, Pixelize, Blur, and Glitch</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
@@ -52,7 +52,7 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why color lovers choose it</p>
     <h2 id="hp-why-title" class="marketing-section-title">A calm, complete way to capture and create with color.</h2>
-    <p class="marketing-section-intro">Huepick turns a moment of inspiration into a palette you can actually use, then keeps going with clear analysis and creative tools — all without a sign-up or a signal.</p>
+    <p class="marketing-section-intro">Huepick turns a moment of inspiration into a palette you can actually use, then keeps going with clear analysis and creative tools, all without a sign-up or a signal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -98,7 +98,7 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Product architecture</p>
     <h2 id="hp-modes-title" class="marketing-section-title">Three spaces to work in, one consistent color flow throughout.</h2>
-    <p class="marketing-section-intro">Each part of Huepick answers a different intent — pull the colors out, play with them, or come back to what you made — while keeping the same clear, tactile style.</p>
+    <p class="marketing-section-intro">While keeping the same clear, tactile style, each part of Huepick answers a different intent: pull the colors out, play with them, or come back to what you made.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -152,7 +152,7 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
     </article>
     <article class="marketing-step">
       <h3>Save and share</h3>
-      <p>Keep creations in your gallery, download them to Photos, or share them directly — all offline.</p>
+      <p>Keep creations in your gallery, download them to Photos, or share them directly, all offline.</p>
     </article>
   </div>
 </section>

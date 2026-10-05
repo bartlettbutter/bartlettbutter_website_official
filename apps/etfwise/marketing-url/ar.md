@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">لماذا يختاره المستثمرون</p>
     <h2 id="ew-why-title" class="marketing-section-title">قراءة يومية هادئة لسوق صناديق ETF بأكمله.</h2>
-    <p class="marketing-section-intro">يحوّل ETFWise سوقًا صاخبًا إلى فحص صباحي سريع: اختيارات جديدة، وموجز بلغة واضحة، وتحليل معمّق للصناديق — كل ذلك دون تسجيل، أو اشتراك، أو مغادرة بياناتك للجهاز.</p>
+    <p class="marketing-section-intro">يحوّل ETFWise سوقًا صاخبًا إلى فحص صباحي سريع: اختيارات جديدة، وموجز بلغة واضحة، وتحليل معمّق للصناديق، كل ذلك دون تسجيل، أو اشتراك، أو مغادرة بياناتك للجهاز.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">بنية المنتج</p>
     <h2 id="ew-modes-title" class="marketing-section-title">ثلاث طرق للعمل مع السوق، بقراءة واحدة متسقة.</h2>
-    <p class="marketing-section-intro">يجيب كل جزء من ETFWise عن سؤال مختلف — ماذا حدث اليوم، وما الذي يجب أن أراقبه، ومِمَّ يتكوّن هذا الصندوق حقًا — مع الحفاظ على الأسلوب الواضح والسهل القراءة نفسه.</p>
+    <p class="marketing-section-intro">يجيب كل جزء من ETFWise عن سؤال مختلف: ماذا حدث اليوم، وما الذي يجب أن أراقبه، ومِمَّ يتكوّن هذا الصندوق حقًا، مع الحفاظ على الأسلوب الواضح والسهل القراءة نفسه.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

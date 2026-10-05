@@ -39,11 +39,11 @@ Lorsque vous accordez l'autorisation d'accès au microphone et à la reconnaissa
 
 ### Rappels et notes
 
-Les rappels que vous créez — leurs titres, notes, horaires, récurrence et la transcription vocale d'origine — sont stockés uniquement sur votre appareil, dans un conteneur d'application partagé afin que l'application, son widget et l'intention Siri/Raccourcis puissent lire une source de vérité unique. Ils ne sont jamais téléversés.
+Les rappels que vous créez, y compris leurs titres, notes, horaires, récurrence et la transcription vocale d'origine, sont stockés uniquement sur votre appareil, dans un conteneur d'application partagé afin que l'application, son widget et l'intention Siri/Raccourcis puissent lire une source de vérité unique. Ils ne sont jamais téléversés.
 
 ### Calendrier (facultatif, en lecture seule)
 
-Si vous activez **Afficher les événements du calendrier**, l'application lit les événements de votre calendrier système pour les afficher à côté de vos rappels. Cet accès est en lecture seule — Sayminder ne crée, ne modifie ni ne supprime jamais d'événements du calendrier — et les événements ne sont lus que sur votre appareil pour afficher l'agenda. Cette couche est désactivée tant que vous ne l'activez pas.
+Si vous activez **Afficher les événements du calendrier**, l'application lit les événements de votre calendrier système pour les afficher à côté de vos rappels. Cet accès est en lecture seule : Sayminder ne crée, ne modifie ni ne supprime jamais d'événements du calendrier, et les événements ne sont lus que sur votre appareil pour afficher l'agenda. Cette couche est désactivée tant que vous ne l'activez pas.
 
 ### Planification et synthèse vocale
 

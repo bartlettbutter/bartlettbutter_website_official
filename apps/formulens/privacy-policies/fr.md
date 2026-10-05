@@ -41,9 +41,9 @@ Vous accordez l'accès à l'appareil photo ou à la photothèque pour que FormuL
 
 Tout le traitement est local :
 
-- **Extraction de texte** — effectuée sur l'appareil par les cadres intégrés du système d'exploitation.
-- **Identification des ingrédients** — comparée à une base de données intégrée à l'application.
-- **Comparaisons et analyse de routine** — calculées en mémoire sur votre appareil.
+- **Extraction de texte** : effectuée sur l'appareil par les cadres intégrés du système d'exploitation.
+- **Identification des ingrédients** : comparée à une base de données intégrée à l'application.
+- **Comparaisons et analyse de routine** : calculées en mémoire sur votre appareil.
 
 Aucune connexion internet n'est requise. Aucune donnée ne quitte votre appareil pendant ces opérations.
 
@@ -86,8 +86,8 @@ FormuLens ne demande **pas** l'accès à : la localisation, les contacts, le mic
 
 Nous n'exploitons aucun serveur et ne maintenons aucune base de données d'utilisateurs. Toutes les données existent uniquement sur votre appareil. Pour les supprimer :
 
-- **Éléments individuels** — balayez pour supprimer dans l'application.
-- **Toutes les données** — désinstallez FormuLens de votre appareil.
+- **Éléments individuels** : balayez pour supprimer dans l'application.
+- **Toutes les données** : désinstallez FormuLens de votre appareil.
 
 ## Vos droits
 

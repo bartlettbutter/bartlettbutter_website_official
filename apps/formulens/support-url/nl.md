@@ -27,19 +27,19 @@ Geen account, geen installatie en geen internetverbinding nodig.
 
 ### Wat is het verschil tussen Vergelijken, Mijn routine controleren en Collectie scannen?
 
-- **Vergelijken** — scan meerdere producten van *hetzelfde* type om te zien hoe ze zich kop aan kop verhouden, inclusief gedeelde en unieke ingrediënten en een oordeel in gewone taal.
-- **Mijn routine controleren** — scan je routine met één product per stap voor de laagvolgorde, waarschuwingen voor ingrediëntconflicten, overlapnotities en hiaatanalyse voor de hele routine.
-- **Collectie scannen** — scan een willekeurige mix van producten voor een eenvoudige uitsplitsing per product, zonder vergelijking of volgorde.
+- **Vergelijken**: scan meerdere producten van *hetzelfde* type om te zien hoe ze zich kop aan kop verhouden, inclusief gedeelde en unieke ingrediënten en een oordeel in gewone taal.
+- **Mijn routine controleren**: scan je routine met één product per stap voor de laagvolgorde, waarschuwingen voor ingrediëntconflicten, overlapnotities en hiaatanalyse voor de hele routine.
+- **Collectie scannen**: scan een willekeurige mix van producten voor een eenvoudige uitsplitsing per product, zonder vergelijking of volgorde.
 
 ### Welke productcategorieën zijn beschikbaar?
 
 FormuLens ondersteunt 23 categorieën verdeeld over vijf groepen:
 
-- **Huidverzorging** — Reiniger, Exfoliant, Toner, Serum, Moisturizer, Oogcrème, Zonnebrand, Masker / Pad
-- **Make-up** — Primer, Foundation / BB, Blush / Bronzer, Oogmake-up, Lippenstift, Lippenbalsem
-- **Haar** — Shampoo, Conditioner, Haarmasker
-- **Bad & Lichaam** — Douchegel, Bodyscrub, Bodylotion, Handcrème, Deodorant
-- **Parfum** — Parfum
+- **Huidverzorging**: Reiniger, Exfoliant, Toner, Serum, Moisturizer, Oogcrème, Zonnebrand, Masker / Pad
+- **Make-up**: Primer, Foundation / BB, Blush / Bronzer, Oogmake-up, Lippenstift, Lippenbalsem
+- **Haar**: Shampoo, Conditioner, Haarmasker
+- **Bad & Lichaam**: Douchegel, Bodyscrub, Bodylotion, Handcrème, Deodorant
+- **Parfum**: Parfum
 
 ### Is FormuLens gratis?
 
@@ -65,8 +65,8 @@ Elk ingrediënt is kleurgecodeerd op functie, bijvoorbeeld hydraterend, antioxid
 
 ### Wat betekenen de labels "belangrijk" en "ongewoon"?
 
-- **Belangrijk** (stericoon) — het ingrediënt dient rechtstreeks het hoofddoel van het producttype. UV-filters zijn bijvoorbeeld belangrijk in een zonnebrand.
-- **Ongewoon** — het ingrediënt is ongebruikelijk voor de gekozen categorie. Het is niet per se slecht, gewoon de moeite waard om beter te bekijken. Bijvoorbeeld een exfoliant die in een oogcrème wordt gemarkeerd.
+- **Belangrijk** (stericoon): het ingrediënt dient rechtstreeks het hoofddoel van het producttype. UV-filters zijn bijvoorbeeld belangrijk in een zonnebrand.
+- **Ongewoon**: het ingrediënt is ongebruikelijk voor de gekozen categorie. Het is niet per se slecht, gewoon de moeite waard om beter te bekijken. Bijvoorbeeld een exfoliant die in een oogcrème wordt gemarkeerd.
 
 ### Waarom tonen zonnebrandmiddelen secties "Actief" en "Inactief"?
 

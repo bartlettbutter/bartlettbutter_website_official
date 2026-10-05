@@ -12,7 +12,7 @@ redirect_from:
 
 # 每只猫都有故事。即刻发现它。
 
-拍摄任何一只猫的照片，Nekopedia便会叫出它的品种，随后为您展开它背后的整个故事——性格、历史、起源和趣闻。无需打字，无需搜索，无需付费，品种识别离线也能用。
+拍摄任何一只猫的照片，Nekopedia便会叫出它的品种，随后为您展开它背后的整个故事：性格、历史、起源和趣闻。无需打字，无需搜索，无需付费，品种识别离线也能用。
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">爱猫人士为何选择它</p>
     <h2 id="nk-why-title" class="marketing-section-title">一份沉稳、完整的口袋猫世界指南。</h2>
-    <p class="marketing-section-intro">Nekopedia将咖啡馆里一个好奇的瞬间变成真正的答案，随后继续带来历史、资料和一点乐趣——全程无需注册，品种识别没有信号也能用。</p>
+    <p class="marketing-section-intro">Nekopedia将咖啡馆里一个好奇的瞬间变成真正的答案，随后继续带来历史、资料和一点乐趣，全程无需注册，品种识别没有信号也能用。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">产品架构</p>
     <h2 id="nk-modes-title" class="marketing-section-title">三种享受方式，全程一位友好的向导。</h2>
-    <p class="marketing-section-intro">Nekopedia的每个部分都回应一种不同的心情——一个快速的疑问、一个悠闲浏览的下午，或一个游戏之夜——同时保持同样清晰、易读的风格。</p>
+    <p class="marketing-section-intro">Nekopedia的每个部分都保持同样清晰、易读的风格，同时各自回应一种不同的心情：一个快速的疑问、一个悠闲浏览的下午，或一个游戏之夜。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

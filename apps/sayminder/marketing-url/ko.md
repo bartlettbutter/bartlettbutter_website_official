@@ -2,7 +2,7 @@
 layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "리마인더를 말하면 제시간에 도착합니다 — 무음 모드에서도 — 그리고 자연스러운 목소리로 읽어 줍니다."
+app_description: "리마인더를 말하면 무음 모드에서도 제시간에 도착하고, 자연스러운 목소리로 읽어 줍니다."
 app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
 lang: ko
 permalink: /sayminder/ko/
@@ -12,16 +12,16 @@ redirect_from:
 
 # 아름답게 기억하세요. 그냥 소리 내어 말하세요.
 
-가장 빠른 리마인더는 말로 하는 리마인더입니다. 마이크를 길게 누르고 무엇을, 언제 할지 말하면 Sayminder가 이를 받아 적고, 당신의 말에서 시간을 읽어내어 캘린더에 넣어 줍니다. 그 순간이 오면 알려 줍니다 — 무음 모드나 집중 모드에서도 — 그리고 리마인더를 자연스러운 목소리로 읽어 줍니다.
+가장 빠른 리마인더는 말로 하는 리마인더입니다. 마이크를 길게 누르고 무엇을, 언제 할지 말하면 Sayminder가 이를 받아 적고, 당신의 말에서 시간을 읽어내어 캘린더에 넣어 줍니다. 그 순간이 오면 무음 모드나 집중 모드에서도 알려 주고, 리마인더를 자연스러운 목소리로 읽어 줍니다.
 
 <div class="marketing-shot-placeholder-grid" aria-label="Sayminder 스크린샷 곧 공개">
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">스크린샷</span>
-    <span class="marketing-shot-placeholder-caption">누르고 말하기 — 실시간 받아쓰기</span>
+    <span class="marketing-shot-placeholder-caption">누르고 말하기: 실시간 받아쓰기</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">스크린샷</span>
-    <span class="marketing-shot-placeholder-caption">오늘의 브리핑 — 가까운 순서로</span>
+    <span class="marketing-shot-placeholder-caption">오늘의 브리핑: 가까운 순서로</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">스크린샷</span>
@@ -64,7 +64,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">사람들이 선택하는 이유</p>
     <h2 id="sy-why-title" class="marketing-section-title">입력하는 게 아니라 말을 거는 리마인더 앱.</h2>
-    <p class="marketing-section-intro">Sayminder는 말한 한 문장을 받아 그 안의 시간을 이해하고, 정말로 당신에게 도착하는 리마인더로 바꿔 줍니다 — 그래서 떠오른 생각을 기록하는 일이 말하는 것만큼 빠릅니다.</p>
+    <p class="marketing-section-intro">Sayminder는 말한 한 문장을 받아 그 안의 시간을 이해하고, 정말로 당신에게 도착하는 리마인더로 바꿔 줍니다. 그래서 떠오른 생각을 기록하는 일이 말하는 것만큼 빠릅니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -87,7 +87,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>읽어 줍니다</h3>
-      <p>리마인더가 도착하면 앱이 소리 내어 말하고 — 저장할 때도 소리로 확인해 — 전체 과정을 손 없이 처리할 수 있습니다.</p>
+      <p>리마인더가 도착하면 앱이 소리 내어 말하고 저장할 때도 소리로 확인해 주어, 전체 과정을 손 없이 처리할 수 있습니다.</p>
       <ul class="marketing-list">
         <li>저장 후 "알겠습니다. …을 알려 드릴게요"</li>
         <li>어떤 목록 행이든 원할 때 읽어 줄 수 있습니다</li>
@@ -110,7 +110,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">제품 구조</p>
     <h2 id="sy-arch-title" class="marketing-section-title">하나의 음성 화면, 하루를 장악하는 네 가지 방법.</h2>
-    <p class="marketing-section-intro">Sayminder의 각 부분은 서로 다른 질문에 답합니다 — 무엇을 기록할지, 다음은 무엇인지, 특정한 날에 무엇이 있는지, 방금 무엇이 울렸는지 — 그러면서도 한결같이 차분하고 정돈된 스타일을 유지합니다.</p>
+    <p class="marketing-section-intro">Sayminder의 각 부분은 서로 다른 질문에 답합니다: 무엇을 기록할지, 다음은 무엇인지, 특정한 날에 무엇이 있는지, 방금 무엇이 울렸는지. 그러면서도 한결같이 차분하고 정돈된 스타일을 유지합니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -160,7 +160,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>당신에게 도착합니다</h3>
-      <p>돌파형 알람이 제시간에 울리고 — 무음에서도 — 리마인더를 소리 내어 읽어 줍니다.</p>
+      <p>돌파형 알람이 무음에서도 제시간에 울리고, 리마인더를 소리 내어 읽어 줍니다.</p>
     </article>
     <article class="marketing-step">
       <h3>탭하여 지우기</h3>
@@ -177,7 +177,7 @@ redirect_from:
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>말로 떠오른 생각을 따라잡는 리마인더</h3>
-      <p>생각이 떠오른 그 순간에 리마인더를 기록하세요 — 걷다가, 운전 중에, 두 손이 바빠도 — 날짜 휠을 돌리려고 멈출 필요가 없습니다. Siri, 단축어, Spotlight를 통한 손 없는 생성은 앱을 한 번도 열지 않아도 리마인더를 추가하고 제시간에 울리게 할 수 있음을 뜻합니다.</p>
+      <p>생각이 떠오른 그 순간에 리마인더를 기록하세요. 걷다가, 운전 중에, 두 손이 바빠도 날짜 휠을 돌리려고 멈출 필요가 없습니다. Siri, 단축어, Spotlight를 통한 손 없는 생성은 앱을 한 번도 열지 않아도 리마인더를 추가하고 제시간에 울리게 할 수 있음을 뜻합니다.</p>
     </article>
     <article class="marketing-story-card">
       <h3>실제 일상 루틴을 위해 만들어졌습니다</h3>

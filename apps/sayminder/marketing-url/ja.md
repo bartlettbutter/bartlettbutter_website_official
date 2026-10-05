@@ -2,7 +2,7 @@
 layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "リマインダーを話すだけで、時間どおりに届きます——サイレントでも——そして自然な声で読み上げます。"
+app_description: "リマインダーを話すだけで、サイレントでも時間どおりに届き、自然な声で読み上げます。"
 app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
 lang: ja
 permalink: /sayminder/ja/
@@ -12,16 +12,16 @@ redirect_from:
 
 # 美しく覚えておく。ただ、声に出すだけ。
 
-いちばん速いリマインダーは、話すリマインダーです。マイクを長押しして、何を・いつを言うだけで、Sayminder が文字に起こし、あなたの言葉から時間を読み取り、カレンダーに追加します。その時が来ると通知します——サイレントや集中モードでも——そしてリマインダーを自然な声で読み上げます。
+いちばん速いリマインダーは、話すリマインダーです。マイクを長押しして、何を・いつを言うだけで、Sayminder が文字に起こし、あなたの言葉から時間を読み取り、カレンダーに追加します。その時が来ると、サイレントや集中モードでも通知し、リマインダーを自然な声で読み上げます。
 
 <div class="marketing-shot-placeholder-grid" aria-label="Sayminder のスクリーンショットは近日公開">
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">スクリーンショット</span>
-    <span class="marketing-shot-placeholder-caption">押して話す — リアルタイム文字起こし</span>
+    <span class="marketing-shot-placeholder-caption">押して話す：リアルタイム文字起こし</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">スクリーンショット</span>
-    <span class="marketing-shot-placeholder-caption">今日の予定 — 近い順に</span>
+    <span class="marketing-shot-placeholder-caption">今日の予定：近い順に</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">スクリーンショット</span>
@@ -64,7 +64,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">選ばれる理由</p>
     <h2 id="sy-why-title" class="marketing-section-title">入力するのではなく、話しかけるリマインダーアプリ。</h2>
-    <p class="marketing-section-intro">Sayminder は話した一文を受け取り、その中の時間を理解し、本当にあなたに届くリマインダーに変えます——だから思いつきを記録するのは、口に出すのと同じくらい速いのです。</p>
+    <p class="marketing-section-intro">Sayminder は話した一文を受け取り、その中の時間を理解し、本当にあなたに届くリマインダーに変えます。だから思いつきを記録するのは、口に出すのと同じくらい速いのです。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -87,7 +87,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>読み上げてくれる</h3>
-      <p>リマインダーが届くと、アプリが声に出して読み上げ——保存時にも声で確認します——ので、一連の流れがすべてハンズフリーです。</p>
+      <p>リマインダーが届くと、アプリが声に出して読み上げ、保存時にも声で確認するので、一連の流れがすべてハンズフリーです。</p>
       <ul class="marketing-list">
         <li>保存後に「わかりました。……をお知らせします」</li>
         <li>どのリスト行も必要に応じて読み上げ可能</li>
@@ -110,7 +110,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">プロダクト構成</p>
     <h2 id="sy-arch-title" class="marketing-section-title">1つの音声画面、1日を掌握する4つの方法。</h2>
-    <p class="marketing-section-intro">Sayminder の各パートは、それぞれ異なる問いに答えます——何を記録するか、次は何か、特定の日に何があるか、たった今何が鳴ったか——同じ落ち着いた洗練されたスタイルを保ちながら。</p>
+    <p class="marketing-section-intro">Sayminder の各パートは、同じ落ち着いた洗練されたスタイルを保ちながら、それぞれ異なる問い（何を記録するか、次は何か、特定の日に何があるか、たった今何が鳴ったか）に答えます。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -160,7 +160,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>あなたに届く</h3>
-      <p>突破型アラームが時間どおりに鳴り——サイレントでも——リマインダーを読み上げます。</p>
+      <p>突破型アラームがサイレントでも時間どおりに鳴り、リマインダーを読み上げます。</p>
     </article>
     <article class="marketing-step">
       <h3>タップして消す</h3>
@@ -177,7 +177,7 @@ redirect_from:
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>話した思いつきに追いつくリマインダー</h3>
-      <p>思いついたその瞬間にリマインダーを記録——歩きながら、運転中、両手がふさがっていても——日付ホイールを回すために立ち止まる必要はありません。Siri、ショートカット、Spotlight によるハンズフリー作成なら、アプリを一度も開かなくてもリマインダーを追加でき、時間どおりに鳴らせます。</p>
+      <p>思いついたその瞬間にリマインダーを記録しましょう。歩きながら、運転中、両手がふさがっていても、日付ホイールを回すために立ち止まる必要はありません。Siri、ショートカット、Spotlight によるハンズフリー作成なら、アプリを一度も開かなくてもリマインダーを追加でき、時間どおりに鳴らせます。</p>
     </article>
     <article class="marketing-story-card">
       <h3>実際の毎日の習慣のために</h3>

@@ -35,9 +35,9 @@ L'App richiede le autorizzazioni per la fotocamera e la libreria fotografica esc
 
 ## Cosa Viene Memorizzato sul tuo Dispositivo
 
-- **Preferiti** — I risultati di scansione delle razze che scegli di salvare vengono memorizzati solo localmente sul tuo dispositivo.
-- **Dati di Esplora** — L'indice di ricerca delle razze e i dati della mappa del paese di origine sono inclusi nell'app stessa.
-- **Rendering della mappa** — La mappa mondiale interattiva utilizza Apple Mappe (MapKit), che viene visualizzata localmente sul tuo dispositivo.
+- **Preferiti**: i risultati di scansione delle razze che scegli di salvare vengono memorizzati solo localmente sul tuo dispositivo.
+- **Dati di Esplora**: l'indice di ricerca delle razze e i dati della mappa del paese di origine sono inclusi nell'app stessa.
+- **Rendering della mappa**: la mappa mondiale interattiva utilizza Apple Mappe (MapKit), che viene visualizzata localmente sul tuo dispositivo.
 
 Nessuno di questi dati viene trasmesso all'esterno. Tutti vengono rimossi automaticamente quando disinstalli l'App.
 
@@ -55,8 +55,8 @@ Non vendiamo, affittiamo né condividiamo alcun dato degli utenti con terze part
 
 | Autorizzazione | Perché la Richiediamo | Obbligatoria? |
 |----------------|-----------------------|---------------|
-| Fotocamera | Per fotografare cani per l'identificazione della razza | Facoltativa — puoi usare la tua libreria fotografica |
-| Libreria Fotografica | Per selezionare foto esistenti per l'identificazione della razza | Facoltativa — puoi usare la fotocamera |
+| Fotocamera | Per fotografare cani per l'identificazione della razza | Facoltativa. Puoi usare la tua libreria fotografica |
+| Libreria Fotografica | Per selezionare foto esistenti per l'identificazione della razza | Facoltativa. Puoi usare la fotocamera |
 
 **Tutto qui.** L'App non richiede né accede a posizione, contatti, microfono, Bluetooth, tracciamento (ATT), notifiche o qualsiasi altra autorizzazione sensibile.
 

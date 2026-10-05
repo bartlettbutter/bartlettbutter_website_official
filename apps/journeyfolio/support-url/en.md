@@ -48,13 +48,13 @@ Yes. Add multiple destinations to a single trip. Each city gets its own itinerar
 
 Seven categories cover everything you need:
 
-- **Flights** — flight number, seat, confirmation, live status
-- **Hotels** — address, phone, check-in/out dates, notes
-- **Transport** — car rentals, trains, buses, ferries, rideshares, shuttles
-- **Restaurants** — name, address, phone, notes
-- **Places & Tickets** — attractions, museums, events, tours, parks, shopping
-- **Insurance** — policy details and notes
-- **Other** — anything else worth remembering
+- **Flights**: flight number, seat, confirmation, live status
+- **Hotels**: address, phone, check-in/out dates, notes
+- **Transport**: car rentals, trains, buses, ferries, rideshares, shuttles
+- **Restaurants**: name, address, phone, notes
+- **Places & Tickets**: attractions, museums, events, tours, parks, shopping
+- **Insurance**: policy details and notes
+- **Other**: anything else worth remembering
 
 ### Can an activity span multiple days?
 

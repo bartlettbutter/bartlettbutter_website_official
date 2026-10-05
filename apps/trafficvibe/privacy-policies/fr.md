@@ -25,7 +25,7 @@ TrafficVibe (« l'App ») est une application iOS gratuite qui vous offre un poi
 | L'app utilise-t-elle ma localisation ? | Uniquement si vous l'activez, et seulement sur votre appareil |
 | Les enfants peuvent-ils utiliser l'app en toute sécurité ? | Oui |
 
-Les seules données envoyées à l'extérieur sont celles nécessaires pour récupérer les conditions — comme un nom de lieu ou des coordonnées — vers les fournisseurs de cartes, de météo et de données publiques qui alimentent votre point.
+Les seules données envoyées à l'extérieur sont celles nécessaires pour récupérer les conditions, comme un nom de lieu ou des coordonnées, vers les fournisseurs de cartes, de météo et de données publiques qui alimentent votre point.
 
 ## Quelles données nous collectons
 
@@ -47,7 +47,7 @@ Ces données ne vivent que sur votre appareil et ne sont jamais téléversées v
 
 ## Services tiers
 
-Pour construire votre point, TrafficVibe demande des données à des fournisseurs de cartes, de météo et de données publiques reconnus. Chaque requête ne transporte que ce qui est nécessaire pour renvoyer un résultat pour le lieu que vous consultez — une localisation ou une région — et jamais votre identité.
+Pour construire votre point, TrafficVibe demande des données à des fournisseurs de cartes, de météo et de données publiques reconnus. Chaque requête ne transporte que ce qui est nécessaire pour renvoyer un résultat pour le lieu que vous consultez (une localisation ou une région) et jamais votre identité.
 
 | Ce que nous demandons | Pourquoi | Ce qui est envoyé |
 |---|---|---|
@@ -60,7 +60,7 @@ Aucun compte, identifiant d'appareil, contact ou information de suivi n'est jama
 
 ## Traitement sur l'appareil
 
-Votre point et toutes ses évaluations sont assemblés sur votre appareil à partir des conditions que TrafficVibe récupère. Votre trajet — les villes et itinéraires qui vous importent — est utilisé sur votre appareil pour demander ces conditions et n'est jamais téléversé, profilé ni partagé.
+Votre point et toutes ses évaluations sont assemblés sur votre appareil à partir des conditions que TrafficVibe récupère. Votre trajet (les villes et itinéraires qui vous importent) est utilisé sur votre appareil pour demander ces conditions et n'est jamais téléversé, profilé ni partagé.
 
 ## Notifications
 
@@ -76,7 +76,7 @@ TrafficVibe demande l'accès à la localisation uniquement pour proposer la vill
 
 ## Conservation et suppression des données
 
-Comme nous ne collectons aucune donnée personnelle sur nos serveurs, il n'y a rien à conserver ou à supprimer de notre côté. Toutes les données stockées localement — villes enregistrées, préférences et conditions mises en cache — sont définitivement supprimées lorsque vous supprimez l'app de votre appareil.
+Comme nous ne collectons aucune donnée personnelle sur nos serveurs, il n'y a rien à conserver ou à supprimer de notre côté. Toutes les données stockées localement (villes enregistrées, préférences et conditions mises en cache) sont définitivement supprimées lorsque vous supprimez l'app de votre appareil.
 
 ## Vos droits
 

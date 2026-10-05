@@ -66,7 +66,7 @@ Wir verkaufen, teilen oder vermieten Ihre Daten an niemanden. Es gibt keine Date
 
 | Berechtigung | Warum Sie Benötigt Wird | Erforderlich? |
 |--------------|-------------------------|---------------|
-| Kamera | Um Fotos für die Farbextraktion aufzunehmen | Optional — Sie können stattdessen Ihre Fotomediathek verwenden |
+| Kamera | Um Fotos für die Farbextraktion aufzunehmen | Optional: Sie können stattdessen Ihre Fotomediathek verwenden |
 | Fotomediathek | Um Fotos auszuwählen und verarbeitete Bilder zu speichern | Optional |
 
 Wir fordern keinen Zugriff auf Ihren Live-Standort an. Standortdaten werden nur gelesen, wenn sie bereits in den eingebetteten Metadaten Ihres Fotos vorhanden sind.

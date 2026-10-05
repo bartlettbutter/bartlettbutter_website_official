@@ -27,19 +27,19 @@ Hesap yok, kurulum yok ve internet bağlantısı gerekmiyor.
 
 ### Karşılaştır, Rutinimi Kontrol Et ve Koleksiyon Tara arasındaki fark nedir?
 
-- **Karşılaştır** — *aynı* türden birkaç ürünü tarayarak, ortak ve benzersiz bileşenler ile sade bir değerlendirme dahil olmak üzere birbirleriyle nasıl kıyaslandıklarını görün.
-- **Rutinimi Kontrol Et** — rutininizi her adıma bir ürün olacak şekilde tarayarak katman sırası, bileşen çakışma uyarıları, örtüşme notları ve tüm rutin genelinde boşluk analizi alın.
-- **Koleksiyon Tara** — herhangi bir ürün karışımını tarayarak, karşılaştırma veya sıralama uygulanmadan sade bir ürün bazlı döküm elde edin.
+- **Karşılaştır**: *Aynı* türden birkaç ürünü tarayarak, ortak ve benzersiz bileşenler ile sade bir değerlendirme dahil olmak üzere birbirleriyle nasıl kıyaslandıklarını görün.
+- **Rutinimi Kontrol Et**: Rutininizi her adıma bir ürün olacak şekilde tarayarak katman sırası, bileşen çakışma uyarıları, örtüşme notları ve tüm rutin genelinde boşluk analizi alın.
+- **Koleksiyon Tara**: Herhangi bir ürün karışımını tarayarak, karşılaştırma veya sıralama uygulanmadan sade bir ürün bazlı döküm elde edin.
 
 ### Hangi ürün kategorileri mevcut?
 
 FormuLens, beş grupta 23 kategoriyi destekler:
 
-- **Cilt Bakımı** — Temizleyici, Peeling, Tonik, Serum, Nemlendirici, Göz Kremi, Güneş Koruyucu, Maske / Pad
-- **Makyaj** — Baz, Fondöten / BB, Allık / Bronzlaştırıcı, Göz Makyajı, Ruj, Dudak Balmı
-- **Saç** — Şampuan, Saç Kremi, Saç Maskesi
-- **Banyo ve Vücut** — Duş Jeli, Vücut Peelingi, Vücut Losyonu, El Kremi, Deodorant
-- **Parfüm** — Parfüm
+- **Cilt Bakımı**: Temizleyici, Peeling, Tonik, Serum, Nemlendirici, Göz Kremi, Güneş Koruyucu, Maske / Pad
+- **Makyaj**: Baz, Fondöten / BB, Allık / Bronzlaştırıcı, Göz Makyajı, Ruj, Dudak Balmı
+- **Saç**: Şampuan, Saç Kremi, Saç Maskesi
+- **Banyo ve Vücut**: Duş Jeli, Vücut Peelingi, Vücut Losyonu, El Kremi, Deodorant
+- **Parfüm**: Parfüm
 
 ### FormuLens ücretsiz mi?
 
@@ -65,8 +65,8 @@ Her bileşen işlevine göre renk kodludur, örneğin nemlendirme, antioksidan, 
 
 ### "Önemli" ve "alışılmadık" etiketleri ne anlama geliyor?
 
-- **Önemli** (yıldız simgesi) — bileşen, ürün türünün ana amacına doğrudan hizmet eder. Örneğin, UV filtreleri bir güneş koruyucuda önemlidir.
-- **Alışılmadık** — bileşen, seçili kategori için nadirdir. Mutlaka kötü değildir, yalnızca daha yakından bakmaya değer. Örneğin, bir göz kreminde işaretlenen bir peeling maddesi.
+- **Önemli** (yıldız simgesi): Bileşen, ürün türünün ana amacına doğrudan hizmet eder. Örneğin, UV filtreleri bir güneş koruyucuda önemlidir.
+- **Alışılmadık**: Bileşen, seçili kategori için nadirdir. Mutlaka kötü değildir, yalnızca daha yakından bakmaya değer. Örneğin, bir göz kreminde işaretlenen bir peeling maddesi.
 
 ### Güneş koruyucular neden "Aktif" ve "İnaktif" bölümleri gösteriyor?
 

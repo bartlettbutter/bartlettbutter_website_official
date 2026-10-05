@@ -98,7 +98,7 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Todo o panorama, de relance</p>
     <h2 id="tv-indices-title" class="marketing-section-title">Tudo o que importa, em uma escala de cores honesta.</h2>
-    <p class="marketing-section-intro">Selos coloridos simples respondem às perguntas que todo motorista faz —verde para bom, amarelo para atenção, vermelho para agir agora— para você absorver todo o seu trajeto em segundos.</p>
+    <p class="marketing-section-intro">Selos coloridos simples respondem às perguntas que todo motorista faz: verde para bom, amarelo para atenção, vermelho para agir agora, para você absorver todo o seu trajeto em segundos.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

@@ -24,7 +24,7 @@ TrafficVibe ("the App") is a free iOS application that gives you a plain-languag
 | Does the app use my location? | Only if you enable it, and only on your device |
 | Can children use the app safely? | Yes |
 
-The only data sent externally is what's needed to fetch conditions — such as a place name or coordinates — to the mapping, weather, and public-data providers that power your briefing.
+The only data sent externally is what's needed to fetch conditions, such as a place name or coordinates, to the mapping, weather, and public-data providers that power your briefing.
 
 ## What Data We Collect
 
@@ -46,7 +46,7 @@ This data lives only on your device and is never uploaded to external servers.
 
 ## Third-Party Services
 
-To build your briefing, TrafficVibe requests data from established mapping, weather, and public-data providers. Each request carries only what's needed to return a result for the place you're viewing — a location or a region — and never your identity.
+To build your briefing, TrafficVibe requests data from established mapping, weather, and public-data providers. Each request carries only what's needed to return a result for the place you're viewing (a location or a region) and never your identity.
 
 | What we request | Why | What's sent |
 |---|---|---|
@@ -59,7 +59,7 @@ No accounts, device identifiers, contacts, or tracking information are ever incl
 
 ## On-Device Processing
 
-Your briefing and all of its ratings are put together on your device from the conditions TrafficVibe fetches. Your commute — the cities and routes you care about — is used on your device to request those conditions and is never uploaded, profiled, or shared.
+Your briefing and all of its ratings are put together on your device from the conditions TrafficVibe fetches. Your commute, the cities and routes you care about, is used on your device to request those conditions and is never uploaded, profiled, or shared.
 
 ## Notifications
 
@@ -75,7 +75,7 @@ TrafficVibe requests location access only to offer the optional Current Location
 
 ## Data Retention and Deletion
 
-Since we collect no personal data on our servers, there is nothing to retain or delete on our end. All locally stored data — saved cities, preferences, and cached conditions — is permanently removed when you delete the app from your device.
+Since we collect no personal data on our servers, there is nothing to retain or delete on our end. All locally stored data (saved cities, preferences, and cached conditions) is permanently removed when you delete the app from your device.
 
 ## Your Rights
 

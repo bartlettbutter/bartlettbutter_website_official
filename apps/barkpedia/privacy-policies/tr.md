@@ -35,9 +35,9 @@ Uygulama, ırk tanımlaması için köpek görüntülerini fotoğraflamanıza ve
 
 ## Cihazınızda Neler Saklanır
 
-- **Favoriler** — Kaydetmeyi seçtiğiniz ırk tarama sonuçları yalnızca cihazınızda yerel olarak saklanır.
-- **Keşfet verileri** — Irk arama dizini ve menşe ülke harita verileri uygulamanın kendisinde yerleşiktir.
-- **Harita oluşturma** — Etkileşimli dünya haritası, cihazınızda yerel olarak oluşturulan Apple Haritalar'ı (MapKit) kullanır.
+- **Favoriler**: Kaydetmeyi seçtiğiniz ırk tarama sonuçları yalnızca cihazınızda yerel olarak saklanır.
+- **Keşfet verileri**: Irk arama dizini ve menşe ülke harita verileri uygulamanın kendisinde yerleşiktir.
+- **Harita oluşturma**: Etkileşimli dünya haritası, cihazınızda yerel olarak oluşturulan Apple Haritalar'ı (MapKit) kullanır.
 
 Bu verilerin hiçbiri dışarıya iletilmez. Uygulamayı sildiğinizde tümü otomatik olarak kaldırılır.
 
@@ -55,8 +55,8 @@ Hiçbir kullanıcı verisini üçüncü taraflarla satmıyor, kiralamıyor veya 
 
 | İzin | Neden İstiyoruz | Gerekli mi? |
 |------|-----------------|-------------|
-| Kamera | Irk tanımlaması için köpekleri fotoğraflamak amacıyla | İsteğe bağlı — bunun yerine fotoğraf kitaplığınızı kullanabilirsiniz |
-| Fotoğraf Kitaplığı | Irk tanımlaması için mevcut fotoğrafları seçmek amacıyla | İsteğe bağlı — bunun yerine kamerayı kullanabilirsiniz |
+| Kamera | Irk tanımlaması için köpekleri fotoğraflamak amacıyla | İsteğe bağlı. Bunun yerine fotoğraf kitaplığınızı kullanabilirsiniz |
+| Fotoğraf Kitaplığı | Irk tanımlaması için mevcut fotoğrafları seçmek amacıyla | İsteğe bağlı. Bunun yerine kamerayı kullanabilirsiniz |
 
 **Hepsi bu.** Uygulama konum, kişiler, mikrofon, Bluetooth, izleme (ATT), bildirimler veya başka herhangi bir hassas izni istemez veya bunlara erişmez.
 

@@ -98,7 +98,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Toute l'image, d'un coup d'œil</p>
     <h2 id="tv-indices-title" class="marketing-section-title">Tout ce qui compte, sur une seule échelle de couleurs honnête.</h2>
-    <p class="marketing-section-intro">De simples badges colorés répondent aux questions que se pose chaque conducteur — vert pour bon, jaune pour prudence, rouge pour agir maintenant — pour que vous saisissiez tout votre trajet en quelques secondes.</p>
+    <p class="marketing-section-intro">De simples badges colorés répondent aux questions que se pose chaque conducteur : vert pour bon, jaune pour prudence, rouge pour agir maintenant, pour que vous saisissiez tout votre trajet en quelques secondes.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

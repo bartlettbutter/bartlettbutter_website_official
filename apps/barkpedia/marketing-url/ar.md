@@ -12,7 +12,7 @@ redirect_from:
 
 # لكل كلب قصة. اكتشفها فورًا.
 
-التقط صورة لأي كلب فيسمّي Barkpedia السلالة، ثم يفتح القصة الكاملة وراءها — الطباع، والتاريخ، والأصل، والحقائق الممتعة. لا كتابة، ولا بحث، ولا تكلفة — والتعرّف على السلالة يعمل حتى دون إشارة.
+التقط صورة لأي كلب فيسمّي Barkpedia السلالة، ثم يفتح القصة الكاملة وراءها: الطباع، والتاريخ، والأصل، والحقائق الممتعة. لا كتابة، ولا بحث، ولا تكلفة، والتعرّف على السلالة يعمل حتى دون إشارة.
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">لماذا يختاره محبو الكلاب</p>
     <h2 id="bp-why-title" class="marketing-section-title">دليل جيب هادئ ومتكامل لعالم الكلاب.</h2>
-    <p class="marketing-section-intro">يحوّل Barkpedia لحظة فضول في الحديقة إلى إجابة حقيقية، ثم يواصل بالتاريخ، والملف التعريفي، وقليل من المرح — كل ذلك دون تسجيل، والتعرّف على السلالة يعمل حتى دون إشارة.</p>
+    <p class="marketing-section-intro">يحوّل Barkpedia لحظة فضول في الحديقة إلى إجابة حقيقية، ثم يواصل بالتاريخ، والملف التعريفي، وقليل من المرح، كل ذلك دون تسجيل، والتعرّف على السلالة يعمل حتى دون إشارة.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">بنية المنتج</p>
     <h2 id="bp-modes-title" class="marketing-section-title">ثلاث طرق للاستمتاع به، ودليل ودود واحد في كل مكان.</h2>
-    <p class="marketing-section-intro">يجيب كل جزء من Barkpedia عن مزاج مختلف — سؤال سريع، أو بعد ظهيرة من التصفّح، أو ليلة ألعاب — مع الحفاظ على الأسلوب الواضح وسهل القراءة نفسه.</p>
+    <p class="marketing-section-intro">يجيب كل جزء من Barkpedia عن مزاج مختلف (سؤال سريع، أو بعد ظهيرة من التصفّح، أو ليلة ألعاب) مع الحفاظ على الأسلوب الواضح وسهل القراءة نفسه.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

@@ -39,11 +39,11 @@ Mikrofon ve konuşma tanıma iznini verdiğinizde, konuşmanız bir hatırlatıc
 
 ### Hatırlatıcılar ve Notlar
 
-Oluşturduğunuz hatırlatıcılar — başlıkları, notları, saatleri, tekrarları ve orijinal sesli deşifre metni — yalnızca cihazınızda, paylaşılan bir uygulama kapsayıcısında saklanır; böylece uygulama, widget'ı ve Siri/Kısayollar amacı tek bir güvenilir kaynağı okuyabilir. Bunlar asla yüklenmez.
+Oluşturduğunuz hatırlatıcılar (başlıkları, notları, saatleri, tekrarları ve orijinal sesli deşifre metni) yalnızca cihazınızda, paylaşılan bir uygulama kapsayıcısında saklanır; böylece uygulama, widget'ı ve Siri/Kısayollar amacı tek bir güvenilir kaynağı okuyabilir. Bunlar asla yüklenmez.
 
 ### Takvim (İsteğe Bağlı, Salt Okunur)
 
-**Takvim etkinliklerini göster** seçeneğini açarsanız, uygulama sistem takviminizdeki etkinlikleri okuyarak hatırlatıcılarınızın yanında görüntüler. Bu erişim salt okunurdur — Sayminder asla takvim etkinliği oluşturmaz, düzenlemez veya silmez — ve etkinlikler ajandayı görüntülemek için yalnızca cihazınızda okunur. Bu katman, siz etkinleştirene kadar kapalıdır.
+**Takvim etkinliklerini göster** seçeneğini açarsanız, uygulama sistem takviminizdeki etkinlikleri okuyarak hatırlatıcılarınızın yanında görüntüler. Bu erişim salt okunurdur: Sayminder asla takvim etkinliği oluşturmaz, düzenlemez veya silmez. Etkinlikler ajandayı görüntülemek için yalnızca cihazınızda okunur. Bu katman, siz etkinleştirene kadar kapalıdır.
 
 ### Planlama ve Metin Okuma
 

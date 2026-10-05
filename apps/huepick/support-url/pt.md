@@ -35,9 +35,9 @@ Sim. Sem compras dentro do aplicativo, sem assinaturas, sem anúncios. Todos os 
 
 ### O que são as três abas?
 
-- **Analisar** — tire ou escolha uma foto, extraia uma paleta de 12 cores, veja uma análise de cores detalhada e obtenha sugestões personalizadas de ferramentas criativas
-- **Playground** — transforme sua foto com seis ferramentas criativas (Isolar, Duotono, Tritono, Pixelizar, Desfocar, Glitch)
-- **Galeria** — navegue, reedite, baixe ou compartilhe suas criações salvas
+- **Analisar**: tire ou escolha uma foto, extraia uma paleta de 12 cores, veja uma análise de cores detalhada e obtenha sugestões personalizadas de ferramentas criativas
+- **Playground**: transforme sua foto com seis ferramentas criativas (Isolar, Duotono, Tritono, Pixelizar, Desfocar, Glitch)
+- **Galeria**: navegue, reedite, baixe ou compartilhe suas criações salvas
 
 ### Como funciona a análise de cores?
 
@@ -49,12 +49,12 @@ Toque em qualquer amostra de cor. Uma breve confirmação aparece para avisar qu
 
 ### Quais são as ferramentas criativas no Playground?
 
-- **Isolar** — mantenha as cores selecionadas vibrantes enquanto o resto fica em tons de cinza (ou vice-versa)
-- **Duotono** — remapeie sua imagem para dois tons para um visual ousado e editorial
-- **Tritono** — remapeie sua imagem em três tons para um visual mais rico e gradual
-- **Pixelizar** — transforme em um mosaico de ladrilhos geométricos com tamanho de ladrilho ajustável
-- **Desfocar** — adicione um foco suave e onírico com uma variedade de estilos de desfoque e intensidade ajustável
-- **Glitch** — aplique separação de canais RGB e distorção digital
+- **Isolar**: mantenha as cores selecionadas vibrantes enquanto o resto fica em tons de cinza (ou vice-versa)
+- **Duotono**: remapeie sua imagem para dois tons para um visual ousado e editorial
+- **Tritono**: remapeie sua imagem em três tons para um visual mais rico e gradual
+- **Pixelizar**: transforme em um mosaico de ladrilhos geométricos com tamanho de ladrilho ajustável
+- **Desfocar**: adicione um foco suave e onírico com uma variedade de estilos de desfoque e intensidade ajustável
+- **Glitch**: aplique separação de canais RGB e distorção digital
 
 ### Como salvo uma criação?
 

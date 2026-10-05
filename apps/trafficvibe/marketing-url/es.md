@@ -46,7 +46,7 @@ redirect_from:
   <p class="marketing-meta-note">Próximamente para iPhone y iPad con iOS 26.2 o posterior.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="tv-why-title">
   <div class="marketing-section-head">

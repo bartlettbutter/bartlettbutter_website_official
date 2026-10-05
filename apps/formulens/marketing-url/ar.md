@@ -49,7 +49,7 @@ redirect_from:
   <p class="marketing-meta-note">مجّاني للتنزيل على iPhone و iPad. يعمل على iOS 26.2 أو أحدث.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="fl-why-title">
   <div class="marketing-section-head">

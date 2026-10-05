@@ -47,7 +47,7 @@ Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablol
   <p class="marketing-meta-note">iPhone ve iPad'de ücretsiz başlar. iOS 18.0 veya sonrasıyla uyumludur.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="jf-why-title">
   <div class="marketing-section-head">

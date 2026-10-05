@@ -47,7 +47,7 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
   <p class="marketing-meta-note">Descarga gratuita en iPhone y iPad. Funciona en iOS 18.0 o posterior.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="bp-why-title">
   <div class="marketing-section-head">

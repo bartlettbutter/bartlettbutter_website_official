@@ -49,7 +49,7 @@ Las listas de ingredientes están escritas para químicos, no para ti. FormuLens
   <p class="marketing-meta-note">Descarga gratuita en iPhone y iPad. Funciona en iOS 26.2 o posterior.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="fl-why-title">
   <div class="marketing-section-head">

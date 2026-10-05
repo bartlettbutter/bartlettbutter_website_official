@@ -47,7 +47,7 @@ O Solcast vai além da previsão. Ele diz o que vestir, quando levar um guarda-c
   <p class="marketing-meta-note">Grátis para baixar no iPhone e iPad. Funciona no iOS 18.0 ou posterior.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sc-why-title">
   <div class="marketing-section-head">

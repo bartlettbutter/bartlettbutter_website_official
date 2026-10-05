@@ -49,7 +49,7 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
   <p class="marketing-meta-note">Kostenloser Download für iPhone und iPad. Funktioniert unter iOS 26.2 oder neuer.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="fl-why-title">
   <div class="marketing-section-head">

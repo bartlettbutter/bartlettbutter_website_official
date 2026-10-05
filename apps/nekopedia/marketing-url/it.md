@@ -47,7 +47,7 @@ Scatta una foto di un gatto qualsiasi e Nekopedia ne indica la razza, poi apre t
   <p class="marketing-meta-note">Scaricala gratis su iPhone e iPad. Funziona su iOS 18.0 o successivo.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="nk-why-title">
   <div class="marketing-section-head">

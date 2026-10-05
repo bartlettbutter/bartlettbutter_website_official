@@ -47,7 +47,7 @@ Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jong
   <p class="marketing-meta-note">Kostenloser Start auf iPhone und iPad. Kompatibel mit iOS 18.0 oder neuer.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="jf-why-title">
   <div class="marketing-section-head">

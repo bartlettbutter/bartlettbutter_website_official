@@ -47,7 +47,7 @@ Pare de fazer malabarismos com capturas de tela, e-mails espalhados e planilhas 
   <p class="marketing-meta-note">Comece grátis no iPhone e iPad. Compatível com iOS 18.0 ou posterior.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="jf-why-title">
   <div class="marketing-section-head">

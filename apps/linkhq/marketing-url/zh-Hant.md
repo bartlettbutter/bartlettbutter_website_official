@@ -47,7 +47,7 @@ LinkHQ 是一處安靜的空間，用來存放你想再次找到的連結。像�
   <p class="marketing-meta-note">即將登陸 iPhone 與 iPad。</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

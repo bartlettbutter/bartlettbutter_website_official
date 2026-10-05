@@ -47,7 +47,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
   <p class="marketing-meta-note">Gratis te downloaden op iPhone en iPad. Werkt op iOS 18.0 of hoger.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="bp-why-title">
   <div class="marketing-section-head">

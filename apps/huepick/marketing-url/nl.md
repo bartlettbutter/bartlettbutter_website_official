@@ -47,7 +47,7 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
   <p class="marketing-meta-note">Gratis te downloaden op iPhone en iPad. Werkt op iOS 18.6 of hoger.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="hp-why-title">
   <div class="marketing-section-head">

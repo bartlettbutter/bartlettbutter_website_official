@@ -47,7 +47,7 @@ redirect_from:
   <p class="marketing-meta-note">iPhone और iPad पर डाउनलोड करने के लिए निःशुल्क। iOS 18.0 या बाद के संस्करण पर काम करता है।</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="bp-why-title">
   <div class="marketing-section-head">

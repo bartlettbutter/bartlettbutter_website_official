@@ -47,7 +47,7 @@ Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciat
   <p class="marketing-meta-note">Gratis per iniziare su iPhone e iPad. Compatibile con iOS 18.0 o successivo.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="jf-why-title">
   <div class="marketing-section-head">

@@ -47,7 +47,7 @@ Solcastは予報の枠を超えます。何を着るべきか、いつ傘を持�
   <p class="marketing-meta-note">iPhoneとiPadで無料ダウンロード。iOS 18.0以降で動作します。</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sc-why-title">
   <div class="marketing-section-head">

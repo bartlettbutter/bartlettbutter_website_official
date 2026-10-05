@@ -49,7 +49,7 @@ redirect_from:
   <p class="marketing-meta-note">iPhone ve iPad'de ücretsiz indirilebilir. iOS 26.2 veya sonrasında çalışır.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="fl-why-title">
   <div class="marketing-section-head">

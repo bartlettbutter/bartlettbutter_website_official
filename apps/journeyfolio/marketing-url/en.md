@@ -46,7 +46,7 @@ Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Jou
   <p class="marketing-meta-note">Free to start on iPhone and iPad. Compatible with iOS 18.0 or later.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="jf-why-title">
   <div class="marketing-section-head">

@@ -47,7 +47,7 @@ Solcast超越了单纯的预报。它告诉您该穿什么、何时带伞，以�
   <p class="marketing-meta-note">在iPhone和iPad上免费下载。需要iOS 18.0或更高版本。</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sc-why-title">
   <div class="marketing-section-head">

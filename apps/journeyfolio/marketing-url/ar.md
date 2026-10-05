@@ -47,7 +47,7 @@ redirect_from:
   <p class="marketing-meta-note">مجّاني للبدء على iPhone و iPad. متوافق مع iOS 18.0 أو أحدث.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="jf-why-title">
   <div class="marketing-section-head">

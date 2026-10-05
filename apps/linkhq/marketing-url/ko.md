@@ -47,7 +47,7 @@ LinkHQ는 다시 찾고 싶은 링크를 위한 조용한 공간입니다. 동�
   <p class="marketing-meta-note">iPhone과 iPad에 곧 출시됩니다.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

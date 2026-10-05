@@ -49,7 +49,7 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
   <p class="marketing-meta-note">Gratis te downloaden op iPhone en iPad. Werkt op iOS 26.2 of later.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="fl-why-title">
   <div class="marketing-section-head">

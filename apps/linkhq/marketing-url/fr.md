@@ -47,7 +47,7 @@ LinkHQ est un endroit calme pour les liens que vous voulez retrouver. Partagez u
   <p class="marketing-meta-note">Bientôt sur iPhone et iPad.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

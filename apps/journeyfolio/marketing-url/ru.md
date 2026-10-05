@@ -47,7 +47,7 @@ redirect_from:
   <p class="marketing-meta-note">Бесплатный старт на iPhone и iPad. Совместимо с iOS 18.0 или новее.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="jf-why-title">
   <div class="marketing-section-head">

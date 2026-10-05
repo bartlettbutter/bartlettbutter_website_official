@@ -47,7 +47,7 @@ LinkHQ उन लिंक के लिए एक शांत जगह है
   <p class="marketing-meta-note">जल्द ही iPhone और iPad पर।</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

@@ -47,7 +47,7 @@ redirect_from:
   <p class="marketing-meta-note">可在 iPhone 和 iPad 上免費下載。支援 iOS 18.0 或更高版本。</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="bp-why-title">
   <div class="marketing-section-head">

@@ -46,7 +46,7 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
   <p class="marketing-meta-note">Free to download on iPhone and iPad. Works on iOS 18.6 or later.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="hp-why-title">
   <div class="marketing-section-head">

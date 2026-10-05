@@ -47,7 +47,7 @@ redirect_from:
   <p class="marketing-meta-note">Бесплатная загрузка на iPhone и iPad. Работает на iOS 18.6 или новее.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="hp-why-title">
   <div class="marketing-section-head">

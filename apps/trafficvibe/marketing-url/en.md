@@ -45,7 +45,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
   <p class="marketing-meta-note">Coming soon to iPhone and iPad on iOS 26.2 or later.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="tv-why-title">
   <div class="marketing-section-head">

@@ -47,7 +47,7 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
   <p class="marketing-meta-note">Téléchargement gratuit sur iPhone et iPad. Fonctionne sur iOS 18.6 ou version ultérieure.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="hp-why-title">
   <div class="marketing-section-head">

@@ -47,7 +47,7 @@ Sonsuz hisse sembolleri arasında gezinmeyi bırakın. ETFWise, canlı piyasa ve
   <p class="marketing-meta-note">iPhone ve iPad'de indirmesi ücretsiz. iOS 18.0 veya sonrasında çalışır.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="ew-why-title">
   <div class="marketing-section-head">

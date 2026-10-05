@@ -47,7 +47,7 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
   <p class="marketing-meta-note">iPhone ve iPad'de indirmesi ücretsiz. iOS 18.6 veya sonrasında çalışır.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="hp-why-title">
   <div class="marketing-section-head">

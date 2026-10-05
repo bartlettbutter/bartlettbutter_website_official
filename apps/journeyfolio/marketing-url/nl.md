@@ -47,7 +47,7 @@ Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreads
   <p class="marketing-meta-note">Gratis te beginnen op iPhone en iPad. Compatibel met iOS 18.0 of later.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="jf-why-title">
   <div class="marketing-section-head">

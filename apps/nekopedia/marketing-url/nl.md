@@ -47,7 +47,7 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
   <p class="marketing-meta-note">Gratis te downloaden op iPhone en iPad. Werkt op iOS 18.0 of hoger.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="nk-why-title">
   <div class="marketing-section-head">

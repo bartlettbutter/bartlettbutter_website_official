@@ -49,7 +49,7 @@ redirect_from:
   <p class="marketing-meta-note">iPhoneおよびiPadで無料ダウンロード。iOS 26.2以降で動作します。</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="fl-why-title">
   <div class="marketing-section-head">

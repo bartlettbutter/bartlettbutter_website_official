@@ -47,7 +47,7 @@ LinkHQ ist ein ruhiger Ort für die Links, die du wiederfinden möchtest. Teile 
   <p class="marketing-meta-note">Bald für iPhone und iPad.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

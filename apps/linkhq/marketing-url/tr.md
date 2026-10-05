@@ -47,7 +47,7 @@ LinkHQ, yeniden bulmak istediğiniz bağlantılar için sakin bir yer. Bir video
   <p class="marketing-meta-note">iPhone ve iPad'de yakında.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

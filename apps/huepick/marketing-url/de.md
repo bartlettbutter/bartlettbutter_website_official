@@ -47,7 +47,7 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
   <p class="marketing-meta-note">Kostenlos zum Download auf iPhone und iPad. Funktioniert mit iOS 18.6 oder neuer.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="hp-why-title">
   <div class="marketing-section-head">

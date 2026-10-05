@@ -47,7 +47,7 @@ LinkHQ is een rustige plek voor de links die je terug wilt vinden. Deel een vide
   <p class="marketing-meta-note">Binnenkort op iPhone en iPad.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

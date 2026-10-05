@@ -47,7 +47,7 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
   <p class="marketing-meta-note">Kostenlos für iPhone und iPad herunterladen. Funktioniert mit iOS 18.0 oder neuer.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="ew-why-title">
   <div class="marketing-section-head">

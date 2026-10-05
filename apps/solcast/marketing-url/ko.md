@@ -47,7 +47,7 @@ Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙�
   <p class="marketing-meta-note">iPhone 및 iPad에서 무료로 다운로드하세요. iOS 18.0 이상에서 작동합니다.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sc-why-title">
   <div class="marketing-section-head">

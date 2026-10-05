@@ -24,8 +24,8 @@
   content: "";
   position: absolute;
   top: 0;
-  /* Extend the white down through the showcase's top-margin gap so the hero
-     flows straight into the showcase. */
+  /* Extend the white down through the first band's top-margin gap so the
+     hero flows straight into it. */
   bottom: -72px;
   left: 50%;
   width: 100vw;
@@ -125,36 +125,8 @@
   font-weight: 700;
 }
 
-/* Showcase: soft teal band, tinted device edges. */
-.app-showcase--nk {
-  border-top-color: var(--app-accent-soft);
-  border-radius: 24px;
-  background:
-    radial-gradient(circle at 88% 14%, rgba(164, 90, 224, 0.12) 0%, transparent 24%),
-    linear-gradient(180deg, var(--app-accent-soft) 0%, transparent 55%);
-}
-
-.app-showcase--nk .showcase-media img {
-  border: 1px solid var(--app-accent-soft);
-}
-
-.app-showcase--nk .showcase-item {
-  border-color: rgba(82, 37, 126, 0.08);
-}
-
-.app-showcase--nk .showcase-step {
-  background: linear-gradient(135deg, #FFFFFF 0%, #F3E8FC 100%);
-}
-
-/* Merge the showcase's bottom boundary with the first band below it into a
-   single line. */
-.nk-page .app-showcase + .marketing-band {
-  border-top: 0;
-  padding-top: 0;
-}
-
 /* Meta-note under the hero download badge: tighten space above, add room below
-   before the showcase. */
+   before the first band. */
 .nk-page .marketing-cta-row {
   gap: 4px;
   margin-bottom: 28px;
@@ -183,7 +155,7 @@
   }
 }
 
-/* Hero gallery: soft teal frames and eyebrow, matching the showcase band. */
+/* Hero gallery: soft teal frames and eyebrow. */
 .hero-gallery--nk .hero-gallery-label {
   color: var(--app-accent-strong);
 }
@@ -210,7 +182,6 @@
 }
 
 .nk-page h2.marketing-section-title,
-.nk-page h2.app-showcase-title,
 .nk-page .marketing-cta-panel h2 {
   margin-top: 0;
   padding-top: 0;

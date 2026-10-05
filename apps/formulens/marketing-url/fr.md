@@ -49,7 +49,7 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
   <p class="marketing-meta-note">Téléchargement gratuit sur iPhone et iPad. Fonctionne sous iOS 26.2 ou version ultérieure.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="fl-why-title">
   <div class="marketing-section-head">

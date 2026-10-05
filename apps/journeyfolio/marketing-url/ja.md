@@ -47,7 +47,7 @@ redirect_from:
   <p class="marketing-meta-note">iPhoneおよびiPadで無料で始められます。iOS 18.0以降に対応。</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="jf-why-title">
   <div class="marketing-section-head">

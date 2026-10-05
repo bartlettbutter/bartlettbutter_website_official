@@ -28,7 +28,7 @@ plugins:
 # ──────────────────────────────────────────────────────────────────────
 
 # Keep the raw App Store mockup folders out of the published site. They are the
-# high-resolution source for the marketing showcases; web-optimized copies live
+# high-resolution source for the marketing screenshots; web-optimized copies live
 # under assets/screenshots/<app>/ and are what the pages actually load.
 exclude:
   - "apps/*/Apple iPhone 16 Pro Max (1320x2868)"

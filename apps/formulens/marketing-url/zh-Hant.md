@@ -49,7 +49,7 @@ redirect_from:
   <p class="marketing-meta-note">在 iPhone 和 iPad 上免費下載。適用於 iOS 26.2 或更高版本。</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="fl-why-title">
   <div class="marketing-section-head">

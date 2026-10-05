@@ -46,7 +46,7 @@ redirect_from:
   <p class="marketing-meta-note">قريبًا على iPhone وiPad بنظام iOS 26.2 أو أحدث.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="tv-why-title">
   <div class="marketing-section-head">

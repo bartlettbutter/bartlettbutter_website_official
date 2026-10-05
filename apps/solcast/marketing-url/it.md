@@ -47,7 +47,7 @@ Solcast va oltre le previsioni. Ti dice cosa indossare, quando portare un ombrel
   <p class="marketing-meta-note">Scaricala gratis su iPhone e iPad. Funziona su iOS 18.0 o successivo.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sc-why-title">
   <div class="marketing-section-head">

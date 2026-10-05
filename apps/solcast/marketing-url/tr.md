@@ -47,7 +47,7 @@ Solcast tahminin ötesine geçer. Ne giyeceğinizi, ne zaman şemsiye alacağın
   <p class="marketing-meta-note">iPhone ve iPad'de indirmesi ücretsiz. iOS 18.0 veya sonrasında çalışır.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sc-why-title">
   <div class="marketing-section-head">

@@ -46,7 +46,7 @@ Solcast goes beyond the forecast. It tells you what to wear, when to bring an um
   <p class="marketing-meta-note">Free to download on iPhone and iPad. Works on iOS 18.0 or later.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sc-why-title">
   <div class="marketing-section-head">

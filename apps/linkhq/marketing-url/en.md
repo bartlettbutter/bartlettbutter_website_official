@@ -46,7 +46,7 @@ LinkHQ is a quiet place for the links you want to find again. Share a video, a p
   <p class="marketing-meta-note">Coming soon on iPhone and iPad.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

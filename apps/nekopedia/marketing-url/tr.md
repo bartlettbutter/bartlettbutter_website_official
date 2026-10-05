@@ -47,7 +47,7 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
   <p class="marketing-meta-note">iPhone ve iPad'de indirmesi ücretsiz. iOS 18.0 veya sonrasında çalışır.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="nk-why-title">
   <div class="marketing-section-head">

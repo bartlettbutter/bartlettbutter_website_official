@@ -47,7 +47,7 @@ Solcast geht über die Vorhersage hinaus. Es sagt dir, was du anziehen sollst, w
   <p class="marketing-meta-note">Kostenloser Download auf iPhone und iPad. Funktioniert mit iOS 18.0 oder neuer.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sc-why-title">
   <div class="marketing-section-head">

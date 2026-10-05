@@ -42,12 +42,11 @@ Recommended order for an app overview page:
 2. Hero screenshot gallery
 3. Value chips plus quick stats
 4. Store CTA row
-5. Screenshot showcase / product walkthrough
-6. Feature deep-dive band
-7. Product architecture band
-8. Onboarding flow band
-9. Pricing or offer band
-10. Final CTA band linking to support and privacy
+5. Feature deep-dive band
+6. Product architecture band
+7. Onboarding flow band
+8. Pricing or offer band
+9. Final CTA band linking to support and privacy
 
 The architecture is intentionally modular. Not every app needs every module, but each module should render from the same structural vocabulary.
 

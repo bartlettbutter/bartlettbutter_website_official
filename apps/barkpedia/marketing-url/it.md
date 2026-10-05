@@ -47,7 +47,7 @@ Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tu
   <p class="marketing-meta-note">Scaricala gratis su iPhone e iPad. Funziona su iOS 18.0 o successivo.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="bp-why-title">
   <div class="marketing-section-head">

@@ -46,7 +46,7 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
   <p class="marketing-meta-note">Em breve para iPhone e iPad com iOS 26.2 ou posterior.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="tv-why-title">
   <div class="marketing-section-head">

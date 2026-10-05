@@ -47,7 +47,7 @@ LinkHQ مكانٌ هادئ للروابط التي تودّ أن تجدها من
   <p class="marketing-meta-note">قريبًا على iPhone وiPad.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

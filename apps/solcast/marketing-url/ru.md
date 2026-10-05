@@ -47,7 +47,7 @@ Solcast выходит за рамки прогноза. Оно подсказы
   <p class="marketing-meta-note">Бесплатная загрузка на iPhone и iPad. Работает на iOS 18.0 или новее.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sc-why-title">
   <div class="marketing-section-head">

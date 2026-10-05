@@ -46,7 +46,7 @@ redirect_from:
   <p class="marketing-meta-note">即將登陸 iPhone 和 iPad，需 iOS 26.2 或更新版本。</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="tv-why-title">
   <div class="marketing-section-head">

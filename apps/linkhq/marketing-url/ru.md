@@ -47,7 +47,7 @@ LinkHQ, это тихое место для ссылок, которые вы х
   <p class="marketing-meta-note">Скоро на iPhone и iPad.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

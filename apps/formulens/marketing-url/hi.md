@@ -49,7 +49,7 @@ redirect_from:
   <p class="marketing-meta-note">iPhone और iPad पर डाउनलोड करने के लिए मुफ़्त। iOS 26.2 या बाद के संस्करण पर काम करता है।</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="fl-why-title">
   <div class="marketing-section-head">

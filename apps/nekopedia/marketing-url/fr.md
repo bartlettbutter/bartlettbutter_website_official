@@ -47,7 +47,7 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
   <p class="marketing-meta-note">Téléchargement gratuit sur iPhone et iPad. Fonctionne sur iOS 18.0 ou version ultérieure.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="nk-why-title">
   <div class="marketing-section-head">

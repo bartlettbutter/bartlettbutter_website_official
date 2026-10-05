@@ -49,7 +49,7 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
   <p class="marketing-meta-note">Gratis da scaricare su iPhone e iPad. Funziona su iOS 26.2 o successivo.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="fl-why-title">
   <div class="marketing-section-head">

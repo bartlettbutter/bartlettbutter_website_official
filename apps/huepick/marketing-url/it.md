@@ -47,7 +47,7 @@ Scatta una foto di qualsiasi cosa ti ispiri e Huepick rivela la palette nascosta
   <p class="marketing-meta-note">Scaricala gratis su iPhone e iPad. Funziona su iOS 18.6 o successivo.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="hp-why-title">
   <div class="marketing-section-head">

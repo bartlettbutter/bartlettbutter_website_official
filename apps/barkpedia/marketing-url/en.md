@@ -46,7 +46,7 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
   <p class="marketing-meta-note">Free to download on iPhone and iPad. Works on iOS 18.0 or later.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="bp-why-title">
   <div class="marketing-section-head">

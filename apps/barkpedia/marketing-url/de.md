@@ -47,7 +47,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
   <p class="marketing-meta-note">Kostenloser Download auf iPhone und iPad. Funktioniert mit iOS 18.0 oder neuer.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="bp-why-title">
   <div class="marketing-section-head">

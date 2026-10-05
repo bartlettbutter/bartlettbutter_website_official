@@ -47,7 +47,7 @@ Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un
   <p class="marketing-meta-note">Téléchargement gratuit sur iPhone et iPad. Fonctionne sur iOS 18.0 ou version ultérieure.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sc-why-title">
   <div class="marketing-section-head">

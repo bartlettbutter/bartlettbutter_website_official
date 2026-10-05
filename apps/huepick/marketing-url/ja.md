@@ -47,7 +47,7 @@ redirect_from:
   <p class="marketing-meta-note">iPhoneとiPadで無料ダウンロード。iOS 18.6以降で動作します。</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="hp-why-title">
   <div class="marketing-section-head">

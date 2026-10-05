@@ -47,7 +47,7 @@ LinkHQ は、もう一度見つけたいリンクのための静かな場所で�
   <p class="marketing-meta-note">iPhone と iPad に近日登場。</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">

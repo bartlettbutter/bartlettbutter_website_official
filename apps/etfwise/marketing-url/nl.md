@@ -47,7 +47,7 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
   <p class="marketing-meta-note">Gratis te downloaden op iPhone en iPad. Werkt op iOS 18.0 of hoger.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="ew-why-title">
   <div class="marketing-section-head">

@@ -46,7 +46,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
   <p class="marketing-meta-note">Bientôt disponible sur iPhone et iPad avec iOS 26.2 ou version ultérieure.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="tv-why-title">
   <div class="marketing-section-head">

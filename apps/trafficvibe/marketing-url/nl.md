@@ -46,7 +46,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
   <p class="marketing-meta-note">Binnenkort voor iPhone en iPad met iOS 26.2 of later.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="tv-why-title">
   <div class="marketing-section-head">

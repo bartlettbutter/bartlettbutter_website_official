@@ -46,7 +46,7 @@ redirect_from:
   <p class="marketing-meta-note">iOS 26.2 이상을 지원하는 iPhone 및 iPad에 곧 출시 예정입니다.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="tv-why-title">
   <div class="marketing-section-head">

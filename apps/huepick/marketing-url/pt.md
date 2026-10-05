@@ -47,7 +47,7 @@ Tire uma foto de qualquer coisa que te inspire e o Huepick revela a paleta ocult
   <p class="marketing-meta-note">Grátis para baixar no iPhone e iPad. Funciona no iOS 18.6 ou posterior.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="hp-why-title">
   <div class="marketing-section-head">

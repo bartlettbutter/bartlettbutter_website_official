@@ -47,7 +47,7 @@ redirect_from:
   <p class="marketing-meta-note">iPhone과 iPad에서 무료로 시작. iOS 18.0 이상과 호환됩니다.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="jf-why-title">
   <div class="marketing-section-head">

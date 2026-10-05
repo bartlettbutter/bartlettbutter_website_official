@@ -47,7 +47,7 @@ Tire uma foto de qualquer gato e o Nekopedia dá nome à raça e, em seguida, ab
   <p class="marketing-meta-note">Grátis para baixar no iPhone e iPad. Funciona no iOS 18.0 ou posterior.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="nk-why-title">
   <div class="marketing-section-head">

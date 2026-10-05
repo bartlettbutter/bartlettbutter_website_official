@@ -46,7 +46,7 @@ redirect_from:
   <p class="marketing-meta-note">iOS 26.2 या उसके बाद वाले iPhone और iPad पर जल्द आ रहा है।</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="tv-why-title">
   <div class="marketing-section-head">

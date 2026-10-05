@@ -127,36 +127,8 @@
   font-weight: 700;
 }
 
-/* Showcase: soft parchment band, tinted device edges. */
-.app-showcase--sy {
-  border-top-color: var(--app-accent-soft);
-  border-radius: 24px;
-  background:
-    radial-gradient(circle at 88% 14%, rgba(169, 120, 86, 0.12) 0%, transparent 24%),
-    linear-gradient(180deg, var(--app-accent-soft) 0%, transparent 55%);
-}
-
-.app-showcase--sy .showcase-media img {
-  border: 1px solid var(--app-accent-soft);
-}
-
-.app-showcase--sy .showcase-item {
-  border-color: rgba(20, 49, 74, 0.08);
-}
-
-.app-showcase--sy .showcase-step {
-  background: linear-gradient(135deg, #FFFCF3 0%, #F6F1E3 100%);
-}
-
-/* Merge the showcase's bottom boundary with the first band below it into a
-   single line. */
-.sy-page .app-showcase + .marketing-band {
-  border-top: 0;
-  padding-top: 0;
-}
-
 /* Meta-note under the hero download badge: tighten space above, add room below
-   before the showcase. */
+   before the first band. */
 .sy-page .marketing-cta-row {
   gap: 4px;
   margin-bottom: 28px;
@@ -185,7 +157,7 @@
   }
 }
 
-/* Hero gallery: soft parchment frames and eyebrow, matching the showcase band. */
+/* Hero gallery: soft parchment frames and eyebrow. */
 .hero-gallery--sy .hero-gallery-label {
   color: var(--app-accent-strong);
 }
@@ -263,7 +235,6 @@
 }
 
 .sy-page h2.marketing-section-title,
-.sy-page h2.app-showcase-title,
 .sy-page .marketing-cta-panel h2 {
   margin-top: 0;
   padding-top: 0;

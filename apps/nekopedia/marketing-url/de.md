@@ -47,7 +47,7 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
   <p class="marketing-meta-note">Kostenlos für iPhone und iPad. Funktioniert mit iOS 18.0 oder neuer.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="nk-why-title">
   <div class="marketing-section-head">

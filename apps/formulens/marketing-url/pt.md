@@ -49,7 +49,7 @@ Os rótulos de ingredientes são escritos para químicos, não para você. O For
   <p class="marketing-meta-note">Download gratuito no iPhone e iPad. Funciona no iOS 26.2 ou posterior.</p>
 </div>
 
-<!--showcase-->
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="fl-why-title">
   <div class="marketing-section-head">

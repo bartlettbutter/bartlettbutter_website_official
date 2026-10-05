@@ -66,7 +66,7 @@ Nous ne vendons, ne partageons ni ne louons vos données à qui que ce soit. Il 
 
 | Autorisation | Pourquoi Elle Est Nécessaire | Requise ? |
 |--------------|------------------------------|-----------|
-| Appareil photo | Pour prendre des photos pour l'extraction des couleurs | Facultative — vous pouvez utiliser votre photothèque |
+| Appareil photo | Pour prendre des photos pour l'extraction des couleurs | Facultative : vous pouvez utiliser votre photothèque |
 | Photothèque | Pour sélectionner des photos et enregistrer les images traitées | Facultative |
 
 Nous ne demandons pas l'accès à votre localisation en temps réel. Les données de localisation ne sont lues que lorsqu'elles existent déjà dans les métadonnées intégrées de votre photo.

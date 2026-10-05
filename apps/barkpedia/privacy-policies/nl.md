@@ -35,9 +35,9 @@ De App vraagt uitsluitend toestemming voor de camera en fotobibliotheek zodat u 
 
 ## Wat Er op uw Apparaat Wordt Opgeslagen
 
-- **Favorieten** — Resultaten van rasscans die u opslaat, worden alleen lokaal op uw apparaat bewaard.
-- **Verkennen-gegevens** — De zoekindex voor rassen en de kaartgegevens van het land van herkomst zijn in de app zelf opgenomen.
-- **Kaartweergave** — De interactieve wereldkaart gebruikt Apple Kaarten (MapKit), die lokaal op uw apparaat wordt weergegeven.
+- **Favorieten**: resultaten van rasscans die u opslaat, worden alleen lokaal op uw apparaat bewaard.
+- **Verkennen-gegevens**: de zoekindex voor rassen en de kaartgegevens van het land van herkomst zijn in de app zelf opgenomen.
+- **Kaartweergave**: de interactieve wereldkaart gebruikt Apple Kaarten (MapKit), die lokaal op uw apparaat wordt weergegeven.
 
 Geen van deze gegevens wordt extern verzonden. Alles wordt automatisch verwijderd wanneer u de App verwijdert.
 
@@ -55,8 +55,8 @@ We verkopen, verhuren of delen geen gebruikersgegevens met derden. Er zijn geen 
 
 | Toestemming | Waarom We Deze Vragen | Vereist? |
 |-------------|-----------------------|----------|
-| Camera | Om honden te fotograferen voor rasherkenning | Optioneel — u kunt in plaats daarvan uw fotobibliotheek gebruiken |
-| Fotobibliotheek | Om bestaande foto's te selecteren voor rasherkenning | Optioneel — u kunt in plaats daarvan de camera gebruiken |
+| Camera | Om honden te fotograferen voor rasherkenning | Optioneel. U kunt in plaats daarvan uw fotobibliotheek gebruiken |
+| Fotobibliotheek | Om bestaande foto's te selecteren voor rasherkenning | Optioneel. U kunt in plaats daarvan de camera gebruiken |
 
 **Dat is alles.** De App vraagt of gebruikt geen locatie, contacten, microfoon, Bluetooth, tracking (ATT), meldingen of enige andere gevoelige toestemming.
 

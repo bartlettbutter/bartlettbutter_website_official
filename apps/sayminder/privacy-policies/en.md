@@ -38,11 +38,11 @@ When you grant microphone and speech-recognition permission, your speech is tran
 
 ### Reminders & Notes
 
-The reminders you create — their titles, notes, times, recurrence, and the original spoken transcript — are stored only on your device, in a shared app container so the app, its widget, and the Siri/Shortcuts intent can read one source of truth. They are never uploaded.
+The reminders you create, including their titles, notes, times, recurrence, and the original spoken transcript, are stored only on your device, in a shared app container so the app, its widget, and the Siri/Shortcuts intent can read one source of truth. They are never uploaded.
 
 ### Calendar (Optional, Read-Only)
 
-If you turn on **Show calendar events**, the app reads your system-calendar events to display them alongside your reminders. This access is read-only — Sayminder never creates, edits, or deletes calendar events — and the events are only read on your device to render the agenda. This layer is off until you enable it.
+If you turn on **Show calendar events**, the app reads your system-calendar events to display them alongside your reminders. This access is read-only: Sayminder never creates, edits, or deletes calendar events, and the events are only read on your device to render the agenda. This layer is off until you enable it.
 
 ### Scheduling & Text-to-Speech
 

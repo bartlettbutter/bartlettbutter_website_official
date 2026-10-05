@@ -12,7 +12,7 @@ redirect_from:
 
 # Zie kleuren anders. Verander elke foto in een palet.
 
-Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet erin — tot twaalf kleuren, klaar om te kopiëren, te begrijpen en om te vormen met creatieve hulpmiddelen. Geen typen, geen zoeken, geen account en geen kosten.
+Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet erin: tot twaalf kleuren, klaar om te kopiëren, te begrijpen en om te vormen met creatieve hulpmiddelen. Geen typen, geen zoeken, geen account en geen kosten.
 
 <!--gallery-->
 
@@ -30,7 +30,7 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">creatieve hulpmiddelen — Isoleren, Duotoon, Tritoon, Pixeliseren, Vervagen en Glitch</span>
+    <span class="marketing-stat-label">creatieve hulpmiddelen: Isoleren, Duotoon, Tritoon, Pixeliseren, Vervagen en Glitch</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
@@ -53,7 +53,7 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Waarom kleurliefhebbers ervoor kiezen</p>
     <h2 id="hp-why-title" class="marketing-section-title">Een rustige, complete manier om kleur vast te leggen en ermee te creëren.</h2>
-    <p class="marketing-section-intro">Huepick verandert een moment van inspiratie in een palet dat je echt kunt gebruiken, en gaat dan verder met heldere analyse en creatieve hulpmiddelen — allemaal zonder aanmelding of signaal.</p>
+    <p class="marketing-section-intro">Huepick verandert een moment van inspiratie in een palet dat je echt kunt gebruiken, en gaat dan verder met heldere analyse en creatieve hulpmiddelen, allemaal zonder aanmelding of signaal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Productarchitectuur</p>
     <h2 id="hp-modes-title" class="marketing-section-title">Drie ruimtes om in te werken, één consistente kleurflow overal.</h2>
-    <p class="marketing-section-intro">Elk onderdeel van Huepick beantwoordt een andere intentie — haal de kleuren eruit, speel ermee, of kom terug naar wat je hebt gemaakt — met behoud van dezelfde duidelijke, tastbare stijl.</p>
+    <p class="marketing-section-intro">Met behoud van dezelfde duidelijke, tastbare stijl beantwoordt elk onderdeel van Huepick een andere intentie: haal de kleuren eruit, speel ermee, of kom terug naar wat je hebt gemaakt.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -153,7 +153,7 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
     </article>
     <article class="marketing-step">
       <h3>Bewaar en deel</h3>
-      <p>Bewaar creaties in je galerij, download ze naar Foto's of deel ze direct — allemaal offline.</p>
+      <p>Bewaar creaties in je galerij, download ze naar Foto's of deel ze direct, allemaal offline.</p>
     </article>
   </div>
 </section>

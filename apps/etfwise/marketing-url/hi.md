@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">निवेशक इसे क्यों चुनते हैं</p>
     <h2 id="ew-why-title" class="marketing-section-title">पूरे ETF बाज़ार पर एक शांत दैनिक नज़र।</h2>
-    <p class="marketing-section-intro">ETFWise एक शोरगुल भरे बाज़ार को एक त्वरित सुबह की जाँच में बदल देता है: ताज़ा चयन, सरल भाषा में एक ब्रीफ़िंग, और गहन फंड विश्लेषण — यह सब बिना किसी साइन-अप, सदस्यता, या आपके डेटा को डिवाइस से बाहर भेजे।</p>
+    <p class="marketing-section-intro">ETFWise एक शोरगुल भरे बाज़ार को एक त्वरित सुबह की जाँच में बदल देता है: ताज़ा चयन, सरल भाषा में एक ब्रीफ़िंग, और गहन फंड विश्लेषण, यह सब बिना किसी साइन-अप, सदस्यता, या आपके डेटा को डिवाइस से बाहर भेजे।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">उत्पाद संरचना</p>
     <h2 id="ew-modes-title" class="marketing-section-title">बाज़ार पर काम करने के तीन तरीके, एक सुसंगत नज़र।</h2>
-    <p class="marketing-section-intro">ETFWise का हर हिस्सा एक अलग प्रश्न का उत्तर देता है — आज क्या हुआ, मुझे किस पर नज़र रखनी चाहिए, और यह फंड वास्तव में किससे बना है — जबकि वही स्पष्ट, पठनीय शैली बनाए रखता है।</p>
+    <p class="marketing-section-intro">वही स्पष्ट, पठनीय शैली बनाए रखते हुए, ETFWise का हर हिस्सा एक अलग प्रश्न का उत्तर देता है: आज क्या हुआ, मुझे किस पर नज़र रखनी चाहिए, और यह फंड वास्तव में किससे बना है।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -189,7 +189,7 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">आज शामिल</span>
       <h3 class="marketing-price-summary">हर सुविधा बिना किसी लागत के उपलब्ध है।</h3>
-      <p>दैनिक चयन, बाज़ार ब्रीफ़िंग, गहन फंड विश्लेषण, लाइव कीमतें, भावना, और 450+ टिकर में तत्काल खोज — बिना किसी खाते, सदस्यता या पेवॉल के।</p>
+      <p>दैनिक चयन, बाज़ार ब्रीफ़िंग, गहन फंड विश्लेषण, लाइव कीमतें, भावना, और 450+ टिकर में तत्काल खोज, बिना किसी खाते, सदस्यता या पेवॉल के।</p>
       <p class="marketing-price-note">iOS 18.0 या बाद के संस्करण पर iPhone और iPad के साथ संगत।</p>
     </article>
     <article class="marketing-price-card">

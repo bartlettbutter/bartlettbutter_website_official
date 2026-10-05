@@ -10,7 +10,7 @@ redirect_from:
 
 # Leave at the right time, every time.
 
-Should I go now, or wait? TrafficVibe answers that before you pick up your keys — a calm, plain-language read of how the roads are running, what's slowing you down, and the smartest moment to head out. Built for every city worldwide, so a confident go decision is always one glance away.
+Should I go now, or wait? TrafficVibe answers that before you pick up your keys: a calm, plain-language read of how the roads are running, what's slowing you down, and the smartest moment to head out. Built for every city worldwide, so a confident go decision is always one glance away.
 
 <!--gallery-->
 
@@ -32,7 +32,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">honest by design — when something can't be measured, it says so instead of guessing</span>
+    <span class="marketing-stat-label">honest by design: when something can't be measured, it says so instead of guessing</span>
   </article>
 </div>
 
@@ -51,7 +51,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why commuters choose it</p>
     <h2 id="tv-why-title" class="marketing-section-title">One glance, and you know exactly what's ahead.</h2>
-    <p class="marketing-section-intro">TrafficVibe turns a noisy morning into a single calm check: how your commute is running, what's slowing it down, and when to leave — all without a sign-up, a subscription, or your data leaving the device.</p>
+    <p class="marketing-section-intro">TrafficVibe turns a noisy morning into a single calm check: how your commute is running, what's slowing it down, and when to leave, all without a sign-up, a subscription, or your data leaving the device.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -74,7 +74,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
     </article>
     <article class="marketing-card">
       <h3>Everything that shapes your drive</h3>
-      <p>See how the roads are moving, how much time traffic is adding, and any accidents, construction, or closures ahead — with a faster alternate route when one helps.</p>
+      <p>See how the roads are moving, how much time traffic is adding, and any accidents, construction, or closures ahead, with a faster alternate route when one helps.</p>
       <ul class="marketing-list">
         <li>At-a-glance gas price, speed limits, and nearby essentials</li>
         <li>Accidents, construction, and closures, so nothing catches you out</li>
@@ -83,7 +83,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
     </article>
     <article class="marketing-card">
       <h3>Weather that actually affects driving</h3>
-      <p>Only the conditions that change how you drive. No air-quality noise or lifestyle signals — just what matters on the road.</p>
+      <p>Only the conditions that change how you drive. No air-quality noise or lifestyle signals, just what matters on the road.</p>
       <ul class="marketing-list">
         <li>Rain and snow adding to your drive time</li>
         <li>Possible road ice and low-visibility fog or haze</li>
@@ -97,7 +97,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">The whole picture, at a glance</p>
     <h2 id="tv-indices-title" class="marketing-section-title">Everything that matters, on one honest color scale.</h2>
-    <p class="marketing-section-intro">Simple color-coded badges answer the questions every commuter asks — green for good, yellow for caution, red for act now — so you take in your whole drive in seconds.</p>
+    <p class="marketing-section-intro">Simple color-coded badges answer the questions every commuter asks: green for good, yellow for caution, red for act now, so you take in your whole drive in seconds.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -106,7 +106,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
     </article>
     <article class="marketing-card">
       <h3>What's slowing me down?</h3>
-      <p>Congestion, delays, accidents, construction, and closures on the way — and whether a detour is looming.</p>
+      <p>Congestion, delays, accidents, construction, and closures on the way, and whether a detour is looming.</p>
     </article>
     <article class="marketing-card">
       <h3>Weather on the road</h3>
@@ -164,7 +164,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Check once, then head out</h3>
-      <p>The briefing and indices give you a complete read on your commute in a single glance, so you leave calmer and arrive on time — no hunting through maps or news to piece together what your drive looks like.</p>
+      <p>The briefing and indices give you a complete read on your commute in a single glance, so you leave calmer and arrive on time, without hunting through maps or news to piece together what your drive looks like.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Made for every commute</h3>
@@ -191,7 +191,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
     </article>
     <article class="marketing-card">
       <h3>Your commute cities</h3>
-      <p>Save the places you travel to, and each becomes a route from where you are — with its own door-to-door ETAs, delay alerts, and departure reminders. Switching between them is instant.</p>
+      <p>Save the places you travel to, and each becomes a route from where you are, with its own door-to-door ETAs, delay alerts, and departure reminders. Switching between them is instant.</p>
     </article>
   </div>
 </section>
@@ -205,7 +205,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys 
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">At launch</span>
       <h3 class="marketing-price-summary">Every feature available at no cost.</h3>
-      <p>The morning briefing, all eighteen Commute Life Indices, the hourly outlook, saved commute cities, and smart alerts — with no account, no subscription, and no paywall.</p>
+      <p>The morning briefing, all eighteen Commute Life Indices, the hourly outlook, saved commute cities, and smart alerts, with no account, no subscription, and no paywall.</p>
       <p class="marketing-price-note">Compatible with iPhone and iPad on iOS 26.2 or later.</p>
     </article>
     <article class="marketing-price-card">

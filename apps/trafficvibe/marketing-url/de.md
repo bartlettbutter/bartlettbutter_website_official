@@ -11,7 +11,7 @@ redirect_from:
 
 # Fahr immer zum richtigen Zeitpunkt los.
 
-Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum Schlüssel greifst – eine ruhige Einschätzung in klarer Sprache, wie der Verkehr läuft, was dich ausbremst und wann der beste Moment zum Aufbrechen ist. Gemacht für jede Stadt weltweit, damit eine sichere Entscheidung immer nur einen Blick entfernt ist.
+Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum Schlüssel greifst: eine ruhige Einschätzung in klarer Sprache, wie der Verkehr läuft, was dich ausbremst und wann der beste Moment zum Aufbrechen ist. Gemacht für jede Stadt weltweit, damit eine sichere Entscheidung immer nur einen Blick entfernt ist.
 
 <!--gallery-->
 
@@ -33,7 +33,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">ehrlich by design – lässt sich etwas nicht messen, sagt sie das, statt zu raten</span>
+    <span class="marketing-stat-label">ehrlich by design: lässt sich etwas nicht messen, sagt sie das, statt zu raten</span>
   </article>
 </div>
 
@@ -52,7 +52,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Warum Pendler sie wählen</p>
     <h2 id="tv-why-title" class="marketing-section-title">Ein Blick, und du weißt genau, was dich erwartet.</h2>
-    <p class="marketing-section-intro">TrafficVibe macht aus einem hektischen Morgen einen einzigen ruhigen Check: wie dein Weg läuft, was ihn ausbremst und wann du losfahren solltest – alles ohne Anmeldung, ohne Abo und ohne dass deine Daten das Gerät verlassen.</p>
+    <p class="marketing-section-intro">TrafficVibe macht aus einem hektischen Morgen einen einzigen ruhigen Check: wie dein Weg läuft, was ihn ausbremst und wann du losfahren solltest, alles ohne Anmeldung, ohne Abo und ohne dass deine Daten das Gerät verlassen.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,7 +75,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
     </article>
     <article class="marketing-card">
       <h3>Alles, was deinen Weg beeinflusst</h3>
-      <p>Sieh, wie der Verkehr läuft, wie viel Zeit er kostet und welche Unfälle, Baustellen oder Sperrungen vor dir liegen – mit einer schnelleren Alternativroute, wenn eine hilft.</p>
+      <p>Sieh, wie der Verkehr läuft, wie viel Zeit er kostet und welche Unfälle, Baustellen oder Sperrungen vor dir liegen, mit einer schnelleren Alternativroute, wenn eine hilft.</p>
       <ul class="marketing-list">
         <li>Auf einen Blick: Spritpreis, Tempolimits und nahe Anlaufstellen</li>
         <li>Unfälle, Baustellen und Sperrungen, damit dich nichts überrascht</li>
@@ -84,7 +84,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
     </article>
     <article class="marketing-card">
       <h3>Wetter, das das Fahren wirklich beeinflusst</h3>
-      <p>Nur die Bedingungen, die verändern, wie du fährst. Kein Rauschen zur Luftqualität oder Lifestyle-Signale – nur das, was auf der Straße zählt.</p>
+      <p>Nur die Bedingungen, die verändern, wie du fährst. Kein Rauschen zur Luftqualität oder Lifestyle-Signale, sondern nur das, was auf der Straße zählt.</p>
       <ul class="marketing-list">
         <li>Regen und Schnee, die deine Fahrzeit verlängern</li>
         <li>Mögliches Glatteis und Nebel oder Dunst mit schlechter Sicht</li>
@@ -98,7 +98,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Das ganze Bild, auf einen Blick</p>
     <h2 id="tv-indices-title" class="marketing-section-title">Alles, was zählt, auf einer ehrlichen Farbskala.</h2>
-    <p class="marketing-section-intro">Einfache farbcodierte Plaketten beantworten die Fragen, die sich jeder Pendler stellt – grün für gut, gelb für Vorsicht, rot für sofort handeln – damit du deinen gesamten Weg in Sekunden erfasst.</p>
+    <p class="marketing-section-intro">Einfache farbcodierte Plaketten beantworten die Fragen, die sich jeder Pendler stellt: grün für gut, gelb für Vorsicht, rot für sofort handeln, damit du deinen gesamten Weg in Sekunden erfasst.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -107,7 +107,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
     </article>
     <article class="marketing-card">
       <h3>Was bremst mich aus?</h3>
-      <p>Stau, Verzögerungen, Unfälle, Baustellen und Sperrungen unterwegs – und ob eine Umleitung droht.</p>
+      <p>Stau, Verzögerungen, Unfälle, Baustellen und Sperrungen unterwegs und ob eine Umleitung droht.</p>
     </article>
     <article class="marketing-card">
       <h3>Wetter auf der Straße</h3>
@@ -165,7 +165,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Einmal prüfen, dann losfahren</h3>
-      <p>Briefing und Indizes geben dir mit einem einzigen Blick eine vollständige Einschätzung deines Wegs, sodass du ruhiger losfährst und pünktlich ankommst – ohne dich durch Karten oder Nachrichten zu wühlen, um zu verstehen, wie deine Fahrt aussieht.</p>
+      <p>Briefing und Indizes geben dir mit einem einzigen Blick eine vollständige Einschätzung deines Wegs, sodass du ruhiger losfährst und pünktlich ankommst, ohne dich durch Karten oder Nachrichten zu wühlen, um zu verstehen, wie deine Fahrt aussieht.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Für jeden Weg gemacht</h3>
@@ -192,7 +192,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
     </article>
     <article class="marketing-card">
       <h3>Deine Pendelstädte</h3>
-      <p>Speichere die Orte, zu denen du fährst, und jeder wird zu einer Route von deinem Standort aus – mit eigenen Tür-zu-Tür-Ankunftszeiten, Verzögerungswarnungen und Aufbruch-Erinnerungen. Der Wechsel zwischen ihnen erfolgt sofort.</p>
+      <p>Speichere die Orte, zu denen du fährst, und jeder wird zu einer Route von deinem Standort aus, mit eigenen Tür-zu-Tür-Ankunftszeiten, Verzögerungswarnungen und Aufbruch-Erinnerungen. Der Wechsel zwischen ihnen erfolgt sofort.</p>
     </article>
   </div>
 </section>
@@ -206,7 +206,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Zum Start</span>
       <h3 class="marketing-price-summary">Alle Funktionen kostenlos verfügbar.</h3>
-      <p>Das Morgen-Briefing, alle achtzehn Pendel-Indizes, die stündliche Vorschau, gespeicherte Pendelstädte und smarte Warnungen – ohne Konto, ohne Abo und ohne Bezahlschranke.</p>
+      <p>Das Morgen-Briefing, alle achtzehn Pendel-Indizes, die stündliche Vorschau, gespeicherte Pendelstädte und smarte Warnungen, ohne Konto, ohne Abo und ohne Bezahlschranke.</p>
       <p class="marketing-price-note">Kompatibel mit iPhone und iPad mit iOS 26.2 oder neuer.</p>
     </article>
     <article class="marketing-price-card">

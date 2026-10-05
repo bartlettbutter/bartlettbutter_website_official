@@ -11,7 +11,7 @@ redirect_from:
 
 # Every cat has a story. Discover it instantly.
 
-Snap a photo of any cat and Nekopedia names the breed, then opens the whole story behind it — temperament, history, origin, and fun facts. No typing, no searching, and no cost — and breed ID works even offline.
+Snap a photo of any cat and Nekopedia names the breed, then opens the whole story behind it: temperament, history, origin, and fun facts. No typing, no searching, and no cost, and breed ID works even offline.
 
 <!--gallery-->
 
@@ -52,7 +52,7 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why cat lovers choose it</p>
     <h2 id="nk-why-title" class="marketing-section-title">A calm, complete pocket guide to the cat world.</h2>
-    <p class="marketing-section-intro">Nekopedia turns a curious moment at the café into a real answer, then keeps going with the history, the profile, and a little fun — all without a sign-up, and breed ID works even without a signal.</p>
+    <p class="marketing-section-intro">Nekopedia turns a curious moment at the café into a real answer, then keeps going with the history, the profile, and a little fun, all without a sign-up, and breed ID works even without a signal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -98,7 +98,7 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Product architecture</p>
     <h2 id="nk-modes-title" class="marketing-section-title">Three ways to enjoy it, one friendly guide throughout.</h2>
-    <p class="marketing-section-intro">Each part of Nekopedia answers a different mood — a quick question, an afternoon of browsing, or a game night — while keeping the same clear, readable style.</p>
+    <p class="marketing-section-intro">While keeping the same clear, readable style, each part of Nekopedia answers a different mood: a quick question, an afternoon of browsing, or a game night.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

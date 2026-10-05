@@ -34,16 +34,16 @@ FormuLens hilft dir, kosmetische Inhaltsstofflisten zu verstehen, indem es sie d
 Du erteilst Zugriff auf die Kamera oder die Fotomediathek, damit FormuLens Inhaltsstofflisten lesen kann. Das passiert mit diesen Fotos:
 
 - Fotos werden **vollständig auf deinem Gerät** mit Apples integrierter Texterkennungstechnologie verarbeitet.
-- Fotos werden **niemals hochgeladen** – weder auf unsere Server noch auf die von irgendjemand anderem.
+- Fotos werden **niemals hochgeladen**, weder auf unsere Server noch auf die von irgendjemand anderem.
 - Fotos werden von der App **nicht über die aktive Analysesitzung hinaus gespeichert** (es sei denn, du speicherst ein Ergebnis ausdrücklich).
 
 ## Wie die Analyse funktioniert
 
 Die gesamte Verarbeitung ist lokal:
 
-- **Textextraktion** – auf dem Gerät durch die integrierten Frameworks des Betriebssystems ausgeführt.
-- **Identifizierung der Inhaltsstoffe** – abgeglichen mit einer in der App enthaltenen Datenbank.
-- **Vergleiche und Routineanalyse** – im Speicher deines Geräts berechnet.
+- **Textextraktion**: auf dem Gerät durch die integrierten Frameworks des Betriebssystems ausgeführt.
+- **Identifizierung der Inhaltsstoffe**: abgeglichen mit einer in der App enthaltenen Datenbank.
+- **Vergleiche und Routineanalyse**: im Speicher deines Geräts berechnet.
 
 Es ist keine Internetverbindung erforderlich. Bei keinem dieser Vorgänge verlassen Daten dein Gerät.
 
@@ -86,8 +86,8 @@ FormuLens fordert **keinen** Zugriff an auf: Standort, Kontakte, Mikrofon, Bluet
 
 Wir betreiben keine Server und unterhalten keine Nutzerdatenbanken. Alle Daten existieren nur auf deinem Gerät. So löschst du sie:
 
-- **Einzelne Einträge** – innerhalb der App durch Wischen löschen.
-- **Alle Daten** – FormuLens von deinem Gerät deinstallieren.
+- **Einzelne Einträge**: innerhalb der App durch Wischen löschen.
+- **Alle Daten**: FormuLens von deinem Gerät deinstallieren.
 
 ## Deine Rechte
 

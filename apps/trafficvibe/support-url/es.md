@@ -11,7 +11,7 @@ redirect_from:
 
 # ¿Cómo podemos ayudarte?
 
-Creamos TrafficVibe para hacer tus mañanas más serenas, y queremos que usarla se sienta igual. La mayoría de las preguntas se responden a continuación —y si la tuya no está aquí, una persona real está a un correo de distancia y siempre encantada de ayudar.
+Creamos TrafficVibe para hacer tus mañanas más serenas, y queremos que usarla se sienta igual. La mayoría de las preguntas se responden a continuación, y si la tuya no está aquí, una persona real está a un correo de distancia y siempre encantada de ayudar.
 
 ## Primeros pasos
 
@@ -35,11 +35,11 @@ TrafficVibe es gratis en la App Store. No hay suscripciones, ni compras dentro d
 
 ### ¿Qué significan los colores?
 
-Cada índice se lee de un vistazo: verde para bien o despejado, amarillo para precaución o moderado, rojo para mal o actuar ya. Un color determinado significa lo mismo en cada ciudad —solo la redacción del consejo se adapta a tu situación.
+Cada índice se lee de un vistazo: verde para bien o despejado, amarillo para precaución o moderado, rojo para mal o actuar ya. Un color determinado significa lo mismo en cada ciudad; solo la redacción del consejo se adapta a tu situación.
 
 ### ¿Por qué un índice dice "sin datos"?
 
-TrafficVibe nunca inventa una cifra. Cuando algo realmente no se puede medir para la ciudad que estás viendo, esa insignia dice "sin datos" en lugar de mostrar una valoración inventada. La disponibilidad varía según el lugar —por ejemplo, los precios del combustible dependen de un precio publicado para tu país, y algunas insignias de características de la vía dependen de lo detallado que esté mapeado tu área. No es un error; es la app siendo honesta.
+TrafficVibe nunca inventa una cifra. Cuando algo realmente no se puede medir para la ciudad que estás viendo, esa insignia dice "sin datos" en lugar de mostrar una valoración inventada. La disponibilidad varía según el lugar. Por ejemplo, los precios del combustible dependen de un precio publicado para tu país, y algunas insignias de características de la vía dependen de lo detallado que esté mapeado tu área. No es un error; es la app siendo honesta.
 
 ### ¿Cuáles son los dieciocho índices?
 
@@ -55,7 +55,7 @@ Están agrupados según lo que de verdad se pregunta quien se desplaza:
 
 ### ¿De dónde vienen los datos?
 
-TrafficVibe se apoya en fuentes de mapas, tiempo y datos públicos fiables y consolidadas para las rutas y los tiempos estimados, las condiciones, las características de la vía cercanas, los festivos y los precios del combustible (mostrados en tu moneda local). Tu resumen y sus valoraciones se elaboran en tu dispositivo —nada sobre tu trayecto se sube. Para saber exactamente qué sale de tu dispositivo y por qué, consulta nuestra [Política de Privacidad](https://www.bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe se apoya en fuentes de mapas, tiempo y datos públicos fiables y consolidadas para las rutas y los tiempos estimados, las condiciones, las características de la vía cercanas, los festivos y los precios del combustible (mostrados en tu moneda local). Tu resumen y sus valoraciones se elaboran en tu dispositivo; nada sobre tu trayecto se sube. Para saber exactamente qué sale de tu dispositivo y por qué, consulta nuestra [Política de Privacidad](https://www.bartlettbutter.com/trafficvibe/privacy/).
 
 ## Notificaciones
 
@@ -69,7 +69,7 @@ Define tus propias horas de silencio y activa la preferencia de solo días labor
 
 ### ¿Por qué no me llegan las alertas?
 
-TrafficVibe no se actualiza en segundo plano —evalúa las alertas cuando abres la app o deslizas para actualizar. Asegúrate de que las notificaciones estén activadas en Ajustes, y de que no estés dentro de tus horas de silencio o de una exclusión de solo días laborables.
+TrafficVibe no se actualiza en segundo plano. Evalúa las alertas cuando abres la app o deslizas para actualizar. Asegúrate de que las notificaciones estén activadas en Ajustes, y de que no estés dentro de tus horas de silencio o de una exclusión de solo días laborables.
 
 ## Ciudades de trayecto
 
@@ -95,7 +95,7 @@ Comprueba que tu dispositivo esté conectado a internet y luego desliza hacia ab
 
 ### Un índice muestra "sin datos"
 
-Esto es intencionado cuando una fuente no está disponible para la ciudad seleccionada (consulta "¿Por qué un índice dice 'sin datos'?" más arriba). No es un error —la app simplemente se niega a adivinar.
+Esto es intencionado cuando una fuente no está disponible para la ciudad seleccionada (consulta "¿Por qué un índice dice 'sin datos'?" más arriba). No es un error; la app simplemente se niega a adivinar.
 
 ### La app se bloquea o se congela
 

@@ -53,7 +53,7 @@ Solcast超越了單純的預報。它告訴您該穿什麼、何時帶傘，以�
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">人們為何選擇它</p>
     <h2 id="sc-why-title" class="marketing-section-title">一款告訴您實際該怎麼做的天氣應用。</h2>
-    <p class="marketing-section-intro">Solcast替您解讀預報，並將其轉化為清晰、個性化的指導——這樣,看一眼手機就能成為一天的計劃，而不是一堆需要破解的數字。</p>
+    <p class="marketing-section-intro">Solcast替您解讀預報，並將其轉化為清晰、個性化的指導，這樣看一眼手機就能成為一天的計劃，而不是一堆需要破解的數字。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Solcast超越了單純的預報。它告訴您該穿什麼、何時帶傘，以�
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">產品架構</p>
     <h2 id="sc-arch-title" class="marketing-section-title">一個儀表板，三種規劃您一天的方式。</h2>
-    <p class="marketing-section-intro">Solcast的每個部分都回答一個不同的問題——正在發生什麼、這對您意味著什麼、以及該穿什麼——同時保持同樣沉靜、易讀的風格。</p>
+    <p class="marketing-section-intro">Solcast的每個部分都保持同樣沉靜、易讀的風格，同時各自回答一個不同的問題：正在發生什麼、這對您意味著什麼、以及該穿什麼。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -203,7 +203,7 @@ Solcast超越了單純的預報。它告訴您該穿什麼、何時帶傘，以�
       <p>Premium適合關注眾多城市天氣、並希望解除免費版儲存地點限制的人。</p>
       <ul class="marketing-list">
         <li>無限儲存地點，每個都以其當地時區顯示</li>
-        <li>一項可選升級——核心應用始終免費</li>
+        <li>一項可選升級，核心應用始終免費</li>
         <li>無論免費版還是Premium，都無廣告無追蹤</li>
       </ul>
     </article>

@@ -35,9 +35,9 @@ Sì. Nessun acquisto in-app, nessun abbonamento, nessuna pubblicità. Ogni funzi
 
 ### Cosa sono le tre schede?
 
-- **Analizza** — scatta o scegli una foto, estrai una palette di 12 colori, visualizza un'analisi cromatica dettagliata e ottieni suggerimenti personalizzati sugli strumenti creativi
-- **Playground** — trasforma la tua foto con sei strumenti creativi (Isola, Duotone, Tritone, Pixelizza, Sfoca, Glitch)
-- **Galleria** — sfoglia, rimodifica, scarica o condividi le tue creazioni salvate
+- **Analizza**: scatta o scegli una foto, estrai una palette di 12 colori, visualizza un'analisi cromatica dettagliata e ottieni suggerimenti personalizzati sugli strumenti creativi
+- **Playground**: trasforma la tua foto con sei strumenti creativi (Isola, Duotone, Tritone, Pixelizza, Sfoca, Glitch)
+- **Galleria**: sfoglia, rimodifica, scarica o condividi le tue creazioni salvate
 
 ### Come funziona l'analisi dei colori?
 
@@ -49,12 +49,12 @@ Tocca un qualsiasi campione di colore. Appare una breve conferma per farti saper
 
 ### Quali sono gli strumenti creativi nel Playground?
 
-- **Isola** — mantieni vivaci i colori selezionati mentre il resto diventa in scala di grigi (o viceversa)
-- **Duotone** — rimappa la tua immagine su due toni per un look audace ed editoriale
-- **Tritone** — rimappa la tua immagine su tre toni per un look più ricco e sfumato
-- **Pixelizza** — trasforma in un mosaico di tessere geometriche con dimensione delle tessere regolabile
-- **Sfoca** — aggiungi una messa a fuoco morbida e onirica con una scelta di stili di sfocatura e intensità regolabile
-- **Glitch** — applica la separazione dei canali RGB e la distorsione digitale
+- **Isola**: mantieni vivaci i colori selezionati mentre il resto diventa in scala di grigi (o viceversa)
+- **Duotone**: rimappa la tua immagine su due toni per un look audace ed editoriale
+- **Tritone**: rimappa la tua immagine su tre toni per un look più ricco e sfumato
+- **Pixelizza**: trasforma in un mosaico di tessere geometriche con dimensione delle tessere regolabile
+- **Sfoca**: aggiungi una messa a fuoco morbida e onirica con una scelta di stili di sfocatura e intensità regolabile
+- **Glitch**: applica la separazione dei canali RGB e la distorsione digitale
 
 ### Come salvo una creazione?
 

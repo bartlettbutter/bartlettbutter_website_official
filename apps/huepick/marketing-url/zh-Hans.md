@@ -12,7 +12,7 @@ redirect_from:
 
 # 用不同的方式看色彩。将任何照片变成调色板。
 
-拍摄任何激发您灵感的事物，Huepick便会揭示其中隐藏的调色板——多达十二种颜色，可随时复制、理解，并用创意工具重新塑造。无需打字，无需搜索，无需账户，无需付费。
+拍摄任何激发您灵感的事物，Huepick便会揭示其中隐藏的调色板：多达十二种颜色，可随时复制、理解，并用创意工具重新塑造。无需打字，无需搜索，无需账户，无需付费。
 
 <!--gallery-->
 
@@ -30,7 +30,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">种创意工具——隔离、双色调、三色调、像素化、模糊和故障</span>
+    <span class="marketing-stat-label">种创意工具：隔离、双色调、三色调、像素化、模糊和故障</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">色彩爱好者为何选择它</p>
     <h2 id="hp-why-title" class="marketing-section-title">一种沉稳、完整的捕捉色彩并用色彩创作的方式。</h2>
-    <p class="marketing-section-intro">Huepick把灵感的瞬间变成您真正能用的调色板，随后继续带来清晰的分析和创意工具——全程无需注册，也无需信号。</p>
+    <p class="marketing-section-intro">Huepick把灵感的瞬间变成您真正能用的调色板，随后继续带来清晰的分析和创意工具，全程无需注册，也无需信号。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">产品架构</p>
     <h2 id="hp-modes-title" class="marketing-section-title">三个工作空间，全程一致的色彩流程。</h2>
-    <p class="marketing-section-intro">Huepick的每个部分都回应一种不同的意图——把颜色提取出来、玩转它们，或回到您所创作的作品——同时保持同样清晰、有质感的风格。</p>
+    <p class="marketing-section-intro">Huepick的每个部分都回应一种不同的意图（把颜色提取出来、玩转它们，或回到您所创作的作品），同时保持同样清晰、有质感的风格。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -153,7 +153,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>保存和分享</h3>
-      <p>将创作保存在画廊中、下载到"照片"，或直接分享——全部离线完成。</p>
+      <p>将创作保存在画廊中、下载到"照片"，或直接分享，全部离线完成。</p>
     </article>
   </div>
 </section>

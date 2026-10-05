@@ -21,7 +21,7 @@ Basta aprire Sayminder. Nessun account e nessuna registrazione. Al primo avvio c
 
 ### Come creo un promemoria?
 
-Tocca il pulsante del microfono e parla — per esempio, «ricordami di prendere la medicina stasera alle nove». Sayminder trascrive le tue parole, ne ricava la data e l'ora e mostra una scheda di conferma. Rivedi o modifica titolo, note, ora e opzione di ripetizione, quindi salva. Ti legge ad alta voce una breve conferma.
+Tocca il pulsante del microfono e parla, per esempio: «ricordami di prendere la medicina stasera alle nove». Sayminder trascrive le tue parole, ne ricava la data e l'ora e mostra una scheda di conferma. Rivedi o modifica titolo, note, ora e opzione di ripetizione, quindi salva. Ti legge ad alta voce una breve conferma.
 
 ### Che tipi di orari posso indicare?
 
@@ -59,7 +59,7 @@ Sì. Sayminder aggiunge un Comando rapido dell'app, così puoi creare un promemo
 
 ### Sayminder può mostrare gli eventi del mio calendario?
 
-Sì, in modo facoltativo. Attiva **Mostra eventi del calendario** nelle Impostazioni per rispecchiare gli eventi del calendario di sistema nel Riepilogo di oggi, nell'elenco In arrivo e nella griglia del Calendario. Questo livello è rigorosamente di sola lettura — Sayminder non crea, modifica né elimina mai eventi del calendario — ed è disattivato finché non lo attivi.
+Sì, in modo facoltativo. Attiva **Mostra eventi del calendario** nelle Impostazioni per rispecchiare gli eventi del calendario di sistema nel Riepilogo di oggi, nell'elenco In arrivo e nella griglia del Calendario. Questo livello è rigorosamente di sola lettura: Sayminder non crea, modifica né elimina mai eventi del calendario, ed è disattivato finché non lo attivi.
 
 ### Sayminder funziona su iPad?
 
@@ -77,7 +77,7 @@ Un promemoria non può raggiungerti se né le sveglie né le notifiche sono auto
 
 ### Perché l'autorizzazione al calendario compare solo a volte?
 
-L'accesso in sola lettura al calendario viene richiesto in modo differito — solo quando attivi **Mostra eventi del calendario** nelle Impostazioni — anziché all'avvio.
+L'accesso in sola lettura al calendario viene richiesto in modo differito, solo quando attivi **Mostra eventi del calendario** nelle Impostazioni, anziché all'avvio.
 
 ## Risoluzione dei problemi
 
@@ -91,7 +91,7 @@ Vai nelle Impostazioni del dispositivo > Privacy e sicurezza > Microfono e assic
 
 ### L'orario interpretato è sbagliato
 
-L'analisi è euristica. Ogni promemoria viene mostrato per la revisione prima del salvataggio — regola l'orario sulla scheda di conferma. Se non è stato rilevato alcun orario concreto, il promemoria viene impostato per impostazione predefinita a un'ora da adesso e contrassegnato così che tu possa definirlo.
+L'analisi è euristica. Ogni promemoria viene mostrato per la revisione prima del salvataggio. Regola l'orario sulla scheda di conferma. Se non è stato rilevato alcun orario concreto, il promemoria viene impostato per impostazione predefinita a un'ora da adesso e contrassegnato così che tu possa definirlo.
 
 ### L'orario di un promemoria singolo è già passato
 

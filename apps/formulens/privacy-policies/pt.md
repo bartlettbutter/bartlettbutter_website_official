@@ -41,9 +41,9 @@ Você concede acesso à câmera ou à biblioteca de fotos para que o FormuLens p
 
 Todo o processamento é local:
 
-- **Extração de texto** — realizada no dispositivo pelas estruturas integradas do sistema operacional.
-- **Identificação de ingredientes** — comparada com um banco de dados incorporado ao aplicativo.
-- **Comparações e análise de rotina** — calculadas na memória do seu dispositivo.
+- **Extração de texto**: realizada no dispositivo pelas estruturas integradas do sistema operacional.
+- **Identificação de ingredientes**: comparada com um banco de dados incorporado ao aplicativo.
+- **Comparações e análise de rotina**: calculadas na memória do seu dispositivo.
 
 Nenhuma conexão com a internet é necessária. Nenhum dado sai do seu dispositivo durante qualquer uma dessas operações.
 
@@ -86,8 +86,8 @@ O FormuLens **não** solicita acesso a: localização, contatos, microfone, Blue
 
 Não operamos nenhum servidor e não mantemos nenhum banco de dados de usuários. Todos os dados existem apenas no seu dispositivo. Para excluí-los:
 
-- **Itens individuais** — deslize para excluir dentro do aplicativo.
-- **Todos os dados** — desinstale o FormuLens do seu dispositivo.
+- **Itens individuais**: deslize para excluir dentro do aplicativo.
+- **Todos os dados**: desinstale o FormuLens do seu dispositivo.
 
 ## Seus direitos
 

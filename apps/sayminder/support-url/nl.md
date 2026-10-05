@@ -21,7 +21,7 @@ Open gewoon Sayminder. Er is geen account en geen registratie. Bij de eerste sta
 
 ### Hoe maak ik een herinnering?
 
-Tik op de microfoonknop en spreek — bijvoorbeeld "herinner me eraan vanavond om negen uur mijn medicijn in te nemen." Sayminder transcribeert je woorden, leest daaruit de datum en tijd af en toont een bevestigingskaart. Bekijk of bewerk de titel, notities, tijd en herhaaloptie en bewaar daarna. De app leest je een korte bevestiging voor.
+Tik op de microfoonknop en spreek, bijvoorbeeld: "herinner me eraan vanavond om negen uur mijn medicijn in te nemen." Sayminder transcribeert je woorden, leest daaruit de datum en tijd af en toont een bevestigingskaart. Bekijk of bewerk de titel, notities, tijd en herhaaloptie en bewaar daarna. De app leest je een korte bevestiging voor.
 
 ### Wat voor soort tijden kan ik zeggen?
 
@@ -59,7 +59,7 @@ Ja. Sayminder voegt een App-opdracht toe, zodat je met je stem een herinnering k
 
 ### Kan Sayminder mijn agenda-activiteiten tonen?
 
-Ja, optioneel. Schakel **Toon agenda-activiteiten** in bij Instellingen om de activiteiten van je systeemagenda te spiegelen naar het Dagoverzicht, de lijst Aankomend en het Kalenderraster. Deze laag is strikt alleen-lezen — Sayminder maakt, bewerkt of verwijdert nooit agenda-activiteiten — en staat uit totdat je hem inschakelt.
+Ja, optioneel. Schakel **Toon agenda-activiteiten** in bij Instellingen om de activiteiten van je systeemagenda te spiegelen naar het Dagoverzicht, de lijst Aankomend en het Kalenderraster. Deze laag is strikt alleen-lezen: Sayminder maakt, bewerkt of verwijdert nooit agenda-activiteiten. De laag staat uit totdat je hem inschakelt.
 
 ### Werkt Sayminder op de iPad?
 
@@ -77,7 +77,7 @@ Een herinnering kan je niet bereiken als noch wekkers noch meldingen zijn geauto
 
 ### Waarom verschijnt de agendatoestemming maar soms?
 
-Alleen-lezen toegang tot de agenda wordt uitgesteld aangevraagd — alleen wanneer je **Toon agenda-activiteiten** inschakelt bij Instellingen — in plaats van bij de start.
+Alleen-lezen toegang tot de agenda wordt uitgesteld aangevraagd, alleen wanneer je **Toon agenda-activiteiten** inschakelt bij Instellingen, in plaats van bij de start.
 
 ## Problemen oplossen
 
@@ -91,7 +91,7 @@ Ga naar de Instellingen van je apparaat > Privacy en beveiliging > Microfoon en 
 
 ### De tijd die is herkend is verkeerd
 
-De verwerking is heuristisch. Elke herinnering wordt vóór het bewaren ter controle getoond — pas de tijd aan op de bevestigingskaart. Als er geen concrete tijd is gedetecteerd, wordt de herinnering standaard ingesteld op over een uur en gemarkeerd zodat je die kunt instellen.
+De verwerking is heuristisch. Elke herinnering wordt vóór het bewaren ter controle getoond. Pas de tijd aan op de bevestigingskaart. Als er geen concrete tijd is gedetecteerd, wordt de herinnering standaard ingesteld op over een uur en gemarkeerd zodat je die kunt instellen.
 
 ### De tijd van een eenmalige herinnering ligt al in het verleden
 

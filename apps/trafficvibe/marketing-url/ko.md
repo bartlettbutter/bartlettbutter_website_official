@@ -33,7 +33,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">설계부터 정직하게 — 측정할 수 없는 것은 추측하지 않고 그대로 말합니다</span>
+    <span class="marketing-stat-label">설계부터 정직하게, 측정할 수 없는 것은 추측하지 않고 그대로 말합니다</span>
   </article>
 </div>
 
@@ -52,7 +52,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">출퇴근하는 사람들이 선택하는 이유</p>
     <h2 id="tv-why-title" class="marketing-section-title">한눈에, 앞으로 무엇이 기다리는지 정확히 알게 됩니다.</h2>
-    <p class="marketing-section-intro">TrafficVibe는 어수선한 아침을 단 한 번의 차분한 확인으로 바꿔줍니다. 출근길이 어떻게 흐르는지, 무엇이 그것을 늦추는지, 그리고 언제 나서야 하는지를 — 가입도, 구독도, 데이터가 기기를 벗어나는 일도 없이 알려드립니다.</p>
+    <p class="marketing-section-intro">TrafficVibe는 어수선한 아침을 단 한 번의 차분한 확인으로 바꿔줍니다. 출근길이 어떻게 흐르는지, 무엇이 그것을 늦추는지, 그리고 언제 나서야 하는지를, 가입도, 구독도, 데이터가 기기를 벗어나는 일도 없이 알려드립니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,7 +75,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>이동을 좌우하는 모든 것</h3>
-      <p>도로가 어떻게 움직이는지, 교통 때문에 얼마나 시간이 더 드는지, 그리고 앞쪽의 사고·공사·통제까지 — 도움이 될 때는 더 빠른 대체 경로와 함께 확인하세요.</p>
+      <p>도로가 어떻게 움직이는지, 교통 때문에 얼마나 시간이 더 드는지, 그리고 앞쪽의 사고·공사·통제까지, 도움이 될 때는 더 빠른 대체 경로와 함께 확인하세요.</p>
       <ul class="marketing-list">
         <li>한눈에 보는 유가, 제한 속도, 근처 필수 시설</li>
         <li>사고·공사·통제 정보로 갑작스러운 상황을 방지</li>
@@ -84,7 +84,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>운전에 실제로 영향을 주는 날씨</h3>
-      <p>운전 방식을 바꾸는 조건만 담았습니다. 대기질 소음이나 라이프스타일 신호는 없이 — 도로에서 중요한 것만.</p>
+      <p>운전 방식을 바꾸는 조건만 담았습니다. 대기질 소음이나 라이프스타일 신호는 없이, 도로에서 중요한 것만.</p>
       <ul class="marketing-list">
         <li>이동 시간을 늘리는 비와 눈</li>
         <li>도로 결빙 가능성과 시야를 가리는 안개나 연무</li>
@@ -98,7 +98,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">전체 그림을 한눈에</p>
     <h2 id="tv-indices-title" class="marketing-section-title">중요한 모든 것을, 하나의 정직한 색상 척도로.</h2>
-    <p class="marketing-section-intro">간단한 색상 배지가 모든 운전자가 던지는 질문에 답합니다 — 좋음은 초록, 주의는 노랑, 지금 행동은 빨강 — 덕분에 출근길 전체를 몇 초 만에 파악합니다.</p>
+    <p class="marketing-section-intro">간단한 색상 배지가 모든 운전자가 던지는 질문에 답합니다. 좋음은 초록, 주의는 노랑, 지금 행동은 빨강. 덕분에 출근길 전체를 몇 초 만에 파악합니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -165,7 +165,7 @@ redirect_from:
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>한 번 확인하고, 나서기</h3>
-      <p>브리핑과 지수가 한눈에 출근길 전체를 읽어주어, 더 차분하게 나서고 제때 도착합니다 — 이동이 어떤 모습일지 짜맞추려고 지도나 뉴스를 뒤질 필요가 없습니다.</p>
+      <p>브리핑과 지수가 한눈에 출근길 전체를 읽어주어, 더 차분하게 나서고 제때 도착합니다. 이동이 어떤 모습일지 짜맞추려고 지도나 뉴스를 뒤질 필요가 없습니다.</p>
     </article>
     <article class="marketing-story-card">
       <h3>모든 출근길을 위해</h3>
@@ -206,7 +206,7 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">출시 시점</span>
       <h3 class="marketing-price-summary">모든 기능을 무료로 이용할 수 있습니다.</h3>
-      <p>아침 브리핑, 열여덟 가지 출근길 생활 지수, 시간별 전망, 저장한 출근 도시, 그리고 스마트 알림을 — 계정도, 구독도, 유료 장벽도 없이.</p>
+      <p>아침 브리핑, 열여덟 가지 출근길 생활 지수, 시간별 전망, 저장한 출근 도시, 그리고 스마트 알림을 계정도, 구독도, 유료 장벽도 없이.</p>
       <p class="marketing-price-note">iOS 26.2 이상의 iPhone 및 iPad와 호환됩니다.</p>
     </article>
     <article class="marketing-price-card">

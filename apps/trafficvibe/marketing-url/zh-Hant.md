@@ -11,7 +11,7 @@ redirect_from:
 
 # 每一次都在對的時刻出發。
 
-現在就走，還是再等等？在你拿起鑰匙之前，TrafficVibe 就已經給出答案——用淺白的語言平靜地告訴你路況如何、什麼在拖慢你，以及最明智的出發時機。為全球每一座城市打造，讓一個篤定的出發決定始終只需一瞥。
+現在就走，還是再等等？在你拿起鑰匙之前，TrafficVibe 就已經給出答案：用淺白的語言平靜地告訴你路況如何、什麼在拖慢你，以及最明智的出發時機。為全球每一座城市打造，讓一個篤定的出發決定始終只需一瞥。
 
 <!--gallery-->
 
@@ -33,7 +33,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">誠實是設計的一部分——無法測量時，它會如實相告，絕不臆測</span>
+    <span class="marketing-stat-label">誠實是設計的一部分：無法測量時，它會如實相告，絕不臆測</span>
   </article>
 </div>
 
@@ -52,7 +52,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">通勤者為何選擇它</p>
     <h2 id="tv-why-title" class="marketing-section-title">看一眼，就清楚前方等著你的是什麼。</h2>
-    <p class="marketing-section-intro">TrafficVibe 把喧鬧的清晨變成一次平靜的查看：你的通勤如何、什麼在拖慢它、何時出發——無需註冊、無需訂閱，你的資料也不會離開裝置。</p>
+    <p class="marketing-section-intro">TrafficVibe 把喧鬧的清晨變成一次平靜的查看：你的通勤如何、什麼在拖慢它、何時出發，無需註冊、無需訂閱，你的資料也不會離開裝置。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -75,7 +75,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>影響你行程的一切</h3>
-      <p>看清路況如何、壅塞增加了多少時間，以及前方的事故、施工或封路——有更快的替代路線時也會一併給出。</p>
+      <p>看清路況如何、壅塞增加了多少時間，以及前方的事故、施工或封路，有更快的替代路線時也會一併給出。</p>
       <ul class="marketing-list">
         <li>一目了然的油價、速限和附近的必備設施</li>
         <li>事故、施工和封路，讓你不被打個措手不及</li>
@@ -84,7 +84,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>真正影響駕駛的天氣</h3>
-      <p>只關乎會改變你駕駛方式的狀況。沒有空氣品質的雜訊，也沒有生活型態的訊號——只有路上真正重要的事。</p>
+      <p>只關乎會改變你駕駛方式的狀況。沒有空氣品質的雜訊，也沒有生活型態的訊號，只有路上真正重要的事。</p>
       <ul class="marketing-list">
         <li>會增加行程時間的雨和雪</li>
         <li>可能的路面結冰，以及低能見度的霧或霾</li>
@@ -98,7 +98,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">全貌，一眼盡覽</p>
     <h2 id="tv-indices-title" class="marketing-section-title">重要的一切，都在一套誠實的顏色刻度上。</h2>
-    <p class="marketing-section-intro">簡潔的顏色徽章回答每位通勤者都會問的問題——綠色表示良好，黃色表示注意，紅色表示立即行動——讓你在數秒內看清整段行程。</p>
+    <p class="marketing-section-intro">簡潔的顏色徽章回答每位通勤者都會問的問題：綠色表示良好，黃色表示注意，紅色表示立即行動，讓你在數秒內看清整段行程。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -107,7 +107,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>什麼在拖慢我？</h3>
-      <p>途中的壅塞、延誤、事故、施工和封路——以及是否將要繞行。</p>
+      <p>途中的壅塞、延誤、事故、施工和封路，以及是否將要繞行。</p>
     </article>
     <article class="marketing-card">
       <h3>路上的天氣</h3>
@@ -165,7 +165,7 @@ redirect_from:
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>看一次，然後出發</h3>
-      <p>簡報和各項指數讓你一眼就完整讀懂通勤，於是你更從容地出發、準時抵達——無需在地圖或新聞裡翻找，去拼湊你的行程會是什麼樣。</p>
+      <p>簡報和各項指數讓你一眼就完整讀懂通勤，於是你更從容地出發、準時抵達，無需在地圖或新聞裡翻找，去拼湊你的行程會是什麼樣。</p>
     </article>
     <article class="marketing-story-card">
       <h3>為每一段通勤而生</h3>
@@ -192,7 +192,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>你的通勤城市</h3>
-      <p>儲存你前往的地點，每一個都會成為從你所在位置出發的路線——擁有各自的門到門預計到達時間、延誤提醒和出發提醒。在它們之間切換是瞬時的。</p>
+      <p>儲存你前往的地點，每一個都會成為從你所在位置出發的路線，擁有各自的門到門預計到達時間、延誤提醒和出發提醒。在它們之間切換是瞬時的。</p>
     </article>
   </div>
 </section>
@@ -206,7 +206,7 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">上線時</span>
       <h3 class="marketing-price-summary">所有功能均免費提供。</h3>
-      <p>清晨簡報、全部十八項通勤生活指數、逐小時展望、已儲存的通勤城市和智慧提醒——無需帳戶、無需訂閱，也沒有付費牆。</p>
+      <p>清晨簡報、全部十八項通勤生活指數、逐小時展望、已儲存的通勤城市和智慧提醒，無需帳戶、無需訂閱，也沒有付費牆。</p>
       <p class="marketing-price-note">相容 iPhone 和 iPad，需 iOS 26.2 或更新版本。</p>
     </article>
     <article class="marketing-price-card">

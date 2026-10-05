@@ -39,11 +39,11 @@ Cuando concedes permiso de micrófono y reconocimiento de voz, tu habla se trans
 
 ### Recordatorios y notas
 
-Los recordatorios que creas —sus títulos, notas, horas, recurrencia y la transcripción original de lo dictado— se almacenan únicamente en tu dispositivo, en un contenedor de app compartido para que la app, su widget y la intención de Siri/Atajos puedan leer una única fuente fiable. Nunca se suben a ningún sitio.
+Los recordatorios que creas, incluidos sus títulos, notas, horas, recurrencia y la transcripción original de lo dictado, se almacenan únicamente en tu dispositivo, en un contenedor de app compartido para que la app, su widget y la intención de Siri/Atajos puedan leer una única fuente fiable. Nunca se suben a ningún sitio.
 
 ### Calendario (opcional, solo lectura)
 
-Si activas **Mostrar eventos del calendario**, la app lee los eventos del calendario de tu sistema para mostrarlos junto a tus recordatorios. Este acceso es de solo lectura —Sayminder nunca crea, edita ni elimina eventos del calendario— y los eventos solo se leen en tu dispositivo para representar la agenda. Esta capa está desactivada hasta que la habilitas.
+Si activas **Mostrar eventos del calendario**, la app lee los eventos del calendario de tu sistema para mostrarlos junto a tus recordatorios. Este acceso es de solo lectura: Sayminder nunca crea, edita ni elimina eventos del calendario, y los eventos solo se leen en tu dispositivo para representar la agenda. Esta capa está desactivada hasta que la habilitas.
 
 ### Programación y conversión de texto a voz
 

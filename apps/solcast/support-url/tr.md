@@ -23,9 +23,9 @@ Sadece Solcast'i açın. Hesap yok, kayıt yok. İstendiğinde, bölgenizin hava
 
 Ayarları açmak için dişli simgesine (sağ üst) dokunun. Üç bölümde 11 seçenek bulacaksınız:
 
-- **Sizin Hakkınızda** — sıcaklık birimi (°C/°F), sıcaklık hassasiyeti, güneş hassasiyeti, göz hassasiyeti, alerji hassasiyeti, migren hassasiyeti
-- **Tarzınız** — giyim tarzı (Günlük, İş Günlüğü, Resmi, Sportif) ve açık hava egzersiz tercihi
-- **Haneniz** — çocuklar, evcil hayvanlar, arabalar
+- **Sizin Hakkınızda**: sıcaklık birimi (°C/°F), sıcaklık hassasiyeti, güneş hassasiyeti, göz hassasiyeti, alerji hassasiyeti, migren hassasiyeti
+- **Tarzınız**: giyim tarzı (Günlük, İş Günlüğü, Resmi, Sportif) ve açık hava egzersiz tercihi
+- **Haneniz**: çocuklar, evcil hayvanlar, arabalar
 
 Her değişiklik hemen geçerli olur, yeniden yüklemeye gerek yoktur.
 

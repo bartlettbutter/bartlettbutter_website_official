@@ -2,7 +2,7 @@
 layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "Bir hatırlatıcı söyleyin, tam zamanında size ulaşsın — sessizdeyken bile — ve kendini sesli okusun."
+app_description: "Bir hatırlatıcı söyleyin; sessizdeyken bile tam zamanında size ulaşsın ve kendini sesli okusun."
 app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
 lang: tr
 permalink: /sayminder/tr/
@@ -12,16 +12,16 @@ redirect_from:
 
 # Zarifçe hatırlayın. Sadece sesli söyleyin.
 
-En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve ne zaman söyleyin; Sayminder bunu yazıya döker, sözlerinizden zamanı okur ve takviminize ekler. Vakti geldiğinde sizi uyarır — sessizde ya da Odak'ta bile — ve hatırlatıcıyı doğal bir sesle geri okur.
+En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve ne zaman söyleyin; Sayminder bunu yazıya döker, sözlerinizden zamanı okur ve takviminize ekler. Vakti geldiğinde sizi sessizde ya da Odak'ta bile uyarır ve hatırlatıcıyı doğal bir sesle geri okur.
 
 <div class="marketing-shot-placeholder-grid" aria-label="Sayminder ekran görüntüleri yakında">
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Ekran görüntüsü</span>
-    <span class="marketing-shot-placeholder-caption">Bas ve konuş — canlı yazıya dökme</span>
+    <span class="marketing-shot-placeholder-caption">Bas ve konuş: canlı yazıya dökme</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Ekran görüntüsü</span>
-    <span class="marketing-shot-placeholder-caption">Bugünün Özeti — en yakın olan önce</span>
+    <span class="marketing-shot-placeholder-caption">Bugünün Özeti: en yakın olan önce</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Ekran görüntüsü</span>
@@ -64,7 +64,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">İnsanlar neden seçiyor</p>
     <h2 id="sy-why-title" class="marketing-section-title">İçine yazdığınız değil, konuştuğunuz bir hatırlatıcı uygulaması.</h2>
-    <p class="marketing-section-intro">Sayminder söylenmiş bir cümleyi alır, içindeki zamanı anlar ve onu gerçekten size ulaşan bir hatırlatıcıya dönüştürür — böylece bir düşünceyi kaydetmek onu söylemek kadar hızlıdır.</p>
+    <p class="marketing-section-intro">Sayminder söylenmiş bir cümleyi alır, içindeki zamanı anlar ve onu gerçekten size ulaşan bir hatırlatıcıya dönüştürür. Böylece bir düşünceyi kaydetmek onu söylemek kadar hızlıdır.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -87,7 +87,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
     </article>
     <article class="marketing-card">
       <h3>Size geri okur</h3>
-      <p>Bir hatırlatıcı geldiğinde uygulama onu sesli söyler — ve birini kaydettiğinizde sesli onaylar — böylece tüm döngü eller serbest kalır.</p>
+      <p>Bir hatırlatıcı geldiğinde uygulama onu sesli söyler ve birini kaydettiğinizde sesli onaylar; böylece tüm döngü eller serbest kalır.</p>
       <ul class="marketing-list">
         <li>Kaydettikten sonra "Tamam. Size şunu hatırlatacağım…"</li>
         <li>Herhangi bir liste satırı istendiğinde okunabilir</li>
@@ -110,7 +110,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Ürün mimarisi</p>
     <h2 id="sy-arch-title" class="marketing-section-title">Tek bir ses yüzeyi, gününüze hâkim olmanın dört yolu.</h2>
-    <p class="marketing-section-intro">Sayminder'ın her parçası farklı bir soruyu yanıtlar — ne kaydedileceği, sırada ne olduğu, belirli bir günde ne olduğu ve az önce ne çaldığı — aynı sakin, özenli üslubu korurken.</p>
+    <p class="marketing-section-intro">Sayminder'ın her parçası, aynı sakin, özenli üslubu korurken farklı bir soruyu yanıtlar: ne kaydedileceği, sırada ne olduğu, belirli bir günde ne olduğu ve az önce ne çaldığı.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -160,7 +160,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
     </article>
     <article class="marketing-step">
       <h3>Size ulaşır</h3>
-      <p>Aşan bir alarm zamanında çalar — sessizde bile — ve hatırlatıcıyı sesli okur.</p>
+      <p>Aşan bir alarm sessizde bile zamanında çalar ve hatırlatıcıyı sesli okur.</p>
     </article>
     <article class="marketing-step">
       <h3>Silmek için dokun</h3>
@@ -177,7 +177,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Söylenen bir düşünceye ayak uyduran hatırlatıcılar</h3>
-      <p>Bir hatırlatıcıyı aklınıza geldiği saniyede yakalayın — yürürken, araç kullanırken, elleriniz doluyken — tarih tekerleklerini çevirmek için durmadan. Siri, Kısayollar ve Spotlight aracılığıyla eller serbest oluşturma, uygulamayı hiç açmasanız bile bir hatırlatıcının eklenebileceği ve yine de zamanında çalabileceği anlamına gelir.</p>
+      <p>Bir hatırlatıcıyı aklınıza geldiği saniyede yakalayın (yürürken, araç kullanırken, elleriniz doluyken), tarih tekerleklerini çevirmek için durmadan. Siri, Kısayollar ve Spotlight aracılığıyla eller serbest oluşturma, uygulamayı hiç açmasanız bile bir hatırlatıcının eklenebileceği ve yine de zamanında çalabileceği anlamına gelir.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Gerçek günlük rutinler için yapıldı</h3>

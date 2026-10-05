@@ -27,19 +27,19 @@ Sin cuenta, sin configuración y sin necesidad de conexión a internet.
 
 ### ¿Cuál es la diferencia entre Comparar, Revisar mi rutina y Escanear colección?
 
-- **Comparar** — escanea varios productos del *mismo* tipo para ver cómo se enfrentan entre sí, incluyendo ingredientes compartidos y únicos y un veredicto en lenguaje sencillo.
-- **Revisar mi rutina** — escanea los productos de tu rutina, uno por paso, para obtener el orden de aplicación, alertas de conflictos de ingredientes, notas de solapamiento y análisis de carencias en toda la rutina.
-- **Escanear colección** — escanea cualquier mezcla de productos para obtener un desglose sencillo por producto, sin comparación ni ordenación aplicadas.
+- **Comparar**: escanea varios productos del *mismo* tipo para ver cómo se enfrentan entre sí, incluyendo ingredientes compartidos y únicos y un veredicto en lenguaje sencillo.
+- **Revisar mi rutina**: escanea los productos de tu rutina, uno por paso, para obtener el orden de aplicación, alertas de conflictos de ingredientes, notas de solapamiento y análisis de carencias en toda la rutina.
+- **Escanear colección**: escanea cualquier mezcla de productos para obtener un desglose sencillo por producto, sin comparación ni ordenación aplicadas.
 
 ### ¿Qué categorías de producto están disponibles?
 
 FormuLens admite 23 categorías en cinco grupos:
 
-- **Cuidado de la Piel** — Limpiador, Exfoliante, Tónico, Sérum, Hidratante, Contorno de Ojos, Protector Solar, Mascarilla / Parche
-- **Maquillaje** — Prebase, Base / BB, Colorete / Bronceador, Maquillaje de Ojos, Barra de Labios, Bálsamo Labial
-- **Cabello** — Champú, Acondicionador, Mascarilla Capilar
-- **Baño y Cuerpo** — Gel de Baño, Exfoliante Corporal, Loción Corporal, Crema de Manos, Desodorante
-- **Fragancia** — Perfume
+- **Cuidado de la Piel**: Limpiador, Exfoliante, Tónico, Sérum, Hidratante, Contorno de Ojos, Protector Solar, Mascarilla / Parche
+- **Maquillaje**: Prebase, Base / BB, Colorete / Bronceador, Maquillaje de Ojos, Barra de Labios, Bálsamo Labial
+- **Cabello**: Champú, Acondicionador, Mascarilla Capilar
+- **Baño y Cuerpo**: Gel de Baño, Exfoliante Corporal, Loción Corporal, Crema de Manos, Desodorante
+- **Fragancia**: Perfume
 
 ### ¿FormuLens es gratis?
 
@@ -65,8 +65,8 @@ Cada ingrediente está codificado por color según su función: por ejemplo, hid
 
 ### ¿Qué significan las etiquetas "clave" e "inusual"?
 
-- **Clave** (icono de estrella) — el ingrediente sirve directamente al propósito principal del tipo de producto. Por ejemplo, los filtros UV son clave en un protector solar.
-- **Inusual** — el ingrediente es poco común para la categoría seleccionada. No es necesariamente malo, solo vale la pena mirarlo más de cerca. Por ejemplo, un exfoliante señalado en un contorno de ojos.
+- **Clave** (icono de estrella): el ingrediente sirve directamente al propósito principal del tipo de producto. Por ejemplo, los filtros UV son clave en un protector solar.
+- **Inusual**: el ingrediente es poco común para la categoría seleccionada. No es necesariamente malo, solo vale la pena mirarlo más de cerca. Por ejemplo, un exfoliante señalado en un contorno de ojos.
 
 ### ¿Por qué los protectores solares muestran secciones "Activos" e "Inactivos"?
 

@@ -35,9 +35,9 @@ Sí. Sin compras dentro de la aplicación, sin suscripciones, sin anuncios. Toda
 
 ### ¿Qué son las tres pestañas?
 
-- **Analizar** — haz o elige una foto, extrae una paleta de 12 colores, consulta un análisis de color detallado y obtén sugerencias personalizadas de herramientas creativas
-- **Playground** — transforma tu foto con seis herramientas creativas (Aislar, Duotono, Tritono, Pixelizar, Desenfocar, Glitch)
-- **Galería** — navega, reedita, descarga o comparte tus creaciones guardadas
+- **Analizar**: haz o elige una foto, extrae una paleta de 12 colores, consulta un análisis de color detallado y obtén sugerencias personalizadas de herramientas creativas
+- **Playground**: transforma tu foto con seis herramientas creativas (Aislar, Duotono, Tritono, Pixelizar, Desenfocar, Glitch)
+- **Galería**: navega, reedita, descarga o comparte tus creaciones guardadas
 
 ### ¿Cómo funciona el análisis de color?
 
@@ -49,12 +49,12 @@ Toca cualquier muestra de color. Aparece una breve confirmación para avisarte d
 
 ### ¿Cuáles son las herramientas creativas en Playground?
 
-- **Aislar** — mantén los colores seleccionados vibrantes mientras el resto pasa a escala de grises (o viceversa)
-- **Duotono** — reasigna tu imagen a dos tonos para un look audaz y editorial
-- **Tritono** — reasigna tu imagen a través de tres tonos para un look más rico y gradual
-- **Pixelizar** — transforma en un mosaico de teselas geométricas con tamaño de tesela ajustable
-- **Desenfocar** — añade un enfoque suave y de ensueño con una selección de estilos de desenfoque e intensidad ajustable
-- **Glitch** — aplica separación de canales RGB y distorsión digital
+- **Aislar**: mantén los colores seleccionados vibrantes mientras el resto pasa a escala de grises (o viceversa)
+- **Duotono**: reasigna tu imagen a dos tonos para un look audaz y editorial
+- **Tritono**: reasigna tu imagen a través de tres tonos para un look más rico y gradual
+- **Pixelizar**: transforma en un mosaico de teselas geométricas con tamaño de tesela ajustable
+- **Desenfocar**: añade un enfoque suave y de ensueño con una selección de estilos de desenfoque e intensidad ajustable
+- **Glitch**: aplica separación de canales RGB y distorsión digital
 
 ### ¿Cómo guardo una creación?
 

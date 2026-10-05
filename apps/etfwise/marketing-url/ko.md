@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">투자자가 선택하는 이유</p>
     <h2 id="ew-why-title" class="marketing-section-title">ETF 시장 전체를 차분히 읽는 하루의 습관.</h2>
-    <p class="marketing-section-intro">ETFWise는 소란스러운 시장을 빠른 아침 점검으로 바꿉니다: 새로운 추천, 쉬운 언어의 브리핑, 그리고 심층 펀드 분석 — 가입도, 구독도, 데이터가 기기를 벗어나는 일도 없이.</p>
+    <p class="marketing-section-intro">ETFWise는 소란스러운 시장을 빠른 아침 점검으로 바꿉니다: 새로운 추천, 쉬운 언어의 브리핑, 그리고 심층 펀드 분석. 가입도, 구독도, 데이터가 기기를 벗어나는 일도 없습니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">제품 구조</p>
     <h2 id="ew-modes-title" class="marketing-section-title">시장을 다루는 세 가지 방법, 하나의 일관된 읽기.</h2>
-    <p class="marketing-section-intro">ETFWise의 각 부분은 서로 다른 질문에 답합니다 — 오늘 무슨 일이 있었나, 무엇을 지켜봐야 하나, 이 펀드는 실제로 무엇으로 이루어졌나 — 같은 명확하고 읽기 쉬운 스타일을 유지하면서.</p>
+    <p class="marketing-section-intro">ETFWise의 각 부분은 같은 명확하고 읽기 쉬운 스타일을 유지하면서, 오늘 무슨 일이 있었나, 무엇을 지켜봐야 하나, 이 펀드는 실제로 무엇으로 이루어졌나 하는 서로 다른 질문에 답합니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

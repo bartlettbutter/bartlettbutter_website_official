@@ -37,15 +37,15 @@ O Barkpedia identifica 147 raças com base nos padrões da AKC.
 
 A Explorar oferece duas formas de descobrir raças:
 
-- **Busca** — Digite qualquer nome de raça para filtragem instantânea entre todas as 147 raças.
-- **Mapa-Múndi** — Navegue por um mapa interativo mostrando as origens das raças por país. Toque em um marcador para ver quais raças vêm daquela região. Use o botão de expandir para ver o mapa em tela cheia.
+- **Busca**: digite qualquer nome de raça para filtragem instantânea entre todas as 147 raças.
+- **Mapa-Múndi**: navegue por um mapa interativo mostrando as origens das raças por país. Toque em um marcador para ver quais raças vêm daquela região. Use o botão de expandir para ver o mapa em tela cheia.
 
 Tanto a busca quanto o mapa funcionam offline.
 
 ### Como funcionam os jogos de Quiz e Curiosidades?
 
-- **Quiz de Raças** — É exibida uma foto de cão e você escolhe a raça correta entre quatro opções. Cada rodada tem 10 perguntas. Ganhe títulos de recompensa com base na sua pontuação.
-- **Curiosidades Caninas** — Afirmações de verdadeiro ou falso misturando fatos reais sobre cães com mitos plausíveis. Também 10 perguntas por rodada com títulos de recompensa.
+- **Quiz de Raças**: é exibida uma foto de cão e você escolhe a raça correta entre quatro opções. Cada rodada tem 10 perguntas. Ganhe títulos de recompensa com base na sua pontuação.
+- **Curiosidades Caninas**: afirmações de verdadeiro ou falso misturando fatos reais sobre cães com mitos plausíveis. Também 10 perguntas por rodada com títulos de recompensa.
 
 O Quiz de Raças exige conexão com a internet para carregar as fotos. As Curiosidades Caninas funcionam totalmente offline.
 

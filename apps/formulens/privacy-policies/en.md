@@ -40,9 +40,9 @@ You grant camera or photo library access so FormuLens can read ingredient lists.
 
 All processing is local:
 
-- **Text extraction** — performed on-device by the operating system's built-in frameworks.
-- **Ingredient identification** — matched against a database bundled inside the app.
-- **Comparisons and routine analysis** — computed in memory on your device.
+- **Text extraction**: performed on-device by the operating system's built-in frameworks.
+- **Ingredient identification**: matched against a database bundled inside the app.
+- **Comparisons and routine analysis**: computed in memory on your device.
 
 No internet connection is required. No data leaves your device during any of these operations.
 
@@ -85,8 +85,8 @@ FormuLens does **not** request access to: location, contacts, microphone, Blueto
 
 We operate no servers and maintain no user databases. All data exists only on your device. To delete it:
 
-- **Individual items** — swipe to delete within the app.
-- **All data** — uninstall FormuLens from your device.
+- **Individual items**: swipe to delete within the app.
+- **All data**: uninstall FormuLens from your device.
 
 ## Your Rights
 

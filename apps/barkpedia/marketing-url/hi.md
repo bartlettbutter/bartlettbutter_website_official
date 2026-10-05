@@ -12,7 +12,7 @@ redirect_from:
 
 # हर कुत्ते की एक कहानी होती है। इसे तुरंत खोजें।
 
-किसी भी कुत्ते की तस्वीर लें और Barkpedia नस्ल का नाम बता देता है, फिर उसके पीछे की पूरी कहानी खोल देता है — स्वभाव, इतिहास, उत्पत्ति और मज़ेदार तथ्य। कोई टाइपिंग नहीं, कोई खोज नहीं, और कोई लागत नहीं — और नस्ल की पहचान बिना सिग्नल के भी काम करती है।
+किसी भी कुत्ते की तस्वीर लें और Barkpedia नस्ल का नाम बता देता है, फिर उसके पीछे की पूरी कहानी खोल देता है: स्वभाव, इतिहास, उत्पत्ति और मज़ेदार तथ्य। कोई टाइपिंग नहीं, कोई खोज नहीं, और कोई लागत नहीं, और नस्ल की पहचान बिना सिग्नल के भी काम करती है।
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">कुत्ता प्रेमी इसे क्यों चुनते हैं</p>
     <h2 id="bp-why-title" class="marketing-section-title">कुत्तों की दुनिया के लिए एक शांत, संपूर्ण पॉकेट गाइड।</h2>
-    <p class="marketing-section-intro">Barkpedia पार्क के एक जिज्ञासु पल को एक वास्तविक उत्तर में बदल देता है, फिर इतिहास, प्रोफ़ाइल और थोड़े मज़े के साथ आगे बढ़ता रहता है — यह सब बिना किसी साइन-अप के, और नस्ल की पहचान बिना सिग्नल के भी काम करती है।</p>
+    <p class="marketing-section-intro">Barkpedia पार्क के एक जिज्ञासु पल को एक वास्तविक उत्तर में बदल देता है, फिर इतिहास, प्रोफ़ाइल और थोड़े मज़े के साथ आगे बढ़ता रहता है, यह सब बिना किसी साइन-अप के, और नस्ल की पहचान बिना सिग्नल के भी काम करती है।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">उत्पाद संरचना</p>
     <h2 id="bp-modes-title" class="marketing-section-title">इसका आनंद लेने के तीन तरीके, पूरे में एक ही मित्रवत गाइड।</h2>
-    <p class="marketing-section-intro">Barkpedia का हर हिस्सा एक अलग मनोदशा का उत्तर देता है — एक त्वरित प्रश्न, ब्राउज़िंग की एक दोपहर, या गेम नाइट — जबकि वही स्पष्ट, पठनीय शैली बनाए रखता है।</p>
+    <p class="marketing-section-intro">Barkpedia का हर हिस्सा एक अलग मनोदशा का उत्तर देता है (एक त्वरित प्रश्न, ब्राउज़िंग की एक दोपहर, या गेम नाइट), जबकि वही स्पष्ट, पठनीय शैली बनाए रखता है।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

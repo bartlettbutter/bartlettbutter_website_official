@@ -53,7 +53,7 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Warum Anleger sich dafür entscheiden</p>
     <h2 id="ew-why-title" class="marketing-section-title">Ein ruhiger täglicher Blick auf den gesamten ETF-Markt.</h2>
-    <p class="marketing-section-intro">ETFWise verwandelt einen lauten Markt in einen schnellen Morgencheck: frische Auswahlen, ein Briefing in verständlicher Sprache und eine tiefgehende Fondsanalyse — alles ohne Anmeldung, ohne Abonnement und ohne dass deine Daten das Gerät verlassen.</p>
+    <p class="marketing-section-intro">ETFWise verwandelt einen lauten Markt in einen schnellen Morgencheck: frische Auswahlen, ein Briefing in verständlicher Sprache und eine tiefgehende Fondsanalyse, alles ohne Anmeldung, ohne Abonnement und ohne dass deine Daten das Gerät verlassen.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Produktarchitektur</p>
     <h2 id="ew-modes-title" class="marketing-section-title">Drei Wege, den Markt zu bearbeiten, ein einheitlicher Blick.</h2>
-    <p class="marketing-section-intro">Jeder Teil von ETFWise beantwortet eine andere Frage — was ist heute passiert, worauf sollte ich achten und woraus besteht dieser Fonds wirklich — und behält dabei denselben klaren, gut lesbaren Stil bei.</p>
+    <p class="marketing-section-intro">Jeder Teil von ETFWise beantwortet eine andere Frage: was ist heute passiert, worauf sollte ich achten und woraus besteht dieser Fonds wirklich. Dabei behält jeder Teil denselben klaren, gut lesbaren Stil bei.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

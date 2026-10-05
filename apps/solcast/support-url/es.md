@@ -23,9 +23,9 @@ Solo abre Solcast: sin cuenta, sin registro. Cuando se te solicite, concede el p
 
 Toca el icono de engranaje (arriba a la derecha) para abrir la Configuración. Encontrarás 11 opciones en tres secciones:
 
-- **Sobre Ti** — unidad de temperatura (°C/°F), sensibilidad a la temperatura, sensibilidad al sol, sensibilidad ocular, sensibilidad a alergias, sensibilidad a migrañas
-- **Tu Estilo** — estilo de vestir (Casual, Business Casual, Formal, Deportivo) y preferencia de ejercicio al aire libre
-- **Tu Hogar** — niños, mascotas, autos
+- **Sobre Ti**: unidad de temperatura (°C/°F), sensibilidad a la temperatura, sensibilidad al sol, sensibilidad ocular, sensibilidad a alergias, sensibilidad a migrañas
+- **Tu Estilo**: estilo de vestir (Casual, Business Casual, Formal, Deportivo) y preferencia de ejercicio al aire libre
+- **Tu Hogar**: niños, mascotas, autos
 
 Cada cambio surte efecto de inmediato, sin necesidad de recargar.
 

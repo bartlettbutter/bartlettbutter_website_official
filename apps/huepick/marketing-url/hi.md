@@ -12,7 +12,7 @@ redirect_from:
 
 # रंगों को अलग नज़र से देखें। किसी भी तस्वीर को पैलेट में बदलें।
 
-जो कुछ भी आपको प्रेरित करता है उसकी तस्वीर लें और Huepick उसके भीतर छिपे पैलेट को प्रकट करता है — बारह रंगों तक, कॉपी करने, समझने और रचनात्मक उपकरणों से नया आकार देने के लिए तैयार। कोई टाइपिंग नहीं, कोई खोज नहीं, कोई खाता नहीं, और कोई लागत नहीं।
+जो कुछ भी आपको प्रेरित करता है उसकी तस्वीर लें और Huepick उसके भीतर छिपे पैलेट को प्रकट करता है: बारह रंगों तक, कॉपी करने, समझने और रचनात्मक उपकरणों से नया आकार देने के लिए तैयार। कोई टाइपिंग नहीं, कोई खोज नहीं, कोई खाता नहीं, और कोई लागत नहीं।
 
 <!--gallery-->
 
@@ -30,7 +30,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">रचनात्मक उपकरण — आइसोलेट, ड्यूओटोन, ट्राइटोन, पिक्सलाइज़, ब्लर और ग्लिच</span>
+    <span class="marketing-stat-label">रचनात्मक उपकरण: आइसोलेट, ड्यूओटोन, ट्राइटोन, पिक्सलाइज़, ब्लर और ग्लिच</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">रंग प्रेमी इसे क्यों चुनते हैं</p>
     <h2 id="hp-why-title" class="marketing-section-title">रंग के साथ कैद और सृजन करने का एक शांत, संपूर्ण तरीका।</h2>
-    <p class="marketing-section-intro">Huepick प्रेरणा के एक पल को एक ऐसे पैलेट में बदल देता है जिसे आप वास्तव में उपयोग कर सकते हैं, फिर स्पष्ट विश्लेषण और रचनात्मक उपकरणों के साथ आगे बढ़ता रहता है — यह सब बिना किसी साइन-अप या सिग्नल के।</p>
+    <p class="marketing-section-intro">Huepick प्रेरणा के एक पल को एक ऐसे पैलेट में बदल देता है जिसे आप वास्तव में उपयोग कर सकते हैं, फिर स्पष्ट विश्लेषण और रचनात्मक उपकरणों के साथ आगे बढ़ता रहता है, यह सब बिना किसी साइन-अप या सिग्नल के।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">उत्पाद संरचना</p>
     <h2 id="hp-modes-title" class="marketing-section-title">काम करने के तीन स्थान, पूरे में एक सुसंगत रंग-प्रवाह।</h2>
-    <p class="marketing-section-intro">Huepick का हर हिस्सा एक अलग इरादे का उत्तर देता है — रंग बाहर खींचें, उनके साथ खेलें, या जो बनाया उस पर लौटें — जबकि वही स्पष्ट, स्पर्शनीय शैली बनाए रखता है।</p>
+    <p class="marketing-section-intro">वही स्पष्ट, स्पर्शनीय शैली बनाए रखते हुए, Huepick का हर हिस्सा एक अलग इरादे का उत्तर देता है: रंग बाहर खींचें, उनके साथ खेलें, या जो बनाया उस पर लौटें।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -153,7 +153,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>सहेजें और साझा करें</h3>
-      <p>रचनाओं को अपनी गैलरी में रखें, उन्हें Photos में डाउनलोड करें, या सीधे साझा करें — यह सब ऑफ़लाइन।</p>
+      <p>रचनाओं को अपनी गैलरी में रखें, उन्हें Photos में डाउनलोड करें, या सीधे साझा करें, यह सब ऑफ़लाइन।</p>
     </article>
   </div>
 </section>

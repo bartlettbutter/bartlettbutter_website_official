@@ -2,7 +2,7 @@
 layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "एक रिमाइंडर बोलिए और वह ठीक समय पर आप तक पहुँचेगा — साइलेंट पर भी — और खुद बोलकर सुना भी देगा।"
+app_description: "एक रिमाइंडर बोलिए और वह ठीक समय पर आप तक पहुँचेगा, साइलेंट पर भी, और खुद बोलकर सुना भी देगा।"
 app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
 lang: hi
 permalink: /sayminder/hi/
@@ -12,16 +12,16 @@ redirect_from:
 
 # खूबसूरती से याद रखिए। बस बोल दीजिए।
 
-सबसे तेज़ रिमाइंडर वही है जिसे आप बोलते हैं। माइक दबाकर रखिए, बताइए क्या और कब, और Sayminder उसे लिखता है, आपके शब्दों में से समय पढ़ लेता है और उसे आपके कैलेंडर में जोड़ देता है। जब वह पल आता है तो यह आपको सचेत करता है — साइलेंट या फ़ोकस में भी — और रिमाइंडर को एक स्वाभाविक आवाज़ में पढ़कर सुनाता है।
+सबसे तेज़ रिमाइंडर वही है जिसे आप बोलते हैं। माइक दबाकर रखिए, बताइए क्या और कब, और Sayminder उसे लिखता है, आपके शब्दों में से समय पढ़ लेता है और उसे आपके कैलेंडर में जोड़ देता है। जब वह पल आता है तो यह आपको सचेत करता है, साइलेंट या फ़ोकस में भी, और रिमाइंडर को एक स्वाभाविक आवाज़ में पढ़कर सुनाता है।
 
 <div class="marketing-shot-placeholder-grid" aria-label="Sayminder के स्क्रीनशॉट जल्द आ रहे हैं">
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">स्क्रीनशॉट</span>
-    <span class="marketing-shot-placeholder-caption">दबाएँ और बोलें — लाइव ट्रांसक्रिप्ट</span>
+    <span class="marketing-shot-placeholder-caption">दबाएँ और बोलें: लाइव ट्रांसक्रिप्ट</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">स्क्रीनशॉट</span>
-    <span class="marketing-shot-placeholder-caption">आज का ब्रीफ़ — सबसे नज़दीकी पहले</span>
+    <span class="marketing-shot-placeholder-caption">आज का ब्रीफ़: सबसे नज़दीकी पहले</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">स्क्रीनशॉट</span>
@@ -64,7 +64,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">लोग इसे क्यों चुनते हैं</p>
     <h2 id="sy-why-title" class="marketing-section-title">एक रिमाइंडर ऐप जिससे आप बात करते हैं, टाइप नहीं करते।</h2>
-    <p class="marketing-section-intro">Sayminder एक बोला हुआ वाक्य लेता है, उसमें छिपे समय को समझता है और उसे ऐसे रिमाइंडर में बदल देता है जो सचमुच आप तक पहुँचता है — इसलिए कोई विचार दर्ज करना उसे बोलने जितना ही तेज़ है।</p>
+    <p class="marketing-section-intro">Sayminder एक बोला हुआ वाक्य लेता है, उसमें छिपे समय को समझता है और उसे ऐसे रिमाइंडर में बदल देता है जो सचमुच आप तक पहुँचता है, इसलिए कोई विचार दर्ज करना उसे बोलने जितना ही तेज़ है।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -87,7 +87,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>यह पढ़कर सुनाता है</h3>
-      <p>जब कोई रिमाइंडर आता है, ऐप उसे बोलकर सुनाता है — और सहेजते समय बोलकर पुष्टि करता है — ताकि पूरा चक्र हैंड्स-फ़्री रहे।</p>
+      <p>जब कोई रिमाइंडर आता है, ऐप उसे बोलकर सुनाता है और सहेजते समय बोलकर पुष्टि करता है, ताकि पूरा चक्र हैंड्स-फ़्री रहे।</p>
       <ul class="marketing-list">
         <li>सहेजने के बाद "ठीक है। मैं आपको याद दिलाऊँगा…"</li>
         <li>किसी भी सूची पंक्ति को माँगने पर बोला जा सकता है</li>
@@ -110,7 +110,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">उत्पाद संरचना</p>
     <h2 id="sy-arch-title" class="marketing-section-title">एक वॉइस सतह, अपने दिन पर पकड़ बनाए रखने के चार तरीके।</h2>
-    <p class="marketing-section-intro">Sayminder का हर हिस्सा एक अलग सवाल का जवाब देता है — क्या दर्ज करना है, आगे क्या है, किसी खास दिन क्या है, और अभी-अभी क्या बजा — और वही शांत, संपादकीय शैली बनाए रखता है।</p>
+    <p class="marketing-section-intro">Sayminder का हर हिस्सा एक अलग सवाल का जवाब देता है: क्या दर्ज करना है, आगे क्या है, किसी खास दिन क्या है, और अभी-अभी क्या बजा। साथ ही यह वही शांत, संपादकीय शैली बनाए रखता है।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -160,7 +160,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>यह आप तक पहुँचता है</h3>
-      <p>एक ब्रेकथ्रू अलार्म समय पर बजता है — साइलेंट पर भी — और रिमाइंडर पढ़कर सुनाता है।</p>
+      <p>एक ब्रेकथ्रू अलार्म समय पर बजता है, साइलेंट पर भी, और रिमाइंडर पढ़कर सुनाता है।</p>
     </article>
     <article class="marketing-step">
       <h3>हटाने के लिए टैप करें</h3>
@@ -177,7 +177,7 @@ redirect_from:
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>बोले हुए विचार के साथ चलने वाले रिमाइंडर</h3>
-      <p>जिस पल कोई विचार आए उसी पल रिमाइंडर दर्ज करें — चलते हुए, गाड़ी चलाते हुए, हाथ भरे हों — बिना रुककर डेट व्हील घुमाए। Siri, शॉर्टकट्स और Spotlight के ज़रिए हैंड्स-फ़्री क्रिएशन का मतलब है कि रिमाइंडर जोड़ा जा सकता है और समय पर बज भी सकता है, भले ही आप ऐप कभी न खोलें।</p>
+      <p>जिस पल कोई विचार आए उसी पल रिमाइंडर दर्ज करें (चलते हुए, गाड़ी चलाते हुए, हाथ भरे हों), बिना रुककर डेट व्हील घुमाए। Siri, शॉर्टकट्स और Spotlight के ज़रिए हैंड्स-फ़्री क्रिएशन का मतलब है कि रिमाइंडर जोड़ा जा सकता है और समय पर बज भी सकता है, भले ही आप ऐप कभी न खोलें।</p>
     </article>
     <article class="marketing-story-card">
       <h3>असली रोज़मर्रा की दिनचर्या के लिए बना</h3>

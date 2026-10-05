@@ -12,7 +12,7 @@ redirect_from:
 
 # Voyez les couleurs autrement. Transformez n'importe quelle photo en palette.
 
-Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cachée à l'intérieur — jusqu'à douze couleurs, prêtes à copier, comprendre et remodeler avec des outils créatifs. Sans rien taper, sans rien chercher, sans compte et sans coût.
+Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cachée à l'intérieur : jusqu'à douze couleurs, prêtes à copier, comprendre et remodeler avec des outils créatifs. Sans rien taper, sans rien chercher, sans compte et sans coût.
 
 <!--gallery-->
 
@@ -30,7 +30,7 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">outils créatifs — Isoler, Duotone, Tritone, Pixeliser, Flouter et Glitch</span>
+    <span class="marketing-stat-label">outils créatifs : Isoler, Duotone, Tritone, Pixeliser, Flouter et Glitch</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
@@ -53,7 +53,7 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Pourquoi les amoureux des couleurs le choisissent</p>
     <h2 id="hp-why-title" class="marketing-section-title">Une façon calme et complète de capturer et de créer avec la couleur.</h2>
-    <p class="marketing-section-intro">Huepick transforme un moment d'inspiration en une palette que vous pouvez réellement utiliser, puis continue avec une analyse claire et des outils créatifs — le tout sans inscription ni signal.</p>
+    <p class="marketing-section-intro">Huepick transforme un moment d'inspiration en une palette que vous pouvez réellement utiliser, puis continue avec une analyse claire et des outils créatifs, le tout sans inscription ni signal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Architecture du produit</p>
     <h2 id="hp-modes-title" class="marketing-section-title">Trois espaces de travail, un flux de couleur cohérent tout du long.</h2>
-    <p class="marketing-section-intro">Chaque partie de Huepick répond à une intention différente — faire ressortir les couleurs, jouer avec elles, ou revenir à ce que vous avez créé — tout en gardant le même style clair et tactile.</p>
+    <p class="marketing-section-intro">Tout en gardant le même style clair et tactile, chaque partie de Huepick répond à une intention différente : faire ressortir les couleurs, jouer avec elles, ou revenir à ce que vous avez créé.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -153,7 +153,7 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
     </article>
     <article class="marketing-step">
       <h3>Enregistrez et partagez</h3>
-      <p>Conservez vos créations dans votre galerie, téléchargez-les dans vos Photos ou partagez-les directement — le tout hors ligne.</p>
+      <p>Conservez vos créations dans votre galerie, téléchargez-les dans vos Photos ou partagez-les directement, le tout hors ligne.</p>
     </article>
   </div>
 </section>

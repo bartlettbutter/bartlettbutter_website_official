@@ -47,7 +47,7 @@ Wenn Sie ein Reiseziel hinzufügen oder nach Orten suchen, werden Ihre Suchanfra
 
 | Berechtigung | Wann Angefordert | Zweck | Verlassen Daten das Gerät? |
 |--------------|------------------|-------|----------------------------|
-| Kamera | Wenn Sie ein Dokument fotografieren | Reisedokumente an Aktivitäten anhängen | Nein — auf dem Gerät per OCR verarbeitet |
+| Kamera | Wenn Sie ein Dokument fotografieren | Reisedokumente an Aktivitäten anhängen | Nein, auf dem Gerät per OCR verarbeitet |
 | Fotomediathek | Wenn Sie ein vorhandenes Bild importieren | Gespeicherte Bilder an Aktivitäten anhängen | Nein |
 
 Beide Berechtigungen sind optional. Die App funktioniert auch ohne sie vollständig. Es werden niemals Bilder auf externe Server hochgeladen.

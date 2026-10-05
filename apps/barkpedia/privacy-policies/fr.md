@@ -35,9 +35,9 @@ L'Application demande l'accès à l'appareil photo et à la photothèque uniquem
 
 ## Ce Qui Est Stocké sur votre Appareil
 
-- **Favoris** — Les résultats de scan de races que vous choisissez d'enregistrer sont stockés uniquement localement sur votre appareil.
-- **Données d'exploration** — L'index de recherche de races et les données de la carte des pays d'origine sont intégrés dans l'application elle-même.
-- **Rendu de la carte** — La carte du monde interactive utilise Apple Plans (MapKit), qui s'affiche localement sur votre appareil.
+- **Favoris** : les résultats de scan de races que vous choisissez d'enregistrer sont stockés uniquement localement sur votre appareil.
+- **Données d'exploration** : l'index de recherche de races et les données de la carte des pays d'origine sont intégrés dans l'application elle-même.
+- **Rendu de la carte** : la carte du monde interactive utilise Apple Plans (MapKit), qui s'affiche localement sur votre appareil.
 
 Aucune de ces données n'est transmise à l'extérieur. Toutes sont automatiquement supprimées lorsque vous désinstallez l'Application.
 
@@ -55,8 +55,8 @@ Nous ne vendons, ne louons ni ne partageons aucune donnée utilisateur avec des 
 
 | Autorisation | Pourquoi Nous la Demandons | Requise ? |
 |--------------|----------------------------|-----------|
-| Appareil photo | Pour photographier des chiens pour l'identification de race | Facultative — vous pouvez utiliser votre photothèque |
-| Photothèque | Pour sélectionner des photos existantes pour l'identification de race | Facultative — vous pouvez utiliser l'appareil photo |
+| Appareil photo | Pour photographier des chiens pour l'identification de race | Facultative. Vous pouvez utiliser votre photothèque |
+| Photothèque | Pour sélectionner des photos existantes pour l'identification de race | Facultative. Vous pouvez utiliser l'appareil photo |
 
 **C'est tout.** L'Application ne demande ni n'accède à la localisation, aux contacts, au microphone, au Bluetooth, au suivi (ATT), aux notifications ni à aucune autre autorisation sensible.
 

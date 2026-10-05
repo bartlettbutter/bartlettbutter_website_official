@@ -23,9 +23,9 @@ Ouvrez simplement Solcast. Aucun compte, aucune inscription. Lorsqu'on vous le d
 
 Touchez l'icône d'engrenage (en haut à droite) pour ouvrir les Réglages. Vous trouverez 11 options réparties en trois sections :
 
-- **À Propos de Vous** — unité de température (°C/°F), sensibilité à la température, sensibilité au soleil, sensibilité des yeux, sensibilité aux allergies, sensibilité aux migraines
-- **Votre Style** — style vestimentaire (Décontracté, Business Casual, Formel, Sportif) et préférence d'exercice en plein air
-- **Votre Foyer** — enfants, animaux, voitures
+- **À Propos de Vous** : unité de température (°C/°F), sensibilité à la température, sensibilité au soleil, sensibilité des yeux, sensibilité aux allergies, sensibilité aux migraines
+- **Votre Style** : style vestimentaire (Décontracté, Business Casual, Formel, Sportif) et préférence d'exercice en plein air
+- **Votre Foyer** : enfants, animaux, voitures
 
 Chaque changement prend effet immédiatement, sans rechargement nécessaire.
 

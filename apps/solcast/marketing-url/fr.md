@@ -12,7 +12,7 @@ redirect_from:
 
 # Sachez exactement comment vous habiller, planifier et protéger votre journée.
 
-Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un parapluie et comment garder votre famille confortable — le tout personnalisé selon votre vie et livré dans un langage simple. Aucune publicité, aucun compte, gratuit à utiliser, avec une mise à niveau Premium en option. Ouvrez et c'est parti.
+Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un parapluie et comment garder votre famille confortable, le tout personnalisé selon votre vie et livré dans un langage simple. Aucune publicité, aucun compte, gratuit à utiliser, avec une mise à niveau Premium en option. Ouvrez et c'est parti.
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Pourquoi les gens la choisissent</p>
     <h2 id="sc-why-title" class="marketing-section-title">Une application météo qui vous dit quoi faire concrètement.</h2>
-    <p class="marketing-section-intro">Solcast lit les prévisions pour vous et les transforme en conseils clairs et personnels — pour qu'un coup d'œil à votre téléphone devienne un plan pour la journée plutôt qu'un mur de chiffres à décoder.</p>
+    <p class="marketing-section-intro">Solcast lit les prévisions pour vous et les transforme en conseils clairs et personnels, pour qu'un coup d'œil à votre téléphone devienne un plan pour la journée plutôt qu'un mur de chiffres à décoder.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Architecture du produit</p>
     <h2 id="sc-arch-title" class="marketing-section-title">Un seul tableau de bord, trois façons de planifier votre journée.</h2>
-    <p class="marketing-section-intro">Chaque partie de Solcast répond à une question différente — ce qui se passe, ce que cela signifie pour vous et quoi porter — tout en gardant le même style calme et lisible.</p>
+    <p class="marketing-section-intro">Tout en gardant le même style calme et lisible, chaque partie de Solcast répond à une question différente : ce qui se passe, ce que cela signifie pour vous et quoi porter.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -203,7 +203,7 @@ Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un
       <p>Premium est destiné aux personnes qui suivent la météo dans de nombreuses villes et veulent lever les limites gratuites sur les lieux enregistrés.</p>
       <ul class="marketing-list">
         <li>Lieux enregistrés illimités, chacun dans son fuseau horaire local</li>
-        <li>Une mise à niveau en option — l'application principale reste gratuite</li>
+        <li>Une mise à niveau en option ; l'application principale reste gratuite</li>
         <li>Aucune publicité et aucun suivi, en version Gratuite ou Premium</li>
       </ul>
     </article>

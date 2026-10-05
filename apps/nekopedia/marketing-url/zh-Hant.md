@@ -12,7 +12,7 @@ redirect_from:
 
 # 每隻貓都有一個故事。即刻探索它。
 
-對準任何一隻貓拍下照片，Nekopedia便會叫出品種的名字，接著展開牠背後的完整故事——性格、歷史、起源與趣聞。無需打字、無需搜尋，也無需花費，品種識別離線也能用。
+對準任何一隻貓拍下照片，Nekopedia便會叫出品種的名字，接著展開牠背後的完整故事：性格、歷史、起源與趣聞。無需打字、無需搜尋，也無需花費，品種識別離線也能用。
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">貓咪愛好者為何選擇它</p>
     <h2 id="nk-why-title" class="marketing-section-title">一本從容而完整的貓咪世界口袋指南。</h2>
-    <p class="marketing-section-intro">Nekopedia將咖啡館裡好奇的一瞬化為真實的答案，接著繼續呈現歷史、資料與一點樂趣——全程無需註冊，品種識別沒有訊號也能用。</p>
+    <p class="marketing-section-intro">Nekopedia將咖啡館裡好奇的一瞬化為真實的答案，接著繼續呈現歷史、資料與一點樂趣，全程無需註冊，品種識別沒有訊號也能用。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">產品架構</p>
     <h2 id="nk-modes-title" class="marketing-section-title">三種享受方式，始終如一的友善指南。</h2>
-    <p class="marketing-section-intro">Nekopedia的每個部分都對應不同的心情——一個快速的疑問、一個午後的瀏覽，或一場遊戲之夜——同時保持同樣清晰、易讀的風格。</p>
+    <p class="marketing-section-intro">Nekopedia的每個部分都保持同樣清晰、易讀的風格，同時各自對應不同的心情：一個快速的疑問、一個午後的瀏覽，或一場遊戲之夜。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

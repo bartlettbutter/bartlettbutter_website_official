@@ -66,7 +66,7 @@ Non vendiamo, condividiamo né affittiamo i tuoi dati a nessuno. Non ci sono dat
 
 | Autorizzazione | Perché È Necessaria | Obbligatoria? |
 |----------------|---------------------|---------------|
-| Fotocamera | Per scattare foto per l'estrazione dei colori | Facoltativa — puoi usare la tua libreria fotografica |
+| Fotocamera | Per scattare foto per l'estrazione dei colori | Facoltativa: puoi usare la tua libreria fotografica |
 | Libreria Fotografica | Per selezionare foto e salvare le immagini elaborate | Facoltativa |
 
 Non richiediamo l'accesso alla tua posizione in tempo reale. I dati di posizione vengono letti solo quando esistono già nei metadati incorporati della tua foto.

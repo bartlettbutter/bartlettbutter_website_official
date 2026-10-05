@@ -12,7 +12,7 @@ redirect_from:
 
 # Elke kat heeft een verhaal. Ontdek het direct.
 
-Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent vervolgens het hele verhaal erachter: temperament, geschiedenis, oorsprong en leuke weetjes. Geen getyp, geen zoeken en geen kosten — en rasherkenning werkt zelfs offline.
+Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent vervolgens het hele verhaal erachter: temperament, geschiedenis, oorsprong en leuke weetjes. Geen getyp, geen zoeken en geen kosten, en rasherkenning werkt zelfs offline.
 
 <!--gallery-->
 

@@ -12,7 +12,7 @@ redirect_from:
 
 # Todo gato tem uma história. Descubra-a instantaneamente.
 
-Tire uma foto de qualquer gato e o Nekopedia dá nome à raça e, em seguida, abre toda a história por trás dela: temperamento, história, origem e curiosidades. Sem digitar, sem buscar e sem custo — e a identificação funciona até offline.
+Tire uma foto de qualquer gato e o Nekopedia dá nome à raça e, em seguida, abre toda a história por trás dela: temperamento, história, origem e curiosidades. Sem digitar, sem buscar e sem custo, e a identificação funciona até offline.
 
 <!--gallery-->
 

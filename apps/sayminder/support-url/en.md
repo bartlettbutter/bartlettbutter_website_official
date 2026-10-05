@@ -20,7 +20,7 @@ Just open Sayminder. There's no account and no sign-up. On first launch it asks 
 
 ### How do I create a reminder?
 
-Tap the microphone button and speak — for example, "remind me to take medicine tonight at nine." Sayminder transcribes your words, reads the date and time out of them, and shows a confirmation card. Review or edit the title, notes, time, and repeat option, then save. It reads a short confirmation back to you.
+Tap the microphone button and speak, for example: "remind me to take medicine tonight at nine." Sayminder transcribes your words, reads the date and time out of them, and shows a confirmation card. Review or edit the title, notes, time, and repeat option, then save. It reads a short confirmation back to you.
 
 ### What kinds of times can I say?
 
@@ -58,7 +58,7 @@ Yes. Sayminder adds an App Shortcut, so you can create a reminder by voice throu
 
 ### Can Sayminder show my calendar events?
 
-Yes, optionally. Turn on **Show calendar events** in Settings to mirror your system-calendar events into Today's Brief, the Upcoming list, and the Calendar grid. This layer is strictly read-only — Sayminder never creates, edits, or deletes calendar events — and it's off until you turn it on.
+Yes, optionally. Turn on **Show calendar events** in Settings to mirror your system-calendar events into Today's Brief, the Upcoming list, and the Calendar grid. This layer is strictly read-only: Sayminder never creates, edits, or deletes calendar events, and it's off until you turn it on.
 
 ### Does Sayminder work on iPad?
 
@@ -76,7 +76,7 @@ A reminder can't reach you if neither alarms nor notifications are authorized. S
 
 ### Why does the calendar permission appear only sometimes?
 
-Read-only calendar access is requested lazily — only when you turn on **Show calendar events** in Settings — rather than at launch.
+Read-only calendar access is requested lazily, only when you turn on **Show calendar events** in Settings, rather than at launch.
 
 ## Troubleshooting
 
@@ -90,7 +90,7 @@ Go to your device's Settings > Privacy & Security > Microphone and make sure Say
 
 ### The time it parsed is wrong
 
-Parsing is heuristic. Every reminder is shown for review before saving — adjust the time on the confirmation card. If no concrete time was detected, the reminder defaults to one hour from now and is flagged so you can set it.
+Parsing is heuristic. Every reminder is shown for review before saving. Adjust the time on the confirmation card. If no concrete time was detected, the reminder defaults to one hour from now and is flagged so you can set it.
 
 ### A one-off reminder's time is already in the past
 

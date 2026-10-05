@@ -12,7 +12,7 @@ redirect_from:
 
 # Chaque chien a une histoire. Découvrez-la instantanément.
 
-Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoile toute l'histoire qui se cache derrière : tempérament, histoire, origine et anecdotes. Sans rien taper, sans rien chercher et sans coût — et l'identification de la race fonctionne même sans réseau.
+Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoile toute l'histoire qui se cache derrière : tempérament, histoire, origine et anecdotes. Sans rien taper, sans rien chercher et sans coût, et l'identification de la race fonctionne même sans réseau.
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Pourquoi les amoureux des chiens le choisissent</p>
     <h2 id="bp-why-title" class="marketing-section-title">Un guide de poche calme et complet du monde canin.</h2>
-    <p class="marketing-section-intro">Barkpedia transforme un moment de curiosité au parc en une vraie réponse, puis continue avec l'histoire, le profil et un peu de plaisir — le tout sans inscription, et l'identification de la race fonctionne même sans réseau.</p>
+    <p class="marketing-section-intro">Barkpedia transforme un moment de curiosité au parc en une vraie réponse, puis continue avec l'histoire, le profil et un peu de plaisir, le tout sans inscription. L'identification de la race fonctionne même sans réseau.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Architecture du produit</p>
     <h2 id="bp-modes-title" class="marketing-section-title">Trois façons d'en profiter, un seul guide convivial tout du long.</h2>
-    <p class="marketing-section-intro">Chaque partie de Barkpedia répond à une humeur différente — une question rapide, un après-midi de navigation ou une soirée jeux — tout en gardant le même style clair et lisible.</p>
+    <p class="marketing-section-intro">Chaque partie de Barkpedia répond à une humeur différente (une question rapide, un après-midi de navigation ou une soirée jeux), tout en gardant le même style clair et lisible.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

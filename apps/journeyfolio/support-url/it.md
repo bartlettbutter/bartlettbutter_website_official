@@ -49,13 +49,13 @@ Sì. Aggiungi più destinazioni a un singolo viaggio. Ogni città ha la propria 
 
 Sette categorie coprono tutto ciò di cui hai bisogno:
 
-- **Voli** — numero di volo, posto, conferma, stato in tempo reale
-- **Hotel** — indirizzo, telefono, date di check-in/check-out, note
-- **Trasporti** — noleggio auto, treni, autobus, traghetti, servizi di ride sharing, navette
-- **Ristoranti** — nome, indirizzo, telefono, note
-- **Luoghi e Biglietti** — attrazioni, musei, eventi, tour, parchi, shopping
-- **Assicurazione** — dettagli della polizza e note
-- **Altro** — qualsiasi altra cosa degna di essere ricordata
+- **Voli**: numero di volo, posto, conferma, stato in tempo reale
+- **Hotel**: indirizzo, telefono, date di check-in/check-out, note
+- **Trasporti**: noleggio auto, treni, autobus, traghetti, servizi di ride sharing, navette
+- **Ristoranti**: nome, indirizzo, telefono, note
+- **Luoghi e Biglietti**: attrazioni, musei, eventi, tour, parchi, shopping
+- **Assicurazione**: dettagli della polizza e note
+- **Altro**: qualsiasi altra cosa degna di essere ricordata
 
 ### Un'attività può estendersi su più giorni?
 

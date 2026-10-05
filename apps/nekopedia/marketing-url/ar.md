@@ -12,7 +12,7 @@ redirect_from:
 
 # لكل قطة قصة. اكتشفها فورًا.
 
-التقط صورة لأي قطة ويذكر لك Nekopedia اسم السلالة، ثم يفتح القصة الكاملة وراءها — الطباع والتاريخ والأصل وحقائق ممتعة. بلا كتابة، وبلا بحث، وبلا تكلفة — والتعرّف على السلالة يعمل حتى دون اتصال.
+التقط صورة لأي قطة ويذكر لك Nekopedia اسم السلالة، ثم يفتح القصة الكاملة وراءها: الطباع والتاريخ والأصل وحقائق ممتعة. بلا كتابة، وبلا بحث، وبلا تكلفة، والتعرّف على السلالة يعمل حتى دون اتصال.
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">لماذا يختاره محبو القطط</p>
     <h2 id="nk-why-title" class="marketing-section-title">دليل جيب هادئ وكامل لعالم القطط.</h2>
-    <p class="marketing-section-intro">يحوّل Nekopedia لحظة فضول في المقهى إلى إجابة حقيقية، ثم يمضي قُدمًا مع التاريخ والملف التعريفي وقليل من المرح — كل ذلك دون تسجيل، والتعرّف على السلالة يعمل حتى دون إشارة اتصال.</p>
+    <p class="marketing-section-intro">يحوّل Nekopedia لحظة فضول في المقهى إلى إجابة حقيقية، ثم يمضي قُدمًا مع التاريخ والملف التعريفي وقليل من المرح، كل ذلك دون تسجيل، والتعرّف على السلالة يعمل حتى دون إشارة اتصال.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">بنية المنتج</p>
     <h2 id="nk-modes-title" class="marketing-section-title">ثلاث طرق للاستمتاع به، ودليل ودود واحد طوال الوقت.</h2>
-    <p class="marketing-section-intro">يجيب كل جزء من Nekopedia عن مزاج مختلف — سؤال سريع، أو أمسية تصفّح، أو ليلة ألعاب — مع الحفاظ على الأسلوب الواضح وسهل القراءة نفسه.</p>
+    <p class="marketing-section-intro">يجيب كل جزء من Nekopedia عن مزاج مختلف: سؤال سريع، أو أمسية تصفّح، أو ليلة ألعاب، مع الحفاظ على الأسلوب الواضح وسهل القراءة نفسه.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

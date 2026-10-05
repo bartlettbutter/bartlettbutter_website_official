@@ -23,9 +23,9 @@ Basta abrir o Solcast. Sem conta, sem cadastro. Quando solicitado, conceda a per
 
 Toque no ícone de engrenagem (canto superior direito) para abrir os Ajustes. Você encontrará 11 opções em três seções:
 
-- **Sobre Você** — unidade de temperatura (°C/°F), sensibilidade à temperatura, sensibilidade ao sol, sensibilidade dos olhos, sensibilidade a alergias, sensibilidade a enxaqueca
-- **Seu Estilo** — estilo de vestir (Casual, Business Casual, Formal, Esportivo) e preferência de exercício ao ar livre
-- **Sua Casa** — crianças, animais, carros
+- **Sobre Você**: unidade de temperatura (°C/°F), sensibilidade à temperatura, sensibilidade ao sol, sensibilidade dos olhos, sensibilidade a alergias, sensibilidade a enxaqueca
+- **Seu Estilo**: estilo de vestir (Casual, Business Casual, Formal, Esportivo) e preferência de exercício ao ar livre
+- **Sua Casa**: crianças, animais, carros
 
 Cada alteração entra em vigor imediatamente, sem necessidade de recarregar.
 

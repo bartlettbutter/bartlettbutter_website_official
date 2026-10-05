@@ -35,9 +35,9 @@ La Aplicación solicita permisos de cámara y biblioteca de fotos únicamente pa
 
 ## Qué se Almacena en tu Dispositivo
 
-- **Favoritos** — Los resultados de escaneo de razas que eliges guardar se almacenan únicamente en tu dispositivo.
-- **Datos de Explorar** — El índice de búsqueda de razas y los datos del mapa de país de origen están incluidos dentro de la propia aplicación.
-- **Renderizado del mapa** — El mapa mundial interactivo usa Apple Maps (MapKit), que se renderiza localmente en tu dispositivo.
+- **Favoritos**: los resultados de escaneo de razas que eliges guardar se almacenan únicamente en tu dispositivo.
+- **Datos de Explorar**: el índice de búsqueda de razas y los datos del mapa de país de origen están incluidos dentro de la propia aplicación.
+- **Renderizado del mapa**: el mapa mundial interactivo usa Apple Maps (MapKit), que se renderiza localmente en tu dispositivo.
 
 Ninguno de estos datos se transmite externamente. Todos se eliminan automáticamente cuando desinstalas la Aplicación.
 
@@ -55,8 +55,8 @@ No vendemos, alquilamos ni compartimos ningún dato de usuario con terceros. No 
 
 | Permiso | Por Qué lo Solicitamos | ¿Requerido? |
 |---------|----------------------|-------------|
-| Cámara | Para fotografiar perros para la identificación de raza | Opcional — puedes usar tu biblioteca de fotos |
-| Biblioteca de Fotos | Para seleccionar fotos existentes para la identificación de raza | Opcional — puedes usar la cámara |
+| Cámara | Para fotografiar perros para la identificación de raza | Opcional. Puedes usar tu biblioteca de fotos |
+| Biblioteca de Fotos | Para seleccionar fotos existentes para la identificación de raza | Opcional. Puedes usar la cámara |
 
 **Eso es todo.** La Aplicación no solicita ni accede a ubicación, contactos, micrófono, Bluetooth, rastreo (ATT), notificaciones ni ningún otro permiso sensible.
 

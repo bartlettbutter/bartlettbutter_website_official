@@ -22,9 +22,9 @@ Just open Solcast. There's no account and no sign-up. When prompted, grant locat
 
 Tap the gear icon (top right) to open Settings. You'll find 11 options across three sections:
 
-- **About You** — temperature unit (°C/°F), temperature sensitivity, sun sensitivity, eye sensitivity, allergy sensitivity, migraine sensitivity
-- **Your Style** — dressing style (Casual, Business Casual, Formal, Sporty) and outdoor exercise preference
-- **Your Household** — kids, pets, cars
+- **About You**: temperature unit (°C/°F), temperature sensitivity, sun sensitivity, eye sensitivity, allergy sensitivity, migraine sensitivity
+- **Your Style**: dressing style (Casual, Business Casual, Formal, Sporty) and outdoor exercise preference
+- **Your Household**: kids, pets, cars
 
 Every change takes effect immediately, with no reload needed.
 

@@ -35,9 +35,9 @@ Ja. Geen in-app-aankopen, geen abonnementen, geen advertenties. Elke functie is 
 
 ### Wat zijn de drie tabbladen?
 
-- **Analyseren** — maak of kies een foto, haal een palet van 12 kleuren eruit, bekijk een gedetailleerde kleuranalyse en krijg gepersonaliseerde suggesties voor creatieve hulpmiddelen
-- **Playground** — transformeer je foto met zes creatieve hulpmiddelen (Isoleren, Duotoon, Tritoon, Pixeliseren, Vervagen, Glitch)
-- **Galerij** — blader, bewerk opnieuw, download of deel je opgeslagen creaties
+- **Analyseren**: maak of kies een foto, haal een palet van 12 kleuren eruit, bekijk een gedetailleerde kleuranalyse en krijg gepersonaliseerde suggesties voor creatieve hulpmiddelen
+- **Playground**: transformeer je foto met zes creatieve hulpmiddelen (Isoleren, Duotoon, Tritoon, Pixeliseren, Vervagen, Glitch)
+- **Galerij**: blader, bewerk opnieuw, download of deel je opgeslagen creaties
 
 ### Hoe werkt de kleuranalyse?
 
@@ -49,12 +49,12 @@ Tik op een willekeurig kleurstaal. Er verschijnt een korte bevestiging om je te 
 
 ### Wat zijn de creatieve hulpmiddelen in Playground?
 
-- **Isoleren** — houd geselecteerde kleuren levendig terwijl de rest grijstinten wordt (of andersom)
-- **Duotoon** — zet je afbeelding om naar twee tinten voor een gedurfde, redactionele look
-- **Tritoon** — zet je afbeelding om naar drie tinten voor een rijkere, gradueel verlopende look
-- **Pixeliseren** — transformeer naar een mozaïek van geometrische tegels met aanpasbare tegelgrootte
-- **Vervagen** — voeg een zachte, dromerige focus toe met een keuze aan vervagingsstijlen en aanpasbare intensiteit
-- **Glitch** — pas RGB-kanaalscheiding en digitale vervorming toe
+- **Isoleren**: houd geselecteerde kleuren levendig terwijl de rest grijstinten wordt (of andersom)
+- **Duotoon**: zet je afbeelding om naar twee tinten voor een gedurfde, redactionele look
+- **Tritoon**: zet je afbeelding om naar drie tinten voor een rijkere, gradueel verlopende look
+- **Pixeliseren**: transformeer naar een mozaïek van geometrische tegels met aanpasbare tegelgrootte
+- **Vervagen**: voeg een zachte, dromerige focus toe met een keuze aan vervagingsstijlen en aanpasbare intensiteit
+- **Glitch**: pas RGB-kanaalscheiding en digitale vervorming toe
 
 ### Hoe bewaar ik een creatie?
 

@@ -12,7 +12,7 @@ redirect_from:
 
 # انظر إلى الألوان بشكل مختلف. حوّل أي صورة إلى لوحة ألوان.
 
-التقط صورة لأي شيء يلهمك ويكشف Huepick عن لوحة الألوان المخفية بداخلها — ما يصل إلى اثني عشر لونًا، جاهزة للنسخ والفهم وإعادة التشكيل بأدوات إبداعية. دون كتابة، ودون بحث، ودون حساب، ودون تكلفة.
+التقط صورة لأي شيء يلهمك ويكشف Huepick عن لوحة الألوان المخفية بداخلها: ما يصل إلى اثني عشر لونًا، جاهزة للنسخ والفهم وإعادة التشكيل بأدوات إبداعية. دون كتابة، ودون بحث، ودون حساب، ودون تكلفة.
 
 <!--gallery-->
 
@@ -30,7 +30,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">أدوات إبداعية — العزل، والثنائي اللون، والثلاثي اللون، والبكسلة، والتمويه، والخلل</span>
+    <span class="marketing-stat-label">أدوات إبداعية: العزل، والثنائي اللون، والثلاثي اللون، والبكسلة، والتمويه، والخلل</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">لماذا يختاره محبو الألوان</p>
     <h2 id="hp-why-title" class="marketing-section-title">طريقة هادئة ومتكاملة لالتقاط الألوان والإبداع بها.</h2>
-    <p class="marketing-section-intro">يحوّل Huepick لحظة إلهام إلى لوحة ألوان يمكنك استخدامها فعليًا، ثم يمضي أبعد من ذلك بتحليل واضح وأدوات إبداعية — كل ذلك دون تسجيل أو اتصال.</p>
+    <p class="marketing-section-intro">يحوّل Huepick لحظة إلهام إلى لوحة ألوان يمكنك استخدامها فعليًا، ثم يمضي أبعد من ذلك بتحليل واضح وأدوات إبداعية، كل ذلك دون تسجيل أو اتصال.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">بنية المنتج</p>
     <h2 id="hp-modes-title" class="marketing-section-title">ثلاث مساحات للعمل فيها، وتدفّق ألوان واحد متسق طوال الوقت.</h2>
-    <p class="marketing-section-intro">يجيب كل جزء من Huepick عن نية مختلفة — استخرج الألوان، أو العب بها، أو عُد إلى ما صنعته — مع الحفاظ على النمط الواضح والملموس ذاته.</p>
+    <p class="marketing-section-intro">يجيب كل جزء من Huepick عن نية مختلفة، مع الحفاظ على النمط الواضح والملموس ذاته: استخرج الألوان، أو العب بها، أو عُد إلى ما صنعته.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -153,7 +153,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>احفظ وشارك</h3>
-      <p>احتفظ بالأعمال في معرضك، أو نزّلها إلى الصور، أو شاركها مباشرةً — كل ذلك دون اتصال.</p>
+      <p>احتفظ بالأعمال في معرضك، أو نزّلها إلى الصور، أو شاركها مباشرةً، كل ذلك دون اتصال.</p>
     </article>
   </div>
 </section>

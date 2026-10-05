@@ -59,7 +59,7 @@ Sí. Sayminder añade un atajo de app, así que puedes crear un recordatorio por
 
 ### ¿Puede Sayminder mostrar los eventos de mi calendario?
 
-Sí, de forma opcional. Activa **Mostrar eventos del calendario** en los Ajustes para reflejar los eventos del calendario del sistema en el Resumen de hoy, la lista de Próximos y la cuadrícula del Calendario. Esta capa es estrictamente de solo lectura —Sayminder nunca crea, edita ni elimina eventos del calendario— y está desactivada hasta que la actives.
+Sí, de forma opcional. Activa **Mostrar eventos del calendario** en los Ajustes para reflejar los eventos del calendario del sistema en el Resumen de hoy, la lista de Próximos y la cuadrícula del Calendario. Esta capa es estrictamente de solo lectura: Sayminder nunca crea, edita ni elimina eventos del calendario, y está desactivada hasta que la actives.
 
 ### ¿Funciona Sayminder en el iPad?
 
@@ -77,7 +77,7 @@ Un recordatorio no puede llegar a ti si no se autorizan ni las alarmas ni las no
 
 ### ¿Por qué el permiso de calendario aparece solo a veces?
 
-El acceso de solo lectura al calendario se solicita de forma diferida —solo cuando activas **Mostrar eventos del calendario** en los Ajustes— y no al iniciar la app.
+El acceso de solo lectura al calendario se solicita de forma diferida, solo cuando activas **Mostrar eventos del calendario** en los Ajustes, y no al iniciar la app.
 
 ## Solución de problemas
 

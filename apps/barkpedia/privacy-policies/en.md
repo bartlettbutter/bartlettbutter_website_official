@@ -34,9 +34,9 @@ The App requests camera and photo library permissions solely to let you photogra
 
 ## What's Stored on Your Device
 
-- **Favorites** — Breed scan results you choose to save are stored locally on your device only.
-- **Explore data** — The breed search index and country-of-origin map data are bundled within the app itself.
-- **Map rendering** — The interactive world map uses Apple Maps (MapKit), which renders locally on your device.
+- **Favorites**: Breed scan results you choose to save are stored locally on your device only.
+- **Explore data**: The breed search index and country-of-origin map data are bundled within the app itself.
+- **Map rendering**: The interactive world map uses Apple Maps (MapKit), which renders locally on your device.
 
 None of this data is transmitted externally. All of it is automatically removed when you delete the App.
 
@@ -54,8 +54,8 @@ We do not sell, rent, or share any user data with third parties. There is no use
 
 | Permission | Why We Ask | Required? |
 |------------|-----------|-----------|
-| Camera | To photograph dogs for breed identification | Optional — you can use your photo library instead |
-| Photo Library | To select existing photos for breed identification | Optional — you can use the camera instead |
+| Camera | To photograph dogs for breed identification | Optional. You can use your photo library instead |
+| Photo Library | To select existing photos for breed identification | Optional. You can use the camera instead |
 
 **That's it.** The App does not request or access location, contacts, microphone, Bluetooth, tracking (ATT), notifications, or any other sensitive permissions.
 

@@ -35,9 +35,9 @@ Evet. Uygulama içi satın alma yok, abonelik yok, reklam yok. İndirdiğiniz an
 
 ### Üç sekme nedir?
 
-- **Analiz** — bir fotoğraf çekin veya seçin, 12 renkli bir palet çıkarın, ayrıntılı renk analizini görüntüleyin ve kişiselleştirilmiş yaratıcı araç önerileri alın
-- **Playground** — fotoğrafınızı altı yaratıcı araçla dönüştürün (İzole, Duotone, Tritone, Pikselleştir, Bulanıklaştır, Glitch)
-- **Galeri** — kaydedilen oluşturmalarınıza göz atın, yeniden düzenleyin, indirin veya paylaşın
+- **Analiz**: Bir fotoğraf çekin veya seçin, 12 renkli bir palet çıkarın, ayrıntılı renk analizini görüntüleyin ve kişiselleştirilmiş yaratıcı araç önerileri alın
+- **Playground**: Fotoğrafınızı altı yaratıcı araçla dönüştürün (İzole, Duotone, Tritone, Pikselleştir, Bulanıklaştır, Glitch)
+- **Galeri**: Kaydedilen oluşturmalarınıza göz atın, yeniden düzenleyin, indirin veya paylaşın
 
 ### Renk analizi nasıl çalışır?
 
@@ -49,12 +49,12 @@ Herhangi bir renk örneğine dokunun. Hex kodunun panonuzda olduğunu bildiren k
 
 ### Playground'daki yaratıcı araçlar nelerdir?
 
-- **İzole** — seçili renkleri canlı tutarken geri kalanı gri tonlamaya çevirin (veya tam tersi)
-- **Duotone** — cesur, editöryel bir görünüm için görüntünüzü iki tona yeniden eşleyin
-- **Tritone** — daha zengin, dereceli bir görünüm için görüntünüzü üç tona yeniden eşleyin
-- **Pikselleştir** — ayarlanabilir karo boyutuyla geometrik karolardan oluşan bir mozaiğe dönüştürün
-- **Bulanıklaştır** — bulanıklık stili seçeneği ve ayarlanabilir yoğunlukla yumuşak, düşsel bir odak ekleyin
-- **Glitch** — RGB kanal ayrımı ve dijital bozulma uygulayın
+- **İzole**: Seçili renkleri canlı tutarken geri kalanı gri tonlamaya çevirin (veya tam tersi)
+- **Duotone**: Cesur, editöryel bir görünüm için görüntünüzü iki tona yeniden eşleyin
+- **Tritone**: Daha zengin, dereceli bir görünüm için görüntünüzü üç tona yeniden eşleyin
+- **Pikselleştir**: Ayarlanabilir karo boyutuyla geometrik karolardan oluşan bir mozaiğe dönüştürün
+- **Bulanıklaştır**: Bulanıklık stili seçeneği ve ayarlanabilir yoğunlukla yumuşak, düşsel bir odak ekleyin
+- **Glitch**: RGB kanal ayrımı ve dijital bozulma uygulayın
 
 ### Bir oluşturmayı nasıl kaydederim?
 

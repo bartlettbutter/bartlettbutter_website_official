@@ -12,7 +12,7 @@ redirect_from:
 
 # 어떻게 입고, 계획하고, 하루를 지킬지 정확히 아세요.
 
-Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙길지, 가족을 어떻게 편안하게 지킬지 알려줍니다 — 이 모든 것이 여러분의 삶에 맞춰 개인화되고 쉬운 언어로 전달됩니다. 광고 없음, 계정 없음, 무료로 사용하며, 선택적 Premium 업그레이드도 있습니다. 그냥 열고 사용하세요.
+Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙길지, 가족을 어떻게 편안하게 지킬지 알려줍니다. 이 모든 것이 여러분의 삶에 맞춰 개인화되고 쉬운 언어로 전달됩니다. 광고 없음, 계정 없음, 무료로 사용하며, 선택적 Premium 업그레이드도 있습니다. 그냥 열고 사용하세요.
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙�
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">사람들이 선택하는 이유</p>
     <h2 id="sc-why-title" class="marketing-section-title">실제로 무엇을 해야 할지 알려주는 날씨 앱.</h2>
-    <p class="marketing-section-intro">Solcast는 여러분을 위해 예보를 읽어 명확하고 개인적인 안내로 바꿔줍니다 — 그래서 휴대폰을 한 번 보는 것이 해독해야 할 숫자의 벽이 아니라 하루의 계획이 됩니다.</p>
+    <p class="marketing-section-intro">Solcast는 여러분을 위해 예보를 읽어 명확하고 개인적인 안내로 바꿔줍니다. 그래서 휴대폰을 한 번 보는 것이 해독해야 할 숫자의 벽이 아니라 하루의 계획이 됩니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙�
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">제품 구성</p>
     <h2 id="sc-arch-title" class="marketing-section-title">하나의 대시보드, 하루를 계획하는 세 가지 방법.</h2>
-    <p class="marketing-section-intro">Solcast의 각 부분은 서로 다른 질문에 답합니다 — 무슨 일이 일어나고 있는지, 그것이 여러분에게 무엇을 의미하는지, 무엇을 입을지 — 같은 차분하고 읽기 쉬운 스타일을 유지하면서요.</p>
+    <p class="marketing-section-intro">Solcast의 각 부분은 같은 차분하고 읽기 쉬운 스타일을 유지하면서, 무슨 일이 일어나고 있는지, 그것이 여러분에게 무엇을 의미하는지, 무엇을 입을지라는 서로 다른 질문에 답합니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -203,7 +203,7 @@ Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙�
       <p>Premium은 여러 도시의 날씨를 따라가며 저장 장소의 무료 한도를 늘리고 싶은 분들을 위한 것입니다.</p>
       <ul class="marketing-list">
         <li>무제한 저장 위치, 각각 현지 시간대로</li>
-        <li>선택적 업그레이드 — 핵심 앱은 무료로 유지됩니다</li>
+        <li>선택적 업그레이드이며, 핵심 앱은 무료로 유지됩니다</li>
         <li>무료든 Premium이든 광고 없음, 추적 없음</li>
       </ul>
     </article>

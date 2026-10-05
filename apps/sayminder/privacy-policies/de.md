@@ -11,7 +11,7 @@ redirect_from:
 
 **Gültig ab:** 27. September 2026
 
-Sayminder („die App") ist eine kostenlose, sprachgesteuerte Erinnerungs-App für iPhone und iPad. Der Datenschutz steht im Mittelpunkt ihrer Entwicklung. Diese Erklärung erläutert genau, welche Daten bei der Nutzung von Sayminder eine Rolle spielen und – noch wichtiger – welche nicht.
+Sayminder („die App") ist eine kostenlose, sprachgesteuerte Erinnerungs-App für iPhone und iPad. Der Datenschutz steht im Mittelpunkt ihrer Entwicklung. Diese Erklärung erläutert genau, welche Daten bei der Nutzung von Sayminder eine Rolle spielen und, noch wichtiger, welche nicht.
 
 ## Die Kurzfassung
 
@@ -39,11 +39,11 @@ Wenn Sie die Berechtigung für Mikrofon und Spracherkennung erteilen, wird Ihre 
 
 ### Erinnerungen & Notizen
 
-Die Erinnerungen, die Sie erstellen – ihre Titel, Notizen, Zeiten, Wiederholungen und das ursprüngliche gesprochene Transkript – werden ausschließlich auf Ihrem Gerät gespeichert, in einem gemeinsam genutzten App-Container, damit die App, ihr Widget und die Siri-/Kurzbefehle-Intention eine einzige verlässliche Datenquelle lesen können. Sie werden niemals hochgeladen.
+Die Erinnerungen, die Sie erstellen, einschließlich ihrer Titel, Notizen, Zeiten, Wiederholungen und des ursprünglichen gesprochenen Transkripts, werden ausschließlich auf Ihrem Gerät gespeichert, in einem gemeinsam genutzten App-Container, damit die App, ihr Widget und die Siri-/Kurzbefehle-Intention eine einzige verlässliche Datenquelle lesen können. Sie werden niemals hochgeladen.
 
 ### Kalender (optional, schreibgeschützt)
 
-Wenn Sie **Kalenderereignisse anzeigen** aktivieren, liest die App die Ereignisse Ihres Systemkalenders, um sie neben Ihren Erinnerungen anzuzeigen. Dieser Zugriff erfolgt schreibgeschützt – Sayminder erstellt, bearbeitet oder löscht niemals Kalenderereignisse – und die Ereignisse werden nur auf Ihrem Gerät gelesen, um die Agenda darzustellen. Diese Ebene ist deaktiviert, bis Sie sie aktivieren.
+Wenn Sie **Kalenderereignisse anzeigen** aktivieren, liest die App die Ereignisse Ihres Systemkalenders, um sie neben Ihren Erinnerungen anzuzeigen. Dieser Zugriff erfolgt schreibgeschützt: Sayminder erstellt, bearbeitet oder löscht niemals Kalenderereignisse, und die Ereignisse werden nur auf Ihrem Gerät gelesen, um die Agenda darzustellen. Diese Ebene ist deaktiviert, bis Sie sie aktivieren.
 
 ### Terminplanung & Sprachausgabe
 

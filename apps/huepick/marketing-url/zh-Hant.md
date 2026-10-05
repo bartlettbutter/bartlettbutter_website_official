@@ -12,7 +12,7 @@ redirect_from:
 
 # 用不同的方式看色彩。將任何照片變成調色盤。
 
-拍攝任何激發您靈感的事物，Huepick 便會揭示其中隱藏的調色盤——多達十二種顏色，可立即複製、理解，並用創意工具重新塑造。無需輸入、無需搜尋、無需帳戶，也完全免費。
+拍攝任何激發您靈感的事物，Huepick 便會揭示其中隱藏的調色盤：多達十二種顏色，可立即複製、理解，並用創意工具重新塑造。無需輸入、無需搜尋、無需帳戶，也完全免費。
 
 <!--gallery-->
 
@@ -30,7 +30,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">種創意工具——隔離、雙色調、三色調、像素化、模糊與故障</span>
+    <span class="marketing-stat-label">種創意工具：隔離、雙色調、三色調、像素化、模糊與故障</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">色彩愛好者為何選擇它</p>
     <h2 id="hp-why-title" class="marketing-section-title">一種沉靜而完整的方式，捕捉並創作色彩。</h2>
-    <p class="marketing-section-intro">Huepick 將靈感瞬間轉化為真正可用的調色盤，再以清晰的分析與創意工具持續延伸——完全不需要註冊，也不需要訊號。</p>
+    <p class="marketing-section-intro">Huepick 將靈感瞬間轉化為真正可用的調色盤，再以清晰的分析與創意工具持續延伸，完全不需要註冊，也不需要訊號。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">產品架構</p>
     <h2 id="hp-modes-title" class="marketing-section-title">三個工作空間，貫穿始終的一致色彩流程。</h2>
-    <p class="marketing-section-intro">Huepick 的每個部分都回應不同的意圖——提取色彩、把玩色彩，或回顧您的創作——同時保持相同清晰、可觸的風格。</p>
+    <p class="marketing-section-intro">Huepick 的每個部分都回應不同的意圖（提取色彩、把玩色彩，或回顧您的創作），同時保持相同清晰、可觸的風格。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -153,7 +153,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>儲存並分享</h3>
-      <p>將創作保存在您的畫廊、下載到「照片」，或直接分享——全程離線。</p>
+      <p>將創作保存在您的畫廊、下載到「照片」，或直接分享，全程離線。</p>
     </article>
   </div>
 </section>
@@ -189,7 +189,7 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">今日即含</span>
       <h3 class="marketing-price-summary">每項功能都免費提供。</h3>
-      <p>提取調色盤、探索完整分析、使用全部六種創意工具，並保留您的畫廊——無需帳戶、無需訂閱，也沒有付費牆。</p>
+      <p>提取調色盤、探索完整分析、使用全部六種創意工具，並保留您的畫廊，無需帳戶、無需訂閱，也沒有付費牆。</p>
       <p class="marketing-price-note">相容於 iPhone 和 iPad，支援 iOS 18.6 或更新版本。</p>
     </article>
     <article class="marketing-price-card">

@@ -52,7 +52,7 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recom
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why investors choose it</p>
     <h2 id="ew-why-title" class="marketing-section-title">A calm daily read on the whole ETF market.</h2>
-    <p class="marketing-section-intro">ETFWise turns a noisy market into a quick morning check: fresh picks, a plain-language briefing, and deep fund analysis — all without a sign-up, a subscription, or your data leaving the device.</p>
+    <p class="marketing-section-intro">ETFWise turns a noisy market into a quick morning check: fresh picks, a plain-language briefing, and deep fund analysis, all without a sign-up, a subscription, or your data leaving the device.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -98,7 +98,7 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recom
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Product architecture</p>
     <h2 id="ew-modes-title" class="marketing-section-title">Three ways to work the market, one consistent read.</h2>
-    <p class="marketing-section-intro">Each part of ETFWise answers a different question — what happened today, what should I watch, and what is this fund really made of — while keeping the same clear, readable style.</p>
+    <p class="marketing-section-intro">While keeping the same clear, readable style, each part of ETFWise answers a different question: what happened today, what should I watch, and what is this fund really made of.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

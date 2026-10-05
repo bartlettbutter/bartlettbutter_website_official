@@ -26,19 +26,19 @@ No account, no setup, and no internet connection needed.
 
 ### What's the difference between Compare, Check My Routine, and Scan Collection?
 
-- **Compare** — scan several products of the *same* type to see how they stack up head-to-head, including shared and unique ingredients and a plain-language verdict.
-- **Check My Routine** — scan your routine one product per step for layering order, ingredient conflict alerts, overlap notes, and gap analysis across the whole routine.
-- **Scan Collection** — scan any mix of products for a straightforward per-product breakdown, with no comparison or ordering applied.
+- **Compare**: scan several products of the *same* type to see how they stack up head-to-head, including shared and unique ingredients and a plain-language verdict.
+- **Check My Routine**: scan your routine one product per step for layering order, ingredient conflict alerts, overlap notes, and gap analysis across the whole routine.
+- **Scan Collection**: scan any mix of products for a straightforward per-product breakdown, with no comparison or ordering applied.
 
 ### What product categories are available?
 
 FormuLens supports 23 categories across five groups:
 
-- **Skincare** — Cleanser, Exfoliator, Toner, Serum, Moisturizer, Eye Cream, Sunscreen, Mask / Pack
-- **Makeup** — Primer, Foundation / BB, Blush / Bronzer, Eye Makeup, Lipstick, Lip Balm
-- **Hair** — Shampoo, Conditioner, Hair Mask
-- **Bath & Body** — Body Wash, Body Scrub, Body Lotion, Hand Cream, Deodorant
-- **Fragrance** — Perfume
+- **Skincare**: Cleanser, Exfoliator, Toner, Serum, Moisturizer, Eye Cream, Sunscreen, Mask / Pack
+- **Makeup**: Primer, Foundation / BB, Blush / Bronzer, Eye Makeup, Lipstick, Lip Balm
+- **Hair**: Shampoo, Conditioner, Hair Mask
+- **Bath & Body**: Body Wash, Body Scrub, Body Lotion, Hand Cream, Deodorant
+- **Fragrance**: Perfume
 
 ### Is FormuLens free?
 
@@ -64,8 +64,8 @@ Each ingredient is color-coded by its function, for example, moisturizing, antio
 
 ### What do the "key" and "unusual" labels mean?
 
-- **Key** (star icon) — the ingredient directly serves the product type's main purpose. For example, UV filters are key in a sunscreen.
-- **Unusual** — the ingredient is uncommon for the selected category. It isn't necessarily bad, just worth a closer look. For example, an exfoliant flagged in an eye cream.
+- **Key** (star icon): the ingredient directly serves the product type's main purpose. For example, UV filters are key in a sunscreen.
+- **Unusual**: the ingredient is uncommon for the selected category. It isn't necessarily bad, just worth a closer look. For example, an exfoliant flagged in an eye cream.
 
 ### Why do sunscreens show "Active" and "Inactive" sections?
 

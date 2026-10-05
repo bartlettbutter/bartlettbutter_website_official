@@ -2,7 +2,7 @@
 layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "Speak a reminder and it reaches you on time — even on silent — and reads itself back aloud."
+app_description: "Speak a reminder and it reaches you on time, even on silent, and reads itself back aloud."
 app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
 permalink: /sayminder/
 redirect_from:
@@ -11,16 +11,16 @@ redirect_from:
 
 # Remember beautifully. Just say it out loud.
 
-The fastest reminder is the one you speak. Hold the mic, say what and when, and Sayminder transcribes it, reads the time out of your words, and drops it onto your calendar. When the moment comes it alerts you — even on silent or in Focus — and reads the reminder back in a natural voice.
+The fastest reminder is the one you speak. Hold the mic, say what and when, and Sayminder transcribes it, reads the time out of your words, and drops it onto your calendar. When the moment comes it alerts you, even on silent or in Focus, and reads the reminder back in a natural voice.
 
 <div class="marketing-shot-placeholder-grid" aria-label="Sayminder screenshots coming soon">
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Press &amp; speak — live transcript</span>
+    <span class="marketing-shot-placeholder-caption">Press &amp; speak: live transcript</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Today's Brief — soonest first</span>
+    <span class="marketing-shot-placeholder-caption">Today's Brief: soonest first</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Screenshot</span>
@@ -63,7 +63,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why people choose it</p>
     <h2 id="sy-why-title" class="marketing-section-title">A reminder app you talk to, not type into.</h2>
-    <p class="marketing-section-intro">Sayminder takes a spoken sentence, understands the time inside it, and turns it into a reminder that actually reaches you — so capturing a thought is as quick as saying it.</p>
+    <p class="marketing-section-intro">Sayminder takes a spoken sentence, understands the time inside it, and turns it into a reminder that actually reaches you, so capturing a thought is as quick as saying it.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -86,7 +86,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
     </article>
     <article class="marketing-card">
       <h3>It reads back to you</h3>
-      <p>When a reminder arrives, the app speaks it aloud — and confirms out loud when you save one — so the whole loop is hands-free.</p>
+      <p>When a reminder arrives, the app speaks it aloud and confirms out loud when you save one, so the whole loop is hands-free.</p>
       <ul class="marketing-list">
         <li>"Okay. I'll remind you to …" after you save</li>
         <li>Any list row can be spoken on demand</li>
@@ -109,7 +109,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Product architecture</p>
     <h2 id="sy-arch-title" class="marketing-section-title">One voice surface, four ways to stay on top of your day.</h2>
-    <p class="marketing-section-intro">Each part of Sayminder answers a different question — what to capture, what's next, what's on a given day, and what just fired — while keeping the same calm, editorial style.</p>
+    <p class="marketing-section-intro">While keeping the same calm, editorial style, each part of Sayminder answers a different question: what to capture, what's next, what's on a given day, and what just fired.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -159,7 +159,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
     </article>
     <article class="marketing-step">
       <h3>It reaches you</h3>
-      <p>A breakthrough alarm fires on time — even on silent — and reads the reminder aloud.</p>
+      <p>A breakthrough alarm fires on time, even on silent, and reads the reminder aloud.</p>
     </article>
     <article class="marketing-step">
       <h3>Tap to clear</h3>
@@ -176,7 +176,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Reminders that keep up with a spoken thought</h3>
-      <p>Capture a reminder in the second you think of it — walking, driving, hands full — without stopping to tap through date wheels. Hands-free creation through Siri, Shortcuts, and Spotlight means a reminder can be added and still fire on time even if you never open the app.</p>
+      <p>Capture a reminder in the second you think of it (walking, driving, hands full) without stopping to tap through date wheels. Hands-free creation through Siri, Shortcuts, and Spotlight means a reminder can be added and still fire on time even if you never open the app.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Made for real daily routines</h3>

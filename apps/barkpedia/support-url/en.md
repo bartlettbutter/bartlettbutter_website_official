@@ -36,15 +36,15 @@ Barkpedia identifies 147 breeds based on AKC standards.
 
 Explore gives you two ways to discover breeds:
 
-- **Search** — Type any breed name for instant filtering across all 147 breeds.
-- **World Map** — Browse an interactive map showing breed origins by country. Tap a pin to see which breeds come from that region. Use the expand button to view the map in full screen.
+- **Search**: Type any breed name for instant filtering across all 147 breeds.
+- **World Map**: Browse an interactive map showing breed origins by country. Tap a pin to see which breeds come from that region. Use the expand button to view the map in full screen.
 
 Both search and the map work offline.
 
 ### How do the Quiz and Trivia games work?
 
-- **Breed Quiz** — You're shown a dog photo and pick the correct breed from four choices. Each round has 10 questions. Earn reward titles based on your score.
-- **Dog Trivia** — True-or-false statements mixing real dog facts with plausible myths. Also 10 questions per round with reward titles.
+- **Breed Quiz**: You're shown a dog photo and pick the correct breed from four choices. Each round has 10 questions. Earn reward titles based on your score.
+- **Dog Trivia**: True-or-false statements mixing real dog facts with plausible myths. Also 10 questions per round with reward titles.
 
 The Breed Quiz requires an internet connection to load photos. Dog Trivia works completely offline.
 

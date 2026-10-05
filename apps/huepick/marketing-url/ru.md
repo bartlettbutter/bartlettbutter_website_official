@@ -12,7 +12,7 @@ redirect_from:
 
 # Взгляните на цвета по-новому. Превратите любое фото в палитру.
 
-Сфотографируйте всё, что вас вдохновляет, и Huepick раскроет скрытую внутри палитру — до двенадцати цветов, готовых скопировать, понять и преобразить творческими инструментами. Без ввода текста, без поиска, без учётной записи и бесплатно.
+Сфотографируйте всё, что вас вдохновляет, и Huepick раскроет скрытую внутри палитру: до двенадцати цветов, готовых скопировать, понять и преобразить творческими инструментами. Без ввода текста, без поиска, без учётной записи и бесплатно.
 
 <!--gallery-->
 
@@ -30,7 +30,7 @@ redirect_from:
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">творческих инструментов — «Изоляция», «Двухцветность», «Трёхцветность», «Пикселизация», «Размытие» и «Глитч»</span>
+    <span class="marketing-stat-label">творческих инструментов: «Изоляция», «Двухцветность», «Трёхцветность», «Пикселизация», «Размытие» и «Глитч»</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Почему его выбирают ценители цвета</p>
     <h2 id="hp-why-title" class="marketing-section-title">Спокойный и цельный способ запечатлеть цвет и творить с ним.</h2>
-    <p class="marketing-section-intro">Huepick превращает миг вдохновения в палитру, которую действительно можно использовать, а затем идёт дальше — с понятным анализом и творческими инструментами, и всё это без регистрации и без сигнала.</p>
+    <p class="marketing-section-intro">Huepick превращает миг вдохновения в палитру, которую действительно можно использовать, а затем идёт дальше с понятным анализом и творческими инструментами, и всё это без регистрации и без сигнала.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Архитектура продукта</p>
     <h2 id="hp-modes-title" class="marketing-section-title">Три пространства для работы и один цельный цветовой поток на всём протяжении.</h2>
-    <p class="marketing-section-intro">Каждая часть Huepick отвечает своей задаче — извлечь цвета, поиграть с ними или вернуться к тому, что вы создали, — сохраняя при этом тот же понятный и тактильный стиль.</p>
+    <p class="marketing-section-intro">Каждая часть Huepick, сохраняя тот же понятный и тактильный стиль, отвечает своей задаче: извлечь цвета, поиграть с ними или вернуться к тому, что вы создали.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -153,7 +153,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>Сохраняйте и делитесь</h3>
-      <p>Храните творения в своей галерее, скачивайте их в «Фото» или делитесь ими напрямую — всё офлайн.</p>
+      <p>Храните творения в своей галерее, скачивайте их в «Фото» или делитесь ими напрямую, и всё это офлайн.</p>
     </article>
   </div>
 </section>

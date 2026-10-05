@@ -2,7 +2,7 @@
 layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
-app_description: "Spreek een herinnering in en ze bereikt je op tijd — zelfs op stil — en leest zichzelf hardop voor."
+app_description: "Spreek een herinnering in en ze bereikt je op tijd, zelfs op stil, en leest zichzelf hardop voor."
 app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
 lang: nl
 permalink: /sayminder/nl/
@@ -12,16 +12,16 @@ redirect_from:
 
 # Onthoud met stijl. Zeg het gewoon hardop.
 
-De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt, zeg wat en wanneer, en Sayminder transcribeert het, leest de tijd uit je woorden en zet het in je agenda. Als het moment komt, waarschuwt het je — zelfs op stil of in Focus — en leest het de herinnering met een natuurlijke stem terug.
+De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt, zeg wat en wanneer, en Sayminder transcribeert het, leest de tijd uit je woorden en zet het in je agenda. Als het moment komt, waarschuwt het je, zelfs op stil of in Focus, en leest het de herinnering met een natuurlijke stem terug.
 
 <div class="marketing-shot-placeholder-grid" aria-label="Schermafbeeldingen van Sayminder binnenkort">
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Schermafbeelding</span>
-    <span class="marketing-shot-placeholder-caption">Ingedrukt houden en spreken — live transcriptie</span>
+    <span class="marketing-shot-placeholder-caption">Ingedrukt houden en spreken: live transcriptie</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Schermafbeelding</span>
-    <span class="marketing-shot-placeholder-caption">Overzicht van vandaag — dichtstbij eerst</span>
+    <span class="marketing-shot-placeholder-caption">Overzicht van vandaag: dichtstbij eerst</span>
   </div>
   <div class="marketing-shot-placeholder">
     <span class="marketing-shot-placeholder-label">Schermafbeelding</span>
@@ -64,7 +64,7 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Waarom mensen ervoor kiezen</p>
     <h2 id="sy-why-title" class="marketing-section-title">Een herinneringsapp waar je tegen praat in plaats van in typt.</h2>
-    <p class="marketing-section-intro">Sayminder neemt een gesproken zin, begrijpt de tijd erin en maakt er een herinnering van die je echt bereikt — zo is een gedachte vastleggen net zo snel als hem uitspreken.</p>
+    <p class="marketing-section-intro">Sayminder neemt een gesproken zin, begrijpt de tijd erin en maakt er een herinnering van die je echt bereikt. Zo is een gedachte vastleggen net zo snel als hem uitspreken.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -87,7 +87,7 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
     </article>
     <article class="marketing-card">
       <h3>Het leest naar je terug</h3>
-      <p>Als een herinnering binnenkomt, spreekt de app die hardop uit — en bevestigt hardop wanneer je er een bewaart — zodat de hele cyclus handsfree is.</p>
+      <p>Als een herinnering binnenkomt, spreekt de app die hardop uit en bevestigt hardop wanneer je er een bewaart, zodat de hele cyclus handsfree is.</p>
       <ul class="marketing-list">
         <li>"Oké. Ik zal je eraan herinneren om…" na het bewaren</li>
         <li>Elke rij in de lijst kan op verzoek worden voorgelezen</li>
@@ -110,7 +110,7 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Productarchitectuur</p>
     <h2 id="sy-arch-title" class="marketing-section-title">Eén stemoppervlak, vier manieren om grip op je dag te houden.</h2>
-    <p class="marketing-section-intro">Elk onderdeel van Sayminder beantwoordt een andere vraag — wat vast te leggen, wat er volgt, wat er op een bepaalde dag is en wat er zojuist afging — terwijl dezelfde rustige, verzorgde stijl behouden blijft.</p>
+    <p class="marketing-section-intro">Elk onderdeel van Sayminder beantwoordt een andere vraag: wat vast te leggen, wat er volgt, wat er op een bepaalde dag is en wat er zojuist afging. Daarbij blijft dezelfde rustige, verzorgde stijl behouden.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -160,7 +160,7 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
     </article>
     <article class="marketing-step">
       <h3>Het bereikt je</h3>
-      <p>Een doorbrekende wekker gaat op tijd af — zelfs op stil — en leest de herinnering hardop voor.</p>
+      <p>Een doorbrekende wekker gaat op tijd af, zelfs op stil, en leest de herinnering hardop voor.</p>
     </article>
     <article class="marketing-step">
       <h3>Tik om te wissen</h3>
@@ -177,7 +177,7 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Herinneringen die een gesproken gedachte bijhouden</h3>
-      <p>Leg een herinnering vast op de seconde dat je eraan denkt — lopend, rijdend, met je handen vol — zonder te stoppen om door datumwielen te tikken. Handsfree aanmaken via Siri, Opdrachten en Spotlight betekent dat een herinnering kan worden toegevoegd en toch op tijd afgaat, ook al open je de app nooit.</p>
+      <p>Leg een herinnering vast op de seconde dat je eraan denkt (lopend, rijdend, met je handen vol) zonder te stoppen om door datumwielen te tikken. Handsfree aanmaken via Siri, Opdrachten en Spotlight betekent dat een herinnering kan worden toegevoegd en toch op tijd afgaat, ook al open je de app nooit.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Gemaakt voor echte dagelijkse routines</h3>

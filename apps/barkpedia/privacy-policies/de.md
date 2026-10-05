@@ -35,9 +35,9 @@ Die App fordert Kamera- und Fotomediathek-Berechtigungen ausschließlich an, dam
 
 ## Was auf Ihrem Gerät Gespeichert Wird
 
-- **Favoriten** — Rassen-Scan-Ergebnisse, die Sie speichern möchten, werden ausschließlich lokal auf Ihrem Gerät gespeichert.
-- **Entdecken-Daten** — Der Rassen-Suchindex und die Herkunftsland-Kartendaten sind in der App selbst enthalten.
-- **Kartendarstellung** — Die interaktive Weltkarte verwendet Apple Karten (MapKit), die lokal auf Ihrem Gerät dargestellt wird.
+- **Favoriten**: Rassen-Scan-Ergebnisse, die Sie speichern möchten, werden ausschließlich lokal auf Ihrem Gerät gespeichert.
+- **Entdecken-Daten**: Der Rassen-Suchindex und die Herkunftsland-Kartendaten sind in der App selbst enthalten.
+- **Kartendarstellung**: Die interaktive Weltkarte verwendet Apple Karten (MapKit), die lokal auf Ihrem Gerät dargestellt wird.
 
 Keine dieser Daten wird nach außen übertragen. Alle werden automatisch gelöscht, wenn Sie die App löschen.
 
@@ -55,8 +55,8 @@ Wir verkaufen, vermieten oder teilen keine Nutzerdaten mit Dritten. Es gibt kein
 
 | Berechtigung | Warum Wir Sie Anfordern | Erforderlich? |
 |--------------|-------------------------|---------------|
-| Kamera | Um Hunde für die Rassenerkennung zu fotografieren | Optional — Sie können stattdessen Ihre Fotomediathek verwenden |
-| Fotomediathek | Um vorhandene Fotos für die Rassenerkennung auszuwählen | Optional — Sie können stattdessen die Kamera verwenden |
+| Kamera | Um Hunde für die Rassenerkennung zu fotografieren | Optional. Sie können stattdessen Ihre Fotomediathek verwenden |
+| Fotomediathek | Um vorhandene Fotos für die Rassenerkennung auszuwählen | Optional. Sie können stattdessen die Kamera verwenden |
 
 **Das war's.** Die App fordert keinen Zugriff auf Standort, Kontakte, Mikrofon, Bluetooth, Tracking (ATT), Benachrichtigungen oder andere sensible Berechtigungen an.
 

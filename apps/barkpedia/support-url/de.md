@@ -37,15 +37,15 @@ Barkpedia identifiziert 147 Rassen basierend auf den AKC-Standards.
 
 Entdecken bietet dir zwei Möglichkeiten, Rassen zu entdecken:
 
-- **Suche** — Gib einen beliebigen Rassennamen ein, um sofort unter allen 147 Rassen zu filtern.
-- **Weltkarte** — Durchstöbere eine interaktive Karte, die die Rassenursprünge nach Land zeigt. Tippe auf eine Markierung, um zu sehen, welche Rassen aus dieser Region stammen. Verwende die Erweiterungsschaltfläche, um die Karte im Vollbild anzuzeigen.
+- **Suche**: Gib einen beliebigen Rassennamen ein, um sofort unter allen 147 Rassen zu filtern.
+- **Weltkarte**: Durchstöbere eine interaktive Karte, die die Rassenursprünge nach Land zeigt. Tippe auf eine Markierung, um zu sehen, welche Rassen aus dieser Region stammen. Verwende die Erweiterungsschaltfläche, um die Karte im Vollbild anzuzeigen.
 
 Sowohl die Suche als auch die Karte funktionieren offline.
 
 ### Wie funktionieren die Quiz- und Trivia-Spiele?
 
-- **Rassen-Quiz** — Dir wird ein Hundefoto gezeigt und du wählst die richtige Rasse aus vier Auswahlmöglichkeiten. Jede Runde hat 10 Fragen. Verdiene Belohnungstitel basierend auf deiner Punktzahl.
-- **Hunde-Trivia** — Richtig-oder-Falsch-Aussagen, die echte Hundefakten mit plausiblen Mythen mischen. Ebenfalls 10 Fragen pro Runde mit Belohnungstiteln.
+- **Rassen-Quiz**: Dir wird ein Hundefoto gezeigt und du wählst die richtige Rasse aus vier Auswahlmöglichkeiten. Jede Runde hat 10 Fragen. Verdiene Belohnungstitel basierend auf deiner Punktzahl.
+- **Hunde-Trivia**: Richtig-oder-Falsch-Aussagen, die echte Hundefakten mit plausiblen Mythen mischen. Ebenfalls 10 Fragen pro Runde mit Belohnungstiteln.
 
 Das Rassen-Quiz benötigt eine Internetverbindung, um Fotos zu laden. Die Hunde-Trivia funktioniert vollständig offline.
 

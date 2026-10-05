@@ -37,15 +37,15 @@ Barkpedia herkent 147 rassen op basis van de AKC-normen.
 
 Verkennen biedt je twee manieren om rassen te ontdekken:
 
-- **Zoeken** — Typ een willekeurige rasnaam voor direct filteren binnen alle 147 rassen.
-- **Wereldkaart** — Blader door een interactieve kaart die rasoorsprongen per land toont. Tik op een speld om te zien welke rassen uit die regio komen. Gebruik de uitvouwknop om de kaart op volledig scherm te bekijken.
+- **Zoeken**: typ een willekeurige rasnaam voor direct filteren binnen alle 147 rassen.
+- **Wereldkaart**: blader door een interactieve kaart die rasoorsprongen per land toont. Tik op een speld om te zien welke rassen uit die regio komen. Gebruik de uitvouwknop om de kaart op volledig scherm te bekijken.
 
 Zowel het zoeken als de kaart werken offline.
 
 ### Hoe werken de Quiz- en Weetjes-spellen?
 
-- **Rassenquiz** — Je krijgt een hondenfoto te zien en kiest het juiste ras uit vier keuzes. Elke ronde heeft 10 vragen. Verdien beloningstitels op basis van je score.
-- **Hondenweetjes** — Waar-of-onwaar-stellingen die echte hondenfeiten mengen met plausibele mythes. Ook 10 vragen per ronde met beloningstitels.
+- **Rassenquiz**: je krijgt een hondenfoto te zien en kiest het juiste ras uit vier keuzes. Elke ronde heeft 10 vragen. Verdien beloningstitels op basis van je score.
+- **Hondenweetjes**: waar-of-onwaar-stellingen die echte hondenfeiten mengen met plausibele mythes. Ook 10 vragen per ronde met beloningstitels.
 
 De Rassenquiz vereist een internetverbinding om foto's te laden. Hondenweetjes werkt volledig offline.
 

@@ -39,11 +39,11 @@ Quando concedi l'autorizzazione al microfono e al riconoscimento vocale, il tuo 
 
 ### Promemoria e note
 
-I promemoria che crei — i loro titoli, note, orari, ricorrenza e la trascrizione vocale originale — sono memorizzati solo sul tuo dispositivo, in un contenitore dell'app condiviso affinché l'app, il suo widget e l'intento Siri/Comandi rapidi possano leggere un'unica fonte attendibile. Non vengono mai caricati.
+I promemoria che crei, compresi i loro titoli, note, orari, ricorrenza e la trascrizione vocale originale, sono memorizzati solo sul tuo dispositivo, in un contenitore dell'app condiviso affinché l'app, il suo widget e l'intento Siri/Comandi rapidi possano leggere un'unica fonte attendibile. Non vengono mai caricati.
 
 ### Calendario (facoltativo, in sola lettura)
 
-Se attivi **Mostra eventi del calendario**, l'app legge gli eventi del calendario di sistema per visualizzarli accanto ai tuoi promemoria. Questo accesso è in sola lettura — Sayminder non crea, modifica né elimina mai gli eventi del calendario — e gli eventi vengono letti solo sul tuo dispositivo per mostrare l'agenda. Questo livello è disattivato finché non lo abiliti.
+Se attivi **Mostra eventi del calendario**, l'app legge gli eventi del calendario di sistema per visualizzarli accanto ai tuoi promemoria. Questo accesso è in sola lettura: Sayminder non crea, modifica né elimina mai gli eventi del calendario, e gli eventi vengono letti solo sul tuo dispositivo per mostrare l'agenda. Questo livello è disattivato finché non lo abiliti.
 
 ### Pianificazione e sintesi vocale
 

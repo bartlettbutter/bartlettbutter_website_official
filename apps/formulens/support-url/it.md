@@ -27,19 +27,19 @@ Nessun account, nessuna configurazione e nessuna connessione a internet necessar
 
 ### Qual è la differenza tra Confronta, Controlla la mia routine e Scansiona collezione?
 
-- **Confronta** — scansiona più prodotti dello *stesso* tipo per vedere come si posizionano l'uno rispetto all'altro, inclusi ingredienti comuni e unici e un verdetto in parole semplici.
-- **Controlla la mia routine** — scansiona la tua routine, un prodotto per passaggio, per l'ordine di applicazione, gli avvisi sui conflitti tra ingredienti, le note sulle sovrapposizioni e l'analisi delle lacune dell'intera routine.
-- **Scansiona collezione** — scansiona qualsiasi insieme di prodotti per un'analisi semplice prodotto per prodotto, senza confronti né ordinamento.
+- **Confronta**: scansiona più prodotti dello *stesso* tipo per vedere come si posizionano l'uno rispetto all'altro, inclusi ingredienti comuni e unici e un verdetto in parole semplici.
+- **Controlla la mia routine**: scansiona la tua routine, un prodotto per passaggio, per l'ordine di applicazione, gli avvisi sui conflitti tra ingredienti, le note sulle sovrapposizioni e l'analisi delle lacune dell'intera routine.
+- **Scansiona collezione**: scansiona qualsiasi insieme di prodotti per un'analisi semplice prodotto per prodotto, senza confronti né ordinamento.
 
 ### Quali categorie di prodotto sono disponibili?
 
 FormuLens supporta 23 categorie suddivise in cinque gruppi:
 
-- **Skincare** — Detergente, Esfoliante, Tonico, Siero, Idratante, Contorno Occhi, Protezione Solare, Maschera / Patch
-- **Makeup** — Primer, Fondotinta / BB, Blush / Bronzer, Trucco Occhi, Rossetto, Balsamo Labbra
-- **Capelli** — Shampoo, Balsamo, Maschera per Capelli
-- **Bagno e Corpo** — Detergente Corpo, Scrub Corpo, Lozione Corpo, Crema Mani, Deodorante
-- **Profumi** — Profumo
+- **Skincare**: Detergente, Esfoliante, Tonico, Siero, Idratante, Contorno Occhi, Protezione Solare, Maschera / Patch
+- **Makeup**: Primer, Fondotinta / BB, Blush / Bronzer, Trucco Occhi, Rossetto, Balsamo Labbra
+- **Capelli**: Shampoo, Balsamo, Maschera per Capelli
+- **Bagno e Corpo**: Detergente Corpo, Scrub Corpo, Lozione Corpo, Crema Mani, Deodorante
+- **Profumi**: Profumo
 
 ### FormuLens è gratuito?
 
@@ -65,8 +65,8 @@ Ogni ingrediente è codificato a colori in base alla sua funzione: ad esempio id
 
 ### Cosa significano le etichette "chiave" e "insolito"?
 
-- **Chiave** (icona a stella) — l'ingrediente serve direttamente allo scopo principale del tipo di prodotto. Ad esempio, i filtri UV sono chiave in una protezione solare.
-- **Insolito** — l'ingrediente è poco comune per la categoria selezionata. Non è necessariamente negativo, vale solo la pena osservarlo più da vicino. Ad esempio, un esfoliante segnalato in un contorno occhi.
+- **Chiave** (icona a stella): l'ingrediente serve direttamente allo scopo principale del tipo di prodotto. Ad esempio, i filtri UV sono chiave in una protezione solare.
+- **Insolito**: l'ingrediente è poco comune per la categoria selezionata. Non è necessariamente negativo, vale solo la pena osservarlo più da vicino. Ad esempio, un esfoliante segnalato in un contorno occhi.
 
 ### Perché le protezioni solari mostrano le sezioni "Attivi" e "Inattivi"?
 

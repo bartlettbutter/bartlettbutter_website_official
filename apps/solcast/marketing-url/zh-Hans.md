@@ -12,7 +12,7 @@ redirect_from:
 
 # 准确知道如何着装、规划和保护您的一天。
 
-Solcast超越了单纯的预报。它告诉您该穿什么、何时带伞，以及如何让家人保持舒适——全部根据您的生活个性化定制，并以通俗易懂的语言呈现。没有广告，没有账户，免费使用，并提供可选的Premium升级。只需打开即可使用。
+Solcast超越了单纯的预报。它告诉您该穿什么、何时带伞，以及如何让家人保持舒适，全部根据您的生活个性化定制，并以通俗易懂的语言呈现。没有广告，没有账户，免费使用，并提供可选的Premium升级。只需打开即可使用。
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ Solcast超越了单纯的预报。它告诉您该穿什么、何时带伞，以�
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">人们为何选择它</p>
     <h2 id="sc-why-title" class="marketing-section-title">一款告诉您实际该做什么的天气应用。</h2>
-    <p class="marketing-section-intro">Solcast替您读懂预报，并将它转化为清晰、个性化的指导——于是瞥一眼手机就成了一天的计划，而不是一堵需要解读的数字之墙。</p>
+    <p class="marketing-section-intro">Solcast替您读懂预报，并将它转化为清晰、个性化的指导，于是瞥一眼手机就成了一天的计划，而不是一堵需要解读的数字之墙。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Solcast超越了单纯的预报。它告诉您该穿什么、何时带伞，以�
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">产品架构</p>
     <h2 id="sc-arch-title" class="marketing-section-title">一个仪表板，三种规划您一天的方式。</h2>
-    <p class="marketing-section-intro">Solcast的每个部分都回答一个不同的问题——正在发生什么、这对您意味着什么，以及该穿什么——同时保持同样沉稳、易读的风格。</p>
+    <p class="marketing-section-intro">Solcast的每个部分都保持同样沉稳、易读的风格，同时各自回答一个不同的问题：正在发生什么、这对您意味着什么，以及该穿什么。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -203,7 +203,7 @@ Solcast超越了单纯的预报。它告诉您该穿什么、何时带伞，以�
       <p>Premium适合那些关注众多城市天气、并希望解除免费版所存地点限制的人。</p>
       <ul class="marketing-list">
         <li>无限保存地点，每个都以其当地时区显示</li>
-        <li>一项可选的升级——核心应用始终免费</li>
+        <li>一项可选的升级，核心应用始终免费</li>
         <li>无论免费版还是Premium，都没有广告和追踪</li>
       </ul>
     </article>

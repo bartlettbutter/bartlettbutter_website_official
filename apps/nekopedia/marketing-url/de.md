@@ -12,7 +12,7 @@ redirect_from:
 
 # Jede Katze hat eine Geschichte. Entdecke sie sofort.
 
-Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öffnet dann die ganze Geschichte dahinter — Temperament, Geschichte, Herkunft und spannende Fakten. Kein Tippen, keine Suche und keine Kosten — und die Rassenerkennung funktioniert sogar offline.
+Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öffnet dann die ganze Geschichte dahinter: Temperament, Geschichte, Herkunft und spannende Fakten. Kein Tippen, keine Suche und keine Kosten, und die Rassenerkennung funktioniert sogar offline.
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Warum Katzenliebhaber es wählen</p>
     <h2 id="nk-why-title" class="marketing-section-title">Ein ruhiger, vollständiger Taschenführer durch die Welt der Katzen.</h2>
-    <p class="marketing-section-intro">Nekopedia macht aus einem neugierigen Moment im Café eine echte Antwort und geht dann weiter mit der Geschichte, dem Profil und ein wenig Spaß — alles ohne Anmeldung, und die Rassenerkennung klappt sogar ohne Signal.</p>
+    <p class="marketing-section-intro">Nekopedia macht aus einem neugierigen Moment im Café eine echte Antwort und geht dann weiter mit der Geschichte, dem Profil und ein wenig Spaß, alles ohne Anmeldung, und die Rassenerkennung klappt sogar ohne Signal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Produktarchitektur</p>
     <h2 id="nk-modes-title" class="marketing-section-title">Drei Wege, es zu genießen, ein freundlicher Führer durchweg.</h2>
-    <p class="marketing-section-intro">Jeder Teil von Nekopedia beantwortet eine andere Stimmung — eine schnelle Frage, einen Nachmittag zum Stöbern oder einen Spieleabend — und behält dabei denselben klaren, lesbaren Stil.</p>
+    <p class="marketing-section-intro">Jeder Teil von Nekopedia beantwortet eine andere Stimmung: eine schnelle Frage, einen Nachmittag zum Stöbern oder einen Spieleabend. Dabei behält jeder Teil denselben klaren, lesbaren Stil.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

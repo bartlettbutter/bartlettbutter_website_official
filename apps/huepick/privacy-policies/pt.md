@@ -66,7 +66,7 @@ Não vendemos, compartilhamos nem alugamos seus dados a ninguém. Não há dados
 
 | Permissão | Por Que É Necessária | Obrigatória? |
 |-----------|----------------------|--------------|
-| Câmera | Para tirar fotos para extração de cores | Opcional — você pode usar sua biblioteca de fotos |
+| Câmera | Para tirar fotos para extração de cores | Opcional: você pode usar sua biblioteca de fotos |
 | Biblioteca de Fotos | Para selecionar fotos e salvar imagens processadas | Opcional |
 
 Não solicitamos acesso à sua localização em tempo real. Os dados de localização só são lidos quando já existem nos metadados incorporados da sua foto.

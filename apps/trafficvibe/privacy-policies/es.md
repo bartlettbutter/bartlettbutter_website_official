@@ -25,7 +25,7 @@ TrafficVibe ("la App") es una aplicación gratuita de iOS que te ofrece un resum
 | ¿La app usa mi ubicación? | Solo si la activas, y solo en tu dispositivo |
 | ¿Pueden los niños usar la app de forma segura? | Sí |
 
-Los únicos datos que se envían externamente son los necesarios para obtener las condiciones —como el nombre de un lugar o unas coordenadas— a los proveedores de mapas, tiempo y datos públicos que hacen posible tu resumen.
+Los únicos datos que se envían externamente son los necesarios para obtener las condiciones, como el nombre de un lugar o unas coordenadas, a los proveedores de mapas, tiempo y datos públicos que hacen posible tu resumen.
 
 ## Qué datos recopilamos
 
@@ -47,7 +47,7 @@ Estos datos residen únicamente en tu dispositivo y nunca se suben a servidores 
 
 ## Servicios de terceros
 
-Para elaborar tu resumen, TrafficVibe solicita datos a proveedores consolidados de mapas, tiempo y datos públicos. Cada solicitud lleva solo lo necesario para devolver un resultado del lugar que estás viendo —una ubicación o una región— y nunca tu identidad.
+Para elaborar tu resumen, TrafficVibe solicita datos a proveedores consolidados de mapas, tiempo y datos públicos. Cada solicitud lleva solo lo necesario para devolver un resultado del lugar que estás viendo (una ubicación o una región) y nunca tu identidad.
 
 | Qué solicitamos | Por qué | Qué se envía |
 |---|---|---|
@@ -60,7 +60,7 @@ En estas solicitudes nunca se incluyen cuentas, identificadores de dispositivo, 
 
 ## Procesamiento en el dispositivo
 
-Tu resumen y todas sus valoraciones se elaboran en tu dispositivo a partir de las condiciones que TrafficVibe obtiene. Tu trayecto —las ciudades y rutas que te importan— se usa en tu dispositivo para solicitar esas condiciones y nunca se sube, se perfila ni se comparte.
+Tu resumen y todas sus valoraciones se elaboran en tu dispositivo a partir de las condiciones que TrafficVibe obtiene. Tu trayecto (las ciudades y rutas que te importan) se usa en tu dispositivo para solicitar esas condiciones y nunca se sube, se perfila ni se comparte.
 
 ## Notificaciones
 
@@ -76,7 +76,7 @@ TrafficVibe solicita acceso a la ubicación únicamente para ofrecer la ciudad o
 
 ## Conservación y eliminación de datos
 
-Dado que no recopilamos datos personales en nuestros servidores, no hay nada que conservar o eliminar por nuestra parte. Todos los datos almacenados localmente —ciudades guardadas, preferencias y condiciones en caché— se eliminan permanentemente cuando borras la app de tu dispositivo.
+Dado que no recopilamos datos personales en nuestros servidores, no hay nada que conservar o eliminar por nuestra parte. Todos los datos almacenados localmente (ciudades guardadas, preferencias y condiciones en caché) se eliminan permanentemente cuando borras la app de tu dispositivo.
 
 ## Tus derechos
 

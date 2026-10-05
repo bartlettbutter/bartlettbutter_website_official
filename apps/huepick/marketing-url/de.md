@@ -12,7 +12,7 @@ redirect_from:
 
 # Sieh Farben anders. Verwandle jedes Foto in eine Palette.
 
-Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin verborgene Palette — bis zu zwölf Farben, bereit zum Kopieren, Verstehen und Umgestalten mit kreativen Werkzeugen. Kein Tippen, kein Suchen, kein Konto und keine Kosten.
+Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin verborgene Palette: bis zu zwölf Farben, bereit zum Kopieren, Verstehen und Umgestalten mit kreativen Werkzeugen. Kein Tippen, kein Suchen, kein Konto und keine Kosten.
 
 <!--gallery-->
 
@@ -30,7 +30,7 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">kreative Werkzeuge — Isolieren, Duoton, Trioton, Pixelisieren, Weichzeichnen und Glitch</span>
+    <span class="marketing-stat-label">kreative Werkzeuge: Isolieren, Duoton, Trioton, Pixelisieren, Weichzeichnen und Glitch</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
@@ -53,7 +53,7 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Warum Farbliebhaber es wählen</p>
     <h2 id="hp-why-title" class="marketing-section-title">Eine ruhige, vollständige Art, Farbe festzuhalten und mit ihr zu gestalten.</h2>
-    <p class="marketing-section-intro">Huepick verwandelt einen Moment der Inspiration in eine Palette, die du wirklich verwenden kannst, und geht dann mit klarer Analyse und kreativen Werkzeugen weiter — ganz ohne Anmeldung und ohne Signal.</p>
+    <p class="marketing-section-intro">Huepick verwandelt einen Moment der Inspiration in eine Palette, die du wirklich verwenden kannst, und geht dann mit klarer Analyse und kreativen Werkzeugen weiter, ganz ohne Anmeldung und ohne Signal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -67,7 +67,7 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
     </article>
     <article class="marketing-card">
       <h3>Verstehe die Farben, die du aufgenommen hast</h3>
-      <p>Jede Palette öffnet eine klare visuelle Aufschlüsselung, die erklärt, was ein Bild ausmacht — nicht nur, welche Farben darin sind.</p>
+      <p>Jede Palette öffnet eine klare visuelle Aufschlüsselung, die erklärt, was ein Bild ausmacht, und nicht nur, welche Farben darin sind.</p>
       <ul class="marketing-list">
         <li>Farbvielfalt, Sättigung, Helligkeit und Kontrast auf einen Blick</li>
         <li>Diversitäts-Score, Farbtonspanne und eine Aufschlüsselung pro Farbe</li>
@@ -99,7 +99,7 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Produktarchitektur</p>
     <h2 id="hp-modes-title" class="marketing-section-title">Drei Bereiche zum Arbeiten, ein durchgängig konsistenter Farbfluss.</h2>
-    <p class="marketing-section-intro">Jeder Teil von Huepick beantwortet eine andere Absicht — die Farben herausholen, mit ihnen spielen oder zu dem zurückkehren, was du gemacht hast — und behält dabei denselben klaren, greifbaren Stil.</p>
+    <p class="marketing-section-intro">Jeder Teil von Huepick beantwortet eine andere Absicht und behält dabei denselben klaren, greifbaren Stil: die Farben herausholen, mit ihnen spielen oder zu dem zurückkehren, was du gemacht hast.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
@@ -120,7 +120,7 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
     </article>
     <article class="marketing-card">
       <h3>Galerie</h3>
-      <p>Jede Kreation, die du speicherst, lebt hier — bereit, sie erneut aufzurufen, wann immer die Inspiration zurückkehrt.</p>
+      <p>Jede Kreation, die du speicherst, lebt hier, bereit, sie erneut aufzurufen, wann immer die Inspiration zurückkehrt.</p>
       <ul class="marketing-list">
         <li>Bearbeite jede gespeicherte Palette oder Kreation erneut</li>
         <li>Lade in Fotos herunter oder teile mit einem Tipp</li>
@@ -153,7 +153,7 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
     </article>
     <article class="marketing-step">
       <h3>Speichern und teilen</h3>
-      <p>Behalte Kreationen in deiner Galerie, lade sie in Fotos herunter oder teile sie direkt — alles offline.</p>
+      <p>Behalte Kreationen in deiner Galerie, lade sie in Fotos herunter oder teile sie direkt, alles offline.</p>
     </article>
   </div>
 </section>
@@ -189,7 +189,7 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Heute enthalten</span>
       <h3 class="marketing-price-summary">Jede Funktion ist kostenlos verfügbar.</h3>
-      <p>Extrahiere Paletten, erkunde die vollständige Analyse, nutze alle sechs kreativen Werkzeuge und behalte deine Galerie — ohne Konto, ohne Abo und ohne Bezahlschranke.</p>
+      <p>Extrahiere Paletten, erkunde die vollständige Analyse, nutze alle sechs kreativen Werkzeuge und behalte deine Galerie, und das ohne Konto, ohne Abo und ohne Bezahlschranke.</p>
       <p class="marketing-price-note">Kompatibel mit iPhone und iPad unter iOS 18.6 oder neuer.</p>
     </article>
     <article class="marketing-price-card">

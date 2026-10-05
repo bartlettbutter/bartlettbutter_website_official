@@ -12,7 +12,7 @@ redirect_from:
 
 # Chaque chat a une histoire. Découvrez-la instantanément.
 
-Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoile toute l'histoire qui se cache derrière : tempérament, histoire, origine et anecdotes. Sans rien taper, sans rien chercher et sans coût — et l'identification fonctionne même hors ligne.
+Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoile toute l'histoire qui se cache derrière : tempérament, histoire, origine et anecdotes. Sans rien taper, sans rien chercher et sans coût, et l'identification fonctionne même hors ligne.
 
 <!--gallery-->
 
@@ -53,7 +53,7 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Pourquoi les amoureux des chats le choisissent</p>
     <h2 id="nk-why-title" class="marketing-section-title">Un guide de poche calme et complet du monde félin.</h2>
-    <p class="marketing-section-intro">Nekopedia transforme un moment de curiosité au café en une vraie réponse, puis continue avec l'histoire, le profil et un peu de plaisir — le tout sans inscription, et l'identification fonctionne même sans signal.</p>
+    <p class="marketing-section-intro">Nekopedia transforme un moment de curiosité au café en une vraie réponse, puis continue avec l'histoire, le profil et un peu de plaisir, le tout sans inscription, et l'identification fonctionne même sans signal.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -99,7 +99,7 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Architecture du produit</p>
     <h2 id="nk-modes-title" class="marketing-section-title">Trois façons d'en profiter, un seul guide convivial tout du long.</h2>
-    <p class="marketing-section-intro">Chaque partie de Nekopedia répond à une humeur différente — une question rapide, un après-midi de navigation ou une soirée jeux — tout en gardant le même style clair et lisible.</p>
+    <p class="marketing-section-intro">Tout en gardant le même style clair et lisible, chaque partie de Nekopedia répond à une humeur différente : une question rapide, un après-midi de navigation ou une soirée jeux.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">

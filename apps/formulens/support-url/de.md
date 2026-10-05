@@ -27,19 +27,19 @@ Kein Konto, keine Einrichtung und keine Internetverbindung nötig.
 
 ### Was ist der Unterschied zwischen Vergleichen, Meine Routine prüfen und Sammlung scannen?
 
-- **Vergleichen** – scanne mehrere Produkte des *gleichen* Typs, um zu sehen, wie sie sich direkt gegenüberstehen, einschließlich gemeinsamer und einzigartiger Inhaltsstoffe und eines Urteils in klarer Sprache.
-- **Meine Routine prüfen** – scanne deine Routine mit einem Produkt pro Schritt für die Auftragsreihenfolge, Warnungen zu Inhaltsstoffkonflikten, Überschneidungshinweise und eine Lückenanalyse über die gesamte Routine.
-- **Sammlung scannen** – scanne eine beliebige Auswahl an Produkten für eine unkomplizierte Aufschlüsselung pro Produkt, ohne Vergleich oder Reihenfolge.
+- **Vergleichen**: Scanne mehrere Produkte des *gleichen* Typs, um zu sehen, wie sie sich direkt gegenüberstehen, einschließlich gemeinsamer und einzigartiger Inhaltsstoffe und eines Urteils in klarer Sprache.
+- **Meine Routine prüfen**: Scanne deine Routine mit einem Produkt pro Schritt für die Auftragsreihenfolge, Warnungen zu Inhaltsstoffkonflikten, Überschneidungshinweise und eine Lückenanalyse über die gesamte Routine.
+- **Sammlung scannen**: Scanne eine beliebige Auswahl an Produkten für eine unkomplizierte Aufschlüsselung pro Produkt, ohne Vergleich oder Reihenfolge.
 
 ### Welche Produktkategorien sind verfügbar?
 
 FormuLens unterstützt 23 Kategorien in fünf Gruppen:
 
-- **Hautpflege** – Reinigungsmittel, Peeling, Toner, Serum, Feuchtigkeitscreme, Augencreme, Sonnenschutz, Maske / Pack
-- **Make-up** – Primer, Foundation / BB, Rouge / Bronzer, Augen-Make-up, Lippenstift, Lippenbalsam
-- **Haar** – Shampoo, Spülung, Haarmaske
-- **Bad & Körper** – Duschgel, Körperpeeling, Körperlotion, Handcreme, Deodorant
-- **Duft** – Parfüm
+- **Hautpflege**: Reinigungsmittel, Peeling, Toner, Serum, Feuchtigkeitscreme, Augencreme, Sonnenschutz, Maske / Pack
+- **Make-up**: Primer, Foundation / BB, Rouge / Bronzer, Augen-Make-up, Lippenstift, Lippenbalsam
+- **Haar**: Shampoo, Spülung, Haarmaske
+- **Bad & Körper**: Duschgel, Körperpeeling, Körperlotion, Handcreme, Deodorant
+- **Duft**: Parfüm
 
 ### Ist FormuLens kostenlos?
 
@@ -65,8 +65,8 @@ Jeder Inhaltsstoff ist nach seiner Funktion farblich markiert, zum Beispiel feuc
 
 ### Was bedeuten die Kennzeichnungen „wichtig" und „ungewöhnlich"?
 
-- **Wichtig** (Stern-Symbol) – der Inhaltsstoff dient direkt dem Hauptzweck des Produkttyps. Zum Beispiel sind UV-Filter wichtig in einem Sonnenschutzmittel.
-- **Ungewöhnlich** – der Inhaltsstoff ist für die gewählte Kategorie unüblich. Er ist nicht zwangsläufig schlecht, aber einen genaueren Blick wert. Zum Beispiel ein Peeling-Stoff, der in einer Augencreme markiert wird.
+- **Wichtig** (Stern-Symbol): Der Inhaltsstoff dient direkt dem Hauptzweck des Produkttyps. Zum Beispiel sind UV-Filter wichtig in einem Sonnenschutzmittel.
+- **Ungewöhnlich**: Der Inhaltsstoff ist für die gewählte Kategorie unüblich. Er ist nicht zwangsläufig schlecht, aber einen genaueren Blick wert. Zum Beispiel ein Peeling-Stoff, der in einer Augencreme markiert wird.
 
 ### Warum zeigen Sonnenschutzmittel „Active"- und „Inactive"-Abschnitte?
 

@@ -30,7 +30,7 @@ Tire uma foto de qualquer coisa que te inspire e o Huepick revela a paleta ocult
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">6</span>
-    <span class="marketing-stat-label">ferramentas criativas — Isolar, Duotono, Tritono, Pixelizar, Desfocar e Glitch</span>
+    <span class="marketing-stat-label">ferramentas criativas: Isolar, Duotono, Tritono, Pixelizar, Desfocar e Glitch</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>

@@ -47,7 +47,7 @@ Bir hedef eklediğinizde veya yer aradığınızda, arama sorgularınız sonuç 
 
 | İzin | Ne Zaman İstenir | Amaç | Veriler Cihazdan Çıkıyor mu? |
 |------|------------------|------|------------------------------|
-| Kamera | Bir belgeyi fotoğrafladığınızda | Seyahat belgelerini etkinliklere eklemek | Hayır — OCR aracılığıyla cihazda işlenir |
+| Kamera | Bir belgeyi fotoğrafladığınızda | Seyahat belgelerini etkinliklere eklemek | Hayır, OCR aracılığıyla cihazda işlenir |
 | Fotoğraf Kitaplığı | Mevcut bir görüntüyü içe aktardığınızda | Kaydedilen görüntüleri etkinliklere eklemek | Hayır |
 
 Her iki izin de isteğe bağlıdır. Uygulama bunlar olmadan tam olarak çalışır. Hiçbir görüntü asla harici sunuculara yüklenmez.

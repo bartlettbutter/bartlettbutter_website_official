@@ -25,7 +25,7 @@ TrafficVibe ("die App") ist eine kostenlose iOS-Anwendung, die dir ein Morgen-Br
 | Nutzt die App meinen Standort? | Nur wenn du ihn aktivierst, und nur auf deinem Gerät |
 | Können Kinder die App sicher nutzen? | Ja |
 
-Die einzigen extern gesendeten Daten sind das, was zum Abrufen der Bedingungen nötig ist – etwa ein Ortsname oder Koordinaten – an die Karten-, Wetter- und Öffentliche-Daten-Anbieter, die dein Briefing speisen.
+Die einzigen extern gesendeten Daten sind das, was zum Abrufen der Bedingungen nötig ist, etwa ein Ortsname oder Koordinaten, an die Karten-, Wetter- und Öffentliche-Daten-Anbieter, die dein Briefing speisen.
 
 ## Welche Daten wir erfassen
 
@@ -47,7 +47,7 @@ Diese Daten liegen nur auf deinem Gerät und werden nie auf externe Server hochg
 
 ## Drittanbieterdienste
 
-Um dein Briefing zu erstellen, fragt TrafficVibe Daten von etablierten Karten-, Wetter- und Öffentliche-Daten-Anbietern ab. Jede Anfrage trägt nur, was zur Rückgabe eines Ergebnisses für den angezeigten Ort nötig ist – einen Standort oder eine Region – und nie deine Identität.
+Um dein Briefing zu erstellen, fragt TrafficVibe Daten von etablierten Karten-, Wetter- und Öffentliche-Daten-Anbietern ab. Jede Anfrage trägt nur, was zur Rückgabe eines Ergebnisses für den angezeigten Ort nötig ist (einen Standort oder eine Region), und nie deine Identität.
 
 | Was wir anfragen | Warum | Was gesendet wird |
 |---|---|---|
@@ -60,7 +60,7 @@ In diesen Anfragen sind nie Konten, Gerätekennungen, Kontakte oder Tracking-Inf
 
 ## Verarbeitung auf dem Gerät
 
-Dein Briefing und all seine Bewertungen werden auf deinem Gerät aus den Bedingungen zusammengestellt, die TrafficVibe abruft. Dein Weg – die Städte und Routen, die dir wichtig sind – wird auf deinem Gerät verwendet, um diese Bedingungen abzufragen, und wird nie hochgeladen, profiliert oder geteilt.
+Dein Briefing und all seine Bewertungen werden auf deinem Gerät aus den Bedingungen zusammengestellt, die TrafficVibe abruft. Dein Weg (die Städte und Routen, die dir wichtig sind) wird auf deinem Gerät verwendet, um diese Bedingungen abzufragen, und wird nie hochgeladen, profiliert oder geteilt.
 
 ## Benachrichtigungen
 
@@ -76,7 +76,7 @@ TrafficVibe fragt Standortzugriff nur an, um die optionale Stadt "Aktueller Stan
 
 ## Datenaufbewahrung und -löschung
 
-Da wir keine personenbezogenen Daten auf unseren Servern erfassen, gibt es auf unserer Seite nichts aufzubewahren oder zu löschen. Alle lokal gespeicherten Daten – gespeicherte Städte, Einstellungen und zwischengespeicherte Bedingungen – werden dauerhaft entfernt, wenn du die App von deinem Gerät löschst.
+Da wir keine personenbezogenen Daten auf unseren Servern erfassen, gibt es auf unserer Seite nichts aufzubewahren oder zu löschen. Alle lokal gespeicherten Daten (gespeicherte Städte, Einstellungen und zwischengespeicherte Bedingungen) werden dauerhaft entfernt, wenn du die App von deinem Gerät löschst.
 
 ## Deine Rechte
 

@@ -136,9 +136,57 @@
     window.requestAnimationFrame(syncAllLoopWidths);
   }
 
+  // --- Headline tails ------------------------------------------------------
+  // CSS `text-wrap: balance` evens out wrapped display headings, but can still
+  // leave a two-word second line. Keep the last three words of each heading
+  // on one line so a wrapped heading always ends with at least three words.
+  // Skipped for short headings (a 1+3 split looks worse than 2+2) and
+  // headings with inline markup. A tail is never wider than the heading
+  // (narrow phones, long words), so nothing ever overflows.
+  var HEADLINE_SELECTOR = '.app-page h1, .app-page h2.marketing-section-title, ' +
+    '.app-page .marketing-cta-panel h2, .app-page .marketing-cta-panel h3';
+  var TAIL_WORDS = 3;
+  var MIN_WORDS = 5;
+
+  function initHeadlineTails() {
+    var headings = Array.prototype.slice.call(document.querySelectorAll(HEADLINE_SELECTOR))
+      .filter(function (el) { return el.childElementCount === 0; })
+      .map(function (el) { return { el: el, text: el.textContent.trim() }; })
+      .filter(function (h) { return h.text.split(/\s+/).length >= MIN_WORDS; });
+    if (!headings.length) return;
+
+    // Try three words first, then fall back to two so a heading that is too
+    // narrow for three still avoids ending on a lone word.
+    function apply() {
+      headings.forEach(function (h) {
+        var words = h.text.split(/\s+/);
+        var count;
+        for (count = TAIL_WORDS; count >= 2; count -= 1) {
+          var tail = document.createElement('span');
+          tail.className = 'headline-tail';
+          tail.textContent = words.slice(-count).join(' ');
+          h.el.textContent = words.slice(0, -count).join(' ') + ' ';
+          h.el.appendChild(tail);
+          if (tail.getBoundingClientRect().width <= h.el.clientWidth) return;
+        }
+        h.el.textContent = h.text;
+      });
+    }
+
+    var lastWidth = window.innerWidth;
+    window.addEventListener('resize', function () {
+      if (window.innerWidth === lastWidth) return;
+      lastWidth = window.innerWidth;
+      apply();
+    });
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(apply);
+    apply();
+  }
+
   function boot() {
     init();
     initGalleryMarquee();
+    initHeadlineTails();
   }
 
   if (document.readyState === 'loading') {

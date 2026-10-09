@@ -25,6 +25,21 @@
   z-index: -1;
 }
 
+/* Large display headings (hero title, section titles, closing CTA title):
+   balance line lengths so a title that wraps splits into two even lines
+   instead of stranding a single word on the second line. marketing.js also
+   keeps the last three words together where they fit. */
+.app-page h1,
+.app-page h2.marketing-section-title,
+.app-page .marketing-cta-panel h2,
+.app-page .marketing-cta-panel h3 {
+  text-wrap: balance;
+}
+
+.headline-tail {
+  white-space: nowrap;
+}
+
 /* Match the usable content width of the rich middle sections (which are
    centered within a 1120px measure) for the opening hero cluster and the
    closing CTA panel, so the first and last blocks align with the rest. */

@@ -6,13 +6,9 @@ layout: default
   footer) as every other page via `default`, but the body is scoped to
   `.sy-page` and styled by assets/css/apps/sayminder.css for a distinct
   identity (warm parchment paper, midnight-steel ink, brass accent). Content
-  still comes from the translated markdown.
-
-  App Store screenshots are not wired up yet, so the marketing page uses
-  placeholder frames instead of the hero gallery. If real screenshots are added
-  later, populate _data/apps/sayminder.yml with a `hero_gallery` block and
-  author the `<!--gallery-->` and `<!--hero-end-->` markers into
-  the markdown — this layout already handles them, matching the other apps.
+  still comes from the translated markdown; the hero gallery is injected at the
+  `<!--gallery-->` marker, and the `<!--hero-end-->` marker closes the hero
+  section.
 {%- endcomment -%}
 {%- assign m_lang = page.lang | default: "en" -%}
 {%- assign m_data = site.data.apps.sayminder[m_lang] | default: site.data.apps.sayminder.en -%}
@@ -23,6 +19,11 @@ layout: default
 <div class="sy-page app-page">
 {%- if m_gallery -%}
   {%- assign m_parts = content | split: "<!--hero-end-->" -%}
+  {%- comment -%} The gallery renders wherever the markdown places the
+    `<!--gallery-->` marker (authored just after the hero lead, so the mockups
+    sit above the intro paragraph). If the marker is absent — e.g. a translated
+    page that predates it — the gallery falls back to the end of the hero
+    section. {%- endcomment -%}
   {%- assign m_hero_parts = m_parts[0] | split: "<!--gallery-->" -%}
   <div class="marketing-hero-shell">
     {{ m_hero_parts[0] }}
@@ -32,19 +33,6 @@ layout: default
   </div>
   {%- if m_parts.size > 1 -%}{{ m_parts[1] }}{%- endif -%}
 {%- else -%}
-  {%- comment -%} No gallery data yet (screenshots are placeholders), so
-    render the markdown directly. Wrap only the opening hero cluster (everything
-    before the first `<section class="marketing-band">`) in `.marketing-hero-shell`
-    so it gets the same white backdrop every other app's marketing page uses,
-    while the tinted bands below render outside the shell and keep their palette.
-    `split` drops the delimiter, so the hero is `m_body[0]` and the bands are the
-    original content with that hero prefix removed (which preserves the delimiter). {%- endcomment -%}
-  {%- assign m_body = content | split: '<section class="marketing-band"' -%}
-  <div class="marketing-hero-shell">
-    {{ m_body[0] }}
-  </div>
-  {%- if m_body.size > 1 -%}
-    {{ content | remove_first: m_body[0] }}
-  {%- endif -%}
+  {{ content }}
 {%- endif -%}
 </div>

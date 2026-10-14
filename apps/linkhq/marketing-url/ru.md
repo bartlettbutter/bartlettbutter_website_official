@@ -3,7 +3,7 @@ layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
 app_description: "Сохраняйте ссылки, к которым стоит вернуться, прямо из меню «Поделиться», и открывайте каждую снова в её источнике."
-app_store_url: "https://apps.apple.com/app/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 lang: ru
 permalink: /linkhq/ru/
 redirect_from:
@@ -40,11 +40,11 @@ LinkHQ, это тихое место для ссылок, которые вы х
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/id0000000000">
+    <a href="https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Скоро на iPhone и iPad.</p>
+  <p class="marketing-meta-note">Бесплатная загрузка на iPhone и iPad. Работает на iOS 26.2 или новее.</p>
 </div>
 
 <!--hero-end-->

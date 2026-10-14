@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "Yolların nasıl aktığını, sizi neyin yavaşlattığını ve ne zaman yola çıkmanız gerektiğini anlatan sakin bir sabah yolculuğu özeti."
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: tr
 permalink: /trafficvibe/tr/
 redirect_from:
@@ -39,11 +40,11 @@ redirect_from:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iOS 26.2 veya sonrasını çalıştıran iPhone ve iPad'e çok yakında geliyor.</p>
+  <p class="marketing-meta-note">iPhone ve iPad'de indirmesi ücretsiz. iOS 26.2 veya sonrasında çalışır.</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Sunum ve güven</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">Lansmanda ücretsiz. Tasarımı gereği dürüst.</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">İndirmesi ücretsiz. Tasarımı gereği dürüst.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Lansmanda</span>
+      <span class="marketing-price-tier">Bugün dahil</span>
       <h3 class="marketing-price-summary">Her özellik ücretsiz olarak sunulur.</h3>
       <p>Sabah özeti, on sekiz Yolculuk Yaşam Endeksinin tamamı, saatlik görünüm, kayıtlı yolculuk şehirleri ve akıllı uyarılar; hesap, abonelik ve ödeme duvarı olmadan.</p>
       <p class="marketing-price-note">iOS 26.2 veya sonrasını çalıştıran iPhone ve iPad ile uyumludur.</p>
@@ -220,7 +221,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">Gitmeden önce bilmeye hazır mısınız?</h2>
-  <p>TrafficVibe çok yakında App Store'da. Yayınlandığında bu sabahki özeti anında okuyacak ve her yolculuğa önünüzde tam olarak ne olduğunu bilerek başlayacaksınız.</p>
+  <p>TrafficVibe'ı indirin, bu sabahki özeti anında okuyun ve her yolculuğa önünüzde tam olarak ne olduğunu bilerek başlayın.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">Desteğe gidin</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">Gizlilik politikasını okuyun</a>

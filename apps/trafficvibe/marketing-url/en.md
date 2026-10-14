@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "A calm morning commute briefing that tells you how the roads are running, what's slowing you down, and when to leave."
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 permalink: /trafficvibe/
 redirect_from:
   - /marketing-url/trafficvibe/
@@ -38,11 +39,11 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Coming soon to iPhone and iPad on iOS 26.2 or later.</p>
+  <p class="marketing-meta-note">Free to download on iPhone and iPad. Works on iOS 26.2 or later.</p>
 </div>
 
 <!--hero-end-->
@@ -199,11 +200,11 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Offer and trust</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">Free at launch. Honest by design.</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">Free to download. Honest by design.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">At launch</span>
+      <span class="marketing-price-tier">Included today</span>
       <h3 class="marketing-price-summary">Every feature available at no cost.</h3>
       <p>The morning briefing, all eighteen Commute Life Indices, the hourly outlook, saved commute cities, and smart alerts, with no account, no subscription, and no paywall.</p>
       <p class="marketing-price-note">Compatible with iPhone and iPad on iOS 26.2 or later.</p>
@@ -219,7 +220,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">Ready to know before you go?</h2>
-  <p>TrafficVibe is coming soon to the App Store. When it lands, you'll read this morning's briefing immediately and start every drive knowing exactly what's ahead.</p>
+  <p>Download TrafficVibe, read this morning's briefing immediately, and start every drive knowing exactly what's ahead.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">Visit support</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">Read privacy policy</a>

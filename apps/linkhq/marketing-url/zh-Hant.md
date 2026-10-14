@@ -3,7 +3,7 @@ layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
 app_description: "直接從共享選單儲存值得回看的連結，並在原應用程式中重新開啟每一個。"
-app_store_url: "https://apps.apple.com/app/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 lang: zh-Hant
 permalink: /linkhq/zh-Hant/
 redirect_from:
@@ -40,11 +40,11 @@ LinkHQ 是一處安靜的空間，用來存放你想再次找到的連結。像�
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/id0000000000">
+    <a href="https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">即將登陸 iPhone 與 iPad。</p>
+  <p class="marketing-meta-note">可在 iPhone 和 iPad 上免費下載。支援 iOS 26.2 或更高版本。</p>
 </div>
 
 <!--hero-end-->

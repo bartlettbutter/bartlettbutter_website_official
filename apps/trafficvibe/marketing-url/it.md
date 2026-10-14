@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "Un resoconto mattutino e sereno del tuo tragitto che ti dice come scorre il traffico, cosa ti sta rallentando e quando partire."
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: it
 permalink: /trafficvibe/it/
 redirect_from:
@@ -39,11 +40,11 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Presto disponibile per iPhone e iPad con iOS 26.2 o successivo.</p>
+  <p class="marketing-meta-note">Scaricala gratis su iPhone e iPad. Funziona su iOS 26.2 o successivo.</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Offerta e fiducia</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">Gratis al lancio. Onesta per scelta.</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">Gratis da scaricare. Onesta per scelta.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Al lancio</span>
+      <span class="marketing-price-tier">Incluso oggi</span>
       <h3 class="marketing-price-summary">Ogni funzione disponibile senza alcun costo.</h3>
       <p>Il resoconto mattutino, tutti i diciotto Indici di Vita del Tragitto, la previsione oraria, le città di tragitto salvate e gli avvisi intelligenti, senza account, senza abbonamento e senza paywall.</p>
       <p class="marketing-price-note">Compatibile con iPhone e iPad con iOS 26.2 o successivo.</p>
@@ -220,7 +221,7 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">Pronto a sapere prima di partire?</h2>
-  <p>TrafficVibe arriva presto sull'App Store. Quando sarà disponibile, leggerai subito il resoconto di questa mattina e inizierai ogni tragitto sapendo esattamente cosa ti aspetta.</p>
+  <p>Scarica TrafficVibe, leggi subito il resoconto di questa mattina e inizia ogni tragitto sapendo esattamente cosa ti aspetta.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">Vai al supporto</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">Leggi l'informativa sulla privacy</a>

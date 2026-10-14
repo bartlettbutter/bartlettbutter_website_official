@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "Een rustige ochtendbriefing voor je woon-werkverkeer die je vertelt hoe het verkeer loopt, wat je ophoudt en wanneer je moet vertrekken."
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: nl
 permalink: /trafficvibe/nl/
 redirect_from:
@@ -39,11 +40,11 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Binnenkort voor iPhone en iPad met iOS 26.2 of later.</p>
+  <p class="marketing-meta-note">Gratis te downloaden op iPhone en iPad. Werkt op iOS 26.2 of hoger.</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Aanbod en vertrouwen</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">Gratis bij lancering. Eerlijk van opzet.</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">Gratis te downloaden. Eerlijk van opzet.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Bij lancering</span>
+      <span class="marketing-price-tier">Vandaag inbegrepen</span>
       <h3 class="marketing-price-summary">Alle functies kosteloos beschikbaar.</h3>
       <p>De ochtendbriefing, alle achttien Commute Life Indices, de verwachting per uur, opgeslagen woon-werksteden en slimme meldingen, zonder account, zonder abonnement en zonder betaalmuur.</p>
       <p class="marketing-price-note">Compatibel met iPhone en iPad met iOS 26.2 of later.</p>
@@ -220,7 +221,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">Klaar om te weten voordat je gaat?</h2>
-  <p>TrafficVibe komt binnenkort naar de App Store. Zodra hij er is, lees je de briefing van vanochtend meteen en begin je elke rit met precies te weten wat je te wachten staat.</p>
+  <p>Download TrafficVibe, lees de briefing van vanochtend meteen en begin elke rit met precies te weten wat je te wachten staat.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">Naar support</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">Lees het privacybeleid</a>

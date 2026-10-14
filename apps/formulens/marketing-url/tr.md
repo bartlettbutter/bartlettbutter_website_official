@@ -46,7 +46,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iPhone ve iPad'de ücretsiz indirilebilir. iOS 26.2 veya sonrasında çalışır.</p>
+  <p class="marketing-meta-note">iPhone ve iPad için tek seferlik satın alma. iOS 26.2 veya sonrasında çalışır.</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ redirect_from:
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Sunum ve güven</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">İndirmesi ücretsiz. Tasarımı gereği özel.</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">Tek seferlik satın alma. Tasarımı gereği özel.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Bugün dahil</span>
-      <h3 class="marketing-price-summary">Tüm temel özellikler ücretsiz olarak kullanılabilir.</h3>
-      <p>Etiketleri tarayın, ürünleri karşılaştırın, rutinleri kontrol edin ve analizleri kaydedin; önce bir hesap oluşturmanıza veya ücretli bir katmanın kilidini açmanıza gerek yok.</p>
+      <h3 class="marketing-price-summary">Tüm temel özellikler satın alımınıza dahildir.</h3>
+      <p>Etiketleri tarayın, ürünleri karşılaştırın, rutinleri kontrol edin ve analizleri kaydedin; hesap ve abonelik gerekmez.</p>
       <p class="marketing-price-note">iOS 26.2 veya sonrasında iPhone ve iPad ile uyumludur.</p>
     </article>
     <article class="marketing-price-card">

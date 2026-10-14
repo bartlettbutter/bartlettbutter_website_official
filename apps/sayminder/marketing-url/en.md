@@ -11,22 +11,9 @@ redirect_from:
 
 # Remember beautifully. Just say it out loud.
 
-The fastest reminder is the one you speak. Hold the mic, say what and when, and Sayminder transcribes it, reads the time out of your words, and drops it onto your calendar. When the moment comes it alerts you, even on silent or in Focus, and reads the reminder back in a natural voice.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Sayminder screenshots coming soon">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Press &amp; speak: live transcript</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Today's Brief: soonest first</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Calendar &amp; Upcoming</span>
-  </div>
-</div>
+The fastest reminder is the one you speak. Hold the mic, say what and when, and Sayminder transcribes it, reads the time out of your words, and drops it onto your calendar. When the moment comes it alerts you, even on silent or in Focus, and reads the reminder back in a natural voice.
 
 <div class="marketing-chip-row" aria-label="Sayminder highlights">
   <span class="marketing-chip">Speak, don't type</span>
@@ -58,6 +45,8 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
   </div>
   <p class="marketing-meta-note">Free to download on iPhone and iPad. Works on iOS 26.2 or later.</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

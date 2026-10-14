@@ -46,7 +46,7 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Gratis te downloaden op iPhone en iPad. Werkt op iOS 26.2 of later.</p>
+  <p class="marketing-meta-note">Eenmalige aankoop op iPhone en iPad. Werkt op iOS 26.2 of later.</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Aanbod en vertrouwen</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">Gratis te downloaden. Privé van opzet.</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">Eenmalige aankoop. Privé van opzet.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Vandaag inbegrepen</span>
-      <h3 class="marketing-price-summary">Alle kernfuncties zijn kosteloos beschikbaar.</h3>
-      <p>Scan etiketten, vergelijk producten, controleer routines en bewaar analyses zonder eerst een account aan te maken of een betaalde laag te ontgrendelen.</p>
+      <h3 class="marketing-price-summary">Alle kernfuncties zijn inbegrepen bij je aankoop.</h3>
+      <p>Scan etiketten, vergelijk producten, controleer routines en bewaar analyses, zonder account en zonder abonnement.</p>
       <p class="marketing-price-note">Compatibel met iPhone en iPad op iOS 26.2 of later.</p>
     </article>
     <article class="marketing-price-card">

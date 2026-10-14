@@ -12,22 +12,9 @@ redirect_from:
 
 # 優雅地記住每件事。說出來就好。
 
-最快的提醒，就是你說出來的那一句。按住麥克風，說出要做什麼、什麼時候做，Sayminder 會為你轉寫文字，從你的話裡讀出時間，並把它放進你的行事曆。到了那一刻，它會提醒你（即使在靜音或專注模式下），並用自然的語音把提醒念給你聽。
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Sayminder 螢幕截圖即將推出">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">螢幕截圖</span>
-    <span class="marketing-shot-placeholder-caption">按住即說：即時轉寫</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">螢幕截圖</span>
-    <span class="marketing-shot-placeholder-caption">今日簡報：最近的優先</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">螢幕截圖</span>
-    <span class="marketing-shot-placeholder-caption">行事曆與即將到來</span>
-  </div>
-</div>
+最快的提醒，就是你說出來的那一句。按住麥克風，說出要做什麼、什麼時候做，Sayminder 會為你轉寫文字，從你的話裡讀出時間，並把它放進你的行事曆。到了那一刻，它會提醒你（即使在靜音或專注模式下），並用自然的語音把提醒念給你聽。
 
 <div class="marketing-chip-row" aria-label="Sayminder 亮點">
   <span class="marketing-chip">用說的，不用打字</span>
@@ -59,6 +46,8 @@ redirect_from:
   </div>
   <p class="marketing-meta-note">在 iPhone 和 iPad 上免費下載。需 iOS 26.2 或更新版本。</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

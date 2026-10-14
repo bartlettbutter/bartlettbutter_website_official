@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "आपके सफ़र की एक शांत सुबह की जानकारी, जो बताती है कि सड़कें कैसी चल रही हैं, आपको क्या धीमा कर रहा है, और कब निकलना है।"
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: hi
 permalink: /trafficvibe/hi/
 redirect_from:
@@ -39,11 +40,11 @@ redirect_from:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iOS 26.2 या उसके बाद वाले iPhone और iPad पर जल्द आ रहा है।</p>
+  <p class="marketing-meta-note">iPhone और iPad पर डाउनलोड करने के लिए निःशुल्क। iOS 26.2 या बाद के संस्करण पर काम करता है।</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">पेशकश और भरोसा</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">लॉन्च पर मुफ़्त। बनावट से ही ईमानदार।</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">डाउनलोड करने के लिए मुफ़्त। बनावट से ही ईमानदार।</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">लॉन्च पर</span>
+      <span class="marketing-price-tier">आज शामिल</span>
       <h3 class="marketing-price-summary">हर सुविधा बिना किसी शुल्क के उपलब्ध।</h3>
       <p>सुबह की जानकारी, सभी अठारह Commute Life Indices, घंटे-दर-घंटे का पूर्वानुमान, सहेजे हुए सफ़र वाले शहर, और स्मार्ट सूचनाएँ, न कोई खाता, न सब्सक्रिप्शन, और न कोई पेवॉल।</p>
       <p class="marketing-price-note">iOS 26.2 या उसके बाद वाले iPhone और iPad के साथ संगत।</p>
@@ -220,7 +221,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">निकलने से पहले जानने के लिए तैयार हैं?</h2>
-  <p>TrafficVibe जल्द ही App Store पर आ रहा है। जब यह आएगा, तो आप आज सुबह की जानकारी तुरंत पढ़ेंगे और हर सफ़र यह जानते हुए शुरू करेंगे कि आगे ठीक-ठीक क्या है।</p>
+  <p>TrafficVibe डाउनलोड करें, आज सुबह की जानकारी तुरंत पढ़ें और हर सफ़र यह जानते हुए शुरू करें कि आगे ठीक-ठीक क्या है।</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">सहायता देखें</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">गोपनीयता नीति पढ़ें</a>

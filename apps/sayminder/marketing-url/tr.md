@@ -12,22 +12,9 @@ redirect_from:
 
 # Zarifçe hatırlayın. Sadece sesli söyleyin.
 
-En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve ne zaman söyleyin; Sayminder bunu yazıya döker, sözlerinizden zamanı okur ve takviminize ekler. Vakti geldiğinde sizi sessizde ya da Odak'ta bile uyarır ve hatırlatıcıyı doğal bir sesle geri okur.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Sayminder ekran görüntüleri yakında">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Ekran görüntüsü</span>
-    <span class="marketing-shot-placeholder-caption">Bas ve konuş: canlı yazıya dökme</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Ekran görüntüsü</span>
-    <span class="marketing-shot-placeholder-caption">Bugünün Özeti: en yakın olan önce</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Ekran görüntüsü</span>
-    <span class="marketing-shot-placeholder-caption">Takvim ve Yaklaşanlar</span>
-  </div>
-</div>
+En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve ne zaman söyleyin; Sayminder bunu yazıya döker, sözlerinizden zamanı okur ve takviminize ekler. Vakti geldiğinde sizi sessizde ya da Odak'ta bile uyarır ve hatırlatıcıyı doğal bir sesle geri okur.
 
 <div class="marketing-chip-row" aria-label="Sayminder öne çıkanlar">
   <span class="marketing-chip">Yazma, konuş</span>
@@ -59,6 +46,8 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
   </div>
   <p class="marketing-meta-note">iPhone ve iPad'de ücretsiz indirin. iOS 26.2 veya sonrasında çalışır.</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

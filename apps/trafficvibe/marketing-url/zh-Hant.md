@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "一份平靜的清晨通勤簡報，告訴你路況如何、什麼在拖慢你，以及何時該出發。"
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: zh-Hant
 permalink: /trafficvibe/zh-Hant/
 redirect_from:
@@ -39,11 +40,11 @@ redirect_from:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">即將登陸 iPhone 和 iPad，需 iOS 26.2 或更新版本。</p>
+  <p class="marketing-meta-note">可在 iPhone 和 iPad 上免費下載。支援 iOS 26.2 或更高版本。</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">優惠與信任</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">上線即免費。誠實是設計的一部分。</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">免費下載。誠實是設計的一部分。</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">上線時</span>
+      <span class="marketing-price-tier">今日包含</span>
       <h3 class="marketing-price-summary">所有功能均免費提供。</h3>
       <p>清晨簡報、全部十八項通勤生活指數、逐小時展望、已儲存的通勤城市和智慧提醒，無需帳戶、無需訂閱，也沒有付費牆。</p>
       <p class="marketing-price-note">相容 iPhone 和 iPad，需 iOS 26.2 或更新版本。</p>
@@ -220,7 +221,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">準備好在出發前就瞭如指掌了嗎？</h2>
-  <p>TrafficVibe 即將登陸 App Store。上線之後，你將立即讀到今早的簡報，讓每一次出行都清楚前方等著你的是什麼。</p>
+  <p>下載 TrafficVibe，立即讀到今早的簡報，讓每一次出行都清楚前方等著你的是什麼。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">前往支援</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">閱讀隱私政策</a>

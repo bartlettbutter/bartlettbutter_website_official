@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "一份平静的清晨通勤简报，告诉你路况如何、什么在拖慢你，以及何时出发。"
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: zh-Hans
 permalink: /trafficvibe/zh-Hans/
 redirect_from:
@@ -39,11 +40,11 @@ redirect_from:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">即将登陆 iPhone 和 iPad，需 iOS 26.2 或更高版本。</p>
+  <p class="marketing-meta-note">在iPhone和iPad上免费下载。需要iOS 26.2或更高版本。</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">优惠与信任</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">上线即免费。诚实是设计的一部分。</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">免费下载。诚实是设计的一部分。</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">上线时</span>
+      <span class="marketing-price-tier">现已包含</span>
       <h3 class="marketing-price-summary">所有功能均免费提供。</h3>
       <p>清晨简报、全部十八项通勤生活指数、逐小时展望、已保存的通勤城市和智能提醒，无需账户、无需订阅，也没有付费墙。</p>
       <p class="marketing-price-note">兼容 iPhone 和 iPad，需 iOS 26.2 或更高版本。</p>
@@ -220,7 +221,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">准备好在出发前就了如指掌了吗？</h2>
-  <p>TrafficVibe 即将登陆 App Store。上线之后，你将立即读到今早的简报，让每一次出行都清楚前方等着你的是什么。</p>
+  <p>下载 TrafficVibe，立即读到今早的简报，让每一次出行都清楚前方等着你的是什么。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">前往支持</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">阅读隐私政策</a>

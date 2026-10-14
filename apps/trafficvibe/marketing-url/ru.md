@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "Спокойная утренняя сводка о поездке, которая подсказывает, как движется транспорт, что вас задерживает и когда выезжать."
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: ru
 permalink: /trafficvibe/ru/
 redirect_from:
@@ -39,11 +40,11 @@ redirect_from:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Скоро для iPhone и iPad на iOS 26.2 или новее.</p>
+  <p class="marketing-meta-note">Бесплатная загрузка на iPhone и iPad. Работает на iOS 26.2 или новее.</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Предложение и доверие</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">Бесплатно на старте. Честно по замыслу.</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">Бесплатная загрузка. Честно по замыслу.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">На старте</span>
+      <span class="marketing-price-tier">Доступно сегодня</span>
       <h3 class="marketing-price-summary">Все функции доступны бесплатно.</h3>
       <p>Утренняя сводка, все восемнадцать индексов Commute Life Indices, почасовой прогноз, сохранённые города поездок и умные оповещения, без регистрации, без подписки и без платного доступа.</p>
       <p class="marketing-price-note">Совместимо с iPhone и iPad на iOS 26.2 или новее.</p>
@@ -220,7 +221,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">Готовы знать заранее, прежде чем выехать?</h2>
-  <p>TrafficVibe скоро появится в App Store. Когда он выйдет, вы сразу прочитаете сегодняшнюю утреннюю сводку и начнёте каждую поездку, точно зная, что вас ждёт впереди.</p>
+  <p>Скачайте TrafficVibe, сразу прочитайте сегодняшнюю утреннюю сводку и начинайте каждую поездку, точно зная, что вас ждёт впереди.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">Перейти в поддержку</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">Читать политику конфиденциальности</a>

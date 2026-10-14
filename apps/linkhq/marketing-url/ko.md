@@ -3,7 +3,7 @@ layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
 app_description: "공유 시트에서 바로 다시 보고 싶은 링크를 저장하고, 각 링크를 원래 출처에서 다시 엽니다."
-app_store_url: "https://apps.apple.com/app/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 lang: ko
 permalink: /linkhq/ko/
 redirect_from:
@@ -40,11 +40,11 @@ LinkHQ는 다시 찾고 싶은 링크를 위한 조용한 공간입니다. 동�
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/id0000000000">
+    <a href="https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iPhone과 iPad에 곧 출시됩니다.</p>
+  <p class="marketing-meta-note">iPhone과 iPad에서 무료로 다운로드하세요. iOS 26.2 이상에서 작동합니다.</p>
 </div>
 
 <!--hero-end-->

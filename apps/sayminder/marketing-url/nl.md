@@ -12,22 +12,9 @@ redirect_from:
 
 # Onthoud met stijl. Zeg het gewoon hardop.
 
-De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt, zeg wat en wanneer, en Sayminder transcribeert het, leest de tijd uit je woorden en zet het in je agenda. Als het moment komt, waarschuwt het je, zelfs op stil of in Focus, en leest het de herinnering met een natuurlijke stem terug.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Schermafbeeldingen van Sayminder binnenkort">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Schermafbeelding</span>
-    <span class="marketing-shot-placeholder-caption">Ingedrukt houden en spreken: live transcriptie</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Schermafbeelding</span>
-    <span class="marketing-shot-placeholder-caption">Overzicht van vandaag: dichtstbij eerst</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Schermafbeelding</span>
-    <span class="marketing-shot-placeholder-caption">Agenda en Binnenkort</span>
-  </div>
-</div>
+De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt, zeg wat en wanneer, en Sayminder transcribeert het, leest de tijd uit je woorden en zet het in je agenda. Als het moment komt, waarschuwt het je, zelfs op stil of in Focus, en leest het de herinnering met een natuurlijke stem terug.
 
 <div class="marketing-chip-row" aria-label="Hoogtepunten van Sayminder">
   <span class="marketing-chip">Spreek, typ niet</span>
@@ -59,6 +46,8 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
   </div>
   <p class="marketing-meta-note">Gratis te downloaden op iPhone en iPad. Werkt op iOS 26.2 of nieuwer.</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

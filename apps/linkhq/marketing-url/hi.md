@@ -3,7 +3,7 @@ layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
 app_description: "शेयर शीट से सीधे वे लिंक सहेजें जिन्हें दोबारा देखना सार्थक हो, और हर एक को उसके स्रोत पर फिर से खोलें।"
-app_store_url: "https://apps.apple.com/app/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 lang: hi
 permalink: /linkhq/hi/
 redirect_from:
@@ -40,11 +40,11 @@ LinkHQ उन लिंक के लिए एक शांत जगह है
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/id0000000000">
+    <a href="https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">जल्द ही iPhone और iPad पर।</p>
+  <p class="marketing-meta-note">iPhone और iPad पर डाउनलोड करने के लिए निःशुल्क। iOS 26.2 या बाद के संस्करण पर काम करता है।</p>
 </div>
 
 <!--hero-end-->

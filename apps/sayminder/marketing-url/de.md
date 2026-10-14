@@ -12,22 +12,9 @@ redirect_from:
 
 # Erinnere dich mit Stil. Sag es einfach laut.
 
-Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrückt, sag was und wann, und Sayminder transkribiert es, liest die Zeit aus deinen Worten und legt sie in deinen Kalender. Wenn der Moment kommt, meldet es sich, auch lautlos oder im Fokus, und liest dir die Erinnerung mit natürlicher Stimme vor.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Sayminder-Screenshots folgen in Kürze">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Drücken & sprechen: Live-Transkript</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Tagesüberblick: Nächstes zuerst</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Kalender & Anstehendes</span>
-  </div>
-</div>
+Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrückt, sag was und wann, und Sayminder transkribiert es, liest die Zeit aus deinen Worten und legt sie in deinen Kalender. Wenn der Moment kommt, meldet es sich, auch lautlos oder im Fokus, und liest dir die Erinnerung mit natürlicher Stimme vor.
 
 <div class="marketing-chip-row" aria-label="Sayminder-Highlights">
   <span class="marketing-chip">Sprechen statt tippen</span>
@@ -59,6 +46,8 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
   </div>
   <p class="marketing-meta-note">Kostenloser Download auf iPhone und iPad. Läuft ab iOS 26.2.</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

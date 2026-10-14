@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "ملخص هادئ لتنقّلك الصباحي يخبرك بحالة الطرق، وما الذي يُبطئك، ومتى ينبغي أن تنطلق."
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: ar
 permalink: /trafficvibe/ar/
 redirect_from:
@@ -39,11 +40,11 @@ redirect_from:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">قريبًا على iPhone وiPad بنظام iOS 26.2 أو أحدث.</p>
+  <p class="marketing-meta-note">مجاني للتنزيل على iPhone وiPad. يعمل على iOS 26.2 أو أحدث.</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">العرض والثقة</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">مجاني عند الإطلاق. صادق بحكم التصميم.</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">مجّاني للتنزيل. صادق بحكم التصميم.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">عند الإطلاق</span>
+      <span class="marketing-price-tier">متاح اليوم</span>
       <h3 class="marketing-price-summary">كل ميزة متاحة دون أي تكلفة.</h3>
       <p>الملخّص الصباحي، وجميع مؤشرات حياة التنقّل الثمانية عشر، والتوقّعات بالساعة، ومدن التنقّل المحفوظة، والتنبيهات الذكية، بلا حساب، ولا اشتراك، ولا جدار دفع.</p>
       <p class="marketing-price-note">متوافق مع iPhone وiPad بنظام iOS 26.2 أو أحدث.</p>
@@ -220,7 +221,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">هل أنت مستعد لتعرف قبل أن تنطلق؟</h2>
-  <p>سيصل TrafficVibe قريبًا إلى App Store. وحين يصل، ستقرأ ملخّص هذا الصباح على الفور وتبدأ كل رحلة وأنت تعرف بالضبط ما ينتظرك.</p>
+  <p>نزّل TrafficVibe، واقرأ ملخّص هذا الصباح على الفور، وابدأ كل رحلة وأنت تعرف بالضبط ما ينتظرك.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">زيارة الدعم</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">اقرأ سياسة الخصوصية</a>

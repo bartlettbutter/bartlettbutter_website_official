@@ -89,7 +89,6 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
       <ul class="marketing-list">
         <li>Los escaneos y favoritos se guardan localmente</li>
         <li>Nada que registrar y nada que pagar</li>
-        <li>La misma postura de confianza en todas las páginas</li>
       </ul>
     </article>
   </div>
@@ -196,7 +195,7 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
       <span class="marketing-price-tier">Postura de privacidad</span>
       <h3 class="marketing-price-summary">Sin subidas. Sin cuentas. Sin rastreo.</h3>
       <p>Tus fotos nunca salen de tu dispositivo. La identificación de razas se realiza íntegramente en el dispositivo, mientras que los perfiles de razas y las fotos del quiz se cargan desde fuentes públicas de razas caninas sin ningún dato personal.</p>
-      <p class="marketing-price-note">Ese mismo enfoque de privacidad ante todo se mantiene en las páginas de resumen, soporte y políticas.</p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Leer política de privacidad</a></p>
     </article>
   </div>
 </section>

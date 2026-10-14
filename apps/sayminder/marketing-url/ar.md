@@ -182,7 +182,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">هل أنت مستعد لقول أول ما لا تريد نسيانه؟</h2>
-  <p>نزّل Sayminder، وفعّل التنبيهات كي تصلك التذكيرات، وأبقِ صفحتَي الدعم والخصوصية في متناولك كجزءٍ من التجربة المتقنة نفسها.</p>
+  <p>نزّل Sayminder، وفعّل التنبيهات كي تصلك التذكيرات.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/ar/">زيارة الدعم</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/ar/">قراءة سياسة الخصوصية</a>

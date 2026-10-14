@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Bulut hesabı yok. İzleme yok. Reklam yok.</h3>
       <p>TrafficVibe asla bir sayı uydurmaz ve yolculuğunuzu size ait tutar. Kayıt yok ve sizin hakkınızda toplanacak hiçbir şey yok.</p>
-      <p class="marketing-price-note">Aynı dürüst ve gizli yaklaşım, destek ve politika sayfalarında da sürer.</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
 </section>

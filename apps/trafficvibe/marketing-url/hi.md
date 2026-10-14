@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">गोपनीयता का रुख़</span>
       <h3 class="marketing-price-summary">कोई क्लाउड खाता नहीं। कोई ट्रैकिंग नहीं। कोई विज्ञापन नहीं।</h3>
       <p>TrafficVibe कभी कोई आँकड़ा नहीं गढ़ता, और आपका सफ़र आपके ही पास रखता है। न कोई साइन-अप है और न आपके बारे में इकट्ठा करने को कुछ।</p>
-      <p class="marketing-price-note">वही ईमानदार, निजी भाव सहायता और नीति पन्नों पर भी चलता है।</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">गोपनीयता नीति पढ़ें</a></p>
     </article>
   </div>
 </section>

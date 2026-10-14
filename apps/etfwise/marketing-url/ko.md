@@ -196,7 +196,7 @@ redirect_from:
       <span class="marketing-price-tier">개인정보 기조</span>
       <h3 class="marketing-price-summary">계정 없음. 분석 없음. 광고 없음.</h3>
       <p>분석은 여러분의 기기에서 실행되고 데이터는 여러분과 함께 머뭅니다. 실시간 시장 가격을 가져오기 위해 금융 데이터 제공업체로 전송되는 것은 티커 심볼뿐입니다.</p>
-      <p class="marketing-price-note">같은 개인정보 우선 기조가 개요, 지원, 정책 페이지 전반에 이어집니다.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
 </section>

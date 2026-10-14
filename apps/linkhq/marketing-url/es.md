@@ -180,7 +180,7 @@ LinkHQ es un lugar tranquilo para los enlaces que quieres volver a encontrar. Co
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">¿Preparado para guardar lo que vale la pena revisitar?</h2>
-  <p>Guarda tu primer enlace desde la hoja de compartir, deja que los títulos y las miniaturas se completen, y mantén cerca las páginas de soporte y privacidad como parte de la misma experiencia de app serena y precisa.</p>
+  <p>Guarda tu primer enlace desde la hoja de compartir y deja que los títulos y las miniaturas se completen.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/es/">Ir a soporte</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/es/">Leer política de privacidad</a>

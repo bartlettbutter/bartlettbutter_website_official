@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>スキャンとお気に入りはローカルに保存</li>
         <li>サインアップも支払いも不要</li>
-        <li>すべてのページで一貫した信頼性</li>
       </ul>
     </article>
   </div>
@@ -196,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">プライバシーへの姿勢</span>
       <h3 class="marketing-price-summary">アップロードなし。アカウントなし。トラッキングなし。</h3>
       <p>写真がデバイスから出ることはありません。品種の識別はすべてデバイス上で行われ、品種プロフィールとクイズ用の写真は公開されている犬種情報サービスから読み込まれます。個人データが送信されることはありません。</p>
-      <p class="marketing-price-note">同じプライバシー最優先の考え方は、概要、サポート、ポリシーの各ページにも一貫しています。</p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
 </section>

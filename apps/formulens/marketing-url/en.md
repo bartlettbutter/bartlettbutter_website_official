@@ -54,7 +54,7 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why it works</p>
     <h2 id="fl-why-title" class="marketing-section-title">Built for fast ingredient decisions, not ingredient trivia.</h2>
-    <p class="marketing-section-intro">The product story is simple: move from a confusing label to a confident choice without making the user search the internet, compare spreadsheets, or guess what matters.</p>
+    <p class="marketing-section-intro">Go from a confusing label to a confident choice without searching the internet, comparing spreadsheets, or guessing what matters.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -196,15 +196,15 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacy posture</span>
       <h3 class="marketing-price-summary">No servers. No cloud. No tracking.</h3>
-      <p>Your photos never leave your device. Recognition and analysis happen locally, so the product promise is as clear as the interface.</p>
-      <p class="marketing-price-note">That same privacy-first framing should carry through overview, support, and policy pages.</p>
+      <p>Your photos never leave your device. Recognition and analysis happen locally.</p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/">Read privacy policy</a></p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">
   <h2 id="fl-next-title">Ready to read labels like they were written for you?</h2>
-  <p>Download FormuLens, start scanning immediately, and keep the rest of the product story close at hand when you need it.</p>
+  <p>Download FormuLens and start scanning immediately.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">Visit support</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">Read privacy policy</a>

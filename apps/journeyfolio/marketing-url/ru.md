@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Почему путешественники выбирают его</p>
     <h2 id="jf-why-title" class="marketing-section-title">Премиальный планировщик путешествий, который сохраняет спокойствие ещё до начала поездки.</h2>
-    <p class="marketing-section-intro">Journeyfolio превращает разрозненные хлопоты по поездке в один стройный маршрут. Дизайн страницы отражает это обещание: структурированный, элегантный и понятный с одного взгляда.</p>
+    <p class="marketing-section-intro">Journeyfolio превращает разрозненные хлопоты по поездке в один стройный маршрут.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>Готово к работе офлайн, когда вы уже в пути</li>
         <li>Простая модель владения личными данными о поездках</li>
-        <li>Единый подход к доверию на страницах маркетинга, поддержки и политики</li>
       </ul>
     </article>
   </div>
@@ -98,8 +97,7 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="jf-release-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Что нового</p>
-    <h2 id="jf-release-title" class="marketing-section-title">Что нового в маркетинговой истории сегодня.</h2>
-    <p class="marketing-section-intro">Модуль обновлений придаёт странице ритм живого продукта: удобно для анонсов запусков, крупных функций и изменений в подписке без переработки всей страницы.</p>
+    <h2 id="jf-release-title" class="marketing-section-title">Что нового в Journeyfolio.</h2>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -215,7 +213,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="jf-next-title">
   <h2 id="jf-next-title">Путешествуйте налегке ещё до отъезда.</h2>
-  <p>Скачайте Journeyfolio, держите поездку в одном стройном месте и используйте страницы поддержки и конфиденциальности как часть того же отточенного пути приложения.</p>
+  <p>Скачайте Journeyfolio и держите поездку в одном стройном месте.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Перейти в поддержку</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Читать политику конфиденциальности</a>

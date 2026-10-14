@@ -182,7 +182,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">準備好說出第一件你不想忘記的事了嗎？</h2>
-  <p>下載 Sayminder，開啟提醒以便通知能夠找到你，並把支援與隱私頁面放在手邊，作為同一套精緻應用體驗的一部分。</p>
+  <p>下載 Sayminder，開啟提醒以便通知能夠找到你。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/zh-Hant/">前往支援</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/zh-Hant/">閱讀隱私政策</a>

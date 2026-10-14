@@ -55,7 +55,7 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Waarom het werkt</p>
     <h2 id="fl-why-title" class="marketing-section-title">Gebouwd voor snelle ingrediëntkeuzes, niet voor ingrediënttrivia.</h2>
-    <p class="marketing-section-intro">Het productverhaal is eenvoudig: ga van een verwarrend etiket naar een zelfverzekerde keuze zonder dat je het internet moet afzoeken, spreadsheets moet vergelijken of moet gissen wat ertoe doet.</p>
+    <p class="marketing-section-intro">Ga van een verwarrend etiket naar een zelfverzekerde keuze zonder het internet af te zoeken, spreadsheets te vergelijken of te gissen wat ertoe doet.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -197,15 +197,15 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen servers. Geen cloud. Geen tracking.</h3>
-      <p>Je foto's verlaten nooit je apparaat. Herkenning en analyse gebeuren lokaal, zodat de productbelofte net zo helder is als de interface.</p>
-      <p class="marketing-price-note">Diezelfde privacy-eerst-benadering moet doorlopen op de overzichts-, ondersteunings- en beleidspagina's.</p>
+      <p>Je foto's verlaten nooit je apparaat. Herkenning en analyse gebeuren lokaal.</p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/">Lees het privacybeleid</a></p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">
   <h2 id="fl-next-title">Klaar om etiketten te lezen alsof ze voor jou zijn geschreven?</h2>
-  <p>Download FormuLens, begin meteen met scannen en houd de rest van het productverhaal bij de hand wanneer je het nodig hebt.</p>
+  <p>Download FormuLens en begin meteen met scannen.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">Bezoek ondersteuning</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">Lees het privacybeleid</a>

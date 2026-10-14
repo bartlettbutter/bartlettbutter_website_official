@@ -55,7 +55,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">它为何有效</p>
     <h2 id="fl-why-title" class="marketing-section-title">为快速的成分决策而打造，而非成分冷知识。</h2>
-    <p class="marketing-section-intro">产品理念很简单：从一张令人困惑的标签走向一个自信的选择，无需让用户上网搜索、对比电子表格，或者猜测什么才重要。</p>
+    <p class="marketing-section-intro">从一张令人困惑的标签走向一个自信的选择，无需上网搜索、对比电子表格，或者猜测什么才重要。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -197,15 +197,15 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">隐私立场</span>
       <h3 class="marketing-price-summary">没有服务器。没有云端。没有追踪。</h3>
-      <p>你的照片永远不会离开你的设备。识别和分析都在本地进行，让产品承诺和界面一样清晰明了。</p>
-      <p class="marketing-price-note">同样的隐私优先理念应贯穿概览、支持和政策页面。</p>
+      <p>你的照片永远不会离开你的设备。识别和分析都在本地进行。</p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/">阅读隐私政策</a></p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">
   <h2 id="fl-next-title">准备好像读为你而写的标签一样读懂它们了吗？</h2>
-  <p>下载 FormuLens，立即开始扫描，并在需要时随手翻阅产品故事的其余部分。</p>
+  <p>下载 FormuLens，立即开始扫描。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">访问支持</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">阅读隐私政策</a>

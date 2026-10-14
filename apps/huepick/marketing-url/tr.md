@@ -89,7 +89,6 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
       <ul class="marketing-list">
         <li>Paletler ve oluşturmalar yerel olarak saklanır</li>
         <li>Kayıt olacak hiçbir şey ve ödenecek hiçbir şey yok</li>
-        <li>Her sayfada tutarlı bir güven duruşu</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Sunucu yok. Bulut yok. İzleme yok.</h3>
-      <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Çıkarma, analiz ve her yaratıcı araç yerel olarak çalışır, böylece ürün vaadi arayüz kadar net olur.</p>
-      <p class="marketing-price-note">Aynı gizlilik öncelikli çerçeve genel bakış, destek ve politika sayfalarında da devam eder.</p>
+      <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Çıkarma, analiz ve her yaratıcı araç yerel olarak çalışır.</p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
 </section>

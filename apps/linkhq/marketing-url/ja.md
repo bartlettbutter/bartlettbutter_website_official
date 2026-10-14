@@ -180,7 +180,7 @@ LinkHQ は、もう一度見つけたいリンクのための静かな場所で�
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">また戻ってきたいものを、とっておく準備はできましたか？</h2>
-  <p>共有シートから最初のリンクを保存し、タイトルとサムネイルが埋まるのを待って、同じ静かで精確なアプリ体験の一部として、サポートとプライバシーのページを手元に置いてください。</p>
+  <p>共有シートから最初のリンクを保存すれば、タイトルとサムネイルが自動で埋まります。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/ja/">サポートを見る</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/ja/">プライバシーポリシーを読む</a>

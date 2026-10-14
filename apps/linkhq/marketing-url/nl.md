@@ -180,7 +180,7 @@ LinkHQ is een rustige plek voor de links die je terug wilt vinden. Deel een vide
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">Klaar om te bewaren wat het waard is om naar terug te keren?</h2>
-  <p>Bewaar je eerste link vanuit het deelmenu, laat de titels en miniaturen zich vullen, en houd de ondersteunings- en privacypagina's bij de hand, als deel van dezelfde kalme en precieze app-ervaring.</p>
+  <p>Bewaar je eerste link vanuit het deelmenu en laat de titels en miniaturen zich vullen.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/nl/">Ondersteuning bekijken</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/nl/">Privacybeleid lezen</a>

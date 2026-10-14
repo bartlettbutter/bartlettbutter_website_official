@@ -63,7 +63,7 @@ Sí, de forma opcional. Activa **Mostrar eventos del calendario** en los Ajustes
 
 ### ¿Funciona Sayminder en el iPad?
 
-Sí. Sayminder está optimizada tanto para iPhone como para iPad, con un diseño adaptable a la pantalla más grande. Se recomienda un dispositivo físico para disfrutar de la experiencia de voz completa, ya que el Simulador no tiene micrófono.
+Sí. Sayminder está optimizada tanto para iPhone como para iPad, con un diseño adaptable a la pantalla más grande.
 
 ## Permisos
 

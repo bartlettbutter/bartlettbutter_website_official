@@ -196,7 +196,7 @@ redirect_from:
       <span class="marketing-price-tier">隱私立場</span>
       <h3 class="marketing-price-summary">沒有帳戶。沒有分析追蹤。沒有廣告。</h3>
       <p>分析在您的裝置上執行，您的資料由您保管。僅將股票代碼傳送給金融資料提供商以獲取實時市場價格。</p>
-      <p class="marketing-price-note">同樣以隱私為先的理念貫穿概覽、支援和政策頁面。</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">閱讀隱私政策</a></p>
     </article>
   </div>
 </section>

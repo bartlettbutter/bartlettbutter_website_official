@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>افتح وانطلق بلا حاجة للتسجيل في أي شيء</li>
         <li>يُستخدم الموقع فقط لجلب الطقس</li>
-        <li>موقف ثابت من الثقة عبر كل صفحة</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">هل أنت مستعد للتخطيط لكل يوم بثقة؟</h2>
-  <p>نزّل Solcast، وشاهد لوحة تحكمك المخصّصة على الفور، وأبقِ صفحتي الدعم والخصوصية في متناولك كجزء من تجربة التطبيق المصقولة نفسها.</p>
+  <p>نزّل Solcast، وشاهد لوحة تحكمك المخصّصة على الفور.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">زيارة الدعم</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">اقرأ سياسة الخصوصية</a>

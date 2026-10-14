@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>パレットと作品はローカルに保存されたまま</li>
         <li>サインアップするものも支払うものもなし</li>
-        <li>すべてのページで一貫した信頼の姿勢</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">プライバシーの姿勢</span>
       <h3 class="marketing-price-summary">サーバーなし。クラウドなし。トラッキングなし。</h3>
-      <p>あなたの写真がデバイスから出ることは一切ありません。抽出、分析、そしてすべてのクリエイティブツールがローカルで動作するので、プロダクトの約束はインターフェースと同じくらい明快です。</p>
-      <p class="marketing-price-note">同じプライバシー優先の姿勢は、概要、サポート、ポリシーのページにも貫かれています。</p>
+      <p>あなたの写真がデバイスから出ることは一切ありません。抽出、分析、そしてすべてのクリエイティブツールがローカルで動作します。</p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
 </section>

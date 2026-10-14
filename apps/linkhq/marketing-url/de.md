@@ -180,7 +180,7 @@ LinkHQ ist ein ruhiger Ort für die Links, die du wiederfinden möchtest. Teile 
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">Bereit zu bewahren, was es wert ist, dass du zurückkehrst?</h2>
-  <p>Sichere deinen ersten Link aus dem Teilen-Menü, lass Titel und Vorschaubilder sich füllen, und halte die Support- und Datenschutzseiten griffbereit, als Teil desselben ruhigen und präzisen App-Erlebnisses.</p>
+  <p>Sichere deinen ersten Link aus dem Teilen-Menü und lass Titel und Vorschaubilder sich füllen.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/de/">Support besuchen</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/de/">Datenschutzerklärung lesen</a>

@@ -182,7 +182,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">Bereit, das Erste auszusprechen, das du nicht vergessen willst?</h2>
-  <p>Lade Sayminder, aktiviere Hinweise, damit Erinnerungen dich erreichen können, und halte die Support- und Datenschutzseiten griffbereit, als Teil desselben ausgefeilten App-Erlebnisses.</p>
+  <p>Lade Sayminder und aktiviere Hinweise, damit Erinnerungen dich erreichen können.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/de/">Support besuchen</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/de/">Datenschutzrichtlinie lesen</a>

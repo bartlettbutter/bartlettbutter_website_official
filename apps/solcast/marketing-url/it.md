@@ -89,7 +89,6 @@ Solcast va oltre le previsioni. Ti dice cosa indossare, quando portare un ombrel
       <ul class="marketing-list">
         <li>Apri e vai, senza niente per cui registrarsi</li>
         <li>La posizione viene usata solo per recuperare il meteo</li>
-        <li>Lo stesso approccio di fiducia su ogni pagina</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ Solcast va oltre le previsioni. Ti dice cosa indossare, quando portare un ombrel
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">Pronto a pianificare ogni giorno con sicurezza?</h2>
-  <p>Scarica Solcast, vedi subito la tua dashboard personalizzata e tieni le pagine di supporto e privacy a portata di mano, parte della stessa esperienza d'app curata.</p>
+  <p>Scarica Solcast e vedi subito la tua dashboard personalizzata.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Visita il supporto</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Leggi l'informativa sulla privacy</a>

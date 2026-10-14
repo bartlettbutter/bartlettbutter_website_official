@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>تبقى لوحات الألوان والأعمال مخزّنة محليًا</li>
         <li>لا شيء تسجّل فيه ولا شيء تدفعه</li>
-        <li>موقف ثقة متسق عبر كل صفحة</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">موقف الخصوصية</span>
       <h3 class="marketing-price-summary">لا خوادم. لا سحابة. لا تتبع.</h3>
-      <p>لا تغادر صورك جهازك أبدًا. يعمل الاستخراج والتحليل وكل أداة إبداعية محليًا، فيكون وعد المنتج واضحًا كوضوح الواجهة.</p>
-      <p class="marketing-price-note">وينساب الإطار ذاته القائم على الخصوصية أولًا عبر صفحات النظرة العامة والدعم والسياسة.</p>
+      <p>لا تغادر صورك جهازك أبدًا. يعمل الاستخراج والتحليل وكل أداة إبداعية محليًا.</p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/">اقرأ سياسة الخصوصية</a></p>
     </article>
   </div>
 </section>

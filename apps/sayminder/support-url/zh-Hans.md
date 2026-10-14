@@ -63,7 +63,7 @@ redirect_from:
 
 ### Sayminder 能在 iPad 上使用吗？
 
-可以。Sayminder 针对 iPhone 和 iPad 均已优化，并为大屏幕提供了自适应布局。建议使用实体设备以获得完整的语音体验，因为模拟器没有麦克风。
+可以。Sayminder 针对 iPhone 和 iPad 均已优化，并为大屏幕提供了自适应布局。
 
 ## 权限
 

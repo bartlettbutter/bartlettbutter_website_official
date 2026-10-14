@@ -89,7 +89,6 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
       <ul class="marketing-list">
         <li>Les palettes et créations restent stockées localement</li>
         <li>Rien à quoi s'inscrire et rien à payer</li>
-        <li>Une posture de confiance constante sur chaque page</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Posture de confidentialité</span>
       <h3 class="marketing-price-summary">Aucun serveur. Aucun cloud. Aucun suivi.</h3>
-      <p>Vos photos ne quittent jamais votre appareil. L'extraction, l'analyse et chaque outil créatif fonctionnent localement, donc la promesse du produit est aussi claire que l'interface.</p>
-      <p class="marketing-price-note">Ce même cadrage axé sur la confidentialité se retrouve dans les pages de présentation, d'assistance et de politique.</p>
+      <p>Vos photos ne quittent jamais votre appareil. L'extraction, l'analyse et chaque outil créatif fonctionnent localement.</p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
 </section>

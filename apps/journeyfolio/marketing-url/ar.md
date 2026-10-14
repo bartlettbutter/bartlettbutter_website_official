@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">لماذا يختاره المسافرون</p>
     <h2 id="jf-why-title" class="marketing-section-title">مخطّط سفر متميّز يُبقي الرحلة هادئة قبل أن تبدأ.</h2>
-    <p class="marketing-section-intro">يحوّل Journeyfolio فوضى تنظيم الرحلة إلى مسار واحد متناسق. وينبغي أن يعكس تصميم الصفحة هذا الوعد: منظّم، وأنيق، وسهل التصفّح في لمحة.</p>
+    <p class="marketing-section-intro">يحوّل Journeyfolio فوضى تنظيم الرحلة إلى مسار واحد متناسق.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>جاهز للعمل دون اتصال عندما تكون في الطريق</li>
         <li>نموذج ملكية بسيط لبيانات رحلاتك الشخصية</li>
-        <li>نهج ثقة متّسق عبر صفحات التسويق والدعم والسياسة</li>
       </ul>
     </article>
   </div>
@@ -98,8 +97,7 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="jf-release-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">ملاحظات الإصدار</p>
-    <h2 id="jf-release-title" class="marketing-section-title">ما الجديد في قصة التسويق اليوم.</h2>
-    <p class="marketing-section-intro">تمنح وحدة الإصدار الصفحة إيقاع منتج حيّ: مفيدة لإعلانات الإطلاق، والميزات الكبرى، وتغييرات الاشتراك دون إعادة تصميم الصفحة بأكملها.</p>
+    <h2 id="jf-release-title" class="marketing-section-title">ما الجديد في Journeyfolio.</h2>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -215,7 +213,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="jf-next-title">
   <h2 id="jf-next-title">سافر بحمولة أخف، حتى قبل أن تغادر.</h2>
-  <p>نزّل Journeyfolio، وأبقِ رحلتك في مكان واحد متناسق، واستخدم صفحتَي الدعم والخصوصية كجزء من رحلة التطبيق المصقولة نفسها.</p>
+  <p>نزّل Journeyfolio وأبقِ رحلتك في مكان واحد متناسق.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">تفضّل بزيارة الدعم</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">اقرأ سياسة الخصوصية</a>

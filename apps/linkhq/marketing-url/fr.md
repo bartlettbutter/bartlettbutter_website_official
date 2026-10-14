@@ -180,7 +180,7 @@ LinkHQ est un endroit calme pour les liens que vous voulez retrouver. Partagez u
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">Prêt à garder ce qui mérite qu'on y revienne ?</h2>
-  <p>Enregistrez votre premier lien depuis la feuille de partage, laissez titres et vignettes se remplir, et gardez les pages d'assistance et de confidentialité à portée, dans la même expérience d'app calme et précise.</p>
+  <p>Enregistrez votre premier lien depuis la feuille de partage et laissez titres et vignettes se remplir.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/fr/">Voir l'assistance</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/fr/">Lire la politique de confidentialité</a>

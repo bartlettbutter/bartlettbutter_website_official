@@ -214,7 +214,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
       <span class="marketing-price-tier">Datenschutz-Haltung</span>
       <h3 class="marketing-price-summary">Keine Cloud-Konten. Kein Tracking. Keine Werbung.</h3>
       <p>TrafficVibe erfindet nie eine Zahl und behält deinen Weg für dich. Es gibt keine Anmeldung und nichts über dich zu erfassen.</p>
-      <p class="marketing-price-note">Dieselbe ehrliche, private Ausrichtung zieht sich durch die Support- und Richtlinienseiten.</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
 </section>

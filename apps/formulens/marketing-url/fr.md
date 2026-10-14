@@ -55,7 +55,7 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Pourquoi ça marche</p>
     <h2 id="fl-why-title" class="marketing-section-title">Conçu pour des décisions rapides sur les ingrédients, pas pour des devinettes de chimie.</h2>
-    <p class="marketing-section-intro">L'histoire du produit est simple : passer d'une étiquette confuse à un choix éclairé sans obliger l'utilisateur à fouiller Internet, comparer des tableurs ou deviner ce qui compte.</p>
+    <p class="marketing-section-intro">Passez d'une étiquette confuse à un choix éclairé sans fouiller Internet, comparer des tableurs ou deviner ce qui compte.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -197,15 +197,15 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Posture de confidentialité</span>
       <h3 class="marketing-price-summary">Aucun serveur. Aucun cloud. Aucun suivi.</h3>
-      <p>Vos photos ne quittent jamais votre appareil. La reconnaissance et l'analyse se font localement, pour que la promesse du produit soit aussi claire que l'interface.</p>
-      <p class="marketing-price-note">Ce même cadre axé sur la confidentialité se retrouve dans les pages de présentation, d'assistance et de politique.</p>
+      <p>Vos photos ne quittent jamais votre appareil. La reconnaissance et l'analyse se font localement.</p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">
   <h2 id="fl-next-title">Prêt à lire les étiquettes comme si elles étaient écrites pour vous ?</h2>
-  <p>Téléchargez FormuLens, commencez à scanner immédiatement, et gardez le reste de l'histoire du produit à portée de main quand vous en avez besoin.</p>
+  <p>Téléchargez FormuLens et commencez à scanner immédiatement.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">Consulter l'assistance</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">Lire la politique de confidentialité</a>

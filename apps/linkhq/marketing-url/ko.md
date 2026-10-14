@@ -180,7 +180,7 @@ LinkHQ는 다시 찾고 싶은 링크를 위한 조용한 공간입니다. 동�
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">다시 돌아올 가치가 있는 것을 간직할 준비가 되셨나요?</h2>
-  <p>공유 시트에서 첫 링크를 저장하고, 제목과 썸네일이 채워지는 것을 지켜보며, 같은 차분하고 정확한 앱 경험의 일부로 지원과 개인정보 페이지를 가까이 두세요.</p>
+  <p>공유 시트에서 첫 링크를 저장하고, 제목과 썸네일이 채워지는 것을 지켜보세요.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/ko/">지원 보기</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/ko/">개인정보 처리방침 읽기</a>

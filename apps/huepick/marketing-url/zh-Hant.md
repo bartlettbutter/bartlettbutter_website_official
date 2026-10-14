@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>調色盤與作品都儲存在本機</li>
         <li>無需註冊，也無需付費</li>
-        <li>每個頁面都秉持一致的信任態度</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">隱私態度</span>
       <h3 class="marketing-price-summary">沒有伺服器。沒有雲端。沒有追蹤。</h3>
-      <p>您的照片永遠不會離開您的裝置。提取、分析與每一種創意工具都在本機執行，因此產品承諾就如介面一樣清晰。</p>
-      <p class="marketing-price-note">同樣的隱私優先理念貫穿概覽、支援與政策頁面。</p>
+      <p>您的照片永遠不會離開您的裝置。提取、分析與每一種創意工具都在本機執行。</p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/">閱讀隱私政策</a></p>
     </article>
   </div>
 </section>

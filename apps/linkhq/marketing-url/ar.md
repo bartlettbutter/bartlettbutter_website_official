@@ -180,7 +180,7 @@ LinkHQ مكانٌ هادئ للروابط التي تودّ أن تجدها من
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">هل أنت مستعد للاحتفاظ بالأشياء التي تستحق العودة إليها؟</h2>
-  <p>احفظ أول رابطٍ لك من ورقة المشاركة، ودع العناوين والصور المصغّرة تُملأ، وأبقِ صفحتَي الدعم والخصوصية في متناولك كجزءٍ من تجربة التطبيق الهادئة الدقيقة نفسها.</p>
+  <p>احفظ أول رابطٍ لك من ورقة المشاركة، ودع العناوين والصور المصغّرة تُملأ.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/ar/">زيارة الدعم</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/ar/">قراءة سياسة الخصوصية</a>

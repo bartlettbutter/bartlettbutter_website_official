@@ -180,7 +180,7 @@ LinkHQ 是一处安静的空间，用来存放你想再次找到的链接。像�
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">准备好留住那些值得回头再看的内容了吗？</h2>
-  <p>从共享菜单保存你的第一个链接，让标题和缩略图自行补齐，并把支持与隐私页面放在手边，作为这份安静而精准的应用体验的一部分。</p>
+  <p>从共享菜单保存你的第一个链接，让标题和缩略图自行补齐。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/zh-Hans/">访问支持</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/zh-Hans/">阅读隐私政策</a>

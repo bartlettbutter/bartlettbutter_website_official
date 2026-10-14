@@ -63,7 +63,7 @@ Ja, optioneel. Schakel **Toon agenda-activiteiten** in bij Instellingen om de ac
 
 ### Werkt Sayminder op de iPad?
 
-Ja. Sayminder is geoptimaliseerd voor zowel iPhone als iPad, met een aanpasbare lay-out voor het grotere scherm. Een fysiek apparaat wordt aanbevolen voor de volledige spraakervaring, omdat de Simulator geen microfoon heeft.
+Ja. Sayminder is geoptimaliseerd voor zowel iPhone als iPad, met een aanpasbare lay-out voor het grotere scherm.
 
 ## Toestemmingen
 

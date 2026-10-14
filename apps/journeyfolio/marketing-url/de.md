@@ -53,7 +53,7 @@ Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jong
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Warum Reisende sich dafür entscheiden</p>
     <h2 id="jf-why-title" class="marketing-section-title">Ein hochwertiger Reiseplaner, der die Reise ruhig hält, bevor sie beginnt.</h2>
-    <p class="marketing-section-intro">Journeyfolio verwandelt zersplitterte Reiseorganisation in einen stimmigen Reiseplan. Das Seitendesign sollte dieses Versprechen widerspiegeln: strukturiert, elegant und auf einen Blick leicht zu navigieren.</p>
+    <p class="marketing-section-intro">Journeyfolio verwandelt zersplitterte Reiseorganisation in einen stimmigen Reiseplan.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -89,7 +89,6 @@ Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jong
       <ul class="marketing-list">
         <li>Offline-bereit, wenn du bereits unterwegs bist</li>
         <li>Einfaches Eigentumsmodell für persönliche Reisedaten</li>
-        <li>Konsistente Vertrauenshaltung über Marketing-, Support- und Richtlinienseiten hinweg</li>
       </ul>
     </article>
   </div>
@@ -98,8 +97,7 @@ Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jong
 <section class="marketing-band marketing-band--plain" aria-labelledby="jf-release-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Versionshinweise</p>
-    <h2 id="jf-release-title" class="marketing-section-title">Was heute neu in der Marketing-Geschichte ist.</h2>
-    <p class="marketing-section-intro">Das Versionsmodul verleiht der Seite den Rhythmus eines lebendigen Produkts: nützlich für Launch-Ankündigungen, große Funktionsupdates und Abo-Änderungen, ohne die gesamte Seite neu zu gestalten.</p>
+    <h2 id="jf-release-title" class="marketing-section-title">Was ist neu in Journeyfolio.</h2>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -215,7 +213,7 @@ Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jong
 
 <section class="marketing-cta-panel" aria-labelledby="jf-next-title">
   <h2 id="jf-next-title">Reise leichter, schon bevor du losfährst.</h2>
-  <p>Lade Journeyfolio herunter, halte deine Reise an einem stimmigen Ort und nutze die Support- und Datenschutzseiten als Teil derselben durchdachten App-Reise.</p>
+  <p>Lade Journeyfolio herunter und halte deine Reise an einem stimmigen Ort.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Support besuchen</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Datenschutzrichtlinie lesen</a>

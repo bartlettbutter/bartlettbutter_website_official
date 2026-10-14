@@ -89,7 +89,6 @@ Solcast tahminin ötesine geçer. Ne giyeceğinizi, ne zaman şemsiye alacağın
       <ul class="marketing-list">
         <li>Kayıt olacak hiçbir şey olmadan açın ve başlayın</li>
         <li>Konum yalnızca hava durumunu almak için kullanılır</li>
-        <li>Her sayfada tutarlı bir güven duruşu</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ Solcast tahminin ötesine geçer. Ne giyeceğinizi, ne zaman şemsiye alacağın
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">Her günü güvenle planlamaya hazır mısınız?</h2>
-  <p>Solcast'i indirin, kişiselleştirilmiş kontrol panelinizi hemen görün ve destek ile gizlilik sayfalarını aynı özenli uygulama deneyiminin bir parçası olarak yakın tutun.</p>
+  <p>Solcast'i indirin ve kişiselleştirilmiş kontrol panelinizi hemen görün.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Desteği ziyaret edin</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Gizlilik politikasını okuyun</a>

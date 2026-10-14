@@ -55,7 +55,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">لماذا ينجح</p>
     <h2 id="fl-why-title" class="marketing-section-title">مصمَّم لاتخاذ قرارات سريعة بشأن المكوّنات، لا لحفظ معلومات عنها.</h2>
-    <p class="marketing-section-intro">قصة المنتج بسيطة: الانتقال من ملصق محيّر إلى اختيار واثق دون أن يضطر المستخدم إلى البحث في الإنترنت، أو مقارنة جداول البيانات، أو التخمين بشأن ما يهمّ.</p>
+    <p class="marketing-section-intro">انتقل من ملصق محيّر إلى اختيار واثق دون البحث في الإنترنت، أو مقارنة جداول البيانات، أو التخمين بشأن ما يهمّ.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -197,15 +197,15 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">نهج الخصوصية</span>
       <h3 class="marketing-price-summary">لا خوادم. لا سحابة. لا تتبّع.</h3>
-      <p>صورك لا تغادر جهازك أبدًا. يجري التعرّف والتحليل محليًا، ليكون وعد المنتج واضحًا كوضوح الواجهة.</p>
-      <p class="marketing-price-note">وينبغي أن يمتدّ إطار الخصوصية أولًا نفسه عبر صفحات النظرة العامة والدعم والسياسة.</p>
+      <p>صورك لا تغادر جهازك أبدًا. يجري التعرّف والتحليل محليًا.</p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/">اقرأ سياسة الخصوصية</a></p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">
   <h2 id="fl-next-title">مستعد لقراءة الملصقات وكأنها كُتبت من أجلك؟</h2>
-  <p>نزّل FormuLens، وابدأ المسح فورًا، وأبقِ بقيّة قصة المنتج في متناول يدك عندما تحتاج إليها.</p>
+  <p>نزّل FormuLens وابدأ المسح فورًا.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">تفضّل بزيارة الدعم</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">اقرأ سياسة الخصوصية</a>

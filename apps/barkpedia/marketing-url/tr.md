@@ -89,7 +89,6 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
       <ul class="marketing-list">
         <li>Taramalar ve favoriler yerel olarak saklanır</li>
         <li>Kayıt olacak hiçbir şey ve ödenecek hiçbir şey yok</li>
-        <li>Her sayfada tutarlı bir güven duruşu</li>
       </ul>
     </article>
   </div>
@@ -196,7 +195,7 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Yükleme yok. Hesap yok. İzleme yok.</h3>
       <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Irk tanımlama tamamen cihaz üzerinde yapılır; ırk profilleri ve test fotoğrafları ise hiçbir kişisel veri içermeden herkese açık köpek ırkı kaynaklarından yüklenir.</p>
-      <p class="marketing-price-note">Aynı gizlilik öncelikli çerçeve genel bakış, destek ve politika sayfalarında da devam eder.</p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
 </section>

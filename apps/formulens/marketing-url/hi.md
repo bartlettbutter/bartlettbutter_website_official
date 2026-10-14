@@ -55,7 +55,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">यह क्यों काम करता है</p>
     <h2 id="fl-why-title" class="marketing-section-title">सामग्री की त्वरित पहचान के लिए बना, सामग्री की पहेलियों के लिए नहीं।</h2>
-    <p class="marketing-section-intro">उत्पाद की कहानी सरल है: एक उलझन भरे लेबल से एक भरोसेमंद चुनाव तक पहुँचें, बिना उपयोगकर्ता को इंटरनेट खंगालने, स्प्रेडशीट की तुलना करने, या यह अंदाज़ा लगाने की ज़रूरत के कि क्या मायने रखता है।</p>
+    <p class="marketing-section-intro">इंटरनेट खंगाले, स्प्रेडशीट की तुलना किए, या यह अंदाज़ा लगाए बिना कि क्या मायने रखता है, एक उलझन भरे लेबल से एक भरोसेमंद चुनाव तक पहुँचें।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -197,15 +197,15 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">निजता का रुख</span>
       <h3 class="marketing-price-summary">कोई सर्वर नहीं। कोई क्लाउड नहीं। कोई ट्रैकिंग नहीं।</h3>
-      <p>आपकी फ़ोटो कभी आपके डिवाइस से बाहर नहीं जातीं। पहचान और विश्लेषण स्थानीय रूप से होते हैं, ताकि उत्पाद का वादा उतना ही स्पष्ट हो जितना कि इंटरफ़ेस।</p>
-      <p class="marketing-price-note">वही निजता-प्रथम सोच अवलोकन, सहायता, और नीति पृष्ठों में भी बनी रहनी चाहिए।</p>
+      <p>आपकी फ़ोटो कभी आपके डिवाइस से बाहर नहीं जातीं। पहचान और विश्लेषण स्थानीय रूप से होते हैं।</p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/">निजता नीति पढ़ें</a></p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">
   <h2 id="fl-next-title">लेबल ऐसे पढ़ने के लिए तैयार हैं जैसे वे आपके लिए लिखे गए हों?</h2>
-  <p>FormuLens डाउनलोड करें, तुरंत स्कैन करना शुरू करें, और जब ज़रूरत हो तब बाकी उत्पाद कहानी पास रखें।</p>
+  <p>FormuLens डाउनलोड करें और तुरंत स्कैन करना शुरू करें।</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">सहायता देखें</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">निजता नीति पढ़ें</a>

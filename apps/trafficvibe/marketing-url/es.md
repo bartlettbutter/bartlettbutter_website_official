@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">Postura de privacidad</span>
       <h3 class="marketing-price-summary">Sin cuentas en la nube. Sin rastreo. Sin anuncios.</h3>
       <p>TrafficVibe nunca inventa una cifra y mantiene tu trayecto para ti. No hay registro ni nada sobre ti que recopilar.</p>
-      <p class="marketing-price-note">Ese mismo enfoque honesto y privado se mantiene en las páginas de soporte y de política.</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Leer política de privacidad</a></p>
     </article>
   </div>
 </section>

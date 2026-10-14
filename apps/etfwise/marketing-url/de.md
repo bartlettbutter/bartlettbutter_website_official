@@ -196,7 +196,7 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
       <span class="marketing-price-tier">Datenschutzhaltung</span>
       <h3 class="marketing-price-summary">Keine Konten. Keine Analysen. Keine Werbung.</h3>
       <p>Die Analyse läuft auf deinem Gerät und deine Daten bleiben bei dir. Nur Tickersymbole werden an Finanzdatenanbieter gesendet, um Live-Marktpreise abzurufen.</p>
-      <p class="marketing-price-note">Dieselbe Datenschutz-zuerst-Haltung zieht sich durch Überblick-, Support- und Richtlinienseiten.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
 </section>

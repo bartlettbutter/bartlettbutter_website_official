@@ -89,7 +89,6 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
       <ul class="marketing-list">
         <li>Scans en favorieten blijven lokaal opgeslagen</li>
         <li>Niets om je voor aan te melden en niets om te betalen</li>
-        <li>Consistente vertrouwenshouding op elke pagina</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen uploads. Geen cloud. Geen tracking.</h3>
-      <p>Je foto's verlaten nooit je apparaat. Rasherkenning draait volledig op je apparaat en online functies halen alleen openbare kattenfoto's en -feiten op, waardoor de productbelofte net zo helder is als de interface.</p>
-      <p class="marketing-price-note">Diezelfde privacy-eerst benadering loopt door op de overzichts-, ondersteunings- en beleidspagina's.</p>
+      <p>Je foto's verlaten nooit je apparaat. Rasherkenning draait volledig op je apparaat en online functies halen alleen openbare kattenfoto's en -feiten op.</p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Lees het privacybeleid</a></p>
     </article>
   </div>
 </section>

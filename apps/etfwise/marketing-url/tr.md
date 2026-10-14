@@ -196,7 +196,7 @@ Sonsuz hisse sembolleri arasında gezinmeyi bırakın. ETFWise, canlı piyasa ve
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Hesap yok. Analiz yok. Reklam yok.</h3>
       <p>Analiz cihazınızda çalışır ve verileriniz sizde kalır. Canlı piyasa fiyatlarını almak için finansal veri sağlayıcılarına yalnızca hisse sembolleri gönderilir.</p>
-      <p class="marketing-price-note">Aynı gizlilik öncelikli çerçeve genel bakış, destek ve politika sayfalarında da devam eder.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
 </section>

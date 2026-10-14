@@ -89,7 +89,6 @@ Solcast va más allá del pronóstico. Te dice qué ponerte, cuándo llevar para
       <ul class="marketing-list">
         <li>Abre y listo, sin nada que registrar</li>
         <li>La ubicación se usa solo para obtener el clima</li>
-        <li>La misma postura de confianza en todas las páginas</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ Solcast va más allá del pronóstico. Te dice qué ponerte, cuándo llevar para
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">¿Listo para planificar cada día con confianza?</h2>
-  <p>Descarga Solcast, ve tu panel personalizado de inmediato y ten a mano las páginas de soporte y privacidad como parte de la misma experiencia pulida de la app.</p>
+  <p>Descarga Solcast y ve tu panel personalizado de inmediato.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Visitar soporte</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Leer política de privacidad</a>

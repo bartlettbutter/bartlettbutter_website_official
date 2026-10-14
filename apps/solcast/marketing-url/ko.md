@@ -89,7 +89,6 @@ Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙�
       <ul class="marketing-list">
         <li>가입할 것 없이 그냥 열고 사용하세요</li>
         <li>위치는 오직 날씨를 가져오는 데만 사용됩니다</li>
-        <li>모든 페이지에 걸친 일관된 신뢰 자세</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙�
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">매일을 자신 있게 계획할 준비가 되셨나요?</h2>
-  <p>Solcast를 다운로드하여 개인 맞춤 대시보드를 즉시 확인하고, 같은 세련된 앱 경험의 일부로 지원 및 개인정보 페이지를 가까이 두세요.</p>
+  <p>Solcast를 다운로드하여 개인 맞춤 대시보드를 즉시 확인하세요.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">지원 방문</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">개인정보 처리방침 읽기</a>

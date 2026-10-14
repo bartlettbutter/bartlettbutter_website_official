@@ -182,7 +182,7 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">¿Listo para decir lo primero que no quieres olvidar?</h2>
-  <p>Descarga Sayminder, activa los avisos para que los recordatorios puedan llegarte y mantén cerca las páginas de soporte y privacidad como parte de la misma experiencia cuidada.</p>
+  <p>Descarga Sayminder y activa los avisos para que los recordatorios puedan llegarte.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/es/">Ir a soporte</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/es/">Leer la política de privacidad</a>

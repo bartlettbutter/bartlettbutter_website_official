@@ -89,7 +89,6 @@ Haz una foto de cualquier cosa que te inspire y Huepick revela la paleta oculta 
       <ul class="marketing-list">
         <li>Las paletas y creaciones se guardan localmente</li>
         <li>Nada que registrar y nada que pagar</li>
-        <li>La misma postura de confianza en todas las páginas</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ Haz una foto de cualquier cosa que te inspire y Huepick revela la paleta oculta 
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Postura de privacidad</span>
       <h3 class="marketing-price-summary">Sin servidores. Sin nube. Sin rastreo.</h3>
-      <p>Tus fotos nunca salen de tu dispositivo. La extracción, el análisis y cada herramienta creativa funcionan localmente, así que la promesa del producto es tan clara como la interfaz.</p>
-      <p class="marketing-price-note">Ese mismo enfoque de privacidad ante todo se mantiene en las páginas de resumen, soporte y políticas.</p>
+      <p>Tus fotos nunca salen de tu dispositivo. La extracción, el análisis y cada herramienta creativa funcionan localmente.</p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/">Leer política de privacidad</a></p>
     </article>
   </div>
 </section>

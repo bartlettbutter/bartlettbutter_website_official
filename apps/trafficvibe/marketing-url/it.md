@@ -214,7 +214,7 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
       <span class="marketing-price-tier">Approccio alla privacy</span>
       <h3 class="marketing-price-summary">Nessun account nel cloud. Nessun tracciamento. Nessuna pubblicità.</h3>
       <p>TrafficVibe non inventa mai un numero e tiene il tuo tragitto per te. Non c'è registrazione né alcun dato su di te da raccogliere.</p>
-      <p class="marketing-price-note">Lo stesso approccio onesto e privato prosegue nelle pagine di supporto e delle policy.</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Leggi l'informativa sulla privacy</a></p>
     </article>
   </div>
 </section>

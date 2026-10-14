@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">Подход к конфиденциальности</span>
       <h3 class="marketing-price-summary">Без облачных учётных записей. Без слежки. Без рекламы.</h3>
       <p>TrafficVibe никогда не выдумывает цифры и оставляет вашу поездку при вас. Здесь нет регистрации и нечего собирать о вас.</p>
-      <p class="marketing-price-note">Тот же честный и приватный подход проходит через страницы поддержки и политики.</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Читать политику конфиденциальности</a></p>
     </article>
   </div>
 </section>

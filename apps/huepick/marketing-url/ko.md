@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>팔레트와 작품은 로컬에 그대로 저장</li>
         <li>가입할 것도 없고 지불할 것도 없음</li>
-        <li>모든 페이지에서 일관된 신뢰 태도</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">개인정보 태도</span>
       <h3 class="marketing-price-summary">서버 없음. 클라우드 없음. 추적 없음.</h3>
-      <p>여러분의 사진은 절대 기기를 벗어나지 않습니다. 추출, 분석, 그리고 모든 창의적 도구가 로컬에서 실행되므로 제품의 약속은 인터페이스만큼이나 명확합니다.</p>
-      <p class="marketing-price-note">그 개인정보 우선의 태도는 개요, 지원, 정책 페이지 전반에 걸쳐 이어집니다.</p>
+      <p>여러분의 사진은 절대 기기를 벗어나지 않습니다. 추출, 분석, 그리고 모든 창의적 도구가 로컬에서 실행됩니다.</p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
 </section>

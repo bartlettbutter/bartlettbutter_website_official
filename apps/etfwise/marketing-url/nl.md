@@ -196,7 +196,7 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen accounts. Geen analyse. Geen advertenties.</h3>
       <p>Analyse draait op je apparaat en je gegevens blijven bij jou. Alleen tickersymbolen worden naar financiële dataproviders verzonden om live marktprijzen op te halen.</p>
-      <p class="marketing-price-note">Diezelfde privacy-first insteek loopt door op de overzichts-, ondersteunings- en beleidspagina's.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">Privacybeleid lezen</a></p>
     </article>
   </div>
 </section>

@@ -89,7 +89,6 @@ Solcast超越了单纯的预报。它告诉您该穿什么、何时带伞，以�
       <ul class="marketing-list">
         <li>打开即用，无需注册任何内容</li>
         <li>位置仅用于获取天气</li>
-        <li>每个页面都保持一致的信任姿态</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ Solcast超越了单纯的预报。它告诉您该穿什么、何时带伞，以�
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">准备好满怀信心地规划每一天了吗？</h2>
-  <p>下载Solcast，立即查看您的个性化仪表板，并将支持和隐私页面一并保留，作为同一份精致应用体验的一部分。</p>
+  <p>下载Solcast，立即查看您的个性化仪表板。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">访问支持</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">阅读隐私政策</a>

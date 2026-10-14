@@ -182,7 +182,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">Готовы произнести первое, что не хотите забыть?</h2>
-  <p>Загрузите Sayminder, включите оповещения, чтобы напоминания могли до вас доходить, и держите под рукой страницы поддержки и конфиденциальности как часть того же продуманного опыта приложения.</p>
+  <p>Загрузите Sayminder и включите оповещения, чтобы напоминания могли до вас доходить.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/ru/">Перейти в поддержку</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/ru/">Прочитать политику конфиденциальности</a>

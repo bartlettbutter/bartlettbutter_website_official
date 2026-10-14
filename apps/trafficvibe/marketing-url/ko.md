@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">개인정보 보호 태도</span>
       <h3 class="marketing-price-summary">클라우드 계정 없음. 추적 없음. 광고 없음.</h3>
       <p>TrafficVibe는 결코 수치를 지어내지 않으며, 당신의 출근길을 당신만의 것으로 지킵니다. 가입도 없고, 당신에 관해 수집할 것도 없습니다.</p>
-      <p class="marketing-price-note">그 정직하고 사적인 태도는 지원 및 정책 페이지에도 그대로 이어집니다.</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
 </section>

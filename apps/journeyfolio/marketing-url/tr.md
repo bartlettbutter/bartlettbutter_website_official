@@ -53,7 +53,7 @@ Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablol
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Gezginler neden onu seçiyor</p>
     <h2 id="jf-why-title" class="marketing-section-title">Yolculuğu, gezi başlamadan önce sakin tutan üstün bir seyahat planlayıcısı.</h2>
-    <p class="marketing-section-intro">Journeyfolio dağınık gezi işlerini tek bir düzenli güzergâha dönüştürür. Sayfa tasarımı bu vaadi yansıtmalı: yapılandırılmış, zarif ve bir bakışta gezinmesi kolay.</p>
+    <p class="marketing-section-intro">Journeyfolio dağınık gezi işlerini tek bir düzenli güzergâha dönüştürür.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -89,7 +89,6 @@ Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablol
       <ul class="marketing-list">
         <li>Zaten yoldayken çevrimdışı hazır</li>
         <li>Kişisel gezi verileri için basit sahiplik modeli</li>
-        <li>Pazarlama, destek ve politika sayfaları genelinde tutarlı güven duruşu</li>
       </ul>
     </article>
   </div>
@@ -98,8 +97,7 @@ Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablol
 <section class="marketing-band marketing-band--plain" aria-labelledby="jf-release-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Sürüm notları</p>
-    <h2 id="jf-release-title" class="marketing-section-title">Bugün pazarlama hikâyesinde neler yeni.</h2>
-    <p class="marketing-section-intro">Sürüm modülü sayfaya yaşayan bir ürün ritmi kazandırır: tüm sayfayı yeniden tasarlamadan lansman duyuruları, büyük özellik güncellemeleri ve abonelik değişiklikleri için faydalıdır.</p>
+    <h2 id="jf-release-title" class="marketing-section-title">Journeyfolio'da neler yeni.</h2>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -215,7 +213,7 @@ Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablol
 
 <section class="marketing-cta-panel" aria-labelledby="jf-next-title">
   <h2 id="jf-next-title">Yola çıkmadan önce bile daha hafif seyahat edin.</h2>
-  <p>Journeyfolio'yu indirin, gezinizi tek bir düzenli yerde tutun ve destek ile gizlilik sayfalarını aynı özenli uygulama yolculuğunun bir parçası olarak kullanın.</p>
+  <p>Journeyfolio'yu indirin ve gezinizi tek bir düzenli yerde tutun.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Desteği ziyaret edin</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Gizlilik politikasını okuyun</a>

@@ -55,7 +55,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">選ばれる理由</p>
     <h2 id="fl-why-title" class="marketing-section-title">成分の雑学ではなく、すばやい成分の判断のために作られました。</h2>
-    <p class="marketing-section-intro">製品のストーリーはシンプルです。インターネットで調べたり、表計算を見比べたり、何が大事かを推測したりせずに、分かりにくいラベルから自信のある選択へと進めます。</p>
+    <p class="marketing-section-intro">インターネットで調べたり、表計算を見比べたり、何が大事かを推測したりせずに、分かりにくいラベルから自信のある選択へと進めます。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -197,15 +197,15 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">プライバシーの姿勢</span>
       <h3 class="marketing-price-summary">サーバーなし。クラウドなし。トラッキングなし。</h3>
-      <p>あなたの写真がデバイスから出ることは一切ありません。認識と分析はローカルで行われるので、製品の約束はインターフェースと同じくらい明快です。</p>
-      <p class="marketing-price-note">その同じプライバシー第一の姿勢は、概要、サポート、ポリシーのページにも一貫して受け継がれます。</p>
+      <p>あなたの写真がデバイスから出ることは一切ありません。認識と分析はローカルで行われます。</p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">
   <h2 id="fl-next-title">まるであなたのために書かれたかのようにラベルを読む準備はできましたか？</h2>
-  <p>FormuLensをダウンロードして、すぐにスキャンを始めましょう。必要なときには、残りの製品ストーリーもすぐそばに置いておけます。</p>
+  <p>FormuLensをダウンロードして、すぐにスキャンを始めましょう。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">サポートを見る</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">プライバシーポリシーを読む</a>

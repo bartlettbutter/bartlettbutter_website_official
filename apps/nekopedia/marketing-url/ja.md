@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>スキャンとお気に入りはローカルに保存</li>
         <li>登録するものも、支払うものも一切なし</li>
-        <li>どのページでも一貫した信頼の姿勢</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">プライバシーの姿勢</span>
       <h3 class="marketing-price-summary">アップロードなし。クラウドなし。トラッキングなし。</h3>
-      <p>あなたの写真がデバイスから出ることは一切ありません。品種の識別はすべてデバイス上で行われ、オンライン機能が取得するのは公開されている猫の写真と豆知識だけなので、プロダクトの約束はインターフェースと同じくらい明快です。</p>
-      <p class="marketing-price-note">その同じプライバシー第一の姿勢は、概要・サポート・ポリシーの各ページにも貫かれています。</p>
+      <p>あなたの写真がデバイスから出ることは一切ありません。品種の識別はすべてデバイス上で行われ、オンライン機能が取得するのは公開されている猫の写真と豆知識だけです。</p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
 </section>

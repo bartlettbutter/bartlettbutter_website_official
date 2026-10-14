@@ -52,7 +52,7 @@ Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Jou
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why travelers choose it</p>
     <h2 id="jf-why-title" class="marketing-section-title">A premium travel planner that keeps the trip calm before the trip begins.</h2>
-    <p class="marketing-section-intro">Journeyfolio turns fragmented trip admin into one composed itinerary. The page design should mirror that promise: structured, elegant, and easy to navigate at a glance.</p>
+    <p class="marketing-section-intro">Journeyfolio turns fragmented trip admin into one composed itinerary.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -88,7 +88,6 @@ Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Jou
       <ul class="marketing-list">
         <li>Offline-ready when you are already on the move</li>
         <li>Simple ownership model for personal trip data</li>
-        <li>Consistent trust posture across marketing, support, and policy pages</li>
       </ul>
     </article>
   </div>
@@ -97,8 +96,7 @@ Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Jou
 <section class="marketing-band marketing-band--plain" aria-labelledby="jf-release-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Release notes</p>
-    <h2 id="jf-release-title" class="marketing-section-title">What is new on the marketing story today.</h2>
-    <p class="marketing-section-intro">The release module gives the page a living-product rhythm: useful for launch announcements, major feature drops, and subscription changes without redesigning the entire page.</p>
+    <h2 id="jf-release-title" class="marketing-section-title">What's new in Journeyfolio.</h2>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -214,7 +212,7 @@ Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Jou
 
 <section class="marketing-cta-panel" aria-labelledby="jf-next-title">
   <h2 id="jf-next-title">Travel lighter, even before you leave.</h2>
-  <p>Download Journeyfolio, keep your trip in one composed place, and use the support and privacy pages as part of the same polished app journey.</p>
+  <p>Download Journeyfolio and keep your trip in one composed place.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Visit support</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Read privacy policy</a>

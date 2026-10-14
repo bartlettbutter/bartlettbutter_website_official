@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">موقف الخصوصية</span>
       <h3 class="marketing-price-summary">لا حسابات سحابية. لا تتبع. لا إعلانات.</h3>
       <p>لا يختلق TrafficVibe رقمًا أبدًا، ويُبقي تنقّلك ملكًا لك وحدك. لا تسجيل، ولا شيء عنك ليُجمَع.</p>
-      <p class="marketing-price-note">وينسحب هذا الإطار الصادق والخاص نفسه على صفحتَي الدعم والسياسة.</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">اقرأ سياسة الخصوصية</a></p>
     </article>
   </div>
 </section>

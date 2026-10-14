@@ -53,7 +53,7 @@ Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreads
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Waarom reizigers ervoor kiezen</p>
     <h2 id="jf-why-title" class="marketing-section-title">Een premium reisplanner die de reis rustig houdt voordat de reis begint.</h2>
-    <p class="marketing-section-intro">Journeyfolio verandert versnipperde reisadministratie in één samenhangend reisschema. Het paginaontwerp weerspiegelt die belofte: gestructureerd, elegant en in één oogopslag eenvoudig te navigeren.</p>
+    <p class="marketing-section-intro">Journeyfolio verandert versnipperde reisadministratie in één samenhangend reisschema.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -89,7 +89,6 @@ Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreads
       <ul class="marketing-list">
         <li>Klaar voor offline gebruik wanneer je al onderweg bent</li>
         <li>Eenvoudig eigendomsmodel voor persoonlijke reisgegevens</li>
-        <li>Consistente vertrouwenshouding op marketing-, ondersteunings- en beleidspagina's</li>
       </ul>
     </article>
   </div>
@@ -98,8 +97,7 @@ Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreads
 <section class="marketing-band marketing-band--plain" aria-labelledby="jf-release-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Releasenotities</p>
-    <h2 id="jf-release-title" class="marketing-section-title">Wat er vandaag nieuw is in het marketingverhaal.</h2>
-    <p class="marketing-section-intro">De releasemodule geeft de pagina het ritme van een levend product: handig voor lanceringsaankondigingen, grote functie-updates en abonnementswijzigingen zonder de hele pagina opnieuw te ontwerpen.</p>
+    <h2 id="jf-release-title" class="marketing-section-title">Nieuw in Journeyfolio.</h2>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -215,7 +213,7 @@ Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreads
 
 <section class="marketing-cta-panel" aria-labelledby="jf-next-title">
   <h2 id="jf-next-title">Reis lichter, nog voordat je vertrekt.</h2>
-  <p>Download Journeyfolio, houd je reis op één samenhangende plek en gebruik de ondersteunings- en privacypagina's als onderdeel van diezelfde verzorgde app-reis.</p>
+  <p>Download Journeyfolio en houd je reis op één samenhangende plek.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Bezoek ondersteuning</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Lees het privacybeleid</a>

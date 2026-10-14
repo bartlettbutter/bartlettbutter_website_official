@@ -89,7 +89,6 @@ Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wann
       <ul class="marketing-list">
         <li>Openen en gaan, met niets om je voor aan te melden</li>
         <li>Locatie wordt alleen gebruikt om het weer op te halen</li>
-        <li>Een consistente vertrouwenshouding op elke pagina</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wann
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">Klaar om elke dag met vertrouwen te plannen?</h2>
-  <p>Download Solcast, bekijk direct je gepersonaliseerde dashboard en houd de ondersteunings- en privacypagina's dichtbij als onderdeel van dezelfde verzorgde app-ervaring.</p>
+  <p>Download Solcast en bekijk direct je gepersonaliseerde dashboard.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Ondersteuning bezoeken</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Privacybeleid lezen</a>

@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">旅行者為何選擇它</p>
     <h2 id="jf-why-title" class="marketing-section-title">一款高階旅行規劃工具，讓旅程在開始前就從容不迫。</h2>
-    <p class="marketing-section-intro">Journeyfolio 將零散的行程事務整合為一份井然有序的行程表。頁面設計也應體現這個承諾：結構分明、優雅，且一眼即可輕鬆瀏覽。</p>
+    <p class="marketing-section-intro">Journeyfolio 將零散的行程事務整合為一份井然有序的行程表。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>當你已在路上時可離線使用</li>
         <li>個人行程資料採用簡單的所有權模式</li>
-        <li>行銷、支援和政策頁面保持一致的信任立場</li>
       </ul>
     </article>
   </div>
@@ -98,8 +97,7 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="jf-release-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">更新說明</p>
-    <h2 id="jf-release-title" class="marketing-section-title">今日行銷內容有什麼新變化。</h2>
-    <p class="marketing-section-intro">更新模組讓頁面擁有活躍產品的節奏：適用於釋出公告、重大功能上線和訂閱調整，而無需重新設計整個頁面。</p>
+    <h2 id="jf-release-title" class="marketing-section-title">Journeyfolio 有什麼新變化。</h2>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -215,7 +213,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="jf-next-title">
   <h2 id="jf-next-title">出發前就讓旅行更輕鬆。</h2>
-  <p>下載 Journeyfolio，把你的行程放在一個井然有序的地方，並將支援和隱私頁面作為同一段精緻應用旅程的一部分。</p>
+  <p>下載 Journeyfolio，把你的行程放在一個井然有序的地方。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">訪問支援</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">閱讀隱私政策</a>

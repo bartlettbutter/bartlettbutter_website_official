@@ -55,7 +55,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Neden işe yarar</p>
     <h2 id="fl-why-title" class="marketing-section-title">İçerik bilmecesi için değil, hızlı içerik kararları için tasarlandı.</h2>
-    <p class="marketing-section-intro">Ürünün hikâyesi basit: kullanıcıyı internette arama yapmaya, elektronik tabloları karşılaştırmaya veya neyin önemli olduğunu tahmin etmeye zorlamadan kafa karıştıran bir etiketten emin bir seçime taşımak.</p>
+    <p class="marketing-section-intro">İnternette arama yapmadan, elektronik tabloları karşılaştırmadan veya neyin önemli olduğunu tahmin etmeden kafa karıştıran bir etiketten emin bir seçime geçin.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -197,15 +197,15 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Sunucu yok. Bulut yok. Takip yok.</h3>
-      <p>Fotoğraflarınız asla cihazınızdan çıkmaz. Tanıma ve analiz yerel olarak gerçekleşir; böylece ürün vaadi arayüz kadar nettir.</p>
-      <p class="marketing-price-note">Aynı gizlilik öncelikli çerçeve genel bakış, destek ve politika sayfaları boyunca taşınmalıdır.</p>
+      <p>Fotoğraflarınız asla cihazınızdan çıkmaz. Tanıma ve analiz yerel olarak gerçekleşir.</p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">
   <h2 id="fl-next-title">Etiketleri sizin için yazılmış gibi okumaya hazır mısınız?</h2>
-  <p>FormuLens'i indirin, hemen taramaya başlayın ve ihtiyaç duyduğunuzda ürün hikâyesinin geri kalanını elinizin altında tutun.</p>
+  <p>FormuLens'i indirin ve hemen taramaya başlayın.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">Desteği ziyaret edin</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">Gizlilik politikasını okuyun</a>

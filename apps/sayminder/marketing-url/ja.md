@@ -182,7 +182,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">忘れたくない最初のひと言、話してみませんか？</h2>
-  <p>Sayminder をダウンロードし、リマインダーが届くよう通知を有効にして、同じ洗練されたアプリ体験の一部としてサポートとプライバシーのページを手元に置いておきましょう。</p>
+  <p>Sayminder をダウンロードし、リマインダーが届くよう通知を有効にしましょう。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/ja/">サポートを見る</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/ja/">プライバシーポリシーを読む</a>

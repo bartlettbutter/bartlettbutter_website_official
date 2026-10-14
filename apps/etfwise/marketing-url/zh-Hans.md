@@ -196,7 +196,7 @@ redirect_from:
       <span class="marketing-price-tier">隐私姿态</span>
       <h3 class="marketing-price-summary">没有账户。没有分析。没有广告。</h3>
       <p>分析在您的设备上运行，您的数据留在您身边。仅将股票代码发送给金融数据提供商以获取实时市场价格。</p>
-      <p class="marketing-price-note">同样的隐私优先理念贯穿概览、支持和政策页面。</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">阅读隐私政策</a></p>
     </article>
   </div>
 </section>

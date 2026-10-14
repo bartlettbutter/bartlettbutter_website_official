@@ -180,7 +180,7 @@ LinkHQ उन लिंक के लिए एक शांत जगह है
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">जिन चीज़ों पर लौटना सार्थक है, उन्हें सहेजने के लिए तैयार हैं?</h2>
-  <p>शेयर शीट से अपना पहला लिंक सहेजें, शीर्षक और थंबनेल को अपने आप भरने दें, और सहायता तथा गोपनीयता पृष्ठों को पास रखें, इसी शांत और सटीक ऐप अनुभव के हिस्से के रूप में।</p>
+  <p>शेयर शीट से अपना पहला लिंक सहेजें और शीर्षक और थंबनेल को अपने आप भरने दें।</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/hi/">सहायता देखें</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/hi/">गोपनीयता नीति पढ़ें</a>

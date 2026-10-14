@@ -89,7 +89,6 @@ Solcast geht über die Vorhersage hinaus. Es sagt dir, was du anziehen sollst, w
       <ul class="marketing-list">
         <li>Öffnen und loslegen, ohne sich für etwas anmelden zu müssen</li>
         <li>Der Standort wird nur zum Abrufen des Wetters verwendet</li>
-        <li>Durchgängig vertrauenswürdige Haltung auf jeder Seite</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ Solcast geht über die Vorhersage hinaus. Es sagt dir, was du anziehen sollst, w
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">Bereit, jeden Tag mit Zuversicht zu planen?</h2>
-  <p>Lade Solcast herunter, sieh dein personalisiertes Dashboard sofort und halte die Support- und Datenschutzseiten griffbereit als Teil desselben ausgefeilten App-Erlebnisses.</p>
+  <p>Lade Solcast herunter und sieh dein personalisiertes Dashboard sofort.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Support besuchen</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Datenschutzrichtlinie lesen</a>

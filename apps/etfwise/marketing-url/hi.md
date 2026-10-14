@@ -196,7 +196,7 @@ redirect_from:
       <span class="marketing-price-tier">गोपनीयता रुख</span>
       <h3 class="marketing-price-summary">कोई खाता नहीं। कोई एनालिटिक्स नहीं। कोई विज्ञापन नहीं।</h3>
       <p>विश्लेषण आपके डिवाइस पर चलता है और आपका डेटा आपके पास ही रहता है। लाइव मार्केट कीमतें प्राप्त करने के लिए केवल टिकर प्रतीक वित्तीय डेटा प्रदाताओं को भेजे जाते हैं।</p>
-      <p class="marketing-price-note">वही गोपनीयता-प्रथम ढाँचा अवलोकन, सहायता और नीति पृष्ठों में भी चलता है।</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">गोपनीयता नीति पढ़ें</a></p>
     </article>
   </div>
 </section>

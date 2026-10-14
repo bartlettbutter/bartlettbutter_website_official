@@ -182,7 +182,7 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">Klaar om het eerste te zeggen wat je niet wilt vergeten?</h2>
-  <p>Download Sayminder, schakel meldingen in zodat herinneringen je kunnen bereiken, en houd de support- en privacypagina's dichtbij als onderdeel van dezelfde verzorgde app-ervaring.</p>
+  <p>Download Sayminder en schakel meldingen in zodat herinneringen je kunnen bereiken.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/nl/">Ga naar support</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/nl/">Lees het privacybeleid</a>

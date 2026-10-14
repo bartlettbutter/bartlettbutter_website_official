@@ -41,9 +41,9 @@ FormuLens ondersteunt 23 categorieën verdeeld over vijf groepen:
 - **Bad & Lichaam**: Douchegel, Bodyscrub, Bodylotion, Handcrème, Deodorant
 - **Parfum**: Parfum
 
-### Wat kost FormuLens?
+### Is FormuLens gratis?
 
-FormuLens is een eenmalige aankoop in de App Store, weergegeven in je lokale valuta. Geen advertenties, geen abonnement en geen account nodig. Als we later optionele premiumfuncties toevoegen, blijven de functies waar je vandaag op vertrouwt beschikbaar.
+Ja. FormuLens is gratis te downloaden en alle huidige functies zijn kosteloos beschikbaar, zonder advertenties en zonder dat een account nodig is. Als we later optionele premiumfuncties toevoegen, blijven de functies waar je vandaag op vertrouwt beschikbaar.
 
 ### Heb ik internet nodig om het te gebruiken?
 

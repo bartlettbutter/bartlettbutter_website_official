@@ -40,9 +40,9 @@ FormuLens supports 23 categories across five groups:
 - **Bath & Body**: Body Wash, Body Scrub, Body Lotion, Hand Cream, Deodorant
 - **Fragrance**: Perfume
 
-### How much does FormuLens cost?
+### Is FormuLens free?
 
-FormuLens is a one-time purchase on the App Store, shown in your local currency. There are no ads, no subscription, and no account required. If we add optional premium features later, the features you rely on today will remain available.
+Yes. FormuLens is free to download and all current features are available at no cost, with no ads and no account required. If we add optional premium features later, the features you rely on today will remain available.
 
 ### Do I need the internet to use it?
 

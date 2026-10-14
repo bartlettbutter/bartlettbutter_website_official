@@ -46,7 +46,7 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Einmalkauf für iPhone und iPad. Funktioniert unter iOS 26.2 oder neuer.</p>
+  <p class="marketing-meta-note">Kostenloser Download für iPhone und iPad. Funktioniert unter iOS 26.2 oder neuer.</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Angebot und Vertrauen</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">Einmal kaufen. Von Grund auf privat.</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">Kostenlos herunterladen. Von Grund auf privat.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Heute enthalten</span>
-      <h3 class="marketing-price-summary">Alle Kernfunktionen sind im Kauf enthalten.</h3>
-      <p>Scanne Listen, vergleiche Produkte, prüfe Routinen und speichere Analysen, ganz ohne Konto und ohne Abo.</p>
+      <h3 class="marketing-price-summary">Alle Kernfunktionen sind kostenlos verfügbar.</h3>
+      <p>Scanne Listen, vergleiche Produkte, prüfe Routinen und speichere Analysen, ohne zuerst ein Konto zu erstellen oder eine kostenpflichtige Stufe freizuschalten.</p>
       <p class="marketing-price-note">Kompatibel mit iPhone und iPad unter iOS 26.2 oder neuer.</p>
     </article>
     <article class="marketing-price-card">

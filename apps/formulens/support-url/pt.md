@@ -41,9 +41,9 @@ O FormuLens oferece suporte a 23 categorias em cinco grupos:
 - **Banho e Corpo**: Sabonete líquido, Esfoliante corporal, Loção corporal, Creme para as mãos, Desodorante
 - **Fragrância**: Perfume
 
-### Quanto custa o FormuLens?
+### O FormuLens é gratuito?
 
-O FormuLens é uma compra única na App Store, com o preço exibido na sua moeda local. Sem anúncios, sem assinatura e sem necessidade de conta. Se adicionarmos recursos premium opcionais no futuro, os recursos dos quais você depende hoje continuarão disponíveis.
+Sim. O FormuLens é gratuito para baixar e todos os recursos atuais estão disponíveis sem custo, sem anúncios e sem necessidade de conta. Se adicionarmos recursos premium opcionais no futuro, os recursos dos quais você depende hoje continuarão disponíveis.
 
 ### Preciso de internet para usar?
 

@@ -46,7 +46,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iPhone और iPad पर एक बार की ख़रीद। iOS 26.2 या बाद के संस्करण पर काम करता है।</p>
+  <p class="marketing-meta-note">iPhone और iPad पर डाउनलोड करने के लिए मुफ़्त। iOS 26.2 या बाद के संस्करण पर काम करता है।</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ redirect_from:
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">पेशकश और भरोसा</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">एक बार की ख़रीद। बनावट से ही निजी।</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">डाउनलोड करने के लिए मुफ़्त। बनावट से ही निजी।</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">आज शामिल</span>
-      <h3 class="marketing-price-summary">सभी मुख्य सुविधाएँ आपकी ख़रीद में शामिल हैं।</h3>
-      <p>लेबल स्कैन करें, उत्पादों की तुलना करें, रूटीन जाँचें, और विश्लेषण सहेजें, बिना खाते और बिना सदस्यता के।</p>
+      <h3 class="marketing-price-summary">सभी मुख्य सुविधाएँ बिना किसी शुल्क के उपलब्ध हैं।</h3>
+      <p>लेबल स्कैन करें, उत्पादों की तुलना करें, रूटीन जाँचें, और विश्लेषण सहेजें, बिना पहले खाता बनाए या कोई भुगतान वाला स्तर अनलॉक किए।</p>
       <p class="marketing-price-note">iOS 26.2 या बाद के संस्करण पर iPhone और iPad के साथ संगत।</p>
     </article>
     <article class="marketing-price-card">

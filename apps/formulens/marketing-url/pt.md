@@ -46,7 +46,7 @@ Os rótulos de ingredientes são escritos para químicos, não para você. O For
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Compra única no iPhone e iPad. Funciona no iOS 26.2 ou posterior.</p>
+  <p class="marketing-meta-note">Download gratuito no iPhone e iPad. Funciona no iOS 26.2 ou posterior.</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ Os rótulos de ingredientes são escritos para químicos, não para você. O For
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Oferta e confiança</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">Compra única. Privado por design.</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">Grátis para baixar. Privado por design.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Incluído hoje</span>
-      <h3 class="marketing-price-summary">Todos os recursos essenciais estão incluídos na sua compra.</h3>
-      <p>Escaneie rótulos, compare produtos, verifique rotinas e salve análises sem conta e sem assinatura.</p>
+      <h3 class="marketing-price-summary">Todos os recursos essenciais estão disponíveis sem custo.</h3>
+      <p>Escaneie rótulos, compare produtos, verifique rotinas e salve análises sem criar uma conta ou desbloquear um plano pago primeiro.</p>
       <p class="marketing-price-note">Compatível com iPhone e iPad no iOS 26.2 ou posterior.</p>
     </article>
     <article class="marketing-price-card">

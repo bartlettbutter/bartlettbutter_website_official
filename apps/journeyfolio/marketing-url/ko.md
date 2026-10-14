@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">여행자들이 선택하는 이유</p>
     <h2 id="jf-why-title" class="marketing-section-title">여행이 시작되기 전부터 여행을 차분하게 유지하는 프리미엄 여행 플래너.</h2>
-    <p class="marketing-section-intro">Journeyfolio는 조각난 여행 관리를 하나의 정돈된 일정으로 바꿉니다. 페이지 디자인도 그 약속을 반영해야 합니다. 체계적이고, 우아하며, 한눈에 탐색하기 쉽게.</p>
+    <p class="marketing-section-intro">Journeyfolio는 조각난 여행 관리를 하나의 정돈된 일정으로 바꿉니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>이미 이동 중일 때도 오프라인 준비 완료</li>
         <li>개인 여행 데이터에 대한 단순한 소유 모델</li>
-        <li>마케팅, 지원, 정책 페이지 전반에 걸친 일관된 신뢰 자세</li>
       </ul>
     </article>
   </div>
@@ -98,8 +97,7 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="jf-release-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">릴리스 노트</p>
-    <h2 id="jf-release-title" class="marketing-section-title">오늘 마케팅 이야기의 새로운 소식.</h2>
-    <p class="marketing-section-intro">릴리스 모듈은 페이지에 살아 있는 제품의 리듬을 부여합니다. 전체 페이지를 다시 디자인하지 않고도 출시 발표, 주요 기능 추가, 구독 변경에 유용합니다.</p>
+    <h2 id="jf-release-title" class="marketing-section-title">Journeyfolio의 새로운 소식.</h2>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -215,7 +213,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="jf-next-title">
   <h2 id="jf-next-title">떠나기 전부터, 더 가볍게 여행하세요.</h2>
-  <p>Journeyfolio를 다운로드하여 여행을 하나의 정돈된 곳에 두고, 지원 및 개인정보 페이지도 똑같이 다듬어진 앱 여정의 일부로 활용하세요.</p>
+  <p>Journeyfolio를 다운로드하여 여행을 하나의 정돈된 곳에 두세요.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">지원 방문</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">개인정보 처리방침 읽기</a>

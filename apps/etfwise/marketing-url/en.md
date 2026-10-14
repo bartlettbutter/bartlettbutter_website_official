@@ -195,7 +195,7 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recom
       <span class="marketing-price-tier">Privacy posture</span>
       <h3 class="marketing-price-summary">No accounts. No analytics. No ads.</h3>
       <p>Analysis runs on your device and your data stays with you. Only ticker symbols are sent to financial data providers to fetch live market prices.</p>
-      <p class="marketing-price-note">That same privacy-first framing carries through overview, support, and policy pages.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">Read privacy policy</a></p>
     </article>
   </div>
 </section>

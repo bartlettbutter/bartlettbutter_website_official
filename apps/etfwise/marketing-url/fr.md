@@ -196,7 +196,7 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
       <span class="marketing-price-tier">Posture de confidentialité</span>
       <h3 class="marketing-price-summary">Aucun compte. Aucune analyse. Aucune publicité.</h3>
       <p>L'analyse fonctionne sur votre appareil et vos données restent avec vous. Seuls les symboles boursiers sont envoyés aux fournisseurs de données financières pour récupérer les prix de marché en direct.</p>
-      <p class="marketing-price-note">Ce même cadrage axé sur la confidentialité se retrouve dans les pages de présentation, d'assistance et de politique.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
 </section>

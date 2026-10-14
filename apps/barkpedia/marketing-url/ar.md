@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>تبقى عمليات المسح والمفضّلات مخزّنة محليًا</li>
         <li>لا شيء للتسجيل فيه ولا شيء لدفعه</li>
-        <li>موقف ثقة ثابت عبر كل صفحة</li>
       </ul>
     </article>
   </div>
@@ -196,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">موقف الخصوصية</span>
       <h3 class="marketing-price-summary">لا رفع للصور. لا حسابات. لا تتبع.</h3>
       <p>لا تغادر صورك جهازك أبدًا. يجري التعرّف على السلالة بالكامل على جهازك، بينما تُحمَّل الملفات التعريفية للسلالات وصور الاختبار من مصادر عامة لمعلومات سلالات الكلاب دون إرفاق أي بيانات شخصية.</p>
-      <p class="marketing-price-note">يمتد إطار الخصوصية أولًا نفسه عبر صفحات النظرة العامة، والدعم، والسياسة.</p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/">قراءة سياسة الخصوصية</a></p>
     </article>
   </div>
 </section>

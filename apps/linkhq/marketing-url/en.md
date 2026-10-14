@@ -179,7 +179,7 @@ LinkHQ is a quiet place for the links you want to find again. Share a video, a p
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">Ready to keep the things worth returning to?</h2>
-  <p>Save your first link from the share sheet, let the titles and thumbnails fill in, and keep the support and privacy pages close as part of the same quietly precise app experience.</p>
+  <p>Save your first link from the share sheet and let the titles and thumbnails fill in.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/">Visit support</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/">Read privacy policy</a>

@@ -88,7 +88,6 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
       <ul class="marketing-list">
         <li>Palettes and creations stay stored locally</li>
         <li>Nothing to sign up for and nothing to pay</li>
-        <li>Consistent trust posture across every page</li>
       </ul>
     </article>
   </div>
@@ -194,8 +193,8 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacy posture</span>
       <h3 class="marketing-price-summary">No servers. No cloud. No tracking.</h3>
-      <p>Your photos never leave your device. Extraction, analysis, and every creative tool run locally, so the product promise is as clear as the interface.</p>
-      <p class="marketing-price-note">That same privacy-first framing carries through overview, support, and policy pages.</p>
+      <p>Your photos never leave your device. Extraction, analysis, and every creative tool run locally.</p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/">Read privacy policy</a></p>
     </article>
   </div>
 </section>

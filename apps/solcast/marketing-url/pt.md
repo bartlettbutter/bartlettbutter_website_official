@@ -89,7 +89,6 @@ O Solcast vai além da previsão. Ele diz o que vestir, quando levar um guarda-c
       <ul class="marketing-list">
         <li>Abra e use, sem nada para se cadastrar</li>
         <li>A localização é usada apenas para obter o clima</li>
-        <li>Postura de confiança consistente em todas as páginas</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ O Solcast vai além da previsão. Ele diz o que vestir, quando levar um guarda-c
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">Pronto para planejar cada dia com confiança?</h2>
-  <p>Baixe o Solcast, veja seu painel personalizado imediatamente e mantenha as páginas de suporte e privacidade por perto como parte da mesma experiência de aplicativo caprichada.</p>
+  <p>Baixe o Solcast e veja seu painel personalizado imediatamente.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Visitar suporte</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Ler política de privacidade</a>

@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>调色板和创作都存储在本地</li>
         <li>无需注册，也无需付费</li>
-        <li>每个页面都保持一致的信任姿态</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">隐私姿态</span>
       <h3 class="marketing-price-summary">没有服务器。没有云端。没有追踪。</h3>
-      <p>您的照片永远不会离开您的设备。提取、分析和每一种创意工具都在本地运行，所以产品承诺和界面一样清晰。</p>
-      <p class="marketing-price-note">同样的隐私优先理念贯穿概览、支持和政策页面。</p>
+      <p>您的照片永远不会离开您的设备。提取、分析和每一种创意工具都在本地运行。</p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/">阅读隐私政策</a></p>
     </article>
   </div>
 </section>

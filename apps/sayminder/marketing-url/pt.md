@@ -182,7 +182,7 @@ O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o qu�
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">Pronto para dizer a primeira coisa que você não quer esquecer?</h2>
-  <p>Baixe o Sayminder, ative os alertas para que os lembretes cheguem até você, e mantenha as páginas de suporte e privacidade por perto como parte da mesma experiência caprichada.</p>
+  <p>Baixe o Sayminder e ative os alertas para que os lembretes cheguem até você.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/pt/">Ir ao suporte</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/pt/">Ler a política de privacidade</a>

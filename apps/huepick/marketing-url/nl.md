@@ -89,7 +89,6 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
       <ul class="marketing-list">
         <li>Paletten en creaties blijven lokaal opgeslagen</li>
         <li>Niets om je voor aan te melden en niets om te betalen</li>
-        <li>Een consistente vertrouwenshouding op elke pagina</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen servers. Geen cloud. Geen tracking.</h3>
-      <p>Je foto's verlaten nooit je apparaat. Extractie, analyse en elk creatief hulpmiddel draaien lokaal, zodat de productbelofte net zo duidelijk is als de interface.</p>
-      <p class="marketing-price-note">Diezelfde privacy-first insteek loopt door op de overzichts-, ondersteunings- en beleidspagina's.</p>
+      <p>Je foto's verlaten nooit je apparaat. Extractie, analyse en elk creatief hulpmiddel draaien lokaal.</p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/">Privacybeleid lezen</a></p>
     </article>
   </div>
 </section>

@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">यात्री इसे क्यों चुनते हैं</p>
     <h2 id="jf-why-title" class="marketing-section-title">एक प्रीमियम यात्रा योजनाकार जो यात्रा शुरू होने से पहले ही उसे शांत रखता है।</h2>
-    <p class="marketing-section-intro">Journeyfolio बिखरे हुए यात्रा प्रबंधन को एक सुव्यवस्थित यात्रा-कार्यक्रम में बदल देता है। पृष्ठ का डिज़ाइन उसी वादे को दर्शाना चाहिए: संरचित, सुरुचिपूर्ण, और एक नज़र में आसानी से नेविगेट करने योग्य।</p>
+    <p class="marketing-section-intro">Journeyfolio बिखरे हुए यात्रा प्रबंधन को एक सुव्यवस्थित यात्रा-कार्यक्रम में बदल देता है।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>जब आप पहले से ही चलते-फिरते हों तब ऑफ़लाइन-तैयार</li>
         <li>व्यक्तिगत यात्रा डेटा के लिए सरल स्वामित्व मॉडल</li>
-        <li>मार्केटिंग, सहायता, और नीति पृष्ठों में एक सुसंगत भरोसे का रुख</li>
       </ul>
     </article>
   </div>
@@ -98,8 +97,7 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="jf-release-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">रिलीज़ नोट्स</p>
-    <h2 id="jf-release-title" class="marketing-section-title">आज मार्केटिंग कहानी में क्या नया है।</h2>
-    <p class="marketing-section-intro">रिलीज़ मॉड्यूल पृष्ठ को एक जीवंत-उत्पाद की लय देता है: पूरे पृष्ठ को दोबारा डिज़ाइन किए बिना लॉन्च घोषणाओं, बड़ी सुविधाओं की पेशकश, और सदस्यता बदलावों के लिए उपयोगी।</p>
+    <h2 id="jf-release-title" class="marketing-section-title">Journeyfolio में नया क्या है।</h2>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -215,7 +213,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="jf-next-title">
   <h2 id="jf-next-title">निकलने से पहले ही, हल्का यात्रा करें।</h2>
-  <p>Journeyfolio डाउनलोड करें, अपनी यात्रा को एक सुव्यवस्थित जगह पर रखें, और सहायता एवं निजता पृष्ठों को उसी परिष्कृत ऐप यात्रा के हिस्से के रूप में उपयोग करें।</p>
+  <p>Journeyfolio डाउनलोड करें और अपनी यात्रा को एक सुव्यवस्थित जगह पर रखें।</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">सहायता देखें</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">निजता नीति पढ़ें</a>

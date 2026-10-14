@@ -89,7 +89,6 @@ Solcastは予報の枠を超えます。何を着るべきか、いつ傘を持�
       <ul class="marketing-list">
         <li>サインアップ不要で、開くだけで使えます</li>
         <li>位置情報は天気を取得するためだけに使われます</li>
-        <li>すべてのページで一貫した信頼の姿勢</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ Solcastは予報の枠を超えます。何を着るべきか、いつ傘を持�
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">毎日を自信を持って計画する準備はできましたか？</h2>
-  <p>Solcastをダウンロードすると、パーソナライズされたダッシュボードがすぐに表示されます。サポートページとプライバシーページも、同じ洗練されたアプリ体験の一部としてすぐ近くに用意されています。</p>
+  <p>Solcastをダウンロードすると、パーソナライズされたダッシュボードがすぐに表示されます。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">サポートを見る</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">プライバシーポリシーを読む</a>

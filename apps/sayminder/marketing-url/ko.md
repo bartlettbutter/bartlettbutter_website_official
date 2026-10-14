@@ -182,7 +182,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">잊고 싶지 않은 첫 마디, 지금 말해 볼까요?</h2>
-  <p>Sayminder를 다운로드하고, 리마인더가 도착할 수 있도록 알림을 켜고, 같은 다듬어진 앱 경험의 일부로 지원과 개인정보 페이지를 가까이 두세요.</p>
+  <p>Sayminder를 다운로드하고, 리마인더가 도착할 수 있도록 알림을 켜세요.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/ko/">지원 보기</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/ko/">개인정보 처리방침 읽기</a>

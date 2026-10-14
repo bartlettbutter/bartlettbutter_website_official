@@ -214,7 +214,7 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
       <span class="marketing-price-tier">Postura de privacidade</span>
       <h3 class="marketing-price-summary">Sem contas na nuvem. Sem rastreamento. Sem anúncios.</h3>
       <p>O TrafficVibe nunca inventa um número e mantém seu trajeto só para você. Não há cadastro nem nada sobre você para coletar.</p>
-      <p class="marketing-price-note">Esse mesmo enfoque honesto e privado se mantém nas páginas de suporte e de política.</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Ler a política de privacidade</a></p>
     </article>
   </div>
 </section>

@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>스캔과 즐겨찾기는 로컬에 저장됩니다</li>
         <li>가입할 것도 없고 지불할 것도 없습니다</li>
-        <li>모든 페이지에서 일관된 신뢰 기조</li>
       </ul>
     </article>
   </div>
@@ -196,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">개인정보 기조</span>
       <h3 class="marketing-price-summary">업로드 없음. 계정 없음. 추적 없음.</h3>
       <p>여러분의 사진은 절대 기기를 벗어나지 않습니다. 품종 식별은 전적으로 기기에서 이루어지며, 품종 프로필과 퀴즈 사진은 공개된 견종 정보 출처에서 불러오고 개인 데이터는 전혀 포함되지 않습니다.</p>
-      <p class="marketing-price-note">같은 개인정보 우선 기조가 개요, 지원, 정책 페이지 전반에 이어집니다.</p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
 </section>

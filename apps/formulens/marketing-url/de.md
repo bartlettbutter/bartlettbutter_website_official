@@ -55,7 +55,7 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Warum es funktioniert</p>
     <h2 id="fl-why-title" class="marketing-section-title">Gemacht für schnelle Entscheidungen zu Inhaltsstoffen, nicht für Inhaltsstoff-Trivia.</h2>
-    <p class="marketing-section-intro">Die Idee ist einfach: von einer verwirrenden Liste zu einer sicheren Entscheidung, ohne im Internet zu suchen, Tabellen zu vergleichen oder zu raten, was zählt.</p>
+    <p class="marketing-section-intro">Von einer verwirrenden Liste zu einer sicheren Entscheidung, ohne im Internet zu suchen, Tabellen zu vergleichen oder zu raten, was zählt.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -197,15 +197,15 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Datenschutz</span>
       <h3 class="marketing-price-summary">Keine Server. Keine Cloud. Kein Tracking.</h3>
-      <p>Deine Fotos verlassen niemals dein Gerät. Erkennung und Analyse finden lokal statt, sodass das Produktversprechen so klar ist wie die Oberfläche.</p>
-      <p class="marketing-price-note">Dieselbe datenschutzorientierte Haltung sollte sich durch Übersichts-, Support- und Richtlinienseiten ziehen.</p>
+      <p>Deine Fotos verlassen niemals dein Gerät. Erkennung und Analyse finden lokal statt.</p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">
   <h2 id="fl-next-title">Bereit, Listen so zu lesen, als wären sie für dich geschrieben?</h2>
-  <p>Lade FormuLens herunter, beginne sofort mit dem Scannen und halte den Rest der Produktgeschichte griffbereit, wenn du sie brauchst.</p>
+  <p>Lade FormuLens herunter und beginne sofort mit dem Scannen.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">Support besuchen</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">Datenschutzrichtlinie lesen</a>

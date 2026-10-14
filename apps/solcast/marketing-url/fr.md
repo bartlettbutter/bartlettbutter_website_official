@@ -89,7 +89,6 @@ Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un
       <ul class="marketing-list">
         <li>Ouvrez et c'est parti, sans rien à quoi s'inscrire</li>
         <li>La position est utilisée uniquement pour récupérer la météo</li>
-        <li>Une posture de confiance constante sur chaque page</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">Prêt à planifier chaque journée en toute confiance ?</h2>
-  <p>Téléchargez Solcast, découvrez immédiatement votre tableau de bord personnalisé et gardez les pages d'assistance et de confidentialité à portée de main dans la même expérience d'application soignée.</p>
+  <p>Téléchargez Solcast et découvrez immédiatement votre tableau de bord personnalisé.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Voir l'assistance</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Lire la politique de confidentialité</a>

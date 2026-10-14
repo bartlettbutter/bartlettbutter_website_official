@@ -214,7 +214,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
       <span class="marketing-price-tier">Posture de confidentialité</span>
       <h3 class="marketing-price-summary">Aucun compte dans le cloud. Aucun suivi. Aucune publicité.</h3>
       <p>TrafficVibe n'invente jamais de chiffre, et garde votre trajet pour vous. Il n'y a pas d'inscription ni rien à collecter à votre sujet.</p>
-      <p class="marketing-price-note">Cette même approche honnête et privée se retrouve dans les pages d'assistance et de politique.</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
 </section>

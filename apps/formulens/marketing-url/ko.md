@@ -55,7 +55,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">작동 원리</p>
     <h2 id="fl-why-title" class="marketing-section-title">성분 상식이 아니라 빠른 성분 판단을 위해 만들어졌습니다.</h2>
-    <p class="marketing-section-intro">제품이 전하는 이야기는 단순합니다. 인터넷을 검색하거나 스프레드시트를 비교하거나 무엇이 중요한지 짐작하지 않고도, 혼란스러운 성분표에서 확신 있는 선택으로 나아가는 것입니다.</p>
+    <p class="marketing-section-intro">인터넷을 검색하거나 스프레드시트를 비교하거나 무엇이 중요한지 짐작하지 않고도, 혼란스러운 성분표에서 확신 있는 선택으로 나아가세요.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -197,15 +197,15 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">프라이버시 자세</span>
       <h3 class="marketing-price-summary">서버 없음. 클라우드 없음. 추적 없음.</h3>
-      <p>당신의 사진은 절대 기기를 벗어나지 않습니다. 인식과 분석이 로컬에서 이루어지므로, 제품의 약속이 인터페이스만큼이나 명확합니다.</p>
-      <p class="marketing-price-note">동일한 프라이버시 우선 관점이 개요, 지원, 정책 페이지 전반에 이어져야 합니다.</p>
+      <p>당신의 사진은 절대 기기를 벗어나지 않습니다. 인식과 분석은 로컬에서 이루어집니다.</p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">
   <h2 id="fl-next-title">성분표를 당신을 위해 쓰인 것처럼 읽을 준비가 되셨나요?</h2>
-  <p>FormuLens를 다운로드하고 바로 스캔을 시작하세요. 그리고 필요할 때 나머지 제품 이야기를 가까이에 두세요.</p>
+  <p>FormuLens를 다운로드하고 바로 스캔을 시작하세요.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">지원 방문</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">개인정보 처리방침 읽기</a>

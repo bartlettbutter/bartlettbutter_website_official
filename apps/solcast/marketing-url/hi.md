@@ -89,7 +89,6 @@ Solcast पूर्वानुमान से आगे जाता है�
       <ul class="marketing-list">
         <li>बिना किसी साइन-अप के खोलें और चल पड़ें</li>
         <li>स्थान का उपयोग केवल मौसम प्राप्त करने के लिए होता है</li>
-        <li>हर पृष्ठ पर एक जैसा भरोसेमंद रुख</li>
       </ul>
     </article>
   </div>
@@ -212,7 +211,7 @@ Solcast पूर्वानुमान से आगे जाता है�
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">हर दिन की योजना आत्मविश्वास के साथ बनाने के लिए तैयार हैं?</h2>
-  <p>Solcast डाउनलोड करें, तुरंत अपना वैयक्तिकृत डैशबोर्ड देखें, और उसी परिष्कृत ऐप अनुभव के हिस्से के रूप में सहायता व गोपनीयता पृष्ठों को पास रखें।</p>
+  <p>Solcast डाउनलोड करें और तुरंत अपना वैयक्तिकृत डैशबोर्ड देखें।</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">सहायता पर जाएँ</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">गोपनीयता नीति पढ़ें</a>

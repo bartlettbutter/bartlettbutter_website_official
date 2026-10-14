@@ -196,7 +196,7 @@ redirect_from:
       <span class="marketing-price-tier">موقف الخصوصية</span>
       <h3 class="marketing-price-summary">لا حسابات. لا تحليلات. لا إعلانات.</h3>
       <p>يعمل التحليل على جهازك وتبقى بياناتك معك. تُرسَل رموز المؤشرات فقط إلى مزوّدي البيانات المالية لجلب أسعار السوق المباشرة.</p>
-      <p class="marketing-price-note">يمتد إطار الخصوصية أولًا نفسه عبر صفحات النظرة العامة والدعم والسياسة.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">اقرأ سياسة الخصوصية</a></p>
     </article>
   </div>
 </section>

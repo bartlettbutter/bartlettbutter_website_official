@@ -63,7 +63,7 @@ Evet, isteğe bağlı olarak. Sistem takvimi etkinliklerinizi Bugünün Özeti'n
 
 ### Sayminder iPad'de çalışır mı?
 
-Evet. Sayminder hem iPhone hem de iPad için optimize edilmiştir ve daha büyük ekran için uyarlanabilir bir düzene sahiptir. Simülatörde mikrofon bulunmadığından, tam sesli deneyim için fiziksel bir cihaz önerilir.
+Evet. Sayminder hem iPhone hem de iPad için optimize edilmiştir ve daha büyük ekran için uyarlanabilir bir düzene sahiptir.
 
 ## İzinler
 

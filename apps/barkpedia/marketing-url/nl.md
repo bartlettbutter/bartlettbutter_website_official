@@ -89,7 +89,6 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
       <ul class="marketing-list">
         <li>Scans en favorieten blijven lokaal opgeslagen</li>
         <li>Niets om je voor aan te melden en niets om te betalen</li>
-        <li>Een consistente vertrouwenshouding op elke pagina</li>
       </ul>
     </article>
   </div>
@@ -196,7 +195,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen uploads. Geen accounts. Geen tracking.</h3>
       <p>Je foto's verlaten nooit je apparaat. Rasherkenning gebeurt volledig op je apparaat, terwijl rasprofielen en quizfoto's worden geladen uit openbare bronnen over hondenrassen, zonder persoonsgegevens.</p>
-      <p class="marketing-price-note">Diezelfde privacy-first insteek loopt door op de overzichts-, ondersteunings- en beleidspagina's.</p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Privacybeleid lezen</a></p>
     </article>
   </div>
 </section>

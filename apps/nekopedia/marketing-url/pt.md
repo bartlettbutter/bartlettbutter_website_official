@@ -89,7 +89,6 @@ Tire uma foto de qualquer gato e o Nekopedia dá nome à raça e, em seguida, ab
       <ul class="marketing-list">
         <li>Escaneamentos e favoritos ficam armazenados localmente</li>
         <li>Nada para se cadastrar e nada a pagar</li>
-        <li>Postura de confiança consistente em todas as páginas</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ Tire uma foto de qualquer gato e o Nekopedia dá nome à raça e, em seguida, ab
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Postura de privacidade</span>
       <h3 class="marketing-price-summary">Sem uploads. Sem nuvem. Sem rastreamento.</h3>
-      <p>Suas fotos nunca saem do seu dispositivo. A identificação de raças roda inteiramente no dispositivo, e os recursos online só baixam fotos e fatos públicos sobre gatos, então a promessa do produto é tão clara quanto a interface.</p>
-      <p class="marketing-price-note">Esse mesmo enfoque na privacidade se estende às páginas de visão geral, suporte e políticas.</p>
+      <p>Suas fotos nunca saem do seu dispositivo. A identificação de raças roda inteiramente no dispositivo, e os recursos online só baixam fotos e fatos públicos sobre gatos.</p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Ler política de privacidade</a></p>
     </article>
   </div>
 </section>

@@ -196,7 +196,7 @@ redirect_from:
       <span class="marketing-price-tier">プライバシーへの姿勢</span>
       <h3 class="marketing-price-summary">アカウントなし。分析トラッキングなし。広告なし。</h3>
       <p>分析はあなたのデバイス上で実行され、データはあなたの手元に留まります。リアルタイムの市場価格を取得するために金融データプロバイダーに送信されるのはティッカーシンボルのみです。</p>
-      <p class="marketing-price-note">この同じプライバシー最優先の姿勢は、概要、サポート、ポリシーの各ページにも一貫して貫かれています。</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
 </section>

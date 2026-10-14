@@ -213,7 +213,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
       <span class="marketing-price-tier">Privacy posture</span>
       <h3 class="marketing-price-summary">No cloud accounts. No tracking. No ads.</h3>
       <p>TrafficVibe never invents a number, and it keeps your commute to yourself. There's no sign-up and nothing about you to collect.</p>
-      <p class="marketing-price-note">That same honest, private framing carries through the support and policy pages.</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Read privacy policy</a></p>
     </article>
   </div>
 </section>

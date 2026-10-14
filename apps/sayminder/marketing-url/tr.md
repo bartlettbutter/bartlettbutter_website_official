@@ -182,7 +182,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">Unutmak istemediğiniz ilk şeyi söylemeye hazır mısınız?</h2>
-  <p>Sayminder'ı indirin, hatırlatıcıların size ulaşabilmesi için uyarıları etkinleştirin ve aynı özenli uygulama deneyiminin parçası olarak destek ve gizlilik sayfalarını yakınınızda tutun.</p>
+  <p>Sayminder'ı indirin ve hatırlatıcıların size ulaşabilmesi için uyarıları etkinleştirin.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/tr/">Desteğe git</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/tr/">Gizlilik politikasını oku</a>

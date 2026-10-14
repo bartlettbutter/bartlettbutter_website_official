@@ -89,7 +89,6 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
       <ul class="marketing-list">
         <li>Taramalar ve favoriler yerel olarak saklanır</li>
         <li>Kayıt olacak hiçbir şey ve ödenecek hiçbir şey yok</li>
-        <li>Her sayfada tutarlı bir güven duruşu</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Fotoğraf yükleme yok. Bulut yok. İzleme yok.</h3>
-      <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Irk tanıma tamamen cihaz üzerinde çalışır ve çevrimiçi özellikler yalnızca herkese açık kedi fotoğraflarını ve bilgilerini getirir, böylece ürün vaadi arayüz kadar net olur.</p>
-      <p class="marketing-price-note">Aynı gizlilik öncelikli çerçeve genel bakış, destek ve politika sayfalarında da devam eder.</p>
+      <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Irk tanıma tamamen cihaz üzerinde çalışır ve çevrimiçi özellikler yalnızca herkese açık kedi fotoğraflarını ve bilgilerini getirir.</p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
 </section>

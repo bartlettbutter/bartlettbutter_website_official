@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">旅行者が選ぶ理由</p>
     <h2 id="jf-why-title" class="marketing-section-title">旅が始まる前から旅を穏やかに保つ、プレミアムな旅行プランナー。</h2>
-    <p class="marketing-section-intro">Journeyfolioは、バラバラの旅行の手配を1つの整った旅程にまとめます。ページのデザインもその約束を映すべきです。構造的で、洗練され、一目でたどりやすいものに。</p>
+    <p class="marketing-section-intro">Journeyfolioは、バラバラの旅行の手配を1つの整った旅程にまとめます。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>すでに移動中でもオフラインで使える</li>
         <li>個人の旅行データに対するシンプルな所有モデル</li>
-        <li>マーケティング、サポート、ポリシーの各ページで一貫した信頼の姿勢</li>
       </ul>
     </article>
   </div>
@@ -98,8 +97,7 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="jf-release-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">リリースノート</p>
-    <h2 id="jf-release-title" class="marketing-section-title">今日のマーケティングストーリーの新着情報。</h2>
-    <p class="marketing-section-intro">リリースモジュールはページに生きた製品のリズムを与えます。ページ全体を作り直すことなく、ローンチ告知、主要な機能追加、サブスクリプションの変更を伝えるのに便利です。</p>
+    <h2 id="jf-release-title" class="marketing-section-title">Journeyfolioの新着情報。</h2>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -215,7 +213,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="jf-next-title">
   <h2 id="jf-next-title">出発する前から、より軽やかに旅を。</h2>
-  <p>Journeyfolioをダウンロードして、旅を1つの整った場所にまとめましょう。サポートとプライバシーのページも、同じ洗練されたアプリ体験の一部としてご活用ください。</p>
+  <p>Journeyfolioをダウンロードして、旅を1つの整った場所にまとめましょう。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">サポートを見る</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">プライバシーポリシーを読む</a>

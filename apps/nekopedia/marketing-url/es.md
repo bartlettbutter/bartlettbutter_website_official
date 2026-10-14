@@ -89,7 +89,6 @@ Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la hi
       <ul class="marketing-list">
         <li>Los escaneos y favoritos se guardan localmente</li>
         <li>Nada que registrar y nada que pagar</li>
-        <li>La misma postura de confianza en todas las páginas</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la hi
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Postura de privacidad</span>
       <h3 class="marketing-price-summary">Sin subidas. Sin nube. Sin rastreo.</h3>
-      <p>Tus fotos nunca salen de tu dispositivo. La identificación de razas se realiza íntegramente en el dispositivo y las funciones en línea solo descargan fotos y datos públicos de gatos, así que la promesa del producto es tan clara como la interfaz.</p>
-      <p class="marketing-price-note">Ese mismo enfoque de privacidad ante todo se mantiene en las páginas de resumen, soporte y políticas.</p>
+      <p>Tus fotos nunca salen de tu dispositivo. La identificación de razas se realiza íntegramente en el dispositivo y las funciones en línea solo descargan fotos y datos públicos de gatos.</p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Leer política de privacidad</a></p>
     </article>
   </div>
 </section>

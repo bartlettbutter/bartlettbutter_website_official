@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">隐私立场</span>
       <h3 class="marketing-price-summary">无云端账户。无追踪。无广告。</h3>
       <p>TrafficVibe 绝不编造数字，并把你的通勤留给你自己。没有注册，也没有关于你的任何信息可供收集。</p>
-      <p class="marketing-price-note">同样诚实、注重隐私的理念贯穿于支持页和政策页。</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">阅读隐私政策</a></p>
     </article>
   </div>
 </section>

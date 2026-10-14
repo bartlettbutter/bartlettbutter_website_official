@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>扫描结果和收藏都存储在本地</li>
         <li>无需注册，也无需付费</li>
-        <li>每个页面都保持一致的信任姿态</li>
       </ul>
     </article>
   </div>
@@ -196,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">隐私姿态</span>
       <h3 class="marketing-price-summary">不上传。无需账户。没有追踪。</h3>
       <p>您的照片永远不会离开您的设备。品种识别完全在设备上进行，品种资料和测验照片则从公开的犬种资料来源加载，不附带任何个人数据。</p>
-      <p class="marketing-price-note">同样的隐私优先理念贯穿概览、支持和政策页面。</p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/">阅读隐私政策</a></p>
     </article>
   </div>
 </section>

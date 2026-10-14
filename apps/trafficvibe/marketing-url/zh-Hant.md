@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">隱私立場</span>
       <h3 class="marketing-price-summary">無雲端帳戶。無追蹤。無廣告。</h3>
       <p>TrafficVibe 絕不捏造數字，並把你的通勤留給你自己。沒有註冊，也沒有關於你的任何資訊可供收集。</p>
-      <p class="marketing-price-note">同樣誠實、注重隱私的理念貫穿於支援頁和政策頁。</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">閱讀隱私政策</a></p>
     </article>
   </div>
 </section>

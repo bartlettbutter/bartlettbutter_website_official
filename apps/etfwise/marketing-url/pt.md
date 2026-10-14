@@ -196,7 +196,7 @@ Pare de percorrer tickers intermináveis. O ETFWise oferece recomendações diá
       <span class="marketing-price-tier">Postura de privacidade</span>
       <h3 class="marketing-price-summary">Sem contas. Sem análises. Sem anúncios.</h3>
       <p>A análise roda no seu dispositivo e seus dados permanecem com você. Apenas os símbolos dos tickers são enviados aos provedores de dados financeiros para obter preços de mercado ao vivo.</p>
-      <p class="marketing-price-note">Esse mesmo enfoque na privacidade se estende às páginas de visão geral, suporte e políticas.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">Ler política de privacidade</a></p>
     </article>
   </div>
 </section>

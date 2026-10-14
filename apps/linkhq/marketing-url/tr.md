@@ -180,7 +180,7 @@ LinkHQ, yeniden bulmak istediğiniz bağlantılar için sakin bir yer. Bir video
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">Geri dönmeye değer şeyleri saklamaya hazır mısınız?</h2>
-  <p>İlk bağlantınızı paylaşım sayfasından kaydedin, başlıkların ve küçük resimlerin dolmasını izleyin ve aynı sakin ve hassas uygulama deneyiminin parçası olarak destek ve gizlilik sayfalarını yakın tutun.</p>
+  <p>İlk bağlantınızı paylaşım sayfasından kaydedin ve başlıkların ve küçük resimlerin dolmasını izleyin.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/tr/">Desteğe git</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/tr/">Gizlilik politikasını oku</a>

@@ -89,7 +89,6 @@ redirect_from:
       <ul class="marketing-list">
         <li>掃描與收藏都儲存在本機</li>
         <li>無需註冊，也無需付費</li>
-        <li>每個頁面都保持一致的信任姿態</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">隱私姿態</span>
       <h3 class="marketing-price-summary">不上傳照片。沒有雲端。沒有追蹤。</h3>
-      <p>您的照片永遠不會離開您的裝置。品種識別完全在本機完成，連網功能只會取得公開的貓咪照片與趣聞，因此產品的承諾就如同介面一樣清晰。</p>
-      <p class="marketing-price-note">同樣以隱私為先的理念貫穿概覽、支援與政策頁面。</p>
+      <p>您的照片永遠不會離開您的裝置。品種識別完全在本機完成，連網功能只會取得公開的貓咪照片與趣聞。</p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/">閱讀隱私政策</a></p>
     </article>
   </div>
 </section>

@@ -89,7 +89,6 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
       <ul class="marketing-list">
         <li>Les scans et favoris restent stockés localement</li>
         <li>Rien à quoi s'inscrire et rien à payer</li>
-        <li>Une posture de confiance constante sur chaque page</li>
       </ul>
     </article>
   </div>
@@ -196,7 +195,7 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
       <span class="marketing-price-tier">Posture de confidentialité</span>
       <h3 class="marketing-price-summary">Aucun envoi. Aucun compte. Aucun suivi.</h3>
       <p>Vos photos ne quittent jamais votre appareil. L'identification de la race s'effectue entièrement sur l'appareil, tandis que les profils de races et les photos du quiz sont chargés depuis des sources publiques sur les races de chiens, sans aucune donnée personnelle.</p>
-      <p class="marketing-price-note">Ce même cadrage axé sur la confidentialité se retrouve dans les pages de présentation, d'assistance et de politique.</p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
 </section>

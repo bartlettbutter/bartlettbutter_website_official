@@ -89,7 +89,6 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
       <ul class="marketing-list">
         <li>Paletten und Kreationen bleiben lokal gespeichert</li>
         <li>Nichts zum Anmelden und nichts zu bezahlen</li>
-        <li>Konsistente Vertrauenshaltung auf jeder Seite</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Datenschutzhaltung</span>
       <h3 class="marketing-price-summary">Keine Server. Keine Cloud. Kein Tracking.</h3>
-      <p>Deine Fotos verlassen niemals dein Gerät. Extraktion, Analyse und jedes kreative Werkzeug laufen lokal, sodass das Produktversprechen so klar ist wie die Oberfläche.</p>
-      <p class="marketing-price-note">Dieselbe datenschutzorientierte Ausrichtung zieht sich durch Übersichts-, Support- und Richtlinienseiten.</p>
+      <p>Deine Fotos verlassen niemals dein Gerät. Extraktion, Analyse und jedes kreative Werkzeug laufen lokal.</p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
 </section>

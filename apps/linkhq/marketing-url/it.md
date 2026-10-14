@@ -180,7 +180,7 @@ LinkHQ è un luogo tranquillo per i link che vuoi ritrovare. Condividi un video,
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">Pronto a conservare ciò a cui vale la pena tornare?</h2>
-  <p>Salva il tuo primo link dal foglio di condivisione, lascia che titoli e miniature si compilino, e tieni vicine le pagine di assistenza e privacy, come parte della stessa esperienza d'app calma e precisa.</p>
+  <p>Salva il tuo primo link dal foglio di condivisione e lascia che titoli e miniature si compilino.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/it/">Vai all'assistenza</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/it/">Leggi l'informativa sulla privacy</a>

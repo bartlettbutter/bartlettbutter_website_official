@@ -53,7 +53,7 @@ Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciat
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Perché i viaggiatori lo scelgono</p>
     <h2 id="jf-why-title" class="marketing-section-title">Un pianificatore di viaggi premium che mantiene il viaggio sereno prima ancora che inizi.</h2>
-    <p class="marketing-section-intro">Journeyfolio trasforma la frammentata gestione del viaggio in un unico itinerario ben composto. Il design della pagina rispecchia questa promessa: strutturato, elegante e facile da consultare a colpo d'occhio.</p>
+    <p class="marketing-section-intro">Journeyfolio trasforma la frammentata gestione del viaggio in un unico itinerario ben composto.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -89,7 +89,6 @@ Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciat
       <ul class="marketing-list">
         <li>Pronto offline quando sei già in movimento</li>
         <li>Modello di proprietà semplice per i dati personali del viaggio</li>
-        <li>Un approccio alla fiducia coerente tra le pagine di marketing, supporto e informativa</li>
       </ul>
     </article>
   </div>
@@ -98,8 +97,7 @@ Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciat
 <section class="marketing-band marketing-band--plain" aria-labelledby="jf-release-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Note di rilascio</p>
-    <h2 id="jf-release-title" class="marketing-section-title">Le novità nella storia di marketing di oggi.</h2>
-    <p class="marketing-section-intro">Il modulo dei rilasci dà alla pagina un ritmo da prodotto vivo: utile per annunci di lancio, importanti novità sulle funzioni e cambiamenti degli abbonamenti senza riprogettare l'intera pagina.</p>
+    <h2 id="jf-release-title" class="marketing-section-title">Le novità di Journeyfolio.</h2>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -215,7 +213,7 @@ Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciat
 
 <section class="marketing-cta-panel" aria-labelledby="jf-next-title">
   <h2 id="jf-next-title">Viaggia più leggero, ancora prima di partire.</h2>
-  <p>Scarica Journeyfolio, tieni il tuo viaggio in un unico posto ben composto e usa le pagine di supporto e privacy come parte della stessa curata esperienza dell'app.</p>
+  <p>Scarica Journeyfolio e tieni il tuo viaggio in un unico posto ben composto.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Visita il supporto</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Leggi l'informativa sulla privacy</a>

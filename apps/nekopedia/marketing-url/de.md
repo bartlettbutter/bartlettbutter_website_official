@@ -89,7 +89,6 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
       <ul class="marketing-list">
         <li>Scans und Favoriten bleiben lokal gespeichert</li>
         <li>Nichts, wofür man sich anmelden muss, und nichts zu bezahlen</li>
-        <li>Konsequente Vertrauenshaltung auf jeder Seite</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Datenschutzhaltung</span>
       <h3 class="marketing-price-summary">Keine Uploads. Keine Cloud. Kein Tracking.</h3>
-      <p>Deine Fotos verlassen niemals dein Gerät. Die Rassenerkennung läuft vollständig auf dem Gerät, und Online-Funktionen laden nur öffentliche Katzenfotos und -fakten, damit das Produktversprechen so klar ist wie die Oberfläche.</p>
-      <p class="marketing-price-note">Dieselbe datenschutzorientierte Ausrichtung zieht sich durch Übersichts-, Support- und Richtlinienseiten.</p>
+      <p>Deine Fotos verlassen niemals dein Gerät. Die Rassenerkennung läuft vollständig auf dem Gerät, und Online-Funktionen laden nur öffentliche Katzenfotos und -fakten.</p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
 </section>

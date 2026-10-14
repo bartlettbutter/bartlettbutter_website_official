@@ -182,7 +182,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">Prêt à dire la première chose que vous ne voulez pas oublier ?</h2>
-  <p>Téléchargez Sayminder, activez les alertes pour que les rappels puissent vous parvenir, et gardez à portée les pages d'assistance et de confidentialité, dans la continuité d'une expérience soignée.</p>
+  <p>Téléchargez Sayminder et activez les alertes pour que les rappels puissent vous parvenir.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/fr/">Accéder à l'assistance</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/fr/">Lire la politique de confidentialité</a>

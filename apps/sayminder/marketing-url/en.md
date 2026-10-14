@@ -181,7 +181,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">Ready to say the first thing you don't want to forget?</h2>
-  <p>Download Sayminder, enable alerts so reminders can reach you, and keep the support and privacy pages close as part of the same polished app experience.</p>
+  <p>Download Sayminder and enable alerts so reminders can reach you.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/">Visit support</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/">Read privacy policy</a>

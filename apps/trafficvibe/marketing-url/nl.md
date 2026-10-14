@@ -214,7 +214,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen cloudaccounts. Geen tracking. Geen advertenties.</h3>
       <p>TrafficVibe verzint nooit een cijfer en houdt je woon-werkrit voor jou. Er is geen aanmelding en niets over jou om te verzamelen.</p>
-      <p class="marketing-price-note">Dezelfde eerlijke, privacyvriendelijke insteek loopt door op de support- en beleidspagina's.</p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Lees het privacybeleid</a></p>
     </article>
   </div>
 </section>

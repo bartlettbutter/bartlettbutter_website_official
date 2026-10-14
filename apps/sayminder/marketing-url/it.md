@@ -182,7 +182,7 @@ Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di
 
 <section class="marketing-cta-panel" aria-labelledby="sy-next-title">
   <h2 id="sy-next-title">Pronto a dire la prima cosa che non vuoi dimenticare?</h2>
-  <p>Scarica Sayminder, attiva gli avvisi così i promemoria possono raggiungerti, e tieni a portata le pagine di supporto e privacy come parte della stessa esperienza curata.</p>
+  <p>Scarica Sayminder e attiva gli avvisi così i promemoria possono raggiungerti.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/sayminder/support/it/">Vai al supporto</a>
     <a class="marketing-inline-link" href="/sayminder/privacy/it/">Leggi l'informativa sulla privacy</a>

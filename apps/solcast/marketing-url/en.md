@@ -88,7 +88,6 @@ Solcast goes beyond the forecast. It tells you what to wear, when to bring an um
       <ul class="marketing-list">
         <li>Open and go with nothing to sign up for</li>
         <li>Location is used only to fetch weather</li>
-        <li>Consistent trust posture across every page</li>
       </ul>
     </article>
   </div>
@@ -211,7 +210,7 @@ Solcast goes beyond the forecast. It tells you what to wear, when to bring an um
 
 <section class="marketing-cta-panel" aria-labelledby="sc-next-title">
   <h2 id="sc-next-title">Ready to plan every day with confidence?</h2>
-  <p>Download Solcast, see your personalized dashboard immediately, and keep the support and privacy pages close as part of the same polished app experience.</p>
+  <p>Download Solcast and see your personalized dashboard immediately.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Visit support</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Read privacy policy</a>

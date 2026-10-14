@@ -55,7 +55,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Почему это работает</p>
     <h2 id="fl-why-title" class="marketing-section-title">Создано для быстрых решений о составе, а не для заучивания фактов об ингредиентах.</h2>
-    <p class="marketing-section-intro">Идея продукта проста: перейти от запутанной этикетки к уверенному выбору, не заставляя вас искать в интернете, сравнивать таблицы или угадывать, что важно.</p>
+    <p class="marketing-section-intro">Переходите от запутанной этикетки к уверенному выбору, не ища в интернете, не сравнивая таблицы и не угадывая, что важно.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -197,15 +197,15 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Подход к приватности</span>
       <h3 class="marketing-price-summary">Без серверов. Без облака. Без отслеживания.</h3>
-      <p>Ваши фотографии никогда не покидают устройство. Распознавание и анализ происходят локально, поэтому обещание продукта так же ясно, как и интерфейс.</p>
-      <p class="marketing-price-note">Тот же приоритет приватности должен проходить через страницы обзора, поддержки и политики.</p>
+      <p>Ваши фотографии никогда не покидают устройство. Распознавание и анализ происходят локально.</p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/">Читать политику конфиденциальности</a></p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">
   <h2 id="fl-next-title">Готовы читать этикетки так, будто их написали для вас?</h2>
-  <p>Скачайте FormuLens, начните сканировать сразу же и держите остальную часть истории продукта под рукой, когда она вам понадобится.</p>
+  <p>Скачайте FormuLens и начните сканировать сразу же.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/formulens/support/">Перейти в поддержку</a>
     <a class="marketing-inline-link" href="/formulens/privacy/">Читать политику конфиденциальности</a>

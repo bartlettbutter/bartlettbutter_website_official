@@ -89,7 +89,6 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
       <ul class="marketing-list">
         <li>Les scans et favoris restent stockés localement</li>
         <li>Rien à quoi s'inscrire et rien à payer</li>
-        <li>Une posture de confiance constante sur chaque page</li>
       </ul>
     </article>
   </div>
@@ -195,8 +194,8 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Posture de confidentialité</span>
       <h3 class="marketing-price-summary">Aucun envoi. Aucun cloud. Aucun suivi.</h3>
-      <p>Vos photos ne quittent jamais votre appareil. L'identification des races s'effectue entièrement sur l'appareil, et les fonctions en ligne ne récupèrent que des photos et faits publics sur les chats, donc la promesse du produit est aussi claire que l'interface.</p>
-      <p class="marketing-price-note">Ce même cadrage axé sur la confidentialité se retrouve dans les pages de présentation, d'assistance et de politique.</p>
+      <p>Vos photos ne quittent jamais votre appareil. L'identification des races s'effectue entièrement sur l'appareil, et les fonctions en ligne ne récupèrent que des photos et faits publics sur les chats.</p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
 </section>

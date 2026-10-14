@@ -88,7 +88,6 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
       <ul class="marketing-list">
         <li>Scans and favorites stay stored locally</li>
         <li>Nothing to sign up for and nothing to pay</li>
-        <li>Consistent trust posture across every page</li>
       </ul>
     </article>
   </div>
@@ -195,7 +194,7 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
       <span class="marketing-price-tier">Privacy posture</span>
       <h3 class="marketing-price-summary">No uploads. No accounts. No tracking.</h3>
       <p>Your photos never leave your device. Breed identification runs entirely on-device, while breed profiles and quiz photos load from public dog-breed sources with no personal data attached.</p>
-      <p class="marketing-price-note">That same privacy-first framing carries through overview, support, and policy pages.</p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Read privacy policy</a></p>
     </article>
   </div>
 </section>

@@ -196,7 +196,7 @@ Smetti di scorrere ticker infiniti. ETFWise offre raccomandazioni giornaliere su
       <span class="marketing-price-tier">Approccio alla privacy</span>
       <h3 class="marketing-price-summary">Nessun account. Nessuna analisi. Nessuna pubblicità.</h3>
       <p>L'analisi funziona sul tuo dispositivo e i tuoi dati restano con te. Solo i simboli ticker vengono inviati ai fornitori di dati finanziari per recuperare i prezzi di mercato in tempo reale.</p>
-      <p class="marketing-price-note">Lo stesso approccio incentrato sulla privacy si ritrova nelle pagine di panoramica, supporto e policy.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/">Leggi l'informativa sulla privacy</a></p>
     </article>
   </div>
 </section>

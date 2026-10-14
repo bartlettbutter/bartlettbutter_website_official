@@ -89,7 +89,6 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
       <ul class="marketing-list">
         <li>Scans und Favoriten bleiben lokal gespeichert</li>
         <li>Nichts, wofür man sich anmelden muss, und nichts zu bezahlen</li>
-        <li>Konsequente Vertrauensbasis auf jeder Seite</li>
       </ul>
     </article>
   </div>
@@ -196,7 +195,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
       <span class="marketing-price-tier">Datenschutz-Haltung</span>
       <h3 class="marketing-price-summary">Keine Uploads. Keine Konten. Kein Tracking.</h3>
       <p>Deine Fotos verlassen niemals dein Gerät. Die Rassenerkennung läuft vollständig auf dem Gerät, während Rassenprofile und Quizfotos aus öffentlichen Hunderassen-Quellen geladen werden, und zwar ohne persönliche Daten.</p>
-      <p class="marketing-price-note">Dieselbe Datenschutz-zuerst-Haltung zieht sich durch Übersichts-, Support- und Richtlinienseiten.</p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
 </section>

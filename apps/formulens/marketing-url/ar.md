@@ -46,7 +46,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">شراء لمرة واحدة على iPhone و iPad. يعمل على iOS 26.2 أو أحدث.</p>
+  <p class="marketing-meta-note">مجّاني للتنزيل على iPhone و iPad. يعمل على iOS 26.2 أو أحدث.</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ redirect_from:
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">العرض والثقة</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">شراء لمرة واحدة. خاص بحكم التصميم.</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">مجّاني للتنزيل. خاص بحكم التصميم.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">متاح اليوم</span>
-      <h3 class="marketing-price-summary">جميع الميزات الأساسية مشمولة في عملية الشراء.</h3>
-      <p>امسح الملصقات، وقارن بين المنتجات، وتحقّق من الروتين، واحفظ التحليلات دون حساب ودون اشتراك.</p>
+      <h3 class="marketing-price-summary">جميع الميزات الأساسية متاحة دون أي تكلفة.</h3>
+      <p>امسح الملصقات، وقارن بين المنتجات، وتحقّق من الروتين، واحفظ التحليلات دون إنشاء حساب أو فتح باقة مدفوعة أولًا.</p>
       <p class="marketing-price-note">متوافق مع iPhone و iPad على iOS 26.2 أو أحدث.</p>
     </article>
     <article class="marketing-price-card">

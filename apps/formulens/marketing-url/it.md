@@ -46,7 +46,7 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Acquisto unico su iPhone e iPad. Funziona su iOS 26.2 o successivo.</p>
+  <p class="marketing-meta-note">Gratis da scaricare su iPhone e iPad. Funziona su iOS 26.2 o successivo.</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Offerta e fiducia</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">Acquisto unico. Privato per natura.</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">Gratis da scaricare. Privato per natura.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Incluso oggi</span>
-      <h3 class="marketing-price-summary">Tutte le funzioni principali sono incluse nell'acquisto.</h3>
-      <p>Scansiona etichette, confronta prodotti, controlla routine e salva analisi senza account e senza abbonamento.</p>
+      <h3 class="marketing-price-summary">Tutte le funzioni principali sono disponibili senza alcun costo.</h3>
+      <p>Scansiona etichette, confronta prodotti, controlla routine e salva analisi senza creare un account o sbloccare prima un piano a pagamento.</p>
       <p class="marketing-price-note">Compatibile con iPhone e iPad su iOS 26.2 o successivo.</p>
     </article>
     <article class="marketing-price-card">

@@ -46,7 +46,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iPhoneおよびiPad向けの買い切りアプリ。iOS 26.2以降で動作します。</p>
+  <p class="marketing-meta-note">iPhoneおよびiPadで無料ダウンロード。iOS 26.2以降で動作します。</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ redirect_from:
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">提供内容と信頼</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">買い切り。設計段階からプライベート。</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">ダウンロードは無料。設計段階からプライベート。</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">今日から利用可能</span>
-      <h3 class="marketing-price-summary">すべてのコア機能が購入に含まれています。</h3>
-      <p>アカウントもサブスクリプションも不要で、ラベルのスキャン、製品の比較、ルーティンのチェック、分析の保存ができます。</p>
+      <h3 class="marketing-price-summary">すべてのコア機能を無料でご利用いただけます。</h3>
+      <p>アカウントを作成したり有料プランを解放したりせずに、ラベルのスキャン、製品の比較、ルーティンのチェック、分析の保存ができます。</p>
       <p class="marketing-price-note">iOS 26.2以降のiPhoneおよびiPadに対応。</p>
     </article>
     <article class="marketing-price-card">

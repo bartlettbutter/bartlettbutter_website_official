@@ -46,7 +46,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iPhone 和 iPad 上一次性购买。适用于 iOS 26.2 或更高版本。</p>
+  <p class="marketing-meta-note">在 iPhone 和 iPad 上免费下载。适用于 iOS 26.2 或更高版本。</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ redirect_from:
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">价格与信任</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">一次购买。隐私为本。</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">免费下载。隐私为本。</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">现已包含</span>
-      <h3 class="marketing-price-summary">所有核心功能均包含在购买中。</h3>
-      <p>扫描标签、对比产品、检查护肤流程并保存分析结果，无需账户，也无需订阅。</p>
+      <h3 class="marketing-price-summary">所有核心功能均可免费使用。</h3>
+      <p>扫描标签、对比产品、检查护肤流程并保存分析结果，无需先创建账户或解锁付费版本。</p>
       <p class="marketing-price-note">兼容 iOS 26.2 或更高版本的 iPhone 和 iPad。</p>
     </article>
     <article class="marketing-price-card">

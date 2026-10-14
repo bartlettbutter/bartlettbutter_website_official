@@ -46,7 +46,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Разовая покупка для iPhone и iPad. Работает на iOS 26.2 или новее.</p>
+  <p class="marketing-meta-note">Бесплатная загрузка на iPhone и iPad. Работает на iOS 26.2 или новее.</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ redirect_from:
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Предложение и доверие</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">Разовая покупка. Приватность по замыслу.</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">Бесплатная загрузка. Приватность по замыслу.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Доступно сегодня</span>
-      <h3 class="marketing-price-summary">Все основные функции включены в покупку.</h3>
-      <p>Сканируйте этикетки, сравнивайте продукты, проверяйте уход и сохраняйте анализы без аккаунта и без подписки.</p>
+      <h3 class="marketing-price-summary">Все основные функции доступны бесплатно.</h3>
+      <p>Сканируйте этикетки, сравнивайте продукты, проверяйте уход и сохраняйте анализы без создания аккаунта и без предварительной покупки платного тарифа.</p>
       <p class="marketing-price-note">Совместимо с iPhone и iPad на iOS 26.2 или новее.</p>
     </article>
     <article class="marketing-price-card">

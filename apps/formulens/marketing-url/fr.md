@@ -46,7 +46,7 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Achat unique sur iPhone et iPad. Fonctionne sous iOS 26.2 ou version ultérieure.</p>
+  <p class="marketing-meta-note">Téléchargement gratuit sur iPhone et iPad. Fonctionne sous iOS 26.2 ou version ultérieure.</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Offre et confiance</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">Achat unique. Privé par conception.</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">Gratuit à télécharger. Privé par conception.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Inclus dès aujourd'hui</span>
-      <h3 class="marketing-price-summary">Toutes les fonctionnalités essentielles sont incluses dans votre achat.</h3>
-      <p>Scannez des étiquettes, comparez des produits, vérifiez des routines et enregistrez des analyses, sans compte ni abonnement.</p>
+      <h3 class="marketing-price-summary">Toutes les fonctionnalités essentielles sont disponibles sans frais.</h3>
+      <p>Scannez des étiquettes, comparez des produits, vérifiez des routines et enregistrez des analyses sans créer de compte ni débloquer une formule payante au préalable.</p>
       <p class="marketing-price-note">Compatible avec iPhone et iPad sous iOS 26.2 ou version ultérieure.</p>
     </article>
     <article class="marketing-price-card">

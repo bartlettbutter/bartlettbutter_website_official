@@ -12,22 +12,9 @@ redirect_from:
 
 # Recuerda con estilo. Solo dilo en voz alta.
 
-El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di qué y cuándo, y Sayminder lo transcribe, extrae la hora de tus palabras y lo coloca en tu calendario. Cuando llega el momento te avisa, incluso en silencio o en modo Concentración, y te lee el recordatorio con una voz natural.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Capturas de Sayminder próximamente">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Captura</span>
-    <span class="marketing-shot-placeholder-caption">Pulsa y habla: transcripción en vivo</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Captura</span>
-    <span class="marketing-shot-placeholder-caption">Resumen de hoy: lo más próximo primero</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Captura</span>
-    <span class="marketing-shot-placeholder-caption">Calendario y próximos</span>
-  </div>
-</div>
+El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di qué y cuándo, y Sayminder lo transcribe, extrae la hora de tus palabras y lo coloca en tu calendario. Cuando llega el momento te avisa, incluso en silencio o en modo Concentración, y te lee el recordatorio con una voz natural.
 
 <div class="marketing-chip-row" aria-label="Aspectos destacados de Sayminder">
   <span class="marketing-chip">Habla, no escribas</span>
@@ -59,6 +46,8 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
   </div>
   <p class="marketing-meta-note">Descarga gratuita en iPhone y iPad. Funciona con iOS 26.2 o posterior.</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

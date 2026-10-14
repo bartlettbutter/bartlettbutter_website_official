@@ -12,22 +12,9 @@ redirect_from:
 
 # Ricorda con eleganza. Basta dirlo ad alta voce.
 
-Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di' cosa e quando, e Sayminder lo trascrive, ricava l'orario dalle tue parole e lo inserisce nel tuo calendario. Quando arriva il momento ti avvisa, anche in silenzioso o in Full Immersion, e ti rilegge il promemoria con una voce naturale.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Screenshot di Sayminder in arrivo">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Premi e parla: trascrizione dal vivo</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Il riepilogo di oggi: i più vicini prima</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Screenshot</span>
-    <span class="marketing-shot-placeholder-caption">Calendario e In arrivo</span>
-  </div>
-</div>
+Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di' cosa e quando, e Sayminder lo trascrive, ricava l'orario dalle tue parole e lo inserisce nel tuo calendario. Quando arriva il momento ti avvisa, anche in silenzioso o in Full Immersion, e ti rilegge il promemoria con una voce naturale.
 
 <div class="marketing-chip-row" aria-label="Punti di forza di Sayminder">
   <span class="marketing-chip">Parla, non digitare</span>
@@ -59,6 +46,8 @@ Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di
   </div>
   <p class="marketing-meta-note">Download gratuito su iPhone e iPad. Funziona con iOS 26.2 o versioni successive.</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

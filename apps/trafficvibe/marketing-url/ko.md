@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "도로 흐름, 나를 늦추는 요인, 그리고 언제 나서야 하는지를 알려주는 차분한 아침 출근길 브리핑."
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: ko
 permalink: /trafficvibe/ko/
 redirect_from:
@@ -39,11 +40,11 @@ redirect_from:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iOS 26.2 이상을 지원하는 iPhone 및 iPad에 곧 출시 예정입니다.</p>
+  <p class="marketing-meta-note">iPhone과 iPad에서 무료로 다운로드하세요. iOS 26.2 이상에서 작동합니다.</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">제공과 신뢰</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">출시부터 무료. 설계부터 정직하게.</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">다운로드는 무료. 설계부터 정직하게.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">출시 시점</span>
+      <span class="marketing-price-tier">오늘 포함된 것</span>
       <h3 class="marketing-price-summary">모든 기능을 무료로 이용할 수 있습니다.</h3>
       <p>아침 브리핑, 열여덟 가지 출근길 생활 지수, 시간별 전망, 저장한 출근 도시, 그리고 스마트 알림을 계정도, 구독도, 유료 장벽도 없이.</p>
       <p class="marketing-price-note">iOS 26.2 이상의 iPhone 및 iPad와 호환됩니다.</p>
@@ -220,7 +221,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">나서기 전에 알 준비가 되셨나요?</h2>
-  <p>TrafficVibe가 곧 App Store에 출시됩니다. 출시되면 오늘 아침 브리핑을 즉시 읽고, 앞으로 무엇이 기다리는지 정확히 안 채로 모든 운전을 시작하게 됩니다.</p>
+  <p>TrafficVibe를 다운로드하고 오늘 아침 브리핑을 즉시 읽은 뒤, 앞으로 무엇이 기다리는지 정확히 안 채로 모든 운전을 시작하세요.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">지원 보기</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">개인정보 처리방침 읽기</a>

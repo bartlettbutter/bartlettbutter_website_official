@@ -12,22 +12,9 @@ redirect_from:
 
 # 아름답게 기억하세요. 그냥 소리 내어 말하세요.
 
-가장 빠른 리마인더는 말로 하는 리마인더입니다. 마이크를 길게 누르고 무엇을, 언제 할지 말하면 Sayminder가 이를 받아 적고, 당신의 말에서 시간을 읽어내어 캘린더에 넣어 줍니다. 그 순간이 오면 무음 모드나 집중 모드에서도 알려 주고, 리마인더를 자연스러운 목소리로 읽어 줍니다.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Sayminder 스크린샷 곧 공개">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">스크린샷</span>
-    <span class="marketing-shot-placeholder-caption">누르고 말하기: 실시간 받아쓰기</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">스크린샷</span>
-    <span class="marketing-shot-placeholder-caption">오늘의 브리핑: 가까운 순서로</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">스크린샷</span>
-    <span class="marketing-shot-placeholder-caption">캘린더 및 예정</span>
-  </div>
-</div>
+가장 빠른 리마인더는 말로 하는 리마인더입니다. 마이크를 길게 누르고 무엇을, 언제 할지 말하면 Sayminder가 이를 받아 적고, 당신의 말에서 시간을 읽어내어 캘린더에 넣어 줍니다. 그 순간이 오면 무음 모드나 집중 모드에서도 알려 주고, 리마인더를 자연스러운 목소리로 읽어 줍니다.
 
 <div class="marketing-chip-row" aria-label="Sayminder 주요 특징">
   <span class="marketing-chip">입력하지 말고 말하세요</span>
@@ -59,6 +46,8 @@ redirect_from:
   </div>
   <p class="marketing-meta-note">iPhone과 iPad에서 무료로 다운로드하세요. iOS 26.2 이상에서 작동합니다.</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

@@ -46,7 +46,7 @@ Las listas de ingredientes están escritas para químicos, no para ti. FormuLens
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Descarga gratuita en iPhone y iPad. Funciona en iOS 26.2 o posterior.</p>
+  <p class="marketing-meta-note">Compra única en iPhone y iPad. Funciona en iOS 26.2 o posterior.</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ Las listas de ingredientes están escritas para químicos, no para ti. FormuLens
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Oferta y confianza</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">Descarga gratuita. Privado por diseño.</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">Compra única. Privado por diseño.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Incluido hoy</span>
-      <h3 class="marketing-price-summary">Todas las funciones principales están disponibles sin coste alguno.</h3>
-      <p>Escanea etiquetas, compara productos, revisa rutinas y guarda análisis sin crear una cuenta ni desbloquear primero un nivel de pago.</p>
+      <h3 class="marketing-price-summary">Todas las funciones principales están incluidas con tu compra.</h3>
+      <p>Escanea etiquetas, compara productos, revisa rutinas y guarda análisis sin cuenta y sin suscripción.</p>
       <p class="marketing-price-note">Compatible con iPhone y iPad en iOS 26.2 o posterior.</p>
     </article>
     <article class="marketing-price-card">

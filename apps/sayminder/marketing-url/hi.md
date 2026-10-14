@@ -12,22 +12,9 @@ redirect_from:
 
 # खूबसूरती से याद रखिए। बस बोल दीजिए।
 
-सबसे तेज़ रिमाइंडर वही है जिसे आप बोलते हैं। माइक दबाकर रखिए, बताइए क्या और कब, और Sayminder उसे लिखता है, आपके शब्दों में से समय पढ़ लेता है और उसे आपके कैलेंडर में जोड़ देता है। जब वह पल आता है तो यह आपको सचेत करता है, साइलेंट या फ़ोकस में भी, और रिमाइंडर को एक स्वाभाविक आवाज़ में पढ़कर सुनाता है।
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Sayminder के स्क्रीनशॉट जल्द आ रहे हैं">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">स्क्रीनशॉट</span>
-    <span class="marketing-shot-placeholder-caption">दबाएँ और बोलें: लाइव ट्रांसक्रिप्ट</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">स्क्रीनशॉट</span>
-    <span class="marketing-shot-placeholder-caption">आज का ब्रीफ़: सबसे नज़दीकी पहले</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">स्क्रीनशॉट</span>
-    <span class="marketing-shot-placeholder-caption">कैलेंडर और आगामी</span>
-  </div>
-</div>
+सबसे तेज़ रिमाइंडर वही है जिसे आप बोलते हैं। माइक दबाकर रखिए, बताइए क्या और कब, और Sayminder उसे लिखता है, आपके शब्दों में से समय पढ़ लेता है और उसे आपके कैलेंडर में जोड़ देता है। जब वह पल आता है तो यह आपको सचेत करता है, साइलेंट या फ़ोकस में भी, और रिमाइंडर को एक स्वाभाविक आवाज़ में पढ़कर सुनाता है।
 
 <div class="marketing-chip-row" aria-label="Sayminder की खास बातें">
   <span class="marketing-chip">बोलिए, टाइप मत कीजिए</span>
@@ -59,6 +46,8 @@ redirect_from:
   </div>
   <p class="marketing-meta-note">iPhone और iPad पर मुफ़्त डाउनलोड। iOS 26.2 या उसके बाद पर काम करता है।</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

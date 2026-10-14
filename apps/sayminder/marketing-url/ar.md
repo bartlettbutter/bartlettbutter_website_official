@@ -12,22 +12,9 @@ redirect_from:
 
 # تذكّر بأناقة. فقط قُلها بصوتٍ عالٍ.
 
-أسرع تذكير هو الذي تنطق به. اضغط على الميكروفون مع الاستمرار، وقُل ماذا ومتى، فيقوم Sayminder بتحويله إلى نص، ويستخرج الوقت من كلماتك، ويضعه في تقويمك. وعند حلول الموعد ينبّهك، حتى في الوضع الصامت أو التركيز، ويقرأ التذكير عليك بصوتٍ طبيعي.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="لقطات شاشة Sayminder قريبًا">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">لقطة شاشة</span>
-    <span class="marketing-shot-placeholder-caption">اضغط وتحدّث: نص مباشر</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">لقطة شاشة</span>
-    <span class="marketing-shot-placeholder-caption">موجز اليوم: الأقرب أولًا</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">لقطة شاشة</span>
-    <span class="marketing-shot-placeholder-caption">التقويم والقادم</span>
-  </div>
-</div>
+أسرع تذكير هو الذي تنطق به. اضغط على الميكروفون مع الاستمرار، وقُل ماذا ومتى، فيقوم Sayminder بتحويله إلى نص، ويستخرج الوقت من كلماتك، ويضعه في تقويمك. وعند حلول الموعد ينبّهك، حتى في الوضع الصامت أو التركيز، ويقرأ التذكير عليك بصوتٍ طبيعي.
 
 <div class="marketing-chip-row" aria-label="أبرز مزايا Sayminder">
   <span class="marketing-chip">تحدّث ولا تكتب</span>
@@ -59,6 +46,8 @@ redirect_from:
   </div>
   <p class="marketing-meta-note">تنزيل مجاني على iPhone وiPad. يعمل على iOS 26.2 أو أحدث.</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

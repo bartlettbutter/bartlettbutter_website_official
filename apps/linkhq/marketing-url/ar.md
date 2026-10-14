@@ -3,7 +3,7 @@ layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
 app_description: "احفظ الروابط التي تستحق العودة إليها مباشرةً من ورقة المشاركة، وأعد فتح كل واحدٍ منها عند مصدره."
-app_store_url: "https://apps.apple.com/app/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 lang: ar
 permalink: /linkhq/ar/
 redirect_from:
@@ -40,11 +40,11 @@ LinkHQ مكانٌ هادئ للروابط التي تودّ أن تجدها من
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/id0000000000">
+    <a href="https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">قريبًا على iPhone وiPad.</p>
+  <p class="marketing-meta-note">مجاني للتنزيل على iPhone وiPad. يعمل على iOS 26.2 أو أحدث.</p>
 </div>
 
 <!--hero-end-->

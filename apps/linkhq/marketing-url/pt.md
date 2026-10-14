@@ -3,7 +3,7 @@ layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
 app_description: "Guarde os links que vale a pena revisitar, direto da folha de compartilhamento, e reabra cada um na sua origem."
-app_store_url: "https://apps.apple.com/app/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 lang: pt
 permalink: /linkhq/pt/
 redirect_from:
@@ -40,11 +40,11 @@ O LinkHQ é um lugar tranquilo para os links que você quer reencontrar. Compart
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/id0000000000">
+    <a href="https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Em breve no iPhone e no iPad.</p>
+  <p class="marketing-meta-note">Grátis para baixar no iPhone e iPad. Funciona no iOS 26.2 ou posterior.</p>
 </div>
 
 <!--hero-end-->

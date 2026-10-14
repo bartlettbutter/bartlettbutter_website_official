@@ -45,7 +45,7 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Free to download on iPhone and iPad. Works on iOS 26.2 or later.</p>
+  <p class="marketing-meta-note">One-time purchase on iPhone and iPad. Works on iOS 26.2 or later.</p>
 </div>
 
 <!--hero-end-->
@@ -184,13 +184,13 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Offer and trust</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">Free to download. Private by design.</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">One-time purchase. Private by design.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Included today</span>
-      <h3 class="marketing-price-summary">All core features are available at no cost.</h3>
-      <p>Scan labels, compare products, check routines, and save analyses without creating an account or unlocking a paid tier first.</p>
+      <h3 class="marketing-price-summary">Every core feature is included with your purchase.</h3>
+      <p>Scan labels, compare products, check routines, and save analyses with no account and no subscription.</p>
       <p class="marketing-price-note">Compatible with iPhone and iPad on iOS 26.2 or later.</p>
     </article>
     <article class="marketing-price-card">

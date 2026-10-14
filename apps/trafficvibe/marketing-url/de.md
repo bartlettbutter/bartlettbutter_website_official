@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "Ein ruhiges Morgen-Briefing für deinen Weg zur Arbeit, das dir sagt, wie der Verkehr läuft, was dich ausbremst und wann du losfahren solltest."
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: de
 permalink: /trafficvibe/de/
 redirect_from:
@@ -39,11 +40,11 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Demnächst für iPhone und iPad mit iOS 26.2 oder neuer.</p>
+  <p class="marketing-meta-note">Kostenloser Download auf iPhone und iPad. Funktioniert mit iOS 26.2 oder neuer.</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Angebot und Vertrauen</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">Kostenlos ab dem Start. Ehrlich by design.</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">Kostenlos herunterladen. Ehrlich by design.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Zum Start</span>
+      <span class="marketing-price-tier">Heute enthalten</span>
       <h3 class="marketing-price-summary">Alle Funktionen kostenlos verfügbar.</h3>
       <p>Das Morgen-Briefing, alle achtzehn Pendel-Indizes, die stündliche Vorschau, gespeicherte Pendelstädte und smarte Warnungen, ohne Konto, ohne Abo und ohne Bezahlschranke.</p>
       <p class="marketing-price-note">Kompatibel mit iPhone und iPad mit iOS 26.2 oder neuer.</p>
@@ -220,7 +221,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">Bereit, es zu wissen, bevor du losfährst?</h2>
-  <p>TrafficVibe kommt demnächst in den App Store. Wenn es soweit ist, liest du das Briefing von heute Morgen sofort und startest jede Fahrt mit dem Wissen, was dich genau erwartet.</p>
+  <p>Lade TrafficVibe herunter, lies das Briefing von heute Morgen sofort und starte jede Fahrt mit dem Wissen, was dich genau erwartet.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">Zum Support</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">Datenschutzrichtlinie lesen</a>

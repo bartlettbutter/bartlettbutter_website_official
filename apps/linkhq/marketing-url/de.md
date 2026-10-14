@@ -3,7 +3,7 @@ layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
 app_description: "Sichere die Links, zu denen du zurückkehren willst, direkt aus dem Teilen-Menü und öffne jeden wieder an seiner Quelle."
-app_store_url: "https://apps.apple.com/app/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 lang: de
 permalink: /linkhq/de/
 redirect_from:
@@ -40,11 +40,11 @@ LinkHQ ist ein ruhiger Ort für die Links, die du wiederfinden möchtest. Teile 
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/id0000000000">
+    <a href="https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Bald für iPhone und iPad.</p>
+  <p class="marketing-meta-note">Kostenloser Download auf iPhone und iPad. Funktioniert mit iOS 26.2 oder neuer.</p>
 </div>
 
 <!--hero-end-->

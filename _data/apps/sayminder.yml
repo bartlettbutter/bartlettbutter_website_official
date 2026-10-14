@@ -1,0 +1,25 @@
+# Per-app marketing data for Sayminder. Consumed by
+# _layouts/app-sayminder.html via _includes/marketing/hero-gallery.html.
+# The gallery is image-only, so it is defined once under `en` and every
+# localized page falls back to that entry (mirrors _data/home.yml's keying by
+# language code, which these files keep for when translatable data is added).
+#
+# Screenshots live in /assets/screenshots/sayminder/ (660px-wide web copies of
+# the App Store mockups).
+
+en:
+  hero_gallery:
+    # No label/title: this strip is purely visual and shared across all
+    # languages (see the layout's en fallback), so it carries no translatable
+    # copy. `alt` is a generic, per-screen accessible description.
+    alt: "Sayminder app screen"
+    shots:
+      - /assets/screenshots/sayminder/01-welcome.png
+      - /assets/screenshots/sayminder/02-speak.png
+      - /assets/screenshots/sayminder/03-review.png
+      - /assets/screenshots/sayminder/04-multiple.png
+      - /assets/screenshots/sayminder/05-calendar.png
+      - /assets/screenshots/sayminder/06-upcoming.png
+      - /assets/screenshots/sayminder/07-edit.png
+      - /assets/screenshots/sayminder/08-settings.png
+      - /assets/screenshots/sayminder/09-dark-mode.png

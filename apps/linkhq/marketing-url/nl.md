@@ -3,7 +3,7 @@ layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
 app_description: "Bewaar de links die het waard zijn om terug te zien, rechtstreeks vanuit het deelmenu, en open elke link opnieuw bij de bron."
-app_store_url: "https://apps.apple.com/app/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 lang: nl
 permalink: /linkhq/nl/
 redirect_from:
@@ -40,11 +40,11 @@ LinkHQ is een rustige plek voor de links die je terug wilt vinden. Deel een vide
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/id0000000000">
+    <a href="https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Binnenkort op iPhone en iPad.</p>
+  <p class="marketing-meta-note">Gratis te downloaden op iPhone en iPad. Werkt op iOS 26.2 of hoger.</p>
 </div>
 
 <!--hero-end-->

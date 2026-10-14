@@ -46,7 +46,7 @@ redirect_from:
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iPhone과 iPad에서 무료로 다운로드. iOS 26.2 이상에서 작동합니다.</p>
+  <p class="marketing-meta-note">iPhone과 iPad용 1회 구매 앱. iOS 26.2 이상에서 작동합니다.</p>
 </div>
 
 <!--hero-end-->
@@ -185,13 +185,13 @@ redirect_from:
 <section class="marketing-band" aria-labelledby="fl-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">제공과 신뢰</p>
-    <h2 id="fl-offer-title" class="marketing-section-title">다운로드는 무료. 설계부터 프라이빗.</h2>
+    <h2 id="fl-offer-title" class="marketing-section-title">한 번 구매로 끝. 설계부터 프라이빗.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">오늘 포함된 것</span>
-      <h3 class="marketing-price-summary">모든 핵심 기능을 무료로 이용할 수 있습니다.</h3>
-      <p>계정을 만들거나 유료 등급을 먼저 잠금 해제하지 않고도 성분표를 스캔하고, 제품을 비교하고, 루틴을 점검하고, 분석을 저장하세요.</p>
+      <h3 class="marketing-price-summary">모든 핵심 기능이 구매에 포함되어 있습니다.</h3>
+      <p>계정도 구독도 없이 성분표를 스캔하고, 제품을 비교하고, 루틴을 점검하고, 분석을 저장하세요.</p>
       <p class="marketing-price-note">iOS 26.2 이상의 iPhone 및 iPad와 호환됩니다.</p>
     </article>
     <article class="marketing-price-card">

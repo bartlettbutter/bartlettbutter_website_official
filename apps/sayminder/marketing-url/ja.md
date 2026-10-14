@@ -12,22 +12,9 @@ redirect_from:
 
 # 美しく覚えておく。ただ、声に出すだけ。
 
-いちばん速いリマインダーは、話すリマインダーです。マイクを長押しして、何を・いつを言うだけで、Sayminder が文字に起こし、あなたの言葉から時間を読み取り、カレンダーに追加します。その時が来ると、サイレントや集中モードでも通知し、リマインダーを自然な声で読み上げます。
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Sayminder のスクリーンショットは近日公開">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">スクリーンショット</span>
-    <span class="marketing-shot-placeholder-caption">押して話す：リアルタイム文字起こし</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">スクリーンショット</span>
-    <span class="marketing-shot-placeholder-caption">今日の予定：近い順に</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">スクリーンショット</span>
-    <span class="marketing-shot-placeholder-caption">カレンダーと今後の予定</span>
-  </div>
-</div>
+いちばん速いリマインダーは、話すリマインダーです。マイクを長押しして、何を・いつを言うだけで、Sayminder が文字に起こし、あなたの言葉から時間を読み取り、カレンダーに追加します。その時が来ると、サイレントや集中モードでも通知し、リマインダーを自然な声で読み上げます。
 
 <div class="marketing-chip-row" aria-label="Sayminder のハイライト">
   <span class="marketing-chip">入力せず、話すだけ</span>
@@ -59,6 +46,8 @@ redirect_from:
   </div>
   <p class="marketing-meta-note">iPhone と iPad で無料ダウンロード。iOS 26.2 以降で動作します。</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

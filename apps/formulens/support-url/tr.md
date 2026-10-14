@@ -41,9 +41,9 @@ FormuLens, beş grupta 23 kategoriyi destekler:
 - **Banyo ve Vücut**: Duş Jeli, Vücut Peelingi, Vücut Losyonu, El Kremi, Deodorant
 - **Parfüm**: Parfüm
 
-### FormuLens ücretsiz mi?
+### FormuLens ne kadar?
 
-Evet. FormuLens'in indirilmesi ücretsizdir ve mevcut tüm özellikler reklamsız ve hesap gerektirmeden ücretsiz olarak kullanılabilir. İleride isteğe bağlı premium özellikler eklersek, bugün güvendiğiniz özellikler kullanılabilir olmaya devam edecek.
+FormuLens, App Store'da yerel para biriminizle gösterilen tek seferlik bir satın almadır. Reklam yok, abonelik yok ve hesap gerekmez. İleride isteğe bağlı premium özellikler eklersek, bugün güvendiğiniz özellikler kullanılabilir olmaya devam edecek.
 
 ### Kullanmak için internete ihtiyacım var mı?
 

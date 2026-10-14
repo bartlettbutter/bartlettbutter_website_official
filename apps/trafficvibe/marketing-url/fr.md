@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "Un point matinal et serein sur votre trajet qui vous dit comment circulent les routes, ce qui vous ralentit et quand partir."
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: fr
 permalink: /trafficvibe/fr/
 redirect_from:
@@ -39,11 +40,11 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Bientôt disponible sur iPhone et iPad avec iOS 26.2 ou version ultérieure.</p>
+  <p class="marketing-meta-note">Téléchargement gratuit sur iPhone et iPad. Fonctionne sur iOS 26.2 ou version ultérieure.</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Offre et confiance</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">Gratuit au lancement. Honnête par conception.</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">Gratuit à télécharger. Honnête par conception.</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Au lancement</span>
+      <span class="marketing-price-tier">Inclus dès aujourd'hui</span>
       <h3 class="marketing-price-summary">Toutes les fonctionnalités disponibles sans frais.</h3>
       <p>Le point matinal, les dix-huit Indices de trajet, la prévision horaire, les villes de trajet enregistrées et les alertes intelligentes, sans compte, sans abonnement et sans péage.</p>
       <p class="marketing-price-note">Compatible avec iPhone et iPad sous iOS 26.2 ou version ultérieure.</p>
@@ -220,7 +221,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">Prêt à savoir avant de partir ?</h2>
-  <p>TrafficVibe arrive bientôt sur l'App Store. Dès son arrivée, vous lirez le point de ce matin immédiatement et commencerez chaque trajet en sachant exactement ce qui vous attend.</p>
+  <p>Téléchargez TrafficVibe, lisez le point de ce matin immédiatement et commencez chaque trajet en sachant exactement ce qui vous attend.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">Voir l'assistance</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">Lire la politique de confidentialité</a>

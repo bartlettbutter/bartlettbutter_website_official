@@ -178,57 +178,6 @@
   margin-top: clamp(32px, 5vw, 56px);
 }
 
-/* Screenshot placeholder frame — used on the marketing page in lieu of real
-   device mockups until App Store screenshots are dropped in. */
-.sy-page .marketing-shot-placeholder-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 20px;
-  margin: 8px auto 0;
-}
-
-.sy-page .marketing-shot-placeholder {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  aspect-ratio: 660 / 1434;
-  padding: 24px;
-  text-align: center;
-  border: 1px dashed rgba(20, 49, 74, 0.28);
-  border-radius: 28px;
-  background:
-    repeating-linear-gradient(135deg, rgba(169, 120, 86, 0.06) 0 14px, rgba(246, 241, 227, 0.5) 14px 28px);
-  color: var(--app-accent-strong);
-}
-
-.sy-page .marketing-shot-placeholder-label {
-  font-size: 13px;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  opacity: 0.75;
-}
-
-.sy-page .marketing-shot-placeholder-caption {
-  font-size: 14px;
-  line-height: 1.5;
-  opacity: 0.85;
-}
-
-@media (max-width: 768px) {
-  .sy-page .marketing-shot-placeholder-grid {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-@media (max-width: 480px) {
-  .sy-page .marketing-shot-placeholder-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
 /* Shared marketing modules: illuminated-paper surfaces, brass chips. */
 .sy-page .marketing-chip {
   background: linear-gradient(180deg, rgba(255, 252, 243, 0.96) 0%, rgba(246, 241, 227, 0.9) 100%);

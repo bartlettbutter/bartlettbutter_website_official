@@ -3,7 +3,7 @@ layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
 app_description: "Save the links worth returning to, straight from the share sheet, and reopen each one at its source."
-app_store_url: "https://apps.apple.com/app/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 permalink: /linkhq/
 redirect_from:
   - /marketing-url/linkhq/
@@ -39,11 +39,11 @@ LinkHQ is a quiet place for the links you want to find again. Share a video, a p
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/id0000000000">
+    <a href="https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Coming soon on iPhone and iPad.</p>
+  <p class="marketing-meta-note">Free to download on iPhone and iPad. Works on iOS 26.2 or later.</p>
 </div>
 
 <!--hero-end-->

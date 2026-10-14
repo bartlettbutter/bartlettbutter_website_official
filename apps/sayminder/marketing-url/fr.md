@@ -12,22 +12,9 @@ redirect_from:
 
 # Souvenez-vous avec élégance. Dites-le simplement à voix haute.
 
-Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites quoi et quand, et Sayminder le transcrit, extrait l'heure de vos mots et l'ajoute à votre calendrier. Le moment venu, il vous alerte, même en silencieux ou en mode Concentration, et vous relit le rappel d'une voix naturelle.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Captures d'écran de Sayminder bientôt disponibles">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Capture d'écran</span>
-    <span class="marketing-shot-placeholder-caption">Appuyez et parlez : transcription en direct</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Capture d'écran</span>
-    <span class="marketing-shot-placeholder-caption">L'essentiel du jour : le plus proche d'abord</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Capture d'écran</span>
-    <span class="marketing-shot-placeholder-caption">Calendrier et à venir</span>
-  </div>
-</div>
+Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites quoi et quand, et Sayminder le transcrit, extrait l'heure de vos mots et l'ajoute à votre calendrier. Le moment venu, il vous alerte, même en silencieux ou en mode Concentration, et vous relit le rappel d'une voix naturelle.
 
 <div class="marketing-chip-row" aria-label="Points forts de Sayminder">
   <span class="marketing-chip">Parlez, n'écrivez pas</span>
@@ -59,6 +46,8 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
   </div>
   <p class="marketing-meta-note">Téléchargement gratuit sur iPhone et iPad. Fonctionne sous iOS 26.2 ou version ultérieure.</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

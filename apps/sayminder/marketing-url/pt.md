@@ -12,22 +12,9 @@ redirect_from:
 
 # Lembre-se com elegância. É só dizer em voz alta.
 
-O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o quê e quando, e o Sayminder transcreve, extrai o horário das suas palavras e o coloca no seu calendário. Quando chega a hora, ele te avisa, mesmo no silencioso ou em Foco, e lê o lembrete de volta com uma voz natural.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Capturas de tela do Sayminder em breve">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Captura de tela</span>
-    <span class="marketing-shot-placeholder-caption">Pressione e fale: transcrição ao vivo</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Captura de tela</span>
-    <span class="marketing-shot-placeholder-caption">Resumo de hoje: o mais próximo primeiro</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Captura de tela</span>
-    <span class="marketing-shot-placeholder-caption">Calendário e próximos</span>
-  </div>
-</div>
+O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o quê e quando, e o Sayminder transcreve, extrai o horário das suas palavras e o coloca no seu calendário. Quando chega a hora, ele te avisa, mesmo no silencioso ou em Foco, e lê o lembrete de volta com uma voz natural.
 
 <div class="marketing-chip-row" aria-label="Destaques do Sayminder">
   <span class="marketing-chip">Fale, não digite</span>
@@ -59,6 +46,8 @@ O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o qu�
   </div>
   <p class="marketing-meta-note">Download gratuito no iPhone e iPad. Funciona no iOS 26.2 ou posterior.</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

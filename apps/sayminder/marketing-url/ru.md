@@ -12,22 +12,9 @@ redirect_from:
 
 # Помните красиво. Просто скажите вслух.
 
-Самым быстрым оказывается напоминание, которое вы произносите. Удерживайте микрофон, скажите что и когда, и Sayminder расшифрует это, считает время из ваших слов и добавит в календарь. Когда придёт момент, оно уведомит вас даже в беззвучном режиме или в «Не беспокоить» и зачитает напоминание естественным голосом.
+<!--gallery-->
 
-<div class="marketing-shot-placeholder-grid" aria-label="Скриншоты Sayminder скоро появятся">
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Скриншот</span>
-    <span class="marketing-shot-placeholder-caption">Нажмите и говорите: расшифровка в реальном времени</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Скриншот</span>
-    <span class="marketing-shot-placeholder-caption">Сводка на сегодня: ближайшее первым</span>
-  </div>
-  <div class="marketing-shot-placeholder">
-    <span class="marketing-shot-placeholder-label">Скриншот</span>
-    <span class="marketing-shot-placeholder-caption">Календарь и предстоящее</span>
-  </div>
-</div>
+Самым быстрым оказывается напоминание, которое вы произносите. Удерживайте микрофон, скажите что и когда, и Sayminder расшифрует это, считает время из ваших слов и добавит в календарь. Когда придёт момент, оно уведомит вас даже в беззвучном режиме или в «Не беспокоить» и зачитает напоминание естественным голосом.
 
 <div class="marketing-chip-row" aria-label="Ключевые особенности Sayminder">
   <span class="marketing-chip">Говорите, а не печатайте</span>
@@ -59,6 +46,8 @@ redirect_from:
   </div>
   <p class="marketing-meta-note">Бесплатная загрузка на iPhone и iPad. Работает на iOS 26.2 или новее.</p>
 </div>
+
+<!--hero-end-->
 
 <section class="marketing-band" aria-labelledby="sy-why-title">
   <div class="marketing-section-head">

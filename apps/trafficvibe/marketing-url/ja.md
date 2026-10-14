@@ -3,6 +3,7 @@ layout: app-trafficvibe
 title: TrafficVibe
 app_icon: /assets/app-icons/icon_TrafficVibe.png
 app_description: "道路の流れ、あなたを妨げているもの、そして出発すべきタイミングを教えてくれる、穏やかな朝の通勤ブリーフィング。"
+app_store_url: "https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034"
 lang: ja
 permalink: /trafficvibe/ja/
 redirect_from:
@@ -39,11 +40,11 @@ redirect_from:
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="#" data-store-upcoming aria-disabled="true">
+    <a href="https://apps.apple.com/us/app/trafficvibe-commute-briefing/id6763412034">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">iOS 26.2以降のiPhoneおよびiPadに近日登場。</p>
+  <p class="marketing-meta-note">iPhoneとiPadに無料でダウンロード。iOS 26.2以降で動作します。</p>
 </div>
 
 <!--hero-end-->
@@ -200,11 +201,11 @@ redirect_from:
 <section class="marketing-band marketing-band--plain" aria-labelledby="tv-offer-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">オファーと信頼</p>
-    <h2 id="tv-offer-title" class="marketing-section-title">ローンチから無料。設計段階から正直。</h2>
+    <h2 id="tv-offer-title" class="marketing-section-title">ダウンロードは無料。設計段階から正直。</h2>
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">ローンチ時</span>
+      <span class="marketing-price-tier">今日から利用可能</span>
       <h3 class="marketing-price-summary">すべての機能を無料で利用できます。</h3>
       <p>朝のブリーフィング、18すべての通勤ライフ指数、時間ごとの見通し、保存した通勤都市、そしてスマートアラートを、アカウントもサブスクリプションも有料の壁もなしに。</p>
       <p class="marketing-price-note">iOS 26.2以降のiPhoneおよびiPadに対応。</p>
@@ -220,7 +221,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="tv-next-title">
   <h2 id="tv-next-title">出発する前に知る準備はできましたか？</h2>
-  <p>TrafficVibeはApp Storeに近日登場します。登場したら、今朝のブリーフィングをすぐに読み、この先に何が待っているかを正確に把握して、毎回の運転を始められます。</p>
+  <p>TrafficVibeをダウンロードして、今朝のブリーフィングをすぐに読み、この先に何が待っているかを正確に把握して、毎回の運転を始めましょう。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/trafficvibe/support/">サポートを見る</a>
     <a class="marketing-inline-link" href="/trafficvibe/privacy/">プライバシーポリシーを読む</a>

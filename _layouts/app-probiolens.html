@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{%- comment -%}
+  Bespoke marketing layout for ProbioLens. Same shared chrome (nav, app header,
+  footer) as every other page via `default`, but the body is scoped to
+  `.pl-page` and styled by assets/css/apps/probiolens.css for a distinct
+  identity (teal-jade, microbiome-clean sections). Content still comes from the
+  translated markdown; the hero gallery is injected at the `<!--gallery-->`
+  marker, and the `<!--hero-end-->` marker closes the hero section.
+
+  ProbioLens is pre-launch with no screenshots yet, so _data/apps/probiolens.yml
+  carries no hero_gallery: m_gallery resolves to nil and only the bare
+  `{{ content }}` branch renders. The marketing markdown therefore authors its
+  own `<div class="marketing-hero-shell" markdown="1">` wrapper around the hero.
+{%- endcomment -%}
+{%- assign m_lang = page.lang | default: "en" -%}
+{%- assign m_data = site.data.apps.probiolens[m_lang] | default: site.data.apps.probiolens.en -%}
+{%- comment -%} The hero gallery is language-independent (images only), so it is
+  defined once under `en`. Fall back to it for languages that don't override it,
+  the same way the whole entry falls back to `en`. {%- endcomment -%}
+{%- assign m_gallery = m_data.hero_gallery | default: site.data.apps.probiolens.en.hero_gallery -%}
+<div class="pl-page app-page">
+{%- if m_gallery -%}
+  {%- assign m_parts = content | split: "<!--hero-end-->" -%}
+  {%- comment -%} The gallery renders wherever the markdown places the
+    `<!--gallery-->` marker (authored just after the hero lead, so the mockups
+    sit above the intro paragraph). If the marker is absent — e.g. a translated
+    page that predates it — the gallery falls back to the end of the hero
+    section. {%- endcomment -%}
+  {%- assign m_hero_parts = m_parts[0] | split: "<!--gallery-->" -%}
+  <div class="marketing-hero-shell">
+    {{ m_hero_parts[0] }}
+    {%- if m_gallery and m_hero_parts.size > 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="pl" -%}{%- endif -%}
+    {%- if m_hero_parts.size > 1 -%}{{ m_hero_parts[1] }}{%- endif -%}
+    {%- if m_gallery and m_hero_parts.size <= 1 -%}{%- include marketing/hero-gallery.html gallery=m_gallery variant="pl" -%}{%- endif -%}
+  </div>
+  {%- if m_parts.size > 1 -%}{{ m_parts[1] }}{%- endif -%}
+{%- else -%}
+  {{ content }}
+{%- endif -%}
+</div>

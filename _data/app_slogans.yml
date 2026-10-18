@@ -622,3 +622,65 @@ sayminder:
     marketing: "Spreek gewoon, en het herinnert je"
     support: "Hulp bij elke gesproken herinnering"
     privacy: "Je herinneringen blijven op je toestel"
+
+probiolens:
+  en:
+    marketing: "Decode supplement labels instantly"
+    support: "Help for every label scan"
+    privacy: "Scans stay on your device"
+  ar:
+    marketing: "افهم ملصقات المكملات فورًا"
+    support: "مساعدة لكل مسح ملصق"
+    privacy: "عمليات المسح تبقى على جهازك"
+  de:
+    marketing: "Supplement-Etiketten sofort entschlüsseln"
+    support: "Hilfe für jeden Etikett-Scan"
+    privacy: "Scans bleiben auf deinem Gerät"
+  es:
+    marketing: "Descifra etiquetas de suplementos al instante"
+    support: "Ayuda para cada escaneo de etiqueta"
+    privacy: "Los escaneos quedan en tu dispositivo"
+  fr:
+    marketing: "Décryptez les étiquettes de compléments instantanément"
+    support: "Aide pour chaque scan d'étiquette"
+    privacy: "Les analyses restent sur votre appareil"
+  hi:
+    marketing: "सप्लीमेंट लेबल तुरंत समझें"
+    support: "हर लेबल स्कैन के लिए मदद"
+    privacy: "स्कैन आपके डिवाइस पर ही रहते हैं"
+  it:
+    marketing: "Decifra subito le etichette degli integratori"
+    support: "Supporto per ogni scansione di etichetta"
+    privacy: "Le scansioni restano sul tuo dispositivo"
+  ja:
+    marketing: "サプリのラベルをすぐ読み解く"
+    support: "ラベルスキャンをすべてサポート"
+    privacy: "スキャンは端末内だけに保存"
+  ko:
+    marketing: "보충제 라벨을 바로 해독하세요"
+    support: "모든 라벨 스캔에 도움을"
+    privacy: "스캔은 기기에만 저장됩니다"
+  nl:
+    marketing: "Supplementetiketten direct ontcijferen"
+    support: "Hulp bij elke etiketscan"
+    privacy: "Scans blijven op je toestel"
+  pt:
+    marketing: "Decifre rótulos de suplementos na hora"
+    support: "Ajuda para cada leitura de rótulo"
+    privacy: "Os escaneamentos ficam no dispositivo"
+  ru:
+    marketing: "Сразу расшифруйте этикетки добавок"
+    support: "Помощь с каждым сканом этикетки"
+    privacy: "Сканы остаются на вашем устройстве"
+  tr:
+    marketing: "Takviye etiketlerini anında çözün"
+    support: "Her etiket taraması için yardım"
+    privacy: "Taramalar cihazınızda kalır"
+  zh-Hans:
+    marketing: "即时读懂补充剂标签"
+    support: "解答每次标签扫描"
+    privacy: "扫描只留在你的设备上"
+  zh-Hant:
+    marketing: "即時讀懂補充劑標籤"
+    support: "解答每次標籤掃描"
+    privacy: "掃描只留在你的裝置上"

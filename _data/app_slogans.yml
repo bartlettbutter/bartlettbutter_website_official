@@ -684,3 +684,64 @@ probiolens:
     marketing: "即時讀懂補充劑標籤"
     support: "解答每次標籤掃描"
     privacy: "掃描只留在你的裝置上"
+earncall:
+  en:
+    marketing: "Hear what moves the quarter"
+    support: "Help for every earnings question"
+    privacy: "Public market data only, never personal"
+  ar:
+    marketing: "اسمع ما يحرّك نتائج الربع"
+    support: "مساعدة في كل سؤال عن الأرباح"
+    privacy: "بيانات سوق عامة فقط، لا بيانات شخصية"
+  de:
+    marketing: "Hören, was das Quartal bewegt"
+    support: "Hilfe bei jeder Earnings-Frage"
+    privacy: "Nur öffentliche Marktdaten, nie persönliche"
+  es:
+    marketing: "Escucha lo que mueve el trimestre"
+    support: "Ayuda para cada duda sobre resultados"
+    privacy: "Solo datos públicos del mercado, nunca personales"
+  fr:
+    marketing: "Écoutez ce qui fait bouger le trimestre"
+    support: "De l'aide pour chaque question sur les résultats"
+    privacy: "Uniquement des données de marché publiques, jamais personnelles"
+  hi:
+    marketing: "सुनें कि तिमाही को क्या चलाता है"
+    support: "हर अर्निंग सवाल में मदद"
+    privacy: "केवल सार्वजनिक बाज़ार डेटा, कभी निजी नहीं"
+  it:
+    marketing: "Ascolta cosa muove il trimestre"
+    support: "Aiuto per ogni domanda sugli utili"
+    privacy: "Solo dati di mercato pubblici, mai personali"
+  ja:
+    marketing: "四半期を動かす声を聞く"
+    support: "決算の疑問をすべてサポート"
+    privacy: "公開市場データのみ、個人情報は一切なし"
+  ko:
+    marketing: "분기를 움직이는 신호를 들으세요"
+    support: "모든 실적 질문에 도움을"
+    privacy: "공개 시장 데이터만, 개인 정보는 없음"
+  nl:
+    marketing: "Hoor wat het kwartaal beweegt"
+    support: "Hulp bij elke vraag over cijfers"
+    privacy: "Alleen openbare marktdata, nooit persoonlijke"
+  pt:
+    marketing: "Ouça o que move o trimestre"
+    support: "Ajuda para cada dúvida sobre resultados"
+    privacy: "Apenas dados públicos de mercado, nunca pessoais"
+  ru:
+    marketing: "Услышьте, что движет кварталом"
+    support: "Помощь по любым вопросам об отчётности"
+    privacy: "Только публичные рыночные данные, без личных"
+  tr:
+    marketing: "Çeyreği neyin hareket ettirdiğini duyun"
+    support: "Her bilanço sorusunda yardım"
+    privacy: "Yalnızca kamuya açık piyasa verileri, kişisel değil"
+  zh-Hans:
+    marketing: "听懂推动季度的声音"
+    support: "解答每个财报疑问"
+    privacy: "只用公开市场数据，绝不涉及个人"
+  zh-Hant:
+    marketing: "聽懂推動季度的聲音"
+    support: "解答每個財報疑問"
+    privacy: "只用公開市場數據，絕不涉及個人"

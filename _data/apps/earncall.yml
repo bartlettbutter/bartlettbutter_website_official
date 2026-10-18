@@ -1,0 +1,16 @@
+# Per-app marketing data for EarnCall. Consumed by
+# _layouts/app-earncall.html via _includes/marketing/hero-gallery.html.
+#
+# EarnCall has not launched yet and no App Store screenshots exist for it, so
+# there is deliberately NO `hero_gallery` key here. With the gallery absent the
+# layout's `m_gallery` resolves to nil and the hero renders from the markdown
+# itself (an icon-only "Coming soon" treatment authored inside an explicit
+# `<div class="marketing-hero-shell" markdown="1">` wrapper). When real
+# screenshots exist later, add 660px-wide web copies under
+# /assets/screenshots/earncall/ and a `hero_gallery:` block under `en` here
+# (mirroring _data/apps/formulens.yml); the layout then switches to the gallery
+# with no other change.
+#
+# `en: {}` is present so the layout's `site.data.apps.earncall[m_lang]`
+# lookup resolves to an empty map (and the `.en` fallback) rather than nil.
+en: {}

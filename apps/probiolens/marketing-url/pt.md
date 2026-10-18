@@ -4,6 +4,7 @@ title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "Escaneie qualquer rótulo de Informação Nutricional e receba uma análise clara e baseada em evidências, inteiramente no seu dispositivo."
 app_store_url: "https://apps.apple.com/us/app/probiolens/id0000000000"
+lang: pt
 permalink: /probiolens/pt/
 redirect_from:
   - /marketing-url/probiolens/pt/
@@ -209,7 +210,7 @@ Os rótulos de probióticos estão cheios de nomes de cepas, contagens de UFC e 
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">
   <h2 id="pl-next-title">Pronto para ler rótulos de probióticos com confiança?</h2>
-  <p>O ProbioLens chega em breve à App Store.</p>
+  <p>Baixe o ProbioLens e escaneie o seu primeiro rótulo.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/probiolens/support/pt/">Acessar o suporte</a>
     <a class="marketing-inline-link" href="/probiolens/privacy/pt/">Ler a política de privacidade</a>

@@ -3,6 +3,7 @@ layout: default
 title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "Ondersteuning"
+lang: nl
 permalink: /earncall/support/nl/
 redirect_from:
   - /support-url/earncall/nl/

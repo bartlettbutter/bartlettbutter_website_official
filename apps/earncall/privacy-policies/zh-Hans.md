@@ -3,6 +3,7 @@ layout: default
 title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "隐私政策"
+lang: zh-Hans
 permalink: /earncall/privacy/zh-Hans/
 redirect_from:
   - /privacy-policies/earncall/zh-Hans/

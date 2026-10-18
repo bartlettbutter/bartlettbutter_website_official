@@ -4,6 +4,7 @@ title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "決算後に株価がどう動いたか、コールで経営陣が何を語ったか、次の発表がいつかを追跡。"
 app_store_url: "https://apps.apple.com/us/app/earncall/id0000000000"
+lang: ja
 permalink: /earncall/ja/
 redirect_from:
   - /marketing-url/earncall/ja/
@@ -209,7 +210,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="ec-next-title">
   <h2 id="ec-next-title">四半期を動かす声を聞く準備はできましたか？</h2>
-  <p>EarnCall は近日 App Store に登場します。</p>
+  <p>EarnCallをダウンロードして、最初の決算説明会を追いかけましょう。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/earncall/support/ja/">サポートを見る</a>
     <a class="marketing-inline-link" href="/earncall/privacy/ja/">プライバシーポリシーを読む</a>

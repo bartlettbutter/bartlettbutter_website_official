@@ -3,6 +3,7 @@ layout: default
 title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "Suporte"
+lang: pt
 permalink: /earncall/support/pt/
 redirect_from:
   - /support-url/earncall/pt/

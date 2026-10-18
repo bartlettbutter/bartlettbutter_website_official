@@ -3,6 +3,7 @@ layout: default
 title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "支持"
+lang: zh-Hans
 permalink: /earncall/support/zh-Hans/
 redirect_from:
   - /support-url/earncall/zh-Hans/

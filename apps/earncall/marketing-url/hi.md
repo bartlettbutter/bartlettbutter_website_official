@@ -4,6 +4,7 @@ title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "देखें कि नतीजों के बाद शेयर कैसे चले, कॉल पर प्रबंधन ने क्या कहा और अगली रिपोर्ट कब आएगी।"
 app_store_url: "https://apps.apple.com/us/app/earncall/id0000000000"
+lang: hi
 permalink: /earncall/hi/
 redirect_from:
   - /marketing-url/earncall/hi/
@@ -209,7 +210,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="ec-next-title">
   <h2 id="ec-next-title">सुनने के लिए तैयार कि तिमाही को क्या चलाता है?</h2>
-  <p>EarnCall जल्द ही App Store पर आ रहा है।</p>
+  <p>EarnCall डाउनलोड करें और अपनी पहली अर्निंग्स कॉल ट्रैक करें।</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/earncall/support/hi/">सहायता देखें</a>
     <a class="marketing-inline-link" href="/earncall/privacy/hi/">गोपनीयता नीति पढ़ें</a>

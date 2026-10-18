@@ -4,6 +4,7 @@ title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "どんなサプリメント成分表示ラベルもスキャンして、根拠を踏まえた分かりやすい内訳を、すべて端末内で。"
 app_store_url: "https://apps.apple.com/us/app/probiolens/id0000000000"
+lang: ja
 permalink: /probiolens/ja/
 redirect_from:
   - /marketing-url/probiolens/ja/
@@ -209,7 +210,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">
   <h2 id="pl-next-title">プロバイオティクスのラベルを自信をもって読む準備はできましたか？</h2>
-  <p>ProbioLens は近日 App Store に登場します。</p>
+  <p>ProbioLensをダウンロードして、最初のラベルをスキャンしましょう。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/probiolens/support/ja/">サポートへ</a>
     <a class="marketing-inline-link" href="/probiolens/privacy/ja/">プライバシーポリシーを読む</a>

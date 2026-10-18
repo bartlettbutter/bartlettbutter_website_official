@@ -3,6 +3,7 @@ layout: default
 title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "Destek"
+lang: tr
 permalink: /earncall/support/tr/
 redirect_from:
   - /support-url/earncall/tr/

@@ -4,6 +4,7 @@ title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "किसी भी सप्लीमेंट फैक्ट्स लेबल को स्कैन करें और स्पष्ट, साक्ष्य-आधारित विश्लेषण पाएँ, पूरी तरह आपके डिवाइस पर।"
 app_store_url: "https://apps.apple.com/us/app/probiolens/id0000000000"
+lang: hi
 permalink: /probiolens/hi/
 redirect_from:
   - /marketing-url/probiolens/hi/
@@ -209,7 +210,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">
   <h2 id="pl-next-title">प्रोबायोटिक लेबल को भरोसे से पढ़ने के लिए तैयार हैं?</h2>
-  <p>ProbioLens जल्द ही App Store पर आ रहा है।</p>
+  <p>ProbioLens डाउनलोड करें और अपना पहला लेबल स्कैन करें।</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/probiolens/support/hi/">सहायता देखें</a>
     <a class="marketing-inline-link" href="/probiolens/privacy/hi/">गोपनीयता नीति पढ़ें</a>

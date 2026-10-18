@@ -4,6 +4,7 @@ title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "Scannez n'importe quelle étiquette de valeurs nutritionnelles et obtenez une analyse claire et étayée, entièrement sur votre appareil."
 app_store_url: "https://apps.apple.com/us/app/probiolens/id0000000000"
+lang: fr
 permalink: /probiolens/fr/
 redirect_from:
   - /marketing-url/probiolens/fr/
@@ -209,7 +210,7 @@ Les étiquettes de probiotiques regorgent de noms de souches, de taux d'UFC et d
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">
   <h2 id="pl-next-title">Prêt à lire les étiquettes de probiotiques en confiance ?</h2>
-  <p>ProbioLens arrive bientôt sur l'App Store.</p>
+  <p>Téléchargez ProbioLens et scannez votre première étiquette.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/probiolens/support/fr/">Accéder au support</a>
     <a class="marketing-inline-link" href="/probiolens/privacy/fr/">Lire la politique de confidentialité</a>

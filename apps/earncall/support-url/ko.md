@@ -3,6 +3,7 @@ layout: default
 title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "지원"
+lang: ko
 permalink: /earncall/support/ko/
 redirect_from:
   - /support-url/earncall/ko/

@@ -4,6 +4,7 @@ title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "실적 발표 후 주가가 어떻게 움직였는지, 콜에서 경영진이 무엇을 말했는지, 다음 보고가 언제인지 추적하세요."
 app_store_url: "https://apps.apple.com/us/app/earncall/id0000000000"
+lang: ko
 permalink: /earncall/ko/
 redirect_from:
   - /marketing-url/earncall/ko/
@@ -209,7 +210,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="ec-next-title">
   <h2 id="ec-next-title">분기를 움직이는 신호를 들을 준비가 되셨나요?</h2>
-  <p>EarnCall이 곧 App Store에 출시됩니다.</p>
+  <p>EarnCall을 다운로드하고 첫 실적 발표를 확인해 보세요.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/earncall/support/ko/">지원 보기</a>
     <a class="marketing-inline-link" href="/earncall/privacy/ko/">개인정보처리방침 읽기</a>

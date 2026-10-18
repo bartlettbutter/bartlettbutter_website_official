@@ -209,7 +209,7 @@ Every earnings season raises the same three questions about a company: how did t
 
 <section class="marketing-cta-panel" aria-labelledby="ec-next-title">
   <h2 id="ec-next-title">Ready to hear what moves the quarter?</h2>
-  <p>EarnCall is coming soon to the App Store.</p>
+  <p>Download EarnCall and track your first earnings call.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/earncall/support/">Visit support</a>
     <a class="marketing-inline-link" href="/earncall/privacy/">Read privacy policy</a>

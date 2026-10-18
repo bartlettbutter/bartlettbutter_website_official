@@ -4,6 +4,7 @@ title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "扫描任意补充剂成分表标签，获得清晰、循证的解读，全程在你的设备上完成。"
 app_store_url: "https://apps.apple.com/us/app/probiolens/id0000000000"
+lang: zh-Hans
 permalink: /probiolens/zh-Hans/
 redirect_from:
   - /marketing-url/probiolens/zh-Hans/
@@ -209,7 +210,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">
   <h2 id="pl-next-title">准备好自信地读懂益生菌标签了吗？</h2>
-  <p>ProbioLens 即将登陆 App Store。</p>
+  <p>下载 ProbioLens，扫描你的第一张标签。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/probiolens/support/zh-Hans/">访问支持</a>
     <a class="marketing-inline-link" href="/probiolens/privacy/zh-Hans/">阅读隐私政策</a>

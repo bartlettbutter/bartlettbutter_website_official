@@ -4,6 +4,7 @@ title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "Hisselerin bilanço sonrası nasıl hareket ettiğini, yönetimin telekonferansta ne söylediğini ve bir sonraki raporun ne zaman geleceğini izleyin."
 app_store_url: "https://apps.apple.com/us/app/earncall/id0000000000"
+lang: tr
 permalink: /earncall/tr/
 redirect_from:
   - /marketing-url/earncall/tr/
@@ -209,7 +210,7 @@ Her bilanço sezonu bir şirket hakkında aynı üç soruyu gündeme getirir: hi
 
 <section class="marketing-cta-panel" aria-labelledby="ec-next-title">
   <h2 id="ec-next-title">Çeyreği neyin hareket ettirdiğini duymaya hazır mısınız?</h2>
-  <p>EarnCall yakında App Store'da.</p>
+  <p>EarnCall'ı indirin ve ilk bilanço çağrınızı takip edin.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/earncall/support/tr/">Desteği ziyaret edin</a>
     <a class="marketing-inline-link" href="/earncall/privacy/tr/">Gizlilik politikasını okuyun</a>

@@ -4,6 +4,7 @@ title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "Отсканируйте любую этикетку с составом добавки и получите понятный разбор на основе данных — полностью на вашем устройстве."
 app_store_url: "https://apps.apple.com/us/app/probiolens/id0000000000"
+lang: ru
 permalink: /probiolens/ru/
 redirect_from:
   - /marketing-url/probiolens/ru/
@@ -209,7 +210,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">
   <h2 id="pl-next-title">Готовы уверенно читать этикетки пробиотиков?</h2>
-  <p>ProbioLens скоро появится в App Store.</p>
+  <p>Скачайте ProbioLens и отсканируйте свою первую этикетку.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/probiolens/support/ru/">Перейти в поддержку</a>
     <a class="marketing-inline-link" href="/probiolens/privacy/ru/">Читать политику конфиденциальности</a>

@@ -4,6 +4,7 @@ title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "追蹤財報後股價如何變動、管理層在電話會議上說了什麼，以及下一份報告何時發布。"
 app_store_url: "https://apps.apple.com/us/app/earncall/id0000000000"
+lang: zh-Hant
 permalink: /earncall/zh-Hant/
 redirect_from:
   - /marketing-url/earncall/zh-Hant/
@@ -209,7 +210,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="ec-next-title">
   <h2 id="ec-next-title">準備好聽懂推動季度的聲音了嗎？</h2>
-  <p>EarnCall 即將登陸 App Store。</p>
+  <p>下載 EarnCall，追蹤你的第一場財報電話會議。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/earncall/support/zh-Hant/">造訪支援</a>
     <a class="marketing-inline-link" href="/earncall/privacy/zh-Hant/">閱讀隱私政策</a>

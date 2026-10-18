@@ -3,6 +3,7 @@ layout: default
 title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "Datenschutzerklärung"
+lang: de
 permalink: /earncall/privacy/de/
 redirect_from:
   - /privacy-policies/earncall/de/

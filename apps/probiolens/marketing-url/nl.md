@@ -4,6 +4,7 @@ title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "Scan elk Supplement Facts-etiket en krijg een heldere, op bewijs gebaseerde analyse, volledig op je apparaat."
 app_store_url: "https://apps.apple.com/us/app/probiolens/id0000000000"
+lang: nl
 permalink: /probiolens/nl/
 redirect_from:
   - /marketing-url/probiolens/nl/
@@ -209,7 +210,7 @@ Probiotica-etiketten staan vol stamnamen, KVE-aantallen en eigen mengsels die in
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">
   <h2 id="pl-next-title">Klaar om probiotica-etiketten met vertrouwen te lezen?</h2>
-  <p>ProbioLens komt binnenkort naar de App Store.</p>
+  <p>Download ProbioLens en scan je eerste etiket.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/probiolens/support/nl/">Ga naar support</a>
     <a class="marketing-inline-link" href="/probiolens/privacy/nl/">Lees het privacybeleid</a>

@@ -3,6 +3,7 @@ layout: default
 title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "Destek"
+lang: tr
 permalink: /probiolens/support/tr/
 redirect_from:
   - /support-url/probiolens/tr/

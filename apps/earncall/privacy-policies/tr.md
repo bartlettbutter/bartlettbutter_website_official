@@ -3,6 +3,7 @@ layout: default
 title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "Gizlilik Politikası"
+lang: tr
 permalink: /earncall/privacy/tr/
 redirect_from:
   - /privacy-policies/earncall/tr/

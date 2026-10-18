@@ -3,6 +3,7 @@ layout: default
 title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "支援"
+lang: zh-Hant
 permalink: /earncall/support/zh-Hant/
 redirect_from:
   - /support-url/earncall/zh-Hant/

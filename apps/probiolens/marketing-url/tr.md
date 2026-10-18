@@ -4,6 +4,7 @@ title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "Herhangi bir Takviye Bilgileri etiketini tarayın ve net, kanıta dayalı bir döküm alın; tümü cihazınızda."
 app_store_url: "https://apps.apple.com/us/app/probiolens/id0000000000"
+lang: tr
 permalink: /probiolens/tr/
 redirect_from:
   - /marketing-url/probiolens/tr/
@@ -209,7 +210,7 @@ Probiyotik etiketleri, mağaza reyonunda anlaşılması zor suş adları, CFU sa
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">
   <h2 id="pl-next-title">Probiyotik etiketlerini güvenle okumaya hazır mısınız?</h2>
-  <p>ProbioLens yakında App Store'da.</p>
+  <p>ProbioLens'i indirin ve ilk etiketinizi tarayın.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/probiolens/support/tr/">Desteğe gidin</a>
     <a class="marketing-inline-link" href="/probiolens/privacy/tr/">Gizlilik politikasını okuyun</a>

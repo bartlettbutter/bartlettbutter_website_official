@@ -3,6 +3,7 @@ layout: default
 title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "サポート"
+lang: ja
 permalink: /probiolens/support/ja/
 redirect_from:
   - /support-url/probiolens/ja/

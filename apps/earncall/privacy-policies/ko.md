@@ -3,6 +3,7 @@ layout: default
 title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "개인정보처리방침"
+lang: ko
 permalink: /earncall/privacy/ko/
 redirect_from:
   - /privacy-policies/earncall/ko/

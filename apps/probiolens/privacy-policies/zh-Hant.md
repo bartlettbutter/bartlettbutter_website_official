@@ -3,6 +3,7 @@ layout: default
 title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "隱私權政策"
+lang: zh-Hant
 permalink: /probiolens/privacy/zh-Hant/
 redirect_from:
   - /privacy-policies/probiolens/zh-Hant/

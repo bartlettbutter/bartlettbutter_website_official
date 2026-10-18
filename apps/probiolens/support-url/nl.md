@@ -3,6 +3,7 @@ layout: default
 title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "Ondersteuning"
+lang: nl
 permalink: /probiolens/support/nl/
 redirect_from:
   - /support-url/probiolens/nl/

@@ -3,6 +3,7 @@ layout: default
 title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "개인정보 처리방침"
+lang: ko
 permalink: /probiolens/privacy/ko/
 redirect_from:
   - /privacy-policies/probiolens/ko/

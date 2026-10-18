@@ -4,6 +4,7 @@ title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "Escanea cualquier etiqueta de Información del suplemento y obtén un desglose claro y basado en evidencia, todo en tu dispositivo."
 app_store_url: "https://apps.apple.com/us/app/probiolens/id0000000000"
+lang: es
 permalink: /probiolens/es/
 redirect_from:
   - /marketing-url/probiolens/es/
@@ -209,7 +210,7 @@ Las etiquetas de probióticos están llenas de nombres de cepas, recuentos de UF
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">
   <h2 id="pl-next-title">¿List@ para leer etiquetas de probióticos con confianza?</h2>
-  <p>ProbioLens llegará muy pronto al App Store.</p>
+  <p>Descarga ProbioLens y escanea tu primera etiqueta.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/probiolens/support/es/">Visitar soporte</a>
     <a class="marketing-inline-link" href="/probiolens/privacy/es/">Leer la política de privacidad</a>

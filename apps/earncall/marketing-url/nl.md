@@ -4,6 +4,7 @@ title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "Volg hoe aandelen na de cijfers bewegen, wat het management in de call zei en wanneer het volgende rapport komt."
 app_store_url: "https://apps.apple.com/us/app/earncall/id0000000000"
+lang: nl
 permalink: /earncall/nl/
 redirect_from:
   - /marketing-url/earncall/nl/
@@ -209,7 +210,7 @@ Elk cijferseizoen roept dezelfde drie vragen op over een bedrijf: hoe bewoog het
 
 <section class="marketing-cta-panel" aria-labelledby="ec-next-title">
   <h2 id="ec-next-title">Klaar om te horen wat het kwartaal beweegt?</h2>
-  <p>EarnCall komt binnenkort naar de App Store.</p>
+  <p>Download EarnCall en volg je eerste earnings call.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/earncall/support/nl/">Bezoek ondersteuning</a>
     <a class="marketing-inline-link" href="/earncall/privacy/nl/">Lees het privacybeleid</a>

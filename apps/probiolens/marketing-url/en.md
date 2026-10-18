@@ -209,7 +209,7 @@ Probiotic labels are full of strain names, CFU counts, and proprietary blends th
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">
   <h2 id="pl-next-title">Ready to read probiotic labels with confidence?</h2>
-  <p>ProbioLens is coming soon to the App Store.</p>
+  <p>Download ProbioLens and scan your first label.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/probiolens/support/">Visit support</a>
     <a class="marketing-inline-link" href="/probiolens/privacy/">Read privacy policy</a>

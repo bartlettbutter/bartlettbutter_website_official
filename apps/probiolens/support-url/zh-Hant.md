@@ -3,6 +3,7 @@ layout: default
 title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "支援"
+lang: zh-Hant
 permalink: /probiolens/support/zh-Hant/
 redirect_from:
   - /support-url/probiolens/zh-Hant/

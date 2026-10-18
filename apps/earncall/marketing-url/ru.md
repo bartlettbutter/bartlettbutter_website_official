@@ -4,6 +4,7 @@ title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "Следите, как акции двигаются после отчётности, что сказало руководство на звонке и когда выйдет следующий отчёт."
 app_store_url: "https://apps.apple.com/us/app/earncall/id0000000000"
+lang: ru
 permalink: /earncall/ru/
 redirect_from:
   - /marketing-url/earncall/ru/
@@ -209,7 +210,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="ec-next-title">
   <h2 id="ec-next-title">Готовы услышать, что движет кварталом?</h2>
-  <p>EarnCall скоро появится в App Store.</p>
+  <p>Скачайте EarnCall и следите за своим первым отчётом о прибыли.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/earncall/support/ru/">Открыть поддержку</a>
     <a class="marketing-inline-link" href="/earncall/privacy/ru/">Читать политику конфиденциальности</a>

@@ -4,6 +4,7 @@ title: EarnCall
 app_icon: /assets/app-icons/icon_EarnCall.png
 app_description: "Acompanhe como as ações se movem após os resultados, o que a gestão disse na teleconferência e quando chega o próximo relatório."
 app_store_url: "https://apps.apple.com/us/app/earncall/id0000000000"
+lang: pt
 permalink: /earncall/pt/
 redirect_from:
   - /marketing-url/earncall/pt/
@@ -209,7 +210,7 @@ Cada temporada de resultados levanta as mesmas três perguntas sobre uma empresa
 
 <section class="marketing-cta-panel" aria-labelledby="ec-next-title">
   <h2 id="ec-next-title">Pronto para ouvir o que move o trimestre?</h2>
-  <p>O EarnCall chega em breve à App Store.</p>
+  <p>Baixe o EarnCall e acompanhe a sua primeira teleconferência de resultados.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/earncall/support/pt/">Visitar suporte</a>
     <a class="marketing-inline-link" href="/earncall/privacy/pt/">Ler a política de privacidade</a>

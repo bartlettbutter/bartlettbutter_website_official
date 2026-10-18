@@ -4,6 +4,7 @@ title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "امسح أي ملصق حقائق المكمّل واحصل على تحليل واضح ومستند إلى الأدلة، بالكامل على جهازك."
 app_store_url: "https://apps.apple.com/us/app/probiolens/id0000000000"
+lang: ar
 permalink: /probiolens/ar/
 redirect_from:
   - /marketing-url/probiolens/ar/
@@ -209,7 +210,7 @@ redirect_from:
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">
   <h2 id="pl-next-title">هل أنت مستعد لقراءة ملصقات البروبيوتيك بثقة؟</h2>
-  <p>سيصل ProbioLens قريباً إلى App Store.</p>
+  <p>نزّل ProbioLens وامسح أول ملصق لك.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/probiolens/support/ar/">زيارة الدعم</a>
     <a class="marketing-inline-link" href="/probiolens/privacy/ar/">اقرأ سياسة الخصوصية</a>

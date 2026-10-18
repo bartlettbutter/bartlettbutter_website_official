@@ -3,6 +3,7 @@ layout: default
 title: ProbioLens
 app_icon: /assets/app-icons/icon_ProbioLens.png
 app_description: "プライバシーポリシー"
+lang: ja
 permalink: /probiolens/privacy/ja/
 redirect_from:
   - /privacy-policies/probiolens/ja/

@@ -185,22 +185,34 @@
           </span>
         </a>
 
-        <a href="/sayminder/{{ app_suffix }}" class="work-card" data-app-name="Sayminder" aria-label="{{ t.open_app_prefix }} Sayminder {{ t.open_app_suffix }}" title="Sayminder">
-          <span class="work-card-icon">
-            <img src="/assets/app-icons/icon_Sayminder.png" alt="Sayminder" width="104" height="104" loading="lazy">
-          </span>
-        </a>
-
         <a href="/linkhq/{{ app_suffix }}" class="work-card" data-app-name="LinkHQ" aria-label="{{ t.open_app_prefix }} LinkHQ {{ t.open_app_suffix }}" title="LinkHQ">
           <span class="work-card-icon">
             <img src="/assets/app-icons/icon_LinkHQ.png" alt="LinkHQ" width="104" height="104" loading="lazy">
           </span>
         </a>
 
+        <a href="/sayminder/{{ app_suffix }}" class="work-card" data-app-name="Sayminder" aria-label="{{ t.open_app_prefix }} Sayminder {{ t.open_app_suffix }}" title="Sayminder">
+          <span class="work-card-icon">
+            <img src="/assets/app-icons/icon_Sayminder.png" alt="Sayminder" width="104" height="104" loading="lazy">
+          </span>
+        </a>
+
+        <a href="/probiolens/{{ app_suffix }}" class="work-card" data-app-name="ProbioLens" aria-label="{{ t.open_app_prefix }} ProbioLens {{ t.open_app_suffix }}" title="ProbioLens">
+          <span class="work-card-icon">
+            <img src="/assets/app-icons/icon_ProbioLens.png" alt="ProbioLens" width="104" height="104" loading="lazy">
+          </span>
+        </a>
+
+        <a href="/earncall/{{ app_suffix }}" class="work-card" data-app-name="EarnCall" aria-label="{{ t.open_app_prefix }} EarnCall {{ t.open_app_suffix }}" title="EarnCall">
+          <span class="work-card-icon">
+            <img src="/assets/app-icons/icon_EarnCall.png" alt="EarnCall" width="104" height="104" loading="lazy">
+          </span>
+        </a>
+
         {%- comment -%} Decorative "more to come" slots that fill the dock's
-          last row (8 columns; 10 apps + 6 slots = 2 full rows). Narrow screens
+          last row (8 columns; 12 apps + 4 slots = 2 full rows). Narrow screens
           use 4 columns and hide the last 4 slots. Drop one slot per new app. {%- endcomment -%}
-        {%- for slot in (1..6) %}
+        {%- for slot in (1..4) %}
         <span class="work-slot" aria-hidden="true"><span class="work-slot-icon">?</span></span>
         {%- endfor %}
 
@@ -291,8 +303,10 @@
             <a href="/journeyfolio/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_Journeyfolio.png" alt="Journeyfolio" width="36" height="36" loading="lazy"></a>
             <a href="/huepick/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_Huepick.png" alt="Huepick" width="36" height="36" loading="lazy"></a>
             <a href="/trafficvibe/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_TrafficVibe.png" alt="TrafficVibe" width="36" height="36" loading="lazy"></a>
-            <a href="/sayminder/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_Sayminder.png" alt="Sayminder" width="36" height="36" loading="lazy"></a>
             <a href="/linkhq/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_LinkHQ.png" alt="LinkHQ" width="36" height="36" loading="lazy"></a>
+            <a href="/sayminder/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_Sayminder.png" alt="Sayminder" width="36" height="36" loading="lazy"></a>
+            <a href="/probiolens/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_ProbioLens.png" alt="ProbioLens" width="36" height="36" loading="lazy"></a>
+            <a href="/earncall/{{ app_suffix }}" class="footer-app-icon"><img src="/assets/app-icons/icon_EarnCall.png" alt="EarnCall" width="36" height="36" loading="lazy"></a>
           </div>
           <a href="mailto:contact@bartlettbutter.com" class="footer-contact-email">contact@bartlettbutter.com</a>
         </div>

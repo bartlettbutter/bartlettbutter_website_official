@@ -43,7 +43,7 @@ Evet. LinkHQ indirmesi ve kullanması ücretsizdir, reklamsız ve hesapsız.
 
 ### LinkHQ verilerimi topluyor mu?
 
-Hayır. Kullanıcı hesabı, analiz, izleme veya reklam yok. Kitaplığınız yalnızca cihazınızda saklanır ve asla yüklenmez. Ağın tek kullanımı, başlık, küçük resim ve anahtar kelimeleri getiren bağlantı başına bir meta veri sorgusudur. Ayrıntılar için tam [Gizlilik Politikası](https://www.bartlettbutter.com/linkhq/privacy/tr/) sayfamıza bakın.
+Hayır. Kullanıcı hesabı, analiz, izleme veya reklam yok. Kitaplığınız yalnızca cihazınızda saklanır ve asla yüklenmez. Ağın tek kullanımı, başlık, küçük resim ve anahtar kelimeleri getiren bağlantı başına bir meta veri sorgusudur. Ayrıntılar için tam [Gizlilik Politikası](https://bartlettbutter.com/linkhq/privacy/tr/) sayfamıza bakın.
 
 ### LinkHQ hangi kaynakları tanır?
 

@@ -55,7 +55,7 @@ Ze zijn gegroepeerd naar wat een forens daadwerkelijk vraagt:
 
 ### Waar komen de gegevens vandaan?
 
-TrafficVibe put uit vertrouwde, gevestigde bronnen voor kaarten, weer en openbare gegevens voor routering en aankomsttijden, omstandigheden, wegkenmerken in de buurt, feestdagen en brandstofprijzen (getoond in je lokale valuta). Je briefing en de bijbehorende beoordelingen worden op je apparaat samengesteld; er wordt niets over je woon-werkrit geüpload. Voor precies wat je apparaat verlaat en waarom, zie ons [Privacybeleid](https://www.bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe put uit vertrouwde, gevestigde bronnen voor kaarten, weer en openbare gegevens voor routering en aankomsttijden, omstandigheden, wegkenmerken in de buurt, feestdagen en brandstofprijzen (getoond in je lokale valuta). Je briefing en de bijbehorende beoordelingen worden op je apparaat samengesteld; er wordt niets over je woon-werkrit geüpload. Voor precies wat je apparaat verlaat en waarom, zie ons [Privacybeleid](https://bartlettbutter.com/trafficvibe/privacy/).
 
 ## Meldingen
 

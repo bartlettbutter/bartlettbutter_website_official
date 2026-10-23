@@ -99,7 +99,7 @@ Não. Não há conta nem cadastro, e o EarnCall não coleta dados pessoais, não
 
 ### O que sai do meu dispositivo?
 
-Apenas solicitações de dados públicos de mercado: tickers e datas enviados ao Yahoo Finance, SEC EDGAR, Finnhub e ao próprio proxy de transcrições do app para obter dados financeiros públicos, preços, o calendário de resultados e as transcrições das teleconferências. Nenhuma informação pessoal e nenhum identificador de usuário é enviado. Consulte nossa [Política de privacidade](https://www.bartlettbutter.com/earncall/privacy/pt/) completa.
+Apenas solicitações de dados públicos de mercado: tickers e datas enviados ao Yahoo Finance, SEC EDGAR, Finnhub e ao próprio proxy de transcrições do app para obter dados financeiros públicos, preços, o calendário de resultados e as transcrições das teleconferências. Nenhuma informação pessoal e nenhum identificador de usuário é enviado. Consulte nossa [Política de privacidade](https://bartlettbutter.com/earncall/privacy/pt/) completa.
 
 ### Meus dados são armazenados em algum lugar on-line?
 

@@ -129,7 +129,7 @@ No. Tutta l'elaborazione delle foto avviene interamente sul tuo dispositivo. Le 
 
 ### Quali dati raccogliete?
 
-Nessuno. FormuLens non ha account, né analisi, né tracciamento, né pubblicità. Consulta la nostra [Informativa sulla Privacy](https://www.bartlettbutter.com/formulens/privacy/) completa per i dettagli.
+Nessuno. FormuLens non ha account, né analisi, né tracciamento, né pubblicità. Consulta la nostra [Informativa sulla Privacy](https://bartlettbutter.com/formulens/privacy/) completa per i dettagli.
 
 ### Come elimino i miei dati salvati?
 

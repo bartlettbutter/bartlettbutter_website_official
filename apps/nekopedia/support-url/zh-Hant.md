@@ -67,7 +67,7 @@ Nekopedia可識別48個貓的品種，包括緬因貓、布偶貓、暹羅貓、
 
 ### 我的資料私密嗎？
 
-是的。您的照片永遠不會離開您的裝置，也不會收集任何個人資料。詳情請參閱我們完整的[隱私政策](https://www.bartlettbutter.com/nekopedia/privacy/)。
+是的。您的照片永遠不會離開您的裝置，也不會收集任何個人資料。詳情請參閱我們完整的[隱私政策](https://bartlettbutter.com/nekopedia/privacy/)。
 
 ## 許可權
 

@@ -39,7 +39,7 @@ Sim. O Sayminder é gratuito para baixar e usar, sem anúncios.
 
 ### O Sayminder coleta meus dados?
 
-Não. Não há contas de usuário, nem análises, nem rastreamento, nem publicidade. Os lembretes, o agendamento e a conversão de texto em fala funcionam todos localmente e são armazenados apenas no seu dispositivo. Consulte nossa [Política de Privacidade](https://www.bartlettbutter.com/sayminder/privacy/pt/) completa para mais detalhes.
+Não. Não há contas de usuário, nem análises, nem rastreamento, nem publicidade. Os lembretes, o agendamento e a conversão de texto em fala funcionam todos localmente e são armazenados apenas no seu dispositivo. Consulte nossa [Política de Privacidade](https://bartlettbutter.com/sayminder/privacy/pt/) completa para mais detalhes.
 
 ### Os lembretes funcionam quando meu telefone está no silencioso ou em Foco?
 

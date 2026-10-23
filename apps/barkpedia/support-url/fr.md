@@ -57,7 +57,7 @@ Oui. Barkpedia adapte automatiquement sa mise en page, avec une navigation par o
 
 ### Mes données sont-elles privées ?
 
-Oui. Vos photos sont traitées entièrement sur votre appareil et ne sont jamais téléchargées. Barkpedia ne collecte aucune donnée personnelle, n'a aucun compte utilisateur et n'inclut aucune analyse ni suivi. Consultez notre [Politique de Confidentialité](https://www.bartlettbutter.com/barkpedia/privacy/) complète pour plus de détails.
+Oui. Vos photos sont traitées entièrement sur votre appareil et ne sont jamais téléchargées. Barkpedia ne collecte aucune donnée personnelle, n'a aucun compte utilisateur et n'inclut aucune analyse ni suivi. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/barkpedia/privacy/) complète pour plus de détails.
 
 ### Où mes données sont-elles stockées ?
 

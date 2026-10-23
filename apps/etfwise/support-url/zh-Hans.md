@@ -55,7 +55,7 @@ ETFWise根据该ETF已显示的真实数据（价格、回报、情绪、费用�
 
 ### 我的数据私密吗？
 
-是的。没有账户，没有分析，没有追踪。仅将代码发送给金融数据提供商。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/etfwise/privacy/)。
+是的。没有账户，没有分析，没有追踪。仅将代码发送给金融数据提供商。详情请参阅我们完整的[隐私政策](https://bartlettbutter.com/etfwise/privacy/)。
 
 ### 如果我删除应用会怎样？
 

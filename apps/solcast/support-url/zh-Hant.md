@@ -41,7 +41,7 @@ redirect_from:
 
 ### Solcast會收集我的資料嗎？
 
-不會。沒有使用者賬戶，沒有分析，沒有追蹤，也沒有廣告。您的所有偏好設定都保留在您的裝置上。詳情請參閱我們完整的[隱私政策](https://www.bartlettbutter.com/solcast/privacy/)。
+不會。沒有使用者賬戶，沒有分析，沒有追蹤，也沒有廣告。您的所有偏好設定都保留在您的裝置上。詳情請參閱我們完整的[隱私政策](https://bartlettbutter.com/solcast/privacy/)。
 
 ### 我需要網際網路連線嗎？
 

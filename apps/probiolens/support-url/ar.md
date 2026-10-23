@@ -112,7 +112,7 @@ redirect_from:
 
 ### ما البيانات التي تجمعونها؟
 
-لا شيء. لا يحتوي ProbioLens على حسابات أو تحليلات أو تتبّع أو إعلانات. راجِع [سياسة الخصوصية](https://www.bartlettbutter.com/probiolens/privacy/ar/) الكاملة للتفاصيل.
+لا شيء. لا يحتوي ProbioLens على حسابات أو تحليلات أو تتبّع أو إعلانات. راجِع [سياسة الخصوصية](https://bartlettbutter.com/probiolens/privacy/ar/) الكاملة للتفاصيل.
 
 ### كيف أحذف بياناتي؟
 

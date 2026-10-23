@@ -80,7 +80,7 @@ Nunca. Todo el procesamiento ocurre completamente en tu dispositivo.
 
 ### ¿Qué datos recopilan?
 
-Ninguno. Sin datos personales, sin analíticas de uso, sin identificadores de dispositivo. Consulta nuestra [Política de Privacidad](https://www.bartlettbutter.com/huepick/privacy/) completa para más detalles.
+Ninguno. Sin datos personales, sin analíticas de uso, sin identificadores de dispositivo. Consulta nuestra [Política de Privacidad](https://bartlettbutter.com/huepick/privacy/) completa para más detalles.
 
 ### ¿Qué ocurre si elimino la aplicación?
 

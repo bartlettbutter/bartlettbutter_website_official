@@ -67,7 +67,7 @@ Ja. Nekopedia ist eine universelle App, die sowohl auf iPhone als auch iPad funk
 
 ### Sind meine Daten privat?
 
-Ja. Deine Fotos verlassen niemals dein Gerät, und es werden keine personenbezogenen Daten erhoben. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://www.bartlettbutter.com/nekopedia/privacy/).
+Ja. Deine Fotos verlassen niemals dein Gerät, und es werden keine personenbezogenen Daten erhoben. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/nekopedia/privacy/).
 
 ## Berechtigungen
 

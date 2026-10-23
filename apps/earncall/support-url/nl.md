@@ -99,7 +99,7 @@ Nee. Er is geen account en geen aanmelding, en EarnCall verzamelt geen persoonsg
 
 ### Wat verlaat mijn toestel?
 
-Alleen verzoeken om openbare marktdata: tickers en data die naar Yahoo Finance, SEC EDGAR, Finnhub en de eigen transcript-proxy van de app worden gestuurd om openbare financiële data, koersen, de cijferagenda en call-transcripties op te halen. Er wordt geen persoonlijke informatie en geen gebruikers-ID verzonden. Zie ons volledige [privacybeleid](https://www.bartlettbutter.com/earncall/privacy/nl/).
+Alleen verzoeken om openbare marktdata: tickers en data die naar Yahoo Finance, SEC EDGAR, Finnhub en de eigen transcript-proxy van de app worden gestuurd om openbare financiële data, koersen, de cijferagenda en call-transcripties op te halen. Er wordt geen persoonlijke informatie en geen gebruikers-ID verzonden. Zie ons volledige [privacybeleid](https://bartlettbutter.com/earncall/privacy/nl/).
 
 ### Worden mijn gegevens ergens online opgeslagen?
 

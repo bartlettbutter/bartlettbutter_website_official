@@ -112,7 +112,7 @@ Hayır. Tüm işleme, Apple'ın cihaz üzeri metin tanımasıyla tamamen cihazı
 
 ### Hangi verileri topluyorsunuz?
 
-Hiçbirini. ProbioLens'te hesap, analiz, izleme ve reklam yoktur. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/probiolens/privacy/tr/) bakın.
+Hiçbirini. ProbioLens'te hesap, analiz, izleme ve reklam yoktur. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/probiolens/privacy/tr/) bakın.
 
 ### Verilerimi nasıl silerim?
 

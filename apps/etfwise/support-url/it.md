@@ -55,7 +55,7 @@ Sì. Usa la barra di ricerca per trovare qualsiasi ETF tramite simbolo ticker o 
 
 ### I miei dati sono privati?
 
-Sì. Nessun account, nessuna analisi, nessun tracciamento. Solo i simboli ticker vengono inviati ai fornitori di dati finanziari. Consulta la nostra [Informativa sulla Privacy](https://www.bartlettbutter.com/etfwise/privacy/) completa per maggiori dettagli.
+Sì. Nessun account, nessuna analisi, nessun tracciamento. Solo i simboli ticker vengono inviati ai fornitori di dati finanziari. Consulta la nostra [Informativa sulla Privacy](https://bartlettbutter.com/etfwise/privacy/) completa per maggiori dettagli.
 
 ### Cosa succede se elimino l'app?
 

@@ -55,7 +55,7 @@ Están agrupados según lo que de verdad se pregunta quien se desplaza:
 
 ### ¿De dónde vienen los datos?
 
-TrafficVibe se apoya en fuentes de mapas, tiempo y datos públicos fiables y consolidadas para las rutas y los tiempos estimados, las condiciones, las características de la vía cercanas, los festivos y los precios del combustible (mostrados en tu moneda local). Tu resumen y sus valoraciones se elaboran en tu dispositivo; nada sobre tu trayecto se sube. Para saber exactamente qué sale de tu dispositivo y por qué, consulta nuestra [Política de Privacidad](https://www.bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe se apoya en fuentes de mapas, tiempo y datos públicos fiables y consolidadas para las rutas y los tiempos estimados, las condiciones, las características de la vía cercanas, los festivos y los precios del combustible (mostrados en tu moneda local). Tu resumen y sus valoraciones se elaboran en tu dispositivo; nada sobre tu trayecto se sube. Para saber exactamente qué sale de tu dispositivo y por qué, consulta nuestra [Política de Privacidad](https://bartlettbutter.com/trafficvibe/privacy/).
 
 ## Notificaciones
 

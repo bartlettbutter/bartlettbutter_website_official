@@ -80,7 +80,7 @@ Nooit. Alle verwerking gebeurt volledig op je apparaat.
 
 ### Welke gegevens verzamelen jullie?
 
-Geen. Geen persoonsgegevens, geen gebruiksanalyse, geen apparaat-ID's. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/huepick/privacy/) voor meer details.
+Geen. Geen persoonsgegevens, geen gebruiksanalyse, geen apparaat-ID's. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/huepick/privacy/) voor meer details.
 
 ### Wat gebeurt er als ik de app verwijder?
 

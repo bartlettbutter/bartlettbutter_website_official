@@ -56,7 +56,7 @@ Yes. Barkpedia automatically adapts its layout, with tab navigation on iPhone an
 
 ### Is my data private?
 
-Yes. Your photos are processed entirely on your device and never uploaded. Barkpedia collects no personal data, has no user accounts, and includes no analytics or tracking. See our full [Privacy Policy](https://www.bartlettbutter.com/barkpedia/privacy/) for details.
+Yes. Your photos are processed entirely on your device and never uploaded. Barkpedia collects no personal data, has no user accounts, and includes no analytics or tracking. See our full [Privacy Policy](https://bartlettbutter.com/barkpedia/privacy/) for details.
 
 ### Where is my data stored?
 

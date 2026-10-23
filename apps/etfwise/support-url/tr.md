@@ -55,7 +55,7 @@ Evet. Herhangi bir ETF'yi hisse sembolü veya adıyla bulmak için arama çubuğ
 
 ### Verilerim gizli mi?
 
-Evet. Hesap yok, analiz yok, izleme yok. Finansal veri sağlayıcılarına yalnızca hisse sembolleri gönderilir. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/etfwise/privacy/) bakın.
+Evet. Hesap yok, analiz yok, izleme yok. Finansal veri sağlayıcılarına yalnızca hisse sembolleri gönderilir. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/etfwise/privacy/) bakın.
 
 ### Uygulamayı silersem ne olur?
 

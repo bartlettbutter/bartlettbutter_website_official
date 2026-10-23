@@ -55,7 +55,7 @@ Sie sind danach gruppiert, was ein Pendler tatsächlich fragt:
 
 ### Woher stammen die Daten?
 
-TrafficVibe greift auf vertrauenswürdige, etablierte Karten-, Wetter- und öffentliche Datenquellen für Routen und Ankunftszeiten, Bedingungen, nahe Straßenmerkmale, Feiertage und Spritpreise (in deiner lokalen Währung angezeigt) zurück. Dein Briefing und seine Bewertungen werden auf deinem Gerät zusammengestellt; nichts über deinen Weg wird hochgeladen. Was genau dein Gerät verlässt und warum, findest du in unserer [Datenschutzrichtlinie](https://www.bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe greift auf vertrauenswürdige, etablierte Karten-, Wetter- und öffentliche Datenquellen für Routen und Ankunftszeiten, Bedingungen, nahe Straßenmerkmale, Feiertage und Spritpreise (in deiner lokalen Währung angezeigt) zurück. Dein Briefing und seine Bewertungen werden auf deinem Gerät zusammengestellt; nichts über deinen Weg wird hochgeladen. Was genau dein Gerät verlässt und warum, findest du in unserer [Datenschutzrichtlinie](https://bartlettbutter.com/trafficvibe/privacy/).
 
 ## Benachrichtigungen
 

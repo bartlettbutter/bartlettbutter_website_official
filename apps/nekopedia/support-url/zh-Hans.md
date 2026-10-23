@@ -67,7 +67,7 @@ Nekopedia可识别48个猫的品种，包括缅因猫、布偶猫、暹罗猫、
 
 ### 我的数据私密吗？
 
-是的。您的照片永远不会离开您的设备，也不会收集任何个人数据。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/nekopedia/privacy/)。
+是的。您的照片永远不会离开您的设备，也不会收集任何个人数据。详情请参阅我们完整的[隐私政策](https://bartlettbutter.com/nekopedia/privacy/)。
 
 ## 权限
 

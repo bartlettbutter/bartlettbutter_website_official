@@ -67,7 +67,7 @@ Evet. Nekopedia, hem iPhone hem de iPad'de çalışan evrensel bir uygulamadır.
 
 ### Verilerim gizli mi?
 
-Evet. Fotoğraflarınız cihazınızdan asla çıkmaz ve hiçbir kişisel veri toplanmaz. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/nekopedia/privacy/) bakın.
+Evet. Fotoğraflarınız cihazınızdan asla çıkmaz ve hiçbir kişisel veri toplanmaz. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/nekopedia/privacy/) bakın.
 
 ## İzinler
 

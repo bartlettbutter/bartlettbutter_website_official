@@ -55,7 +55,7 @@ Ja. Gebruik de zoekbalk om een ETF op tickersymbool of naam te vinden. De zoekop
 
 ### Zijn mijn gegevens privé?
 
-Ja. Geen accounts, geen analyse, geen tracking. Alleen tickersymbolen worden naar financiële dataproviders verzonden. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/etfwise/privacy/) voor meer details.
+Ja. Geen accounts, geen analyse, geen tracking. Alleen tickersymbolen worden naar financiële dataproviders verzonden. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/etfwise/privacy/) voor meer details.
 
 ### Wat gebeurt er als ik de app verwijder?
 

@@ -55,7 +55,7 @@ Eles são agrupados pelo que um motorista realmente pergunta:
 
 ### De onde vêm os dados?
 
-O TrafficVibe se baseia em fontes confiáveis e consolidadas de mapas, clima e dados públicos para rotas e tempos estimados, condições, recursos de vias por perto, feriados e preços de combustível (exibidos na sua moeda local). Seu resumo e suas avaliações são montados no seu dispositivo; nada sobre o seu trajeto é enviado. Para saber exatamente o que sai do seu dispositivo e por quê, veja nossa [Política de Privacidade](https://www.bartlettbutter.com/trafficvibe/privacy/).
+O TrafficVibe se baseia em fontes confiáveis e consolidadas de mapas, clima e dados públicos para rotas e tempos estimados, condições, recursos de vias por perto, feriados e preços de combustível (exibidos na sua moeda local). Seu resumo e suas avaliações são montados no seu dispositivo; nada sobre o seu trajeto é enviado. Para saber exatamente o que sai do seu dispositivo e por quê, veja nossa [Política de Privacidade](https://bartlettbutter.com/trafficvibe/privacy/).
 
 ## Notificações
 

@@ -111,7 +111,7 @@ No. All processing happens entirely on your device using Apple's on-device text 
 
 ### What data do you collect?
 
-None. ProbioLens has no accounts, no analytics, no tracking, and no advertising. See our full [Privacy Policy](https://www.bartlettbutter.com/probiolens/privacy/) for details.
+None. ProbioLens has no accounts, no analytics, no tracking, and no advertising. See our full [Privacy Policy](https://bartlettbutter.com/probiolens/privacy/) for details.
 
 ### How do I delete my data?
 

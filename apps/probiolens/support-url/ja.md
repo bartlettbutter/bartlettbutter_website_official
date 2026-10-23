@@ -112,7 +112,7 @@ App Store から最新版に更新し、端末を再起動してください。�
 
 ### どんなデータを収集しますか？
 
-何も収集しません。ProbioLens にはアカウント、解析、トラッキング、広告がありません。詳しくは[プライバシーポリシー](https://www.bartlettbutter.com/probiolens/privacy/ja/)全文をご覧ください。
+何も収集しません。ProbioLens にはアカウント、解析、トラッキング、広告がありません。詳しくは[プライバシーポリシー](https://bartlettbutter.com/probiolens/privacy/ja/)全文をご覧ください。
 
 ### データはどうやって削除しますか？
 

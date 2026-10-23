@@ -129,7 +129,7 @@ FormuLens 內建了龐大的常見化妝品成分資料庫。非常新、罕見�
 
 ### 你們會收集哪些資料？
 
-不收集任何資料。FormuLens 沒有賬戶、沒有分析統計、沒有追蹤，也沒有廣告。詳情請檢視我們完整的[隱私政策](https://www.bartlettbutter.com/formulens/privacy/)。
+不收集任何資料。FormuLens 沒有賬戶、沒有分析統計、沒有追蹤，也沒有廣告。詳情請檢視我們完整的[隱私政策](https://bartlettbutter.com/formulens/privacy/)。
 
 ### 我該如何刪除已儲存的資料？
 

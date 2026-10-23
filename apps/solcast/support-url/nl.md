@@ -41,7 +41,7 @@ Ja. Solcast is gratis te downloaden en de volledige weerervaring (voorspellingen
 
 ### Verzamelt Solcast mijn gegevens?
 
-Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Al je voorkeuren blijven op je apparaat. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/solcast/privacy/) voor meer details.
+Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Al je voorkeuren blijven op je apparaat. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/solcast/privacy/) voor meer details.
 
 ### Heb ik een internetverbinding nodig?
 

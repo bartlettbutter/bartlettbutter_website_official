@@ -54,7 +54,7 @@ Yes. Use the search bar to find any ETF by ticker symbol or name. The search cov
 
 ### Is my data private?
 
-Yes. No accounts, no analytics, no tracking. Only ticker symbols are sent to financial data providers. See our full [Privacy Policy](https://www.bartlettbutter.com/etfwise/privacy/) for details.
+Yes. No accounts, no analytics, no tracking. Only ticker symbols are sent to financial data providers. See our full [Privacy Policy](https://bartlettbutter.com/etfwise/privacy/) for details.
 
 ### What happens if I delete the app?
 

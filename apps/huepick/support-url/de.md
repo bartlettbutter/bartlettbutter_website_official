@@ -80,7 +80,7 @@ Niemals. Die gesamte Verarbeitung erfolgt vollständig auf deinem Gerät.
 
 ### Welche Daten erhebt ihr?
 
-Keine. Keine personenbezogenen Daten, keine Nutzungsanalysen, keine Gerätekennungen. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://www.bartlettbutter.com/huepick/privacy/).
+Keine. Keine personenbezogenen Daten, keine Nutzungsanalysen, keine Gerätekennungen. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/huepick/privacy/).
 
 ### Was passiert, wenn ich die App lösche?
 

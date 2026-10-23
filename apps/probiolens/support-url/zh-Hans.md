@@ -112,7 +112,7 @@ ProbioLens 始终把四个层次分开，让你清楚孰是孰非：
 
 ### 你们收集哪些数据？
 
-没有。ProbioLens 没有账户、没有分析、没有追踪、没有广告。详情请见完整[隐私政策](https://www.bartlettbutter.com/probiolens/privacy/zh-Hans/)。
+没有。ProbioLens 没有账户、没有分析、没有追踪、没有广告。详情请见完整[隐私政策](https://bartlettbutter.com/probiolens/privacy/zh-Hans/)。
 
 ### 如何删除我的数据？
 

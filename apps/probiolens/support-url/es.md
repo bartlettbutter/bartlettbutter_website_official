@@ -112,7 +112,7 @@ No. Todo el procesamiento ocurre por completo en tu dispositivo con el reconocim
 
 ### ¿Qué datos recopilan?
 
-Ninguno. ProbioLens no tiene cuentas, ni analítica, ni seguimiento, ni publicidad. Consulta nuestra [Política de privacidad](https://www.bartlettbutter.com/probiolens/privacy/es/) completa para más detalles.
+Ninguno. ProbioLens no tiene cuentas, ni analítica, ni seguimiento, ni publicidad. Consulta nuestra [Política de privacidad](https://bartlettbutter.com/probiolens/privacy/es/) completa para más detalles.
 
 ### ¿Cómo elimino mis datos?
 

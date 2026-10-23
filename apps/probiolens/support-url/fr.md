@@ -112,7 +112,7 @@ Non. Tout le traitement se fait entièrement sur votre appareil avec la reconnai
 
 ### Quelles données collectez-vous ?
 
-Aucune. ProbioLens n'a pas de comptes, pas d'analytique, pas de suivi et pas de publicité. Consultez notre [politique de confidentialité](https://www.bartlettbutter.com/probiolens/privacy/fr/) complète pour les détails.
+Aucune. ProbioLens n'a pas de comptes, pas d'analytique, pas de suivi et pas de publicité. Consultez notre [politique de confidentialité](https://bartlettbutter.com/probiolens/privacy/fr/) complète pour les détails.
 
 ### Comment supprimer mes données ?
 

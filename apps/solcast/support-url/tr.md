@@ -41,7 +41,7 @@ Evet. Solcast'i indirmek ücretsizdir ve tam hava durumu deneyimi (tahminler, k�
 
 ### Solcast verilerimi topluyor mu?
 
-Hayır. Kullanıcı hesabı, analiz, izleme veya reklam yoktur. Tüm tercihleriniz cihazınızda kalır. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/solcast/privacy/) bakın.
+Hayır. Kullanıcı hesabı, analiz, izleme veya reklam yoktur. Tüm tercihleriniz cihazınızda kalır. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/solcast/privacy/) bakın.
 
 ### İnternet bağlantısına ihtiyacım var mı?
 

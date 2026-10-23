@@ -39,7 +39,7 @@ Sì. Sayminder è gratuito da scaricare e usare, senza pubblicità.
 
 ### Sayminder raccoglie i miei dati?
 
-No. Non ci sono account utente, né analisi, né tracciamento, né pubblicità. Promemoria, pianificazione e sintesi vocale funzionano tutti in locale e vengono archiviati solo sul tuo dispositivo. Per i dettagli, consulta la nostra [Informativa sulla privacy](https://www.bartlettbutter.com/sayminder/privacy/it/) completa.
+No. Non ci sono account utente, né analisi, né tracciamento, né pubblicità. Promemoria, pianificazione e sintesi vocale funzionano tutti in locale e vengono archiviati solo sul tuo dispositivo. Per i dettagli, consulta la nostra [Informativa sulla privacy](https://bartlettbutter.com/sayminder/privacy/it/) completa.
 
 ### I promemoria funzionano quando il telefono è in silenzioso o in Full Immersion?
 

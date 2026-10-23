@@ -41,7 +41,7 @@ redirect_from:
 
 ### Solcast会收集我的数据吗？
 
-不会。没有用户账户，没有分析，没有追踪，也没有广告。您的所有偏好设置都保留在您的设备上。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/solcast/privacy/)。
+不会。没有用户账户，没有分析，没有追踪，也没有广告。您的所有偏好设置都保留在您的设备上。详情请参阅我们完整的[隐私政策](https://bartlettbutter.com/solcast/privacy/)。
 
 ### 我需要互联网连接吗？
 

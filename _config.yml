@@ -1,7 +1,7 @@
 # Jekyll configuration for bartlettbutter.com
 title: "Bartlett Butter"
 description: "Crisp & Smooth Apps for Mobile and Web"
-url: "https://www.bartlettbutter.com"
+url: "https://bartlettbutter.com"
 baseurl: ""
 
 # Plugins (GitHub Pages supported set)

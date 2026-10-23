@@ -55,7 +55,7 @@ Oui. Utilisez la barre de recherche pour trouver n'importe quel ETF par symbole 
 
 ### Mes données sont-elles privées ?
 
-Oui. Aucun compte, aucune analyse, aucun suivi. Seuls les symboles boursiers sont envoyés aux fournisseurs de données financières. Consultez notre [Politique de Confidentialité](https://www.bartlettbutter.com/etfwise/privacy/) complète pour plus de détails.
+Oui. Aucun compte, aucune analyse, aucun suivi. Seuls les symboles boursiers sont envoyés aux fournisseurs de données financières. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/etfwise/privacy/) complète pour plus de détails.
 
 ### Que se passe-t-il si je supprime l'application ?
 

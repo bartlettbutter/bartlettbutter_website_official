@@ -41,7 +41,7 @@ Ja. Solcast ist kostenlos herunterzuladen, und das vollständige Wettererlebnis 
 
 ### Erhebt Solcast meine Daten?
 
-Nein. Es gibt keine Benutzerkonten, keine Analysen, kein Tracking und keine Werbung. Alle deine Einstellungen bleiben auf deinem Gerät. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://www.bartlettbutter.com/solcast/privacy/).
+Nein. Es gibt keine Benutzerkonten, keine Analysen, kein Tracking und keine Werbung. Alle deine Einstellungen bleiben auf deinem Gerät. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/solcast/privacy/).
 
 ### Brauche ich eine Internetverbindung?
 

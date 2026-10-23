@@ -43,7 +43,7 @@ Sí. LinkHQ es gratis de descargar y usar, sin anuncios y sin cuenta.
 
 ### ¿LinkHQ recopila mis datos?
 
-No. No hay cuentas de usuario, ni analítica, ni seguimiento, ni publicidad. Tu biblioteca se guarda solo en tu dispositivo y nunca se sube. El único uso de la red es una consulta de metadatos por enlace que obtiene un título, una miniatura y palabras clave. Consulta nuestra [Política de privacidad](https://www.bartlettbutter.com/linkhq/privacy/es/) completa para más detalles.
+No. No hay cuentas de usuario, ni analítica, ni seguimiento, ni publicidad. Tu biblioteca se guarda solo en tu dispositivo y nunca se sube. El único uso de la red es una consulta de metadatos por enlace que obtiene un título, una miniatura y palabras clave. Consulta nuestra [Política de privacidad](https://bartlettbutter.com/linkhq/privacy/es/) completa para más detalles.
 
 ### ¿Qué orígenes reconoce LinkHQ?
 

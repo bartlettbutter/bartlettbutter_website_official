@@ -57,7 +57,7 @@ Barkpedia基于AKC标准识别147个品种。
 
 ### 我的数据私密吗？
 
-是的。您的照片完全在您的设备上处理，永远不会上传。Barkpedia不收集任何个人数据，没有用户账户，也不包含任何分析或追踪。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/barkpedia/privacy/)。
+是的。您的照片完全在您的设备上处理，永远不会上传。Barkpedia不收集任何个人数据，没有用户账户，也不包含任何分析或追踪。详情请参阅我们完整的[隐私政策](https://bartlettbutter.com/barkpedia/privacy/)。
 
 ### 我的数据存储在哪里？
 

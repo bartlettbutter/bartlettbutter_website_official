@@ -57,7 +57,7 @@ Ja. Barkpedia passt sein Layout automatisch an, mit Tab-Navigation auf dem iPhon
 
 ### Sind meine Daten privat?
 
-Ja. Deine Fotos werden vollständig auf deinem Gerät verarbeitet und niemals hochgeladen. Barkpedia erhebt keine personenbezogenen Daten, hat keine Benutzerkonten und enthält keine Analysen oder Tracking. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://www.bartlettbutter.com/barkpedia/privacy/).
+Ja. Deine Fotos werden vollständig auf deinem Gerät verarbeitet und niemals hochgeladen. Barkpedia erhebt keine personenbezogenen Daten, hat keine Benutzerkonten und enthält keine Analysen oder Tracking. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/barkpedia/privacy/).
 
 ### Wo werden meine Daten gespeichert?
 

@@ -39,7 +39,7 @@ redirect_from:
 
 ### Sayminder 会收集我的数据吗？
 
-不会。没有用户账户，没有分析统计，没有跟踪，也没有广告。提醒、日程安排和文字转语音全部在本地运行，仅存储在您的设备上。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/sayminder/privacy/zh-Hans/)。
+不会。没有用户账户，没有分析统计，没有跟踪，也没有广告。提醒、日程安排和文字转语音全部在本地运行，仅存储在您的设备上。详情请参阅我们完整的[隐私政策](https://bartlettbutter.com/sayminder/privacy/zh-Hans/)。
 
 ### 当手机处于静音或专注模式时，提醒还能工作吗？
 

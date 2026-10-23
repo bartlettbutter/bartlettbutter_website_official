@@ -54,7 +54,7 @@ They're grouped by what a commuter actually asks:
 
 ### Where does the data come from?
 
-TrafficVibe draws on trusted, established mapping, weather, and public-data sources for routing and ETAs, conditions, nearby road features, holidays, and fuel prices (shown in your local currency). Your briefing and its ratings are put together on your device; nothing about your commute is uploaded. For exactly what leaves your device and why, see our [Privacy Policy](https://www.bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe draws on trusted, established mapping, weather, and public-data sources for routing and ETAs, conditions, nearby road features, holidays, and fuel prices (shown in your local currency). Your briefing and its ratings are put together on your device; nothing about your commute is uploaded. For exactly what leaves your device and why, see our [Privacy Policy](https://bartlettbutter.com/trafficvibe/privacy/).
 
 ## Notifications
 

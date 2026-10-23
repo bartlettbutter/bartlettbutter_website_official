@@ -43,7 +43,7 @@ Ja. LinkHQ is gratis te downloaden en te gebruiken, zonder advertenties en zonde
 
 ### Verzamelt LinkHQ mijn gegevens?
 
-Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Je bibliotheek staat alleen op je apparaat en wordt nooit geüpload. Het netwerk wordt alleen gebruikt voor een metadata-opzoeking per link die een titel, miniatuur en trefwoorden ophaalt. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/linkhq/privacy/nl/) voor details.
+Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Je bibliotheek staat alleen op je apparaat en wordt nooit geüpload. Het netwerk wordt alleen gebruikt voor een metadata-opzoeking per link die een titel, miniatuur en trefwoorden ophaalt. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/linkhq/privacy/nl/) voor details.
 
 ### Welke bronnen herkent LinkHQ?
 

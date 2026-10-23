@@ -57,7 +57,7 @@ Barkpedia基於AKC標準識別147個品種。
 
 ### 我的資料私密嗎？
 
-是的。您的照片完全在您的裝置上處理，永遠不會上傳。Barkpedia不收集任何個人資料，沒有使用者賬戶，也不包含任何分析或追蹤。詳情請參閱我們完整的[隱私政策](https://www.bartlettbutter.com/barkpedia/privacy/)。
+是的。您的照片完全在您的裝置上處理，永遠不會上傳。Barkpedia不收集任何個人資料，沒有使用者賬戶，也不包含任何分析或追蹤。詳情請參閱我們完整的[隱私政策](https://bartlettbutter.com/barkpedia/privacy/)。
 
 ### 我的資料儲存在哪裡？
 

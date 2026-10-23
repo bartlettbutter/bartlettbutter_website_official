@@ -99,7 +99,7 @@ Impact 标签页的角标表明本次会话的价格是最新的还是来自上�
 
 ### 有什么会离开我的设备？
 
-只有公开市场数据请求：为获取公开财务数据、价格、财报日历和电话会议文字记录，发送到 Yahoo Finance、SEC EDGAR、Finnhub 以及应用自有文字记录代理的股票代码和日期。不会发送任何个人信息，也不会发送任何用户标识符。详情见我们完整的[隐私政策](https://www.bartlettbutter.com/earncall/privacy/zh-Hans/)。
+只有公开市场数据请求：为获取公开财务数据、价格、财报日历和电话会议文字记录，发送到 Yahoo Finance、SEC EDGAR、Finnhub 以及应用自有文字记录代理的股票代码和日期。不会发送任何个人信息，也不会发送任何用户标识符。详情见我们完整的[隐私政策](https://bartlettbutter.com/earncall/privacy/zh-Hans/)。
 
 ### 我的数据会在线存储在某处吗？
 

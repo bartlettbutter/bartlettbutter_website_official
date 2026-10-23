@@ -80,7 +80,7 @@ Asla. Tüm işlemler tamamen cihazınızda gerçekleşir.
 
 ### Hangi verileri topluyorsunuz?
 
-Hiçbiri. Kişisel veri yok, kullanım analizi yok, cihaz tanımlayıcısı yok. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/huepick/privacy/) bakın.
+Hiçbiri. Kişisel veri yok, kullanım analizi yok, cihaz tanımlayıcısı yok. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/huepick/privacy/) bakın.
 
 ### Uygulamayı silersem ne olur?
 

@@ -57,7 +57,7 @@ Evet. Barkpedia düzenini otomatik olarak uyarlar; iPhone'da sekme gezinmesi, iP
 
 ### Verilerim gizli mi?
 
-Evet. Fotoğraflarınız tamamen cihazınızda işlenir ve asla yüklenmez. Barkpedia hiçbir kişisel veri toplamaz, kullanıcı hesabı yoktur ve hiçbir analiz veya izleme içermez. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/barkpedia/privacy/) bakın.
+Evet. Fotoğraflarınız tamamen cihazınızda işlenir ve asla yüklenmez. Barkpedia hiçbir kişisel veri toplamaz, kullanıcı hesabı yoktur ve hiçbir analiz veya izleme içermez. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/barkpedia/privacy/) bakın.
 
 ### Verilerim nerede saklanır?
 

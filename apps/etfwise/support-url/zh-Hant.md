@@ -55,7 +55,7 @@ ETFWise根據該ETF已顯示的真實資料（價格、回報、情緒、費用�
 
 ### 我的資料私密嗎？
 
-是的。沒有賬戶，沒有分析，沒有追蹤。僅將程式碼傳送給金融資料提供商。詳情請參閱我們完整的[隱私政策](https://www.bartlettbutter.com/etfwise/privacy/)。
+是的。沒有賬戶，沒有分析，沒有追蹤。僅將程式碼傳送給金融資料提供商。詳情請參閱我們完整的[隱私政策](https://bartlettbutter.com/etfwise/privacy/)。
 
 ### 如果我刪除應用會怎樣？
 

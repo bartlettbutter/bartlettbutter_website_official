@@ -99,7 +99,7 @@ Hayır. Hesap ya da kayıt yoktur ve EarnCall kişisel veri toplamaz, analiz kul
 
 ### Cihazımdan ne çıkar?
 
-Yalnızca kamuya açık piyasa verisi istekleri: kamuya açık finansal verileri, fiyatları, bilanço takvimini ve telekonferans dökümlerini almak için Yahoo Finance, SEC EDGAR, Finnhub ve uygulamanın kendi döküm proxy'sine gönderilen semboller ve tarihler. Hiçbir kişisel bilgi ve hiçbir kullanıcı tanımlayıcısı gönderilmez. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/earncall/privacy/tr/) bakın.
+Yalnızca kamuya açık piyasa verisi istekleri: kamuya açık finansal verileri, fiyatları, bilanço takvimini ve telekonferans dökümlerini almak için Yahoo Finance, SEC EDGAR, Finnhub ve uygulamanın kendi döküm proxy'sine gönderilen semboller ve tarihler. Hiçbir kişisel bilgi ve hiçbir kullanıcı tanımlayıcısı gönderilmez. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/earncall/privacy/tr/) bakın.
 
 ### Verilerim çevrimiçi bir yerde saklanıyor mu?
 

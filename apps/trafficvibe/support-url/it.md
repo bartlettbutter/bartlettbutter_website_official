@@ -55,7 +55,7 @@ Sono raggruppati in base a ciò che un pendolare chiede davvero:
 
 ### Da dove provengono i dati?
 
-TrafficVibe attinge a fonti affidabili e consolidate di mappe, meteo e dati pubblici per percorsi e tempi di percorrenza, condizioni, caratteristiche stradali nelle vicinanze, festività e prezzi del carburante (mostrati nella tua valuta locale). Il tuo resoconto e le sue valutazioni sono composti sul tuo dispositivo: nulla del tuo tragitto viene caricato. Per sapere esattamente cosa lascia il tuo dispositivo e perché, consulta la nostra [Informativa sulla privacy](https://www.bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe attinge a fonti affidabili e consolidate di mappe, meteo e dati pubblici per percorsi e tempi di percorrenza, condizioni, caratteristiche stradali nelle vicinanze, festività e prezzi del carburante (mostrati nella tua valuta locale). Il tuo resoconto e le sue valutazioni sono composti sul tuo dispositivo: nulla del tuo tragitto viene caricato. Per sapere esattamente cosa lascia il tuo dispositivo e perché, consulta la nostra [Informativa sulla privacy](https://bartlettbutter.com/trafficvibe/privacy/).
 
 ## Notifiche
 

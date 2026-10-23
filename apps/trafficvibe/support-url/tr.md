@@ -55,7 +55,7 @@ Bir yolcunun gerçekte sorduğu şeye göre gruplandırılmışlardır:
 
 ### Veriler nereden geliyor?
 
-TrafficVibe; rotalama ve varış süreleri, koşullar, yakındaki yol özellikleri, tatiller ve yakıt fiyatları (yerel para biriminizle gösterilir) için güvenilir, köklü harita, hava durumu ve kamu verisi kaynaklarından yararlanır. Özetiniz ve derecelendirmeleri cihazınızda bir araya getirilir; yolculuğunuza dair hiçbir şey yüklenmez. Cihazınızdan tam olarak neyin ve neden çıktığını görmek için [Gizlilik Politikamıza](https://www.bartlettbutter.com/trafficvibe/privacy/) bakın.
+TrafficVibe; rotalama ve varış süreleri, koşullar, yakındaki yol özellikleri, tatiller ve yakıt fiyatları (yerel para biriminizle gösterilir) için güvenilir, köklü harita, hava durumu ve kamu verisi kaynaklarından yararlanır. Özetiniz ve derecelendirmeleri cihazınızda bir araya getirilir; yolculuğunuza dair hiçbir şey yüklenmez. Cihazınızdan tam olarak neyin ve neden çıktığını görmek için [Gizlilik Politikamıza](https://bartlettbutter.com/trafficvibe/privacy/) bakın.
 
 ## Bildirimler
 

@@ -41,7 +41,7 @@ Sí: Solcast es gratis de descargar y la experiencia meteorológica completa (pr
 
 ### ¿Solcast recopila mis datos?
 
-No. No hay cuentas de usuario, ni analíticas, ni rastreo, ni publicidad. Todas tus preferencias se quedan en tu dispositivo. Consulta nuestra [Política de Privacidad](https://www.bartlettbutter.com/solcast/privacy/) completa para más detalles.
+No. No hay cuentas de usuario, ni analíticas, ni rastreo, ni publicidad. Todas tus preferencias se quedan en tu dispositivo. Consulta nuestra [Política de Privacidad](https://bartlettbutter.com/solcast/privacy/) completa para más detalles.
 
 ### ¿Necesito conexión a internet?
 

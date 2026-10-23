@@ -79,7 +79,7 @@ Never. All processing happens entirely on your device.
 
 ### What data do you collect?
 
-None. No personal data, no usage analytics, no device identifiers. See our full [Privacy Policy](https://www.bartlettbutter.com/huepick/privacy/) for details.
+None. No personal data, no usage analytics, no device identifiers. See our full [Privacy Policy](https://bartlettbutter.com/huepick/privacy/) for details.
 
 ### What happens if I delete the app?
 

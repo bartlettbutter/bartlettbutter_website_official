@@ -39,7 +39,7 @@ redirect_from:
 
 ### Sayminder 會收集我的資料嗎？
 
-不會。沒有使用者帳戶，沒有分析統計，沒有追蹤，也沒有廣告。提醒、排程和文字轉語音全部在本機執行，僅儲存在您的裝置上。詳情請參閱我們完整的[隱私權政策](https://www.bartlettbutter.com/sayminder/privacy/zh-Hant/)。
+不會。沒有使用者帳戶，沒有分析統計，沒有追蹤，也沒有廣告。提醒、排程和文字轉語音全部在本機執行，僅儲存在您的裝置上。詳情請參閱我們完整的[隱私權政策](https://bartlettbutter.com/sayminder/privacy/zh-Hant/)。
 
 ### 當手機處於靜音或專注模式時，提醒還能運作嗎？
 

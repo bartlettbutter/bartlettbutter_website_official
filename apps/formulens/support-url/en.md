@@ -128,7 +128,7 @@ No. All photo processing happens entirely on your device. Your images never leav
 
 ### What data do you collect?
 
-None. FormuLens has no accounts, no analytics, no tracking, and no advertising. See our full [Privacy Policy](https://www.bartlettbutter.com/formulens/privacy/) for details.
+None. FormuLens has no accounts, no analytics, no tracking, and no advertising. See our full [Privacy Policy](https://bartlettbutter.com/formulens/privacy/) for details.
 
 ### How do I delete my saved data?
 

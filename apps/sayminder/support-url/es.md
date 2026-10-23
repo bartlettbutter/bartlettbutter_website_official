@@ -39,7 +39,7 @@ Sí. Sayminder se descarga y se usa de forma gratuita, sin anuncios.
 
 ### ¿Sayminder recopila mis datos?
 
-No. No hay cuentas de usuario, ni analíticas, ni seguimiento, ni publicidad. Los recordatorios, la programación y la síntesis de voz se ejecutan localmente y se almacenan solo en tu dispositivo. Consulta nuestra [Política de Privacidad](https://www.bartlettbutter.com/sayminder/privacy/es/) completa para más detalles.
+No. No hay cuentas de usuario, ni analíticas, ni seguimiento, ni publicidad. Los recordatorios, la programación y la síntesis de voz se ejecutan localmente y se almacenan solo en tu dispositivo. Consulta nuestra [Política de Privacidad](https://bartlettbutter.com/sayminder/privacy/es/) completa para más detalles.
 
 ### ¿Funcionan los recordatorios cuando el teléfono está en silencio o en modo Concentración?
 

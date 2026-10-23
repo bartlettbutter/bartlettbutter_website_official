@@ -55,7 +55,7 @@ Ils sont regroupés selon ce qu'un conducteur demande réellement :
 
 ### D'où proviennent les données ?
 
-TrafficVibe s'appuie sur des sources cartographiques, météo et de données publiques fiables et reconnues pour les itinéraires et les estimations d'arrivée, les conditions, les caractéristiques routières à proximité, les jours fériés et les prix du carburant (affichés dans votre devise locale). Votre point et ses évaluations sont assemblés sur votre appareil : rien concernant votre trajet n'est téléversé. Pour savoir exactement ce qui quitte votre appareil et pourquoi, consultez notre [Politique de confidentialité](https://www.bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe s'appuie sur des sources cartographiques, météo et de données publiques fiables et reconnues pour les itinéraires et les estimations d'arrivée, les conditions, les caractéristiques routières à proximité, les jours fériés et les prix du carburant (affichés dans votre devise locale). Votre point et ses évaluations sont assemblés sur votre appareil : rien concernant votre trajet n'est téléversé. Pour savoir exactement ce qui quitte votre appareil et pourquoi, consultez notre [Politique de confidentialité](https://bartlettbutter.com/trafficvibe/privacy/).
 
 ## Notifications
 

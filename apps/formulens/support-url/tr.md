@@ -129,7 +129,7 @@ Hayır. Tüm fotoğraf işleme tamamen cihazınızda gerçekleşir. Görsellerin
 
 ### Hangi verileri topluyorsunuz?
 
-Hiçbiri. FormuLens'te hesap, analiz, takip veya reklam yoktur. Ayrıntılar için tam [Gizlilik Politikamıza](https://www.bartlettbutter.com/formulens/privacy/) bakın.
+Hiçbiri. FormuLens'te hesap, analiz, takip veya reklam yoktur. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/formulens/privacy/) bakın.
 
 ### Kayıtlı verilerimi nasıl silerim?
 

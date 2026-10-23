@@ -112,7 +112,7 @@ Nee. Alle verwerking gebeurt volledig op je apparaat met Apple's tekstherkenning
 
 ### Welke gegevens verzamelen jullie?
 
-Geen. ProbioLens heeft geen accounts, geen analyse, geen tracking en geen advertenties. Zie ons volledige [privacybeleid](https://www.bartlettbutter.com/probiolens/privacy/nl/) voor details.
+Geen. ProbioLens heeft geen accounts, geen analyse, geen tracking en geen advertenties. Zie ons volledige [privacybeleid](https://bartlettbutter.com/probiolens/privacy/nl/) voor details.
 
 ### Hoe verwijder ik mijn gegevens?
 

@@ -99,7 +99,7 @@ App Store에서 최신 버전으로 업데이트하고 기기를 재시작하세
 
 ### 제 기기에서 무엇이 나가나요?
 
-공개 시장 데이터 요청뿐입니다. 공개 재무 데이터, 가격, 실적 캘린더, 콜 녹취록을 가져오기 위해 티커와 날짜를 Yahoo Finance, SEC EDGAR, Finnhub, 앱 자체의 녹취 프록시로 보냅니다. 어떤 개인정보도, 사용자 식별자도 전송하지 않습니다. 자세한 내용은 전체 [개인정보처리방침](https://www.bartlettbutter.com/earncall/privacy/ko/)을 참조하세요.
+공개 시장 데이터 요청뿐입니다. 공개 재무 데이터, 가격, 실적 캘린더, 콜 녹취록을 가져오기 위해 티커와 날짜를 Yahoo Finance, SEC EDGAR, Finnhub, 앱 자체의 녹취 프록시로 보냅니다. 어떤 개인정보도, 사용자 식별자도 전송하지 않습니다. 자세한 내용은 전체 [개인정보처리방침](https://bartlettbutter.com/earncall/privacy/ko/)을 참조하세요.
 
 ### 제 데이터가 온라인 어딘가에 저장되나요?
 

@@ -80,7 +80,7 @@ Jamais. Tout le traitement se déroule entièrement sur votre appareil.
 
 ### Quelles données collectez-vous ?
 
-Aucune. Aucune donnée personnelle, aucune analyse d'utilisation, aucun identifiant d'appareil. Consultez notre [Politique de Confidentialité](https://www.bartlettbutter.com/huepick/privacy/) complète pour plus de détails.
+Aucune. Aucune donnée personnelle, aucune analyse d'utilisation, aucun identifiant d'appareil. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/huepick/privacy/) complète pour plus de détails.
 
 ### Que se passe-t-il si je supprime l'application ?
 

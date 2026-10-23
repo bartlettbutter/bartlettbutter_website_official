@@ -39,7 +39,7 @@ Ja. Sayminder is gratis te downloaden en te gebruiken, zonder advertenties.
 
 ### Verzamelt Sayminder mijn gegevens?
 
-Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Herinneringen, planning en tekst-naar-spraak draaien allemaal lokaal en worden alleen op je apparaat bewaard. Zie ons volledige [Privacybeleid](https://www.bartlettbutter.com/sayminder/privacy/nl/) voor details.
+Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Herinneringen, planning en tekst-naar-spraak draaien allemaal lokaal en worden alleen op je apparaat bewaard. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/sayminder/privacy/nl/) voor details.
 
 ### Werken herinneringen wanneer mijn telefoon op stil staat of in Focus?
 

@@ -39,7 +39,7 @@ Evet. Sayminder'ın indirilmesi ve kullanılması ücretsizdir, reklam da yoktur
 
 ### Sayminder verilerimi topluyor mu?
 
-Hayır. Kullanıcı hesabı, analiz, izleme ve reklam yoktur. Hatırlatıcılar, zamanlama ve metin okuma özelliğinin tümü yerel olarak çalışır ve yalnızca cihazınızda saklanır. Ayrıntılar için tam [Gizlilik Politikası](https://www.bartlettbutter.com/sayminder/privacy/tr/) belgemize bakın.
+Hayır. Kullanıcı hesabı, analiz, izleme ve reklam yoktur. Hatırlatıcılar, zamanlama ve metin okuma özelliğinin tümü yerel olarak çalışır ve yalnızca cihazınızda saklanır. Ayrıntılar için tam [Gizlilik Politikası](https://bartlettbutter.com/sayminder/privacy/tr/) belgemize bakın.
 
 ### Telefonum sessizdeyken veya Odak'tayken hatırlatıcılar çalışır mı?
 

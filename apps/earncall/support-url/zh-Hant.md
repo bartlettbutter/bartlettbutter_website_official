@@ -99,7 +99,7 @@ Impact 分頁的角標表明本次工作階段的價格是最新的還是來自�
 
 ### 有什麼會離開我的裝置？
 
-只有公開市場資料請求：為取得公開財務資料、價格、財報行事曆和電話會議逐字稿，傳送到 Yahoo Finance、SEC EDGAR、Finnhub 以及應用程式自有逐字稿代理的股票代碼和日期。不會傳送任何個人資訊，也不會傳送任何使用者識別碼。詳情見我們完整的[隱私政策](https://www.bartlettbutter.com/earncall/privacy/zh-Hant/)。
+只有公開市場資料請求：為取得公開財務資料、價格、財報行事曆和電話會議逐字稿，傳送到 Yahoo Finance、SEC EDGAR、Finnhub 以及應用程式自有逐字稿代理的股票代碼和日期。不會傳送任何個人資訊，也不會傳送任何使用者識別碼。詳情見我們完整的[隱私政策](https://bartlettbutter.com/earncall/privacy/zh-Hant/)。
 
 ### 我的資料會線上儲存在某處嗎？
 

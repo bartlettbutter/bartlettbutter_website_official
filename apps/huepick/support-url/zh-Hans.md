@@ -80,7 +80,7 @@ redirect_from:
 
 ### 你们收集哪些数据？
 
-无。没有个人数据、没有使用分析、没有设备标识符。详情请参阅我们完整的[隐私政策](https://www.bartlettbutter.com/huepick/privacy/)。
+无。没有个人数据、没有使用分析、没有设备标识符。详情请参阅我们完整的[隐私政策](https://bartlettbutter.com/huepick/privacy/)。
 
 ### 如果我删除应用会怎样？
 

@@ -38,7 +38,7 @@ Yes. Sayminder is free to download and use, with no ads.
 
 ### Does Sayminder collect my data?
 
-No. There are no user accounts, no analytics, no tracking, and no advertising. Reminders, scheduling, and text-to-speech all run locally and are stored only on your device. See our full [Privacy Policy](https://www.bartlettbutter.com/sayminder/privacy/) for details.
+No. There are no user accounts, no analytics, no tracking, and no advertising. Reminders, scheduling, and text-to-speech all run locally and are stored only on your device. See our full [Privacy Policy](https://bartlettbutter.com/sayminder/privacy/) for details.
 
 ### Do reminders work when my phone is on silent or in Focus?
 

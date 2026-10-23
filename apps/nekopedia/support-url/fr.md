@@ -67,7 +67,7 @@ Oui. Nekopedia est une application universelle qui fonctionne à la fois sur iPh
 
 ### Mes données sont-elles privées ?
 
-Oui. Vos photos ne quittent jamais votre appareil et aucune donnée personnelle n'est collectée. Consultez notre [Politique de Confidentialité](https://www.bartlettbutter.com/nekopedia/privacy/) complète pour plus de détails.
+Oui. Vos photos ne quittent jamais votre appareil et aucune donnée personnelle n'est collectée. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/nekopedia/privacy/) complète pour plus de détails.
 
 ## Autorisations
 

@@ -39,7 +39,7 @@ Ja. Sayminder ist kostenlos herunterzuladen und zu nutzen, ohne Werbung.
 
 ### Erhebt Sayminder meine Daten?
 
-Nein. Es gibt keine Benutzerkonten, keine Analysen, kein Tracking und keine Werbung. Erinnerungen, Terminplanung und Sprachausgabe laufen alle lokal ab und werden nur auf Ihrem Gerät gespeichert. Weitere Einzelheiten finden Sie in unserer vollständigen [Datenschutzerklärung](https://www.bartlettbutter.com/sayminder/privacy/de/).
+Nein. Es gibt keine Benutzerkonten, keine Analysen, kein Tracking und keine Werbung. Erinnerungen, Terminplanung und Sprachausgabe laufen alle lokal ab und werden nur auf Ihrem Gerät gespeichert. Weitere Einzelheiten finden Sie in unserer vollständigen [Datenschutzerklärung](https://bartlettbutter.com/sayminder/privacy/de/).
 
 ### Funktionieren Erinnerungen, wenn mein Telefon stummgeschaltet oder im Fokus ist?
 

@@ -112,7 +112,7 @@ Nein. Die gesamte Verarbeitung erfolgt vollständig auf deinem Gerät mit Apples
 
 ### Welche Daten erfasst ihr?
 
-Keine. ProbioLens hat keine Konten, keine Analytik, kein Tracking und keine Werbung. Einzelheiten findest du in unserer vollständigen [Datenschutzerklärung](https://www.bartlettbutter.com/probiolens/privacy/de/).
+Keine. ProbioLens hat keine Konten, keine Analytik, kein Tracking und keine Werbung. Einzelheiten findest du in unserer vollständigen [Datenschutzerklärung](https://bartlettbutter.com/probiolens/privacy/de/).
 
 ### Wie lösche ich meine Daten?
 

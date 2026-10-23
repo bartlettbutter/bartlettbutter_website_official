@@ -55,7 +55,7 @@ Ja. Verwende die Suchleiste, um einen beliebigen ETF nach Tickersymbol oder Name
 
 ### Sind meine Daten privat?
 
-Ja. Keine Konten, keine Analysen, kein Tracking. Nur Tickersymbole werden an Finanzdatenanbieter gesendet. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://www.bartlettbutter.com/etfwise/privacy/).
+Ja. Keine Konten, keine Analysen, kein Tracking. Nur Tickersymbole werden an Finanzdatenanbieter gesendet. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/etfwise/privacy/).
 
 ### Was passiert, wenn ich die App lösche?
 

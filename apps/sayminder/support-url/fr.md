@@ -39,7 +39,7 @@ Oui. Sayminder est gratuit à télécharger et à utiliser, sans publicité.
 
 ### Sayminder collecte-t-il mes données ?
 
-Non. Aucun compte utilisateur, aucune analyse, aucun suivi et aucune publicité. Les rappels, la planification et la synthèse vocale s'exécutent tous localement et ne sont stockés que sur votre appareil. Consultez notre [Politique de confidentialité](https://www.bartlettbutter.com/sayminder/privacy/fr/) complète pour plus de détails.
+Non. Aucun compte utilisateur, aucune analyse, aucun suivi et aucune publicité. Les rappels, la planification et la synthèse vocale s'exécutent tous localement et ne sont stockés que sur votre appareil. Consultez notre [Politique de confidentialité](https://bartlettbutter.com/sayminder/privacy/fr/) complète pour plus de détails.
 
 ### Les rappels fonctionnent-ils lorsque mon téléphone est en silencieux ou en mode Concentration ?
 

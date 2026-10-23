@@ -16,7 +16,7 @@ redirect_from:
 **Track how 20 leading companies' stocks move after earnings, what management actually said on the call, and when the next report lands, plus the full earnings schedule for 172 of the largest US-listed companies.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="EarnCall app icon" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="EarnCall app icon" width="96" height="96">
   <span class="marketing-coming-soon-badge">Coming soon</span>
 </div>
 

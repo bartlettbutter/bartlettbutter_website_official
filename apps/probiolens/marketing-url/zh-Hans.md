@@ -17,7 +17,7 @@ redirect_from:
 **扫描任意补充剂成分表标签，获得清晰、循证的解读：菌株、CFU、研究用量以及每份成本。标签事实与背景信息分开呈现，全程在你的设备上完成。**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="ProbioLens 应用图标" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="ProbioLens 应用图标" width="96" height="96">
   <span class="marketing-coming-soon-badge">即将推出</span>
 </div>
 

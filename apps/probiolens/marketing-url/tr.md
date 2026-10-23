@@ -17,7 +17,7 @@ redirect_from:
 **Herhangi bir Takviye Bilgileri etiketini tarayın ve net, kanıta dayalı bir döküm alın: suşlar, CFU, çalışılmış miktarlar ve porsiyon başına maliyet. Etiket bilgileri bağlamdan ayrı tutulur, tümü cihazınızda.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="ProbioLens uygulama simgesi" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="ProbioLens uygulama simgesi" width="96" height="96">
   <span class="marketing-coming-soon-badge">Yakında</span>
 </div>
 

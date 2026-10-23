@@ -17,7 +17,7 @@ redirect_from:
 **Escaneie qualquer rótulo de Informação Nutricional e receba uma análise clara e baseada em evidências: cepas, UFC, quantidades estudadas e custo por porção. Os dados do rótulo mantidos separados do contexto, inteiramente no seu dispositivo.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="Ícone do app ProbioLens" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="Ícone do app ProbioLens" width="96" height="96">
   <span class="marketing-coming-soon-badge">Em breve</span>
 </div>
 

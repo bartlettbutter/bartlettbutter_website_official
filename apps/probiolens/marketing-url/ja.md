@@ -17,7 +17,7 @@ redirect_from:
 **どんなサプリメント成分表示ラベルもスキャンして、根拠を踏まえた分かりやすい内訳を得られます。菌株、CFU、研究された量、1回分あたりのコスト。ラベルの事実は文脈と分けて示し、すべて端末内で完結します。**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="ProbioLens アプリアイコン" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="ProbioLens アプリアイコン" width="96" height="96">
   <span class="marketing-coming-soon-badge">近日公開</span>
 </div>
 

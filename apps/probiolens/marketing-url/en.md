@@ -16,7 +16,7 @@ redirect_from:
 **Scan any Supplement Facts label and get a clear, evidence-aware breakdown: strains, CFU, studied amounts, and cost per serving. Label facts kept separate from context, entirely on your device.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="ProbioLens app icon" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="ProbioLens app icon" width="96" height="96">
   <span class="marketing-coming-soon-badge">Coming soon</span>
 </div>
 

@@ -17,7 +17,7 @@ redirect_from:
 **Sigue cómo se mueven las acciones de 20 empresas líderes tras los resultados, qué dijo realmente la dirección en la llamada y cuándo llega el próximo informe, además del calendario completo de resultados de 172 de las mayores empresas cotizadas en EE. UU.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="Icono de la app EarnCall" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="Icono de la app EarnCall" width="96" height="96">
   <span class="marketing-coming-soon-badge">Próximamente</span>
 </div>
 

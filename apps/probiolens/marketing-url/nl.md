@@ -17,7 +17,7 @@ redirect_from:
 **Scan elk Supplement Facts-etiket en krijg een heldere, op bewijs gebaseerde analyse: stammen, KVE, bestudeerde hoeveelheden en kosten per portie. Etiketfeiten los gehouden van de context, volledig op je apparaat.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="ProbioLens app-icoon" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="ProbioLens app-icoon" width="96" height="96">
   <span class="marketing-coming-soon-badge">Binnenkort</span>
 </div>
 

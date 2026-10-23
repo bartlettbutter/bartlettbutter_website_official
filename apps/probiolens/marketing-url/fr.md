@@ -17,7 +17,7 @@ redirect_from:
 **Scannez n'importe quelle étiquette de valeurs nutritionnelles et obtenez une analyse claire et étayée : souches, UFC, quantités étudiées et coût par portion. Les faits de l'étiquette séparés du contexte, entièrement sur votre appareil.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="Icône de l'app ProbioLens" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="Icône de l'app ProbioLens" width="96" height="96">
   <span class="marketing-coming-soon-badge">Bientôt disponible</span>
 </div>
 

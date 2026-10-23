@@ -17,7 +17,7 @@ redirect_from:
 **Escanea cualquier etiqueta de Información del suplemento y obtén un desglose claro y basado en evidencia: cepas, UFC, cantidades estudiadas y costo por porción. Los datos de la etiqueta separados del contexto, todo en tu dispositivo.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="Icono de la app ProbioLens" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="Icono de la app ProbioLens" width="96" height="96">
   <span class="marketing-coming-soon-badge">Muy pronto</span>
 </div>
 

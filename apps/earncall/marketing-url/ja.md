@@ -17,7 +17,7 @@ redirect_from:
 **主要20社の株価が決算後にどう動くか、コールで経営陣が実際に何を語ったか、次の発表がいつ来るかを追跡。さらに米国上場の主要172社の決算スケジュールもまるごと把握できます。**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="EarnCall アプリアイコン" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="EarnCall アプリアイコン" width="96" height="96">
   <span class="marketing-coming-soon-badge">近日公開</span>
 </div>
 

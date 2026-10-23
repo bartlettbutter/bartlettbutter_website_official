@@ -17,7 +17,7 @@ redirect_from:
 **Verfolge, wie sich die Aktien von 20 führenden Unternehmen nach den Zahlen bewegen, was das Management im Call tatsächlich sagte und wann der nächste Bericht kommt, dazu den vollständigen Earnings-Kalender für 172 der größten US-notierten Unternehmen.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="EarnCall App-Symbol" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="EarnCall App-Symbol" width="96" height="96">
   <span class="marketing-coming-soon-badge">Demnächst</span>
 </div>
 

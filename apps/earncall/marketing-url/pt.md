@@ -17,7 +17,7 @@ redirect_from:
 **Acompanhe como as ações de 20 empresas líderes se movem após os resultados, o que a gestão realmente disse na teleconferência e quando chega o próximo relatório, além do calendário completo de resultados de 172 das maiores empresas listadas nos EUA.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="Ícone do app EarnCall" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="Ícone do app EarnCall" width="96" height="96">
   <span class="marketing-coming-soon-badge">Em breve</span>
 </div>
 

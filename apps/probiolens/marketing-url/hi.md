@@ -17,7 +17,7 @@ redirect_from:
 **किसी भी सप्लीमेंट फैक्ट्स लेबल को स्कैन करें और स्पष्ट, साक्ष्य-आधारित विश्लेषण पाएँ: स्ट्रेन, CFU, अध्ययन की गई मात्रा और प्रति सर्विंग लागत। लेबल के तथ्य संदर्भ से अलग रखे जाते हैं, पूरी तरह आपके डिवाइस पर।**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="ProbioLens ऐप आइकन" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="ProbioLens ऐप आइकन" width="96" height="96">
   <span class="marketing-coming-soon-badge">जल्द आ रहा है</span>
 </div>
 

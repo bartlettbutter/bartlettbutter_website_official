@@ -17,7 +17,7 @@ redirect_from:
 **Следите, как акции 20 ведущих компаний двигаются после отчётности, что руководство действительно сказало на звонке и когда выйдет следующий отчёт, а также за полным календарём отчётности 172 крупнейших компаний, торгуемых в США.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="Значок приложения EarnCall" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="Значок приложения EarnCall" width="96" height="96">
   <span class="marketing-coming-soon-badge">Скоро</span>
 </div>
 

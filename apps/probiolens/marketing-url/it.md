@@ -17,7 +17,7 @@ redirect_from:
 **Scansiona qualsiasi etichetta nutrizionale e ottieni un'analisi chiara e fondata sulle evidenze: ceppi, UFC, quantità studiate e costo per porzione. I fatti dell'etichetta tenuti distinti dal contesto, interamente sul tuo dispositivo.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="Icona dell'app ProbioLens" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="Icona dell'app ProbioLens" width="96" height="96">
   <span class="marketing-coming-soon-badge">Presto disponibile</span>
 </div>
 

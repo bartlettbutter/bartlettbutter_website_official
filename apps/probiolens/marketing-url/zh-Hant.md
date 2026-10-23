@@ -17,7 +17,7 @@ redirect_from:
 **掃描任何補充品成分標示標籤，獲得清晰、以實證為本的解讀：菌株、CFU、研究用量以及每份成本。標籤事實與背景資訊分開呈現，全程在你的裝置上完成。**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="ProbioLens 應用程式圖示" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="ProbioLens 應用程式圖示" width="96" height="96">
   <span class="marketing-coming-soon-badge">即將推出</span>
 </div>
 

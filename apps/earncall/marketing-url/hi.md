@@ -17,7 +17,7 @@ redirect_from:
 **देखें कि 20 अग्रणी कंपनियों के शेयर नतीजों के बाद कैसे चलते हैं, कॉल पर प्रबंधन ने असल में क्या कहा और अगली रिपोर्ट कब आएगी, साथ ही अमेरिका में सूचीबद्ध 172 सबसे बड़ी कंपनियों का पूरा अर्निंग्स शेड्यूल।**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="EarnCall ऐप आइकन" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="EarnCall ऐप आइकन" width="96" height="96">
   <span class="marketing-coming-soon-badge">जल्द आ रहा है</span>
 </div>
 

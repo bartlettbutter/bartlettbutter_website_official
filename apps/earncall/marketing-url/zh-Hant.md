@@ -17,7 +17,7 @@ redirect_from:
 **追蹤 20 家龍頭公司股價在財報後如何變動、管理層在電話會議上究竟說了什麼，以及下一份報告何時發布，還能查看美國上市規模最大的 172 家公司的完整財報行程。**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="EarnCall 應用程式圖示" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="EarnCall 應用程式圖示" width="96" height="96">
   <span class="marketing-coming-soon-badge">即將推出</span>
 </div>
 

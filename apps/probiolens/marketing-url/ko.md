@@ -17,7 +17,7 @@ redirect_from:
 **어떤 보충제 영양정보 라벨이든 스캔해 근거를 반영한 명확한 분석을 받아 보세요: 균주, CFU, 연구된 함량, 1회분당 비용. 라벨의 사실은 맥락과 분리해 보여주며, 모두 기기에서 처리됩니다.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="ProbioLens 앱 아이콘" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="ProbioLens 앱 아이콘" width="96" height="96">
   <span class="marketing-coming-soon-badge">출시 예정</span>
 </div>
 

@@ -17,7 +17,7 @@ redirect_from:
 **Segui come si muovono i titoli di 20 aziende leader dopo i risultati, cosa ha detto davvero il management nella call e quando arriva il prossimo report, più il calendario completo degli utili di 172 tra le maggiori società quotate negli USA.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="Icona dell'app EarnCall" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="Icona dell'app EarnCall" width="96" height="96">
   <span class="marketing-coming-soon-badge">In arrivo</span>
 </div>
 

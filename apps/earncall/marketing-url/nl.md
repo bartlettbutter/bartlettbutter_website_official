@@ -17,7 +17,7 @@ redirect_from:
 **Volg hoe de aandelen van 20 toonaangevende bedrijven na de cijfers bewegen, wat het management echt zei in de call en wanneer het volgende rapport komt, plus de volledige cijferagenda van 172 van de grootste in de VS genoteerde bedrijven.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="EarnCall app-icoon" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="EarnCall app-icoon" width="96" height="96">
   <span class="marketing-coming-soon-badge">Binnenkort</span>
 </div>
 

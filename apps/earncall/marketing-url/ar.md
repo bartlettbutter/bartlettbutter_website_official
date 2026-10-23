@@ -17,7 +17,7 @@ redirect_from:
 **تابع كيف تتحرك أسهم 20 شركة رائدة بعد الأرباح، وما قالته الإدارة فعلًا في المكالمة، وموعد صدور التقرير القادم، إضافة إلى جدول الأرباح الكامل لـ 172 من أكبر الشركات المدرجة في الولايات المتحدة.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="أيقونة تطبيق EarnCall" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="أيقونة تطبيق EarnCall" width="96" height="96">
   <span class="marketing-coming-soon-badge">قريبًا</span>
 </div>
 

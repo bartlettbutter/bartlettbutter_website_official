@@ -17,7 +17,7 @@ redirect_from:
 **주요 20개 기업의 주가가 실적 발표 후 어떻게 움직이는지, 콜에서 경영진이 실제로 무엇을 말했는지, 다음 보고가 언제 나오는지 추적하세요. 여기에 미국 상장 대형 172개 기업의 전체 실적 일정까지 담았습니다.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="EarnCall 앱 아이콘" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="EarnCall 앱 아이콘" width="96" height="96">
   <span class="marketing-coming-soon-badge">곧 출시</span>
 </div>
 

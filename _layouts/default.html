@@ -94,12 +94,23 @@
     {%- endif -%}
   {%- endif -%}
 {%- endif -%}
+{%- comment -%}
+  Marketing pages share the app name across all 15 languages, so append the
+  localized slogan to give each language version a distinct <title>.
+{%- endcomment -%}
+{%- assign page_title = page.title | default: site.title -%}
+{%- if page_kind != "" -%}
+  {%- assign page_title = page_title | append: " " | append: page_kind -%}
+{%- elsif section == "marketing" and header_slogan -%}
+  {%- assign page_title = page_title | append: ": " | append: header_slogan -%}
+{%- endif -%}
+{%- assign page_title = page_title | append: " — Bartlett Butter" -%}
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: 'en' }}"{% if page.lang == 'ar' %} dir="rtl"{% endif %}>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title | default: site.title }}{% if page_kind != "" %} {{ page_kind }}{% endif %} — Bartlett Butter</title>
+  <title>{{ page_title | escape }}</title>
   <meta name="description" content="{{ kind_meta | default: site.description }}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   {% if page_languages %}
@@ -114,13 +125,13 @@
   <!-- Open Graph / social preview -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Bartlett Butter">
-  <meta property="og:title" content="{{ page.title | default: site.title }}{% if page_kind != '' %} {{ page_kind }}{% endif %} — Bartlett Butter">
+  <meta property="og:title" content="{{ page_title | escape }}">
   <meta property="og:description" content="{{ kind_meta | default: site.description }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   {% if page.app_icon %}<meta property="og:image" content="{{ site.url }}{{ page.app_icon }}">
   <meta property="og:image:alt" content="{{ page.title }} app icon">{% endif %}
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{{ page.title | default: site.title }}{% if page_kind != '' %} {{ page_kind }}{% endif %} — Bartlett Butter">
+  <meta name="twitter:title" content="{{ page_title | escape }}">
   <meta name="twitter:description" content="{{ kind_meta | default: site.description }}">
   {% if page.app_icon %}<meta name="twitter:image" content="{{ site.url }}{{ page.app_icon }}">
   <meta name="twitter:image:alt" content="{{ page.title }} app icon">{% endif %}
@@ -212,9 +223,11 @@
 
   <!-- App Header: only rendered when page.app_icon is defined -->
   {% if page.app_icon %}
+  {%- comment -%} Show the 288px web copy (scripts/build-icon-thumbnails.py); the full-size PNG stays for social previews. {%- endcomment -%}
+  {%- assign header_icon = page.app_icon | replace: "/app-icons/", "/app-icons/web/" | replace: ".png", ".webp" -%}
   <div class="app-header">
     <div class="app-header-inner">
-      <img src="{{ page.app_icon }}" alt="{{ page.title }} icon" class="app-icon" width="144" height="144">
+      <img src="{{ header_icon }}" alt="{{ page.title }} icon" class="app-icon" width="144" height="144">
       <h1>{{ page.title }}</h1>
       {% assign header_copy = header_slogan | default: page.app_description %}
       {% if header_copy %}<p{% if section == "marketing" and page.app_description and header_slogan and page.app_description != header_slogan %} title="{{ page.app_description }}"{% endif %}>{{ header_copy }}</p>{% endif %}

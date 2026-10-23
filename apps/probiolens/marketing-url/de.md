@@ -17,7 +17,7 @@ redirect_from:
 **Scanne jedes Supplement-Facts-Etikett und erhalte eine klare, evidenzbewusste Analyse: Stämme, KBE, untersuchte Mengen und Kosten pro Portion. Etikettenfakten getrennt vom Kontext, vollständig auf deinem Gerät.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="ProbioLens App-Symbol" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="ProbioLens App-Symbol" width="96" height="96">
   <span class="marketing-coming-soon-badge">Demnächst</span>
 </div>
 

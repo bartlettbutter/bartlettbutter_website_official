@@ -17,7 +17,7 @@ redirect_from:
 **امسح أي ملصق حقائق المكمّل واحصل على تحليل واضح ومستند إلى الأدلة: السلالات، وحدات CFU، الكميات المدروسة، والتكلفة لكل حصة. تُعرَض حقائق الملصق منفصلة عن السياق، بالكامل على جهازك.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="أيقونة تطبيق ProbioLens" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="أيقونة تطبيق ProbioLens" width="96" height="96">
   <span class="marketing-coming-soon-badge">قريباً</span>
 </div>
 

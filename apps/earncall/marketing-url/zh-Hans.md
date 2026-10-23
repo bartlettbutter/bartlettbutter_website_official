@@ -17,7 +17,7 @@ redirect_from:
 **追踪 20 家龙头公司股价在财报后如何变动、管理层在电话会议上究竟说了什么，以及下一份报告何时发布，还能查看美国上市规模最大的 172 家公司的完整财报日程。**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="EarnCall 应用图标" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="EarnCall 应用图标" width="96" height="96">
   <span class="marketing-coming-soon-badge">即将推出</span>
 </div>
 

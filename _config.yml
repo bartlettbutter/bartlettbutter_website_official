@@ -35,3 +35,5 @@ exclude:
   # Internal planning / design notes, not site content.
   - TBD.md
   - assets/design-system
+  # Maintenance scripts (e.g. regenerating assets/app-icons/web/).
+  - scripts

@@ -17,7 +17,7 @@ redirect_from:
 **Отсканируйте любую этикетку с составом добавки и получите понятный разбор на основе данных: штаммы, КОЕ, изученные количества и стоимость порции. Факты с этикетки отделены от контекста, полностью на вашем устройстве.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_ProbioLens.png" alt="Значок приложения ProbioLens" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_ProbioLens.webp" alt="Значок приложения ProbioLens" width="96" height="96">
   <span class="marketing-coming-soon-badge">Скоро</span>
 </div>
 

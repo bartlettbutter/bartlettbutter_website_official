@@ -17,7 +17,7 @@ redirect_from:
 **Suivez comment les actions de 20 grandes entreprises évoluent après les résultats, ce que la direction a réellement dit pendant la conférence et quand tombe le prochain rapport, ainsi que le calendrier complet des résultats de 172 des plus grandes sociétés cotées aux États-Unis.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="Icône de l'app EarnCall" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="Icône de l'app EarnCall" width="96" height="96">
   <span class="marketing-coming-soon-badge">Bientôt disponible</span>
 </div>
 

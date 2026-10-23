@@ -17,7 +17,7 @@ redirect_from:
 **20 lider şirketin hisselerinin bilanço sonrası nasıl hareket ettiğini, yönetimin telekonferansta gerçekte ne söylediğini ve bir sonraki raporun ne zaman geleceğini izleyin; ayrıca ABD'de işlem gören en büyük 172 şirketin tam bilanço takvimini takip edin.**
 
 <div class="marketing-coming-soon" role="status">
-  <img src="/assets/app-icons/icon_EarnCall.png" alt="EarnCall uygulama simgesi" width="96" height="96">
+  <img src="/assets/app-icons/web/icon_EarnCall.webp" alt="EarnCall uygulama simgesi" width="96" height="96">
   <span class="marketing-coming-soon-badge">Yakında</span>
 </div>
 

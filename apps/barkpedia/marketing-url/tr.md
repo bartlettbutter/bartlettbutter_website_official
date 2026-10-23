@@ -19,7 +19,7 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 ırk</span>
   <span class="marketing-chip">Cihaz üzerinde ırk tanımlama</span>
-  <span class="marketing-chip">Sonsuza dek ücretsiz</span>
+  <span class="marketing-chip">İndirmesi ücretsiz</span>
   <span class="marketing-chip">Hesap gerekmez</span>
 </div>
 
@@ -88,7 +88,7 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
       <p>Hesap yok, analiz yok, reklam yok. Fotoğraflarınız cihazınızda analiz edilir ve asla yüklenmez.</p>
       <ul class="marketing-list">
         <li>Taramalar ve favoriler yerel olarak saklanır</li>
-        <li>Kayıt olacak hiçbir şey ve ödenecek hiçbir şey yok</li>
+        <li>Kayıt olacak hiçbir şey yok ve kullanımı ücretsiz</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Bugün dahil</span>
-      <h3 class="marketing-price-summary">Her özellik ücretsiz olarak sunulur.</h3>
-      <p>Hesap, abonelik ya da ödeme duvarı olmadan ırkları tanımlayın, tam profilleri okuyun, favorileri kaydedin, haritayı keşfedin ve her iki oyunu da oynayın.</p>
+      <h3 class="marketing-price-summary">Mevcut tüm özellikler ücretsiz olarak sunulur.</h3>
+      <p>Hesap olmadan ırkları tanımlayın, tam profilleri okuyun, favorileri kaydedin, haritayı keşfedin ve her iki oyunu da oynayın.</p>
       <p class="marketing-price-note">iOS 18.0 veya sonrasındaki iPhone ve iPad ile uyumludur.</p>
     </article>
     <article class="marketing-price-card">

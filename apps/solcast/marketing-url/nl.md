@@ -202,7 +202,7 @@ Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wann
       <p>Premium is voor mensen die het weer in veel steden volgen en de gratis limieten op bewaarde plaatsen willen opheffen.</p>
       <ul class="marketing-list">
         <li>Onbeperkt aantal bewaarde locaties, elk in hun lokale tijdzone</li>
-        <li>Een optionele upgrade; de kern-app blijft gratis</li>
+        <li>Een optionele upgrade bovenop de gratis app</li>
         <li>Geen advertenties en geen tracking, bij Gratis of Premium</li>
       </ul>
     </article>

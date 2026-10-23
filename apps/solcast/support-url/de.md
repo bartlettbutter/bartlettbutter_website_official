@@ -37,7 +37,7 @@ Du kannst in der kostenlosen Version bis zu 4 Standorte speichern (unbegrenzt mi
 
 ### Ist Solcast kostenlos?
 
-Ja. Solcast ist kostenlos herunterzuladen, und das vollständige Wettererlebnis (Vorhersagen, Outfit-Vorschläge, tägliches Briefing, alle 16 Lifestyle-Indizes und smarte Wetterwarnungen) ist kostenlos, ohne Werbung. Ein optionales Premium-Abonnement fügt persönliche Erinnerungen hinzu und hebt das Limit für gespeicherte Städte an; alles andere bleibt kostenlos.
+Ja. Solcast ist kostenlos herunterzuladen, und das vollständige Wettererlebnis (Vorhersagen, Outfit-Vorschläge, tägliches Briefing, alle 16 Lifestyle-Indizes und smarte Wetterwarnungen) ist kostenlos, ohne Werbung. Ein optionales Premium-Abonnement fügt persönliche Erinnerungen hinzu und hebt das Limit für gespeicherte Städte an; alles andere ist kostenlos.
 
 ### Erhebt Solcast meine Daten?
 

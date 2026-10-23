@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 大類別</span>
   <span class="marketing-chip">裝置端分析</span>
-  <span class="marketing-chip">永久免費</span>
+  <span class="marketing-chip">免費下載</span>
   <span class="marketing-chip">無需帳戶</span>
 </div>
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">投資者為何選擇它</p>
     <h2 id="ew-why-title" class="marketing-section-title">從容掌握整個ETF市場的每日閱讀。</h2>
-    <p class="marketing-section-intro">ETFWise將嘈雜的市場化為快速的晨間查看：新鮮精選、白話簡報，以及深度基金分析，全部無需註冊、無需訂閱，資料也不離開您的裝置。</p>
+    <p class="marketing-section-intro">ETFWise將嘈雜的市場化為快速的晨間查看：新鮮精選、白話簡報，以及深度基金分析，全部無需註冊，資料也不離開您的裝置。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>實時資料，零成本</h3>
-      <p>實時價格、數百檔精選基金和即時搜尋，皆無付費牆、無廣告。</p>
+      <p>實時價格、數百檔精選基金和即時搜尋，皆無廣告。</p>
       <ul class="marketing-list">
         <li>價格每五分鐘重新整理</li>
         <li>200多檔精選ETF與450多個可搜尋股票代碼</li>
-        <li>永遠沒有訂閱、沒有廣告、無需帳戶</li>
+        <li>沒有廣告，也無需帳戶</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">現已包含</span>
-      <h3 class="marketing-price-summary">每項功能皆免費提供。</h3>
-      <p>每日精選、市場簡報、深度基金分析、實時價格、情緒，以及跨450多個股票代碼的即時搜尋，皆無需帳戶、無需訂閱，也沒有付費牆。</p>
+      <h3 class="marketing-price-summary">目前所有功能均可免費使用。</h3>
+      <p>每日精選、市場簡報、深度基金分析、實時價格、情緒，以及跨450多個股票代碼的即時搜尋，皆無需帳戶。</p>
       <p class="marketing-price-note">相容於iPhone和iPad，適用於iOS 18.0或更高版本。</p>
     </article>
     <article class="marketing-price-card">

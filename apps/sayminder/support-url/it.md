@@ -35,7 +35,7 @@ Tocca un promemoria qualsiasi nella vista Calendario o In arrivo per aprire un e
 
 ### Sayminder è gratuito?
 
-Sì. Sayminder è gratuito da scaricare e usare, senza pubblicità.
+Sì. Sayminder è gratuito da scaricare e usare, senza pubblicità. In futuro potremmo introdurre funzioni premium opzionali.
 
 ### Sayminder raccoglie i miei dati?
 

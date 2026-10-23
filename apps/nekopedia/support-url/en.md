@@ -24,7 +24,7 @@ Breed identification, favorites, and the built-in profiles for all 48 breeds wor
 
 ### Is Nekopedia free?
 
-Yes, completely free. There are no in-app purchases, no subscriptions, and no ads.
+Yes. Nekopedia is free to download and all current features are available at no cost, with no ads and no account required. We may introduce optional premium features in the future.
 
 ### How many breeds can Nekopedia identify?
 

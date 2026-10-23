@@ -18,7 +18,7 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12-color palettes</span>
   <span class="marketing-chip">6 creative tools</span>
-  <span class="marketing-chip">Free forever</span>
+  <span class="marketing-chip">Free to download</span>
   <span class="marketing-chip">No account required</span>
 </div>
 
@@ -87,7 +87,7 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
       <p>No accounts, no analytics, no ads. Your photos never leave your device and everything works without a connection.</p>
       <ul class="marketing-list">
         <li>Palettes and creations stay stored locally</li>
-        <li>Nothing to sign up for and nothing to pay</li>
+        <li>Nothing to sign up for, and free to use</li>
       </ul>
     </article>
   </div>
@@ -186,8 +186,8 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Included today</span>
-      <h3 class="marketing-price-summary">Every feature is available at no cost.</h3>
-      <p>Extract palettes, explore the full analysis, use all six creative tools, and keep your gallery without an account, a subscription, or a paywall.</p>
+      <h3 class="marketing-price-summary">All current features are available at no cost.</h3>
+      <p>Extract palettes, explore the full analysis, use all six creative tools, and keep your gallery without an account.</p>
       <p class="marketing-price-note">Compatible with iPhone and iPad on iOS 18.6 or later.</p>
     </article>
     <article class="marketing-price-card">

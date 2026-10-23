@@ -18,7 +18,7 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 breeds</span>
   <span class="marketing-chip">On-device breed ID</span>
-  <span class="marketing-chip">Free forever</span>
+  <span class="marketing-chip">Free to download</span>
   <span class="marketing-chip">No account required</span>
 </div>
 
@@ -87,7 +87,7 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
       <p>No accounts, no analytics, no ads. Your photos never leave your device, and breed ID works without a connection.</p>
       <ul class="marketing-list">
         <li>Scans and favorites stay stored locally</li>
-        <li>Nothing to sign up for and nothing to pay</li>
+        <li>Nothing to sign up for, and free to use</li>
       </ul>
     </article>
   </div>
@@ -186,8 +186,8 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Included today</span>
-      <h3 class="marketing-price-summary">Every feature is available at no cost.</h3>
-      <p>Identify breeds, read full profiles, save favorites, explore the map, and play both games without an account, a subscription, or a paywall.</p>
+      <h3 class="marketing-price-summary">All current features are available at no cost.</h3>
+      <p>Identify breeds, read full profiles, save favorites, explore the map, and play both games without an account.</p>
       <p class="marketing-price-note">Compatible with iPhone and iPad on iOS 18.0 or later.</p>
     </article>
     <article class="marketing-price-card">

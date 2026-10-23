@@ -20,7 +20,7 @@ redirect_from:
   <span class="marketing-chip">世界中で</span>
   <span class="marketing-chip">作り話のデータなし</span>
   <span class="marketing-chip">アカウント不要</span>
-  <span class="marketing-chip">ずっと無料</span>
+  <span class="marketing-chip">ダウンロード無料</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">通勤者が選ぶ理由</p>
     <h2 id="tv-why-title" class="marketing-section-title">一目で、この先に何が待っているかが正確に分かります。</h2>
-    <p class="marketing-section-intro">TrafficVibeは、騒がしい朝をたった一度の穏やかなチェックに変えます。通勤の流れ、それを妨げているもの、そして出発すべきタイミングを、サインアップもサブスクリプションも不要で、データがデバイスから出ることもなくお届けします。</p>
+    <p class="marketing-section-intro">TrafficVibeは、騒がしい朝をたった一度の穏やかなチェックに変えます。通勤の流れ、それを妨げているもの、そして出発すべきタイミングを、サインアップ不要で、データがデバイスから出ることもなくお届けします。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -206,8 +206,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">今日から利用可能</span>
-      <h3 class="marketing-price-summary">すべての機能を無料で利用できます。</h3>
-      <p>朝のブリーフィング、18すべての通勤ライフ指数、時間ごとの見通し、保存した通勤都市、そしてスマートアラートを、アカウントもサブスクリプションも有料の壁もなしに。</p>
+      <h3 class="marketing-price-summary">現在のすべての機能を無料で利用できます。</h3>
+      <p>朝のブリーフィング、18すべての通勤ライフ指数、時間ごとの見通し、保存した通勤都市、そしてスマートアラートを、アカウント不要で。</p>
       <p class="marketing-price-note">iOS 26.2以降のiPhoneおよびiPadに対応。</p>
     </article>
     <article class="marketing-price-card">

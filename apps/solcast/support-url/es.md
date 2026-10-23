@@ -37,7 +37,7 @@ Puedes guardar hasta 4 ubicaciones en el plan gratuito (ilimitadas con Premium).
 
 ### ¿Solcast es gratis?
 
-Sí: Solcast es gratis de descargar y la experiencia meteorológica completa (pronósticos, sugerencias de atuendo, resumen diario, los 16 índices de estilo de vida y las alertas meteorológicas inteligentes) es gratuita, sin anuncios. Una suscripción Premium opcional añade recordatorios personales y amplía el límite de ciudades guardadas; todo lo demás sigue siendo gratis.
+Sí: Solcast es gratis de descargar y la experiencia meteorológica completa (pronósticos, sugerencias de atuendo, resumen diario, los 16 índices de estilo de vida y las alertas meteorológicas inteligentes) es gratuita, sin anuncios. Una suscripción Premium opcional añade recordatorios personales y amplía el límite de ciudades guardadas; todo lo demás es gratis.
 
 ### ¿Solcast recopila mis datos?
 

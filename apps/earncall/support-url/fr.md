@@ -33,7 +33,7 @@ EarnCall profile en détail 20 grandes entreprises, d'Apple, Microsoft et NVIDIA
 
 ### EarnCall est-il gratuit ?
 
-Oui. EarnCall est gratuit à télécharger et toutes les fonctionnalités actuelles sont disponibles sans frais, sans publicité et sans compte.
+Oui. EarnCall est gratuit à télécharger et toutes les fonctionnalités actuelles sont disponibles sans frais, sans publicité et sans compte. Nous pourrions proposer des fonctionnalités premium optionnelles à l'avenir.
 
 ## Utiliser l'app
 

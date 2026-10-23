@@ -19,7 +19,7 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 razas</span>
   <span class="marketing-chip">Identificación en el dispositivo</span>
-  <span class="marketing-chip">Gratis para siempre</span>
+  <span class="marketing-chip">Descarga gratuita</span>
   <span class="marketing-chip">Sin necesidad de cuenta</span>
 </div>
 
@@ -88,7 +88,7 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
       <p>Sin cuentas, sin analíticas, sin anuncios. Tus fotos se analizan en tu dispositivo y nunca se suben.</p>
       <ul class="marketing-list">
         <li>Los escaneos y favoritos se guardan localmente</li>
-        <li>Nada que registrar y nada que pagar</li>
+        <li>Nada que registrar y de uso gratuito</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Incluido hoy</span>
-      <h3 class="marketing-price-summary">Todas las funciones están disponibles sin coste.</h3>
-      <p>Identifica razas, lee perfiles completos, guarda favoritos, explora el mapa y juega a ambos juegos sin cuenta, sin suscripción y sin muro de pago.</p>
+      <h3 class="marketing-price-summary">Todas las funciones actuales están disponibles sin coste.</h3>
+      <p>Identifica razas, lee perfiles completos, guarda favoritos, explora el mapa y juega a ambos juegos sin cuenta.</p>
       <p class="marketing-price-note">Compatible con iPhone y iPad en iOS 18.0 o posterior.</p>
     </article>
     <article class="marketing-price-card">

@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147品種</span>
   <span class="marketing-chip">デバイス上で品種を識別</span>
-  <span class="marketing-chip">ずっと無料</span>
+  <span class="marketing-chip">ダウンロード無料</span>
   <span class="marketing-chip">アカウント不要</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>アカウントなし、分析なし、広告なし。写真はデバイス上で解析され、アップロードされることはありません。</p>
       <ul class="marketing-list">
         <li>スキャンとお気に入りはローカルに保存</li>
-        <li>サインアップも支払いも不要</li>
+        <li>サインアップ不要で、無料で使えます</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">今すぐ使える</span>
-      <h3 class="marketing-price-summary">すべての機能が無料で使えます。</h3>
-      <p>品種の識別、完全なプロフィールの閲覧、お気に入りの保存、地図の探索、そして両方のゲーム。アカウントもサブスクリプションもペイウォールもなしで楽しめます。</p>
+      <h3 class="marketing-price-summary">現在のすべての機能を無料で利用できます。</h3>
+      <p>品種の識別、完全なプロフィールの閲覧、お気に入りの保存、地図の探索、そして両方のゲーム。アカウントなしで楽しめます。</p>
       <p class="marketing-price-note">iOS 18.0以降のiPhoneおよびiPadに対応。</p>
     </article>
     <article class="marketing-price-card">

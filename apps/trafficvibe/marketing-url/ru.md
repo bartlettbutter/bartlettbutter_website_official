@@ -20,7 +20,7 @@ redirect_from:
   <span class="marketing-chip">По всему миру</span>
   <span class="marketing-chip">Без выдуманных данных</span>
   <span class="marketing-chip">Без регистрации</span>
-  <span class="marketing-chip">Бесплатно навсегда</span>
+  <span class="marketing-chip">Бесплатная загрузка</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Почему его выбирают в дороге</p>
     <h2 id="tv-why-title" class="marketing-section-title">Одного взгляда достаточно, чтобы точно знать, что вас ждёт впереди.</h2>
-    <p class="marketing-section-intro">TrafficVibe превращает суетливое утро в одну спокойную проверку: как проходит ваша поездка, что её замедляет и когда выезжать, и всё это без регистрации, без подписки и без того, чтобы ваши данные покидали устройство.</p>
+    <p class="marketing-section-intro">TrafficVibe превращает суетливое утро в одну спокойную проверку: как проходит ваша поездка, что её замедляет и когда выезжать, и всё это без регистрации и без того, чтобы ваши данные покидали устройство.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -206,8 +206,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Доступно сегодня</span>
-      <h3 class="marketing-price-summary">Все функции доступны бесплатно.</h3>
-      <p>Утренняя сводка, все восемнадцать индексов Commute Life Indices, почасовой прогноз, сохранённые города поездок и умные оповещения, без регистрации, без подписки и без платного доступа.</p>
+      <h3 class="marketing-price-summary">Все текущие функции доступны бесплатно.</h3>
+      <p>Утренняя сводка, все восемнадцать индексов Commute Life Indices, почасовой прогноз, сохранённые города поездок и умные оповещения, без регистрации.</p>
       <p class="marketing-price-note">Совместимо с iPhone и iPad на iOS 26.2 или новее.</p>
     </article>
     <article class="marketing-price-card">

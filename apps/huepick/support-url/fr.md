@@ -29,7 +29,7 @@ Presque tout fonctionne hors ligne, notamment l'extraction des couleurs, les pal
 
 ### Huepick est-il vraiment gratuit ?
 
-Oui. Aucun achat intégré, aucun abonnement, aucune publicité. Toutes les fonctionnalités sont disponibles dès le téléchargement.
+Oui. Huepick est gratuit à télécharger et toutes les fonctionnalités actuelles sont disponibles dès le téléchargement, sans publicité. Nous pourrions proposer des fonctionnalités premium optionnelles à l'avenir.
 
 ## Utilisation de l'Application
 

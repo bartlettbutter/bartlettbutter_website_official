@@ -19,7 +19,7 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 categorieën</span>
   <span class="marketing-chip">Analyse op het apparaat</span>
-  <span class="marketing-chip">Voor altijd gratis</span>
+  <span class="marketing-chip">Gratis te downloaden</span>
   <span class="marketing-chip">Geen account nodig</span>
 </div>
 
@@ -53,7 +53,7 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Waarom beleggers ervoor kiezen</p>
     <h2 id="ew-why-title" class="marketing-section-title">Een rustige dagelijkse blik op de hele ETF-markt.</h2>
-    <p class="marketing-section-intro">ETFWise verandert een rumoerige markt in een snelle ochtendcheck: verse selecties, een begrijpelijke briefing en diepgaande fondsanalyse, allemaal zonder aanmelding, abonnement of dat je gegevens het apparaat verlaten.</p>
+    <p class="marketing-section-intro">ETFWise verandert een rumoerige markt in een snelle ochtendcheck: verse selecties, een begrijpelijke briefing en diepgaande fondsanalyse, allemaal zonder aanmelding of dat je gegevens het apparaat verlaten.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
     </article>
     <article class="marketing-card">
       <h3>Live data, nul kosten</h3>
-      <p>Realtime prijzen, honderden samengestelde fondsen en directe zoekfunctie komen zonder betaalmuur en zonder advertenties.</p>
+      <p>Realtime prijzen, honderden samengestelde fondsen en directe zoekfunctie komen zonder advertenties.</p>
       <ul class="marketing-list">
         <li>Prijzen worden elke vijf minuten ververst</li>
         <li>200+ samengestelde ETF's en 450+ doorzoekbare tickers</li>
-        <li>Geen abonnementen, geen advertenties, geen account, nooit</li>
+        <li>Geen advertenties en geen account nodig</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Vandaag inbegrepen</span>
-      <h3 class="marketing-price-summary">Elke functie is kosteloos beschikbaar.</h3>
-      <p>Dagelijkse selecties, de marktbriefing, diepgaande fondsanalyse, live prijzen, sentiment en directe zoekfunctie in 450+ tickers zonder account, abonnement of betaalmuur.</p>
+      <h3 class="marketing-price-summary">Alle huidige functies zijn kosteloos beschikbaar.</h3>
+      <p>Dagelijkse selecties, de marktbriefing, diepgaande fondsanalyse, live prijzen, sentiment en directe zoekfunctie in 450+ tickers zonder account.</p>
       <p class="marketing-price-note">Compatibel met iPhone en iPad op iOS 18.0 of hoger.</p>
     </article>
     <article class="marketing-price-card">

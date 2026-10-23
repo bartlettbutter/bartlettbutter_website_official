@@ -19,7 +19,7 @@ Scatta una foto di qualsiasi cosa ti ispiri e Huepick rivela la palette nascosta
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">Palette di 12 colori</span>
   <span class="marketing-chip">6 strumenti creativi</span>
-  <span class="marketing-chip">Gratis per sempre</span>
+  <span class="marketing-chip">Gratis da scaricare</span>
   <span class="marketing-chip">Nessun account richiesto</span>
 </div>
 
@@ -88,7 +88,7 @@ Scatta una foto di qualsiasi cosa ti ispiri e Huepick rivela la palette nascosta
       <p>Nessun account, nessuna analisi, nessuna pubblicità. Le tue foto non lasciano mai il tuo dispositivo e tutto funziona senza connessione.</p>
       <ul class="marketing-list">
         <li>Palette e creazioni restano memorizzate localmente</li>
-        <li>Niente per cui registrarsi e niente da pagare</li>
+        <li>Niente per cui registrarsi, e gratis da usare</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ Scatta una foto di qualsiasi cosa ti ispiri e Huepick rivela la palette nascosta
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Incluso oggi</span>
-      <h3 class="marketing-price-summary">Ogni funzione è disponibile senza costi.</h3>
-      <p>Estrai palette, esplora l'analisi completa, usa tutti e sei gli strumenti creativi e conserva la tua galleria senza account, abbonamento o paywall.</p>
+      <h3 class="marketing-price-summary">Tutte le funzioni attuali sono disponibili senza costi.</h3>
+      <p>Estrai palette, esplora l'analisi completa, usa tutti e sei gli strumenti creativi e conserva la tua galleria senza account.</p>
       <p class="marketing-price-note">Compatibile con iPhone e iPad su iOS 18.6 o successivo.</p>
     </article>
     <article class="marketing-price-card">

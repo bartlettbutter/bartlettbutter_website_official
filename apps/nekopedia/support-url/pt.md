@@ -25,7 +25,7 @@ A identificação de raças, os favoritos e os perfis integrados das 48 raças f
 
 ### O Nekopedia é gratuito?
 
-Sim, totalmente gratuito. Não há compras dentro do aplicativo, assinaturas ou anúncios.
+Sim. O Nekopedia é gratuito para baixar e todos os recursos atuais estão disponíveis sem custo, sem anúncios e sem conta. Podemos introduzir recursos premium opcionais no futuro.
 
 ### Quantas raças o Nekopedia pode identificar?
 

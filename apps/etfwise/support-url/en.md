@@ -24,7 +24,7 @@ Yes, for live prices, news, sentiment, and fund data. The bull and risk case ana
 
 ### How much does ETFWise cost?
 
-ETFWise is free to download from the App Store. There are no subscriptions and no ads.
+ETFWise is free to download from the App Store, and all current features are available at no cost, with no ads. We may introduce optional premium features in the future.
 
 ## Frequently Asked Questions
 

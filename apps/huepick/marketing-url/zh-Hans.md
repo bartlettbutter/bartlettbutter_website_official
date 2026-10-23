@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12色调色板</span>
   <span class="marketing-chip">6种创意工具</span>
-  <span class="marketing-chip">永久免费</span>
+  <span class="marketing-chip">免费下载</span>
   <span class="marketing-chip">无需账户</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>没有账户，没有分析，没有广告。您的照片永远不会离开您的设备，一切都无需联网即可运行。</p>
       <ul class="marketing-list">
         <li>调色板和创作都存储在本地</li>
-        <li>无需注册，也无需付费</li>
+        <li>无需注册，且可免费使用</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">现已包含</span>
-      <h3 class="marketing-price-summary">每项功能都可免费使用。</h3>
-      <p>提取调色板、探索完整分析、使用全部六种创意工具，并保留您的画廊，无需账户、订阅或付费墙。</p>
+      <h3 class="marketing-price-summary">当前所有功能均可免费使用。</h3>
+      <p>提取调色板、探索完整分析、使用全部六种创意工具，并保留您的画廊，无需账户。</p>
       <p class="marketing-price-note">兼容iPhone和iPad，需要iOS 18.6或更高版本。</p>
     </article>
     <article class="marketing-price-card">

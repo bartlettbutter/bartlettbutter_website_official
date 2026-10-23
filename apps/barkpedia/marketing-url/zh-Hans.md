@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147个品种</span>
   <span class="marketing-chip">设备端品种识别</span>
-  <span class="marketing-chip">永久免费</span>
+  <span class="marketing-chip">免费下载</span>
   <span class="marketing-chip">无需账户</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>没有账户，没有分析，没有广告。您的照片在设备上完成分析，绝不会被上传。</p>
       <ul class="marketing-list">
         <li>扫描结果和收藏都存储在本地</li>
-        <li>无需注册，也无需付费</li>
+        <li>无需注册，且可免费使用</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">现已包含</span>
-      <h3 class="marketing-price-summary">每项功能都可免费使用。</h3>
-      <p>识别品种、阅读完整资料、保存收藏、探索地图，以及畅玩两款游戏，无需账户、订阅或付费墙。</p>
+      <h3 class="marketing-price-summary">当前所有功能均可免费使用。</h3>
+      <p>识别品种、阅读完整资料、保存收藏、探索地图，以及畅玩两款游戏，无需账户。</p>
       <p class="marketing-price-note">兼容iPhone和iPad，需要iOS 18.0或更高版本。</p>
     </article>
     <article class="marketing-price-card">

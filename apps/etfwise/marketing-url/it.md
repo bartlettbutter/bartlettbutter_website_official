@@ -19,7 +19,7 @@ Smetti di scorrere ticker infiniti. ETFWise offre raccomandazioni giornaliere su
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 categorie</span>
   <span class="marketing-chip">Analisi sul dispositivo</span>
-  <span class="marketing-chip">Gratis per sempre</span>
+  <span class="marketing-chip">Gratis da scaricare</span>
   <span class="marketing-chip">Nessun account richiesto</span>
 </div>
 
@@ -53,7 +53,7 @@ Smetti di scorrere ticker infiniti. ETFWise offre raccomandazioni giornaliere su
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Perché gli investitori la scelgono</p>
     <h2 id="ew-why-title" class="marketing-section-title">Una lettura quotidiana serena dell'intero mercato degli ETF.</h2>
-    <p class="marketing-section-intro">ETFWise trasforma un mercato rumoroso in un rapido controllo mattutino: selezioni fresche, un briefing in linguaggio semplice e analisi approfondita dei fondi, il tutto senza registrazione, senza abbonamento e senza che i tuoi dati lascino il dispositivo.</p>
+    <p class="marketing-section-intro">ETFWise trasforma un mercato rumoroso in un rapido controllo mattutino: selezioni fresche, un briefing in linguaggio semplice e analisi approfondita dei fondi, il tutto senza registrazione e senza che i tuoi dati lascino il dispositivo.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ Smetti di scorrere ticker infiniti. ETFWise offre raccomandazioni giornaliere su
     </article>
     <article class="marketing-card">
       <h3>Dati in tempo reale, costo zero</h3>
-      <p>Prezzi in tempo reale, centinaia di fondi selezionati e ricerca istantanea, senza paywall e senza pubblicità.</p>
+      <p>Prezzi in tempo reale, centinaia di fondi selezionati e ricerca istantanea, senza pubblicità.</p>
       <ul class="marketing-list">
         <li>I prezzi si aggiornano ogni cinque minuti</li>
         <li>Oltre 200 ETF selezionati e oltre 450 ticker ricercabili</li>
-        <li>Nessun abbonamento, nessuna pubblicità, nessun account, mai</li>
+        <li>Nessuna pubblicità e nessun account necessario</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ Smetti di scorrere ticker infiniti. ETFWise offre raccomandazioni giornaliere su
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Incluso oggi</span>
-      <h3 class="marketing-price-summary">Ogni funzione è disponibile senza costi.</h3>
-      <p>Selezioni giornaliere, briefing di mercato, analisi approfondita dei fondi, prezzi in tempo reale, sentiment e ricerca istantanea su oltre 450 ticker senza account, abbonamento o paywall.</p>
+      <h3 class="marketing-price-summary">Tutte le funzioni attuali sono disponibili senza costi.</h3>
+      <p>Selezioni giornaliere, briefing di mercato, analisi approfondita dei fondi, prezzi in tempo reale, sentiment e ricerca istantanea su oltre 450 ticker senza account.</p>
       <p class="marketing-price-note">Compatibile con iPhone e iPad su iOS 18.0 o successivo.</p>
     </article>
     <article class="marketing-price-card">

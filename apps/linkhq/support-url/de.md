@@ -39,7 +39,7 @@ Suche über Titel, URL, Notiz, Tags und Schlagwörter, mit passenden Schlagwortv
 
 ### Ist LinkHQ kostenlos?
 
-Ja. LinkHQ ist kostenlos zum Laden und Nutzen, ohne Werbung und ohne Konto.
+Ja. LinkHQ ist kostenlos zum Laden und Nutzen, ohne Werbung und ohne Konto. Möglicherweise führen wir in Zukunft optionale Premium-Funktionen ein.
 
 ### Erfasst LinkHQ meine Daten?
 

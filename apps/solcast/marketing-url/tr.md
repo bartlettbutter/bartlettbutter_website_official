@@ -202,7 +202,7 @@ Solcast tahminin ötesine geçer. Ne giyeceğinizi, ne zaman şemsiye alacağın
       <p>Premium, havayı birçok şehir üzerinden takip eden ve kaydedilen yerlerdeki ücretsiz sınırları kaldırmak isteyenler içindir.</p>
       <ul class="marketing-list">
         <li>Her biri kendi yerel saat diliminde sınırsız kayıtlı konum</li>
-        <li>İsteğe bağlı bir yükseltme; temel uygulama ücretsiz kalır</li>
+        <li>Ücretsiz uygulamanın üzerine isteğe bağlı bir yükseltme</li>
         <li>Ücretsiz ya da Premium'da reklam yok ve izleme yok</li>
       </ul>
     </article>

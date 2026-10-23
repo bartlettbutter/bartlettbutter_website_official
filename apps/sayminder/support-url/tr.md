@@ -35,7 +35,7 @@ Takvim veya Yaklaşan görünümünde herhangi bir hatırlatıcıya dokunarak ba
 
 ### Sayminder ücretsiz mi?
 
-Evet. Sayminder'ın indirilmesi ve kullanılması ücretsizdir, reklam da yoktur.
+Evet. Sayminder'ın indirilmesi ve kullanılması ücretsizdir, reklam da yoktur. İleride isteğe bağlı premium özellikler sunabiliriz.
 
 ### Sayminder verilerimi topluyor mu?
 

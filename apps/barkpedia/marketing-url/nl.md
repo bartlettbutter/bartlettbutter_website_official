@@ -19,7 +19,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 rassen</span>
   <span class="marketing-chip">Rasherkenning op je apparaat</span>
-  <span class="marketing-chip">Voor altijd gratis</span>
+  <span class="marketing-chip">Gratis te downloaden</span>
   <span class="marketing-chip">Geen account nodig</span>
 </div>
 
@@ -88,7 +88,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
       <p>Geen accounts, geen analyse, geen advertenties. Je foto's worden op je apparaat geanalyseerd en nooit geüpload.</p>
       <ul class="marketing-list">
         <li>Scans en favorieten blijven lokaal opgeslagen</li>
-        <li>Niets om je voor aan te melden en niets om te betalen</li>
+        <li>Niets om je voor aan te melden en gratis te gebruiken</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Vandaag inbegrepen</span>
-      <h3 class="marketing-price-summary">Elke functie is kosteloos beschikbaar.</h3>
-      <p>Herken rassen, lees volledige profielen, bewaar favorieten, verken de kaart en speel beide spellen zonder account, abonnement of betaalmuur.</p>
+      <h3 class="marketing-price-summary">Alle huidige functies zijn kosteloos beschikbaar.</h3>
+      <p>Herken rassen, lees volledige profielen, bewaar favorieten, verken de kaart en speel beide spellen zonder account.</p>
       <p class="marketing-price-note">Compatibel met iPhone en iPad op iOS 18.0 of hoger.</p>
     </article>
     <article class="marketing-price-card">

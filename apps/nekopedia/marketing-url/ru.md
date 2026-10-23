@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 пород</span>
   <span class="marketing-chip">Определение породы на устройстве</span>
-  <span class="marketing-chip">Бесплатно навсегда</span>
+  <span class="marketing-chip">Бесплатная загрузка</span>
   <span class="marketing-chip">Учётная запись не нужна</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>Никаких учётных записей, аналитики и рекламы. Ваши фотографии никогда не покидают ваше устройство, а определение породы работает без подключения.</p>
       <ul class="marketing-list">
         <li>Сканирования и избранное хранятся локально</li>
-        <li>Ничего не нужно регистрировать и ничего не нужно оплачивать</li>
+        <li>Не нужно регистрироваться, и пользоваться можно бесплатно</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Включено сегодня</span>
-      <h3 class="marketing-price-summary">Каждая функция доступна бесплатно.</h3>
-      <p>Определяйте породы, читайте полные профили, сохраняйте избранное, исследуйте карту и играйте в обе игры без учётной записи, подписки или платного доступа.</p>
+      <h3 class="marketing-price-summary">Все текущие функции доступны бесплатно.</h3>
+      <p>Определяйте породы, читайте полные профили, сохраняйте избранное, исследуйте карту и играйте в обе игры без учётной записи.</p>
       <p class="marketing-price-note">Совместимо с iPhone и iPad на iOS 18.0 или новее.</p>
     </article>
     <article class="marketing-price-card">

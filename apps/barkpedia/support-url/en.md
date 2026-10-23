@@ -24,7 +24,7 @@ Not for most of the experience. Breed identification, saved favorites, breed sea
 
 ### Is Barkpedia really free?
 
-Yes, completely free with no catches. There are no in-app purchases, no subscriptions, and no ads.
+Yes. Barkpedia is free to download and all current features are available at no cost, with no ads and no account required. We may introduce optional premium features in the future.
 
 ### How many breeds can Barkpedia recognize?
 

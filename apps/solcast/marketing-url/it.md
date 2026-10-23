@@ -202,7 +202,7 @@ Solcast va oltre le previsioni. Ti dice cosa indossare, quando portare un ombrel
       <p>Premium è per chi segue il meteo in molte città e vuole eliminare i limiti gratuiti sui luoghi salvati.</p>
       <ul class="marketing-list">
         <li>Località salvate illimitate, ciascuna nel proprio fuso orario locale</li>
-        <li>Un upgrade opzionale: l'app di base resta gratuita</li>
+        <li>Un upgrade opzionale in aggiunta all'app gratuita</li>
         <li>Nessuna pubblicità e nessun tracciamento, con Gratis o Premium</li>
       </ul>
     </article>

@@ -25,7 +25,7 @@ Ja, für Live-Preise, Nachrichten, Stimmung und Fondsdaten. Die Analyse der Bull
 
 ### Wie viel kostet ETFWise?
 
-ETFWise ist kostenlos im App Store erhältlich. Es gibt keine Abonnements und keine Werbung.
+ETFWise ist kostenlos im App Store erhältlich, und alle aktuellen Funktionen sind ohne Kosten verfügbar, ohne Werbung. Möglicherweise führen wir in Zukunft optionale Premium-Funktionen ein.
 
 ## Häufig gestellte Fragen
 

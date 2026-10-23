@@ -29,7 +29,7 @@ redirect_from:
 
 ### TrafficVibe 收费吗？
 
-TrafficVibe 在 App Store 上免费。没有订阅、没有应用内购买，也没有广告。
+TrafficVibe 可从 App Store 免费下载，当前所有功能均可免费使用，没有广告。我们日后可能会推出可选的高级功能。
 
 ## 通勤生活指数
 

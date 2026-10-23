@@ -33,7 +33,7 @@ EarnCall, Apple, Microsoft ve NVIDIA'dan TSMC, SAP ve Uber'e kadar 20 lider şir
 
 ### EarnCall ücretsiz mi?
 
-Evet. EarnCall indirmesi ücretsizdir ve tüm mevcut özellikler ücretsiz kullanılabilir, reklamsız ve hesapsız.
+Evet. EarnCall indirmesi ücretsizdir ve tüm mevcut özellikler ücretsiz kullanılabilir, reklamsız ve hesapsız. İleride isteğe bağlı premium özellikler sunabiliriz.
 
 ## Uygulamayı kullanmak
 

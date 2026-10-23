@@ -202,7 +202,7 @@ Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un
       <p>Premium est destiné aux personnes qui suivent la météo dans de nombreuses villes et veulent lever les limites gratuites sur les lieux enregistrés.</p>
       <ul class="marketing-list">
         <li>Lieux enregistrés illimités, chacun dans son fuseau horaire local</li>
-        <li>Une mise à niveau en option ; l'application principale reste gratuite</li>
+        <li>Une mise à niveau en option, en plus de l'application gratuite</li>
         <li>Aucune publicité et aucun suivi, en version Gratuite ou Premium</li>
       </ul>
     </article>

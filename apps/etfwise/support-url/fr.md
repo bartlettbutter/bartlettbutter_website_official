@@ -25,7 +25,7 @@ Oui, pour les prix en direct, les actualités, le sentiment et les données de f
 
 ### Combien coûte ETFWise ?
 
-ETFWise est gratuit à télécharger depuis l'App Store. Il n'y a aucun abonnement ni publicité.
+ETFWise est gratuit à télécharger depuis l'App Store, et toutes les fonctionnalités actuelles sont disponibles sans frais, sans publicité. Nous pourrions proposer des fonctionnalités premium optionnelles à l'avenir.
 
 ## Questions Fréquentes
 

@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7カテゴリー</span>
   <span class="marketing-chip">デバイス上での分析</span>
-  <span class="marketing-chip">ずっと無料</span>
+  <span class="marketing-chip">ダウンロード無料</span>
   <span class="marketing-chip">アカウント不要</span>
 </div>
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">投資家が選ぶ理由</p>
     <h2 id="ew-why-title" class="marketing-section-title">ETF市場全体を落ち着いて読み解く毎日の習慣。</h2>
-    <p class="marketing-section-intro">ETFWiseは、騒がしい市場を手早い朝のチェックに変えます。新鮮なおすすめ、分かりやすい言葉のブリーフィング、そして深いファンド分析を、サインアップもサブスクリプションも不要で、データがデバイスから出ることもなくお届けします。</p>
+    <p class="marketing-section-intro">ETFWiseは、騒がしい市場を手早い朝のチェックに変えます。新鮮なおすすめ、分かりやすい言葉のブリーフィング、そして深いファンド分析を、サインアップ不要で、データがデバイスから出ることもなくお届けします。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>リアルタイムデータ、コストゼロ</h3>
-      <p>リアルタイム価格、数百の厳選ファンド、そして即時検索が、有料の壁も広告もなく利用できます。</p>
+      <p>リアルタイム価格、数百の厳選ファンド、そして即時検索が、広告なしで利用できます。</p>
       <ul class="marketing-list">
         <li>価格は5分ごとに更新</li>
         <li>200以上の厳選ETFと450以上の検索可能なティッカー</li>
-        <li>サブスクリプションなし、広告なし、アカウントなし、ずっと</li>
+        <li>広告なし、アカウント不要</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">今すぐ利用可能</span>
-      <h3 class="marketing-price-summary">すべての機能を無料で利用できます。</h3>
-      <p>毎日のおすすめ、市場ブリーフィング、深いファンド分析、リアルタイム価格、センチメント、そして450以上のティッカーにわたる即時検索を、アカウントもサブスクリプションも有料の壁もなしに。</p>
+      <h3 class="marketing-price-summary">現在のすべての機能を無料で利用できます。</h3>
+      <p>毎日のおすすめ、市場ブリーフィング、深いファンド分析、リアルタイム価格、センチメント、そして450以上のティッカーにわたる即時検索を、アカウントなしで。</p>
       <p class="marketing-price-note">iOS 18.0以降のiPhoneおよびiPadに対応。</p>
     </article>
     <article class="marketing-price-card">

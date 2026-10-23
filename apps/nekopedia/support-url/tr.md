@@ -25,7 +25,7 @@ Irk tanımlama, favoriler ve 48 ırkın tamamı için yerleşik profiller tamame
 
 ### Nekopedia ücretsiz mi?
 
-Evet, tamamen ücretsiz. Uygulama içi satın alma, abonelik veya reklam yoktur.
+Evet. Nekopedia'yı indirmek ücretsizdir ve mevcut tüm özellikler reklamsız ve hesapsız olarak ücretsiz sunulur. İleride isteğe bağlı premium özellikler sunabiliriz.
 
 ### Nekopedia kaç ırkı tanımlayabilir?
 

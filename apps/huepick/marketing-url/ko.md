@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12색 팔레트</span>
   <span class="marketing-chip">6가지 창의적 도구</span>
-  <span class="marketing-chip">영원히 무료</span>
+  <span class="marketing-chip">무료 다운로드</span>
   <span class="marketing-chip">계정 불필요</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>계정 없음, 분석 없음, 광고 없음. 여러분의 사진은 절대 기기를 벗어나지 않으며 모든 것이 연결 없이 작동합니다.</p>
       <ul class="marketing-list">
         <li>팔레트와 작품은 로컬에 그대로 저장</li>
-        <li>가입할 것도 없고 지불할 것도 없음</li>
+        <li>가입할 것도 없고, 무료로 사용할 수 있습니다</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">오늘 포함된 것</span>
-      <h3 class="marketing-price-summary">모든 기능을 비용 없이 이용할 수 있습니다.</h3>
-      <p>계정도, 구독도, 유료 장벽도 없이 팔레트를 추출하고, 전체 분석을 탐색하고, 여섯 가지 창의적 도구를 모두 사용하고, 갤러리를 유지하세요.</p>
+      <h3 class="marketing-price-summary">현재의 모든 기능을 무료로 이용할 수 있습니다.</h3>
+      <p>계정 없이 팔레트를 추출하고, 전체 분석을 탐색하고, 여섯 가지 창의적 도구를 모두 사용하고, 갤러리를 유지하세요.</p>
       <p class="marketing-price-note">iOS 18.6 이상의 iPhone 및 iPad와 호환됩니다.</p>
     </article>
     <article class="marketing-price-card">

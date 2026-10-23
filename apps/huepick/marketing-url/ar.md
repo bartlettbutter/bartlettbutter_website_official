@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">لوحات من 12 لونًا</span>
   <span class="marketing-chip">6 أدوات إبداعية</span>
-  <span class="marketing-chip">مجاني إلى الأبد</span>
+  <span class="marketing-chip">مجاني للتنزيل</span>
   <span class="marketing-chip">لا يحتاج إلى حساب</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>لا حسابات، ولا تحليلات، ولا إعلانات. لا تغادر صورك جهازك أبدًا وكل شيء يعمل دون اتصال.</p>
       <ul class="marketing-list">
         <li>تبقى لوحات الألوان والأعمال مخزّنة محليًا</li>
-        <li>لا شيء تسجّل فيه ولا شيء تدفعه</li>
+        <li>لا شيء تسجّل فيه، والاستخدام مجاني</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">متوفّر اليوم</span>
-      <h3 class="marketing-price-summary">كل ميزة متاحة دون تكلفة.</h3>
-      <p>استخرج لوحات الألوان، واستكشف التحليل الكامل، واستخدم الأدوات الإبداعية الست جميعها، واحتفظ بمعرضك دون حساب، أو اشتراك، أو جدار دفع.</p>
+      <h3 class="marketing-price-summary">جميع الميزات الحالية متاحة دون أي تكلفة.</h3>
+      <p>استخرج لوحات الألوان، واستكشف التحليل الكامل، واستخدم الأدوات الإبداعية الست جميعها، واحتفظ بمعرضك دون حساب.</p>
       <p class="marketing-price-note">متوافق مع iPhone وiPad على iOS 18.6 أو أحدث.</p>
     </article>
     <article class="marketing-price-card">

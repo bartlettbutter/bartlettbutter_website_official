@@ -19,7 +19,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 Rassen</span>
   <span class="marketing-chip">Rassenerkennung auf dem Gerät</span>
-  <span class="marketing-chip">Für immer kostenlos</span>
+  <span class="marketing-chip">Kostenloser Download</span>
   <span class="marketing-chip">Kein Konto erforderlich</span>
 </div>
 
@@ -88,7 +88,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
       <p>Keine Konten, keine Analysen, keine Werbung. Deine Fotos werden auf deinem Gerät analysiert und niemals hochgeladen.</p>
       <ul class="marketing-list">
         <li>Scans und Favoriten bleiben lokal gespeichert</li>
-        <li>Nichts, wofür man sich anmelden muss, und nichts zu bezahlen</li>
+        <li>Keine Anmeldung nötig und kostenlos nutzbar</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Heute enthalten</span>
-      <h3 class="marketing-price-summary">Jede Funktion ist kostenlos verfügbar.</h3>
-      <p>Identifiziere Rassen, lies vollständige Profile, speichere Favoriten, erkunde die Karte und spiele beide Spiele ohne Konto, Abonnement oder Bezahlschranke.</p>
+      <h3 class="marketing-price-summary">Alle aktuellen Funktionen sind ohne Kosten verfügbar.</h3>
+      <p>Identifiziere Rassen, lies vollständige Profile, speichere Favoriten, erkunde die Karte und spiele beide Spiele ohne Konto.</p>
       <p class="marketing-price-note">Kompatibel mit iPhone und iPad ab iOS 18.0 oder neuer.</p>
     </article>
     <article class="marketing-price-card">

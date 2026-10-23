@@ -20,7 +20,7 @@ redirect_from:
   <span class="marketing-chip">حول العالم</span>
   <span class="marketing-chip">بلا بيانات مُلفّقة</span>
   <span class="marketing-chip">لا حاجة إلى حساب</span>
-  <span class="marketing-chip">مجاني إلى الأبد</span>
+  <span class="marketing-chip">مجاني للتنزيل</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">لماذا يختاره المتنقّلون</p>
     <h2 id="tv-why-title" class="marketing-section-title">نظرة واحدة، فتعرف بالضبط ما ينتظرك.</h2>
-    <p class="marketing-section-intro">يحوّل TrafficVibe الصباح الصاخب إلى فحص هادئ واحد: كيف يسير تنقّلك، وما الذي يُبطئه، ومتى تنطلق، كل ذلك بلا تسجيل، ولا اشتراك، ودون أن تغادر بياناتك جهازك.</p>
+    <p class="marketing-section-intro">يحوّل TrafficVibe الصباح الصاخب إلى فحص هادئ واحد: كيف يسير تنقّلك، وما الذي يُبطئه، ومتى تنطلق، كل ذلك بلا تسجيل، ودون أن تغادر بياناتك جهازك.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -206,8 +206,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">متاح اليوم</span>
-      <h3 class="marketing-price-summary">كل ميزة متاحة دون أي تكلفة.</h3>
-      <p>الملخّص الصباحي، وجميع مؤشرات حياة التنقّل الثمانية عشر، والتوقّعات بالساعة، ومدن التنقّل المحفوظة، والتنبيهات الذكية، بلا حساب، ولا اشتراك، ولا جدار دفع.</p>
+      <h3 class="marketing-price-summary">جميع الميزات الحالية متاحة دون أي تكلفة.</h3>
+      <p>الملخّص الصباحي، وجميع مؤشرات حياة التنقّل الثمانية عشر، والتوقّعات بالساعة، ومدن التنقّل المحفوظة، والتنبيهات الذكية، دون الحاجة إلى حساب.</p>
       <p class="marketing-price-note">متوافق مع iPhone وiPad بنظام iOS 26.2 أو أحدث.</p>
     </article>
     <article class="marketing-price-card">

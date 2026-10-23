@@ -25,7 +25,7 @@ Niet voor het grootste deel van de ervaring. Rasherkenning, opgeslagen favoriete
 
 ### Is Barkpedia echt gratis?
 
-Ja, volledig gratis zonder addertjes. Er zijn geen in-app-aankopen, geen abonnementen en geen advertenties.
+Ja. Barkpedia is gratis te downloaden en alle huidige functies zijn kosteloos beschikbaar, zonder advertenties en zonder account. In de toekomst kunnen we optionele premiumfuncties introduceren.
 
 ### Hoeveel rassen kan Barkpedia herkennen?
 

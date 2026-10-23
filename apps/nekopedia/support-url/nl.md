@@ -25,7 +25,7 @@ Rasherkenning, favorieten en de ingebouwde profielen van alle 48 rassen werken v
 
 ### Is Nekopedia gratis?
 
-Ja, volledig gratis. Er zijn geen in-app-aankopen, geen abonnementen en geen advertenties.
+Ja. Nekopedia is gratis te downloaden en alle huidige functies zijn kosteloos beschikbaar, zonder advertenties en zonder account. In de toekomst kunnen we optionele premiumfuncties introduceren.
 
 ### Hoeveel rassen kan Nekopedia herkennen?
 

@@ -25,7 +25,7 @@ Ja, voor live prijzen, nieuws, sentiment en fondsgegevens. De analyse van de bul
 
 ### Hoeveel kost ETFWise?
 
-ETFWise is gratis te downloaden uit de App Store. Er zijn geen abonnementen en geen advertenties.
+ETFWise is gratis te downloaden uit de App Store en alle huidige functies zijn kosteloos beschikbaar, zonder advertenties. In de toekomst kunnen we optionele premiumfuncties introduceren.
 
 ## Veelgestelde Vragen
 

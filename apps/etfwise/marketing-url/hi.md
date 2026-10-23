@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 श्रेणियाँ</span>
   <span class="marketing-chip">ऑन-डिवाइस विश्लेषण</span>
-  <span class="marketing-chip">हमेशा के लिए निःशुल्क</span>
+  <span class="marketing-chip">डाउनलोड करने के लिए निःशुल्क</span>
   <span class="marketing-chip">खाते की आवश्यकता नहीं</span>
 </div>
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">निवेशक इसे क्यों चुनते हैं</p>
     <h2 id="ew-why-title" class="marketing-section-title">पूरे ETF बाज़ार पर एक शांत दैनिक नज़र।</h2>
-    <p class="marketing-section-intro">ETFWise एक शोरगुल भरे बाज़ार को एक त्वरित सुबह की जाँच में बदल देता है: ताज़ा चयन, सरल भाषा में एक ब्रीफ़िंग, और गहन फंड विश्लेषण, यह सब बिना किसी साइन-अप, सदस्यता, या आपके डेटा को डिवाइस से बाहर भेजे।</p>
+    <p class="marketing-section-intro">ETFWise एक शोरगुल भरे बाज़ार को एक त्वरित सुबह की जाँच में बदल देता है: ताज़ा चयन, सरल भाषा में एक ब्रीफ़िंग, और गहन फंड विश्लेषण, यह सब बिना किसी साइन-अप या आपके डेटा को डिवाइस से बाहर भेजे।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>लाइव डेटा, शून्य लागत</h3>
-      <p>रीयल-टाइम कीमतें, सैकड़ों क्यूरेटेड फंड और तत्काल खोज बिना किसी पेवॉल और बिना किसी विज्ञापन के मिलते हैं।</p>
+      <p>रीयल-टाइम कीमतें, सैकड़ों क्यूरेटेड फंड और तत्काल खोज बिना किसी विज्ञापन के मिलते हैं।</p>
       <ul class="marketing-list">
         <li>कीमतें हर पाँच मिनट में रिफ़्रेश होती हैं</li>
         <li>200+ क्यूरेटेड ETF और 450+ खोजने योग्य टिकर</li>
-        <li>कोई सदस्यता नहीं, कोई विज्ञापन नहीं, कोई खाता नहीं, कभी नहीं</li>
+        <li>कोई विज्ञापन नहीं और खाते की ज़रूरत नहीं</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">आज शामिल</span>
-      <h3 class="marketing-price-summary">हर सुविधा बिना किसी लागत के उपलब्ध है।</h3>
-      <p>दैनिक चयन, बाज़ार ब्रीफ़िंग, गहन फंड विश्लेषण, लाइव कीमतें, भावना, और 450+ टिकर में तत्काल खोज, बिना किसी खाते, सदस्यता या पेवॉल के।</p>
+      <h3 class="marketing-price-summary">सभी मौजूदा सुविधाएँ बिना किसी शुल्क के उपलब्ध हैं।</h3>
+      <p>दैनिक चयन, बाज़ार ब्रीफ़िंग, गहन फंड विश्लेषण, लाइव कीमतें, भावना, और 450+ टिकर में तत्काल खोज, बिना किसी खाते के।</p>
       <p class="marketing-price-note">iOS 18.0 या बाद के संस्करण पर iPhone और iPad के साथ संगत।</p>
     </article>
     <article class="marketing-price-card">

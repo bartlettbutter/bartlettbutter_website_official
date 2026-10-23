@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 فئات</span>
   <span class="marketing-chip">تحليل على الجهاز</span>
-  <span class="marketing-chip">مجاني إلى الأبد</span>
+  <span class="marketing-chip">مجاني للتنزيل</span>
   <span class="marketing-chip">لا حاجة إلى حساب</span>
 </div>
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">لماذا يختاره المستثمرون</p>
     <h2 id="ew-why-title" class="marketing-section-title">قراءة يومية هادئة لسوق صناديق ETF بأكمله.</h2>
-    <p class="marketing-section-intro">يحوّل ETFWise سوقًا صاخبًا إلى فحص صباحي سريع: اختيارات جديدة، وموجز بلغة واضحة، وتحليل معمّق للصناديق، كل ذلك دون تسجيل، أو اشتراك، أو مغادرة بياناتك للجهاز.</p>
+    <p class="marketing-section-intro">يحوّل ETFWise سوقًا صاخبًا إلى فحص صباحي سريع: اختيارات جديدة، وموجز بلغة واضحة، وتحليل معمّق للصناديق، كل ذلك دون تسجيل أو مغادرة بياناتك للجهاز.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>بيانات مباشرة، بتكلفة صفرية</h3>
-      <p>أسعار في الوقت الفعلي، ومئات الصناديق المنسّقة، وبحث فوري تأتي دون جدار دفع ودون إعلانات.</p>
+      <p>أسعار في الوقت الفعلي، ومئات الصناديق المنسّقة، وبحث فوري تأتي دون إعلانات.</p>
       <ul class="marketing-list">
         <li>تُحدَّث الأسعار كل خمس دقائق</li>
         <li>أكثر من 200 صندوق ETF منسّق وأكثر من 450 رمزًا قابلًا للبحث</li>
-        <li>لا اشتراكات، لا إعلانات، لا حساب، أبدًا</li>
+        <li>لا إعلانات ولا حاجة إلى حساب</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">مُتضمَّن اليوم</span>
-      <h3 class="marketing-price-summary">كل ميزة متاحة دون تكلفة.</h3>
-      <p>اختيارات يومية، وموجز السوق، وتحليل معمّق للصناديق، وأسعار مباشرة، ومشاعر، وبحث فوري عبر أكثر من 450 رمزًا دون حساب، أو اشتراك، أو جدار دفع.</p>
+      <h3 class="marketing-price-summary">جميع الميزات الحالية متاحة دون أي تكلفة.</h3>
+      <p>اختيارات يومية، وموجز السوق، وتحليل معمّق للصناديق، وأسعار مباشرة، ومشاعر، وبحث فوري عبر أكثر من 450 رمزًا دون حساب.</p>
       <p class="marketing-price-note">متوافق مع iPhone وiPad على iOS 18.0 أو أحدث.</p>
     </article>
     <article class="marketing-price-card">

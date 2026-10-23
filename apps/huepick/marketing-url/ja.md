@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12色のパレット</span>
   <span class="marketing-chip">6つのクリエイティブツール</span>
-  <span class="marketing-chip">ずっと無料</span>
+  <span class="marketing-chip">ダウンロード無料</span>
   <span class="marketing-chip">アカウント不要</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>アカウントなし、分析なし、広告なし。あなたの写真がデバイスから出ることは一切なく、すべてが接続なしで動作します。</p>
       <ul class="marketing-list">
         <li>パレットと作品はローカルに保存されたまま</li>
-        <li>サインアップするものも支払うものもなし</li>
+        <li>サインアップ不要で、無料で使えます</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">今すぐ使える</span>
-      <h3 class="marketing-price-summary">すべての機能を無料で利用できます。</h3>
-      <p>パレットの抽出、完全な分析の探索、6つすべてのクリエイティブツールの利用、ギャラリーの保管を、アカウントもサブスクリプションもペイウォールもなしで。</p>
+      <h3 class="marketing-price-summary">現在のすべての機能を無料で利用できます。</h3>
+      <p>パレットの抽出、完全な分析の探索、6つすべてのクリエイティブツールの利用、ギャラリーの保管を、アカウントなしで。</p>
       <p class="marketing-price-note">iOS 18.6以降のiPhoneおよびiPadに対応。</p>
     </article>
     <article class="marketing-price-card">

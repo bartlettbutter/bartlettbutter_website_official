@@ -32,7 +32,7 @@ EarnCall profiles 20 leading companies in depth, from Apple, Microsoft, and NVID
 
 ### Is EarnCall free?
 
-Yes. EarnCall is free to download and all current features are available at no cost, with no ads and no account required.
+Yes. EarnCall is free to download and all current features are available at no cost, with no ads and no account required. We may introduce optional premium features in the future.
 
 ## Using the App
 

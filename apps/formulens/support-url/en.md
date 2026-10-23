@@ -42,7 +42,7 @@ FormuLens supports 23 categories across five groups:
 
 ### Is FormuLens free?
 
-Yes. FormuLens is free to download and all current features are available at no cost, with no ads and no account required. If we add optional premium features later, the features you rely on today will remain available.
+Yes. FormuLens is free to download and all current features are available at no cost, with no ads and no account required. We may introduce optional premium features in the future.
 
 ### Do I need the internet to use it?
 

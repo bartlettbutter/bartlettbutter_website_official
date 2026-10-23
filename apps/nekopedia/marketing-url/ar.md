@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48 سلالة</span>
   <span class="marketing-chip">التعرّف على السلالة على جهازك</span>
-  <span class="marketing-chip">مجاني إلى الأبد</span>
+  <span class="marketing-chip">مجاني للتنزيل</span>
   <span class="marketing-chip">لا يتطلب حسابًا</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>لا حسابات، ولا تحليلات، ولا إعلانات. لا تغادر صورك جهازك أبدًا، والتعرّف على السلالة يعمل دون اتصال.</p>
       <ul class="marketing-list">
         <li>تبقى عمليات المسح والمفضلة مخزّنة محليًا</li>
-        <li>لا شيء للتسجيل فيه ولا شيء لدفعه</li>
+        <li>لا شيء للتسجيل فيه، والاستخدام مجاني</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">مُتاح اليوم</span>
-      <h3 class="marketing-price-summary">كل ميزة متاحة بلا تكلفة.</h3>
-      <p>تعرّف على السلالات، واقرأ الملفات التعريفية الكاملة، واحفظ المفضلة، واستكشف الخريطة، والعب اللعبتين دون حساب، أو اشتراك، أو جدار دفع.</p>
+      <h3 class="marketing-price-summary">جميع الميزات الحالية متاحة دون أي تكلفة.</h3>
+      <p>تعرّف على السلالات، واقرأ الملفات التعريفية الكاملة، واحفظ المفضلة، واستكشف الخريطة، والعب اللعبتين دون حساب.</p>
       <p class="marketing-price-note">متوافق مع iPhone وiPad على iOS 18.0 أو أحدث.</p>
     </article>
     <article class="marketing-price-card">

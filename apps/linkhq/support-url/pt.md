@@ -39,7 +39,7 @@ Abra um link e toque em Open Original. O LinkHQ entrega o URL salvo ao iOS, que 
 
 ### O LinkHQ é gratuito?
 
-Sim. O LinkHQ é gratuito para baixar e usar, sem anúncios e sem conta.
+Sim. O LinkHQ é gratuito para baixar e usar, sem anúncios e sem conta. Podemos introduzir recursos premium opcionais no futuro.
 
 ### O LinkHQ coleta meus dados?
 

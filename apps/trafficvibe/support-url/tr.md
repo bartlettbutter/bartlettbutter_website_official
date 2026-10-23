@@ -29,7 +29,7 @@ Evet, canlı trafik, hava durumu ve harita verileri için gereklidir. Çevrimdı
 
 ### TrafficVibe ne kadar tutuyor?
 
-TrafficVibe App Store'dan ücretsizdir. Abonelik, uygulama içi satın alma ve reklam yoktur.
+TrafficVibe, App Store'dan ücretsiz indirilir ve mevcut tüm özellikler reklamsız olarak ücretsiz sunulur. İleride isteğe bağlı premium özellikler sunabiliriz.
 
 ## Yolculuk Yaşam Endeksleri
 

@@ -37,7 +37,7 @@ ProbioLens lee etiquetas de Información del suplemento en inglés para producto
 
 ### ¿ProbioLens es gratis?
 
-Sí. ProbioLens es gratis de descargar y todas las funciones actuales están disponibles sin costo, sin anuncios y sin necesidad de cuenta.
+Sí. ProbioLens es gratis de descargar y todas las funciones actuales están disponibles sin costo, sin anuncios y sin necesidad de cuenta. Es posible que en el futuro añadamos funciones premium opcionales.
 
 ### ¿Necesito internet para usarlo?
 

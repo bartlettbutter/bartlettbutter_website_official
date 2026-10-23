@@ -202,7 +202,7 @@ Solcast va más allá del pronóstico. Te dice qué ponerte, cuándo llevar para
       <p>Premium es para quien sigue el clima en muchas ciudades y quiere quitar los límites gratuitos de lugares guardados.</p>
       <ul class="marketing-list">
         <li>Ubicaciones guardadas ilimitadas, cada una en su zona horaria local</li>
-        <li>Una mejora opcional: la app principal sigue siendo gratis</li>
+        <li>Una mejora opcional además de la app gratuita</li>
         <li>Sin anuncios y sin rastreo, en Gratis o Premium</li>
       </ul>
     </article>

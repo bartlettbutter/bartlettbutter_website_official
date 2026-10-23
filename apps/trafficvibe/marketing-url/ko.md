@@ -20,7 +20,7 @@ redirect_from:
   <span class="marketing-chip">전 세계</span>
   <span class="marketing-chip">지어낸 데이터 없음</span>
   <span class="marketing-chip">계정 불필요</span>
-  <span class="marketing-chip">영원히 무료</span>
+  <span class="marketing-chip">무료 다운로드</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">출퇴근하는 사람들이 선택하는 이유</p>
     <h2 id="tv-why-title" class="marketing-section-title">한눈에, 앞으로 무엇이 기다리는지 정확히 알게 됩니다.</h2>
-    <p class="marketing-section-intro">TrafficVibe는 어수선한 아침을 단 한 번의 차분한 확인으로 바꿔줍니다. 출근길이 어떻게 흐르는지, 무엇이 그것을 늦추는지, 그리고 언제 나서야 하는지를, 가입도, 구독도, 데이터가 기기를 벗어나는 일도 없이 알려드립니다.</p>
+    <p class="marketing-section-intro">TrafficVibe는 어수선한 아침을 단 한 번의 차분한 확인으로 바꿔줍니다. 출근길이 어떻게 흐르는지, 무엇이 그것을 늦추는지, 그리고 언제 나서야 하는지를, 가입도, 데이터가 기기를 벗어나는 일도 없이 알려드립니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -206,8 +206,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">오늘 포함된 것</span>
-      <h3 class="marketing-price-summary">모든 기능을 무료로 이용할 수 있습니다.</h3>
-      <p>아침 브리핑, 열여덟 가지 출근길 생활 지수, 시간별 전망, 저장한 출근 도시, 그리고 스마트 알림을 계정도, 구독도, 유료 장벽도 없이.</p>
+      <h3 class="marketing-price-summary">현재의 모든 기능을 무료로 이용할 수 있습니다.</h3>
+      <p>아침 브리핑, 열여덟 가지 출근길 생활 지수, 시간별 전망, 저장한 출근 도시, 그리고 스마트 알림을 계정 없이.</p>
       <p class="marketing-price-note">iOS 26.2 이상의 iPhone 및 iPad와 호환됩니다.</p>
     </article>
     <article class="marketing-price-card">

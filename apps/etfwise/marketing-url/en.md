@@ -18,7 +18,7 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recom
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 categories</span>
   <span class="marketing-chip">On-device analysis</span>
-  <span class="marketing-chip">Free forever</span>
+  <span class="marketing-chip">Free to download</span>
   <span class="marketing-chip">No account required</span>
 </div>
 
@@ -52,7 +52,7 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recom
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why investors choose it</p>
     <h2 id="ew-why-title" class="marketing-section-title">A calm daily read on the whole ETF market.</h2>
-    <p class="marketing-section-intro">ETFWise turns a noisy market into a quick morning check: fresh picks, a plain-language briefing, and deep fund analysis, all without a sign-up, a subscription, or your data leaving the device.</p>
+    <p class="marketing-section-intro">ETFWise turns a noisy market into a quick morning check: fresh picks, a plain-language briefing, and deep fund analysis, all without a sign-up or your data leaving the device.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -84,11 +84,11 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recom
     </article>
     <article class="marketing-card">
       <h3>Live data, zero cost</h3>
-      <p>Real-time prices, hundreds of curated funds, and instant search come with no paywall and no advertising.</p>
+      <p>Real-time prices, hundreds of curated funds, and instant search come with no advertising.</p>
       <ul class="marketing-list">
         <li>Prices refresh every five minutes</li>
         <li>200+ curated ETFs and 450+ searchable tickers</li>
-        <li>No subscriptions, no ads, no account, ever</li>
+        <li>No ads and no account needed</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recom
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Included today</span>
-      <h3 class="marketing-price-summary">Every feature is available at no cost.</h3>
-      <p>Daily picks, the market briefing, deep fund analysis, live prices, sentiment, and instant search across 450+ tickers without an account, a subscription, or a paywall.</p>
+      <h3 class="marketing-price-summary">All current features are available at no cost.</h3>
+      <p>Daily picks, the market briefing, deep fund analysis, live prices, sentiment, and instant search across 450+ tickers without an account.</p>
       <p class="marketing-price-note">Compatible with iPhone and iPad on iOS 18.0 or later.</p>
     </article>
     <article class="marketing-price-card">

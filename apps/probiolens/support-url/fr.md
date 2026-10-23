@@ -37,7 +37,7 @@ ProbioLens lit les étiquettes de valeurs nutritionnelles en anglais pour les pr
 
 ### ProbioLens est-il gratuit ?
 
-Oui. ProbioLens est gratuit à télécharger et toutes les fonctionnalités actuelles sont disponibles sans frais, sans publicité et sans compte.
+Oui. ProbioLens est gratuit à télécharger et toutes les fonctionnalités actuelles sont disponibles sans frais, sans publicité et sans compte. Nous pourrions proposer des fonctionnalités premium optionnelles à l'avenir.
 
 ### Ai-je besoin d'internet pour l'utiliser ?
 

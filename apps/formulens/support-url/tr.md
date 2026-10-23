@@ -43,7 +43,7 @@ FormuLens, beş grupta 23 kategoriyi destekler:
 
 ### FormuLens ücretsiz mi?
 
-Evet. FormuLens'in indirilmesi ücretsizdir ve mevcut tüm özellikler reklamsız ve hesap gerektirmeden ücretsiz olarak kullanılabilir. İleride isteğe bağlı premium özellikler eklersek, bugün güvendiğiniz özellikler kullanılabilir olmaya devam edecek.
+Evet. FormuLens'in indirilmesi ücretsizdir ve mevcut tüm özellikler reklamsız ve hesap gerektirmeden ücretsiz olarak kullanılabilir. İleride isteğe bağlı premium özellikler sunabiliriz.
 
 ### Kullanmak için internete ihtiyacım var mı?
 

@@ -25,7 +25,7 @@ No para la mayor parte de la experiencia. La identificación de razas, los favor
 
 ### ¿Barkpedia es realmente gratis?
 
-Sí, completamente gratis y sin trampas. No hay compras dentro de la aplicación, ni suscripciones, ni anuncios.
+Sí. Barkpedia es gratis de descargar y todas las funciones actuales están disponibles sin coste, sin anuncios y sin necesidad de cuenta. Es posible que en el futuro añadamos funciones premium opcionales.
 
 ### ¿Cuántas razas puede reconocer Barkpedia?
 

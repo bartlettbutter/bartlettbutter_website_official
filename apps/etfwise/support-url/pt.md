@@ -25,7 +25,7 @@ Sim, para preços ao vivo, notícias, sentimento e dados de fundos. A análise d
 
 ### Quanto custa o ETFWise?
 
-O ETFWise é gratuito para baixar na App Store. Não há assinaturas nem anúncios.
+O ETFWise é gratuito para baixar na App Store, e todos os recursos atuais estão disponíveis sem custo, sem anúncios. Podemos introduzir recursos premium opcionais no futuro.
 
 ## Perguntas Frequentes
 

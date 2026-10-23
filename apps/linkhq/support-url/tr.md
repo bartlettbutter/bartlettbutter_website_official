@@ -39,7 +39,7 @@ Bir bağlantıyı açın ve Open Original'a dokunun. LinkHQ kaydedilen adresi iO
 
 ### LinkHQ ücretsiz mi?
 
-Evet. LinkHQ indirmesi ve kullanması ücretsizdir, reklamsız ve hesapsız.
+Evet. LinkHQ indirmesi ve kullanması ücretsizdir, reklamsız ve hesapsız. İleride isteğe bağlı premium özellikler sunabiliriz.
 
 ### LinkHQ verilerimi topluyor mu?
 

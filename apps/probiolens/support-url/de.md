@@ -37,7 +37,7 @@ ProbioLens liest englischsprachige Supplement-Facts-Etiketten für probiotische,
 
 ### Ist ProbioLens kostenlos?
 
-Ja. ProbioLens ist kostenlos und alle aktuellen Funktionen sind ohne Kosten verfügbar, ohne Werbung und ohne Konto.
+Ja. ProbioLens ist kostenlos und alle aktuellen Funktionen sind ohne Kosten verfügbar, ohne Werbung und ohne Konto. Möglicherweise führen wir in Zukunft optionale Premium-Funktionen ein.
 
 ### Brauche ich das Internet dafür?
 

@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 नस्लें</span>
   <span class="marketing-chip">ऑन-डिवाइस नस्ल पहचान</span>
-  <span class="marketing-chip">हमेशा के लिए निःशुल्क</span>
+  <span class="marketing-chip">डाउनलोड करने के लिए निःशुल्क</span>
   <span class="marketing-chip">खाते की आवश्यकता नहीं</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>कोई खाता नहीं, कोई एनालिटिक्स नहीं, कोई विज्ञापन नहीं। आपकी तस्वीरों का विश्लेषण आपके डिवाइस पर ही होता है और वे कभी अपलोड नहीं होतीं।</p>
       <ul class="marketing-list">
         <li>स्कैन और पसंदीदा स्थानीय रूप से संग्रहीत रहते हैं</li>
-        <li>साइन अप करने को कुछ नहीं और भुगतान करने को कुछ नहीं</li>
+        <li>साइन अप करने को कुछ नहीं, और उपयोग के लिए निःशुल्क</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">आज शामिल</span>
-      <h3 class="marketing-price-summary">हर सुविधा बिना किसी लागत के उपलब्ध है।</h3>
-      <p>बिना किसी खाते, सदस्यता या पेवॉल के नस्लें पहचानें, पूरी प्रोफ़ाइल पढ़ें, पसंदीदा सहेजें, मानचित्र एक्सप्लोर करें, और दोनों गेम खेलें।</p>
+      <h3 class="marketing-price-summary">सभी मौजूदा सुविधाएँ बिना किसी शुल्क के उपलब्ध हैं।</h3>
+      <p>बिना किसी खाते के नस्लें पहचानें, पूरी प्रोफ़ाइल पढ़ें, पसंदीदा सहेजें, मानचित्र एक्सप्लोर करें, और दोनों गेम खेलें।</p>
       <p class="marketing-price-note">iOS 18.0 या बाद के संस्करण पर iPhone और iPad के साथ संगत।</p>
     </article>
     <article class="marketing-price-card">

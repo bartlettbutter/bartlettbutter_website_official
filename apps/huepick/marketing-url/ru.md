@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">Палитры из 12 цветов</span>
   <span class="marketing-chip">6 творческих инструментов</span>
-  <span class="marketing-chip">Бесплатно навсегда</span>
+  <span class="marketing-chip">Бесплатная загрузка</span>
   <span class="marketing-chip">Без учётной записи</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>Никаких учётных записей, аналитики и рекламы. Ваши фотографии никогда не покидают устройство, и всё работает без подключения.</p>
       <ul class="marketing-list">
         <li>Палитры и творения хранятся локально</li>
-        <li>Не нужно ни за что регистрироваться и ни за что платить</li>
+        <li>Не нужно регистрироваться, и пользоваться можно бесплатно</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Доступно сегодня</span>
-      <h3 class="marketing-price-summary">Каждая функция доступна бесплатно.</h3>
-      <p>Извлекайте палитры, изучайте полный анализ, используйте все шесть творческих инструментов и сохраняйте свою галерею без учётной записи, подписки и платного барьера.</p>
+      <h3 class="marketing-price-summary">Все текущие функции доступны бесплатно.</h3>
+      <p>Извлекайте палитры, изучайте полный анализ, используйте все шесть творческих инструментов и сохраняйте свою галерею без учётной записи.</p>
       <p class="marketing-price-note">Совместимо с iPhone и iPad на iOS 18.6 или новее.</p>
     </article>
     <article class="marketing-price-card">

@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 категорий</span>
   <span class="marketing-chip">Анализ на устройстве</span>
-  <span class="marketing-chip">Бесплатно навсегда</span>
+  <span class="marketing-chip">Бесплатная загрузка</span>
   <span class="marketing-chip">Учётная запись не нужна</span>
 </div>
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Почему инвесторы выбирают его</p>
     <h2 id="ew-why-title" class="marketing-section-title">Спокойный ежедневный взгляд на весь рынок ETF.</h2>
-    <p class="marketing-section-intro">ETFWise превращает шумный рынок в быструю утреннюю проверку: свежие подборки, обзор простым языком и глубокий анализ фондов, и всё это без регистрации, без подписки и без выхода ваших данных за пределы устройства.</p>
+    <p class="marketing-section-intro">ETFWise превращает шумный рынок в быструю утреннюю проверку: свежие подборки, обзор простым языком и глубокий анализ фондов, и всё это без регистрации и без выхода ваших данных за пределы устройства.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Актуальные данные, нулевая стоимость</h3>
-      <p>Цены в реальном времени, сотни отобранных фондов и мгновенный поиск, без платного доступа и без рекламы.</p>
+      <p>Цены в реальном времени, сотни отобранных фондов и мгновенный поиск, без рекламы.</p>
       <ul class="marketing-list">
         <li>Цены обновляются каждые пять минут</li>
         <li>Более 200 отобранных ETF и более 450 тикеров для поиска</li>
-        <li>Никогда никаких подписок, никакой рекламы, никаких учётных записей</li>
+        <li>Без рекламы и без учётной записи</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Включено сегодня</span>
-      <h3 class="marketing-price-summary">Каждая функция доступна бесплатно.</h3>
-      <p>Ежедневные подборки, рыночный обзор, глубокий анализ фондов, актуальные цены, настроения и мгновенный поиск по более чем 450 тикерам, без учётной записи, подписки или платного доступа.</p>
+      <h3 class="marketing-price-summary">Все текущие функции доступны бесплатно.</h3>
+      <p>Ежедневные подборки, рыночный обзор, глубокий анализ фондов, актуальные цены, настроения и мгновенный поиск по более чем 450 тикерам, без учётной записи.</p>
       <p class="marketing-price-note">Совместимо с iPhone и iPad на iOS 18.0 или новее.</p>
     </article>
     <article class="marketing-price-card">

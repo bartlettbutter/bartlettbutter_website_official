@@ -20,7 +20,7 @@ redirect_from:
   <span class="marketing-chip">दुनिया भर में</span>
   <span class="marketing-chip">कोई गढ़ा हुआ डेटा नहीं</span>
   <span class="marketing-chip">कोई खाता ज़रूरी नहीं</span>
-  <span class="marketing-chip">हमेशा के लिए मुफ़्त</span>
+  <span class="marketing-chip">डाउनलोड करने के लिए निःशुल्क</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">रोज़ सफ़र करने वाले इसे क्यों चुनते हैं</p>
     <h2 id="tv-why-title" class="marketing-section-title">एक नज़र, और आपको ठीक-ठीक पता चल जाता है कि आगे क्या है।</h2>
-    <p class="marketing-section-intro">TrafficVibe एक शोर-भरी सुबह को एक ही शांत जाँच में बदल देता है: आपका सफ़र कैसा चल रहा है, उसे क्या धीमा कर रहा है, और कब निकलना है, वह भी बिना किसी साइन-अप, बिना सब्सक्रिप्शन, और बिना आपका डेटा डिवाइस से बाहर गए।</p>
+    <p class="marketing-section-intro">TrafficVibe एक शोर-भरी सुबह को एक ही शांत जाँच में बदल देता है: आपका सफ़र कैसा चल रहा है, उसे क्या धीमा कर रहा है, और कब निकलना है, वह भी बिना किसी साइन-अप और बिना आपका डेटा डिवाइस से बाहर गए।</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -206,8 +206,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">आज शामिल</span>
-      <h3 class="marketing-price-summary">हर सुविधा बिना किसी शुल्क के उपलब्ध।</h3>
-      <p>सुबह की जानकारी, सभी अठारह Commute Life Indices, घंटे-दर-घंटे का पूर्वानुमान, सहेजे हुए सफ़र वाले शहर, और स्मार्ट सूचनाएँ, न कोई खाता, न सब्सक्रिप्शन, और न कोई पेवॉल।</p>
+      <h3 class="marketing-price-summary">सभी मौजूदा सुविधाएँ बिना किसी शुल्क के उपलब्ध।</h3>
+      <p>सुबह की जानकारी, सभी अठारह Commute Life Indices, घंटे-दर-घंटे का पूर्वानुमान, सहेजे हुए सफ़र वाले शहर, और स्मार्ट सूचनाएँ, बिना किसी खाते की ज़रूरत के।</p>
       <p class="marketing-price-note">iOS 26.2 या उसके बाद वाले iPhone और iPad के साथ संगत।</p>
     </article>
     <article class="marketing-price-card">

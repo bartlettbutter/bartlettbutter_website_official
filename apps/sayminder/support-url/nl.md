@@ -35,7 +35,7 @@ Tik op een herinnering in de weergave Kalender of Aankomend om een editor te ope
 
 ### Is Sayminder gratis?
 
-Ja. Sayminder is gratis te downloaden en te gebruiken, zonder advertenties.
+Ja. Sayminder is gratis te downloaden en te gebruiken, zonder advertenties. In de toekomst kunnen we optionele premiumfuncties introduceren.
 
 ### Verzamelt Sayminder mijn gegevens?
 

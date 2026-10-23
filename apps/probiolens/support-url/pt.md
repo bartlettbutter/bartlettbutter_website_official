@@ -37,7 +37,7 @@ O ProbioLens lê rótulos de Informação Nutricional em inglês para produtos p
 
 ### O ProbioLens é gratuito?
 
-Sim. O ProbioLens é gratuito para baixar e todos os recursos atuais estão disponíveis sem custo, sem anúncios e sem conta.
+Sim. O ProbioLens é gratuito para baixar e todos os recursos atuais estão disponíveis sem custo, sem anúncios e sem conta. Podemos introduzir recursos premium opcionais no futuro.
 
 ### Preciso de internet para usar?
 

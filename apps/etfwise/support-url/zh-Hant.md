@@ -25,7 +25,7 @@ redirect_from:
 
 ### ETFWise多少錢？
 
-ETFWise可從App Store免費下載。沒有訂閱，也沒有廣告。
+ETFWise可從App Store免費下載，目前所有功能均可免費使用，沒有廣告。我們日後可能會推出可選的進階功能。
 
 ## 常見問題
 

@@ -43,7 +43,7 @@ FormuLens supporta 23 categorie suddivise in cinque gruppi:
 
 ### FormuLens è gratuito?
 
-Sì. FormuLens è gratuito da scaricare e tutte le funzioni attuali sono disponibili senza alcun costo, senza pubblicità e senza account richiesto. Se in futuro aggiungeremo funzioni premium opzionali, le funzioni su cui conti oggi rimarranno disponibili.
+Sì. FormuLens è gratuito da scaricare e tutte le funzioni attuali sono disponibili senza alcun costo, senza pubblicità e senza account richiesto. In futuro potremmo introdurre funzioni premium opzionali.
 
 ### Serve internet per usarlo?
 

@@ -20,7 +20,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
   <span class="marketing-chip">Weltweit</span>
   <span class="marketing-chip">Keine erfundenen Daten</span>
   <span class="marketing-chip">Kein Konto nötig</span>
-  <span class="marketing-chip">Für immer kostenlos</span>
+  <span class="marketing-chip">Kostenloser Download</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -53,7 +53,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Warum Pendler sie wählen</p>
     <h2 id="tv-why-title" class="marketing-section-title">Ein Blick, und du weißt genau, was dich erwartet.</h2>
-    <p class="marketing-section-intro">TrafficVibe macht aus einem hektischen Morgen einen einzigen ruhigen Check: wie dein Weg läuft, was ihn ausbremst und wann du losfahren solltest, alles ohne Anmeldung, ohne Abo und ohne dass deine Daten das Gerät verlassen.</p>
+    <p class="marketing-section-intro">TrafficVibe macht aus einem hektischen Morgen einen einzigen ruhigen Check: wie dein Weg läuft, was ihn ausbremst und wann du losfahren solltest, alles ohne Anmeldung und ohne dass deine Daten das Gerät verlassen.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -206,8 +206,8 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Heute enthalten</span>
-      <h3 class="marketing-price-summary">Alle Funktionen kostenlos verfügbar.</h3>
-      <p>Das Morgen-Briefing, alle achtzehn Pendel-Indizes, die stündliche Vorschau, gespeicherte Pendelstädte und smarte Warnungen, ohne Konto, ohne Abo und ohne Bezahlschranke.</p>
+      <h3 class="marketing-price-summary">Alle aktuellen Funktionen ohne Kosten verfügbar.</h3>
+      <p>Das Morgen-Briefing, alle achtzehn Pendel-Indizes, die stündliche Vorschau, gespeicherte Pendelstädte und smarte Warnungen, ganz ohne Konto.</p>
       <p class="marketing-price-note">Kompatibel mit iPhone und iPad mit iOS 26.2 oder neuer.</p>
     </article>
     <article class="marketing-price-card">

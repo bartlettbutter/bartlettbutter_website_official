@@ -19,7 +19,7 @@ Sonsuz hisse sembolleri arasında gezinmeyi bırakın. ETFWise, canlı piyasa ve
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 kategori</span>
   <span class="marketing-chip">Cihaz üzerinde analiz</span>
-  <span class="marketing-chip">Sonsuza dek ücretsiz</span>
+  <span class="marketing-chip">İndirmesi ücretsiz</span>
   <span class="marketing-chip">Hesap gerekmez</span>
 </div>
 
@@ -53,7 +53,7 @@ Sonsuz hisse sembolleri arasında gezinmeyi bırakın. ETFWise, canlı piyasa ve
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Yatırımcılar neden seçiyor</p>
     <h2 id="ew-why-title" class="marketing-section-title">Tüm ETF piyasasına sakin bir günlük bakış.</h2>
-    <p class="marketing-section-intro">ETFWise, gürültülü bir piyasayı hızlı bir sabah kontrolüne dönüştürür: taze seçimler, sade dille bir brifing ve derinlemesine fon analizi; hepsi bir kayıt, abonelik ya da verilerinizin cihazdan çıkması olmadan.</p>
+    <p class="marketing-section-intro">ETFWise, gürültülü bir piyasayı hızlı bir sabah kontrolüne dönüştürür: taze seçimler, sade dille bir brifing ve derinlemesine fon analizi; hepsi bir kayıt ya da verilerinizin cihazdan çıkması olmadan.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ Sonsuz hisse sembolleri arasında gezinmeyi bırakın. ETFWise, canlı piyasa ve
     </article>
     <article class="marketing-card">
       <h3>Canlı veri, sıfır maliyet</h3>
-      <p>Gerçek zamanlı fiyatlar, yüzlerce özenle seçilmiş fon ve anlık arama; ödeme duvarı ve reklam olmadan gelir.</p>
+      <p>Gerçek zamanlı fiyatlar, yüzlerce özenle seçilmiş fon ve anlık arama; reklam olmadan gelir.</p>
       <ul class="marketing-list">
         <li>Fiyatlar her beş dakikada bir yenilenir</li>
         <li>200'den fazla özenle seçilmiş ETF ve 450'den fazla aranabilir sembol</li>
-        <li>Abonelik yok, reklam yok, hesap yok, asla</li>
+        <li>Reklam yok, hesap gerekmez</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ Sonsuz hisse sembolleri arasında gezinmeyi bırakın. ETFWise, canlı piyasa ve
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Bugün dahil</span>
-      <h3 class="marketing-price-summary">Her özellik ücretsiz olarak sunulur.</h3>
-      <p>Günlük seçimler, piyasa brifingi, derinlemesine fon analizi, canlı fiyatlar, duygu analizi ve 450'den fazla sembolde anlık arama; hesap, abonelik ya da ödeme duvarı olmadan.</p>
+      <h3 class="marketing-price-summary">Mevcut tüm özellikler ücretsiz olarak sunulur.</h3>
+      <p>Günlük seçimler, piyasa brifingi, derinlemesine fon analizi, canlı fiyatlar, duygu analizi ve 450'den fazla sembolde anlık arama; hesap olmadan.</p>
       <p class="marketing-price-note">iOS 18.0 veya sonrasındaki iPhone ve iPad ile uyumludur.</p>
     </article>
     <article class="marketing-price-card">

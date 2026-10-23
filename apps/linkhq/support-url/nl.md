@@ -39,7 +39,7 @@ Open een link en tik op Open Original. LinkHQ geeft de bewaarde URL terug aan iO
 
 ### Is LinkHQ gratis?
 
-Ja. LinkHQ is gratis te downloaden en te gebruiken, zonder advertenties en zonder account.
+Ja. LinkHQ is gratis te downloaden en te gebruiken, zonder advertenties en zonder account. In de toekomst kunnen we optionele premiumfuncties introduceren.
 
 ### Verzamelt LinkHQ mijn gegevens?
 

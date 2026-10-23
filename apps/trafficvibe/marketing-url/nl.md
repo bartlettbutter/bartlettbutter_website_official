@@ -20,7 +20,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
   <span class="marketing-chip">Wereldwijd</span>
   <span class="marketing-chip">Geen verzonnen gegevens</span>
   <span class="marketing-chip">Geen account nodig</span>
-  <span class="marketing-chip">Voor altijd gratis</span>
+  <span class="marketing-chip">Gratis te downloaden</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -53,7 +53,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Waarom forensen ervoor kiezen</p>
     <h2 id="tv-why-title" class="marketing-section-title">Eén blik, en je weet precies wat je te wachten staat.</h2>
-    <p class="marketing-section-intro">TrafficVibe verandert een drukke ochtend in één rustige check: hoe je woon-werkrit loopt, wat hem vertraagt en wanneer je moet vertrekken, allemaal zonder aanmelding, zonder abonnement en zonder dat je gegevens het apparaat verlaten.</p>
+    <p class="marketing-section-intro">TrafficVibe verandert een drukke ochtend in één rustige check: hoe je woon-werkrit loopt, wat hem vertraagt en wanneer je moet vertrekken, allemaal zonder aanmelding en zonder dat je gegevens het apparaat verlaten.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -206,8 +206,8 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Vandaag inbegrepen</span>
-      <h3 class="marketing-price-summary">Alle functies kosteloos beschikbaar.</h3>
-      <p>De ochtendbriefing, alle achttien Commute Life Indices, de verwachting per uur, opgeslagen woon-werksteden en slimme meldingen, zonder account, zonder abonnement en zonder betaalmuur.</p>
+      <h3 class="marketing-price-summary">Alle huidige functies kosteloos beschikbaar.</h3>
+      <p>De ochtendbriefing, alle achttien Commute Life Indices, de verwachting per uur, opgeslagen woon-werksteden en slimme meldingen, zonder account.</p>
       <p class="marketing-price-note">Compatibel met iPhone en iPad met iOS 26.2 of later.</p>
     </article>
     <article class="marketing-price-card">

@@ -20,7 +20,7 @@ redirect_from:
   <span class="marketing-chip">En todo el mundo</span>
   <span class="marketing-chip">Sin datos inventados</span>
   <span class="marketing-chip">Sin cuenta</span>
-  <span class="marketing-chip">Gratis para siempre</span>
+  <span class="marketing-chip">Descarga gratuita</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Por qué la eligen quienes se desplazan</p>
     <h2 id="tv-why-title" class="marketing-section-title">Un vistazo y sabes exactamente qué te espera.</h2>
-    <p class="marketing-section-intro">TrafficVibe convierte una mañana caótica en una sola comprobación serena: cómo va tu trayecto, qué lo frena y cuándo salir, todo sin registro, sin suscripción y sin que tus datos salgan del dispositivo.</p>
+    <p class="marketing-section-intro">TrafficVibe convierte una mañana caótica en una sola comprobación serena: cómo va tu trayecto, qué lo frena y cuándo salir, todo sin registro y sin que tus datos salgan del dispositivo.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -206,8 +206,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Incluido hoy</span>
-      <h3 class="marketing-price-summary">Todas las funciones disponibles sin coste.</h3>
-      <p>El resumen matutino, los dieciocho Índices de Vida del Trayecto, la previsión por horas, las ciudades guardadas y las alertas inteligentes, sin cuenta, sin suscripción y sin muro de pago.</p>
+      <h3 class="marketing-price-summary">Todas las funciones actuales disponibles sin coste.</h3>
+      <p>El resumen matutino, los dieciocho Índices de Vida del Trayecto, la previsión por horas, las ciudades guardadas y las alertas inteligentes, sin necesidad de cuenta.</p>
       <p class="marketing-price-note">Compatible con iPhone y iPad con iOS 26.2 o posterior.</p>
     </article>
     <article class="marketing-price-card">

@@ -19,7 +19,7 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">Palettes de 12 couleurs</span>
   <span class="marketing-chip">6 outils créatifs</span>
-  <span class="marketing-chip">Gratuit pour toujours</span>
+  <span class="marketing-chip">Téléchargement gratuit</span>
   <span class="marketing-chip">Aucun compte requis</span>
 </div>
 
@@ -88,7 +88,7 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
       <p>Aucun compte, aucune analyse, aucune publicité. Vos photos ne quittent jamais votre appareil et tout fonctionne sans connexion.</p>
       <ul class="marketing-list">
         <li>Les palettes et créations restent stockées localement</li>
-        <li>Rien à quoi s'inscrire et rien à payer</li>
+        <li>Aucune inscription requise, et gratuit à l'usage</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Inclus dès aujourd'hui</span>
-      <h3 class="marketing-price-summary">Chaque fonctionnalité est disponible sans frais.</h3>
-      <p>Extrayez des palettes, explorez l'analyse complète, utilisez les six outils créatifs et conservez votre galerie sans compte, sans abonnement et sans péage.</p>
+      <h3 class="marketing-price-summary">Toutes les fonctionnalités actuelles sont disponibles sans frais.</h3>
+      <p>Extrayez des palettes, explorez l'analyse complète, utilisez les six outils créatifs et conservez votre galerie sans compte.</p>
       <p class="marketing-price-note">Compatible avec iPhone et iPad sous iOS 18.6 ou version ultérieure.</p>
     </article>
     <article class="marketing-price-card">

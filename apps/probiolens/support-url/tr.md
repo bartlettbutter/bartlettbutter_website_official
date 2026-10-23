@@ -37,7 +37,7 @@ ProbioLens, probiyotik, prebiyotik, sinbiyotik ve postbiyotik ürünler için İ
 
 ### ProbioLens ücretsiz mi?
 
-Evet. ProbioLens'i indirmek ücretsizdir ve mevcut tüm özellikler reklamsız ve hesapsız olarak ücretsiz sunulur.
+Evet. ProbioLens'i indirmek ücretsizdir ve mevcut tüm özellikler reklamsız ve hesapsız olarak ücretsiz sunulur. İleride isteğe bağlı premium özellikler sunabiliriz.
 
 ### Kullanmak için internet gerekir mi?
 

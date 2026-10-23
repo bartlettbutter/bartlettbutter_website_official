@@ -36,7 +36,7 @@ You can save up to 4 locations on the free tier (unlimited with Premium). Use th
 
 ### Is Solcast free?
 
-Yes. Solcast is free to download and the full weather experience (forecasts, outfit picks, daily briefing, all 16 lifestyle indices, and smart weather alerts) is free, with no ads. An optional Premium subscription adds personal reminders and lifts the saved-city limit; everything else stays free.
+Yes. Solcast is free to download and the full weather experience (forecasts, outfit picks, daily briefing, all 16 lifestyle indices, and smart weather alerts) is free, with no ads. An optional Premium subscription adds personal reminders and lifts the saved-city limit; everything else is free.
 
 ### Does Solcast collect my data?
 

@@ -29,7 +29,7 @@ Sì, per i dati in tempo reale su traffico, meteo e mappe. Se sei offline, Traff
 
 ### Quanto costa TrafficVibe?
 
-TrafficVibe è gratuita sull'App Store. Non ci sono abbonamenti, né acquisti in-app, né pubblicità.
+TrafficVibe è gratuita da scaricare dall'App Store e tutte le funzioni attuali sono disponibili senza costi, senza pubblicità. In futuro potremmo introdurre funzioni premium opzionali.
 
 ## Indici di Vita del Tragitto
 

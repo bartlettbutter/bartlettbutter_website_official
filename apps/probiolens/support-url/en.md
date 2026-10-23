@@ -36,7 +36,7 @@ ProbioLens reads English-language Supplement Facts labels for probiotic, prebiot
 
 ### Is ProbioLens free?
 
-Yes. ProbioLens is free to download and all current features are available at no cost, with no ads and no account required.
+Yes. ProbioLens is free to download and all current features are available at no cost, with no ads and no account required. We may introduce optional premium features in the future.
 
 ### Do I need the internet to use it?
 

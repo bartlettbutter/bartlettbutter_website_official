@@ -34,7 +34,7 @@ Tap any reminder on the Calendar or Upcoming view to open an editor where you ca
 
 ### Is Sayminder free?
 
-Yes. Sayminder is free to download and use, with no ads.
+Yes. Sayminder is free to download and use, with no ads. We may introduce optional premium features in the future.
 
 ### Does Sayminder collect my data?
 

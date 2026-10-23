@@ -25,7 +25,7 @@ Temel deneyim için gerekmez. Irk tanımlama, kaydedilen favoriler, ırk arama, 
 
 ### Barkpedia gerçekten ücretsiz mi?
 
-Evet, hiçbir gizli koşul olmadan tamamen ücretsiz. Uygulama içi satın alma, abonelik veya reklam yoktur.
+Evet. Barkpedia'yı indirmek ücretsizdir ve mevcut tüm özellikler reklamsız ve hesapsız olarak ücretsiz sunulur. İleride isteğe bağlı premium özellikler sunabiliriz.
 
 ### Barkpedia kaç ırkı tanıyabilir?
 

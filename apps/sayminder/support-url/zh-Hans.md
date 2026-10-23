@@ -35,7 +35,7 @@ redirect_from:
 
 ### Sayminder 免费吗？
 
-是的。Sayminder 可免费下载和使用，且没有广告。
+是的。Sayminder 可免费下载和使用，且没有广告。我们日后可能会推出可选的高级功能。
 
 ### Sayminder 会收集我的数据吗？
 

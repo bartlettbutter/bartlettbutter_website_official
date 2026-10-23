@@ -20,7 +20,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
   <span class="marketing-chip">Partout dans le monde</span>
   <span class="marketing-chip">Aucune donnée inventée</span>
   <span class="marketing-chip">Sans compte</span>
-  <span class="marketing-chip">Gratuit pour toujours</span>
+  <span class="marketing-chip">Téléchargement gratuit</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -53,7 +53,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Pourquoi les conducteurs la choisissent</p>
     <h2 id="tv-why-title" class="marketing-section-title">Un coup d'œil, et vous savez exactement ce qui vous attend.</h2>
-    <p class="marketing-section-intro">TrafficVibe transforme une matinée agitée en une seule vérification sereine : comment se déroule votre trajet, ce qui le ralentit et quand partir, le tout sans inscription, sans abonnement et sans que vos données quittent l'appareil.</p>
+    <p class="marketing-section-intro">TrafficVibe transforme une matinée agitée en une seule vérification sereine : comment se déroule votre trajet, ce qui le ralentit et quand partir, le tout sans inscription et sans que vos données quittent l'appareil.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -206,8 +206,8 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Inclus dès aujourd'hui</span>
-      <h3 class="marketing-price-summary">Toutes les fonctionnalités disponibles sans frais.</h3>
-      <p>Le point matinal, les dix-huit Indices de trajet, la prévision horaire, les villes de trajet enregistrées et les alertes intelligentes, sans compte, sans abonnement et sans péage.</p>
+      <h3 class="marketing-price-summary">Toutes les fonctionnalités actuelles disponibles sans frais.</h3>
+      <p>Le point matinal, les dix-huit Indices de trajet, la prévision horaire, les villes de trajet enregistrées et les alertes intelligentes, sans compte requis.</p>
       <p class="marketing-price-note">Compatible avec iPhone et iPad sous iOS 26.2 ou version ultérieure.</p>
     </article>
     <article class="marketing-price-card">

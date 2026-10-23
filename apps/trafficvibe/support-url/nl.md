@@ -29,7 +29,7 @@ Ja, voor live verkeer, weer en kaartgegevens. Als je offline bent, toont Traffic
 
 ### Hoeveel kost TrafficVibe?
 
-TrafficVibe is gratis in de App Store. Er zijn geen abonnementen, geen in-app-aankopen en geen advertenties.
+TrafficVibe is gratis te downloaden uit de App Store en alle huidige functies zijn kosteloos beschikbaar, zonder advertenties. In de toekomst kunnen we optionele premiumfuncties introduceren.
 
 ## Commute Life Indices
 

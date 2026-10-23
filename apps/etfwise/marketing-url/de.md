@@ -19,7 +19,7 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 Kategorien</span>
   <span class="marketing-chip">Geräteinterne Analyse</span>
-  <span class="marketing-chip">Für immer kostenlos</span>
+  <span class="marketing-chip">Kostenloser Download</span>
   <span class="marketing-chip">Kein Konto erforderlich</span>
 </div>
 
@@ -53,7 +53,7 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Warum Anleger sich dafür entscheiden</p>
     <h2 id="ew-why-title" class="marketing-section-title">Ein ruhiger täglicher Blick auf den gesamten ETF-Markt.</h2>
-    <p class="marketing-section-intro">ETFWise verwandelt einen lauten Markt in einen schnellen Morgencheck: frische Auswahlen, ein Briefing in verständlicher Sprache und eine tiefgehende Fondsanalyse, alles ohne Anmeldung, ohne Abonnement und ohne dass deine Daten das Gerät verlassen.</p>
+    <p class="marketing-section-intro">ETFWise verwandelt einen lauten Markt in einen schnellen Morgencheck: frische Auswahlen, ein Briefing in verständlicher Sprache und eine tiefgehende Fondsanalyse, alles ohne Anmeldung und ohne dass deine Daten das Gerät verlassen.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
     </article>
     <article class="marketing-card">
       <h3>Live-Daten, keine Kosten</h3>
-      <p>Echtzeitpreise, Hunderte kuratierter Fonds und sofortige Suche kommen ohne Bezahlschranke und ohne Werbung.</p>
+      <p>Echtzeitpreise, Hunderte kuratierter Fonds und sofortige Suche kommen ohne Werbung.</p>
       <ul class="marketing-list">
         <li>Preise werden alle fünf Minuten aktualisiert</li>
         <li>Über 200 kuratierte ETFs und über 450 durchsuchbare Ticker</li>
-        <li>Keine Abonnements, keine Werbung, kein Konto, niemals</li>
+        <li>Keine Werbung und kein Konto nötig</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Heute enthalten</span>
-      <h3 class="marketing-price-summary">Jede Funktion ist kostenlos verfügbar.</h3>
-      <p>Tägliche Auswahl, das Markt-Briefing, tiefgehende Fondsanalyse, Live-Preise, Stimmung und sofortige Suche über 450+ Ticker ohne Konto, ohne Abonnement und ohne Bezahlschranke.</p>
+      <h3 class="marketing-price-summary">Alle aktuellen Funktionen sind ohne Kosten verfügbar.</h3>
+      <p>Tägliche Auswahl, das Markt-Briefing, tiefgehende Fondsanalyse, Live-Preise, Stimmung und sofortige Suche über 450+ Ticker ohne Konto.</p>
       <p class="marketing-price-note">Kompatibel mit iPhone und iPad ab iOS 18.0 oder neuer.</p>
     </article>
     <article class="marketing-price-card">

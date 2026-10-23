@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147 سلالة</span>
   <span class="marketing-chip">تعرّف على السلالة على جهازك</span>
-  <span class="marketing-chip">مجاني إلى الأبد</span>
+  <span class="marketing-chip">مجاني للتنزيل</span>
   <span class="marketing-chip">لا حاجة إلى حساب</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>لا حسابات، ولا تحليلات، ولا إعلانات. تُحلَّل صورك على جهازك ولا تُرفع أبدًا.</p>
       <ul class="marketing-list">
         <li>تبقى عمليات المسح والمفضّلات مخزّنة محليًا</li>
-        <li>لا شيء للتسجيل فيه ولا شيء لدفعه</li>
+        <li>لا شيء للتسجيل فيه، والاستخدام مجاني</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">مشمول اليوم</span>
-      <h3 class="marketing-price-summary">كل ميزة متاحة دون أي تكلفة.</h3>
-      <p>تعرّف على السلالات، واقرأ ملفات تعريف كاملة، واحفظ المفضّلات، واستكشف الخريطة، والعب اللعبتين دون حساب، أو اشتراك، أو جدار دفع.</p>
+      <h3 class="marketing-price-summary">جميع الميزات الحالية متاحة دون أي تكلفة.</h3>
+      <p>تعرّف على السلالات، واقرأ ملفات تعريف كاملة، واحفظ المفضّلات، واستكشف الخريطة، والعب اللعبتين دون حساب.</p>
       <p class="marketing-price-note">متوافق مع iPhone وiPad على iOS 18.0 أو أحدث.</p>
     </article>
     <article class="marketing-price-card">

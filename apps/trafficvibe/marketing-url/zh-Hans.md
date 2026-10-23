@@ -20,7 +20,7 @@ redirect_from:
   <span class="marketing-chip">覆盖全球</span>
   <span class="marketing-chip">绝不编造数据</span>
   <span class="marketing-chip">无需账户</span>
-  <span class="marketing-chip">永久免费</span>
+  <span class="marketing-chip">免费下载</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">通勤者为何选择它</p>
     <h2 id="tv-why-title" class="marketing-section-title">看一眼，就清楚前方等着你的是什么。</h2>
-    <p class="marketing-section-intro">TrafficVibe 把喧闹的清晨变成一次平静的查看：你的通勤如何、什么在拖慢它、何时出发，无需注册、无需订阅，你的数据也不会离开设备。</p>
+    <p class="marketing-section-intro">TrafficVibe 把喧闹的清晨变成一次平静的查看：你的通勤如何、什么在拖慢它、何时出发，无需注册，你的数据也不会离开设备。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -206,8 +206,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">现已包含</span>
-      <h3 class="marketing-price-summary">所有功能均免费提供。</h3>
-      <p>清晨简报、全部十八项通勤生活指数、逐小时展望、已保存的通勤城市和智能提醒，无需账户、无需订阅，也没有付费墙。</p>
+      <h3 class="marketing-price-summary">当前所有功能均可免费使用。</h3>
+      <p>清晨简报、全部十八项通勤生活指数、逐小时展望、已保存的通勤城市和智能提醒，无需账户。</p>
       <p class="marketing-price-note">兼容 iPhone 和 iPad，需 iOS 26.2 或更高版本。</p>
     </article>
     <article class="marketing-price-card">

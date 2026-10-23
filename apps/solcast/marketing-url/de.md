@@ -202,7 +202,7 @@ Solcast geht über die Vorhersage hinaus. Es sagt dir, was du anziehen sollst, w
       <p>Premium ist für Menschen, die das Wetter über viele Städte hinweg verfolgen und die kostenlosen Limits für gespeicherte Orte aufheben möchten.</p>
       <ul class="marketing-list">
         <li>Unbegrenzt gespeicherte Standorte, jeder in seiner lokalen Zeitzone</li>
-        <li>Ein optionales Upgrade, die Kern-App bleibt kostenlos</li>
+        <li>Ein optionales Upgrade zusätzlich zur kostenlosen App</li>
         <li>Keine Werbung und kein Tracking, ob Kostenlos oder Premium</li>
       </ul>
     </article>

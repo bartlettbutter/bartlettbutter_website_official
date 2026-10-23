@@ -38,7 +38,7 @@ Open a link and tap Open Original. LinkHQ hands the saved URL to iOS, which reop
 
 ### Is LinkHQ free?
 
-Yes. LinkHQ is free to download and use, with no ads and no account.
+Yes. LinkHQ is free to download and use, with no ads and no account. We may introduce optional premium features in the future.
 
 ### Does LinkHQ collect my data?
 

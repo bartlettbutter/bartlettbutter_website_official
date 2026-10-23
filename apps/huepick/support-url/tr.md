@@ -29,7 +29,7 @@ Neredeyse her şey çevrimdışı çalışır; buna renk çıkarma, paletler, ya
 
 ### Huepick gerçekten ücretsiz mi?
 
-Evet. Uygulama içi satın alma yok, abonelik yok, reklam yok. İndirdiğiniz andan itibaren her özellik kullanılabilir.
+Evet. Huepick'i indirmek ücretsizdir ve mevcut her özellik, indirdiğiniz andan itibaren reklamsız olarak kullanılabilir. İleride isteğe bağlı premium özellikler sunabiliriz.
 
 ## Uygulamayı Kullanma
 

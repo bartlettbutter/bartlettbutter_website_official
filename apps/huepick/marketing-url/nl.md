@@ -19,7 +19,7 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">Paletten van 12 kleuren</span>
   <span class="marketing-chip">6 creatieve hulpmiddelen</span>
-  <span class="marketing-chip">Voor altijd gratis</span>
+  <span class="marketing-chip">Gratis te downloaden</span>
   <span class="marketing-chip">Geen account nodig</span>
 </div>
 
@@ -88,7 +88,7 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
       <p>Geen accounts, geen analyse, geen advertenties. Je foto's verlaten nooit je apparaat en alles werkt zonder verbinding.</p>
       <ul class="marketing-list">
         <li>Paletten en creaties blijven lokaal opgeslagen</li>
-        <li>Niets om je voor aan te melden en niets om te betalen</li>
+        <li>Niets om je voor aan te melden en gratis te gebruiken</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Vandaag inbegrepen</span>
-      <h3 class="marketing-price-summary">Elke functie is kosteloos beschikbaar.</h3>
-      <p>Haal paletten eruit, verken de volledige analyse, gebruik alle zes creatieve hulpmiddelen en houd je galerij bij zonder account, abonnement of betaalmuur.</p>
+      <h3 class="marketing-price-summary">Alle huidige functies zijn kosteloos beschikbaar.</h3>
+      <p>Haal paletten eruit, verken de volledige analyse, gebruik alle zes creatieve hulpmiddelen en houd je galerij bij zonder account.</p>
       <p class="marketing-price-note">Compatibel met iPhone en iPad op iOS 18.6 of hoger.</p>
     </article>
     <article class="marketing-price-card">

@@ -20,7 +20,7 @@ redirect_from:
   <span class="marketing-chip">Dünya çapında</span>
   <span class="marketing-chip">Uydurma veri yok</span>
   <span class="marketing-chip">Hesap gerektirmez</span>
-  <span class="marketing-chip">Sonsuza dek ücretsiz</span>
+  <span class="marketing-chip">İndirmesi ücretsiz</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Yolcular neden tercih ediyor</p>
     <h2 id="tv-why-title" class="marketing-section-title">Tek bir bakış ve önünüzde tam olarak ne olduğunu bilirsiniz.</h2>
-    <p class="marketing-section-intro">TrafficVibe gürültülü bir sabahı tek bir sakin kontrole dönüştürür: yolculuğunuzun nasıl aktığı, onu neyin yavaşlattığı ve ne zaman çıkmanız gerektiği; hepsi de kayıt, abonelik ya da verilerinizin cihazdan çıkması olmadan.</p>
+    <p class="marketing-section-intro">TrafficVibe gürültülü bir sabahı tek bir sakin kontrole dönüştürür: yolculuğunuzun nasıl aktığı, onu neyin yavaşlattığı ve ne zaman çıkmanız gerektiği; hepsi de kayıt ya da verilerinizin cihazdan çıkması olmadan.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -206,8 +206,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Bugün dahil</span>
-      <h3 class="marketing-price-summary">Her özellik ücretsiz olarak sunulur.</h3>
-      <p>Sabah özeti, on sekiz Yolculuk Yaşam Endeksinin tamamı, saatlik görünüm, kayıtlı yolculuk şehirleri ve akıllı uyarılar; hesap, abonelik ve ödeme duvarı olmadan.</p>
+      <h3 class="marketing-price-summary">Mevcut tüm özellikler ücretsiz olarak sunulur.</h3>
+      <p>Sabah özeti, on sekiz Yolculuk Yaşam Endeksinin tamamı, saatlik görünüm, kayıtlı yolculuk şehirleri ve akıllı uyarılar; hesap olmadan.</p>
       <p class="marketing-price-note">iOS 26.2 veya sonrasını çalıştıran iPhone ve iPad ile uyumludur.</p>
     </article>
     <article class="marketing-price-card">

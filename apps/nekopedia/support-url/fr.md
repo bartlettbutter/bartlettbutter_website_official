@@ -25,7 +25,7 @@ L'identification des races, les favoris et les profils intégrés des 48 races f
 
 ### Nekopedia est-il gratuit ?
 
-Oui, entièrement gratuit. Il n'y a aucun achat intégré, aucun abonnement et aucune publicité.
+Oui. Nekopedia est gratuit à télécharger et toutes les fonctionnalités actuelles sont disponibles sans frais, sans publicité et sans compte requis. Nous pourrions proposer des fonctionnalités premium optionnelles à l'avenir.
 
 ### Combien de races Nekopedia peut-il identifier ?
 

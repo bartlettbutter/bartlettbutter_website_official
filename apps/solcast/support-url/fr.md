@@ -37,7 +37,7 @@ Vous pouvez enregistrer jusqu'à 4 lieux avec la version gratuite (illimité ave
 
 ### Solcast est-il gratuit ?
 
-Oui. Solcast est gratuit à télécharger et l'expérience météo complète (prévisions, suggestions de tenue, briefing quotidien, les 16 indices de style de vie et les alertes météo intelligentes) est gratuite, sans publicité. Un abonnement Premium en option ajoute des rappels personnels et relève la limite de villes enregistrées ; tout le reste demeure gratuit.
+Oui. Solcast est gratuit à télécharger et l'expérience météo complète (prévisions, suggestions de tenue, briefing quotidien, les 16 indices de style de vie et les alertes météo intelligentes) est gratuite, sans publicité. Un abonnement Premium en option ajoute des rappels personnels et relève la limite de villes enregistrées ; tout le reste est gratuit.
 
 ### Solcast collecte-t-il mes données ?
 

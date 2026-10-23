@@ -19,7 +19,7 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 categorías</span>
   <span class="marketing-chip">Análisis en el dispositivo</span>
-  <span class="marketing-chip">Gratis para siempre</span>
+  <span class="marketing-chip">Descarga gratuita</span>
   <span class="marketing-chip">Sin necesidad de cuenta</span>
 </div>
 
@@ -53,7 +53,7 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Por qué lo eligen los inversores</p>
     <h2 id="ew-why-title" class="marketing-section-title">Una lectura diaria tranquila de todo el mercado de ETF.</h2>
-    <p class="marketing-section-intro">ETFWise convierte un mercado ruidoso en una revisión matutina rápida: selecciones frescas, un resumen en lenguaje sencillo y análisis profundo de fondos, todo sin registro, sin suscripción y sin que tus datos salgan del dispositivo.</p>
+    <p class="marketing-section-intro">ETFWise convierte un mercado ruidoso en una revisión matutina rápida: selecciones frescas, un resumen en lenguaje sencillo y análisis profundo de fondos, todo sin registro y sin que tus datos salgan del dispositivo.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
     </article>
     <article class="marketing-card">
       <h3>Datos en vivo, cero coste</h3>
-      <p>Precios en tiempo real, cientos de fondos seleccionados y búsqueda instantánea sin muro de pago ni publicidad.</p>
+      <p>Precios en tiempo real, cientos de fondos seleccionados y búsqueda instantánea sin publicidad.</p>
       <ul class="marketing-list">
         <li>Los precios se actualizan cada cinco minutos</li>
         <li>Más de 200 ETF seleccionados y más de 450 tickers buscables</li>
-        <li>Sin suscripciones, sin anuncios, sin cuenta, nunca</li>
+        <li>Sin anuncios y sin necesidad de cuenta</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Incluido hoy</span>
-      <h3 class="marketing-price-summary">Todas las funciones están disponibles sin coste.</h3>
-      <p>Selecciones diarias, el informe del mercado, análisis profundo de fondos, precios en vivo, sentimiento y búsqueda instantánea en más de 450 tickers, sin cuenta, sin suscripción y sin muro de pago.</p>
+      <h3 class="marketing-price-summary">Todas las funciones actuales están disponibles sin coste.</h3>
+      <p>Selecciones diarias, el informe del mercado, análisis profundo de fondos, precios en vivo, sentimiento y búsqueda instantánea en más de 450 tickers, sin cuenta.</p>
       <p class="marketing-price-note">Compatible con iPhone y iPad en iOS 18.0 o posterior.</p>
     </article>
     <article class="marketing-price-card">

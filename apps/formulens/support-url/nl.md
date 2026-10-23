@@ -43,7 +43,7 @@ FormuLens ondersteunt 23 categorieën verdeeld over vijf groepen:
 
 ### Is FormuLens gratis?
 
-Ja. FormuLens is gratis te downloaden en alle huidige functies zijn kosteloos beschikbaar, zonder advertenties en zonder dat een account nodig is. Als we later optionele premiumfuncties toevoegen, blijven de functies waar je vandaag op vertrouwt beschikbaar.
+Ja. FormuLens is gratis te downloaden en alle huidige functies zijn kosteloos beschikbaar, zonder advertenties en zonder dat een account nodig is. In de toekomst kunnen we optionele premiumfuncties introduceren.
 
 ### Heb ik internet nodig om het te gebruiken?
 

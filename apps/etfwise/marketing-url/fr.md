@@ -19,7 +19,7 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7 catégories</span>
   <span class="marketing-chip">Analyse sur l'appareil</span>
-  <span class="marketing-chip">Gratuit pour toujours</span>
+  <span class="marketing-chip">Téléchargement gratuit</span>
   <span class="marketing-chip">Aucun compte requis</span>
 </div>
 
@@ -53,7 +53,7 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Pourquoi les investisseurs le choisissent</p>
     <h2 id="ew-why-title" class="marketing-section-title">Une lecture quotidienne posée de tout le marché des ETF.</h2>
-    <p class="marketing-section-intro">ETFWise transforme un marché bruyant en une vérification matinale rapide : des sélections fraîches, un briefing en langage simple et une analyse approfondie des fonds, le tout sans inscription, sans abonnement et sans que vos données quittent l'appareil.</p>
+    <p class="marketing-section-intro">ETFWise transforme un marché bruyant en une vérification matinale rapide : des sélections fraîches, un briefing en langage simple et une analyse approfondie des fonds, le tout sans inscription et sans que vos données quittent l'appareil.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
     </article>
     <article class="marketing-card">
       <h3>Données en direct, coût nul</h3>
-      <p>Des prix en temps réel, des centaines de fonds sélectionnés et une recherche instantanée, sans péage et sans publicité.</p>
+      <p>Des prix en temps réel, des centaines de fonds sélectionnés et une recherche instantanée, sans publicité.</p>
       <ul class="marketing-list">
         <li>Les prix s'actualisent toutes les cinq minutes</li>
         <li>Plus de 200 ETF sélectionnés et plus de 450 symboles consultables</li>
-        <li>Aucun abonnement, aucune publicité, aucun compte, jamais</li>
+        <li>Aucune publicité et aucun compte requis</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Inclus dès aujourd'hui</span>
-      <h3 class="marketing-price-summary">Chaque fonctionnalité est disponible sans frais.</h3>
-      <p>Sélections quotidiennes, briefing du marché, analyse approfondie des fonds, prix en direct, sentiment et recherche instantanée parmi plus de 450 symboles, sans compte, sans abonnement et sans péage.</p>
+      <h3 class="marketing-price-summary">Toutes les fonctionnalités actuelles sont disponibles sans frais.</h3>
+      <p>Sélections quotidiennes, briefing du marché, analyse approfondie des fonds, prix en direct, sentiment et recherche instantanée parmi plus de 450 symboles, sans compte.</p>
       <p class="marketing-price-note">Compatible avec iPhone et iPad sous iOS 18.0 ou version ultérieure.</p>
     </article>
     <article class="marketing-price-card">

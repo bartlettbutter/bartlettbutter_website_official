@@ -19,7 +19,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
   <span class="marketing-chip">Worldwide</span>
   <span class="marketing-chip">No fabricated data</span>
   <span class="marketing-chip">No account required</span>
-  <span class="marketing-chip">Free forever</span>
+  <span class="marketing-chip">Free to download</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="TrafficVibe at a glance">
@@ -52,7 +52,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why commuters choose it</p>
     <h2 id="tv-why-title" class="marketing-section-title">One glance, and you know exactly what's ahead.</h2>
-    <p class="marketing-section-intro">TrafficVibe turns a noisy morning into a single calm check: how your commute is running, what's slowing it down, and when to leave, all without a sign-up, a subscription, or your data leaving the device.</p>
+    <p class="marketing-section-intro">TrafficVibe turns a noisy morning into a single calm check: how your commute is running, what's slowing it down, and when to leave, all without a sign-up or your data leaving the device.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -205,8 +205,8 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Included today</span>
-      <h3 class="marketing-price-summary">Every feature available at no cost.</h3>
-      <p>The morning briefing, all eighteen Commute Life Indices, the hourly outlook, saved commute cities, and smart alerts, with no account, no subscription, and no paywall.</p>
+      <h3 class="marketing-price-summary">All current features available at no cost.</h3>
+      <p>The morning briefing, all eighteen Commute Life Indices, the hourly outlook, saved commute cities, and smart alerts, with no account needed.</p>
       <p class="marketing-price-note">Compatible with iPhone and iPad on iOS 26.2 or later.</p>
     </article>
     <article class="marketing-price-card">

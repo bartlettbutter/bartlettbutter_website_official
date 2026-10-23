@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
   <span class="marketing-chip">7개 카테고리</span>
   <span class="marketing-chip">기기 내 분석</span>
-  <span class="marketing-chip">영원히 무료</span>
+  <span class="marketing-chip">무료 다운로드</span>
   <span class="marketing-chip">계정 불필요</span>
 </div>
 
@@ -53,7 +53,7 @@ redirect_from:
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">투자자가 선택하는 이유</p>
     <h2 id="ew-why-title" class="marketing-section-title">ETF 시장 전체를 차분히 읽는 하루의 습관.</h2>
-    <p class="marketing-section-intro">ETFWise는 소란스러운 시장을 빠른 아침 점검으로 바꿉니다: 새로운 추천, 쉬운 언어의 브리핑, 그리고 심층 펀드 분석. 가입도, 구독도, 데이터가 기기를 벗어나는 일도 없습니다.</p>
+    <p class="marketing-section-intro">ETFWise는 소란스러운 시장을 빠른 아침 점검으로 바꿉니다: 새로운 추천, 쉬운 언어의 브리핑, 그리고 심층 펀드 분석. 가입도, 데이터가 기기를 벗어나는 일도 없습니다.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
@@ -85,11 +85,11 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>실시간 데이터, 비용 제로</h3>
-      <p>실시간 가격, 수백 개의 엄선된 펀드, 즉각 검색이 유료 장벽도 광고도 없이 제공됩니다.</p>
+      <p>실시간 가격, 수백 개의 엄선된 펀드, 즉각 검색이 광고 없이 제공됩니다.</p>
       <ul class="marketing-list">
         <li>가격은 5분마다 갱신</li>
         <li>200개 이상의 엄선된 ETF와 450개 이상의 검색 가능한 티커</li>
-        <li>구독 없음, 광고 없음, 계정 없음, 영원히</li>
+        <li>광고 없음, 계정 불필요</li>
       </ul>
     </article>
   </div>
@@ -188,8 +188,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">오늘 포함된 것</span>
-      <h3 class="marketing-price-summary">모든 기능을 비용 없이 이용할 수 있습니다.</h3>
-      <p>계정, 구독, 유료 장벽 없이 매일의 추천, 시장 브리핑, 심층 펀드 분석, 실시간 가격, 감성, 그리고 450개 이상의 티커에 대한 즉각 검색을 이용하세요.</p>
+      <h3 class="marketing-price-summary">현재의 모든 기능을 무료로 이용할 수 있습니다.</h3>
+      <p>계정 없이 매일의 추천, 시장 브리핑, 심층 펀드 분석, 실시간 가격, 감성, 그리고 450개 이상의 티커에 대한 즉각 검색을 이용하세요.</p>
       <p class="marketing-price-note">iOS 18.0 이상의 iPhone 및 iPad와 호환됩니다.</p>
     </article>
     <article class="marketing-price-card">

@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Nekopedia highlights">
   <span class="marketing-chip">48個品種</span>
   <span class="marketing-chip">本機品種識別</span>
-  <span class="marketing-chip">永久免費</span>
+  <span class="marketing-chip">免費下載</span>
   <span class="marketing-chip">無需賬戶</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>沒有賬戶，沒有分析，沒有廣告。您的照片永遠不會離開您的裝置，品種識別無需連線即可運作。</p>
       <ul class="marketing-list">
         <li>掃描與收藏都儲存在本機</li>
-        <li>無需註冊，也無需付費</li>
+        <li>無需註冊，且可免費使用</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">今日已包含</span>
-      <h3 class="marketing-price-summary">每項功能皆免費提供。</h3>
-      <p>識別品種、閱讀完整資料、儲存收藏、探索地圖，並遊玩兩款遊戲，全都無需賬戶、無需訂閱，也沒有付費牆。</p>
+      <h3 class="marketing-price-summary">目前所有功能均可免費使用。</h3>
+      <p>識別品種、閱讀完整資料、儲存收藏、探索地圖，並遊玩兩款遊戲，全都無需賬戶。</p>
       <p class="marketing-price-note">相容於iOS 18.0或更高版本的iPhone和iPad。</p>
     </article>
     <article class="marketing-price-card">

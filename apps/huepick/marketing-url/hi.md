@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12-रंगों के पैलेट</span>
   <span class="marketing-chip">6 रचनात्मक उपकरण</span>
-  <span class="marketing-chip">हमेशा के लिए निःशुल्क</span>
+  <span class="marketing-chip">डाउनलोड करने के लिए निःशुल्क</span>
   <span class="marketing-chip">खाते की आवश्यकता नहीं</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>कोई खाता नहीं, कोई एनालिटिक्स नहीं, कोई विज्ञापन नहीं। आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं और सब कुछ बिना कनेक्शन के काम करता है।</p>
       <ul class="marketing-list">
         <li>पैलेट और रचनाएँ स्थानीय रूप से संग्रहीत रहती हैं</li>
-        <li>साइन अप करने को कुछ नहीं और भुगतान करने को कुछ नहीं</li>
+        <li>साइन अप करने को कुछ नहीं, और उपयोग के लिए निःशुल्क</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">आज शामिल</span>
-      <h3 class="marketing-price-summary">हर सुविधा बिना किसी लागत के उपलब्ध है।</h3>
-      <p>बिना किसी खाते, सदस्यता या पेवॉल के पैलेट निकालें, पूरा विश्लेषण एक्सप्लोर करें, सभी छह रचनात्मक उपकरण उपयोग करें, और अपनी गैलरी बनाए रखें।</p>
+      <h3 class="marketing-price-summary">सभी मौजूदा सुविधाएँ बिना किसी शुल्क के उपलब्ध हैं।</h3>
+      <p>बिना किसी खाते के पैलेट निकालें, पूरा विश्लेषण एक्सप्लोर करें, सभी छह रचनात्मक उपकरण उपयोग करें, और अपनी गैलरी बनाए रखें।</p>
       <p class="marketing-price-note">iOS 18.6 या बाद के संस्करण पर iPhone और iPad के साथ संगत।</p>
     </article>
     <article class="marketing-price-card">

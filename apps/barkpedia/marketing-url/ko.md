@@ -19,7 +19,7 @@ redirect_from:
 <div class="marketing-chip-row" aria-label="Barkpedia highlights">
   <span class="marketing-chip">147개 품종</span>
   <span class="marketing-chip">기기 내 품종 식별</span>
-  <span class="marketing-chip">영원히 무료</span>
+  <span class="marketing-chip">무료 다운로드</span>
   <span class="marketing-chip">계정 불필요</span>
 </div>
 
@@ -88,7 +88,7 @@ redirect_from:
       <p>계정 없음, 분석 없음, 광고 없음. 여러분의 사진은 기기에서 분석되며 절대 업로드되지 않습니다.</p>
       <ul class="marketing-list">
         <li>스캔과 즐겨찾기는 로컬에 저장됩니다</li>
-        <li>가입할 것도 없고 지불할 것도 없습니다</li>
+        <li>가입할 것도 없고, 무료로 사용할 수 있습니다</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ redirect_from:
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">오늘 포함된 것</span>
-      <h3 class="marketing-price-summary">모든 기능을 비용 없이 이용할 수 있습니다.</h3>
-      <p>계정, 구독, 유료 장벽 없이 품종을 식별하고, 전체 프로필을 읽고, 즐겨찾기를 저장하고, 지도를 탐색하고, 두 게임을 모두 즐기세요.</p>
+      <h3 class="marketing-price-summary">현재의 모든 기능을 무료로 이용할 수 있습니다.</h3>
+      <p>계정 없이 품종을 식별하고, 전체 프로필을 읽고, 즐겨찾기를 저장하고, 지도를 탐색하고, 두 게임을 모두 즐기세요.</p>
       <p class="marketing-price-note">iOS 18.0 이상의 iPhone 및 iPad와 호환됩니다.</p>
     </article>
     <article class="marketing-price-card">

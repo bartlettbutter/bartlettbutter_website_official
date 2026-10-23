@@ -201,7 +201,7 @@ Solcast goes beyond the forecast. It tells you what to wear, when to bring an um
       <p>Premium is for people who follow the weather across many cities and want to lift the free limits on saved places.</p>
       <ul class="marketing-list">
         <li>Unlimited saved locations, each in its local timezone</li>
-        <li>An optional upgrade; the core app stays free</li>
+        <li>An optional upgrade on top of the free app</li>
         <li>No ads and no tracking, on Free or Premium</li>
       </ul>
     </article>

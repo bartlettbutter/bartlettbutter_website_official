@@ -37,7 +37,7 @@ ProbioLens legge etichette nutrizionali in inglese per prodotti probiotici, preb
 
 ### ProbioLens è gratuito?
 
-Sì. ProbioLens è gratuito da scaricare e tutte le funzioni attuali sono disponibili senza costi, senza pubblicità e senza account.
+Sì. ProbioLens è gratuito da scaricare e tutte le funzioni attuali sono disponibili senza costi, senza pubblicità e senza account. In futuro potremmo introdurre funzioni premium opzionali.
 
 ### Serve internet per usarlo?
 

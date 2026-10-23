@@ -19,7 +19,7 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
 <div class="marketing-chip-row" aria-label="Huepick highlights">
   <span class="marketing-chip">12 renkli paletler</span>
   <span class="marketing-chip">6 yaratıcı araç</span>
-  <span class="marketing-chip">Sonsuza dek ücretsiz</span>
+  <span class="marketing-chip">İndirmesi ücretsiz</span>
   <span class="marketing-chip">Hesap gerekmez</span>
 </div>
 
@@ -88,7 +88,7 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
       <p>Hesap yok, analiz yok, reklam yok. Fotoğraflarınız cihazınızdan asla çıkmaz ve her şey bağlantı olmadan çalışır.</p>
       <ul class="marketing-list">
         <li>Paletler ve oluşturmalar yerel olarak saklanır</li>
-        <li>Kayıt olacak hiçbir şey ve ödenecek hiçbir şey yok</li>
+        <li>Kayıt olacak hiçbir şey yok ve kullanımı ücretsiz</li>
       </ul>
     </article>
   </div>
@@ -187,8 +187,8 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Bugün dahil</span>
-      <h3 class="marketing-price-summary">Her özellik ücretsiz olarak sunulur.</h3>
-      <p>Hesap, abonelik ya da ödeme duvarı olmadan paletler çıkarın, tam analizi keşfedin, altı yaratıcı aracın tümünü kullanın ve galerinizi tutun.</p>
+      <h3 class="marketing-price-summary">Mevcut tüm özellikler ücretsiz olarak sunulur.</h3>
+      <p>Hesap olmadan paletler çıkarın, tam analizi keşfedin, altı yaratıcı aracın tümünü kullanın ve galerinizi tutun.</p>
       <p class="marketing-price-note">iOS 18.6 veya sonrasındaki iPhone ve iPad ile uyumludur.</p>
     </article>
     <article class="marketing-price-card">

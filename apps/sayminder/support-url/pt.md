@@ -35,7 +35,7 @@ Toque em qualquer lembrete na visualização de Calendário ou de Próximos para
 
 ### O Sayminder é gratuito?
 
-Sim. O Sayminder é gratuito para baixar e usar, sem anúncios.
+Sim. O Sayminder é gratuito para baixar e usar, sem anúncios. Podemos introduzir recursos premium opcionais no futuro.
 
 ### O Sayminder coleta meus dados?
 

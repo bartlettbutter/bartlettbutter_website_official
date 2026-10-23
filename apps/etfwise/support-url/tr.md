@@ -25,7 +25,7 @@ Evet, canlı fiyatlar, haberler, duygu analizi ve fon verileri için. Yükseliş
 
 ### ETFWise ne kadar?
 
-ETFWise, App Store'dan ücretsiz indirilir. Abonelik veya reklam yoktur.
+ETFWise, App Store'dan ücretsiz indirilir ve mevcut tüm özellikler reklamsız olarak ücretsiz sunulur. İleride isteğe bağlı premium özellikler sunabiliriz.
 
 ## Sık Sorulan Sorular
 

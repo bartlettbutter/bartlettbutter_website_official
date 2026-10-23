@@ -9,3 +9,8 @@ _site/
 # Editor / OS noise
 *.swp
 Thumbs.db
+
+# Local agent / tooling workspaces (keep out of the public repo)
+.agents/
+.claude/
+.worktrees/

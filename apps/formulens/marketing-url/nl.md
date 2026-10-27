@@ -8,6 +8,7 @@ lang: nl
 permalink: /formulens/nl/
 redirect_from:
   - /marketing-url/formulens/nl/
+  - /marketing-url/formulalens/nl/
 ---
 
 # Weet precies wat er in je huidverzorging zit.

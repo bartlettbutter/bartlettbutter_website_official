@@ -7,6 +7,7 @@ lang: pt
 permalink: /formulens/privacy/pt/
 redirect_from:
   - /privacy-policies/formulens/pt/
+  - /privacy-policies/formulalens/pt/
 ---
 
 **Data de vigência:** 8 de julho de 2026

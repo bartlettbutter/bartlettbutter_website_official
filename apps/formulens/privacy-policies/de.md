@@ -7,6 +7,7 @@ lang: de
 permalink: /formulens/privacy/de/
 redirect_from:
   - /privacy-policies/formulens/de/
+  - /privacy-policies/formulalens/de/
 ---
 
 **Gültig ab:** 8. Juli 2026

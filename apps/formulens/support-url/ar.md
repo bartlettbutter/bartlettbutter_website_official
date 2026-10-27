@@ -7,6 +7,7 @@ lang: ar
 permalink: /formulens/support/ar/
 redirect_from:
   - /support-url/formulens/ar/
+  - /support-url/formulalens/ar/
 ---
 
 # كيف يمكننا مساعدتك؟

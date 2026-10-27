@@ -7,6 +7,7 @@ lang: ru
 permalink: /formulens/support/ru/
 redirect_from:
   - /support-url/formulens/ru/
+  - /support-url/formulalens/ru/
 ---
 
 # Чем мы можем помочь?

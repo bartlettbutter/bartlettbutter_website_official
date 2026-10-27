@@ -7,6 +7,7 @@ lang: fr
 permalink: /formulens/support/fr/
 redirect_from:
   - /support-url/formulens/fr/
+  - /support-url/formulalens/fr/
 ---
 
 # Comment pouvons-nous vous aider ?

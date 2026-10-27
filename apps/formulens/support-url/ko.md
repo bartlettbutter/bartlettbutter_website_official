@@ -7,6 +7,7 @@ lang: ko
 permalink: /formulens/support/ko/
 redirect_from:
   - /support-url/formulens/ko/
+  - /support-url/formulalens/ko/
 ---
 
 # 무엇을 도와드릴까요?

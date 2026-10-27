@@ -6,6 +6,7 @@ app_description: "Support"
 permalink: /formulens/support/
 redirect_from:
   - /support-url/formulens/
+  - /support-url/formulalens/
 ---
 
 # How can we help?

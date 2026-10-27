@@ -7,6 +7,7 @@ lang: tr
 permalink: /formulens/privacy/tr/
 redirect_from:
   - /privacy-policies/formulens/tr/
+  - /privacy-policies/formulalens/tr/
 ---
 
 **Yürürlük Tarihi:** 8 Temmuz 2026

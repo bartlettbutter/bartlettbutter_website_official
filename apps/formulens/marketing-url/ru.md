@@ -8,6 +8,7 @@ lang: ru
 permalink: /formulens/ru/
 redirect_from:
   - /marketing-url/formulens/ru/
+  - /marketing-url/formulalens/ru/
 ---
 
 # Узнайте, что именно в вашем уходе за кожей.

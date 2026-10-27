@@ -7,6 +7,7 @@ lang: ko
 permalink: /formulens/privacy/ko/
 redirect_from:
   - /privacy-policies/formulens/ko/
+  - /privacy-policies/formulalens/ko/
 ---
 
 **시행일:** 2026년 7월 8일

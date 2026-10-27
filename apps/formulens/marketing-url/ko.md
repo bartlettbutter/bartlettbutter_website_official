@@ -8,6 +8,7 @@ lang: ko
 permalink: /formulens/ko/
 redirect_from:
   - /marketing-url/formulens/ko/
+  - /marketing-url/formulalens/ko/
 ---
 
 # 당신의 스킨케어에 무엇이 들었는지 정확히 알아보세요.

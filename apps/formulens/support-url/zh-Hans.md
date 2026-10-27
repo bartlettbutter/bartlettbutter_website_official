@@ -7,6 +7,7 @@ lang: zh-Hans
 permalink: /formulens/support/zh-Hans/
 redirect_from:
   - /support-url/formulens/zh-Hans/
+  - /support-url/formulalens/zh-Hans/
 ---
 
 # 我们能帮你什么？

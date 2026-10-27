@@ -8,6 +8,7 @@ lang: pt
 permalink: /formulens/pt/
 redirect_from:
   - /marketing-url/formulens/pt/
+  - /marketing-url/formulalens/pt/
 ---
 
 # Saiba exatamente o que há nos seus produtos de skincare.

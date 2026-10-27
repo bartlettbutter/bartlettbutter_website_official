@@ -7,6 +7,7 @@ lang: ar
 permalink: /formulens/privacy/ar/
 redirect_from:
   - /privacy-policies/formulens/ar/
+  - /privacy-policies/formulalens/ar/
 ---
 
 **تاريخ السريان:** 8 يوليو 2026

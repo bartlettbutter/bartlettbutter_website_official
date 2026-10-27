@@ -8,6 +8,7 @@ lang: de
 permalink: /formulens/de/
 redirect_from:
   - /marketing-url/formulens/de/
+  - /marketing-url/formulalens/de/
 ---
 
 # Wisse genau, was in deiner Hautpflege steckt.

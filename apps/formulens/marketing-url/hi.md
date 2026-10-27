@@ -8,6 +8,7 @@ lang: hi
 permalink: /formulens/hi/
 redirect_from:
   - /marketing-url/formulens/hi/
+  - /marketing-url/formulalens/hi/
 ---
 
 # जानें कि आपके स्किनकेयर में असल में क्या है।

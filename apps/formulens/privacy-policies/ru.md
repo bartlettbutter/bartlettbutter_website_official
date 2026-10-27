@@ -7,6 +7,7 @@ lang: ru
 permalink: /formulens/privacy/ru/
 redirect_from:
   - /privacy-policies/formulens/ru/
+  - /privacy-policies/formulalens/ru/
 ---
 
 **Дата вступления в силу:** 8 июля 2026 г.

@@ -7,6 +7,7 @@ lang: nl
 permalink: /formulens/privacy/nl/
 redirect_from:
   - /privacy-policies/formulens/nl/
+  - /privacy-policies/formulalens/nl/
 ---
 
 **Ingangsdatum:** 8 juli 2026

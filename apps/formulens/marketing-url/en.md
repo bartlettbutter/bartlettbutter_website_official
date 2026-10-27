@@ -7,6 +7,7 @@ app_store_url: "https://apps.apple.com/us/app/formulens/id6783632029"
 permalink: /formulens/
 redirect_from:
   - /marketing-url/formulens/
+  - /marketing-url/formulalens/
 ---
 
 # Know exactly what's in your skincare.

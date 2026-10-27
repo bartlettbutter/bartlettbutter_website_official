@@ -7,6 +7,7 @@ lang: hi
 permalink: /formulens/support/hi/
 redirect_from:
   - /support-url/formulens/hi/
+  - /support-url/formulalens/hi/
 ---
 
 # हम आपकी क्या मदद कर सकते हैं?

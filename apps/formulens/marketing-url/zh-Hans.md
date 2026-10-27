@@ -8,6 +8,7 @@ lang: zh-Hans
 permalink: /formulens/zh-Hans/
 redirect_from:
   - /marketing-url/formulens/zh-Hans/
+  - /marketing-url/formulalens/zh-Hans/
 ---
 
 # 清楚了解你的护肤品里到底有什么。

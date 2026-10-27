@@ -8,6 +8,7 @@ lang: es
 permalink: /formulens/es/
 redirect_from:
   - /marketing-url/formulens/es/
+  - /marketing-url/formulalens/es/
 ---
 
 # Sabe exactamente qué hay en tu cuidado de la piel.

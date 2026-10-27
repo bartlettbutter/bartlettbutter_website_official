@@ -7,6 +7,7 @@ lang: ja
 permalink: /formulens/support/ja/
 redirect_from:
   - /support-url/formulens/ja/
+  - /support-url/formulalens/ja/
 ---
 
 # どのようなお手伝いができますか？

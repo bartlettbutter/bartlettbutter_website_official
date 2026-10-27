@@ -7,6 +7,7 @@ lang: hi
 permalink: /formulens/privacy/hi/
 redirect_from:
   - /privacy-policies/formulens/hi/
+  - /privacy-policies/formulalens/hi/
 ---
 
 **प्रभावी तिथि:** 8 जुलाई, 2026

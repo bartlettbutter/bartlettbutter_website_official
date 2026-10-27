@@ -7,6 +7,7 @@ lang: tr
 permalink: /formulens/support/tr/
 redirect_from:
   - /support-url/formulens/tr/
+  - /support-url/formulalens/tr/
 ---
 
 # Size nasıl yardımcı olabiliriz?

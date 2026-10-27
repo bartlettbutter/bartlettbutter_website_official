@@ -6,6 +6,7 @@ app_description: "Privacy Policy"
 permalink: /formulens/privacy/
 redirect_from:
   - /privacy-policies/formulens/
+  - /privacy-policies/formulalens/
 ---
 
 **Effective Date:** July 8, 2026

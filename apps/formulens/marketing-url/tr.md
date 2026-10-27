@@ -8,6 +8,7 @@ lang: tr
 permalink: /formulens/tr/
 redirect_from:
   - /marketing-url/formulens/tr/
+  - /marketing-url/formulalens/tr/
 ---
 
 # Cilt bakımınızda tam olarak ne olduğunu öğrenin.

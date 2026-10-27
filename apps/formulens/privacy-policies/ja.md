@@ -7,6 +7,7 @@ lang: ja
 permalink: /formulens/privacy/ja/
 redirect_from:
   - /privacy-policies/formulens/ja/
+  - /privacy-policies/formulalens/ja/
 ---
 
 **発効日：** 2026年7月8日

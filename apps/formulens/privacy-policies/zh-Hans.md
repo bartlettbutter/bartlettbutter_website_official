@@ -7,6 +7,7 @@ lang: zh-Hans
 permalink: /formulens/privacy/zh-Hans/
 redirect_from:
   - /privacy-policies/formulens/zh-Hans/
+  - /privacy-policies/formulalens/zh-Hans/
 ---
 
 **生效日期：** 2026 年 7 月 8 日

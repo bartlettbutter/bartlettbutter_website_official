@@ -8,6 +8,7 @@ lang: ja
 permalink: /formulens/ja/
 redirect_from:
   - /marketing-url/formulens/ja/
+  - /marketing-url/formulalens/ja/
 ---
 
 # あなたのスキンケアに何が入っているのかを正確に知る。

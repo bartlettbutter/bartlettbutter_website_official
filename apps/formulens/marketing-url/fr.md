@@ -8,6 +8,7 @@ lang: fr
 permalink: /formulens/fr/
 redirect_from:
   - /marketing-url/formulens/fr/
+  - /marketing-url/formulalens/fr/
 ---
 
 # Sachez exactement ce que contiennent vos soins.

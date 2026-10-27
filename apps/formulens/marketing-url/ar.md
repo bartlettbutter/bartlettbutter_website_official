@@ -8,6 +8,7 @@ lang: ar
 permalink: /formulens/ar/
 redirect_from:
   - /marketing-url/formulens/ar/
+  - /marketing-url/formulalens/ar/
 ---
 
 # اعرف بالضبط ما يوجد في منتجات العناية ببشرتك.

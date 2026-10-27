@@ -202,6 +202,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/formulens/privacy/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">FormuLensは情報提供のみを目的としており、医療上または皮膚科学上の助言ではありません。成分の情報は不完全な場合があり、結果はラベルがどれだけ鮮明に読み取れたかによって異なります。アレルギー、敏感肌、皮膚疾患がある方は、製品ラベルを確認し、新しい製品はパッチテストを行い、皮膚科医または医療の専門家にご相談ください。</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

@@ -217,6 +217,7 @@ redirect_from:
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">सहायता देखें</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">निजता नीति पढ़ें</a>
+    <a class="marketing-inline-link" href="/journeyfolio/terms/hi/">उपयोग की शर्तें पढ़ें</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -53,6 +53,10 @@ La app lee actualmente etiquetas de Información del suplemento en inglés. Este
 
 ## Entender tus resultados
 
+### ¿ProbioLens es asesoramiento médico?
+
+ProbioLens tiene fines exclusivamente educativos y no constituye asesoramiento médico. No diagnostica, trata, cura ni previene ninguna afección. Habla con tu médico o farmacéutico antes de empezar a tomar un suplemento, sobre todo si estás embarazada, en período de lactancia, tomas medicamentos o tienes alguna afección de salud.
+
 ### ¿Qué significan las cuatro capas de información?
 
 ProbioLens siempre mantiene cuatro capas separadas para que sepas cuál es cuál:

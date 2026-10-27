@@ -60,6 +60,10 @@ Die Benutzeroberfläche der App ist derzeit auf Englisch, weitere Sprachen sind 
 
 ## Deine Ergebnisse verstehen
 
+### Ist FormuLens eine medizinische Beratung?
+
+Nein. FormuLens dient ausschließlich Informationszwecken und ist keine medizinische oder dermatologische Beratung. Inhaltsstoffangaben können unvollständig sein, und die Ergebnisse hängen davon ab, wie gut ein Etikett gelesen werden kann. Wenn du Allergien, empfindliche Haut oder eine Hauterkrankung hast, prüfe das Produktetikett, mache einen Verträglichkeitstest mit neuen Produkten und wende dich an eine Dermatologin, einen Dermatologen oder eine medizinische Fachperson.
+
 ### Was bedeuten die Farben?
 
 Jeder Inhaltsstoff ist nach seiner Funktion farblich markiert, zum Beispiel feuchtigkeitsspendend, antioxidativ, Sonnenschutz oder Anti-Aging. So erhältst du eine sofortige visuelle Übersicht darüber, wofür ein Produkt gemacht ist.

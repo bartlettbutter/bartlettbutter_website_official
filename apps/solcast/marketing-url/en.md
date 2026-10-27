@@ -214,6 +214,7 @@ Solcast goes beyond the forecast. It tells you what to wear, when to bring an um
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Visit support</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Read privacy policy</a>
+    <a class="marketing-inline-link" href="/solcast/terms/">Read terms of use</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

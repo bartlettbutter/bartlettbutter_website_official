@@ -202,6 +202,7 @@ Las listas de ingredientes están escritas para químicos, no para ti. FormuLens
       <p class="marketing-price-note"><a href="/formulens/privacy/">Leer política de privacidad</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">FormuLens tiene fines exclusivamente informativos y no constituye asesoramiento médico ni dermatológico. Los detalles de los ingredientes pueden estar incompletos, y los resultados dependen de la claridad con que se lea la etiqueta. Si tienes alergias, piel sensible o alguna afección cutánea, revisa la etiqueta del producto, haz una prueba en una pequeña zona de la piel antes de usar productos nuevos y consulta a un dermatólogo o profesional de la salud.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

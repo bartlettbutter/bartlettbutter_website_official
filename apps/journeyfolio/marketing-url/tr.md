@@ -217,6 +217,7 @@ Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablol
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Desteği ziyaret edin</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Gizlilik politikasını okuyun</a>
+    <a class="marketing-inline-link" href="/journeyfolio/terms/tr/">Kullanım koşullarını okuyun</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

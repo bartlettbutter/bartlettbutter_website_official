@@ -2,10 +2,11 @@
   Derive the app slug, section, and page kind from the URL so titles,
   descriptions, and the app-level secondary nav work without per-page front
   matter. URLs are /<app>/[<lang>/] for marketing, /<app>/support/[<lang>/]
-  for support, and /<app>/privacy/[<lang>/] for privacy. The app slug is
-  always the first path segment; the kind is identified by the /support/ or
-  /privacy/ marker (app slugs and language codes never collide with those
-  words); the optional language code is always the trailing segment.
+  for support, /<app>/privacy/[<lang>/] for privacy, and /<app>/terms/[<lang>/]
+  for terms of use. The app slug is always the first path segment; the kind is
+  identified by the /support/, /privacy/, or /terms/ marker (app slugs and
+  language codes never collide with those words); the optional language code
+  is always the trailing segment.
 {%- endcomment -%}
 {%- assign url_parts = page.url | split: "/" -%}
 {%- assign app_slug = url_parts[1] -%}
@@ -13,6 +14,8 @@
   {%- assign section = "support" -%}
 {%- elsif page.url contains "/privacy/" -%}
   {%- assign section = "privacy" -%}
+{%- elsif page.url contains "/terms/" -%}
+  {%- assign section = "terms" -%}
 {%- else -%}
   {%- assign section = "marketing" -%}
   {%- assign page_kind = "" -%}
@@ -25,9 +28,10 @@
   option's URL is computed deterministically where it is rendered — English
   at the section's un-suffixed base and every other language with its code
   appended as the trailing segment. `kind_suffix` is the section's path
-  segment (support/ or privacy/, empty for marketing), `lang_base_url` is
-  this section's English URL (also the hreflang x-default) and the stem every
-  language option appends its code to. `current_language` is from page.lang.
+  segment (support/, privacy/, or terms/; empty for marketing),
+  `lang_base_url` is this section's English URL (also the hreflang x-default)
+  and the stem every language option appends its code to. `current_language`
+  is from page.lang.
 {%- endcomment -%}
 {%- assign page_languages = nil -%}
 {%- assign current_language = nil -%}
@@ -37,6 +41,8 @@
   {%- assign kind_suffix = "support/" -%}
 {%- elsif section == "privacy" -%}
   {%- assign kind_suffix = "privacy/" -%}
+{%- elsif section == "terms" -%}
+  {%- assign kind_suffix = "terms/" -%}
 {%- else -%}
   {%- assign kind_suffix = "" -%}
 {%- endif -%}
@@ -58,13 +64,16 @@
 {%- endcomment -%}
 {%- assign ui_lang = page.lang | default: "en" -%}
 {%- assign ui = site.data.ui_strings[ui_lang] | default: site.data.ui_strings["en"] -%}
-{%- comment -%} Localize the support/privacy title suffix and meta description. {%- endcomment -%}
+{%- comment -%} Localize the support/privacy/terms title suffix and meta description. {%- endcomment -%}
 {%- if section == "support" -%}
   {%- assign page_kind = ui.page_kind_support -%}
   {%- assign kind_meta = ui.meta_support | replace: "%app%", page.title -%}
 {%- elsif section == "privacy" -%}
   {%- assign page_kind = ui.page_kind_privacy -%}
   {%- assign kind_meta = ui.meta_privacy | replace: "%app%", page.title -%}
+{%- elsif section == "terms" -%}
+  {%- assign page_kind = ui.page_kind_terms -%}
+  {%- assign kind_meta = ui.meta_terms | replace: "%app%", page.title -%}
 {%- endif -%}
 {%- comment -%} Home link keeps the current language: English home at /, every other language at /<lang>/. {%- endcomment -%}
 {%- if ui_lang == "en" -%}{%- assign home_url = "/" -%}{%- else -%}{%- assign home_url = "/" | append: ui_lang | append: "/" -%}{%- endif -%}
@@ -238,6 +247,10 @@
         <a href="/{{ app_slug }}/{{ nav_lang_suffix }}"{% if section == "marketing" %} aria-current="page"{% endif %}>{{ ui.overview }}</a>
         <a href="/{{ app_slug }}/support/{{ nav_lang_suffix }}"{% if section == "support" %} aria-current="page"{% endif %}>{{ ui.support }}</a>
         <a href="/{{ app_slug }}/privacy/{{ nav_lang_suffix }}"{% if section == "privacy" %} aria-current="page"{% endif %}>{{ ui.privacy }}</a>
+        {%- comment -%} Only apps that sell subscriptions have terms pages; the registry lists them. {%- endcomment -%}
+        {%- if site.data.translations.terms contains app_slug %}
+        <a href="/{{ app_slug }}/terms/{{ nav_lang_suffix }}"{% if section == "terms" %} aria-current="page"{% endif %}>{{ ui.terms }}</a>
+        {%- endif %}
       </nav>
       {%- endif -%}
     </div>

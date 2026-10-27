@@ -205,6 +205,7 @@ Probiotic labels are full of strain names, CFU counts, and proprietary blends th
       <p class="marketing-price-note"><a href="/probiolens/privacy/">Read privacy policy</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens is for educational purposes only and is not medical advice. It does not diagnose, treat, cure, or prevent any condition. Talk to your doctor or pharmacist before starting a supplement, especially if you are pregnant, nursing, taking medication, or managing a health condition.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

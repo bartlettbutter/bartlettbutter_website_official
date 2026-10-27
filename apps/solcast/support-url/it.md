@@ -37,7 +37,7 @@ Puoi salvare fino a 4 località con il piano gratuito (illimitate con Premium). 
 
 ### Solcast è gratuito?
 
-Sì. Solcast è gratuito da scaricare e l'esperienza meteo completa (previsioni, consigli sull'outfit, briefing giornaliero, tutti i 16 indici sullo stile di vita e gli avvisi meteo intelligenti) è gratuita, senza pubblicità. Un abbonamento Premium opzionale aggiunge promemoria personali e amplia il limite di città salvate; tutto il resto è gratuito.
+Sì. Solcast è gratuito da scaricare e l'esperienza meteo completa (previsioni, consigli sull'outfit, briefing giornaliero, tutti i 16 indici sullo stile di vita e gli avvisi meteo intelligenti) è gratuita, senza pubblicità. Un abbonamento Premium opzionale aggiunge promemoria personali e amplia il limite di città salvate; tutto il resto è gratuito. Consulta i [Termini di utilizzo](/solcast/terms/it/) per sapere come vengono addebitati e annullati gli abbonamenti.
 
 ### Solcast raccoglie i miei dati?
 

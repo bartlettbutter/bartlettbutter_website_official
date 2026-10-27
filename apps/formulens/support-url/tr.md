@@ -60,6 +60,10 @@ Uygulamanın arayüzü şu anda İngilizcedir ve daha fazla dil planlanmaktadır
 
 ## Sonuçlarınızı anlama
 
+### FormuLens tıbbi tavsiye mi?
+
+Hayır. FormuLens yalnızca bilgilendirme amaçlıdır ve tıbbi veya dermatolojik tavsiye değildir. İçerik bilgileri eksik olabilir ve sonuçlar etiketin ne kadar net okunduğuna bağlıdır. Alerjiniz, hassas cildiniz veya bir cilt rahatsızlığınız varsa ürün etiketini kontrol edin, yeni ürünlerde yama testi yapın ve bir dermatoloğa veya sağlık uzmanına danışın.
+
 ### Renkler ne anlama geliyor?
 
 Her bileşen işlevine göre renk kodludur, örneğin nemlendirme, antioksidan, güneş koruması veya yaşlanma karşıtı. Bu, bir ürünün ne için tasarlandığına dair anında görsel bir harita sunar.

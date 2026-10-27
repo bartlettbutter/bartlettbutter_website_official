@@ -199,6 +199,7 @@ Pare de percorrer tickers intermináveis. O ETFWise oferece recomendações diá
       <p class="marketing-price-note"><a href="/etfwise/privacy/">Ler política de privacidade</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">O ETFWise tem finalidade exclusivamente informativa e educacional e não constitui aconselhamento de investimento, financeiro ou tributário. Suas seleções diárias não são recomendações personalizadas para comprar ou vender qualquer valor mobiliário. Os dados de mercado podem estar atrasados ou incompletos, e o desempenho passado não garante resultados futuros. Faça sua própria pesquisa ou consulte um profissional financeiro habilitado antes de investir.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="ew-next-title">

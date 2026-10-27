@@ -215,6 +215,7 @@ Solcastは予報の枠を超えます。何を着るべきか、いつ傘を持�
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">サポートを見る</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">プライバシーポリシーを読む</a>
+    <a class="marketing-inline-link" href="/solcast/terms/ja/">利用規約を読む</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

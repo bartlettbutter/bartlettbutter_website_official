@@ -202,6 +202,7 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
       <p class="marketing-price-note"><a href="/formulens/privacy/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">FormuLens dient ausschließlich Informationszwecken und ist keine medizinische oder dermatologische Beratung. Inhaltsstoffangaben können unvollständig sein, und die Ergebnisse hängen davon ab, wie gut ein Etikett gelesen werden kann. Wenn du Allergien, empfindliche Haut oder eine Hauterkrankung hast, prüfe das Produktetikett, mache einen Verträglichkeitstest mit neuen Produkten und wende dich an eine Dermatologin, einen Dermatologen oder eine medizinische Fachperson.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

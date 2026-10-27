@@ -215,6 +215,7 @@ O Solcast vai além da previsão. Ele diz o que vestir, quando levar um guarda-c
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Visitar suporte</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Ler política de privacidade</a>
+    <a class="marketing-inline-link" href="/solcast/terms/pt/">Ler termos de uso</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

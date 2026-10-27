@@ -202,6 +202,7 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
       <p class="marketing-price-note"><a href="/formulens/privacy/">Leggi l'informativa sulla privacy</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">FormuLens ha esclusivamente finalità informative e non costituisce un parere medico o dermatologico. I dettagli sugli ingredienti potrebbero essere incompleti e i risultati dipendono dalla leggibilità dell'etichetta. Se hai allergie, pelle sensibile o una condizione cutanea, controlla l'etichetta del prodotto, esegui un patch test sui nuovi prodotti e consulta un dermatologo o un professionista sanitario.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

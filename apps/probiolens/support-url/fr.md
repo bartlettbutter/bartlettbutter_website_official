@@ -53,6 +53,10 @@ L'app lit actuellement les étiquettes de valeurs nutritionnelles en anglais. Ce
 
 ## Comprendre vos résultats
 
+### ProbioLens est-il un avis médical ?
+
+ProbioLens est fourni à titre éducatif uniquement et ne constitue pas un avis médical. Il ne diagnostique, ne traite, ne guérit ni ne prévient aucune affection. Parlez-en à votre médecin ou à votre pharmacien avant de commencer un complément alimentaire, surtout si vous êtes enceinte, allaitez, prenez des médicaments ou êtes suivi pour un problème de santé.
+
 ### Que signifient les quatre couches d'information ?
 
 ProbioLens garde toujours quatre couches distinctes pour que vous sachiez ce qui est quoi :

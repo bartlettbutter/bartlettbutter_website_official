@@ -53,6 +53,10 @@ De app leest momenteel Engelstalige Supplement Facts-etiketten. Deze supportsite
 
 ## Je resultaten begrijpen
 
+### Is ProbioLens medisch advies?
+
+Nee. ProbioLens is uitsluitend bedoeld voor educatieve doeleinden en is geen medisch advies. De app stelt geen diagnoses en behandelt, geneest of voorkomt geen aandoeningen. Overleg met je arts of apotheker voordat je met een supplement begint, vooral als je zwanger bent, borstvoeding geeft, medicijnen gebruikt of een aandoening hebt.
+
 ### Wat betekenen de vier informatielagen?
 
 ProbioLens houdt altijd vier lagen gescheiden zodat je weet wat wat is:

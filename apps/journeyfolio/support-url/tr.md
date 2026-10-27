@@ -99,7 +99,7 @@ Uygulamayı açın ve uygulama içi yükseltme istemini izleyin. Aylık, 6 aylı
 
 ### Aboneliğimi nasıl iptal eder veya değiştiririm?
 
-Cihazınızda **Ayarlar → Apple Kimliği → Abonelikler** bölümüne gidin. İstediğiniz zaman plan değiştirebilir veya iptal edebilirsiniz. Premium erişim, mevcut faturalandırma döneminizin sonuna kadar etkin kalır.
+Cihazınızda **Ayarlar → adınız → Abonelikler** bölümüne gidin. İstediğiniz zaman plan değiştirebilir veya iptal edebilirsiniz. Premium erişim, mevcut faturalandırma döneminizin sonuna kadar etkin kalır. Tüm abonelik ayrıntıları için [Kullanım Koşulları](/journeyfolio/terms/tr/) sayfasına bakın.
 
 ### İptal edersem gezilerimi kaybeder miyim?
 

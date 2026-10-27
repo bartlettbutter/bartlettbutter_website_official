@@ -199,6 +199,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/etfwise/privacy/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ETFWise는 정보 제공 및 교육 목적으로만 제공되며 투자, 금융 또는 세무 조언이 아닙니다. 일일 추천은 특정 증권의 매수 또는 매도를 개인에게 권유하는 것이 아닙니다. 시장 데이터는 지연되거나 불완전할 수 있으며, 과거 성과가 미래 결과를 보장하지 않습니다. 투자하기 전에 직접 조사하거나 공인 금융 전문가와 상담하세요.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="ew-next-title">

@@ -217,6 +217,7 @@ redirect_from:
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">サポートを見る</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">プライバシーポリシーを読む</a>
+    <a class="marketing-inline-link" href="/journeyfolio/terms/ja/">利用規約を読む</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

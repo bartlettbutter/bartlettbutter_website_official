@@ -206,6 +206,7 @@ Le etichette dei probiotici sono piene di nomi di ceppi, conteggi di UFC e misce
       <p class="marketing-price-note"><a href="/probiolens/privacy/it/">Leggi l'informativa sulla privacy</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens ha esclusivamente finalità educative e non costituisce un parere medico. Non diagnostica, tratta, cura né previene alcuna condizione. Parla con il tuo medico o farmacista prima di iniziare un integratore, soprattutto se sei in gravidanza, stai allattando, assumi farmaci o hai una condizione di salute.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

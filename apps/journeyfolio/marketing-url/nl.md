@@ -217,6 +217,7 @@ Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreads
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Bezoek ondersteuning</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Lees het privacybeleid</a>
+    <a class="marketing-inline-link" href="/journeyfolio/terms/nl/">Lees de gebruiksvoorwaarden</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

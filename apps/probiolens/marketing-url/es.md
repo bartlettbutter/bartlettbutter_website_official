@@ -206,6 +206,7 @@ Las etiquetas de probióticos están llenas de nombres de cepas, recuentos de UF
       <p class="marketing-price-note"><a href="/probiolens/privacy/es/">Leer la política de privacidad</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens tiene fines exclusivamente educativos y no constituye asesoramiento médico. No diagnostica, trata, cura ni previene ninguna afección. Habla con tu médico o farmacéutico antes de empezar a tomar un suplemento, sobre todo si estás embarazada, en período de lactancia, tomas medicamentos o tienes alguna afección de salud.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

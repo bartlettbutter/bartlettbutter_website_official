@@ -199,6 +199,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/etfwise/privacy/">閱讀隱私政策</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ETFWise僅供參考和學習之用，不構成投資、財務或稅務建議。其每日精選並非針對個人的買入或賣出任何證券的建議。市場資料可能存在延遲或不完整，過往表現不代表未來結果。投資前請自行研究或諮詢持牌金融專業人士。</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="ew-next-title">

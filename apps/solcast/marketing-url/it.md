@@ -215,6 +215,7 @@ Solcast va oltre le previsioni. Ti dice cosa indossare, quando portare un ombrel
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Visita il supporto</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Leggi l'informativa sulla privacy</a>
+    <a class="marketing-inline-link" href="/solcast/terms/it/">Leggi i termini di utilizzo</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

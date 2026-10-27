@@ -23,6 +23,10 @@ Elke dag selecteert ETFWise de beste ETF's in zeven categorieën (Hoofdindex, Se
 
 Ja, voor live prijzen, nieuws, sentiment en fondsgegevens. De analyse van de bull- en risicoscenario's wordt direct op je apparaat gegenereerd uit gegevens die al op het scherm staan, dus er is geen aanvullende verbinding nodig.
 
+### Is ETFWise beleggingsadvies?
+
+Nee. ETFWise is uitsluitend bedoeld voor informatieve en educatieve doeleinden en is geen beleggings-, financieel of fiscaal advies. De dagelijkse selecties zijn geen persoonlijke aanbevelingen om effecten te kopen of te verkopen. Marktgegevens kunnen vertraagd of onvolledig zijn, en in het verleden behaalde resultaten bieden geen garantie voor de toekomst. Doe je eigen onderzoek of raadpleeg een erkende financieel adviseur voordat je belegt.
+
 ### Hoeveel kost ETFWise?
 
 ETFWise is gratis te downloaden uit de App Store en alle huidige functies zijn kosteloos beschikbaar, zonder advertenties. In de toekomst kunnen we optionele premiumfuncties introduceren.

@@ -17,6 +17,8 @@ plugins:
 #   marketing-url/     Marketing pages per lang   →  /<app>/[<lang>/]
 #   support-url/       Support pages per lang     →  /<app>/support/[<lang>/]
 #   privacy-policies/  Privacy policies per lang  →  /<app>/privacy/[<lang>/]
+#   terms-of-use/      Terms of use per lang      →  /<app>/terms/[<lang>/]
+#                      (only apps with subscriptions; see _data/translations.yml)
 #
 # The source folder names (marketing-url, support-url, privacy-policies) are
 # historical; the published URL is what each file's `permalink` declares.

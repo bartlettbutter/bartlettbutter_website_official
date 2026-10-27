@@ -206,6 +206,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/probiolens/privacy/zh-Hans/">阅读隐私政策</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens仅供科普之用，不构成医疗建议。它不能诊断、治疗、治愈或预防任何疾病。开始服用任何补充剂之前，请咨询您的医生或药剂师，尤其是在您怀孕、哺乳、正在服药或患有疾病的情况下。</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

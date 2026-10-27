@@ -215,6 +215,7 @@ Solcast पूर्वानुमान से आगे जाता है�
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">सहायता पर जाएँ</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">गोपनीयता नीति पढ़ें</a>
+    <a class="marketing-inline-link" href="/solcast/terms/hi/">उपयोग की शर्तें पढ़ें</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

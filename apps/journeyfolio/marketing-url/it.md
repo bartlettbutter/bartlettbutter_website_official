@@ -217,6 +217,7 @@ Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciat
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Visita il supporto</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Leggi l'informativa sulla privacy</a>
+    <a class="marketing-inline-link" href="/journeyfolio/terms/it/">Leggi i termini di utilizzo</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

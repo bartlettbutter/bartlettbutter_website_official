@@ -23,6 +23,10 @@ ETFWise her gün, canlı piyasa verilerine dayanarak yedi kategoride (Ana Endeks
 
 Evet, canlı fiyatlar, haberler, duygu analizi ve fon verileri için. Yükseliş ve risk senaryosu analizi, ekranda zaten görüntülenen verilerden cihazınızda anında oluşturulur, bu nedenle ek bir bağlantı gerektirmez.
 
+### ETFWise yatırım tavsiyesi mi?
+
+Hayır. ETFWise yalnızca bilgilendirme ve eğitim amaçlıdır; yatırım, finans veya vergi tavsiyesi değildir. Günlük seçimler, herhangi bir menkul kıymeti alma veya satmaya yönelik kişiselleştirilmiş öneriler değildir. Piyasa verileri gecikmeli veya eksik olabilir ve geçmiş performans gelecekteki sonuçları garanti etmez. Yatırım yapmadan önce kendi araştırmanızı yapın veya lisanslı bir finans uzmanına danışın.
+
 ### ETFWise ne kadar?
 
 ETFWise, App Store'dan ücretsiz indirilir ve mevcut tüm özellikler reklamsız olarak ücretsiz sunulur. İleride isteğe bağlı premium özellikler sunabiliriz.

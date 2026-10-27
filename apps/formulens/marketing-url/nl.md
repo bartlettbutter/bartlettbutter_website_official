@@ -202,6 +202,7 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
       <p class="marketing-price-note"><a href="/formulens/privacy/">Lees het privacybeleid</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">FormuLens is uitsluitend bedoeld voor informatieve doeleinden en is geen medisch of dermatologisch advies. Ingrediëntgegevens kunnen onvolledig zijn, en de resultaten hangen af van hoe duidelijk een etiket wordt gelezen. Heb je allergieën, een gevoelige huid of een huidaandoening, controleer dan het productetiket, test nieuwe producten eerst op een klein stukje huid en raadpleeg een dermatoloog of zorgverlener.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

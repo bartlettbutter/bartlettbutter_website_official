@@ -206,6 +206,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/probiolens/privacy/zh-Hant/">閱讀隱私權政策</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens僅供科普之用，不構成醫療建議。它不能診斷、治療、治癒或預防任何疾病。開始服用任何補充劑之前，請諮詢您的醫師或藥師，尤其是在您懷孕、哺乳、正在服藥或患有疾病的情況下。</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

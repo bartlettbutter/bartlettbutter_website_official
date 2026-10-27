@@ -99,7 +99,7 @@ Open de app en volg de in-app-upgradeprompt. Je kunt kiezen uit maandelijkse, ha
 
 ### Hoe annuleer of wijzig ik mijn abonnement?
 
-Ga naar **Instellingen → Apple ID → Abonnementen** op je apparaat. Je kunt op elk moment van plan wisselen of annuleren. Premium-toegang blijft actief tot het einde van je huidige factureringsperiode.
+Ga naar **Instellingen → je naam → Abonnementen** op je apparaat. Je kunt op elk moment van plan wisselen of annuleren. Premium-toegang blijft actief tot het einde van je huidige factureringsperiode. Zie de [gebruiksvoorwaarden](/journeyfolio/terms/nl/) voor alle details over abonnementen.
 
 ### Verlies ik mijn reizen als ik annuleer?
 

@@ -206,6 +206,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/probiolens/privacy/ar/">اقرأ سياسة الخصوصية</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens مخصّص لأغراض تعليمية فقط، ولا يُعدّ نصيحة طبية. فهو لا يشخّص أي حالة ولا يعالجها ولا يشفيها ولا يقي منها. تحدّث إلى طبيبك أو الصيدلي قبل البدء بأي مكمّل غذائي، خاصةً إذا كنتِ حاملًا أو مرضعًا، أو كنت تتناول أدوية، أو تتعامل مع حالة صحية.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

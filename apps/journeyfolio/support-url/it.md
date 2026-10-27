@@ -99,7 +99,7 @@ Apri l'app e segui la richiesta di upgrade in-app. Puoi scegliere piani mensili,
 
 ### Come annullo o modifico il mio abbonamento?
 
-Vai su **Impostazioni → ID Apple → Abbonamenti** sul tuo dispositivo. Puoi cambiare piano o annullare in qualsiasi momento. L'accesso Premium rimane attivo fino alla fine del tuo periodo di fatturazione corrente.
+Vai su **Impostazioni → il tuo nome → Abbonamenti** sul tuo dispositivo. Puoi cambiare piano o annullare in qualsiasi momento. L'accesso Premium rimane attivo fino alla fine del tuo periodo di fatturazione corrente. Consulta i [Termini di utilizzo](/journeyfolio/terms/it/) per tutti i dettagli sull'abbonamento.
 
 ### Perderò i miei viaggi se annullo?
 

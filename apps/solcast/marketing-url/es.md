@@ -215,6 +215,7 @@ Solcast va más allá del pronóstico. Te dice qué ponerte, cuándo llevar para
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Visitar soporte</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Leer política de privacidad</a>
+    <a class="marketing-inline-link" href="/solcast/terms/es/">Leer términos de uso</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

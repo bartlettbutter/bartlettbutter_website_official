@@ -206,6 +206,7 @@ Probiyotik etiketleri, mağaza reyonunda anlaşılması zor suş adları, CFU sa
       <p class="marketing-price-note"><a href="/probiolens/privacy/tr/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens yalnızca eğitim amaçlıdır ve tıbbi tavsiye değildir. Herhangi bir hastalığı teşhis etmez, tedavi etmez, iyileştirmez veya önlemez. Bir takviyeye başlamadan önce, özellikle hamileyseniz, emziriyorsanız, ilaç kullanıyorsanız veya bir sağlık sorununuz varsa doktorunuza veya eczacınıza danışın.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

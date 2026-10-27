@@ -60,6 +60,10 @@ L'interface de l'application est actuellement en anglais, et d'autres langues so
 
 ## Comprendre vos résultats
 
+### FormuLens est-il un avis médical ?
+
+FormuLens est fourni à titre informatif uniquement et ne constitue pas un avis médical ou dermatologique. Les informations sur les ingrédients peuvent être incomplètes, et les résultats dépendent de la netteté de lecture de l'étiquette. Si vous avez des allergies, une peau sensible ou une affection cutanée, vérifiez l'étiquette du produit, faites un test cutané avant d'utiliser un nouveau produit et consultez un dermatologue ou un professionnel de santé.
+
 ### Que signifient les couleurs ?
 
 Chaque ingrédient est codé par couleur selon sa fonction, par exemple hydratation, antioxydant, protection solaire ou anti-âge. Cela vous donne une carte visuelle instantanée de ce à quoi un produit est destiné.

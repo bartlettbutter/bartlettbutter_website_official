@@ -217,6 +217,7 @@ Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jong
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Support besuchen</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Datenschutzrichtlinie lesen</a>
+    <a class="marketing-inline-link" href="/journeyfolio/terms/de/">Nutzungsbedingungen lesen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

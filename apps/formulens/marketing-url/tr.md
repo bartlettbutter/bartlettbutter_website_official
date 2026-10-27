@@ -202,6 +202,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/formulens/privacy/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">FormuLens yalnızca bilgilendirme amaçlıdır ve tıbbi veya dermatolojik tavsiye değildir. İçerik bilgileri eksik olabilir ve sonuçlar etiketin ne kadar net okunduğuna bağlıdır. Alerjiniz, hassas cildiniz veya bir cilt rahatsızlığınız varsa ürün etiketini kontrol edin, yeni ürünlerde yama testi yapın ve bir dermatoloğa veya sağlık uzmanına danışın.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

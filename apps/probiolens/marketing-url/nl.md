@@ -206,6 +206,7 @@ Probiotica-etiketten staan vol stamnamen, KVE-aantallen en eigen mengsels die in
       <p class="marketing-price-note"><a href="/probiolens/privacy/nl/">Lees het privacybeleid</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens is uitsluitend bedoeld voor educatieve doeleinden en is geen medisch advies. De app stelt geen diagnoses en behandelt, geneest of voorkomt geen aandoeningen. Overleg met je arts of apotheker voordat je met een supplement begint, vooral als je zwanger bent, borstvoeding geeft, medicijnen gebruikt of een aandoening hebt.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

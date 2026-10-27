@@ -37,7 +37,7 @@ Je kunt tot 4 locaties opslaan in de gratis versie (onbeperkt met Premium). Gebr
 
 ### Is Solcast gratis?
 
-Ja. Solcast is gratis te downloaden en de volledige weerervaring (voorspellingen, outfitsuggesties, dagelijkse briefing, alle 16 lifestyle-indexen en slimme weerswaarschuwingen) is gratis, zonder advertenties. Een optioneel Premium-abonnement voegt persoonlijke herinneringen toe en verhoogt de limiet voor opgeslagen steden; al het andere is gratis.
+Ja. Solcast is gratis te downloaden en de volledige weerervaring (voorspellingen, outfitsuggesties, dagelijkse briefing, alle 16 lifestyle-indexen en slimme weerswaarschuwingen) is gratis, zonder advertenties. Een optioneel Premium-abonnement voegt persoonlijke herinneringen toe en verhoogt de limiet voor opgeslagen steden; al het andere is gratis. Zie de [gebruiksvoorwaarden](/solcast/terms/nl/) voor hoe abonnementen worden gefactureerd en opgezegd.
 
 ### Verzamelt Solcast mijn gegevens?
 

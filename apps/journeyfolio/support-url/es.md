@@ -99,7 +99,7 @@ Abre la aplicación y sigue el aviso de actualización dentro de la app. Puedes 
 
 ### ¿Cómo cancelo o cambio mi suscripción?
 
-Ve a **Configuración → ID de Apple → Suscripciones** en tu dispositivo. Puedes cambiar de plan o cancelar en cualquier momento. El acceso Premium permanece activo hasta el final de tu período de facturación actual.
+Ve a **Configuración → tu nombre → Suscripciones** en tu dispositivo. Puedes cambiar de plan o cancelar en cualquier momento. El acceso Premium permanece activo hasta el final de tu período de facturación actual. Consulta los [Términos de uso](/journeyfolio/terms/es/) para ver todos los detalles de la suscripción.
 
 ### ¿Perderé mis viajes si cancelo?
 

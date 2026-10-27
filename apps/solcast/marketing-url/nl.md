@@ -215,6 +215,7 @@ Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wann
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Ondersteuning bezoeken</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Privacybeleid lezen</a>
+    <a class="marketing-inline-link" href="/solcast/terms/nl/">Gebruiksvoorwaarden lezen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

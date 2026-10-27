@@ -53,6 +53,10 @@ O app atualmente lê rótulos de Informação Nutricional em inglês. Este site 
 
 ## Entender seus resultados
 
+### O ProbioLens é aconselhamento médico?
+
+O ProbioLens tem finalidade exclusivamente educacional e não constitui aconselhamento médico. Ele não diagnostica, trata, cura nem previne nenhuma condição. Converse com seu médico ou farmacêutico antes de começar a tomar um suplemento, especialmente se você estiver grávida, amamentando, tomando medicamentos ou tratando alguma condição de saúde.
+
 ### O que significam as quatro camadas de informação?
 
 O ProbioLens sempre mantém quatro camadas separadas para você saber qual é qual:

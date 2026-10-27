@@ -215,6 +215,7 @@ Solcast tahminin ötesine geçer. Ne giyeceğinizi, ne zaman şemsiye alacağın
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Desteği ziyaret edin</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Gizlilik politikasını okuyun</a>
+    <a class="marketing-inline-link" href="/solcast/terms/tr/">Kullanım koşullarını okuyun</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

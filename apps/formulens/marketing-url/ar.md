@@ -202,6 +202,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/formulens/privacy/">اقرأ سياسة الخصوصية</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">FormuLens مخصّص لأغراض إعلامية فقط، ولا يُعدّ نصيحة طبية أو جلدية. قد تكون تفاصيل المكوّنات غير مكتملة، وتعتمد النتائج على مدى وضوح قراءة الملصق. إذا كانت لديك حساسية أو بشرة حساسة أو حالة جلدية، فراجع ملصق المنتج، وجرّب المنتجات الجديدة على رقعة صغيرة من الجلد أولًا، واستشر طبيب جلدية أو مختصًا في الرعاية الصحية.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

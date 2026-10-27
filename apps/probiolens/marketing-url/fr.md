@@ -206,6 +206,7 @@ Les étiquettes de probiotiques regorgent de noms de souches, de taux d'UFC et d
       <p class="marketing-price-note"><a href="/probiolens/privacy/fr/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens est fourni à titre éducatif uniquement et ne constitue pas un avis médical. Il ne diagnostique, ne traite, ne guérit ni ne prévient aucune affection. Parlez-en à votre médecin ou à votre pharmacien avant de commencer un complément alimentaire, surtout si vous êtes enceinte, allaitez, prenez des médicaments ou êtes suivi pour un problème de santé.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

@@ -53,6 +53,10 @@ Uygulama şu anda İngilizce Takviye Bilgileri etiketlerini okur. Bu destek site
 
 ## Sonuçlarınızı anlamak
 
+### ProbioLens tıbbi tavsiye mi?
+
+Hayır. ProbioLens yalnızca eğitim amaçlıdır ve tıbbi tavsiye değildir. Herhangi bir hastalığı teşhis etmez, tedavi etmez, iyileştirmez veya önlemez. Bir takviyeye başlamadan önce, özellikle hamileyseniz, emziriyorsanız, ilaç kullanıyorsanız veya bir sağlık sorununuz varsa doktorunuza veya eczacınıza danışın.
+
 ### Dört bilgi katmanı ne anlama gelir?
 
 ProbioLens, neyin ne olduğunu bilmeniz için her zaman dört katmanı ayrı tutar:

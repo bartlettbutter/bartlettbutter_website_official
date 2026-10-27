@@ -199,6 +199,7 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
       <p class="marketing-price-note"><a href="/etfwise/privacy/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ETFWise dient ausschließlich Informations- und Bildungszwecken und ist keine Anlage-, Finanz- oder Steuerberatung. Die täglichen Auswahlen sind keine persönlichen Empfehlungen zum Kauf oder Verkauf von Wertpapieren. Marktdaten können verzögert oder unvollständig sein, und die Wertentwicklung in der Vergangenheit ist keine Garantie für künftige Ergebnisse. Recherchiere selbst oder wende dich an eine zugelassene Finanzfachperson, bevor du investierst.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="ew-next-title">

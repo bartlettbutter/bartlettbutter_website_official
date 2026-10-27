@@ -202,6 +202,7 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
       <p class="marketing-price-note"><a href="/formulens/privacy/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">FormuLens est fourni à titre informatif uniquement et ne constitue pas un avis médical ou dermatologique. Les informations sur les ingrédients peuvent être incomplètes, et les résultats dépendent de la netteté de lecture de l'étiquette. Si vous avez des allergies, une peau sensible ou une affection cutanée, vérifiez l'étiquette du produit, faites un test cutané avant d'utiliser un nouveau produit et consultez un dermatologue ou un professionnel de santé.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

@@ -215,6 +215,7 @@ Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Voir l'assistance</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Lire la politique de confidentialité</a>
+    <a class="marketing-inline-link" href="/solcast/terms/fr/">Lire les conditions d'utilisation</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -99,7 +99,7 @@ Wische auf einer Reise nach rechts, um sie an den Anfang deiner Liste zu heften.
 
 ### Wie kündige oder ändere ich mein Abonnement?
 
-Gehe auf deinem Gerät zu **Einstellungen → Apple-ID → Abonnements**. Du kannst jederzeit den Tarif wechseln oder kündigen. Der Premium-Zugang bleibt bis zum Ende deines aktuellen Abrechnungszeitraums aktiv.
+Gehe auf deinem Gerät zu **Einstellungen → dein Name → Abonnements**. Du kannst jederzeit den Tarif wechseln oder kündigen. Der Premium-Zugang bleibt bis zum Ende deines aktuellen Abrechnungszeitraums aktiv. Alle Details zum Abonnement findest du in den [Nutzungsbedingungen](/journeyfolio/terms/de/).
 
 ### Verliere ich meine Reisen, wenn ich kündige?
 

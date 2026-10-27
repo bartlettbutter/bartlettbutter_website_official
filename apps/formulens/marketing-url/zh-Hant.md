@@ -201,6 +201,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/formulens/privacy/">閱讀隱私政策</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">FormuLens僅供參考，不構成醫療或皮膚科建議。成分資訊可能不完整，結果取決於標籤被辨識的清晰程度。如果您有過敏、敏感肌膚或皮膚疾病，請查看產品標籤、在使用新產品前進行肌膚測試，並諮詢皮膚科醫師或醫療專業人員。</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

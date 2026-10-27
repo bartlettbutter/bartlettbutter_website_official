@@ -6,6 +6,7 @@ en:
   overview: "Overview"
   support: "Support"
   privacy: "Privacy"
+  terms: "Terms"
   download_on_app_store: "Download on the App Store"
   on_this_page: "On this page"
   scroll_table: "Scroll horizontally to see more →"
@@ -14,8 +15,10 @@ en:
   app_store_coming_soon: "Download on the App Store (development in progress)"
   page_kind_support: "Support"
   page_kind_privacy: "Privacy Policy"
+  page_kind_terms: "Terms of Use"
   meta_support: "%app% support: answers to common questions and how to reach Bartlett Butter."
   meta_privacy: "How %app% handles your data: the full privacy policy from Bartlett Butter."
+  meta_terms: "The terms of use for %app%, including how Premium subscriptions are billed, renewed, and canceled."
 
 ar:
   skip_to_content: "تخطي إلى المحتوى"
@@ -25,6 +28,7 @@ ar:
   overview: "نظرة عامة"
   support: "الدعم"
   privacy: "الخصوصية"
+  terms: "الشروط"
   download_on_app_store: "نزّل من App Store"
   on_this_page: "في هذه الصفحة"
   scroll_table: "مرر أفقيًا لرؤية المزيد ←"
@@ -33,8 +37,10 @@ ar:
   app_store_coming_soon: "نزّل من App Store (قيد التطوير)"
   page_kind_support: "الدعم"
   page_kind_privacy: "سياسة الخصوصية"
+  page_kind_terms: "شروط الاستخدام"
   meta_support: "دعم %app%: إجابات عن الأسئلة الشائعة وطرق التواصل مع Bartlett Butter."
   meta_privacy: "كيف يتعامل %app% مع بياناتك: سياسة الخصوصية الكاملة من Bartlett Butter."
+  meta_terms: "شروط استخدام %app%، بما في ذلك كيفية فوترة اشتراكات Premium وتجديدها وإلغائها."
 
 de:
   skip_to_content: "Zum Inhalt springen"
@@ -44,6 +50,7 @@ de:
   overview: "Überblick"
   support: "Support"
   privacy: "Datenschutz"
+  terms: "Nutzungsbedingungen"
   download_on_app_store: "Im App Store laden"
   on_this_page: "Auf dieser Seite"
   scroll_table: "Horizontal scrollen, um mehr zu sehen →"
@@ -52,8 +59,10 @@ de:
   app_store_coming_soon: "Im App Store laden (in Entwicklung)"
   page_kind_support: "Support"
   page_kind_privacy: "Datenschutzrichtlinie"
+  page_kind_terms: "Nutzungsbedingungen"
   meta_support: "%app% Support: Antworten auf häufige Fragen und wie Sie Bartlett Butter erreichen."
   meta_privacy: "Wie %app% mit Ihren Daten umgeht: die vollständige Datenschutzrichtlinie von Bartlett Butter."
+  meta_terms: "Die Nutzungsbedingungen für %app%, einschließlich Abrechnung, Verlängerung und Kündigung von Premium-Abos."
 
 es:
   skip_to_content: "Ir al contenido"
@@ -63,6 +72,7 @@ es:
   overview: "Resumen"
   support: "Soporte"
   privacy: "Privacidad"
+  terms: "Términos"
   download_on_app_store: "Descargar en App Store"
   on_this_page: "En esta página"
   scroll_table: "Desplázate horizontalmente para ver más →"
@@ -71,8 +81,10 @@ es:
   app_store_coming_soon: "Descargar en App Store (en desarrollo)"
   page_kind_support: "Soporte"
   page_kind_privacy: "Política de privacidad"
+  page_kind_terms: "Términos de uso"
   meta_support: "Soporte de %app%: respuestas a las preguntas frecuentes y cómo contactar con Bartlett Butter."
   meta_privacy: "Cómo trata %app% tus datos: la política de privacidad completa de Bartlett Butter."
+  meta_terms: "Los términos de uso de %app%, incluido cómo se cobran, renuevan y cancelan las suscripciones Premium."
 
 fr:
   skip_to_content: "Aller au contenu"
@@ -82,6 +94,7 @@ fr:
   overview: "Aperçu"
   support: "Assistance"
   privacy: "Confidentialité"
+  terms: "Conditions"
   download_on_app_store: "Télécharger sur l’App Store"
   on_this_page: "Sur cette page"
   scroll_table: "Faites défiler horizontalement pour en voir plus →"
@@ -90,8 +103,10 @@ fr:
   app_store_coming_soon: "Télécharger sur l’App Store (en cours de développement)"
   page_kind_support: "Assistance"
   page_kind_privacy: "Politique de confidentialité"
+  page_kind_terms: "Conditions d'utilisation"
   meta_support: "Assistance %app% : réponses aux questions fréquentes et comment contacter Bartlett Butter."
   meta_privacy: "Comment %app% traite vos données : la politique de confidentialité complète de Bartlett Butter."
+  meta_terms: "Les conditions d'utilisation de %app%, y compris la facturation, le renouvellement et la résiliation des abonnements Premium."
 
 hi:
   skip_to_content: "सामग्री पर जाएँ"
@@ -101,6 +116,7 @@ hi:
   overview: "अवलोकन"
   support: "सहायता"
   privacy: "गोपनीयता"
+  terms: "शर्तें"
   download_on_app_store: "App Store पर डाउनलोड करें"
   on_this_page: "इस पेज पर"
   scroll_table: "और देखने के लिए क्षैतिज रूप से स्क्रॉल करें →"
@@ -109,8 +125,10 @@ hi:
   app_store_coming_soon: "App Store पर डाउनलोड करें (विकास जारी है)"
   page_kind_support: "सहायता"
   page_kind_privacy: "निजता नीति"
+  page_kind_terms: "उपयोग की शर्तें"
   meta_support: "%app% सहायता: सामान्य प्रश्नों के उत्तर और Bartlett Butter से संपर्क करने का तरीका।"
   meta_privacy: "%app% आपके डेटा को कैसे संभालता है: Bartlett Butter की पूरी निजता नीति।"
+  meta_terms: "%app% की उपयोग की शर्तें, जिनमें Premium सदस्यता के बिलिंग, नवीनीकरण और रद्द करने की जानकारी शामिल है।"
 
 it:
   skip_to_content: "Vai al contenuto"
@@ -120,6 +138,7 @@ it:
   overview: "Panoramica"
   support: "Supporto"
   privacy: "Privacy"
+  terms: "Termini"
   download_on_app_store: "Scarica su App Store"
   on_this_page: "In questa pagina"
   scroll_table: "Scorri orizzontalmente per vedere di più →"
@@ -128,8 +147,10 @@ it:
   app_store_coming_soon: "Scarica su App Store (in fase di sviluppo)"
   page_kind_support: "Supporto"
   page_kind_privacy: "Informativa sulla privacy"
+  page_kind_terms: "Termini di utilizzo"
   meta_support: "Supporto %app%: risposte alle domande frequenti e come contattare Bartlett Butter."
   meta_privacy: "Come %app% gestisce i tuoi dati: l'informativa sulla privacy completa di Bartlett Butter."
+  meta_terms: "I termini di utilizzo di %app%, incluse fatturazione, rinnovo e annullamento degli abbonamenti Premium."
 
 ja:
   skip_to_content: "コンテンツへ移動"
@@ -139,6 +160,7 @@ ja:
   overview: "概要"
   support: "サポート"
   privacy: "プライバシー"
+  terms: "利用規約"
   download_on_app_store: "App Storeでダウンロード"
   on_this_page: "このページ内"
   scroll_table: "横にスクロールして続きを表示 →"
@@ -147,8 +169,10 @@ ja:
   app_store_coming_soon: "App Storeでダウンロード（開発中）"
   page_kind_support: "サポート"
   page_kind_privacy: "プライバシーポリシー"
+  page_kind_terms: "利用規約"
   meta_support: "%app% サポート：よくある質問への回答と Bartlett Butter へのお問い合わせ方法。"
   meta_privacy: "%app% によるデータの取り扱いについて：Bartlett Butter のプライバシーポリシー全文。"
+  meta_terms: "%app% の利用規約：Premium サブスクリプションの請求、自動更新、解約について。"
 
 ko:
   skip_to_content: "콘텐츠로 건너뛰기"
@@ -158,6 +182,7 @@ ko:
   overview: "개요"
   support: "지원"
   privacy: "개인정보"
+  terms: "이용약관"
   download_on_app_store: "App Store에서 다운로드"
   on_this_page: "이 페이지에서"
   scroll_table: "더 보려면 가로로 스크롤하세요 →"
@@ -166,8 +191,10 @@ ko:
   app_store_coming_soon: "App Store에서 다운로드 (개발 진행 중)"
   page_kind_support: "지원"
   page_kind_privacy: "개인정보 처리방침"
+  page_kind_terms: "이용약관"
   meta_support: "%app% 지원: 자주 묻는 질문에 대한 답변과 Bartlett Butter 문의 방법."
   meta_privacy: "%app%이(가) 데이터를 처리하는 방식: Bartlett Butter의 전체 개인정보 처리방침."
+  meta_terms: "%app% 이용약관: Premium 구독의 결제, 갱신, 해지 방법 안내."
 
 nl:
   skip_to_content: "Ga naar inhoud"
@@ -177,6 +204,7 @@ nl:
   overview: "Overzicht"
   support: "Ondersteuning"
   privacy: "Privacy"
+  terms: "Voorwaarden"
   download_on_app_store: "Download in de App Store"
   on_this_page: "Op deze pagina"
   scroll_table: "Scroll horizontaal om meer te zien →"
@@ -185,8 +213,10 @@ nl:
   app_store_coming_soon: "Download in de App Store (in ontwikkeling)"
   page_kind_support: "Ondersteuning"
   page_kind_privacy: "Privacybeleid"
+  page_kind_terms: "Gebruiksvoorwaarden"
   meta_support: "%app% ondersteuning: antwoorden op veelgestelde vragen en hoe je Bartlett Butter bereikt."
   meta_privacy: "Hoe %app% met je gegevens omgaat: het volledige privacybeleid van Bartlett Butter."
+  meta_terms: "De gebruiksvoorwaarden van %app%, inclusief hoe Premium-abonnementen worden gefactureerd, verlengd en opgezegd."
 
 pt:
   skip_to_content: "Ir para o conteúdo"
@@ -196,6 +226,7 @@ pt:
   overview: "Visão geral"
   support: "Suporte"
   privacy: "Privacidade"
+  terms: "Termos"
   download_on_app_store: "Baixar na App Store"
   on_this_page: "Nesta página"
   scroll_table: "Role horizontalmente para ver mais →"
@@ -204,8 +235,10 @@ pt:
   app_store_coming_soon: "Baixar na App Store (em desenvolvimento)"
   page_kind_support: "Suporte"
   page_kind_privacy: "Política de Privacidade"
+  page_kind_terms: "Termos de Uso"
   meta_support: "Suporte do %app%: respostas às perguntas frequentes e como entrar em contato com a Bartlett Butter."
   meta_privacy: "Como o %app% trata seus dados: a política de privacidade completa da Bartlett Butter."
+  meta_terms: "Os termos de uso do %app%, incluindo como as assinaturas Premium são cobradas, renovadas e canceladas."
 
 ru:
   skip_to_content: "Перейти к содержимому"
@@ -215,6 +248,7 @@ ru:
   overview: "Обзор"
   support: "Поддержка"
   privacy: "Конфиденциальность"
+  terms: "Условия"
   download_on_app_store: "Скачать в App Store"
   on_this_page: "На этой странице"
   scroll_table: "Прокрутите по горизонтали, чтобы увидеть больше →"
@@ -223,8 +257,10 @@ ru:
   app_store_coming_soon: "Скачать в App Store (в разработке)"
   page_kind_support: "Поддержка"
   page_kind_privacy: "Политика конфиденциальности"
+  page_kind_terms: "Условия использования"
   meta_support: "Поддержка %app%: ответы на частые вопросы и способы связаться с Bartlett Butter."
   meta_privacy: "Как %app% обращается с вашими данными: полная политика конфиденциальности Bartlett Butter."
+  meta_terms: "Условия использования %app%, включая оплату, продление и отмену подписок Premium."
 
 tr:
   skip_to_content: "İçeriğe atla"
@@ -234,6 +270,7 @@ tr:
   overview: "Genel bakış"
   support: "Destek"
   privacy: "Gizlilik"
+  terms: "Koşullar"
   download_on_app_store: "App Store'dan indirin"
   on_this_page: "Bu sayfada"
   scroll_table: "Daha fazlasını görmek için yatay kaydırın →"
@@ -242,8 +279,10 @@ tr:
   app_store_coming_soon: "App Store'dan indirin (geliştirme aşamasında)"
   page_kind_support: "Destek"
   page_kind_privacy: "Gizlilik Politikası"
+  page_kind_terms: "Kullanım Koşulları"
   meta_support: "%app% destek: sık sorulan soruların yanıtları ve Bartlett Butter ile iletişim yolları."
   meta_privacy: "%app% verilerinizi nasıl işler: Bartlett Butter'ın tam gizlilik politikası."
+  meta_terms: "%app% kullanım koşulları: Premium aboneliklerin nasıl faturalandırıldığı, yenilendiği ve iptal edildiği."
 
 zh-Hans:
   skip_to_content: "跳到内容"
@@ -253,6 +292,7 @@ zh-Hans:
   overview: "概览"
   support: "支持"
   privacy: "隐私"
+  terms: "条款"
   download_on_app_store: "在 App Store 下载"
   on_this_page: "本页内容"
   scroll_table: "横向滚动查看更多 →"
@@ -261,8 +301,10 @@ zh-Hans:
   app_store_coming_soon: "在 App Store 下载（开发中）"
   page_kind_support: "支持"
   page_kind_privacy: "隐私政策"
+  page_kind_terms: "使用条款"
   meta_support: "%app% 支持：常见问题解答以及如何联系 Bartlett Butter。"
   meta_privacy: "%app% 如何处理你的数据：Bartlett Butter 的完整隐私政策。"
+  meta_terms: "%app% 的使用条款，包括 Premium 订阅的扣费、续订与取消方式。"
 
 zh-Hant:
   skip_to_content: "跳至內容"
@@ -272,6 +314,7 @@ zh-Hant:
   overview: "概覽"
   support: "支援"
   privacy: "隱私"
+  terms: "條款"
   download_on_app_store: "於 App Store 下載"
   on_this_page: "本頁內容"
   scroll_table: "橫向捲動以查看更多 →"
@@ -280,5 +323,7 @@ zh-Hant:
   app_store_coming_soon: "於 App Store 下載（開發中）"
   page_kind_support: "支援"
   page_kind_privacy: "隱私政策"
+  page_kind_terms: "使用條款"
   meta_support: "%app% 支援：常見問題解答以及如何聯絡 Bartlett Butter。"
   meta_privacy: "%app% 如何處理你的資料：Bartlett Butter 的完整隱私政策。"
+  meta_terms: "%app% 的使用條款，包括 Premium 訂閱的扣款、續訂與取消方式。"

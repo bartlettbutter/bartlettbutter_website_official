@@ -23,6 +23,10 @@ Chaque jour, ETFWise sélectionne les meilleurs ETF dans sept catégories (Indic
 
 Oui, pour les prix en direct, les actualités, le sentiment et les données de fonds. L'analyse des arguments haussiers et de risque est générée instantanément sur votre appareil à partir des données déjà affichées à l'écran, elle ne nécessite donc aucune connexion supplémentaire.
 
+### ETFWise est-il un conseil en investissement ?
+
+ETFWise est fourni à titre informatif et éducatif uniquement et ne constitue pas un conseil en investissement, financier ou fiscal. Ses sélections quotidiennes ne sont pas des recommandations personnalisées d'achat ou de vente d'un quelconque titre. Les données de marché peuvent être différées ou incomplètes, et les performances passées ne préjugent pas des résultats futurs. Faites vos propres recherches ou consultez un conseiller financier agréé avant d'investir.
+
 ### Combien coûte ETFWise ?
 
 ETFWise est gratuit à télécharger depuis l'App Store, et toutes les fonctionnalités actuelles sont disponibles sans frais, sans publicité. Nous pourrions proposer des fonctionnalités premium optionnelles à l'avenir.

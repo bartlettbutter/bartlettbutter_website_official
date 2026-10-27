@@ -217,6 +217,7 @@ redirect_from:
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">지원 방문</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">개인정보 처리방침 읽기</a>
+    <a class="marketing-inline-link" href="/journeyfolio/terms/ko/">이용약관 읽기</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

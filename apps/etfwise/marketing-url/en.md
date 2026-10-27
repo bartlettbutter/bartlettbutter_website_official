@@ -198,6 +198,7 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF recom
       <p class="marketing-price-note"><a href="/etfwise/privacy/">Read privacy policy</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ETFWise is for informational and educational purposes only and is not investment, financial, or tax advice. Its daily picks are not personalized recommendations to buy or sell any security. Market data may be delayed or incomplete, and past performance does not guarantee future results. Do your own research or consult a licensed financial professional before investing.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="ew-next-title">

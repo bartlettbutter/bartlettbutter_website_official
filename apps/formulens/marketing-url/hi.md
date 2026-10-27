@@ -202,6 +202,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/formulens/privacy/">निजता नीति पढ़ें</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">FormuLens केवल सूचनात्मक उद्देश्यों के लिए है और यह चिकित्सीय या त्वचा-रोग संबंधी सलाह नहीं है। सामग्री का विवरण अधूरा हो सकता है, और परिणाम इस पर निर्भर करते हैं कि लेबल कितनी स्पष्टता से पढ़ा गया। यदि आपको एलर्जी, संवेदनशील त्वचा या कोई त्वचा रोग है, तो उत्पाद का लेबल जाँचें, नए उत्पादों का पैच-टेस्ट करें, और किसी त्वचा रोग विशेषज्ञ या स्वास्थ्य पेशेवर से सलाह लें।</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

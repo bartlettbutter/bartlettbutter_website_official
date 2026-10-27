@@ -8,8 +8,12 @@
 #
 # Section keys match the `section` the layout derives from the URL: English
 # lives at the un-suffixed base (marketing /<app>/, support /<app>/support/,
-# privacy /<app>/privacy/); every other language appends its code as the
-# trailing segment (e.g. /<app>/support/<code>/).
+# privacy /<app>/privacy/, terms /<app>/terms/); every other language appends
+# its code as the trailing segment (e.g. /<app>/support/<code>/).
+#
+# `terms` also controls the Terms tab in each app's page nav. Only apps that
+# sell auto-renewing subscriptions have terms pages, as Apple requires those
+# apps to link a Terms of Use.
 marketing:
   - barkpedia
   - earncall
@@ -51,3 +55,7 @@ privacy:
   - sayminder
   - solcast
   - trafficvibe
+
+terms:
+  - journeyfolio
+  - solcast

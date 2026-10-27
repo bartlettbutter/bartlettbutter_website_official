@@ -217,6 +217,7 @@ Arrêtez de jongler avec des captures d'écran, des e-mails éparpillés et des 
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Consulter l'assistance</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Lire la politique de confidentialité</a>
+    <a class="marketing-inline-link" href="/journeyfolio/terms/fr/">Lire les conditions d'utilisation</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

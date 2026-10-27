@@ -53,6 +53,10 @@ Die App liest derzeit englischsprachige Supplement-Facts-Etiketten. Diese Suppor
 
 ## Deine Ergebnisse verstehen
 
+### Ist ProbioLens eine medizinische Beratung?
+
+Nein. ProbioLens dient ausschließlich Bildungszwecken und ist keine medizinische Beratung. Die App diagnostiziert, behandelt, heilt oder verhindert keine Erkrankungen. Sprich mit deiner Ärztin, deinem Arzt oder in der Apotheke, bevor du ein Nahrungsergänzungsmittel einnimmst, besonders wenn du schwanger bist, stillst, Medikamente nimmst oder eine Erkrankung hast.
+
 ### Was bedeuten die vier Informationsebenen?
 
 ProbioLens hält stets vier Ebenen getrennt, damit du weißt, was was ist:

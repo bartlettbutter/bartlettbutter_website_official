@@ -206,6 +206,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/probiolens/privacy/ja/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLensは教育目的のみで提供されており、医療上の助言ではありません。いかなる疾患の診断、治療、治癒、予防を行うものでもありません。サプリメントを始める前には、特に妊娠中・授乳中の方、服薬中の方、持病のある方は、医師または薬剤師にご相談ください。</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

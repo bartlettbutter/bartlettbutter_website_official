@@ -52,6 +52,10 @@ The app currently reads English-language Supplement Facts labels. This support s
 
 ## Understanding Your Results
 
+### Is ProbioLens medical advice?
+
+ProbioLens is for educational purposes only and is not medical advice. It does not diagnose, treat, cure, or prevent any condition. Talk to your doctor or pharmacist before starting a supplement, especially if you are pregnant, nursing, taking medication, or managing a health condition.
+
 ### What do the four information layers mean?
 
 ProbioLens always keeps four layers distinct so you know which is which:

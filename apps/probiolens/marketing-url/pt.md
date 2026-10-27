@@ -206,6 +206,7 @@ Os rótulos de probióticos estão cheios de nomes de cepas, contagens de UFC e 
       <p class="marketing-price-note"><a href="/probiolens/privacy/pt/">Ler a política de privacidade</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">O ProbioLens tem finalidade exclusivamente educacional e não constitui aconselhamento médico. Ele não diagnostica, trata, cura nem previne nenhuma condição. Converse com seu médico ou farmacêutico antes de começar a tomar um suplemento, especialmente se você estiver grávida, amamentando, tomando medicamentos ou tratando alguma condição de saúde.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

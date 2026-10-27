@@ -22,6 +22,10 @@ Each day, ETFWise selects top ETFs across seven categories (Major Index, Sector,
 
 Yes, for live prices, news, sentiment, and fund data. The bull and risk case analysis is generated instantly on your device from data already on screen, so it needs no additional connection.
 
+### Is ETFWise investment advice?
+
+ETFWise is for informational and educational purposes only and is not investment, financial, or tax advice. Its daily picks are not personalized recommendations to buy or sell any security. Market data may be delayed or incomplete, and past performance does not guarantee future results. Do your own research or consult a licensed financial professional before investing.
+
 ### How much does ETFWise cost?
 
 ETFWise is free to download from the App Store, and all current features are available at no cost, with no ads. We may introduce optional premium features in the future.

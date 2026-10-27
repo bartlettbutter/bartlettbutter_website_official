@@ -206,6 +206,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/probiolens/privacy/ko/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens는 교육 목적으로만 제공되며 의학적 조언이 아닙니다. 어떠한 질환도 진단, 치료, 완치 또는 예방하지 않습니다. 보충제를 시작하기 전에, 특히 임신 중이거나 수유 중이거나 약을 복용 중이거나 건강 질환을 관리 중이라면 의사나 약사와 상담하세요.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

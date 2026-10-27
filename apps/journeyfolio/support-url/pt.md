@@ -99,7 +99,7 @@ Abra o aplicativo e siga o aviso de upgrade dentro do app. Você pode escolher p
 
 ### Como cancelo ou altero minha assinatura?
 
-Vá para **Ajustes → ID Apple → Assinaturas** no seu dispositivo. Você pode trocar de plano ou cancelar a qualquer momento. O acesso Premium permanece ativo até o fim do seu período de cobrança atual.
+Vá para **Ajustes → seu nome → Assinaturas** no seu dispositivo. Você pode trocar de plano ou cancelar a qualquer momento. O acesso Premium permanece ativo até o fim do seu período de cobrança atual. Consulte os [Termos de Uso](/journeyfolio/terms/pt/) para ver todos os detalhes da assinatura.
 
 ### Vou perder minhas viagens se cancelar?
 

@@ -201,6 +201,7 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
       <p class="marketing-price-note"><a href="/formulens/privacy/">Read privacy policy</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">FormuLens is for informational purposes only and is not medical or dermatological advice. Ingredient details may be incomplete, and results depend on how clearly a label is read. If you have allergies, sensitive skin, or a skin condition, check the product label, patch-test new products, and consult a dermatologist or healthcare professional.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

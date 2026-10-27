@@ -53,6 +53,10 @@ L'app legge attualmente etichette nutrizionali in inglese. Questo sito di suppor
 
 ## Comprendere i risultati
 
+### ProbioLens è un parere medico?
+
+ProbioLens ha esclusivamente finalità educative e non costituisce un parere medico. Non diagnostica, tratta, cura né previene alcuna condizione. Parla con il tuo medico o farmacista prima di iniziare un integratore, soprattutto se sei in gravidanza, stai allattando, assumi farmaci o hai una condizione di salute.
+
 ### Cosa significano i quattro livelli di informazione?
 
 ProbioLens tiene sempre quattro livelli distinti così sai cosa è cosa:

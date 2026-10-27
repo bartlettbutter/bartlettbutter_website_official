@@ -215,6 +215,7 @@ Solcast超越了單純的預報。它告訴您該穿什麼、何時帶傘，以�
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">訪問支援</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">閱讀隱私政策</a>
+    <a class="marketing-inline-link" href="/solcast/terms/zh-Hant/">閱讀使用條款</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

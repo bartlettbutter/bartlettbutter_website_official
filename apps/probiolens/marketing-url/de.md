@@ -206,6 +206,7 @@ Probiotika-Etiketten stecken voller Stammnamen, KBE-Angaben und proprietärer Mi
       <p class="marketing-price-note"><a href="/probiolens/privacy/de/">Datenschutzerklärung lesen</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens dient ausschließlich Bildungszwecken und ist keine medizinische Beratung. Die App diagnostiziert, behandelt, heilt oder verhindert keine Erkrankungen. Sprich mit deiner Ärztin, deinem Arzt oder in der Apotheke, bevor du ein Nahrungsergänzungsmittel einnimmst, besonders wenn du schwanger bist, stillst, Medikamente nimmst oder eine Erkrankung hast.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

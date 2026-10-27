@@ -215,6 +215,7 @@ Solcast geht über die Vorhersage hinaus. Es sagt dir, was du anziehen sollst, w
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Support besuchen</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Datenschutzrichtlinie lesen</a>
+    <a class="marketing-inline-link" href="/solcast/terms/de/">Nutzungsbedingungen lesen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

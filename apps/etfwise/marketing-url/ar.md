@@ -199,6 +199,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/etfwise/privacy/">اقرأ سياسة الخصوصية</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ETFWise مخصّص لأغراض إعلامية وتعليمية فقط، ولا يُعدّ نصيحة استثمارية أو مالية أو ضريبية. اختياراته اليومية ليست توصيات شخصية لشراء أي ورقة مالية أو بيعها. قد تكون بيانات السوق متأخرة أو غير مكتملة، والأداء السابق لا يضمن النتائج المستقبلية. أجرِ بحثك الخاص أو استشر مختصًا ماليًا مرخّصًا قبل الاستثمار.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="ew-next-title">

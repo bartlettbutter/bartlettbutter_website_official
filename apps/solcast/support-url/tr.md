@@ -37,7 +37,7 @@ Her değişiklik hemen geçerli olur, yeniden yüklemeye gerek yoktur.
 
 ### Solcast ücretsiz mi?
 
-Evet. Solcast'i indirmek ücretsizdir ve tam hava durumu deneyimi (tahminler, kıyafet önerileri, günlük brifing, 16 yaşam tarzı endeksinin tamamı ve akıllı hava durumu uyarıları) reklamsız olarak ücretsizdir. İsteğe bağlı bir Premium abonelik kişisel hatırlatıcılar ekler ve kaydedilen şehir sınırını yükseltir; geri kalan her şey ücretsizdir.
+Evet. Solcast'i indirmek ücretsizdir ve tam hava durumu deneyimi (tahminler, kıyafet önerileri, günlük brifing, 16 yaşam tarzı endeksinin tamamı ve akıllı hava durumu uyarıları) reklamsız olarak ücretsizdir. İsteğe bağlı bir Premium abonelik kişisel hatırlatıcılar ekler ve kaydedilen şehir sınırını yükseltir; geri kalan her şey ücretsizdir. Aboneliklerin nasıl faturalandırıldığı ve iptal edildiği için [Kullanım Koşulları](/solcast/terms/tr/) sayfasına bakın.
 
 ### Solcast verilerimi topluyor mu?
 

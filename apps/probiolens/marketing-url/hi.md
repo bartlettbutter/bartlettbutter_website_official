@@ -206,6 +206,7 @@ redirect_from:
       <p class="marketing-price-note"><a href="/probiolens/privacy/hi/">गोपनीयता नीति पढ़ें</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ProbioLens केवल शैक्षिक उद्देश्यों के लिए है और यह चिकित्सीय सलाह नहीं है। यह किसी भी स्थिति का निदान, उपचार, इलाज या रोकथाम नहीं करता। कोई भी सप्लीमेंट शुरू करने से पहले अपने डॉक्टर या फ़ार्मासिस्ट से बात करें, खासकर यदि आप गर्भवती हैं, स्तनपान करा रही हैं, कोई दवा ले रहे हैं, या किसी स्वास्थ्य स्थिति का प्रबंधन कर रहे हैं।</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="pl-next-title">

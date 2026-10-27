@@ -215,6 +215,7 @@ Solcast выходит за рамки прогноза. Оно подсказы
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Перейти в поддержку</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Читать политику конфиденциальности</a>
+    <a class="marketing-inline-link" href="/solcast/terms/ru/">Читать условия использования</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

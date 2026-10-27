@@ -98,7 +98,7 @@ Open the app and follow the in-app upgrade prompt. You can choose monthly, 6-mon
 
 ### How do I cancel or change my subscription?
 
-Go to **Settings → Apple ID → Subscriptions** on your device. You can switch plans or cancel anytime. Premium access remains active through the end of your current billing period.
+Go to **Settings → your name → Subscriptions** on your device. You can switch plans or cancel anytime. Premium access remains active through the end of your current billing period. See the [Terms of Use](/journeyfolio/terms/) for full subscription details.
 
 ### Will I lose my trips if I cancel?
 

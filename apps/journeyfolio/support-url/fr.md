@@ -99,7 +99,7 @@ Ouvrez l'application et suivez l'invite de mise à niveau intégrée. Vous pouve
 
 ### Comment annuler ou modifier mon abonnement ?
 
-Allez dans **Réglages → Identifiant Apple → Abonnements** sur votre appareil. Vous pouvez changer de forfait ou annuler à tout moment. L'accès Premium reste actif jusqu'à la fin de votre période de facturation en cours.
+Allez dans **Réglages → votre nom → Abonnements** sur votre appareil. Vous pouvez changer de forfait ou annuler à tout moment. L'accès Premium reste actif jusqu'à la fin de votre période de facturation en cours. Consultez les [Conditions d'utilisation](/journeyfolio/terms/fr/) pour tous les détails sur l'abonnement.
 
 ### Vais-je perdre mes voyages si j'annule ?
 

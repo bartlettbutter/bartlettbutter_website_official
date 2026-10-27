@@ -199,6 +199,7 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
       <p class="marketing-price-note"><a href="/etfwise/privacy/">Privacybeleid lezen</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ETFWise is uitsluitend bedoeld voor informatieve en educatieve doeleinden en is geen beleggings-, financieel of fiscaal advies. De dagelijkse selecties zijn geen persoonlijke aanbevelingen om effecten te kopen of te verkopen. Marktgegevens kunnen vertraagd of onvolledig zijn, en in het verleden behaalde resultaten bieden geen garantie voor de toekomst. Doe je eigen onderzoek of raadpleeg een erkende financieel adviseur voordat je belegt.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="ew-next-title">

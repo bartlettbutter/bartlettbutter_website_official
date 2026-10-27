@@ -199,6 +199,7 @@ Sonsuz hisse sembolleri arasında gezinmeyi bırakın. ETFWise, canlı piyasa ve
       <p class="marketing-price-note"><a href="/etfwise/privacy/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ETFWise yalnızca bilgilendirme ve eğitim amaçlıdır; yatırım, finans veya vergi tavsiyesi değildir. Günlük seçimler, herhangi bir menkul kıymeti alma veya satmaya yönelik kişiselleştirilmiş öneriler değildir. Piyasa verileri gecikmeli veya eksik olabilir ve geçmiş performans gelecekteki sonuçları garanti etmez. Yatırım yapmadan önce kendi araştırmanızı yapın veya lisanslı bir finans uzmanına danışın.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="ew-next-title">

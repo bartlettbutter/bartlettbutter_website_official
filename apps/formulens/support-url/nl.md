@@ -60,6 +60,10 @@ De interface van de app is momenteel in het Engels, met meer talen in de plannin
 
 ## Je resultaten begrijpen
 
+### Is FormuLens medisch advies?
+
+Nee. FormuLens is uitsluitend bedoeld voor informatieve doeleinden en is geen medisch of dermatologisch advies. Ingrediëntgegevens kunnen onvolledig zijn, en de resultaten hangen af van hoe duidelijk een etiket wordt gelezen. Heb je allergieën, een gevoelige huid of een huidaandoening, controleer dan het productetiket, test nieuwe producten eerst op een klein stukje huid en raadpleeg een dermatoloog of zorgverlener.
+
 ### Wat betekenen de kleuren?
 
 Elk ingrediënt is kleurgecodeerd op functie, bijvoorbeeld hydraterend, antioxidant, zonbescherming of anti-veroudering. Dit geeft je een directe visuele kaart van waar een product voor is ontworpen.

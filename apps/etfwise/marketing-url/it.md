@@ -199,6 +199,7 @@ Smetti di scorrere ticker infiniti. ETFWise offre raccomandazioni giornaliere su
       <p class="marketing-price-note"><a href="/etfwise/privacy/">Leggi l'informativa sulla privacy</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ETFWise ha esclusivamente finalità informative ed educative e non costituisce consulenza in materia di investimenti, finanziaria o fiscale. Le sue selezioni giornaliere non sono raccomandazioni personalizzate ad acquistare o vendere alcuno strumento finanziario. I dati di mercato possono essere in ritardo o incompleti e i rendimenti passati non garantiscono risultati futuri. Fai le tue ricerche o consulta un consulente finanziario abilitato prima di investire.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="ew-next-title">

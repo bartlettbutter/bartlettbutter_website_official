@@ -202,6 +202,7 @@ Os rótulos de ingredientes são escritos para químicos, não para você. O For
       <p class="marketing-price-note"><a href="/formulens/privacy/">Ler política de privacidade</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">O FormuLens tem finalidade exclusivamente informativa e não constitui aconselhamento médico ou dermatológico. Os detalhes dos ingredientes podem estar incompletos, e os resultados dependem da nitidez com que o rótulo é lido. Se você tem alergias, pele sensível ou alguma condição de pele, confira o rótulo do produto, faça um teste de contato antes de usar produtos novos e consulte um dermatologista ou profissional de saúde.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="fl-next-title">

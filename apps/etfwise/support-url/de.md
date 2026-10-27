@@ -23,6 +23,10 @@ Jeden Tag wählt ETFWise die besten ETFs aus sieben Kategorien (Hauptindex, Sekt
 
 Ja, für Live-Preise, Nachrichten, Stimmung und Fondsdaten. Die Analyse der Bull- und Risiko-Szenarien wird sofort auf deinem Gerät aus den bereits auf dem Bildschirm angezeigten Daten erstellt, sodass dafür keine zusätzliche Verbindung erforderlich ist.
 
+### Ist ETFWise eine Anlageberatung?
+
+Nein. ETFWise dient ausschließlich Informations- und Bildungszwecken und ist keine Anlage-, Finanz- oder Steuerberatung. Die täglichen Auswahlen sind keine persönlichen Empfehlungen zum Kauf oder Verkauf von Wertpapieren. Marktdaten können verzögert oder unvollständig sein, und die Wertentwicklung in der Vergangenheit ist keine Garantie für künftige Ergebnisse. Recherchiere selbst oder wende dich an eine zugelassene Finanzfachperson, bevor du investierst.
+
 ### Wie viel kostet ETFWise?
 
 ETFWise ist kostenlos im App Store erhältlich, und alle aktuellen Funktionen sind ohne Kosten verfügbar, ohne Werbung. Möglicherweise führen wir in Zukunft optionale Premium-Funktionen ein.

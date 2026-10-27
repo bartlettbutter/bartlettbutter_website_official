@@ -60,6 +60,10 @@ A interface do aplicativo está atualmente em inglês, com mais idiomas planejad
 
 ## Entendendo seus resultados
 
+### O FormuLens é aconselhamento médico?
+
+O FormuLens tem finalidade exclusivamente informativa e não constitui aconselhamento médico ou dermatológico. Os detalhes dos ingredientes podem estar incompletos, e os resultados dependem da nitidez com que o rótulo é lido. Se você tem alergias, pele sensível ou alguma condição de pele, confira o rótulo do produto, faça um teste de contato antes de usar produtos novos e consulte um dermatologista ou profissional de saúde.
+
 ### O que as cores significam?
 
 Cada ingrediente é codificado por cor conforme sua função, por exemplo, hidratação, antioxidante, proteção solar ou antienvelhecimento. Isso lhe dá um mapa visual instantâneo do que um produto foi projetado para fazer.

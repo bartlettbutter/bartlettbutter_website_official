@@ -199,6 +199,7 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
       <p class="marketing-price-note"><a href="/etfwise/privacy/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
+  <p class="marketing-meta-note">ETFWise est fourni à titre informatif et éducatif uniquement et ne constitue pas un conseil en investissement, financier ou fiscal. Ses sélections quotidiennes ne sont pas des recommandations personnalisées d'achat ou de vente d'un quelconque titre. Les données de marché peuvent être différées ou incomplètes, et les performances passées ne préjugent pas des résultats futurs. Faites vos propres recherches ou consultez un conseiller financier agréé avant d'investir.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="ew-next-title">

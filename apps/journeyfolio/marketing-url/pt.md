@@ -217,6 +217,7 @@ Pare de fazer malabarismos com capturas de tela, e-mails espalhados e planilhas 
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/journeyfolio/support/">Acessar suporte</a>
     <a class="marketing-inline-link" href="/journeyfolio/privacy/">Ler política de privacidade</a>
+    <a class="marketing-inline-link" href="/journeyfolio/terms/pt/">Ler termos de uso</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

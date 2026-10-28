@@ -16,7 +16,7 @@ We're here to help you get the most out of ETFWise. Browse the answers below, or
 
 ### How do the daily recommendations work?
 
-Each day, ETFWise selects top ETFs across seven categories (Major Index, Sector, Bond & Fixed Income, International, Commodity, Thematic, and Dividend) based on live market data. The list is pinned for the full day so your view stays stable, while prices and sentiment refresh automatically every 5 minutes. Tap "See More" on any section to explore subcategories.
+Each day, ETFWise selects top ETFs across five sections (Major Index, Dividend, Sector, Bond & Fixed Income, and International) based on current market data. The list is pinned for the full day so your view stays stable, while prices and sentiment refresh automatically every 5 minutes while the app is open. Tap "See More" on any section to explore its subcategories.
 
 ### Do I need an internet connection?
 
@@ -28,21 +28,31 @@ ETFWise is for informational and educational purposes only and is not investment
 
 ### How much does ETFWise cost?
 
-ETFWise is free to download from the App Store, and all current features are available at no cost, with no ads. We may introduce optional premium features in the future.
+ETFWise is free to download from the App Store, with no ads and no account. Daily picks, the market briefing, search, and fund details are free. The Screener is part of ETFWise Premium, an optional auto-renewing subscription with yearly, 6-month, and monthly plans. See "What is ETFWise Premium?" below.
 
 ## Frequently Asked Questions
 
-### What are the seven ETF categories?
+### What are the five Picks sections?
 
-| Category | What It Covers |
+| Section | What It Covers |
 |---|---|
 | Major Index | S&P 500, Nasdaq 100, Russell 2000, Dow Jones, Total Market |
-| Sector | Technology, Health Care, Energy, Financials, and more |
+| Dividend | High yield, dividend growth, aristocrats, income strategies |
+| Sector | Technology, Health Care, Energy, Financials, plus commodity funds (gold, silver, oil, and more) and thematic funds (AI & robotics, clean energy, cybersecurity, and more) |
 | Bond & Fixed Income | Government bonds, corporate bonds, high yield, TIPS, munis |
 | International | Developed markets, emerging markets, single-country ETFs |
-| Commodity | Gold, silver, oil, agriculture, broad commodity baskets |
-| Thematic | AI & robotics, clean energy, cybersecurity, cloud, EVs |
-| Dividend | High yield, dividend growth, aristocrats, income strategies |
+
+### What is ETFWise Premium?
+
+ETFWise Premium is an optional auto-renewing subscription that unlocks the Screener. Everything else in ETFWise stays free. Plans are yearly, 6-month, and monthly, and prices appear in your local currency on the plan screen before you subscribe, along with any introductory offer, if one is available to you. Payment is charged to your Apple Account at confirmation of purchase.
+
+### What is the Screener?
+
+The Screener filters more than 480 ETFs by rules you set. A rule can be a return over a window from 1 week to 1 year (for example, "1W drops at least 2%"), or a fund fact such as size, expense ratio, launch year, or fund company. Combine rules with Match all or Match any, or start from a ready-made preset. Swipe a rule to the left to delete it. Results show each fund's value for every rule. Screener results describe funds against your rules and are not recommendations.
+
+### How do I manage, cancel, or restore my subscription?
+
+To manage or cancel, open Settings in ETFWise and tap Manage on the Premium banner, or go to your device's Settings > Apple Account > Subscriptions. Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period. To restore Premium on a new device or after reinstalling, tap Restore Purchases on the plan screen or in Settings, using the same Apple Account. Refund requests are handled by Apple.
 
 ### How are the bull and risk cases generated?
 
@@ -50,11 +60,11 @@ ETFWise builds each bull case and risk case on your device from the real data al
 
 ### How does news sentiment work?
 
-The app analyzes recent news articles (7-day window) for each ETF and scores them for positive or negative tone. The result is displayed as Bearish, Negative, Neutral, Positive, or Bullish. Up to 3 recent headlines are shown alongside the score.
+The app analyzes recent news articles for each ETF and scores them for positive or negative tone. The result is displayed as Bearish, Negative, Neutral, Positive, or Bullish. Up to 3 recent headlines are shown alongside the score.
 
 ### Can I search for a specific ETF?
 
-Yes. Use the search bar to find any ETF by ticker symbol or name. The search covers 200+ curated ETFs plus an extended library of over 450 tickers in total.
+Yes. Use the search bar to find any ETF by ticker symbol or name. The search covers more than 480 ETFs, including 200+ curated picks and an extended library of additional funds.
 
 ### Is my data private?
 
@@ -62,7 +72,7 @@ Yes. No accounts, no analytics, no tracking. Only ticker symbols are sent to fin
 
 ### What happens if I delete the app?
 
-Uninstalling ETFWise permanently removes all locally stored data, including cached recommendations and generated analysis. Since there is no cloud backup, this cannot be undone.
+Uninstalling ETFWise permanently removes all locally stored data, including cached recommendations, generated analysis, your settings, and your Screener rules. Since there is no cloud backup, this cannot be undone. Premium is tied to your Apple Account, not the app, so you can restore it after reinstalling.
 
 ## Troubleshooting
 
@@ -80,7 +90,15 @@ Bull and risk cases are built from an ETF's price, performance, and sentiment da
 
 ### Fund data (holdings, performance) isn't loading
 
-Holdings and performance data require an internet connection. If data fails to load, try closing and reopening the ETF detail view.
+Holdings and performance data require an internet connection. If data fails to load, try closing and reopening the ETF detail view. Depending on your network or region, some fund details (such as fund size, holdings, or analyst ratings) may occasionally be unavailable.
+
+### The Screener shows a plan screen instead of results
+
+The Screener is part of ETFWise Premium. If you already subscribed, tap Restore Purchases on the plan screen using the Apple Account you subscribed with. If the plans don't load, check your connection and tap "Try Again."
+
+### The Screener shows no matches
+
+An empty rule list matches nothing, and strict rules can match no funds. Try loosening a rule, switching from Match all to Match any, or starting from a preset.
 
 ### The app is crashing or freezing
 

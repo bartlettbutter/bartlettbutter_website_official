@@ -17,7 +17,7 @@ Nous sommes là pour vous aider à tirer le meilleur parti d'ETFWise. Parcourez 
 
 ### Comment fonctionnent les recommandations quotidiennes ?
 
-Chaque jour, ETFWise sélectionne les meilleurs ETF dans sept catégories (Indice Principal, Secteur, Obligations et Revenu Fixe, International, Matières Premières, Thématique et Dividendes) sur la base de données de marché en direct. La liste est figée pour toute la journée afin que votre vue reste stable, tandis que les prix et le sentiment se rafraîchissent automatiquement toutes les 5 minutes. Touchez « Voir plus » sur n'importe quelle section pour explorer les sous-catégories.
+Chaque jour, ETFWise sélectionne les meilleurs ETF dans cinq sections (Indice Principal, Dividendes, Secteur, Obligations et Revenu Fixe, et International) sur la base de données de marché actualisées. La liste est figée pour toute la journée afin que votre vue reste stable, tandis que les prix et le sentiment se rafraîchissent automatiquement toutes les 5 minutes tant que l'application est ouverte. Touchez « Voir plus » sur n'importe quelle section pour explorer ses sous-catégories.
 
 ### Ai-je besoin d'une connexion internet ?
 
@@ -29,21 +29,31 @@ ETFWise est fourni à titre informatif et éducatif uniquement et ne constitue p
 
 ### Combien coûte ETFWise ?
 
-ETFWise est gratuit à télécharger depuis l'App Store, et toutes les fonctionnalités actuelles sont disponibles sans frais, sans publicité. Nous pourrions proposer des fonctionnalités premium optionnelles à l'avenir.
+ETFWise est gratuit à télécharger depuis l'App Store, sans publicité et sans compte. Les sélections quotidiennes, le briefing du marché, la recherche et les détails des fonds sont gratuits. Le Screener fait partie d'ETFWise Premium, un abonnement optionnel à renouvellement automatique avec des formules annuelle, de 6 mois et mensuelle. Voir « Qu'est-ce qu'ETFWise Premium ? » ci-dessous.
 
 ## Questions Fréquentes
 
-### Quelles sont les sept catégories d'ETF ?
+### Quelles sont les cinq sections des Sélections ?
 
-| Catégorie | Ce Qu'elle Couvre |
+| Section | Ce Qu'elle Couvre |
 |---|---|
 | Indice Principal | S&P 500, Nasdaq 100, Russell 2000, Dow Jones, Marché Total |
-| Secteur | Technologie, Santé, Énergie, Finance et plus |
+| Dividendes | Haut rendement, croissance des dividendes, aristocrates, stratégies de revenu |
+| Secteur | Technologie, Santé, Énergie, Finance, ainsi que des fonds de matières premières (or, argent, pétrole et plus) et thématiques (IA et robotique, énergie propre, cybersécurité et plus) |
 | Obligations et Revenu Fixe | Obligations d'État, d'entreprise, haut rendement, TIPS, municipales |
 | International | Marchés développés, marchés émergents, ETF mono-pays |
-| Matières Premières | Or, argent, pétrole, agriculture, paniers larges de matières premières |
-| Thématique | IA et robotique, énergie propre, cybersécurité, cloud, VE |
-| Dividendes | Haut rendement, croissance des dividendes, aristocrates, stratégies de revenu |
+
+### Qu'est-ce qu'ETFWise Premium ?
+
+ETFWise Premium est un abonnement optionnel à renouvellement automatique qui débloque le Screener. Tout le reste d'ETFWise reste gratuit. Les formules sont annuelle, de 6 mois et mensuelle, et les prix s'affichent dans votre devise locale sur l'écran des formules avant de vous abonner, avec toute offre d'introduction, si elle est disponible pour vous. Le paiement est débité de votre compte Apple à la confirmation de l'achat.
+
+### Qu'est-ce que le Screener ?
+
+Le Screener filtre plus de 480 ETF selon les règles que vous définissez. Une règle peut porter sur un rendement sur une fenêtre de 1 semaine à 1 an (par exemple, « 1S baisse d'au moins 2 % »), ou sur une caractéristique du fonds comme la taille, le ratio de frais, l'année de lancement ou la société de gestion. Combinez les règles avec Toutes les règles ou N'importe laquelle, ou partez d'un préréglage. Faites glisser une règle vers la gauche pour la supprimer. Les résultats affichent la valeur de chaque fonds pour chaque règle. Les résultats du Screener décrivent les fonds selon vos règles et ne sont pas des recommandations.
+
+### Comment gérer, résilier ou restaurer mon abonnement ?
+
+Pour gérer ou résilier, ouvrez Réglages dans ETFWise et touchez Gérer sur la bannière Premium, ou allez dans les Réglages de votre appareil > Compte Apple > Abonnements. Les abonnements se renouvellent automatiquement, sauf résiliation au moins 24 heures avant la fin de la période en cours. Pour restaurer Premium sur un nouvel appareil ou après une réinstallation, touchez Restaurer les achats sur l'écran des formules ou dans Réglages, avec le même compte Apple. Les demandes de remboursement sont traitées par Apple.
 
 ### Comment les arguments haussiers et de risque sont-ils générés ?
 
@@ -51,11 +61,11 @@ ETFWise construit chaque argument haussier et de risque sur votre appareil à pa
 
 ### Comment fonctionne le sentiment des actualités ?
 
-L'application analyse les articles d'actualité récents (fenêtre de 7 jours) pour chaque ETF et les note selon un ton positif ou négatif. Le résultat s'affiche sous forme de Baissier, Négatif, Neutre, Positif ou Haussier. Jusqu'à 3 titres récents sont affichés à côté du score.
+L'application analyse les articles d'actualité récents pour chaque ETF et les note selon un ton positif ou négatif. Le résultat s'affiche sous forme de Baissier, Négatif, Neutre, Positif ou Haussier. Jusqu'à 3 titres récents sont affichés à côté du score.
 
 ### Puis-je rechercher un ETF spécifique ?
 
-Oui. Utilisez la barre de recherche pour trouver n'importe quel ETF par symbole boursier ou par nom. La recherche couvre plus de 200 ETF sélectionnés plus une bibliothèque étendue de plus de 450 symboles au total.
+Oui. Utilisez la barre de recherche pour trouver n'importe quel ETF par symbole boursier ou par nom. La recherche couvre plus de 480 ETF, dont plus de 200 sélections et une bibliothèque étendue de fonds supplémentaires.
 
 ### Mes données sont-elles privées ?
 
@@ -63,7 +73,7 @@ Oui. Aucun compte, aucune analyse, aucun suivi. Seuls les symboles boursiers son
 
 ### Que se passe-t-il si je supprime l'application ?
 
-La désinstallation d'ETFWise supprime définitivement toutes les données stockées localement, y compris les recommandations en cache et l'analyse générée. Comme il n'y a aucune sauvegarde dans le cloud, cette action est irréversible.
+La désinstallation d'ETFWise supprime définitivement toutes les données stockées localement, y compris les recommandations en cache, l'analyse générée, vos réglages et vos règles du Screener. Comme il n'y a aucune sauvegarde dans le cloud, cette action est irréversible. Premium est lié à votre compte Apple, pas à l'application, vous pouvez donc le restaurer après une réinstallation.
 
 ## Dépannage
 
@@ -81,7 +91,15 @@ Les arguments haussiers et de risque sont construits à partir des données de p
 
 ### Les données du fonds (avoirs, performance) ne se chargent pas
 
-Les données d'avoirs et de performance nécessitent une connexion internet. Si les données ne se chargent pas, essayez de fermer et de rouvrir la vue de détail de l'ETF.
+Les données d'avoirs et de performance nécessitent une connexion internet. Si les données ne se chargent pas, essayez de fermer et de rouvrir la vue de détail de l'ETF. Selon votre réseau ou votre région, certains détails du fonds (comme sa taille, ses avoirs ou les avis des analystes) peuvent parfois être indisponibles.
+
+### Le Screener affiche un écran de formules au lieu des résultats
+
+Le Screener fait partie d'ETFWise Premium. Si vous êtes déjà abonné, touchez Restaurer les achats sur l'écran des formules avec le compte Apple utilisé pour l'abonnement. Si les formules ne se chargent pas, vérifiez votre connexion et touchez « Réessayer ».
+
+### Le Screener n'affiche aucun résultat
+
+Une liste de règles vide ne correspond à rien, et des règles strictes peuvent ne correspondre à aucun fonds. Essayez d'assouplir une règle, de passer de Toutes les règles à N'importe laquelle, ou de partir d'un préréglage.
 
 ### L'application plante ou se fige
 

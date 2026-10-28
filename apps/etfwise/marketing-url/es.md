@@ -2,7 +2,7 @@
 layout: app-etfwise
 title: ETFWise
 app_icon: /assets/app-icons/icon_ETFWise.png
-app_description: "Recomendaciones diarias de ETF impulsadas por datos en vivo, sentimiento de noticias y análisis instantáneo en el dispositivo."
+app_description: "Selecciones diarias de ETF, un resumen del mercado en lenguaje sencillo e investigación de fondos con análisis instantáneo en el dispositivo."
 app_store_url: "https://apps.apple.com/us/app/etfwise/id6762496354"
 lang: es
 permalink: /etfwise/es/
@@ -12,12 +12,13 @@ redirect_from:
 
 # Tu ventaja diaria en la inversión en ETF.
 
-Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones diarias de ETF seleccionadas en siete categorías, respaldadas por datos de mercado en vivo, sentimiento de noticias en tiempo real y análisis instantáneo que nunca sale de tu dispositivo.
+Deja de desplazarte por tickers interminables. ETFWise ofrece selecciones diarias de ETF en cinco secciones, respaldadas por datos de mercado actualizados, sentimiento de noticias y análisis instantáneo que nunca sale de tu dispositivo. Filtra más de 480 fondos con tus propias reglas de rentabilidad gracias al Screener Premium opcional.
 
 <!--gallery-->
 
 <div class="marketing-chip-row" aria-label="ETFWise highlights">
-  <span class="marketing-chip">7 categorías</span>
+  <span class="marketing-chip">5 secciones diarias</span>
+  <span class="marketing-chip">Screener Premium</span>
   <span class="marketing-chip">Análisis en el dispositivo</span>
   <span class="marketing-chip">Descarga gratuita</span>
   <span class="marketing-chip">Sin necesidad de cuenta</span>
@@ -25,16 +26,16 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
 
 <div class="marketing-stat-grid" aria-label="ETFWise at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">200+</span>
-    <span class="marketing-stat-label">ETF seleccionados con más de 450 tickers buscables en todas las categorías principales</span>
+    <span class="marketing-stat-value">480+</span>
+    <span class="marketing-stat-label">ETF para explorar, con más de 200 selecciones curadas y búsqueda por símbolo en todas las categorías principales</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">5 min</span>
-    <span class="marketing-stat-label">de actualización de precios en vivo para que las selecciones y movimientos de hoy sigan al día</span>
+    <span class="marketing-stat-label">de actualización de precios mientras la app está abierta, para que las selecciones y movimientos de hoy sigan al día</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privado y gratis, con análisis generado en tu dispositivo y sin anuncios</span>
+    <span class="marketing-stat-label">privado por diseño, con análisis generado en tu dispositivo, sin anuncios y sin rastreo</span>
   </article>
 </div>
 
@@ -44,7 +45,7 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
-  <p class="marketing-meta-note">Descarga gratuita en iPhone y iPad. Funciona en iOS 18.0 o posterior.</p>
+  <p class="marketing-meta-note">Descarga gratuita en iPhone y iPad, con una suscripción Premium opcional para el Screener. Funciona en iOS 18.0 o posterior.</p>
 </div>
 
 <!--hero-end-->
@@ -58,7 +59,7 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
       <h3>Selecciones frescas cada mañana</h3>
-      <p>Los principales ETF cotizados en EE. UU. se seleccionan a diario en las categorías Índice Principal, Sector, Bonos, Internacional, Materias Primas, Temática y Dividendos.</p>
+      <p>Los principales ETF cotizados en EE. UU. se seleccionan a diario en las secciones Índice Principal, Dividendos, Sector, Bonos y Renta Fija e Internacional, con los fondos de materias primas y temáticos dentro de Sector.</p>
       <ul class="marketing-list">
         <li>Ordenados por patrimonio gestionado y actualizados cada día</li>
         <li>Cada selección incluye precio, sentimiento y una razón en una línea</li>
@@ -69,9 +70,9 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
       <h3>Ve qué mueve el mercado</h3>
       <p>Lee la historia detrás de los números con sentimiento y consenso superpuestos a cada fondo, no solo un precio bruto.</p>
       <ul class="marketing-list">
-        <li>Puntuaciones de sentimiento de noticias de los últimos siete días</li>
-        <li>Probabilidades de mercados de predicción relevantes para cada ETF</li>
-        <li>Consenso de analistas de compra, mantener y vender de un vistazo</li>
+        <li>Sentimiento de noticias basado en titulares recientes</li>
+        <li>Probabilidades de mercados de predicción cuando un mercado hace referencia al fondo</li>
+        <li>Consenso de analistas de compra, mantener y vender de un vistazo, cuando está disponible</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -84,12 +85,12 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Datos en vivo, cero coste</h3>
-      <p>Precios en tiempo real, cientos de fondos seleccionados y búsqueda instantánea sin publicidad.</p>
+      <h3>Datos frescos, sin anuncios</h3>
+      <p>Precios actualizados con regularidad, cientos de fondos y búsqueda instantánea, sin publicidad y sin cuenta.</p>
       <ul class="marketing-list">
-        <li>Los precios se actualizan cada cinco minutos</li>
-        <li>Más de 200 ETF seleccionados y más de 450 tickers buscables</li>
-        <li>Sin anuncios y sin necesidad de cuenta</li>
+        <li>Los precios se actualizan cada cinco minutos mientras la app está abierta</li>
+        <li>Más de 480 ETF para explorar, con búsqueda por símbolo</li>
+        <li>Modo claro y oscuro en iPhone y iPad</li>
       </ul>
     </article>
   </div>
@@ -97,25 +98,33 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="ew-modes-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Arquitectura del producto</p>
-    <h2 id="ew-modes-title" class="marketing-section-title">Tres formas de trabajar el mercado, una lectura consistente.</h2>
-    <p class="marketing-section-intro">Cada parte de ETFWise responde a una pregunta diferente: qué pasó hoy, qué debería vigilar y de qué está hecho realmente este fondo, manteniendo siempre el mismo estilo claro y legible.</p>
+    <p class="marketing-eyebrow">Dentro de la app</p>
+    <h2 id="ew-modes-title" class="marketing-section-title">Cuatro formas de trabajar el mercado, una lectura consistente.</h2>
+    <p class="marketing-section-intro">Cada parte de ETFWise responde a una pregunta diferente: qué pasó hoy, qué debería vigilar, qué fondos cumplen mis reglas y de qué está hecho realmente este fondo, manteniendo siempre el mismo estilo claro y legible.</p>
   </div>
-  <div class="marketing-card-grid marketing-card-grid--three">
+  <div class="marketing-card-grid marketing-card-grid--four">
     <article class="marketing-card marketing-card--featured">
       <h3>Resumen</h3>
-      <p>Empieza cada día con un informe fechado más las mayores subidas, bajadas y movimientos de los índices principales de la semana.</p>
+      <p>Empieza cada día con un informe en lenguaje sencillo más las mayores subidas, bajadas y movimientos de los índices principales en el periodo que elijas.</p>
       <ul class="marketing-list">
-        <li>Resumen del mercado en lenguaje sencillo</li>
+        <li>Elige un periodo de 1 semana a 1 año</li>
         <li>S&amp;P 500, Nasdaq y Dow Jones agrupados</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Selecciones</h3>
-      <p>Explora los fondos seleccionados de hoy por categoría, o ve directamente a cualquier ticker con la búsqueda instantánea.</p>
+      <p>Explora los fondos seleccionados de hoy por sección, o ve directamente a cualquier ticker con la búsqueda instantánea.</p>
       <ul class="marketing-list">
-        <li>Siete categorías, desde Índice Principal hasta Temática</li>
-        <li>Filtra más de 450 tickers por símbolo y proveedor</li>
+        <li>Cinco secciones, desde Índice Principal hasta Internacional</li>
+        <li>Toca Ver más para explorar cada subcategoría</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Screener (Premium)</h3>
+      <p>Filtra más de 480 fondos con tus propias reglas, como baja esta semana pero sube en 3 meses.</p>
+      <ul class="marketing-list">
+        <li>Reglas de rentabilidad de 1 semana a 1 año, y datos del fondo como tamaño y ratio de gastos</li>
+        <li>Cumplir todas o cualquiera, o empieza con un preajuste</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -141,19 +150,19 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
     </article>
     <article class="marketing-step">
       <h3>Lee el informe de hoy</h3>
-      <p>Descubre cómo se movió el mercado esta semana, qué sectores lideraron y cómo cambiaron los índices principales.</p>
+      <p>Descubre cómo se movió el mercado, qué sectores lideraron y cómo cambiaron los índices principales.</p>
     </article>
     <article class="marketing-step">
       <h3>Explora las selecciones de hoy</h3>
-      <p>Revisa los ETF seleccionados en siete categorías, cada uno con datos en vivo, sentimiento y una razón rápida.</p>
+      <p>Revisa los ETF seleccionados en cinco secciones, cada uno con datos actualizados, sentimiento y una razón rápida.</p>
     </article>
     <article class="marketing-step">
       <h3>Toca cualquier ETF</h3>
-      <p>Abre el perfil completo con principales holdings, historial de rendimiento y una puntuación de sentimiento de siete días.</p>
+      <p>Abre el perfil completo con principales holdings, historial de rendimiento y una puntuación de sentimiento de noticias.</p>
     </article>
     <article class="marketing-step">
-      <h3>Busca lo que quieras</h3>
-      <p>Consulta cualquiera de los más de 450 tickers por símbolo o proveedor cuando un nuevo fondo llame tu atención.</p>
+      <h3>Busca o filtra</h3>
+      <p>Consulta cualquiera de los más de 480 fondos por símbolo, o usa el Screener Premium para filtrar con tus propias reglas de rentabilidad.</p>
     </article>
   </div>
 </section>
@@ -166,7 +175,7 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Revisa una vez y sigue con tu día</h3>
-      <p>El informe diario y las selecciones seleccionadas te dan una lectura completa del mercado en un solo desplazamiento, así pasas menos tiempo buscando entre tickers y más tiempo decidiendo lo que realmente importa.</p>
+      <p>El informe diario y las selecciones curadas te dan una lectura completa del mercado en un solo desplazamiento, así pasas menos tiempo buscando entre tickers y más tiempo decidiendo lo que realmente importa.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Hecho para inversores activos</h3>
@@ -174,7 +183,8 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
         <li>Inversores a largo plazo que comparan fondos por coste y holdings</li>
         <li>Buscadores de dividendos e ingresos que revisan rentabilidades</li>
         <li>Exploradores de sectores y temáticas que siguen tecnología, energía y cripto</li>
-        <li>Cualquiera que quiera análisis sin cuenta ni tarifa</li>
+        <li>Investigadores autónomos que filtran fondos con sus propias reglas de rentabilidad</li>
+        <li>Cualquiera que quiera análisis sin cuenta ni anuncios</li>
       </ul>
     </article>
   </div>
@@ -187,24 +197,24 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece recomendaciones di
   </div>
   <div class="marketing-price-grid">
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Incluido hoy</span>
-      <h3 class="marketing-price-summary">Todas las funciones actuales están disponibles sin coste.</h3>
-      <p>Selecciones diarias, el informe del mercado, análisis profundo de fondos, precios en vivo, sentimiento y búsqueda instantánea en más de 450 tickers, sin cuenta.</p>
-      <p class="marketing-price-note">Compatible con iPhone y iPad en iOS 18.0 o posterior.</p>
+      <span class="marketing-price-tier">Gratis para empezar</span>
+      <h3 class="marketing-price-summary">Todo es gratis excepto el Screener.</h3>
+      <p>Selecciones diarias, el informe del mercado, análisis profundo de fondos, actualizaciones de precios, sentimiento y búsqueda instantánea en más de 480 fondos, sin cuenta y sin anuncios. El Screener forma parte de ETFWise Premium, que es opcional.</p>
+      <p class="marketing-price-note">Premium es una suscripción de renovación automática con planes anual, de 6 meses y mensual, gestionada a través de tu cuenta de Apple. Compatible con iPhone y iPad en iOS 18.0 o posterior.</p>
     </article>
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Postura de privacidad</span>
       <h3 class="marketing-price-summary">Sin cuentas. Sin analíticas. Sin anuncios.</h3>
-      <p>El análisis se ejecuta en tu dispositivo y tus datos permanecen contigo. Solo se envían símbolos de tickers a los proveedores de datos financieros para obtener los precios de mercado en vivo.</p>
+      <p>El análisis se ejecuta en tu dispositivo y tus datos permanecen contigo. Solo se envían símbolos de tickers a los proveedores de datos financieros para obtener los precios de mercado.</p>
       <p class="marketing-price-note"><a href="/etfwise/privacy/">Leer política de privacidad</a></p>
     </article>
   </div>
-  <p class="marketing-meta-note">ETFWise tiene fines exclusivamente informativos y educativos, y no constituye asesoramiento de inversión, financiero ni fiscal. Sus selecciones diarias no son recomendaciones personalizadas para comprar o vender ningún valor. Los datos de mercado pueden estar retrasados o incompletos, y el rendimiento pasado no garantiza resultados futuros. Investiga por tu cuenta o consulta a un profesional financiero autorizado antes de invertir.</p>
+  <p class="marketing-meta-note">ETFWise tiene fines exclusivamente informativos y educativos, y no constituye asesoramiento de inversión, financiero ni fiscal. Sus selecciones diarias y los resultados del Screener no son recomendaciones personalizadas para comprar o vender ningún valor. Los datos de mercado pueden estar retrasados o incompletos, y el rendimiento pasado no garantiza resultados futuros. Investiga por tu cuenta o consulta a un profesional financiero autorizado antes de invertir.</p>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="ew-next-title">
   <h2 id="ew-next-title">¿Listo para tu ventaja diaria en la inversión en ETF?</h2>
-  <p>Descarga ETFWise, lee el informe de hoy de inmediato y ten a mano las selecciones seleccionadas y el análisis profundo siempre que el mercado se mueva.</p>
+  <p>Descarga ETFWise, lee el informe de hoy de inmediato y ten a mano las selecciones curadas y el análisis profundo siempre que el mercado se mueva.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/etfwise/support/">Visitar soporte</a>
     <a class="marketing-inline-link" href="/etfwise/privacy/">Leer política de privacidad</a>

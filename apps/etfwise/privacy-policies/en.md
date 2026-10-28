@@ -8,9 +8,9 @@ redirect_from:
   - /privacy-policies/etfwise/
 ---
 
-**Effective Date:** April 25, 2026
+**Effective Date:** October 28, 2026
 
-ETFWise ("the App") is a free iOS application that provides daily ETF recommendations with live market data and instant on-device analysis. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
+ETFWise ("the App") is an iOS application, free to download with an optional Premium subscription, that provides daily ETF picks with market data and instant on-device analysis. Your privacy is fundamental to how we built this app. Here's exactly how your information is handled.
 
 ## The Short Version
 
@@ -22,9 +22,10 @@ ETFWise ("the App") is a free iOS application that provides daily ETF recommenda
 | Are there ads? | No |
 | Is my data sold or shared? | No |
 | Does the analysis leave my device? | No |
+| Do you receive my payment details? | No. Premium purchases are handled by Apple |
 | Can children use the app safely? | Yes |
 
-The only data sent externally is ETF ticker symbols to fetch market data.
+The only data the App sends to financial data providers is ETF ticker symbols to fetch market data. Premium purchases are processed by Apple.
 
 ## What Data We Collect
 
@@ -36,8 +37,10 @@ All app data is stored locally on your device:
 
 - Daily ETF recommendations and cached market prices
 - News sentiment scores and generated analysis
+- Your settings, such as appearance and performance window
+- Your Screener rules and match mode
 
-This data is refreshed daily and is never uploaded to external servers.
+Market data is refreshed regularly and none of this data is uploaded to external servers.
 
 ## Third-Party Services
 
@@ -48,6 +51,10 @@ ETFWise connects to third-party financial data providers solely to fetch market 
 | ETF ticker symbols and date ranges | None |
 
 No device identifiers, location, or tracking information is included in any request.
+
+## Premium Subscription
+
+ETFWise offers an optional auto-renewing Premium subscription that unlocks the Screener. Purchases, billing, renewals, restores, and cancellations are handled entirely by Apple through your Apple Account. We do not receive your name, payment details, or Apple Account information, and the App has no accounts of its own. The App checks your subscription status on your device using Apple's purchase records. You can manage or cancel your subscription anytime in Settings > Apple Account > Subscriptions. Apple's handling of your data is described in [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ## On-Device Analysis
 
@@ -63,7 +70,7 @@ ETFWise does not request access to your camera, location, contacts, microphone, 
 
 ## Data Retention and Deletion
 
-Since we collect no personal data on our servers, there is nothing to retain or delete on our end. All locally stored data, including recommendations, cached prices, and generated analysis, is permanently removed when you delete the app from your device.
+Since we collect no personal data on our servers, there is nothing to retain or delete on our end. All locally stored data, including recommendations, cached prices, settings, Screener rules, and generated analysis, is permanently removed when you delete the app from your device. Deleting the app does not cancel a Premium subscription; manage that in your Apple Account settings.
 
 ## Your Rights
 

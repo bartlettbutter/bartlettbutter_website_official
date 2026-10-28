@@ -9,9 +9,9 @@ redirect_from:
   - /privacy-policies/etfwise/de/
 ---
 
-**Gültig ab:** 25. April 2026
+**Gültig ab:** 28. Oktober 2026
 
-ETFWise („die App") ist eine kostenlose iOS-Anwendung, die tägliche ETF-Empfehlungen mit Live-Marktdaten und sofortiger geräteinterner Analyse bietet. Ihre Privatsphäre ist grundlegend dafür, wie wir diese App entwickelt haben. Hier erfahren Sie genau, wie Ihre Informationen verarbeitet werden.
+ETFWise („die App") ist eine iOS-Anwendung, die kostenlos heruntergeladen werden kann und ein optionales Premium-Abo bietet. Sie liefert tägliche ETF-Auswahlen mit Marktdaten und sofortiger geräteinterner Analyse. Ihre Privatsphäre ist grundlegend dafür, wie wir diese App entwickelt haben. Hier erfahren Sie genau, wie Ihre Informationen verarbeitet werden.
 
 ## Die Kurzfassung
 
@@ -23,9 +23,10 @@ ETFWise („die App") ist eine kostenlose iOS-Anwendung, die tägliche ETF-Empfe
 | Gibt es Werbung? | Nein |
 | Werden meine Daten verkauft oder geteilt? | Nein |
 | Verlässt die Analyse mein Gerät? | Nein |
+| Erhalten Sie meine Zahlungsdaten? | Nein. Premium-Käufe werden von Apple abgewickelt |
 | Können Kinder die App sicher verwenden? | Ja |
 
-Die einzigen extern gesendeten Daten sind ETF-Tickersymbole, um Marktdaten abzurufen.
+Die einzigen Daten, die die App an Finanzdatenanbieter sendet, sind ETF-Tickersymbole, um Marktdaten abzurufen. Premium-Käufe werden von Apple abgewickelt.
 
 ## Welche Daten Wir Erheben
 
@@ -37,8 +38,10 @@ Alle App-Daten werden lokal auf Ihrem Gerät gespeichert:
 
 - Tägliche ETF-Empfehlungen und zwischengespeicherte Marktpreise
 - Nachrichtenstimmungs-Scores und generierte Analysen
+- Ihre Einstellungen, etwa Darstellung und Leistungszeitraum
+- Ihre Screener-Regeln und der Abgleichmodus
 
-Diese Daten werden täglich aktualisiert und niemals auf externe Server hochgeladen.
+Marktdaten werden regelmäßig aktualisiert, und keine dieser Daten wird auf externe Server hochgeladen.
 
 ## Dienste von Drittanbietern
 
@@ -49,6 +52,10 @@ ETFWise verbindet sich mit Finanzdatenanbietern von Drittanbietern ausschließli
 | ETF-Tickersymbole und Datumsbereiche | Keine |
 
 Keine Gerätekennungen, Standort- oder Tracking-Informationen sind in einer Anfrage enthalten.
+
+## Premium-Abo
+
+ETFWise bietet ein optionales, automatisch verlängerndes Premium-Abo, das den Screener freischaltet. Käufe, Abrechnung, Verlängerungen, Wiederherstellungen und Kündigungen werden vollständig von Apple über Ihre Apple-ID abgewickelt. Wir erhalten weder Ihren Namen noch Ihre Zahlungsdaten oder Informationen zu Ihrer Apple-ID, und die App hat keine eigenen Konten. Die App prüft Ihren Abostatus auf Ihrem Gerät anhand der Kaufbelege von Apple. Sie können Ihr Abo jederzeit unter Einstellungen > Apple-ID > Abos verwalten oder kündigen. Wie Apple mit Ihren Daten umgeht, ist in der [Datenschutzrichtlinie von Apple](https://www.apple.com/legal/privacy/) beschrieben.
 
 ## Geräteinterne Analyse
 
@@ -64,7 +71,7 @@ ETFWise fordert keinen Zugriff auf Ihre Kamera, Ihren Standort, Ihre Kontakte, I
 
 ## Datenaufbewahrung und -löschung
 
-Da wir keine personenbezogenen Daten auf unseren Servern erheben, gibt es auf unserer Seite nichts aufzubewahren oder zu löschen. Alle lokal gespeicherten Daten, einschließlich Empfehlungen, zwischengespeicherter Preise und generierter Analysen, werden dauerhaft gelöscht, wenn Sie die App von Ihrem Gerät löschen.
+Da wir keine personenbezogenen Daten auf unseren Servern erheben, gibt es auf unserer Seite nichts aufzubewahren oder zu löschen. Alle lokal gespeicherten Daten, einschließlich Empfehlungen, zwischengespeicherter Preise, Einstellungen, Screener-Regeln und generierter Analysen, werden dauerhaft gelöscht, wenn Sie die App von Ihrem Gerät löschen. Das Löschen der App kündigt ein Premium-Abo nicht; verwalten Sie es in den Einstellungen Ihrer Apple-ID.
 
 ## Ihre Rechte
 

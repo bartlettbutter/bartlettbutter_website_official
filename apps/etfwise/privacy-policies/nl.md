@@ -9,9 +9,9 @@ redirect_from:
   - /privacy-policies/etfwise/nl/
 ---
 
-**Ingangsdatum:** 25 april 2026
+**Ingangsdatum:** 28 oktober 2026
 
-ETFWise ("de App") is een gratis iOS-applicatie die dagelijkse ETF-aanbevelingen biedt met live marktgegevens en directe analyse op het apparaat. Uw privacy staat centraal in de manier waarop we deze app hebben gebouwd. Hier leest u precies hoe uw informatie wordt behandeld.
+ETFWise ("de App") is een iOS-applicatie die gratis te downloaden is en een optioneel Premium-abonnement biedt. De app biedt dagelijkse ETF-selecties met marktgegevens en directe analyse op het apparaat. Uw privacy staat centraal in de manier waarop we deze app hebben gebouwd. Hier leest u precies hoe uw informatie wordt behandeld.
 
 ## De Korte Versie
 
@@ -23,9 +23,10 @@ ETFWise ("de App") is een gratis iOS-applicatie die dagelijkse ETF-aanbevelingen
 | Zijn er advertenties? | Nee |
 | Worden mijn gegevens verkocht of gedeeld? | Nee |
 | Verlaat de analyse mijn apparaat? | Nee |
+| Ontvangen jullie mijn betaalgegevens? | Nee. Premium-aankopen worden door Apple afgehandeld |
 | Kunnen kinderen de app veilig gebruiken? | Ja |
 
-De enige gegevens die extern worden verzonden zijn ETF-tickersymbolen om marktgegevens op te halen.
+De enige gegevens die de app naar financiële dataproviders verzendt zijn ETF-tickersymbolen om marktgegevens op te halen. Premium-aankopen worden door Apple verwerkt.
 
 ## Welke Gegevens We Verzamelen
 
@@ -37,8 +38,10 @@ Alle appgegevens worden lokaal op uw apparaat opgeslagen:
 
 - Dagelijkse ETF-aanbevelingen en marktprijzen in cache
 - Sentimentscores van nieuws en gegenereerde analyse
+- Uw instellingen, zoals weergave en prestatieperiode
+- Uw Screener-regels en de overeenkomstmodus
 
-Deze gegevens worden dagelijks vernieuwd en worden nooit naar externe servers geüpload.
+Marktgegevens worden regelmatig vernieuwd en geen van deze gegevens wordt naar externe servers geüpload.
 
 ## Diensten van Derden
 
@@ -49,6 +52,10 @@ ETFWise maakt uitsluitend verbinding met externe financiële dataproviders om ma
 | ETF-tickersymbolen en datumbereiken | Geen |
 
 Er worden geen apparaat-ID's, locatie of trackinggegevens opgenomen in enig verzoek.
+
+## Premium-abonnement
+
+ETFWise biedt een optioneel automatisch verlengend Premium-abonnement dat de Screener ontgrendelt. Aankopen, facturering, verlengingen, herstellen en annuleringen worden volledig door Apple afgehandeld via uw Apple-account. Wij ontvangen uw naam, betaalgegevens of Apple-accountgegevens niet, en de App heeft geen eigen accounts. De App controleert de status van uw abonnement op uw apparaat aan de hand van de aankoopgegevens van Apple. U kunt uw abonnement op elk moment beheren of annuleren via Instellingen > Apple-account > Abonnementen. Hoe Apple met uw gegevens omgaat, staat beschreven in het [Privacybeleid van Apple](https://www.apple.com/legal/privacy/).
 
 ## Analyse op het Apparaat
 
@@ -64,7 +71,7 @@ ETFWise vraagt geen toegang tot uw camera, locatie, contacten, microfoon, gezond
 
 ## Bewaring en Verwijdering van Gegevens
 
-Omdat we geen persoonsgegevens op onze servers verzamelen, is er aan onze kant niets te bewaren of te verwijderen. Alle lokaal opgeslagen gegevens, waaronder aanbevelingen, prijzen in cache en gegenereerde analyse, worden permanent verwijderd wanneer u de app van uw apparaat verwijdert.
+Omdat we geen persoonsgegevens op onze servers verzamelen, is er aan onze kant niets te bewaren of te verwijderen. Alle lokaal opgeslagen gegevens, waaronder aanbevelingen, prijzen in cache, instellingen, Screener-regels en gegenereerde analyse, worden permanent verwijderd wanneer u de app van uw apparaat verwijdert. Het verwijderen van de app annuleert een Premium-abonnement niet; beheer dat in de instellingen van uw Apple-account.
 
 ## Uw Rechten
 

@@ -9,9 +9,9 @@ redirect_from:
   - /privacy-policies/etfwise/tr/
 ---
 
-**Yürürlük Tarihi:** 25 Nisan 2026
+**Yürürlük Tarihi:** 28 Ekim 2026
 
-ETFWise ("Uygulama"), canlı piyasa verileri ve cihaz üzerinde anlık analiz ile günlük ETF önerileri sunan ücretsiz bir iOS uygulamasıdır. Gizliliğiniz, bu uygulamayı nasıl geliştirdiğimizin temelini oluşturur. Bilgilerinizin tam olarak nasıl ele alındığı aşağıda açıklanmıştır.
+ETFWise ("Uygulama"), ücretsiz indirilen ve isteğe bağlı bir Premium abonelik sunan; piyasa verileri ve cihaz üzerinde anlık analiz ile günlük ETF seçimleri sağlayan bir iOS uygulamasıdır. Gizliliğiniz, bu uygulamayı nasıl geliştirdiğimizin temelini oluşturur. Bilgilerinizin tam olarak nasıl ele alındığı aşağıda açıklanmıştır.
 
 ## Kısa Versiyon
 
@@ -23,9 +23,10 @@ ETFWise ("Uygulama"), canlı piyasa verileri ve cihaz üzerinde anlık analiz il
 | Reklam var mı? | Hayır |
 | Verilerim satılıyor veya paylaşılıyor mu? | Hayır |
 | Analiz cihazımdan çıkıyor mu? | Hayır |
+| Ödeme bilgilerimi alıyor musunuz? | Hayır. Premium satın alımlarını Apple yürütür |
 | Çocuklar uygulamayı güvenle kullanabilir mi? | Evet |
 
-Dışarıya gönderilen tek veri, piyasa verilerini almak için kullanılan ETF hisse senedi sembolleridir.
+Uygulamanın finansal veri sağlayıcılarına gönderdiği tek veri, piyasa verilerini almak için kullanılan ETF hisse senedi sembolleridir. Premium satın alımları Apple tarafından işlenir.
 
 ## Hangi Verileri Topluyoruz
 
@@ -37,8 +38,10 @@ Tüm uygulama verileri cihazınızda yerel olarak saklanır:
 
 - Günlük ETF önerileri ve önbelleğe alınmış piyasa fiyatları
 - Haber duygu puanları ve oluşturulan analizler
+- Görünüm ve performans dönemi gibi ayarlarınız
+- Screener kurallarınız ve eşleşme modu
 
-Bu veriler günlük olarak yenilenir ve hiçbir zaman harici sunuculara yüklenmez.
+Piyasa verileri düzenli olarak yenilenir ve bu verilerin hiçbiri harici sunuculara yüklenmez.
 
 ## Üçüncü Taraf Hizmetleri
 
@@ -49,6 +52,10 @@ ETFWise, yalnızca görüntüleme için piyasa verilerini almak amacıyla üçü
 | ETF hisse senedi sembolleri ve tarih aralıkları | Yok |
 
 Hiçbir istekte cihaz tanımlayıcısı, konum veya izleme bilgisi yer almaz.
+
+## Premium Abonelik
+
+ETFWise, Screener'ın kilidini açan, isteğe bağlı ve otomatik yenilenen bir Premium abonelik sunar. Satın alma, faturalandırma, yenileme, geri yükleme ve iptal işlemlerinin tamamı Apple Hesabınız üzerinden Apple tarafından yürütülür. Adınızı, ödeme bilgilerinizi veya Apple Hesabı bilgilerinizi almayız ve Uygulamanın kendi hesapları yoktur. Uygulama, aboneliğinizin durumunu cihazınızda Apple'ın satın alma kayıtlarını kullanarak denetler. Aboneliğinizi istediğiniz zaman Ayarlar > Apple Hesabı > Abonelikler bölümünden yönetebilir veya iptal edebilirsiniz. Apple'ın verilerinizi nasıl işlediği [Apple Gizlilik Politikası](https://www.apple.com/legal/privacy/) içinde açıklanmıştır.
 
 ## Cihaz Üzerinde Analiz
 
@@ -64,7 +71,7 @@ ETFWise; kameranıza, konumunuza, kişilerinize, mikrofonunuza, sağlık veriler
 
 ## Verilerin Saklanması ve Silinmesi
 
-Sunucularımızda hiçbir kişisel veri toplamadığımız için bizim tarafımızda saklanacak veya silinecek bir şey yoktur. Öneriler, önbelleğe alınmış fiyatlar ve oluşturulan analiz dahil tüm yerel olarak saklanan veriler, Uygulamayı cihazınızdan sildiğinizde kalıcı olarak kaldırılır.
+Sunucularımızda hiçbir kişisel veri toplamadığımız için bizim tarafımızda saklanacak veya silinecek bir şey yoktur. Öneriler, önbelleğe alınmış fiyatlar, ayarlar, Screener kuralları ve oluşturulan analiz dahil tüm yerel olarak saklanan veriler, Uygulamayı cihazınızdan sildiğinizde kalıcı olarak kaldırılır. Uygulamayı silmek bir Premium aboneliği iptal etmez; aboneliği Apple Hesabı ayarlarınızdan yönetin.
 
 ## Haklarınız
 

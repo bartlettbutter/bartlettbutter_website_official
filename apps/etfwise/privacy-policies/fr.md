@@ -9,9 +9,9 @@ redirect_from:
   - /privacy-policies/etfwise/fr/
 ---
 
-**Date d'entrée en vigueur :** 25 avril 2026
+**Date d'entrée en vigueur :** 28 octobre 2026
 
-ETFWise (« l'Application ») est une application iOS gratuite qui fournit des recommandations quotidiennes d'ETF avec des données de marché en direct et une analyse instantanée sur l'appareil. Votre vie privée est fondamentale dans la conception de cette application. Voici exactement comment vos informations sont traitées.
+ETFWise (« l'Application ») est une application iOS gratuite à télécharger, avec un abonnement Premium optionnel, qui fournit des sélections quotidiennes d'ETF avec des données de marché et une analyse instantanée sur l'appareil. Votre vie privée est fondamentale dans la conception de cette application. Voici exactement comment vos informations sont traitées.
 
 ## Version Courte
 
@@ -23,9 +23,10 @@ ETFWise (« l'Application ») est une application iOS gratuite qui fournit des r
 | Y a-t-il des publicités ? | Non |
 | Mes données sont-elles vendues ou partagées ? | Non |
 | L'analyse quitte-t-elle mon appareil ? | Non |
+| Recevez-vous mes informations de paiement ? | Non. Les achats Premium sont gérés par Apple |
 | Les enfants peuvent-ils utiliser l'application en toute sécurité ? | Oui |
 
-Les seules données envoyées à l'extérieur sont les symboles boursiers des ETF pour récupérer les données de marché.
+Les seules données que l'application envoie aux fournisseurs de données financières sont les symboles boursiers des ETF pour récupérer les données de marché. Les achats Premium sont traités par Apple.
 
 ## Quelles Données Nous Collectons
 
@@ -37,8 +38,10 @@ Toutes les données de l'application sont stockées localement sur votre apparei
 
 - Recommandations quotidiennes d'ETF et prix de marché en cache
 - Scores de sentiment des actualités et analyses générées
+- Vos réglages, comme l'apparence et la période de performance
+- Vos règles du Screener et le mode de correspondance
 
-Ces données sont actualisées quotidiennement et ne sont jamais téléchargées vers des serveurs externes.
+Les données de marché sont actualisées régulièrement et aucune de ces données n'est téléchargée vers des serveurs externes.
 
 ## Services Tiers
 
@@ -49,6 +52,10 @@ ETFWise se connecte à des fournisseurs tiers de données financières uniquemen
 | Symboles boursiers des ETF et plages de dates | Aucune |
 
 Aucun identifiant d'appareil, aucune localisation ni aucune information de suivi n'est inclus dans une requête.
+
+## Abonnement Premium
+
+ETFWise propose un abonnement Premium optionnel à renouvellement automatique qui débloque le Screener. Les achats, la facturation, les renouvellements, les restaurations et les résiliations sont entièrement gérés par Apple via votre compte Apple. Nous ne recevons ni votre nom, ni vos informations de paiement, ni les informations de votre compte Apple, et l'Application n'a pas de comptes propres. L'Application vérifie l'état de votre abonnement sur votre appareil à partir des justificatifs d'achat d'Apple. Vous pouvez gérer ou résilier votre abonnement à tout moment dans Réglages > Compte Apple > Abonnements. Le traitement de vos données par Apple est décrit dans la [Politique de confidentialité d'Apple](https://www.apple.com/legal/privacy/).
 
 ## Analyse sur l'Appareil
 
@@ -64,7 +71,7 @@ ETFWise ne demande pas l'accès à votre appareil photo, votre localisation, vos
 
 ## Conservation et Suppression des Données
 
-Comme nous ne collectons aucune donnée personnelle sur nos serveurs, il n'y a rien à conserver ou à supprimer de notre côté. Toutes les données stockées localement, y compris les recommandations, les prix en cache et l'analyse générée, sont définitivement supprimées lorsque vous désinstallez l'application de votre appareil.
+Comme nous ne collectons aucune donnée personnelle sur nos serveurs, il n'y a rien à conserver ou à supprimer de notre côté. Toutes les données stockées localement, y compris les recommandations, les prix en cache, les réglages, les règles du Screener et l'analyse générée, sont définitivement supprimées lorsque vous désinstallez l'application de votre appareil. Supprimer l'application ne résilie pas un abonnement Premium ; gérez-le dans les réglages de votre compte Apple.
 
 ## Vos Droits
 

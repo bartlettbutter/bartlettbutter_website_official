@@ -17,7 +17,7 @@ Wir sind hier, um dir zu helfen, das Beste aus ETFWise herauszuholen. Durchstöb
 
 ### Wie funktionieren die täglichen Empfehlungen?
 
-Jeden Tag wählt ETFWise die besten ETFs aus sieben Kategorien (Hauptindex, Sektor, Anleihen und festverzinsliche Wertpapiere, International, Rohstoffe, Themen und Dividenden) auf Basis von Live-Marktdaten aus. Die Liste wird für den ganzen Tag fixiert, damit deine Ansicht stabil bleibt, während Preise und Stimmung automatisch alle 5 Minuten aktualisiert werden. Tippe in einem beliebigen Bereich auf „Mehr anzeigen", um Unterkategorien zu erkunden.
+Jeden Tag wählt ETFWise die besten ETFs aus fünf Bereichen (Hauptindex, Dividenden, Sektor, Anleihen und festverzinsliche Wertpapiere sowie International) auf Basis aktueller Marktdaten aus. Die Liste wird für den ganzen Tag fixiert, damit deine Ansicht stabil bleibt, während Preise und Stimmung automatisch alle 5 Minuten aktualisiert werden, solange die App geöffnet ist. Tippe in einem beliebigen Bereich auf „Mehr anzeigen", um die Unterkategorien zu erkunden.
 
 ### Brauche ich eine Internetverbindung?
 
@@ -29,21 +29,31 @@ Nein. ETFWise dient ausschließlich Informations- und Bildungszwecken und ist ke
 
 ### Wie viel kostet ETFWise?
 
-ETFWise ist kostenlos im App Store erhältlich, und alle aktuellen Funktionen sind ohne Kosten verfügbar, ohne Werbung. Möglicherweise führen wir in Zukunft optionale Premium-Funktionen ein.
+ETFWise ist kostenlos im App Store erhältlich, ohne Werbung und ohne Konto. Tägliche Auswahl, Markt-Briefing, Suche und Fondsdetails sind kostenlos. Der Screener gehört zu ETFWise Premium, einem optionalen, automatisch verlängernden Abo mit Jahres-, 6-Monats- und Monatsplan. Siehe „Was ist ETFWise Premium?" weiter unten.
 
 ## Häufig gestellte Fragen
 
-### Was sind die sieben ETF-Kategorien?
+### Was sind die fünf Bereiche der Auswahl?
 
-| Kategorie | Was Sie Abdeckt |
+| Bereich | Was er abdeckt |
 |---|---|
 | Hauptindex | S&P 500, Nasdaq 100, Russell 2000, Dow Jones, Gesamtmarkt |
-| Sektor | Technologie, Gesundheitswesen, Energie, Finanzwerte und mehr |
+| Dividenden | Hochzins, Dividendenwachstum, Aristokraten, Einkommensstrategien |
+| Sektor | Technologie, Gesundheitswesen, Energie, Finanzwerte sowie Rohstofffonds (Gold, Silber, Öl und mehr) und Themenfonds (KI und Robotik, saubere Energie, Cybersicherheit und mehr) |
 | Anleihen und festverzinsliche Wertpapiere | Staatsanleihen, Unternehmensanleihen, Hochzins, TIPS, Kommunalanleihen |
 | International | Entwickelte Märkte, Schwellenmärkte, Einzelländer-ETFs |
-| Rohstoffe | Gold, Silber, Öl, Landwirtschaft, breite Rohstoffkörbe |
-| Themen | KI und Robotik, saubere Energie, Cybersicherheit, Cloud, E-Fahrzeuge |
-| Dividenden | Hochzins, Dividendenwachstum, Aristokraten, Einkommensstrategien |
+
+### Was ist ETFWise Premium?
+
+ETFWise Premium ist ein optionales, automatisch verlängerndes Abo, das den Screener freischaltet. Alles andere in ETFWise bleibt kostenlos. Die Pläne sind jährlich, 6-monatlich und monatlich. Die Preise erscheinen vor dem Abschluss in deiner Landeswährung auf dem Planbildschirm, zusammen mit einem Einführungsangebot, falls dir eines zur Verfügung steht. Die Zahlung wird bei Kaufbestätigung deiner Apple-ID belastet.
+
+### Was ist der Screener?
+
+Der Screener filtert mehr als 480 ETFs nach Regeln, die du festlegst. Eine Regel kann eine Rendite über einen Zeitraum von 1 Woche bis 1 Jahr sein (zum Beispiel „1W fällt um mindestens 2 %") oder ein Fondsmerkmal wie Größe, Kostenquote, Auflagejahr oder Fondsgesellschaft. Kombiniere Regeln mit „Alle erfüllen" oder „Beliebige erfüllen", oder starte mit einer fertigen Vorlage. Wische eine Regel nach links, um sie zu löschen. Die Ergebnisse zeigen den Wert jedes Fonds für jede Regel. Screener-Ergebnisse beschreiben Fonds anhand deiner Regeln und sind keine Empfehlungen.
+
+### Wie verwalte, kündige oder stelle ich mein Abo wieder her?
+
+Zum Verwalten oder Kündigen öffne die Einstellungen in ETFWise und tippe im Premium-Banner auf „Verwalten", oder gehe in den Geräteeinstellungen zu Apple-ID > Abos. Abos verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ende des aktuellen Zeitraums gekündigt werden. Um Premium auf einem neuen Gerät oder nach einer Neuinstallation wiederherzustellen, tippe auf dem Planbildschirm oder in den Einstellungen auf „Käufe wiederherstellen" und verwende dieselbe Apple-ID. Rückerstattungsanfragen werden von Apple bearbeitet.
 
 ### Wie werden die Bull- und Risiko-Szenarien erstellt?
 
@@ -51,11 +61,11 @@ ETFWise erstellt jedes Bull- und Risiko-Szenario auf deinem Gerät aus den reale
 
 ### Wie funktioniert die Nachrichtenstimmung?
 
-Die App analysiert aktuelle Nachrichtenartikel (7-Tage-Fenster) für jeden ETF und bewertet sie hinsichtlich eines positiven oder negativen Tons. Das Ergebnis wird als Bärisch, Negativ, Neutral, Positiv oder Bullisch angezeigt. Bis zu 3 aktuelle Schlagzeilen werden neben dem Score angezeigt.
+Die App analysiert aktuelle Nachrichtenartikel für jeden ETF und bewertet sie hinsichtlich eines positiven oder negativen Tons. Das Ergebnis wird als Bärisch, Negativ, Neutral, Positiv oder Bullisch angezeigt. Bis zu 3 aktuelle Schlagzeilen werden neben dem Score angezeigt.
 
 ### Kann ich nach einem bestimmten ETF suchen?
 
-Ja. Verwende die Suchleiste, um einen beliebigen ETF nach Tickersymbol oder Namen zu finden. Die Suche umfasst über 200 kuratierte ETFs plus eine erweiterte Bibliothek von insgesamt über 450 Tickern.
+Ja. Verwende die Suchleiste, um einen beliebigen ETF nach Tickersymbol oder Namen zu finden. Die Suche umfasst mehr als 480 ETFs, darunter über 200 kuratierte Auswahlen und eine erweiterte Bibliothek weiterer Fonds.
 
 ### Sind meine Daten privat?
 
@@ -63,7 +73,7 @@ Ja. Keine Konten, keine Analysen, kein Tracking. Nur Tickersymbole werden an Fin
 
 ### Was passiert, wenn ich die App lösche?
 
-Die Deinstallation von ETFWise entfernt dauerhaft alle lokal gespeicherten Daten, einschließlich zwischengespeicherter Empfehlungen und generierter Analysen. Da es keine Cloud-Sicherung gibt, kann dies nicht rückgängig gemacht werden.
+Die Deinstallation von ETFWise entfernt dauerhaft alle lokal gespeicherten Daten, einschließlich zwischengespeicherter Empfehlungen, generierter Analysen, deiner Einstellungen und deiner Screener-Regeln. Da es keine Cloud-Sicherung gibt, kann dies nicht rückgängig gemacht werden. Premium ist an deine Apple-ID gebunden und nicht an die App, sodass du es nach einer Neuinstallation wiederherstellen kannst.
 
 ## Fehlerbehebung
 
@@ -81,7 +91,15 @@ Bull- und Risiko-Szenarien werden aus den Preis-, Wertentwicklungs- und Stimmung
 
 ### Fondsdaten (Bestände, Wertentwicklung) werden nicht geladen
 
-Bestands- und Wertentwicklungsdaten erfordern eine Internetverbindung. Wenn die Daten nicht geladen werden, versuche, die ETF-Detailansicht zu schließen und erneut zu öffnen.
+Bestands- und Wertentwicklungsdaten erfordern eine Internetverbindung. Wenn die Daten nicht geladen werden, versuche, die ETF-Detailansicht zu schließen und erneut zu öffnen. Je nach Netzwerk oder Region können einige Fondsdetails (etwa Fondsgröße, Bestände oder Analystenbewertungen) gelegentlich nicht verfügbar sein.
+
+### Der Screener zeigt einen Planbildschirm statt Ergebnissen
+
+Der Screener gehört zu ETFWise Premium. Wenn du bereits abonniert hast, tippe auf dem Planbildschirm auf „Käufe wiederherstellen" und verwende die Apple-ID, mit der du abonniert hast. Wenn die Pläne nicht geladen werden, prüfe deine Verbindung und tippe auf „Erneut versuchen".
+
+### Der Screener zeigt keine Treffer
+
+Eine leere Regelliste liefert keine Treffer, und strenge Regeln können auf keinen Fonds zutreffen. Lockere eine Regel, wechsle von „Alle erfüllen" zu „Beliebige erfüllen" oder starte mit einer Vorlage.
 
 ### Die App stürzt ab oder friert ein
 

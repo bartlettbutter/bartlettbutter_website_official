@@ -17,10 +17,11 @@ redirect_from:
 
 <!--gallery-->
 
-成分标签是写给化学家看的，不是写给你看的。FormuLens 帮你把它翻译过来。把相机对准任何产品，每种成分都会被解读，并按其实际作用分类整理。无需输入、无需搜索，也不需要化学学位。
+成分标签是写给化学家看的，不是写给你看的。FormuLens 帮你把它翻译过来。把相机对准任何产品，每种成分都会被解读，并按其实际作用分类整理。无需输入、无需搜索，也不需要化学学位。它甚至能读取韩文、日文和中文标签。
 
 <div class="marketing-chip-row" aria-label="FormuLens highlights">
   <span class="marketing-chip">设备端分析</span>
+  <span class="marketing-chip">可读取韩文、日文和中文标签</span>
   <span class="marketing-chip">23 种产品类型</span>
   <span class="marketing-chip">3 种分析模式</span>
   <span class="marketing-chip">无需账户</span>
@@ -65,7 +66,26 @@ redirect_from:
       <ul class="marketing-list">
         <li>以功能为先的解释，而非化学术语</li>
         <li>按颜色分类扫描，让配方一眼看清</li>
+        <li>任意角度拍摄的标签都能识别，横着或倒着拍也没问题</li>
         <li>想深入了解时，还有可信的数据库链接</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>读懂其他语言的标签</h3>
+      <p>可扫描英文、法文、韩文、日文和中文（简体与繁体）标签。成分名称会翻译为对应的英文 INCI 名称，并在旁边显示标签上印刷的原名。</p>
+      <ul class="marketing-list">
+        <li>为 K-beauty、J-beauty 好物和旅行淘货而生</li>
+        <li>印刷原名与英文对应名称并排显示</li>
+        <li>无论标签是哪种语言，都是同样的按功能分类解读</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>查询任何成分</h3>
+      <p>可按 INCI 名称、法文、韩文、日文或中文名称，或 AHA、BHA 等简称，搜索 1000 多种成分。</p>
+      <ul class="marketing-list">
+        <li>它有什么作用，在哪些产品中最重要</li>
+        <li>孕期提示和已知的叠加使用相互作用</li>
+        <li>附有可信数据库链接，方便深入了解</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -92,6 +112,8 @@ redirect_from:
       <ul class="marketing-list">
         <li>各步骤之间更合理的顺序安排</li>
         <li>一次性检查冲突和重复</li>
+        <li>当香料过敏原在多个步骤中累积时给出提醒</li>
+        <li>提示你的护肤流程可能缺少什么</li>
         <li>无论流程简单还是成分繁多都适用</li>
       </ul>
     </article>
@@ -100,7 +122,7 @@ redirect_from:
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="fl-modes-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">产品架构</p>
+    <p class="marketing-eyebrow">三种模式</p>
     <h2 id="fl-modes-title" class="marketing-section-title">三种分析方式，贯穿始终的一套视觉语言。</h2>
     <p class="marketing-section-intro">每个流程回答一个不同的问题，但每一个都落在同样易读、以颜色为主导的体系中，让产品始终感觉连贯一致。</p>
   </div>
@@ -134,7 +156,7 @@ redirect_from:
 
 <section class="marketing-band" aria-labelledby="fl-flow-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">上手流程</p>
+    <p class="marketing-eyebrow">使用方式</p>
     <h2 id="fl-flow-title" class="marketing-section-title">从瓶子到结论，五个清爽步骤。</h2>
   </div>
   <div class="marketing-step-grid">
@@ -148,7 +170,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>拍摄或导入标签</h3>
-      <p>给成分表拍照，或从相册中选取。如果标签环绕瓶身，就分几张照片把它拍完整。</p>
+      <p>给成分表拍照，或从相册中选取。如果标签环绕瓶身，就分几张照片把它拍完整。任意角度拍摄的标签会自动转正。</p>
     </article>
     <article class="marketing-step">
       <h3>查看按颜色分类的解读</h3>
@@ -156,7 +178,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>保存重要内容</h3>
-      <p>用自定义名称、备注和标签保存这次扫描，让这份成果在你下次购物或重新搭建护肤流程时可以再次派上用场。</p>
+      <p>用自定义名称、备注和标签保存这次扫描，让这份成果在你下次购物或重新搭建护肤流程时可以再次派上用场。同时还会保留一张照片的小缩略图。</p>
     </article>
   </div>
 </section>
@@ -169,14 +191,14 @@ redirect_from:
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>建立一个可搜索的成分库</h3>
-      <p>用自定义名称、标签和备注保存任何分析结果，随后再筛选查找。它非常适合记录哪些产品有效、哪些刺激了你的皮肤，以及哪些看似相似却其实不同。</p>
+      <p>用自定义名称、标签和备注保存任何分析结果，随后再筛选查找。它非常适合记录哪些产品有效、哪些刺激了你的皮肤，以及哪些看似相似却其实不同。可按名称、标签或成分搜索。</p>
     </article>
     <article class="marketing-story-card">
       <h3>为在意成分的购物者打造</h3>
       <ul class="marketing-list">
         <li>正在微调活性成分和叠加顺序的护肤流程爱好者</li>
         <li>留意香精或已知刺激源的敏感肌购物者</li>
-        <li>破解冗长 INCI 成分表的 K-beauty 和 J-beauty 爱好者</li>
+        <li>扫描韩文和日文标签的 K-beauty 与 J-beauty 爱好者</li>
         <li>为家人把关护肤品的父母</li>
       </ul>
     </article>

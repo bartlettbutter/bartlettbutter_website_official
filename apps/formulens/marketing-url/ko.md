@@ -17,10 +17,11 @@ redirect_from:
 
 <!--gallery-->
 
-성분표는 당신이 아니라 화학자를 위해 쓰여 있습니다. FormuLens가 그것을 번역해 드립니다. 어떤 제품에든 카메라를 대면 모든 성분이 해독되고 실제로 하는 일에 따라 분류됩니다. 입력도, 검색도, 화학 학위도 필요 없습니다.
+성분표는 당신이 아니라 화학자를 위해 쓰여 있습니다. FormuLens가 그것을 번역해 드립니다. 어떤 제품에든 카메라를 대면 모든 성분이 해독되고 실제로 하는 일에 따라 분류됩니다. 입력도, 검색도, 화학 학위도 필요 없습니다. 한국어, 일본어, 중국어 라벨도 읽습니다.
 
 <div class="marketing-chip-row" aria-label="FormuLens highlights">
   <span class="marketing-chip">기기 내 분석</span>
+  <span class="marketing-chip">한국어·일본어·중국어 라벨 인식</span>
   <span class="marketing-chip">23가지 제품 유형</span>
   <span class="marketing-chip">3가지 분석 모드</span>
   <span class="marketing-chip">계정 불필요</span>
@@ -65,7 +66,26 @@ redirect_from:
       <ul class="marketing-list">
         <li>화학 전문 용어 대신 기능 중심의 설명</li>
         <li>처방이 한눈에 시각적으로 읽히는 색상별 스캔</li>
+        <li>어떤 각도에서 찍은 라벨도 인식, 옆으로 돌아가거나 거꾸로여도 문제없습니다</li>
         <li>더 깊이 알아보고 싶을 때를 위한 신뢰할 수 있는 데이터베이스 링크</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>다른 언어의 라벨도 읽기</h3>
+      <p>영어, 프랑스어, 한국어, 일본어, 중국어(간체와 번체) 라벨을 스캔하세요. 성분 이름은 영어 INCI 이름으로 번역되며, 인쇄된 이름이 함께 표시됩니다.</p>
+      <ul class="marketing-list">
+        <li>K-뷰티와 J-뷰티 득템, 해외여행 쇼핑에 제격</li>
+        <li>인쇄된 이름을 영어 대응 이름 옆에서 확인</li>
+        <li>라벨이 어떤 언어든 똑같은 기능별 분석</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>모든 성분 찾아보기</h3>
+      <p>1,000가지가 넘는 성분을 INCI 이름, 프랑스어·한국어·일본어·중국어 이름, 또는 AHA와 BHA 같은 약어로 검색하세요.</p>
+      <ul class="marketing-list">
+        <li>어떤 역할을 하고 어디에서 특히 중요한지</li>
+        <li>임신 관련 참고 사항과 알려진 레이어링 상호작용</li>
+        <li>더 알아보기 위한 신뢰할 수 있는 데이터베이스 링크</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -92,6 +112,8 @@ redirect_from:
       <ul class="marketing-list">
         <li>단계 간의 더 나은 순서</li>
         <li>한 번에 처리하는 충돌 및 중복 점검</li>
+        <li>여러 단계에 걸쳐 향료 알레르기 유발 성분이 쌓일 때 알림</li>
+        <li>루틴에 부족할 수 있는 부분에 대한 제안</li>
         <li>간단한 루틴과 성분이 많은 루틴 모두에 유용</li>
       </ul>
     </article>
@@ -100,7 +122,7 @@ redirect_from:
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="fl-modes-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">제품 구조</p>
+    <p class="marketing-eyebrow">세 가지 모드</p>
     <h2 id="fl-modes-title" class="marketing-section-title">세 가지 분석 방법, 처음부터 끝까지 하나의 시각 언어.</h2>
     <p class="marketing-section-intro">각 흐름은 서로 다른 질문에 답하지만, 모두가 똑같이 읽기 쉽고 색상 중심인 시스템에 도달하므로 제품이 항상 일관되게 느껴집니다.</p>
   </div>
@@ -134,7 +156,7 @@ redirect_from:
 
 <section class="marketing-band" aria-labelledby="fl-flow-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">온보딩 흐름</p>
+    <p class="marketing-eyebrow">사용 방법</p>
     <h2 id="fl-flow-title" class="marketing-section-title">병에서 판정까지 다섯 단계로 깔끔하게.</h2>
   </div>
   <div class="marketing-step-grid">
@@ -148,7 +170,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>성분표를 촬영하거나 가져오세요</h3>
-      <p>성분표를 촬영하거나 라이브러리에서 가져오세요. 라벨이 병을 감싸고 있다면 여러 장의 사진으로 나누어 담으세요.</p>
+      <p>성분표를 촬영하거나 라이브러리에서 가져오세요. 라벨이 병을 감싸고 있다면 여러 장의 사진으로 나누어 담으세요. 어떤 각도에서 찍은 라벨이든 자동으로 똑바로 돌려 줍니다.</p>
     </article>
     <article class="marketing-step">
       <h3>색상별 분석을 읽으세요</h3>
@@ -156,7 +178,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>중요한 것을 저장하세요</h3>
-      <p>사용자 지정 이름, 메모, 태그와 함께 스캔을 보관하여, 다음에 쇼핑하거나 루틴을 다시 구성할 때 재사용할 수 있게 하세요.</p>
+      <p>사용자 지정 이름, 메모, 태그와 함께 스캔을 보관하여, 다음에 쇼핑하거나 루틴을 다시 구성할 때 재사용할 수 있게 하세요. 사진의 작은 썸네일도 함께 보관됩니다.</p>
     </article>
   </div>
 </section>
@@ -169,14 +191,14 @@ redirect_from:
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>검색 가능한 성분 라이브러리를 보관하세요</h3>
-      <p>어떤 분석이든 사용자 지정 이름, 태그, 메모와 함께 저장한 뒤 나중에 필터링하세요. 무엇이 효과가 있었는지, 무엇이 피부를 자극했는지, 비슷해 보였지만 아니었던 것이 무엇인지 기억하는 데 유용합니다.</p>
+      <p>어떤 분석이든 사용자 지정 이름, 태그, 메모와 함께 저장한 뒤 나중에 필터링하세요. 무엇이 효과가 있었는지, 무엇이 피부를 자극했는지, 비슷해 보였지만 아니었던 것이 무엇인지 기억하는 데 유용합니다. 이름, 태그, 성분으로 검색할 수 있습니다.</p>
     </article>
     <article class="marketing-story-card">
       <h3>성분에 관심 많은 쇼핑객을 위해</h3>
       <ul class="marketing-list">
         <li>유효 성분과 레이어링을 세밀하게 조정하는 루틴 애호가</li>
         <li>향료나 알려진 유발 요인을 살피는 민감성 소비자</li>
-        <li>빽빽한 INCI 목록을 해독하는 K-beauty와 J-beauty 팬</li>
+        <li>한국어와 일본어 라벨을 스캔하는 K-뷰티와 J-뷰티 팬</li>
         <li>가족의 피부에 닿는 것을 확인하는 부모</li>
       </ul>
     </article>

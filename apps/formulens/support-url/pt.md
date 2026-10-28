@@ -58,6 +58,18 @@ Sim. Adicione várias fotos do mesmo produto e o FormuLens lê cada uma e as com
 
 A interface do aplicativo está atualmente em inglês, com mais idiomas planejados. Este site de suporte está disponível em vários idiomas.
 
+### Posso escanear rótulos em outros idiomas?
+
+Sim. O FormuLens lê listas de ingredientes impressas em inglês, francês, coreano, japonês e chinês (simplificado e tradicional). Os nomes dos ingredientes são traduzidos para os nomes INCI em inglês, e o nome como está impresso no rótulo aparece ao lado. Se um nome coreano, japonês ou chinês ainda não tiver tradução conhecida, ele aparece como impresso, com a observação “Ainda não traduzido”.
+
+### O rótulo precisa estar reto na foto?
+
+Não. Rótulos fotografados na diagonal, de lado ou de cabeça para baixo são endireitados automaticamente antes da leitura. Mesmo assim, uma foto plana, bem iluminada e nítida dá os melhores resultados.
+
+### Como consulto um único ingrediente?
+
+Abra a aba **Ingredientes** e pesquise pelo nome INCI, francês, coreano, japonês ou chinês, ou por abreviações como AHA, BHA e PHA. Cada perfil mostra o que o ingrediente faz, em quais tipos de produto ele importa, observações sobre gravidez, interações conhecidas ao sobrepor produtos e links para saber mais.
+
 ## Entendendo seus resultados
 
 ### O FormuLens é aconselhamento médico?
@@ -91,7 +103,7 @@ Escolha **Verificar minha rotina** e adicione um produto por etapa na ordem em q
 
 ### Como salvo um escaneamento?
 
-Toque no botão salvar após analisar um produto e, em seguida, adicione um nome personalizado, tags e notas. Ele aparecerá na sua aba **Salvos** para acesso fácil mais tarde, onde você pode pesquisar e filtrar seus produtos salvos.
+Toque no botão de salvar depois de analisar um produto e adicione um nome personalizado, tags e notas. O FormuLens sugere um nome a partir da sua foto e guarda uma pequena miniatura dela. Seu produto aparece na aba **Salvos**, onde você pode pesquisar por nome, tag ou ingrediente e filtrar por tag.
 
 ## Solução de problemas
 
@@ -138,11 +150,11 @@ Nenhum. O FormuLens não tem contas, nem análises, nem rastreamento, nem public
 
 ### Como excluo meus dados salvos?
 
-Deslize para a esquerda em qualquer produto salvo para removê-lo. Para excluir todos os dados do aplicativo, basta desinstalar o FormuLens do seu dispositivo.
+Deslize para a esquerda em qualquer produto salvo para removê-lo, junto com a miniatura. Para apagar todos os dados do aplicativo, basta desinstalar o FormuLens do seu dispositivo.
 
 ### O que acontece se eu excluir o aplicativo?
 
-Desinstalar o FormuLens remove permanentemente todas as análises salvas do seu dispositivo. Como não há backup nem sincronização na nuvem, isso não pode ser desfeito.
+Desinstalar o FormuLens remove permanentemente do seu dispositivo todas as análises salvas e as miniaturas. Como não há backup nem sincronização na nuvem, isso não pode ser desfeito.
 
 ## Permissões
 
@@ -150,13 +162,13 @@ Desinstalar o FormuLens remove permanentemente todas as análises salvas do seu 
 
 Para que você possa fotografar listas de ingredientes diretamente. Essa permissão é opcional; você sempre pode escolher uma foto da sua galeria.
 
-### Por que o aplicativo pede acesso à biblioteca de fotos?
+### O FormuLens precisa de acesso à minha biblioteca de fotos?
 
-Para que você possa selecionar uma foto existente de uma lista de ingredientes. Isso é opcional; você pode usar a câmera.
+Não. Para usar uma foto existente de uma lista de ingredientes, o FormuLens abre o seletor de fotos padrão do iOS. Você escolhe as fotos que quer compartilhar e o aplicativo recebe apenas essas. Ele nunca vê o restante da sua biblioteca. Você também pode arrastar fotos para um produto.
 
 ### O FormuLens acessa minha localização, microfone ou contatos?
 
-Não. As únicas permissões que são solicitadas são câmera e biblioteca de fotos. Nada mais.
+Não. A única permissão que o FormuLens solicita é o acesso à câmera, e ela é opcional. Nada mais.
 
 ## Compatibilidade
 

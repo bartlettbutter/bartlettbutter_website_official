@@ -17,10 +17,11 @@ redirect_from:
 
 <!--gallery-->
 
-Os rótulos de ingredientes são escritos para químicos, não para você. O FormuLens os traduz. Aponte a câmera para qualquer produto e cada ingrediente é decifrado e organizado pelo que realmente faz. Sem digitar, sem pesquisar, sem precisar de um diploma em química.
+Os rótulos de ingredientes são escritos para químicos, não para você. O FormuLens os traduz. Aponte a câmera para qualquer produto e cada ingrediente é decifrado e organizado pelo que realmente faz. Sem digitar, sem pesquisar, sem precisar de um diploma em química. Ele até lê rótulos em coreano, japonês e chinês.
 
 <div class="marketing-chip-row" aria-label="FormuLens highlights">
   <span class="marketing-chip">Análise no dispositivo</span>
+  <span class="marketing-chip">Lê rótulos em coreano, japonês e chinês</span>
   <span class="marketing-chip">23 tipos de produtos</span>
   <span class="marketing-chip">3 modos de análise</span>
   <span class="marketing-chip">Sem necessidade de conta</span>
@@ -65,7 +66,26 @@ Os rótulos de ingredientes são escritos para químicos, não para você. O For
       <ul class="marketing-list">
         <li>Explicações focadas na função em vez de jargão de química</li>
         <li>Escaneamento codificado por cores para que a fórmula seja lida visualmente num relance</li>
+        <li>Rótulos fotografados em qualquer ângulo, até de lado ou de cabeça para baixo</li>
         <li>Links para bancos de dados confiáveis quando você quiser se aprofundar</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Leia rótulos em outros idiomas</h3>
+      <p>Escaneie rótulos em inglês, francês, coreano, japonês e chinês (simplificado e tradicional). Os nomes dos ingredientes são traduzidos para os nomes INCI em inglês, com o nome impresso exibido ao lado.</p>
+      <ul class="marketing-list">
+        <li>Feito para suas descobertas de K-beauty e J-beauty e compras de viagem</li>
+        <li>Veja o nome impresso ao lado do equivalente em inglês</li>
+        <li>A mesma análise por função, em qualquer idioma do rótulo</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Consulte qualquer ingrediente</h3>
+      <p>Pesquise mais de 1.000 ingredientes pelo nome INCI, francês, coreano, japonês ou chinês, ou por abreviações como AHA e BHA.</p>
+      <ul class="marketing-list">
+        <li>O que ele faz e onde mais importa</li>
+        <li>Observações sobre gravidez e interações conhecidas ao sobrepor produtos</li>
+        <li>Links para bancos de dados confiáveis para saber mais</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -92,6 +112,8 @@ Os rótulos de ingredientes são escritos para químicos, não para você. O For
       <ul class="marketing-list">
         <li>Melhor ordenação entre as etapas</li>
         <li>Verificações de conflito e redundância em uma única passagem</li>
+        <li>Um aviso quando alérgenos de fragrância se acumulam ao longo das etapas</li>
+        <li>Sugestões do que pode estar faltando na sua rotina</li>
         <li>Útil tanto para rotinas simples quanto para rotinas repletas de ingredientes</li>
       </ul>
     </article>
@@ -100,7 +122,7 @@ Os rótulos de ingredientes são escritos para químicos, não para você. O For
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="fl-modes-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Arquitetura do produto</p>
+    <p class="marketing-eyebrow">Três modos</p>
     <h2 id="fl-modes-title" class="marketing-section-title">Três formas de analisar, uma linguagem visual do início ao fim.</h2>
     <p class="marketing-section-intro">Cada fluxo responde a uma pergunta diferente, mas todos eles chegam ao mesmo sistema legível e conduzido por cores, para que o produto sempre pareça coerente.</p>
   </div>
@@ -134,7 +156,7 @@ Os rótulos de ingredientes são escritos para químicos, não para você. O For
 
 <section class="marketing-band" aria-labelledby="fl-flow-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Fluxo de introdução</p>
+    <p class="marketing-eyebrow">Como funciona</p>
     <h2 id="fl-flow-title" class="marketing-section-title">Do frasco ao veredito em cinco etapas simples.</h2>
   </div>
   <div class="marketing-step-grid">
@@ -148,7 +170,7 @@ Os rótulos de ingredientes são escritos para químicos, não para você. O For
     </article>
     <article class="marketing-step">
       <h3>Fotografe ou importe o rótulo</h3>
-      <p>Fotografe a lista de ingredientes ou escolha da sua galeria. Se o rótulo dá a volta no frasco, capture-o em vários quadros.</p>
+      <p>Fotografe a lista de ingredientes ou escolha da sua galeria. Se o rótulo dá a volta no frasco, capture-o em vários quadros. Rótulos fotografados em qualquer ângulo são endireitados automaticamente.</p>
     </article>
     <article class="marketing-step">
       <h3>Leia a análise codificada por cores</h3>
@@ -156,7 +178,7 @@ Os rótulos de ingredientes são escritos para químicos, não para você. O For
     </article>
     <article class="marketing-step">
       <h3>Salve o que importa</h3>
-      <p>Guarde a análise com um nome personalizado, notas e tags para que o trabalho seja reutilizável na próxima vez que você comprar ou reformular sua rotina.</p>
+      <p>Guarde a análise com um nome personalizado, notas e tags para que o trabalho seja reutilizável na próxima vez que você comprar ou reformular sua rotina. Uma pequena miniatura da foto também é mantida.</p>
     </article>
   </div>
 </section>
@@ -169,14 +191,14 @@ Os rótulos de ingredientes são escritos para químicos, não para você. O For
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Mantenha uma biblioteca de ingredientes pesquisável</h3>
-      <p>Salve qualquer análise com um nome personalizado, tags e notas, depois filtre mais tarde. É útil para lembrar o que funcionou, o que irritou sua pele e o que parecia semelhante, mas não era.</p>
+      <p>Salve qualquer análise com um nome personalizado, tags e notas, depois filtre mais tarde. É útil para lembrar o que funcionou, o que irritou sua pele e o que parecia semelhante, mas não era. Pesquise por nome, tag ou ingrediente.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Feito para consumidores atentos aos ingredientes</h3>
       <ul class="marketing-list">
         <li>Entusiastas de rotinas ajustando ativos e camadas</li>
         <li>Consumidores sensíveis atentos a fragrâncias ou gatilhos conhecidos</li>
-        <li>Fãs de K-beauty e J-beauty decifrando densas listas INCI</li>
+        <li>Fãs de K-beauty e J-beauty que escaneiam rótulos coreanos e japoneses</li>
         <li>Pais verificando o que passa na pele da família</li>
       </ul>
     </article>

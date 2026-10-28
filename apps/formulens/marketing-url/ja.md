@@ -17,10 +17,11 @@ redirect_from:
 
 <!--gallery-->
 
-成分表は化学者向けに書かれていて、あなた向けには書かれていません。FormuLensがそれを翻訳します。どんな製品にでもカメラを向ければ、各成分が解読され、実際の働きによって分類されます。入力なし、検索なし、化学の学位も不要。
+成分表は化学者向けに書かれていて、あなた向けには書かれていません。FormuLensがそれを翻訳します。どんな製品にでもカメラを向ければ、各成分が解読され、実際の働きによって分類されます。入力なし、検索なし、化学の学位も不要。韓国語・日本語・中国語のラベルにも対応しています。
 
 <div class="marketing-chip-row" aria-label="FormuLens highlights">
   <span class="marketing-chip">デバイス上で分析</span>
+  <span class="marketing-chip">韓国語・日本語・中国語のラベルを読み取り</span>
   <span class="marketing-chip">23の製品タイプ</span>
   <span class="marketing-chip">3つの分析モード</span>
   <span class="marketing-chip">アカウント不要</span>
@@ -65,7 +66,26 @@ redirect_from:
       <ul class="marketing-list">
         <li>化学の専門用語ではなく、機能を中心とした説明</li>
         <li>色分けされたスキャンで、処方が一目で視覚的に読み取れる</li>
+        <li>どの角度から撮影したラベルでも対応。横向きや逆さまでも読み取れます</li>
         <li>さらに深く知りたいときのための信頼できるデータベースへのリンク</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>他の言語のラベルも読み取り</h3>
+      <p>英語、フランス語、韓国語、日本語、中国語（簡体字・繁体字）のラベルをスキャンできます。成分名は英語のINCI名に翻訳され、印刷されている名前も並べて表示されます。</p>
+      <ul class="marketing-list">
+        <li>K-beautyやJ-beautyの掘り出し物や、旅行先での買い物にも</li>
+        <li>印刷された名前を英語の対応名と並べて確認</li>
+        <li>ラベルの言語に関係なく、同じ機能別の内訳を表示</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>どの成分もすばやく検索</h3>
+      <p>1,000種類以上の成分を、INCI名、フランス語・韓国語・日本語・中国語の名前、またはAHAやBHAなどの略称で検索できます。</p>
+      <ul class="marketing-list">
+        <li>どんな働きをするか、どこで特に重要か</li>
+        <li>妊娠中の注意点と、重ね使いで知られている相互作用</li>
+        <li>さらに詳しく知るための信頼できるデータベースへのリンク</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -92,6 +112,8 @@ redirect_from:
       <ul class="marketing-list">
         <li>ステップ間のより良い順序付け</li>
         <li>1回のスキャンで衝突と重複をチェック</li>
+        <li>香料アレルゲンが複数のステップで積み重なる場合のお知らせ</li>
+        <li>ルーティンに足りないかもしれないものの提案</li>
         <li>シンプルなルーティンにも成分が多いルーティンにも役立つ</li>
       </ul>
     </article>
@@ -100,7 +122,7 @@ redirect_from:
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="fl-modes-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">製品アーキテクチャ</p>
+    <p class="marketing-eyebrow">3つのモード</p>
     <h2 id="fl-modes-title" class="marketing-section-title">分析する3つの方法、全体を貫く1つのビジュアル言語。</h2>
     <p class="marketing-section-intro">それぞれのフローは異なる問いに答えますが、どれもが同じ読みやすく色で導かれるシステムに行き着くので、製品は常に一貫した印象を与えます。</p>
   </div>
@@ -134,7 +156,7 @@ redirect_from:
 
 <section class="marketing-band" aria-labelledby="fl-flow-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">オンボーディングフロー</p>
+    <p class="marketing-eyebrow">使い方</p>
     <h2 id="fl-flow-title" class="marketing-section-title">ボトルから判定まで、すっきりした5つのステップで。</h2>
   </div>
   <div class="marketing-step-grid">
@@ -148,7 +170,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>ラベルを撮影またはインポート</h3>
-      <p>成分表を撮影するか、ライブラリから取り込みます。ラベルがボトルを一周する場合は、複数のフレームに分けて撮影してください。</p>
+      <p>成分表を撮影するか、ライブラリから取り込みます。ラベルがボトルを一周する場合は、複数のフレームに分けて撮影してください。どの角度から撮影したラベルも、自動的に正しい向きに補正されます。</p>
     </article>
     <article class="marketing-step">
       <h3>色分けされた内訳を読む</h3>
@@ -156,7 +178,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>大事なものを保存</h3>
-      <p>カスタム名、メモ、タグを付けてスキャンを保存しておけば、次に買い物したりルーティンを組み直したりするときに再利用できます。</p>
+      <p>カスタム名、メモ、タグを付けてスキャンを保存しておけば、次に買い物したりルーティンを組み直したりするときに再利用できます。写真の小さなサムネイルも一緒に保存されます。</p>
     </article>
   </div>
 </section>
@@ -169,14 +191,14 @@ redirect_from:
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>検索できる成分ライブラリを持つ</h3>
-      <p>どの分析でもカスタム名、タグ、メモを付けて保存し、あとで絞り込めます。何が効いたか、何が肌を刺激したか、似ているようで違っていたものを思い出すのに役立ちます。</p>
+      <p>どの分析でもカスタム名、タグ、メモを付けて保存し、あとで絞り込めます。何が効いたか、何が肌を刺激したか、似ているようで違っていたものを思い出すのに役立ちます。名前、タグ、成分で検索できます。</p>
     </article>
     <article class="marketing-story-card">
       <h3>成分にこだわる買い物客のために</h3>
       <ul class="marketing-list">
         <li>有効成分や重ね付けを微調整するルーティン愛好家</li>
         <li>香料や既知の刺激物に気を配る敏感な買い物客</li>
-        <li>長いINCIリストを解読するK-beautyとJ-beautyのファン</li>
+        <li>韓国語や日本語のラベルをスキャンするK-beautyやJ-beautyのファン</li>
         <li>家族の肌に何が付くかを吟味する親</li>
       </ul>
     </article>

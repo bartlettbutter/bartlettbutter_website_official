@@ -58,6 +58,18 @@ Evet. Aynı ürünün birden fazla fotoğrafını ekleyin; FormuLens her birini 
 
 Uygulamanın arayüzü şu anda İngilizcedir ve daha fazla dil planlanmaktadır. Bu destek sitesi birkaç dilde mevcuttur.
 
+### Başka dillerdeki ürün etiketlerini tarayabilir miyim?
+
+Evet. FormuLens İngilizce, Fransızca, Korece, Japonca ve Çince (Basitleştirilmiş ve Geleneksel) basılmış içerik listelerini okur. İçerik adları İngilizce INCI adlarına çevrilir ve ürün etiketinde basılı olduğu şekliyle ad yanında gösterilir. Korece, Japonca veya Çince bir adın henüz bilinen bir çevirisi yoksa, basılı haliyle ve “Henüz çevrilmedi” notuyla görünür.
+
+### Ürün etiketinin fotoğrafta dik durması gerekir mi?
+
+Hayır. Eğik, yan veya baş aşağı çekilen ürün etiketleri okunmadan önce otomatik olarak dik hale getirilir. Yine de düz, iyi aydınlatılmış ve net bir fotoğraf en iyi sonucu verir.
+
+### Tek bir içeriği nasıl araştırırım?
+
+**İçerikler** sekmesini açın ve INCI, Fransızca, Korece, Japonca veya Çince adıyla ya da AHA, BHA ve PHA gibi kısaltmalarla arayın. Her profil içeriğin ne işe yaradığını, hangi ürün türlerinde önem taşıdığını, hamilelik notlarını, bilinen katmanlama etkileşimlerini ve daha fazlasını öğrenmek için bağlantıları gösterir.
+
 ## Sonuçlarınızı anlama
 
 ### FormuLens tıbbi tavsiye mi?
@@ -91,7 +103,7 @@ Evet. Herhangi bir bileşene dokunarak ne işe yaradığına dair sade bir açı
 
 ### Bir taramayı nasıl kaydederim?
 
-Bir ürünü analiz ettikten sonra kaydet düğmesine dokunun, ardından özel bir ad, etiketler ve notlar ekleyin. Daha sonra kolay erişim için **Kayıtlı** sekmenizde görünür; burada kayıtlı ürünlerinizi arayabilir ve filtreleyebilirsiniz.
+Bir ürünü analiz ettikten sonra kaydet düğmesine dokunun ve özel bir ad, etiketler ve notlar ekleyin. FormuLens fotoğrafınızdan bir ad önerir ve küçük bir önizlemesini saklar. Ürününüz, ada, etikete veya içeriğe göre arama yapabileceğiniz ve etikete göre filtreleyebileceğiniz **Kaydedilenler** sekmesinde görünür.
 
 ## Sorun giderme
 
@@ -138,11 +150,11 @@ Hiçbiri. FormuLens'te hesap, analiz, takip veya reklam yoktur. Ayrıntılar iç
 
 ### Kayıtlı verilerimi nasıl silerim?
 
-Herhangi bir kayıtlı ürünü kaldırmak için üzerinde sola kaydırın. Tüm uygulama verilerini silmek için FormuLens'i cihazınızdan kaldırmanız yeterlidir.
+Kaydedilmiş bir ürünü önizlemesiyle birlikte kaldırmak için sola kaydırın. Uygulamanın tüm verilerini silmek için FormuLens'i cihazınızdan kaldırmanız yeterlidir.
 
 ### Uygulamayı silersem ne olur?
 
-FormuLens'in kaldırılması, kayıtlı tüm analizleri cihazınızdan kalıcı olarak siler. Bulut yedeklemesi veya senkronizasyon olmadığından, bu işlem geri alınamaz.
+FormuLens'i kaldırmak, tüm kayıtlı analizleri ve önizlemeleri cihazınızdan kalıcı olarak siler. Bulut yedeği veya senkronizasyon olmadığından bu işlem geri alınamaz.
 
 ## İzinler
 
@@ -150,13 +162,13 @@ FormuLens'in kaldırılması, kayıtlı tüm analizleri cihazınızdan kalıcı 
 
 İçerik listelerinin doğrudan fotoğrafını çekebilmeniz için. Bu izin isteğe bağlıdır; bunun yerine her zaman galerinizden bir fotoğraf seçebilirsiniz.
 
-### Uygulama neden fotoğraf kitaplığı erişimi istiyor?
+### FormuLens'in fotoğraf kitaplığıma erişmesi gerekir mi?
 
-Bir içerik listesinin mevcut bir fotoğrafını seçebilmeniz için. Bu isteğe bağlıdır; bunun yerine kamerayı kullanabilirsiniz.
+Hayır. İçerik listesinin mevcut bir fotoğrafını kullanmak için FormuLens iOS'un standart fotoğraf seçicisini açar. Paylaşılacak fotoğrafları siz seçersiniz ve uygulama yalnızca onları alır. Kitaplığınızın geri kalanını asla görmez. Fotoğrafları bir ürünün üzerine sürükleyip bırakabilirsiniz de.
 
 ### FormuLens konumuma, mikrofonuma veya kişilerime erişiyor mu?
 
-Hayır. İstenen tek izinler kamera ve fotoğraf kitaplığıdır. Başka hiçbir şey.
+Hayır. FormuLens'in istediği tek izin kamera erişimidir ve o da isteğe bağlıdır. Başka hiçbir şey yok.
 
 ## Uyumluluk
 

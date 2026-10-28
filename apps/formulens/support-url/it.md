@@ -58,6 +58,18 @@ Sì. Aggiungi più foto dello stesso prodotto e FormuLens legge ciascuna e le un
 
 L'interfaccia dell'app è attualmente in inglese, con altre lingue in arrivo. Questo sito di supporto è disponibile in diverse lingue.
 
+### Posso scansionare etichette in altre lingue?
+
+Sì. FormuLens legge le liste degli ingredienti stampate in inglese, francese, coreano, giapponese e cinese (semplificato e tradizionale). I nomi degli ingredienti vengono tradotti nei corrispondenti nomi INCI in inglese e accanto viene mostrato il nome così come è stampato sull'etichetta. Se un nome coreano, giapponese o cinese non ha ancora una traduzione nota, compare come stampato con la nota «Non ancora tradotto».
+
+### L'etichetta deve essere dritta nella foto?
+
+No. Le etichette fotografate di sbieco, di lato o capovolte vengono raddrizzate automaticamente prima della lettura. Una foto piatta, ben illuminata e a fuoco dà comunque i risultati migliori.
+
+### Come cerco un singolo ingrediente?
+
+Apri la scheda **Ingredienti** e cerca per nome INCI, francese, coreano, giapponese o cinese, o con abbreviazioni come AHA, BHA e PHA. Ogni profilo mostra cosa fa l'ingrediente, per quali tipi di prodotto conta, note sulla gravidanza, interazioni note quando si sovrappongono i prodotti e link per saperne di più.
+
 ## Comprendere i tuoi risultati
 
 ### FormuLens è un parere medico?
@@ -91,7 +103,7 @@ Scegli **Controlla la mia routine** e aggiungi un prodotto per passaggio nell'or
 
 ### Come salvo una scansione?
 
-Tocca il pulsante di salvataggio dopo aver analizzato un prodotto, poi aggiungi un nome personalizzato, tag e note. Apparirà nella scheda **Salvati** per un accesso facile in seguito, dove puoi cercare e filtrare i tuoi prodotti salvati.
+Tocca il pulsante di salvataggio dopo aver analizzato un prodotto, poi aggiungi un nome personalizzato, tag e note. FormuLens suggerisce un nome dalla tua foto e ne conserva una piccola miniatura. Il prodotto compare nella scheda **Salvati**, dove puoi cercare per nome, tag o ingrediente e filtrare per tag.
 
 ## Risoluzione dei problemi
 
@@ -138,11 +150,11 @@ Nessuno. FormuLens non ha account, né analisi, né tracciamento, né pubblicit�
 
 ### Come elimino i miei dati salvati?
 
-Scorri verso sinistra su qualsiasi prodotto salvato per rimuoverlo. Per eliminare tutti i dati dell'app, basta disinstallare FormuLens dal dispositivo.
+Scorri verso sinistra su un prodotto salvato per rimuoverlo insieme alla sua miniatura. Per eliminare tutti i dati dell'app, disinstalla semplicemente FormuLens dal tuo dispositivo.
 
 ### Cosa succede se elimino l'app?
 
-La disinstallazione di FormuLens rimuove in modo permanente tutte le analisi salvate dal dispositivo. Poiché non esiste backup o sincronizzazione nel cloud, questa operazione non può essere annullata.
+Disinstallando FormuLens vengono rimossi definitivamente dal tuo dispositivo tutte le analisi salvate e le miniature. Poiché non esistono backup o sincronizzazione nel cloud, l'operazione non può essere annullata.
 
 ## Autorizzazioni
 
@@ -150,13 +162,13 @@ La disinstallazione di FormuLens rimuove in modo permanente tutte le analisi sal
 
 Così puoi fotografare direttamente le liste degli ingredienti. Questa autorizzazione è facoltativa: puoi sempre scegliere una foto dalla tua galleria.
 
-### Perché l'app chiede l'accesso alla libreria foto?
+### FormuLens ha bisogno di accedere alla mia libreria foto?
 
-Così puoi selezionare una foto esistente di una lista di ingredienti. È facoltativa: puoi usare la fotocamera.
+No. Per usare una foto esistente di una lista di ingredienti, FormuLens apre il selettore foto standard di iOS. Scegli tu le foto da condividere e l'app riceve solo quelle. Non vede mai il resto della tua libreria. Puoi anche trascinare le foto su un prodotto.
 
 ### FormuLens accede alla mia posizione, al microfono o ai contatti?
 
-No. Le uniche autorizzazioni mai richieste sono fotocamera e libreria foto. Nient'altro.
+No. L'unica autorizzazione che FormuLens richiede è l'accesso alla fotocamera, ed è facoltativa. Nient'altro.
 
 ## Compatibilità
 

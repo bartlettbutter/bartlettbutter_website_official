@@ -16,10 +16,11 @@ redirect_from:
 
 <!--gallery-->
 
-Ingredient labels are written for chemists, not for you. FormuLens translates them. Point your camera at any product, and every ingredient is decoded and sorted by what it actually does. No typing, no searching, no chemistry degree.
+Ingredient labels are written for chemists, not for you. FormuLens translates them. Point your camera at any product, and every ingredient is decoded and sorted by what it actually does. It even reads Korean, Japanese, and Chinese labels. No typing, no searching, no chemistry degree.
 
 <div class="marketing-chip-row" aria-label="FormuLens highlights">
   <span class="marketing-chip">On-device analysis</span>
+  <span class="marketing-chip">Reads Korean, Japanese &amp; Chinese labels</span>
   <span class="marketing-chip">23 product types</span>
   <span class="marketing-chip">3 analysis modes</span>
   <span class="marketing-chip">No account required</span>
@@ -64,7 +65,26 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
       <ul class="marketing-list">
         <li>Function-first explanations instead of chemistry jargon</li>
         <li>Color-coded scanning so the formula reads visually at a glance</li>
+        <li>Labels photographed at any angle, even sideways or upside down</li>
         <li>Trusted database links when you want to go deeper</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Read labels in other languages</h3>
+      <p>Scan English, French, Korean, Japanese, and Chinese (Simplified and Traditional) labels. Ingredient names are translated to their English INCI names, with the printed name shown alongside.</p>
+      <ul class="marketing-list">
+        <li>Made for K-beauty and J-beauty finds and travel hauls</li>
+        <li>See the name as printed next to its English equivalent</li>
+        <li>The same function breakdown, whatever language the label is in</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Look up any ingredient</h3>
+      <p>Search 1,000+ ingredients by INCI, French, Korean, Japanese, or Chinese name, or by shorthands like AHA and BHA.</p>
+      <ul class="marketing-list">
+        <li>What it does and where it matters most</li>
+        <li>Pregnancy notes and known layering interactions</li>
+        <li>Links to trusted databases to learn more</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -91,6 +111,8 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
       <ul class="marketing-list">
         <li>Better sequencing between steps</li>
         <li>Conflict and redundancy checks in one pass</li>
+        <li>A heads-up when fragrance allergens build up across steps</li>
+        <li>Suggestions for what your routine may be missing</li>
         <li>Useful for both simple and ingredient-heavy routines</li>
       </ul>
     </article>
@@ -99,7 +121,7 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="fl-modes-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Product architecture</p>
+    <p class="marketing-eyebrow">Three modes</p>
     <h2 id="fl-modes-title" class="marketing-section-title">Three ways to analyze, one visual language throughout.</h2>
     <p class="marketing-section-intro">Each flow answers a different question, but every one of them lands in the same readable, color-led system so the product always feels coherent.</p>
   </div>
@@ -133,7 +155,7 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
 
 <section class="marketing-band" aria-labelledby="fl-flow-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Onboarding flow</p>
+    <p class="marketing-eyebrow">How it works</p>
     <h2 id="fl-flow-title" class="marketing-section-title">From bottle to verdict in five clean steps.</h2>
   </div>
   <div class="marketing-step-grid">
@@ -147,7 +169,7 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
     </article>
     <article class="marketing-step">
       <h3>Snap or import the label</h3>
-      <p>Photograph the ingredient list or pull from your library. If the label wraps around the bottle, capture it across multiple frames.</p>
+      <p>Photograph the ingredient list at any angle or pull from your library. If the label wraps around the bottle, capture it across multiple frames.</p>
     </article>
     <article class="marketing-step">
       <h3>Read the color-coded breakdown</h3>
@@ -155,7 +177,7 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
     </article>
     <article class="marketing-step">
       <h3>Save what matters</h3>
-      <p>Keep the scan with a custom name, notes, and tags so the work is reusable the next time you shop or rebuild your routine.</p>
+      <p>Keep the scan with a photo, custom name, notes, and tags so the work is reusable the next time you shop or rebuild your routine.</p>
     </article>
   </div>
 </section>
@@ -168,14 +190,14 @@ Ingredient labels are written for chemists, not for you. FormuLens translates th
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Keep a searchable ingredient library</h3>
-      <p>Save any analysis with a custom name, tags, and notes, then filter later. It is useful for remembering what worked, what irritated your skin, and what looked similar but was not.</p>
+      <p>Save any analysis with a photo, custom name, tags, and notes, then search by name, tag, or ingredient later. It is useful for remembering what worked, what irritated your skin, and what looked similar but was not.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Made for ingredient-conscious shoppers</h3>
       <ul class="marketing-list">
         <li>Routine enthusiasts fine-tuning actives and layering</li>
         <li>Sensitive shoppers watching for fragrance or known triggers</li>
-        <li>K-beauty and J-beauty fans decoding dense INCI lists</li>
+        <li>K-beauty and J-beauty fans scanning Korean and Japanese labels</li>
         <li>Parents checking what goes on their family's skin</li>
       </ul>
     </article>

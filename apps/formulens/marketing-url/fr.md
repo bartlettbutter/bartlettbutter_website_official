@@ -17,10 +17,11 @@ redirect_from:
 
 <!--gallery-->
 
-Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. FormuLens les traduit. Pointez votre appareil photo vers n'importe quel produit, et chaque ingrédient est décodé et classé selon ce qu'il fait réellement. Sans saisie, sans recherche, sans diplôme de chimie.
+Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. FormuLens les traduit. Pointez votre appareil photo vers n'importe quel produit, et chaque ingrédient est décodé et classé selon ce qu'il fait réellement. Sans saisie, sans recherche, sans diplôme de chimie. Elle lit même les étiquettes en coréen, en japonais et en chinois.
 
 <div class="marketing-chip-row" aria-label="FormuLens highlights">
   <span class="marketing-chip">Analyse sur l'appareil</span>
+  <span class="marketing-chip">Lit les étiquettes coréennes, japonaises et chinoises</span>
   <span class="marketing-chip">23 types de produits</span>
   <span class="marketing-chip">3 modes d'analyse</span>
   <span class="marketing-chip">Aucun compte requis</span>
@@ -65,7 +66,26 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
       <ul class="marketing-list">
         <li>Des explications axées sur la fonction plutôt que le jargon chimique</li>
         <li>Un scan codé par couleurs pour lire la formule d'un coup d'œil</li>
+        <li>Étiquettes photographiées sous n'importe quel angle, même de côté ou à l'envers</li>
         <li>Des liens vers des bases de données fiables quand vous voulez aller plus loin</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Lisez les étiquettes dans d'autres langues</h3>
+      <p>Scannez des étiquettes en anglais, en français, en coréen, en japonais et en chinois (simplifié et traditionnel). Les noms d'ingrédients sont traduits en noms INCI anglais, avec le nom imprimé affiché à côté.</p>
+      <ul class="marketing-list">
+        <li>Pensé pour vos trouvailles K-beauty et J-beauty et vos achats de voyage</li>
+        <li>Le nom imprimé s'affiche à côté de son équivalent anglais</li>
+        <li>La même répartition par fonction, quelle que soit la langue de l'étiquette</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Recherchez n'importe quel ingrédient</h3>
+      <p>Parmi plus de 1 000 ingrédients, recherchez par nom INCI, français, coréen, japonais ou chinois, ou par abréviation comme AHA et BHA.</p>
+      <ul class="marketing-list">
+        <li>Ce qu'il fait et où il compte le plus</li>
+        <li>Notes sur la grossesse et interactions connues lors de la superposition</li>
+        <li>Liens vers des bases de données fiables pour en savoir plus</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -92,6 +112,8 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
       <ul class="marketing-list">
         <li>Un meilleur enchaînement entre les étapes</li>
         <li>Contrôle des conflits et des redondances en une seule passe</li>
+        <li>Une alerte quand les allergènes de parfum s'accumulent d'une étape à l'autre</li>
+        <li>Des suggestions sur ce qui peut manquer à votre routine</li>
         <li>Utile pour les routines simples comme pour celles riches en ingrédients</li>
       </ul>
     </article>
@@ -100,7 +122,7 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="fl-modes-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Architecture du produit</p>
+    <p class="marketing-eyebrow">Trois modes</p>
     <h2 id="fl-modes-title" class="marketing-section-title">Trois façons d'analyser, un seul langage visuel du début à la fin.</h2>
     <p class="marketing-section-intro">Chaque flux répond à une question différente, mais tous aboutissent au même système lisible, guidé par les couleurs, pour que le produit reste toujours cohérent.</p>
   </div>
@@ -134,7 +156,7 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
 
 <section class="marketing-band" aria-labelledby="fl-flow-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Parcours d'intégration</p>
+    <p class="marketing-eyebrow">Comment ça marche</p>
     <h2 id="fl-flow-title" class="marketing-section-title">Du flacon au verdict en cinq étapes claires.</h2>
   </div>
   <div class="marketing-step-grid">
@@ -148,7 +170,7 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
     </article>
     <article class="marketing-step">
       <h3>Photographiez ou importez l'étiquette</h3>
-      <p>Photographiez la liste d'ingrédients ou choisissez une image dans votre galerie. Si l'étiquette fait le tour du flacon, capturez-la en plusieurs photos.</p>
+      <p>Photographiez la liste d'ingrédients ou choisissez une image dans votre galerie. Si l'étiquette fait le tour du flacon, capturez-la en plusieurs photos. Les étiquettes photographiées sous n'importe quel angle sont redressées automatiquement.</p>
     </article>
     <article class="marketing-step">
       <h3>Lisez l'analyse codée par couleurs</h3>
@@ -156,7 +178,7 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
     </article>
     <article class="marketing-step">
       <h3>Enregistrez l'essentiel</h3>
-      <p>Conservez le scan avec un nom personnalisé, des notes et des étiquettes pour réutiliser le travail la prochaine fois que vous ferez des achats ou refondrez votre routine.</p>
+      <p>Conservez le scan avec un nom personnalisé, des notes et des étiquettes pour réutiliser le travail la prochaine fois que vous ferez des achats ou refondrez votre routine. Une petite miniature de la photo est également conservée.</p>
     </article>
   </div>
 </section>
@@ -169,14 +191,14 @@ Les étiquettes d'ingrédients sont écrites pour des chimistes, pas pour vous. 
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Gardez une bibliothèque d'ingrédients consultable</h3>
-      <p>Enregistrez n'importe quelle analyse avec un nom personnalisé, des étiquettes et des notes, puis filtrez plus tard. C'est utile pour se souvenir de ce qui a fonctionné, de ce qui a irrité votre peau, et de ce qui semblait similaire mais ne l'était pas.</p>
+      <p>Enregistrez n'importe quelle analyse avec un nom personnalisé, des étiquettes et des notes, puis filtrez plus tard. C'est utile pour se souvenir de ce qui a fonctionné, de ce qui a irrité votre peau, et de ce qui semblait similaire mais ne l'était pas. Recherchez par nom, étiquette ou ingrédient.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Pensé pour les acheteurs soucieux des ingrédients</h3>
       <ul class="marketing-list">
         <li>Les passionnés de routine qui peaufinent actifs et superpositions</li>
         <li>Les acheteurs sensibles qui surveillent les parfums ou les déclencheurs connus</li>
-        <li>Les fans de K-beauty et de J-beauty qui déchiffrent de longues listes INCI</li>
+        <li>Fans de K-beauty et de J-beauty qui scannent des étiquettes coréennes et japonaises</li>
         <li>Les parents qui vérifient ce qu'ils appliquent sur la peau de leur famille</li>
       </ul>
     </article>

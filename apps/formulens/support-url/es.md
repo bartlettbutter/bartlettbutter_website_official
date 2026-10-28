@@ -58,6 +58,18 @@ Sí. Añade varias fotos del mismo producto y FormuLens lee cada una y las combi
 
 La interfaz de la aplicación está actualmente en inglés, y hay más idiomas previstos. Este sitio de soporte está disponible en varios idiomas.
 
+### ¿Puedo escanear etiquetas en otros idiomas?
+
+Sí. FormuLens lee listas de ingredientes impresas en inglés, francés, coreano, japonés y chino (simplificado y tradicional). Los nombres de los ingredientes se traducen a sus nombres INCI en inglés y se muestra al lado el nombre tal como está impreso en la etiqueta. Si un nombre coreano, japonés o chino aún no tiene una traducción conocida, aparece tal como está impreso con la nota «Aún sin traducir».
+
+### ¿La etiqueta tiene que estar derecha en la foto?
+
+No. Las etiquetas fotografiadas en ángulo, de lado o al revés se enderezan automáticamente antes de leerlas. Aun así, una foto plana, bien iluminada y enfocada da los mejores resultados.
+
+### ¿Cómo consulto un solo ingrediente?
+
+Abre la pestaña **Ingredientes** y busca por nombre INCI, francés, coreano, japonés o chino, o por abreviaturas como AHA, BHA y PHA. Cada perfil muestra qué hace el ingrediente, en qué tipos de producto importa, notas sobre el embarazo, interacciones conocidas al combinar productos y enlaces para saber más.
+
 ## Entendiendo tus Resultados
 
 ### ¿FormuLens es asesoramiento médico?
@@ -91,7 +103,7 @@ Elige **Revisar mi rutina** y añade un producto por paso en el orden en que los
 
 ### ¿Cómo guardo un escaneo?
 
-Toca el botón de guardar después de analizar un producto, luego añade un nombre personalizado, etiquetas y notas. Aparecerá en tu pestaña **Guardados** para acceder fácilmente más tarde, donde puedes buscar y filtrar tus productos guardados.
+Toca el botón de guardar después de analizar un producto y añade un nombre personalizado, etiquetas y notas. FormuLens sugiere un nombre a partir de tu foto y conserva una pequeña miniatura de ella. El producto aparecerá en la pestaña **Guardados**, donde puedes buscar por nombre, etiqueta o ingrediente y filtrar por etiqueta.
 
 ## Solución de Problemas
 
@@ -138,11 +150,11 @@ Ninguno. FormuLens no tiene cuentas, ni analíticas, ni rastreo, ni publicidad. 
 
 ### ¿Cómo elimino mis datos guardados?
 
-Desliza a la izquierda sobre cualquier producto guardado para eliminarlo. Para borrar todos los datos de la aplicación, simplemente desinstala FormuLens de tu dispositivo.
+Desliza a la izquierda cualquier producto guardado para eliminarlo junto con su miniatura. Para borrar todos los datos de la app, simplemente desinstala FormuLens de tu dispositivo.
 
 ### ¿Qué ocurre si elimino la aplicación?
 
-Desinstalar FormuLens elimina permanentemente todos los análisis guardados de tu dispositivo. Como no hay copia de seguridad ni sincronización en la nube, esto no se puede deshacer.
+Al desinstalar FormuLens se eliminan de forma permanente todos los análisis guardados y las miniaturas de tu dispositivo. Como no hay copia de seguridad en la nube ni sincronización, no se puede deshacer.
 
 ## Permisos
 
@@ -150,13 +162,13 @@ Desinstalar FormuLens elimina permanentemente todos los análisis guardados de t
 
 Para que puedas fotografiar listas de ingredientes directamente. Este permiso es opcional: siempre puedes elegir una foto de tu galería en su lugar.
 
-### ¿Por qué la aplicación pide acceso a la biblioteca de fotos?
+### ¿FormuLens necesita acceso a mi biblioteca de fotos?
 
-Para que puedas seleccionar una foto existente de una lista de ingredientes. Esto es opcional: puedes usar la cámara en su lugar.
+No. Para usar una foto existente de una lista de ingredientes, FormuLens abre el selector de fotos estándar de iOS. Tú eliges las fotos que quieres compartir y la app recibe solo esas. Nunca ve el resto de tu biblioteca. También puedes arrastrar fotos sobre un producto.
 
 ### ¿FormuLens accede a mi ubicación, micrófono o contactos?
 
-No. Los únicos permisos que se solicitan son cámara y biblioteca de fotos. Nada más.
+No. El único permiso que FormuLens solicita es el acceso a la cámara, y es opcional. Nada más.
 
 ## Compatibilidad
 

@@ -17,10 +17,11 @@ redirect_from:
 
 <!--gallery-->
 
-Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens übersetzt sie. Richte deine Kamera auf ein beliebiges Produkt, und jeder Inhaltsstoff wird entschlüsselt und danach sortiert, was er tatsächlich bewirkt. Ohne Tippen, ohne Suchen, ohne Chemiestudium.
+Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens übersetzt sie. Richte deine Kamera auf ein beliebiges Produkt, und jeder Inhaltsstoff wird entschlüsselt und danach sortiert, was er tatsächlich bewirkt. Ohne Tippen, ohne Suchen, ohne Chemiestudium. Sogar koreanische, japanische und chinesische Etiketten liest die App.
 
 <div class="marketing-chip-row" aria-label="FormuLens highlights">
   <span class="marketing-chip">Analyse auf dem Gerät</span>
+  <span class="marketing-chip">Liest koreanische, japanische &amp; chinesische Etiketten</span>
   <span class="marketing-chip">23 Produkttypen</span>
   <span class="marketing-chip">3 Analysemodi</span>
   <span class="marketing-chip">Kein Konto erforderlich</span>
@@ -65,7 +66,26 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
       <ul class="marketing-list">
         <li>Funktionsorientierte Erklärungen statt Chemie-Fachjargon</li>
         <li>Farblich sortiertes Scannen, damit sich die Rezeptur auf einen Blick visuell erschließt</li>
+        <li>Etiketten, die in jedem Winkel fotografiert wurden, auch seitlich oder auf dem Kopf</li>
         <li>Links zu vertrauenswürdigen Datenbanken, wenn du tiefer eintauchen willst</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Etiketten in anderen Sprachen lesen</h3>
+      <p>Scanne Etiketten auf Englisch, Französisch, Koreanisch, Japanisch und Chinesisch (vereinfacht und traditionell). Die Namen der Inhaltsstoffe werden in ihre englischen INCI-Namen übersetzt, der aufgedruckte Name steht daneben.</p>
+      <ul class="marketing-list">
+        <li>Gemacht für K-Beauty- und J-Beauty-Funde und Mitbringsel von Reisen</li>
+        <li>Der aufgedruckte Name steht neben seinem englischen Pendant</li>
+        <li>Dieselbe Aufschlüsselung nach Funktion, egal in welcher Sprache das Etikett gedruckt ist</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Jeden Inhaltsstoff nachschlagen</h3>
+      <p>Durchsuche über 1.000 Inhaltsstoffe nach INCI-, französischem, koreanischem, japanischem oder chinesischem Namen oder nach Kürzeln wie AHA und BHA.</p>
+      <ul class="marketing-list">
+        <li>Was er bewirkt und wo er besonders wichtig ist</li>
+        <li>Hinweise zur Schwangerschaft und bekannte Wechselwirkungen beim Schichten</li>
+        <li>Links zu vertrauenswürdigen Datenbanken zum Weiterlesen</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -92,6 +112,8 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
       <ul class="marketing-list">
         <li>Bessere Reihenfolge zwischen den Schritten</li>
         <li>Konflikt- und Redundanzprüfungen in einem Durchgang</li>
+        <li>Ein Hinweis, wenn sich Duftstoff-Allergene über mehrere Schritte hinweg summieren</li>
+        <li>Vorschläge, was deiner Routine noch fehlen könnte</li>
         <li>Nützlich für einfache und inhaltsstoffreiche Routinen gleichermaßen</li>
       </ul>
     </article>
@@ -100,7 +122,7 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="fl-modes-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Produktarchitektur</p>
+    <p class="marketing-eyebrow">Drei Modi</p>
     <h2 id="fl-modes-title" class="marketing-section-title">Drei Wege zur Analyse, eine durchgängige visuelle Sprache.</h2>
     <p class="marketing-section-intro">Jeder Ablauf beantwortet eine andere Frage, aber alle münden in dasselbe gut lesbare, farbgeführte System, damit sich das Produkt stets stimmig anfühlt.</p>
   </div>
@@ -134,7 +156,7 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
 
 <section class="marketing-band" aria-labelledby="fl-flow-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Einführungsablauf</p>
+    <p class="marketing-eyebrow">So funktioniert es</p>
     <h2 id="fl-flow-title" class="marketing-section-title">Von der Flasche zum Urteil in fünf klaren Schritten.</h2>
   </div>
   <div class="marketing-step-grid">
@@ -148,7 +170,7 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
     </article>
     <article class="marketing-step">
       <h3>Fotografiere oder importiere die Liste</h3>
-      <p>Fotografiere die Inhaltsstoffliste oder wähle sie aus deiner Mediathek. Wenn die Liste um die Flasche herum verläuft, erfasse sie über mehrere Aufnahmen.</p>
+      <p>Fotografiere die Inhaltsstoffliste oder wähle sie aus deiner Mediathek. Wenn die Liste um die Flasche herum verläuft, erfasse sie über mehrere Aufnahmen. Etiketten in jedem Winkel werden automatisch aufgerichtet.</p>
     </article>
     <article class="marketing-step">
       <h3>Lies die farblich sortierte Aufschlüsselung</h3>
@@ -156,7 +178,7 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
     </article>
     <article class="marketing-step">
       <h3>Speichere, was zählt</h3>
-      <p>Behalte den Scan mit einem eigenen Namen, Notizen und Tags, damit die Arbeit beim nächsten Einkauf oder Umbau deiner Routine wiederverwendbar ist.</p>
+      <p>Behalte den Scan mit einem eigenen Namen, Notizen und Tags, damit die Arbeit beim nächsten Einkauf oder Umbau deiner Routine wiederverwendbar ist. Dazu wird ein kleines Vorschaubild des Fotos gespeichert.</p>
     </article>
   </div>
 </section>
@@ -169,14 +191,14 @@ Inhaltsstofflisten sind für Chemiker geschrieben, nicht für dich. FormuLens ü
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Führe eine durchsuchbare Inhaltsstoff-Bibliothek</h3>
-      <p>Speichere jede Analyse mit einem eigenen Namen, Tags und Notizen und filtere sie später. Nützlich, um sich zu merken, was gewirkt hat, was deine Haut gereizt hat und was ähnlich aussah, es aber nicht war.</p>
+      <p>Speichere jede Analyse mit einem eigenen Namen, Tags und Notizen und filtere sie später. Nützlich, um sich zu merken, was gewirkt hat, was deine Haut gereizt hat und was ähnlich aussah, es aber nicht war. Suche nach Name, Tag oder Inhaltsstoff.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Gemacht für alle, die auf Inhaltsstoffe achten</h3>
       <ul class="marketing-list">
         <li>Routine-Enthusiasten, die Wirkstoffe und Auftragsreihenfolge feinabstimmen</li>
         <li>Empfindliche Käufer, die auf Duftstoffe oder bekannte Auslöser achten</li>
-        <li>K-Beauty- und J-Beauty-Fans, die dichte INCI-Listen entschlüsseln</li>
+        <li>K-Beauty- und J-Beauty-Fans, die koreanische und japanische Etiketten scannen</li>
         <li>Eltern, die prüfen, was auf die Haut ihrer Familie kommt</li>
       </ul>
     </article>

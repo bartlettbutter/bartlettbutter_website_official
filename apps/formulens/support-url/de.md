@@ -58,6 +58,18 @@ Ja. Füge mehrere Fotos desselben Produkts hinzu, und FormuLens liest jedes einz
 
 Die Benutzeroberfläche der App ist derzeit auf Englisch, weitere Sprachen sind geplant. Diese Support-Seite ist in mehreren Sprachen verfügbar.
 
+### Kann ich Etiketten in anderen Sprachen scannen?
+
+Ja. FormuLens liest Inhaltsstofflisten, die auf Englisch, Französisch, Koreanisch, Japanisch und Chinesisch (vereinfacht und traditionell) gedruckt sind. Die Namen der Inhaltsstoffe werden in ihre englischen INCI-Namen übersetzt, und der auf dem Etikett aufgedruckte Name wird daneben angezeigt. Hat ein koreanischer, japanischer oder chinesischer Name noch keine bekannte Übersetzung, erscheint er wie aufgedruckt mit dem Hinweis „Noch nicht übersetzt“.
+
+### Muss das Etikett auf dem Foto gerade stehen?
+
+Nein. Etiketten, die schräg, seitlich oder auf dem Kopf fotografiert wurden, werden vor dem Lesen automatisch aufgerichtet. Ein flaches, gut beleuchtetes und scharfes Foto liefert trotzdem die besten Ergebnisse.
+
+### Wie schlage ich einen einzelnen Inhaltsstoff nach?
+
+Öffne den Tab **Inhaltsstoffe** und suche nach dem INCI-Namen, dem französischen, koreanischen, japanischen oder chinesischen Namen oder nach Kürzeln wie AHA, BHA und PHA. Jedes Profil zeigt, was der Inhaltsstoff bewirkt, für welche Produkttypen er wichtig ist, Hinweise zur Schwangerschaft, bekannte Wechselwirkungen beim Schichten und Links zum Weiterlesen.
+
 ## Deine Ergebnisse verstehen
 
 ### Ist FormuLens eine medizinische Beratung?
@@ -91,7 +103,7 @@ Wähle **Meine Routine prüfen** und füge ein Produkt pro Schritt in der Reihen
 
 ### Wie speichere ich einen Scan?
 
-Tippe nach dem Analysieren eines Produkts auf die Speichern-Schaltfläche und füge dann einen eigenen Namen, Tags und Notizen hinzu. Der Scan erscheint in deinem Tab **Gespeichert**, wo du deine gespeicherten Produkte für den späteren Zugriff durchsuchen und filtern kannst.
+Tippe nach der Analyse eines Produkts auf die Speichern-Taste und füge einen eigenen Namen, Tags und Notizen hinzu. FormuLens schlägt anhand deines Fotos einen Namen vor und speichert ein kleines Vorschaubild davon. Dein Produkt erscheint im Tab **Gespeichert**, wo du nach Name, Tag oder Inhaltsstoff suchen und nach Tags filtern kannst.
 
 ## Fehlerbehebung
 
@@ -138,11 +150,11 @@ Keine. FormuLens hat keine Konten, keine Analyse, kein Tracking und keine Werbun
 
 ### Wie lösche ich meine gespeicherten Daten?
 
-Wische bei einem beliebigen gespeicherten Produkt nach links, um es zu entfernen. Um alle App-Daten zu löschen, deinstalliere einfach FormuLens von deinem Gerät.
+Wische bei einem gespeicherten Produkt nach links, um es samt Vorschaubild zu entfernen. Um alle App-Daten zu löschen, deinstalliere FormuLens einfach von deinem Gerät.
 
 ### Was passiert, wenn ich die App lösche?
 
-Das Deinstallieren von FormuLens entfernt alle gespeicherten Analysen endgültig von deinem Gerät. Da es keine Cloud-Sicherung oder Synchronisierung gibt, kann dies nicht rückgängig gemacht werden.
+Beim Deinstallieren von FormuLens werden alle gespeicherten Analysen und Vorschaubilder dauerhaft von deinem Gerät entfernt. Da es keine Cloud-Sicherung und keine Synchronisierung gibt, lässt sich das nicht rückgängig machen.
 
 ## Berechtigungen
 
@@ -150,13 +162,13 @@ Das Deinstallieren von FormuLens entfernt alle gespeicherten Analysen endgültig
 
 Damit du Inhaltsstofflisten direkt fotografieren kannst. Diese Berechtigung ist optional; du kannst stattdessen jederzeit ein Foto aus deiner Mediathek wählen.
 
-### Warum fragt die App nach Zugriff auf die Fotomediathek?
+### Braucht FormuLens Zugriff auf meine Fotomediathek?
 
-Damit du ein vorhandenes Foto einer Inhaltsstoffliste auswählen kannst. Dies ist optional; du kannst stattdessen die Kamera verwenden.
+Nein. Um ein vorhandenes Foto einer Inhaltsstoffliste zu verwenden, öffnet FormuLens die Standard-Fotoauswahl von iOS. Du wählst die Fotos aus, die geteilt werden, und die App erhält nur diese. Den Rest deiner Mediathek sieht sie nie. Du kannst Fotos auch auf ein Produkt ziehen.
 
 ### Greift FormuLens auf meinen Standort, mein Mikrofon oder meine Kontakte zu?
 
-Nein. Die einzigen jemals angeforderten Berechtigungen sind Kamera und Fotomediathek. Sonst nichts.
+Nein. Die einzige Berechtigung, die FormuLens jemals anfordert, ist der Kamerazugriff, und der ist optional. Sonst nichts.
 
 ## Kompatibilität
 

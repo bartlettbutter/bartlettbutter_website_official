@@ -17,10 +17,11 @@ redirect_from:
 
 <!--gallery-->
 
-Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens le traduce. Punta la fotocamera su qualsiasi prodotto e ogni ingrediente viene decodificato e ordinato in base a cosa fa davvero. Senza digitare, senza cercare, senza una laurea in chimica.
+Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens le traduce. Punta la fotocamera su qualsiasi prodotto e ogni ingrediente viene decodificato e ordinato in base a cosa fa davvero. Senza digitare, senza cercare, senza una laurea in chimica. Legge perfino le etichette coreane, giapponesi e cinesi.
 
 <div class="marketing-chip-row" aria-label="FormuLens highlights">
   <span class="marketing-chip">Analisi sul dispositivo</span>
+  <span class="marketing-chip">Legge etichette coreane, giapponesi e cinesi</span>
   <span class="marketing-chip">23 tipi di prodotto</span>
   <span class="marketing-chip">3 modalità di analisi</span>
   <span class="marketing-chip">Nessun account richiesto</span>
@@ -65,7 +66,26 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
       <ul class="marketing-list">
         <li>Spiegazioni basate sulla funzione anziché sul gergo della chimica</li>
         <li>Scansione a colori così la formula si legge visivamente a colpo d'occhio</li>
+        <li>Etichette fotografate da qualsiasi angolazione, anche di lato o capovolte</li>
         <li>Link a database affidabili quando vuoi approfondire</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Leggi etichette in altre lingue</h3>
+      <p>Scansiona etichette in inglese, francese, coreano, giapponese e cinese (semplificato e tradizionale). I nomi degli ingredienti vengono tradotti nei corrispondenti nomi INCI in inglese, con il nome stampato mostrato accanto.</p>
+      <ul class="marketing-list">
+        <li>Pensata per le tue scoperte K-beauty e J-beauty e per gli acquisti in viaggio</li>
+        <li>Vedi il nome stampato accanto al suo equivalente inglese</li>
+        <li>La stessa suddivisione per funzione, in qualunque lingua sia l'etichetta</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Cerca qualsiasi ingrediente</h3>
+      <p>Cerca tra oltre 1.000 ingredienti per nome INCI, francese, coreano, giapponese o cinese, o con abbreviazioni come AHA e BHA.</p>
+      <ul class="marketing-list">
+        <li>Cosa fa e dove conta di più</li>
+        <li>Note sulla gravidanza e interazioni note quando si sovrappongono i prodotti</li>
+        <li>Link a database affidabili per saperne di più</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -92,6 +112,8 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
       <ul class="marketing-list">
         <li>Un ordine migliore tra i passaggi</li>
         <li>Controlli sui conflitti e sulle ridondanze in un solo passaggio</li>
+        <li>Un avviso quando gli allergeni dei profumi si accumulano nei vari passaggi</li>
+        <li>Suggerimenti su cosa potrebbe mancare alla tua routine</li>
         <li>Utile sia per routine semplici sia per quelle ricche di ingredienti</li>
       </ul>
     </article>
@@ -100,7 +122,7 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="fl-modes-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Architettura del prodotto</p>
+    <p class="marketing-eyebrow">Tre modalità</p>
     <h2 id="fl-modes-title" class="marketing-section-title">Tre modi di analizzare, un unico linguaggio visivo ovunque.</h2>
     <p class="marketing-section-intro">Ogni flusso risponde a una domanda diversa, ma tutti approdano allo stesso sistema leggibile e guidato dal colore, così il prodotto risulta sempre coerente.</p>
   </div>
@@ -134,7 +156,7 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
 
 <section class="marketing-band" aria-labelledby="fl-flow-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Flusso di avvio</p>
+    <p class="marketing-eyebrow">Come funziona</p>
     <h2 id="fl-flow-title" class="marketing-section-title">Dalla boccetta al verdetto in cinque passaggi essenziali.</h2>
   </div>
   <div class="marketing-step-grid">
@@ -148,7 +170,7 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
     </article>
     <article class="marketing-step">
       <h3>Scatta o importa l'etichetta</h3>
-      <p>Fotografa la lista degli ingredienti o scegli dalla tua galleria. Se l'etichetta gira attorno alla boccetta, catturala in più foto.</p>
+      <p>Fotografa la lista degli ingredienti o scegli dalla tua galleria. Se l'etichetta gira attorno alla boccetta, catturala in più foto. Le etichette fotografate da qualsiasi angolazione vengono raddrizzate automaticamente.</p>
     </article>
     <article class="marketing-step">
       <h3>Leggi l'analisi a colori</h3>
@@ -156,7 +178,7 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
     </article>
     <article class="marketing-step">
       <h3>Salva ciò che conta</h3>
-      <p>Conserva la scansione con un nome personalizzato, note e tag così il lavoro è riutilizzabile la prossima volta che fai acquisti o ricostruisci la tua routine.</p>
+      <p>Conserva la scansione con un nome personalizzato, note e tag così il lavoro è riutilizzabile la prossima volta che fai acquisti o ricostruisci la tua routine. Viene conservata anche una piccola miniatura della foto.</p>
     </article>
   </div>
 </section>
@@ -169,14 +191,14 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Conserva una libreria di ingredienti consultabile</h3>
-      <p>Salva qualsiasi analisi con un nome personalizzato, tag e note, poi filtra in seguito. È utile per ricordare cosa ha funzionato, cosa ha irritato la tua pelle e cosa sembrava simile ma non lo era.</p>
+      <p>Salva qualsiasi analisi con un nome personalizzato, tag e note, poi filtra in seguito. È utile per ricordare cosa ha funzionato, cosa ha irritato la tua pelle e cosa sembrava simile ma non lo era. Cerca per nome, tag o ingrediente.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Pensato per chi presta attenzione agli ingredienti</h3>
       <ul class="marketing-list">
         <li>Appassionati di routine che perfezionano attivi e applicazione</li>
         <li>Acquirenti sensibili che tengono d'occhio fragranze o trigger noti</li>
-        <li>Fan della K-beauty e della J-beauty che decifrano dense liste INCI</li>
+        <li>Appassionati di K-beauty e J-beauty che scansionano etichette coreane e giapponesi</li>
         <li>Genitori che controllano cosa finisce sulla pelle della propria famiglia</li>
       </ul>
     </article>

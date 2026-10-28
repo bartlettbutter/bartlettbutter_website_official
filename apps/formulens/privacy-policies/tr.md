@@ -10,7 +10,7 @@ redirect_from:
   - /privacy-policies/formulalens/tr/
 ---
 
-**Yürürlük Tarihi:** 8 Temmuz 2026
+**Yürürlük Tarihi:** 28 Ekim 2026
 
 FormuLens, kozmetik içerik listelerini doğrudan cihazınızda tarayıp sınıflandırarak bunları anlamanıza yardımcı olur. Onu gizlilik önceliğiyle geliştirdik: verilerinize ihtiyacımız olmadığı için onları toplamıyoruz.
 
@@ -32,11 +32,11 @@ FormuLens, kozmetik içerik listelerini doğrudan cihazınızda tarayıp sınıf
 
 ## Fotoğraflarınız Nasıl Kullanılır
 
-FormuLens'in içerik listelerini okuyabilmesi için kamera veya fotoğraf kitaplığı erişimi verirsiniz. Bu fotoğraflara ne olduğu şöyle:
+FormuLens'in içerik listelerini okuyabilmesi için kamera erişimine izin verebilir veya iOS'un standart fotoğraf seçicisiyle fotoğraf seçebilirsiniz. Bu fotoğraflara ne olduğu şöyle:
 
-- Fotoğraflar, Apple'ın yerleşik metin tanıma teknolojisi kullanılarak **tamamen cihazınızda** işlenir.
+- Fotoğraflar, Apple'ın yerleşik metin tanıma teknolojisi kullanılarak **tamamen cihazınızda** işlenir. Bu, İngilizce, Fransızca, Korece, Japonca ve Çince ürün etiketleri için de geçerlidir.
 - Fotoğraflar, bizim ya da başkasının olsun, hiçbir sunucuya **asla yüklenmez**.
-- Fotoğraflar, aktif analiz oturumunun ötesinde uygulama tarafından **saklanmaz** (bir sonucu açıkça kaydetmediğiniz sürece).
+- Fotoğraflar, aktif analiz oturumunun ötesinde uygulama tarafından **saklanmaz** (bir sonucu açıkça kaydetmediğiniz sürece). Bir sonucu kaydettiğinizde, fotoğrafın küçük bir önizlemesi onunla birlikte cihazınızda saklanır (aşağıya bakın).
 
 ## Analiz Nasıl Çalışır
 
@@ -55,16 +55,17 @@ Bir analizi kaydetmeyi seçerseniz, sonuçlar yalnızca cihazınızda saklanır:
 - Bileşen adları ve sınıflandırmaları
 - Özel ürün adınız, etiketleriniz ve notlarınız
 - Seçtiğiniz ürün kategorisi ve analiz türü
+- Ürün fotoğrafının küçük bir önizlemesi
 
-Bu veriler yalnızca cihazınızda bulunur ve hiçbir yere iletilmez. Uygulamayı kaldırdığınızda kalıcı olarak silinir veya uygulama içinde istediğiniz zaman tek tek öğeleri kaldırabilirsiniz.
+Bu veriler yalnızca cihazınızda bulunur ve hiçbir yere iletilmez. Uygulamayı kaldırdığınızda kalıcı olarak silinir veya uygulama içinde istediğiniz zaman tek tek öğeleri kaldırabilirsiniz. Bir ürünü kaldırmak önizlemesini de siler. Uygulama ayrıca dil ve görünüm (açık veya koyu) ayarlarınızı cihazınızda hatırlar.
 
 ## İsteğe Bağlı Harici Bağlantılar
 
-Bileşen ayrıntı ekranları, üçüncü taraf başvuru sitelerine (INCIDecoder, COSMILE Europe, EWG Skin Deep) isteğe bağlı bağlantılar içerir. Bu bağlantılar yalnızca onlara dokunduğunuzda açılır ve tarayıcınızda açılır. FormuLens bu sitelere hiçbir kişisel bilgi göndermez; bir bağlantıyı açmak, o sitenin kendi gizlilik uygulamalarına tabidir.
+Bileşen ayrıntı ekranları, üçüncü taraf başvuru sitelerine (INCIDecoder, COSMILE Europe, EWG Skin Deep) isteğe bağlı bağlantılar içerir. Bu bağlantılar yalnızca onlara dokunduğunuzda açılır ve tarayıcınızda açılır. FormuLens bu sitelere hiçbir kişisel bilgi göndermez; bir bağlantıyı açmak, o sitenin kendi gizlilik uygulamalarına tabidir. Aynı şekilde, Ayarlar'daki yorum yazma seçeneği de App Store'u yalnızca dokunduğunuzda açar.
 
 ## Ağ İstekleri
 
-Açmayı seçtiğiniz isteğe bağlı başvuru bağlantıları dışında, FormuLens normal kullanım sırasında **hiçbir ağ isteği yapmaz**. Telemetri yoktur, arka planda bağlanılan API'ler yoktur ve arka planda veri aktarımı yoktur.
+Açmayı seçtiğiniz isteğe bağlı bağlantılar dışında, FormuLens normal kullanım sırasında **hiçbir ağ isteği yapmaz**. Telemetri yoktur, arka planda bağlanılan API'ler yoktur ve arka planda veri aktarımı yoktur.
 
 ## Üçüncü Taraf Hizmetleri
 
@@ -79,9 +80,10 @@ Kullanıcı verilerini hiçbir üçüncü tarafla satmaz, kiralamaz, lisanslamaz
 | İzin | Amaç | Gerekli mi? |
 |------------|---------|-----------|
 | Kamera | Tarama için içerik listelerinin fotoğrafını çekmek | İsteğe bağlı |
-| Fotoğraf Kitaplığı | Tarama için mevcut fotoğrafları seçmek | İsteğe bağlı |
 
-FormuLens şunlara erişim **istemez**: konum, kişiler, mikrofon, Bluetooth, sağlık verileri, App Tracking Transparency (ATT), anlık bildirimler veya başka herhangi bir hassas sistem izni.
+Mevcut bir fotoğrafı taramak için FormuLens iOS'un standart fotoğraf seçicisini kullanır. Hangi fotoğrafların paylaşılacağını siz seçersiniz ve uygulama yalnızca onları alır. Fotoğraf kitaplığınızın geri kalanına erişemez, bu yüzden fotoğraf kitaplığı izni istenmez.
+
+FormuLens şunlara erişim **istemez**: fotoğraf kitaplığı, konum, kişiler, mikrofon, Bluetooth, sağlık verileri, App Tracking Transparency (ATT), anlık bildirimler veya başka herhangi bir hassas sistem izni.
 
 ## Verilerin Saklanması ve Silinmesi
 

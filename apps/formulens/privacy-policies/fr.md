@@ -10,7 +10,7 @@ redirect_from:
   - /privacy-policies/formulalens/fr/
 ---
 
-**Date d'entrée en vigueur :** 8 juillet 2026
+**Date d'entrée en vigueur :** 28 octobre 2026
 
 FormuLens vous aide à comprendre les listes d'ingrédients cosmétiques en les scannant et en les classant directement sur votre appareil. Nous l'avons conçu en donnant la priorité à la confidentialité : nous ne collectons pas vos données, car nous n'en avons pas besoin.
 
@@ -32,11 +32,11 @@ FormuLens vous aide à comprendre les listes d'ingrédients cosmétiques en les 
 
 ## Comment vos photos sont utilisées
 
-Vous accordez l'accès à l'appareil photo ou à la photothèque pour que FormuLens puisse lire les listes d'ingrédients. Voici ce qui arrive à ces photos :
+Vous pouvez autoriser l'accès à l'appareil photo ou choisir des photos avec le sélecteur de photos standard d'iOS pour que FormuLens puisse lire les listes d'ingrédients. Voici ce qui arrive à ces photos :
 
-- Les photos sont traitées **entièrement sur votre appareil** grâce à la technologie de reconnaissance de texte intégrée d'Apple.
+- Les photos sont traitées **entièrement sur votre appareil** grâce à la technologie de reconnaissance de texte intégrée d'Apple. Cela fonctionne pour les étiquettes en anglais, en français, en coréen, en japonais et en chinois.
 - Les photos ne sont **jamais téléversées** vers un serveur, le nôtre ou celui de quiconque.
-- Les photos ne sont **pas conservées** par l'application au-delà de la session d'analyse active (sauf si vous enregistrez explicitement un résultat).
+- Les photos ne sont **pas conservées** par l'application au-delà de la session d'analyse active (sauf si vous enregistrez explicitement un résultat). Lorsque vous enregistrez un résultat, une petite miniature de la photo est conservée avec lui sur votre appareil (voir ci-dessous).
 
 ## Comment fonctionne l'analyse
 
@@ -55,16 +55,17 @@ Si vous choisissez d'enregistrer une analyse, les résultats sont stockés uniqu
 - Les noms des ingrédients et leurs classifications
 - Votre nom de produit personnalisé, vos étiquettes et vos notes
 - La catégorie de produit et le type d'analyse que vous avez sélectionnés
+- Une petite miniature de la photo du produit
 
-Ces données existent uniquement sur votre appareil et ne sont jamais transmises où que ce soit. Elles sont définitivement supprimées lorsque vous désinstallez l'application, ou vous pouvez retirer des éléments individuels à tout moment dans l'application.
+Ces données existent uniquement sur votre appareil et ne sont jamais transmises où que ce soit. Elles sont définitivement supprimées lorsque vous désinstallez l'application, ou vous pouvez retirer des éléments individuels à tout moment dans l'application. Retirer un produit supprime aussi sa miniature. L'application mémorise également sur votre appareil vos réglages de langue et d'apparence (clair ou sombre).
 
 ## Liens externes optionnels
 
-Les écrans de détail des ingrédients incluent des liens optionnels vers des sites de référence tiers (INCIDecoder, COSMILE Europe, EWG Skin Deep). Ces liens ne s'ouvrent que lorsque vous les touchez, et ils s'ouvrent dans votre navigateur. FormuLens n'envoie aucune information personnelle à ces sites ; l'ouverture d'un lien est soumise aux pratiques de confidentialité propres à ce site.
+Les écrans de détail des ingrédients incluent des liens optionnels vers des sites de référence tiers (INCIDecoder, COSMILE Europe, EWG Skin Deep). Ces liens ne s'ouvrent que lorsque vous les touchez, et ils s'ouvrent dans votre navigateur. FormuLens n'envoie aucune information personnelle à ces sites ; l'ouverture d'un lien est soumise aux pratiques de confidentialité propres à ce site. De même, l'option pour rédiger un avis dans les Réglages n'ouvre l'App Store que lorsque vous la touchez.
 
 ## Requêtes réseau
 
-En dehors des liens de référence optionnels que vous choisissez d'ouvrir, FormuLens n'effectue **aucune requête réseau** pendant une utilisation normale. Il n'y a aucune télémétrie, aucune API contactée en arrière-plan et aucun transfert de données en arrière-plan.
+En dehors des liens optionnels que vous choisissez d'ouvrir, FormuLens n'effectue **aucune requête réseau** pendant une utilisation normale. Il n'y a aucune télémétrie, aucune API contactée en arrière-plan et aucun transfert de données en arrière-plan.
 
 ## Services tiers
 
@@ -79,9 +80,10 @@ Nous ne vendons, ne louons, ne concédons sous licence ni ne partageons aucune d
 | Autorisation | Objet | Requise ? |
 |--------------|-------|-----------|
 | Appareil photo | Photographier les listes d'ingrédients pour le scan | Optionnelle |
-| Photothèque | Sélectionner des photos existantes pour le scan | Optionnelle |
 
-FormuLens ne demande **pas** l'accès à : la localisation, les contacts, le microphone, le Bluetooth, les données de santé, l'App Tracking Transparency (ATT), les notifications push, ni aucune autre autorisation système sensible.
+Pour scanner une photo existante, FormuLens utilise le sélecteur de photos standard d'iOS. Vous choisissez les photos à partager, et l'application ne reçoit que celles-là. Elle n'a pas accès au reste de votre photothèque, c'est pourquoi aucune autorisation d'accès à la photothèque n'est demandée.
+
+FormuLens ne demande **pas** l'accès à : la photothèque, la localisation, les contacts, le microphone, le Bluetooth, les données de santé, l'App Tracking Transparency (ATT), les notifications push, ni aucune autre autorisation système sensible.
 
 ## Conservation et suppression des données
 

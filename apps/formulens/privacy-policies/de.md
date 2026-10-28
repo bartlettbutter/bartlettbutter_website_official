@@ -10,7 +10,7 @@ redirect_from:
   - /privacy-policies/formulalens/de/
 ---
 
-**Gültig ab:** 8. Juli 2026
+**Gültig ab:** 28. Oktober 2026
 
 FormuLens hilft dir, kosmetische Inhaltsstofflisten zu verstehen, indem es sie direkt auf deinem Gerät scannt und klassifiziert. Wir haben es nach dem Prinzip „Datenschutz zuerst" entwickelt: Wir erfassen deine Daten nicht, weil wir sie nicht brauchen.
 
@@ -32,11 +32,11 @@ FormuLens hilft dir, kosmetische Inhaltsstofflisten zu verstehen, indem es sie d
 
 ## Wie deine Fotos verwendet werden
 
-Du erteilst Zugriff auf die Kamera oder die Fotomediathek, damit FormuLens Inhaltsstofflisten lesen kann. Das passiert mit diesen Fotos:
+Du kannst den Kamerazugriff erlauben oder Fotos mit der Standard-Fotoauswahl von iOS auswählen, damit FormuLens Inhaltsstofflisten lesen kann. Das passiert mit diesen Fotos:
 
-- Fotos werden **vollständig auf deinem Gerät** mit Apples integrierter Texterkennungstechnologie verarbeitet.
+- Fotos werden **vollständig auf deinem Gerät** mit Apples integrierter Texterkennungstechnologie verarbeitet. Das funktioniert für Etiketten auf Englisch, Französisch, Koreanisch, Japanisch und Chinesisch.
 - Fotos werden **niemals hochgeladen**, weder auf unsere Server noch auf die von irgendjemand anderem.
-- Fotos werden von der App **nicht über die aktive Analysesitzung hinaus gespeichert** (es sei denn, du speicherst ein Ergebnis ausdrücklich).
+- Fotos werden von der App **nicht über die aktive Analysesitzung hinaus gespeichert** (es sei denn, du speicherst ein Ergebnis ausdrücklich). Speicherst du ein Ergebnis, wird ein kleines Vorschaubild des Fotos zusammen mit dem Ergebnis auf deinem Gerät aufbewahrt (siehe unten).
 
 ## Wie die Analyse funktioniert
 
@@ -55,16 +55,17 @@ Wenn du dich dafür entscheidest, eine Analyse zu speichern, werden die Ergebnis
 - Namen der Inhaltsstoffe und ihre Klassifizierungen
 - Dein eigener Produktname, Tags und Notizen
 - Die von dir gewählte Produktkategorie und der Analysetyp
+- Ein kleines Vorschaubild des Produktfotos
 
-Diese Daten existieren ausschließlich auf deinem Gerät und werden niemals irgendwohin übertragen. Sie werden endgültig gelöscht, wenn du die App deinstallierst, oder du kannst einzelne Einträge jederzeit innerhalb der App entfernen.
+Diese Daten existieren ausschließlich auf deinem Gerät und werden niemals irgendwohin übertragen. Sie werden endgültig gelöscht, wenn du die App deinstallierst, oder du kannst einzelne Einträge jederzeit innerhalb der App entfernen. Wenn du ein Produkt entfernst, wird auch sein Vorschaubild gelöscht. Die App merkt sich auf deinem Gerät außerdem deine Sprach- und Darstellungseinstellungen (hell oder dunkel).
 
 ## Optionale externe Links
 
-Die Detailansichten der Inhaltsstoffe enthalten optionale Links zu Referenzseiten von Drittanbietern (INCIDecoder, COSMILE Europe, EWG Skin Deep). Diese Links öffnen sich nur, wenn du auf sie tippst, und sie öffnen sich in deinem Browser. FormuLens sendet diesen Seiten keinerlei personenbezogene Informationen; das Öffnen eines Links unterliegt den eigenen Datenschutzpraktiken der jeweiligen Seite.
+Die Detailansichten der Inhaltsstoffe enthalten optionale Links zu Referenzseiten von Drittanbietern (INCIDecoder, COSMILE Europe, EWG Skin Deep). Diese Links öffnen sich nur, wenn du auf sie tippst, und sie öffnen sich in deinem Browser. FormuLens sendet diesen Seiten keinerlei personenbezogene Informationen; das Öffnen eines Links unterliegt den eigenen Datenschutzpraktiken der jeweiligen Seite. Ebenso öffnet der Eintrag zum Schreiben einer Bewertung in den Einstellungen den App Store nur, wenn du ihn antippst.
 
 ## Netzwerkanfragen
 
-Abgesehen von optionalen Referenzlinks, die du selbst öffnest, stellt FormuLens im normalen Betrieb **keine Netzwerkanfragen**. Es gibt keine Telemetrie, keine im Hintergrund kontaktierten APIs und keine Datenübertragungen im Hintergrund.
+Abgesehen von optionalen Links, die du selbst öffnest, stellt FormuLens im normalen Betrieb **keine Netzwerkanfragen**. Es gibt keine Telemetrie, keine im Hintergrund kontaktierten APIs und keine Datenübertragungen im Hintergrund.
 
 ## Dienste von Drittanbietern
 
@@ -79,9 +80,10 @@ Wir verkaufen, vermieten, lizenzieren oder teilen keine Nutzerdaten mit Dritten.
 | Berechtigung | Zweck | Erforderlich? |
 |--------------|-------|---------------|
 | Kamera | Inhaltsstofflisten zum Scannen fotografieren | Optional |
-| Fotomediathek | Vorhandene Fotos zum Scannen auswählen | Optional |
 
-FormuLens fordert **keinen** Zugriff an auf: Standort, Kontakte, Mikrofon, Bluetooth, Gesundheitsdaten, App Tracking Transparency (ATT), Push-Benachrichtigungen oder andere sensible Systemberechtigungen.
+Um ein vorhandenes Foto zu scannen, verwendet FormuLens die Standard-Fotoauswahl von iOS. Du wählst, welche Fotos geteilt werden, und die App erhält nur diese. Sie bekommt keinen Zugriff auf den Rest deiner Fotomediathek, daher wird keine Berechtigung für die Fotomediathek angefordert.
+
+FormuLens fordert **keinen** Zugriff an auf: Fotomediathek, Standort, Kontakte, Mikrofon, Bluetooth, Gesundheitsdaten, App Tracking Transparency (ATT), Push-Benachrichtigungen oder andere sensible Systemberechtigungen.
 
 ## Datenspeicherung und Löschung
 

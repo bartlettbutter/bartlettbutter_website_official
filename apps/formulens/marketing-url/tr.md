@@ -17,10 +17,11 @@ redirect_from:
 
 <!--gallery-->
 
-İçerik etiketleri sizin için değil, kimyagerler için yazılır. FormuLens onları çevirir. Kameranızı herhangi bir ürüne doğrultun; her bileşen çözümlenir ve gerçekte ne işe yaradığına göre sıralanır. Yazmak yok, aramak yok, kimya diploması gerekmiyor.
+İçerik etiketleri sizin için değil, kimyagerler için yazılır. FormuLens onları çevirir. Kameranızı herhangi bir ürüne doğrultun; her bileşen çözümlenir ve gerçekte ne işe yaradığına göre sıralanır. Yazmak yok, aramak yok, kimya diploması gerekmiyor. Hatta Korece, Japonca ve Çince ürün etiketlerini bile okur.
 
 <div class="marketing-chip-row" aria-label="FormuLens highlights">
   <span class="marketing-chip">Cihaz üzerinde analiz</span>
+  <span class="marketing-chip">Korece, Japonca ve Çince ürün etiketlerini okur</span>
   <span class="marketing-chip">23 ürün türü</span>
   <span class="marketing-chip">3 analiz modu</span>
   <span class="marketing-chip">Hesap gerekmez</span>
@@ -65,7 +66,26 @@ redirect_from:
       <ul class="marketing-list">
         <li>Kimya jargonu yerine işlev öncelikli açıklamalar</li>
         <li>Formülün bir bakışta görsel olarak okunmasını sağlayan renk kodlu tarama</li>
+        <li>Her açıdan çekilmiş ürün etiketleri, yan veya baş aşağı bile olsa</li>
         <li>Daha derine inmek istediğinizde güvenilir veritabanı bağlantıları</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Başka dillerdeki ürün etiketlerini okuyun</h3>
+      <p>İngilizce, Fransızca, Korece, Japonca ve Çince (Basitleştirilmiş ve Geleneksel) ürün etiketlerini tarayın. İçerik adları İngilizce INCI adlarına çevrilir, basılı ad da yanında gösterilir.</p>
+      <ul class="marketing-list">
+        <li>K-beauty ve J-beauty buluntuları ile seyahat alışverişleri için</li>
+        <li>Basılı adı İngilizce karşılığının yanında görün</li>
+        <li>Etiket hangi dilde olursa olsun aynı işleve göre döküm</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Her içeriği araştırın</h3>
+      <p>1.000'den fazla içeriği INCI, Fransızca, Korece, Japonca veya Çince adıyla ya da AHA ve BHA gibi kısaltmalarla arayın.</p>
+      <ul class="marketing-list">
+        <li>Ne işe yaradığı ve nerede en çok önem taşıdığı</li>
+        <li>Hamilelik notları ve bilinen katmanlama etkileşimleri</li>
+        <li>Daha fazlasını öğrenmek için güvenilir veritabanı bağlantıları</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -92,6 +112,8 @@ redirect_from:
       <ul class="marketing-list">
         <li>Adımlar arasında daha iyi sıralama</li>
         <li>Tek geçişte çakışma ve gereksizlik kontrolleri</li>
+        <li>Koku alerjenleri adımlar boyunca birikirse bir uyarı</li>
+        <li>Rutininizde eksik olabilecekler için öneriler</li>
         <li>Hem basit hem de içerik yoğun rutinler için faydalı</li>
       </ul>
     </article>
@@ -100,7 +122,7 @@ redirect_from:
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="fl-modes-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Ürün mimarisi</p>
+    <p class="marketing-eyebrow">Üç mod</p>
     <h2 id="fl-modes-title" class="marketing-section-title">Analiz için üç yol, baştan sona tek bir görsel dil.</h2>
     <p class="marketing-section-intro">Her akış farklı bir soruyu yanıtlar, ancak hepsi aynı okunaklı, renk öncelikli sisteme varır; böylece ürün her zaman tutarlı hissettirir.</p>
   </div>
@@ -134,7 +156,7 @@ redirect_from:
 
 <section class="marketing-band" aria-labelledby="fl-flow-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Başlangıç akışı</p>
+    <p class="marketing-eyebrow">Nasıl çalışır</p>
     <h2 id="fl-flow-title" class="marketing-section-title">Şişeden değerlendirmeye beş temiz adımda.</h2>
   </div>
   <div class="marketing-step-grid">
@@ -148,7 +170,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>Etiketi çekin veya içe aktarın</h3>
-      <p>İçerik listesinin fotoğrafını çekin ya da galerinizden alın. Etiket şişenin etrafını sarıyorsa birden fazla karede yakalayın.</p>
+      <p>İçerik listesinin fotoğrafını çekin ya da galerinizden alın. Etiket şişenin etrafını sarıyorsa birden fazla karede yakalayın. Her açıdan çekilen ürün etiketleri otomatik olarak dik hale getirilir.</p>
     </article>
     <article class="marketing-step">
       <h3>Renk kodlu dökümü okuyun</h3>
@@ -156,7 +178,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>Önemli olanı kaydedin</h3>
-      <p>Taramayı özel bir ad, notlar ve etiketlerle saklayın; böylece bir sonraki alışverişinizde veya rutininizi yeniden kurarken çalışma yeniden kullanılabilir olur.</p>
+      <p>Taramayı özel bir ad, notlar ve etiketlerle saklayın; böylece bir sonraki alışverişinizde veya rutininizi yeniden kurarken çalışma yeniden kullanılabilir olur. Fotoğrafın küçük bir önizlemesi de birlikte saklanır.</p>
     </article>
   </div>
 </section>
@@ -169,14 +191,14 @@ redirect_from:
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Aranabilir bir içerik kütüphanesi tutun</h3>
-      <p>Herhangi bir analizi özel bir ad, etiketler ve notlarla kaydedin, ardından daha sonra filtreleyin. Neyin işe yaradığını, cildinizi neyin tahriş ettiğini ve benzer görünse de öyle olmayanı hatırlamak için faydalı.</p>
+      <p>Herhangi bir analizi özel bir ad, etiketler ve notlarla kaydedin, ardından daha sonra filtreleyin. Neyin işe yaradığını, cildinizi neyin tahriş ettiğini ve benzer görünse de öyle olmayanı hatırlamak için faydalı. Ada, etikete veya içeriğe göre arayın.</p>
     </article>
     <article class="marketing-story-card">
       <h3>İçeriklere dikkat eden alışverişçiler için yapıldı</h3>
       <ul class="marketing-list">
         <li>Aktifleri ve katmanlamayı ince ayarlayan rutin meraklıları</li>
         <li>Kokuya veya bilinen tetikleyicilere dikkat eden hassas alışverişçiler</li>
-        <li>Yoğun INCI listelerini çözen K-beauty ve J-beauty hayranları</li>
+        <li>Korece ve Japonca ürün etiketlerini tarayan K-beauty ve J-beauty hayranları</li>
         <li>Ailesinin cildine ne sürüldüğünü inceleyen ebeveynler</li>
       </ul>
     </article>

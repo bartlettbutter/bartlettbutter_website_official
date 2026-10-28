@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/formulalens/
 ---
 
-**Effective Date:** July 8, 2026
+**Effective Date:** October 28, 2026
 
 FormuLens helps you understand cosmetic ingredient lists by scanning and classifying them right on your device. We built it privacy-first: we don't collect your data because we don't need it.
 
@@ -31,11 +31,11 @@ FormuLens helps you understand cosmetic ingredient lists by scanning and classif
 
 ## How Your Photos Are Used
 
-You grant camera or photo library access so FormuLens can read ingredient lists. Here's what happens to those photos:
+You can allow camera access, or choose photos with the standard iOS photo picker, so FormuLens can read ingredient lists. Here's what happens to those photos:
 
-- Photos are processed **entirely on your device** using Apple's built-in text recognition technology.
+- Photos are processed **entirely on your device** using Apple's built-in text recognition technology. This works for labels in English, French, Korean, Japanese, and Chinese.
 - Photos are **never uploaded** to any server, ours or anyone else's.
-- Photos are **not stored** by the app beyond the active analysis session (unless you explicitly save a result).
+- Photos are **not stored** by the app beyond the active analysis session. The only exception is when you explicitly save a result: then a small thumbnail of the photo is kept on your device with it (see below).
 
 ## How Analysis Works
 
@@ -54,16 +54,17 @@ If you choose to save an analysis, the results are stored on your device only:
 - Ingredient names and their classifications
 - Your custom product name, tags, and notes
 - The product category and analysis type you selected
+- A small thumbnail of the product photo
 
-This data lives solely on your device and is never transmitted anywhere. It is permanently deleted when you uninstall the app, or you can remove individual items at any time within the app.
+This data lives solely on your device and is never transmitted anywhere. It is permanently deleted when you uninstall the app, or you can remove individual items at any time within the app. Removing a product also deletes its thumbnail. The app also remembers your language and appearance (light or dark) settings on your device.
 
 ## Optional External Links
 
-Ingredient detail screens include optional links to third-party reference sites (INCIDecoder, COSMILE Europe, EWG Skin Deep). These links only open when you tap them, and they open in your browser. FormuLens does not send these sites any personal information; opening a link is subject to that site's own privacy practices.
+Ingredient detail screens include optional links to third-party reference sites (INCIDecoder, COSMILE Europe, EWG Skin Deep). These links only open when you tap them, and they open in your browser. FormuLens does not send these sites any personal information; opening a link is subject to that site's own privacy practices. Likewise, the Write a Review row in Settings opens the App Store only when you tap it.
 
 ## Network Requests
 
-Aside from optional reference links you choose to open, FormuLens makes **no network requests** during normal use. There is no telemetry, no APIs contacted in the background, and no background data transfers.
+Aside from optional links you choose to open, FormuLens makes **no network requests** during normal use. There is no telemetry, no APIs contacted in the background, and no background data transfers.
 
 ## Third-Party Services
 
@@ -78,9 +79,10 @@ We do not sell, rent, license, or share user data with any third party. There is
 | Permission | Purpose | Required? |
 |------------|---------|-----------|
 | Camera | Photograph ingredient lists for scanning | Optional |
-| Photo Library | Select existing photos for scanning | Optional |
 
-FormuLens does **not** request access to: location, contacts, microphone, Bluetooth, health data, App Tracking Transparency (ATT), push notifications, or any other sensitive system permissions.
+To scan an existing photo, FormuLens uses the standard iOS photo picker. You choose which photos to share, and the app receives only those. It does not get access to the rest of your photo library, so no photo library permission is requested.
+
+FormuLens does **not** request access to: photo library, location, contacts, microphone, Bluetooth, health data, App Tracking Transparency (ATT), push notifications, or any other sensitive system permissions.
 
 ## Data Retention and Deletion
 

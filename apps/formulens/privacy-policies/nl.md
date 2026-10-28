@@ -10,7 +10,7 @@ redirect_from:
   - /privacy-policies/formulalens/nl/
 ---
 
-**Ingangsdatum:** 8 juli 2026
+**Ingangsdatum:** 28 oktober 2026
 
 FormuLens helpt je cosmetische ingrediëntenlijsten te begrijpen door ze direct op je apparaat te scannen en te classificeren. We hebben het gebouwd met privacy voorop: we verzamelen je gegevens niet omdat we ze niet nodig hebben.
 
@@ -32,11 +32,11 @@ FormuLens helpt je cosmetische ingrediëntenlijsten te begrijpen door ze direct 
 
 ## Hoe je foto's worden gebruikt
 
-Je verleent toegang tot de camera of fotobibliotheek zodat FormuLens ingrediëntenlijsten kan lezen. Dit is wat er met die foto's gebeurt:
+Je kunt cameratoegang toestaan, of foto's kiezen met de standaard fotokiezer van iOS, zodat FormuLens ingrediëntenlijsten kan lezen. Dit is wat er met die foto's gebeurt:
 
-- Foto's worden **volledig op je apparaat** verwerkt met de ingebouwde tekstherkenningstechnologie van Apple.
+- Foto's worden **volledig op je apparaat** verwerkt met de ingebouwde tekstherkenningstechnologie van Apple. Dit werkt voor etiketten in het Engels, Frans, Koreaans, Japans en Chinees.
 - Foto's worden **nooit geüpload** naar welke server dan ook, de onze of die van iemand anders.
-- Foto's worden **niet bewaard** door de app na de actieve analysesessie (tenzij je een resultaat expliciet opslaat).
+- Foto's worden **niet bewaard** door de app na de actieve analysesessie (tenzij je een resultaat expliciet opslaat). Als je een resultaat opslaat, wordt een kleine miniatuur van de foto samen met het resultaat op je apparaat bewaard (zie hieronder).
 
 ## Hoe analyse werkt
 
@@ -55,16 +55,17 @@ Als je ervoor kiest een analyse op te slaan, worden de resultaten alleen op je a
 - Ingrediëntnamen en hun classificaties
 - Je eigen productnaam, tags en notities
 - De productcategorie en het analysetype dat je hebt geselecteerd
+- Een kleine miniatuur van de productfoto
 
-Deze gegevens bevinden zich uitsluitend op je apparaat en worden nooit ergens naartoe verzonden. Ze worden permanent verwijderd wanneer je de app verwijdert, of je kunt op elk moment afzonderlijke items in de app verwijderen.
+Deze gegevens bevinden zich uitsluitend op je apparaat en worden nooit ergens naartoe verzonden. Ze worden permanent verwijderd wanneer je de app verwijdert, of je kunt op elk moment afzonderlijke items in de app verwijderen. Als je een product verwijdert, wordt ook de miniatuur gewist. De app onthoudt op je apparaat ook je taal- en weergave-instellingen (licht of donker).
 
 ## Optionele externe links
 
-Ingrediëntdetailschermen bevatten optionele links naar referentiesites van derden (INCIDecoder, COSMILE Europe, EWG Skin Deep). Deze links openen alleen wanneer je erop tikt, en ze openen in je browser. FormuLens stuurt deze sites geen persoonlijke informatie; het openen van een link is onderworpen aan het eigen privacybeleid van die site.
+Ingrediëntdetailschermen bevatten optionele links naar referentiesites van derden (INCIDecoder, COSMILE Europe, EWG Skin Deep). Deze links openen alleen wanneer je erop tikt, en ze openen in je browser. FormuLens stuurt deze sites geen persoonlijke informatie; het openen van een link is onderworpen aan het eigen privacybeleid van die site. Op dezelfde manier opent de optie om een recensie te schrijven in Instellingen de App Store alleen wanneer je erop tikt.
 
 ## Netwerkverzoeken
 
-Afgezien van optionele referentielinks die je ervoor kiest te openen, doet FormuLens **geen netwerkverzoeken** tijdens normaal gebruik. Er is geen telemetrie, geen API's die op de achtergrond worden benaderd en geen gegevensoverdracht op de achtergrond.
+Afgezien van optionele links die je ervoor kiest te openen, doet FormuLens **geen netwerkverzoeken** tijdens normaal gebruik. Er is geen telemetrie, geen API's die op de achtergrond worden benaderd en geen gegevensoverdracht op de achtergrond.
 
 ## Diensten van derden
 
@@ -79,9 +80,10 @@ We verkopen, verhuren, licentiëren of delen geen gebruikersgegevens met derden.
 | Machtiging | Doel | Vereist? |
 |------------|---------|-----------|
 | Camera | Ingrediëntenlijsten fotograferen om te scannen | Optioneel |
-| Fotobibliotheek | Bestaande foto's selecteren om te scannen | Optioneel |
 
-FormuLens vraagt **geen** toegang tot: locatie, contacten, microfoon, Bluetooth, gezondheidsgegevens, App Tracking Transparency (ATT), pushmeldingen of andere gevoelige systeemmachtigingen.
+Om een bestaande foto te scannen, gebruikt FormuLens de standaard fotokiezer van iOS. Jij kiest welke foto's je deelt en de app ontvangt alleen die. De app krijgt geen toegang tot de rest van je fotobibliotheek, dus er wordt geen toestemming voor de fotobibliotheek gevraagd.
+
+FormuLens vraagt **geen** toegang tot: fotobibliotheek, locatie, contacten, microfoon, Bluetooth, gezondheidsgegevens, App Tracking Transparency (ATT), pushmeldingen of andere gevoelige systeemmachtigingen.
 
 ## Bewaring en verwijdering van gegevens
 

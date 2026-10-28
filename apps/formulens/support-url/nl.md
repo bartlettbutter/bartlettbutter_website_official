@@ -58,6 +58,18 @@ Ja. Voeg meerdere foto's van hetzelfde product toe en FormuLens leest ze allemaa
 
 De interface van de app is momenteel in het Engels, met meer talen in de planning. Deze ondersteuningssite is in verschillende talen beschikbaar.
 
+### Kan ik etiketten in andere talen scannen?
+
+Ja. FormuLens leest ingrediëntenlijsten die zijn gedrukt in het Engels, Frans, Koreaans, Japans en Chinees (vereenvoudigd en traditioneel). Ingrediëntnamen worden vertaald naar hun Engelse INCI-namen, en de naam zoals die op het etiket staat, wordt ernaast getoond. Heeft een Koreaanse, Japanse of Chinese naam nog geen bekende vertaling, dan verschijnt die zoals gedrukt met de notitie ‘Nog niet vertaald’.
+
+### Moet het etiket recht op de foto staan?
+
+Nee. Etiketten die schuin, zijwaarts of ondersteboven zijn gefotografeerd, worden vóór het lezen automatisch rechtgezet. Een vlakke, goed verlichte en scherpe foto geeft nog altijd de beste resultaten.
+
+### Hoe zoek ik één ingrediënt op?
+
+Open het tabblad **Ingrediënten** en zoek op INCI-naam, Franse, Koreaanse, Japanse of Chinese naam, of op afkortingen zoals AHA, BHA en PHA. Elk profiel laat zien wat het ingrediënt doet, voor welke producttypes het telt, zwangerschapsnotities, bekende interacties bij het opbouwen van lagen en links om meer te leren.
+
 ## Je resultaten begrijpen
 
 ### Is FormuLens medisch advies?
@@ -91,7 +103,7 @@ Kies **Mijn routine controleren** en voeg één product per stap toe in de volgo
 
 ### Hoe sla ik een scan op?
 
-Tik op de opslaan-knop nadat je een product hebt geanalyseerd en voeg vervolgens een eigen naam, tags en notities toe. Het verschijnt in je tabblad **Opgeslagen** voor eenvoudige toegang later, waar je je opgeslagen producten kunt zoeken en filteren.
+Tik na het analyseren van een product op de opslagknop en voeg een eigen naam, tags en notities toe. FormuLens stelt een naam voor op basis van je foto en bewaart er een kleine miniatuur van. Je product verschijnt op het tabblad **Opgeslagen**, waar je kunt zoeken op naam, tag of ingrediënt en filteren op tag.
 
 ## Problemen oplossen
 
@@ -138,11 +150,11 @@ Geen. FormuLens heeft geen accounts, geen analyses, geen tracking en geen advert
 
 ### Hoe verwijder ik mijn opgeslagen gegevens?
 
-Veeg naar links op een opgeslagen product om het te verwijderen. Om alle app-gegevens te wissen, verwijder je FormuLens gewoon van je apparaat.
+Veeg naar links op een opgeslagen product om het te verwijderen, samen met de miniatuur. Om alle app-gegevens te wissen, verwijder je FormuLens gewoon van je apparaat.
 
 ### Wat gebeurt er als ik de app verwijder?
 
-Het verwijderen van FormuLens wist alle opgeslagen analyses permanent van je apparaat. Omdat er geen cloudback-up of synchronisatie is, kan dit niet ongedaan worden gemaakt.
+Als je FormuLens verwijdert, worden alle opgeslagen analyses en miniaturen permanent van je apparaat gewist. Omdat er geen cloudback-up of synchronisatie is, kan dit niet ongedaan worden gemaakt.
 
 ## Machtigingen
 
@@ -150,13 +162,13 @@ Het verwijderen van FormuLens wist alle opgeslagen analyses permanent van je app
 
 Zodat je ingrediëntenlijsten rechtstreeks kunt fotograferen. Deze machtiging is optioneel; je kunt altijd in plaats daarvan een foto uit je bibliotheek kiezen.
 
-### Waarom vraagt de app om toegang tot de fotobibliotheek?
+### Heeft FormuLens toegang tot mijn fotobibliotheek nodig?
 
-Zodat je een bestaande foto van een ingrediëntenlijst kunt selecteren. Dit is optioneel; je kunt in plaats daarvan de camera gebruiken.
+Nee. Om een bestaande foto van een ingrediëntenlijst te gebruiken, opent FormuLens de standaard fotokiezer van iOS. Jij kiest welke foto's je deelt en de app ontvangt alleen die. De rest van je bibliotheek ziet de app nooit. Je kunt foto's ook naar een product slepen.
 
 ### Heeft FormuLens toegang tot mijn locatie, microfoon of contacten?
 
-Nee. De enige machtigingen die ooit worden gevraagd, zijn camera en fotobibliotheek. Niets anders.
+Nee. De enige toestemming die FormuLens ooit vraagt, is toegang tot de camera, en die is optioneel. Verder niets.
 
 ## Compatibiliteit
 

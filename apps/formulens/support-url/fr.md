@@ -58,6 +58,18 @@ Oui. Ajoutez plusieurs photos du même produit et FormuLens lit chacune d'elles 
 
 L'interface de l'application est actuellement en anglais, et d'autres langues sont prévues. Ce site d'assistance est disponible en plusieurs langues.
 
+### Puis-je scanner des étiquettes dans d'autres langues ?
+
+Oui. FormuLens lit les listes d'ingrédients imprimées en anglais, en français, en coréen, en japonais et en chinois (simplifié et traditionnel). Les noms d'ingrédients sont traduits en noms INCI anglais, et le nom tel qu'il est imprimé sur l'étiquette s'affiche à côté. Si un nom coréen, japonais ou chinois n'a pas encore de traduction connue, il apparaît tel qu'imprimé avec la mention « Pas encore traduit ».
+
+### L'étiquette doit-elle être bien droite sur la photo ?
+
+Non. Les étiquettes photographiées de biais, de côté ou à l'envers sont redressées automatiquement avant la lecture. Une photo à plat, bien éclairée et nette donne tout de même les meilleurs résultats.
+
+### Comment rechercher un seul ingrédient ?
+
+Ouvrez l'onglet **Ingrédients** et recherchez par nom INCI, français, coréen, japonais ou chinois, ou par abréviation comme AHA, BHA et PHA. Chaque fiche indique ce que fait l'ingrédient, les types de produits pour lesquels il compte, des notes sur la grossesse, les interactions connues lors de la superposition et des liens pour en savoir plus.
+
 ## Comprendre vos résultats
 
 ### FormuLens est-il un avis médical ?
@@ -91,7 +103,7 @@ Choisissez **Vérifier ma routine** et ajoutez un produit par étape dans l'ordr
 
 ### Comment enregistrer un scan ?
 
-Touchez le bouton d'enregistrement après avoir analysé un produit, puis ajoutez un nom personnalisé, des étiquettes et des notes. Il apparaîtra dans votre onglet **Enregistrés** pour un accès facile plus tard, où vous pourrez rechercher et filtrer vos produits enregistrés.
+Touchez le bouton d'enregistrement après l'analyse d'un produit, puis ajoutez un nom personnalisé, des étiquettes et des notes. FormuLens suggère un nom à partir de votre photo et en conserve une petite miniature. Votre produit apparaît dans l'onglet **Enregistrés**, où vous pouvez rechercher par nom, étiquette ou ingrédient et filtrer par étiquette.
 
 ## Dépannage
 
@@ -138,11 +150,11 @@ Aucune. FormuLens n'a aucun compte, aucune analyse d'audience, aucun suivi et au
 
 ### Comment supprimer mes données enregistrées ?
 
-Balayez vers la gauche sur n'importe quel produit enregistré pour le supprimer. Pour supprimer toutes les données de l'application, il suffit de désinstaller FormuLens de votre appareil.
+Balayez vers la gauche sur un produit enregistré pour le supprimer, avec sa miniature. Pour effacer toutes les données de l'application, désinstallez simplement FormuLens de votre appareil.
 
 ### Que se passe-t-il si je supprime l'application ?
 
-La désinstallation de FormuLens supprime définitivement toutes les analyses enregistrées de votre appareil. Comme il n'y a aucune sauvegarde ni synchronisation dans le cloud, cette action est irréversible.
+La désinstallation de FormuLens supprime définitivement toutes les analyses enregistrées et les miniatures de votre appareil. Comme il n'y a ni sauvegarde ni synchronisation dans le cloud, cette action est irréversible.
 
 ## Autorisations
 
@@ -150,13 +162,13 @@ La désinstallation de FormuLens supprime définitivement toutes les analyses en
 
 Pour que vous puissiez photographier directement les listes d'ingrédients. Cette autorisation est optionnelle ; vous pouvez toujours choisir une photo dans votre galerie à la place.
 
-### Pourquoi l'application demande-t-elle l'accès à la photothèque ?
+### FormuLens a-t-il besoin d'accéder à ma photothèque ?
 
-Pour que vous puissiez sélectionner une photo existante d'une liste d'ingrédients. C'est optionnel ; vous pouvez utiliser l'appareil photo à la place.
+Non. Pour utiliser une photo existante d'une liste d'ingrédients, FormuLens ouvre le sélecteur de photos standard d'iOS. Vous choisissez les photos à partager, et l'application ne reçoit que celles-là. Elle ne voit jamais le reste de votre photothèque. Vous pouvez aussi faire glisser des photos sur un produit.
 
 ### FormuLens accède-t-il à ma localisation, mon microphone ou mes contacts ?
 
-Non. Les seules autorisations jamais demandées sont l'appareil photo et la photothèque. Rien d'autre.
+Non. La seule autorisation que FormuLens demande est l'accès à l'appareil photo, et elle est facultative. Rien d'autre.
 
 ## Compatibilité
 

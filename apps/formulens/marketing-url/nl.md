@@ -17,10 +17,11 @@ redirect_from:
 
 <!--gallery-->
 
-Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuLens vertaalt ze. Richt je camera op een willekeurig product en elk ingrediënt wordt ontcijferd en gesorteerd op wat het echt doet. Geen typen, geen zoeken, geen scheikundediploma nodig.
+Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuLens vertaalt ze. Richt je camera op een willekeurig product en elk ingrediënt wordt ontcijferd en gesorteerd op wat het echt doet. Geen typen, geen zoeken, geen scheikundediploma nodig. Zelfs Koreaanse, Japanse en Chinese etiketten leest de app.
 
 <div class="marketing-chip-row" aria-label="FormuLens highlights">
   <span class="marketing-chip">Analyse op het apparaat</span>
+  <span class="marketing-chip">Leest Koreaanse, Japanse en Chinese etiketten</span>
   <span class="marketing-chip">23 producttypen</span>
   <span class="marketing-chip">3 analysemodi</span>
   <span class="marketing-chip">Geen account nodig</span>
@@ -65,7 +66,26 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
       <ul class="marketing-list">
         <li>Uitleg vanuit de functie in plaats van scheikundig jargon</li>
         <li>Kleurgecodeerd scannen zodat de formule visueel in één oogopslag leesbaar is</li>
+        <li>Etiketten die onder elke hoek zijn gefotografeerd, ook zijwaarts of ondersteboven</li>
         <li>Links naar betrouwbare databases wanneer je dieper wilt gaan</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Lees etiketten in andere talen</h3>
+      <p>Scan etiketten in het Engels, Frans, Koreaans, Japans en Chinees (vereenvoudigd en traditioneel). Ingrediëntnamen worden vertaald naar hun Engelse INCI-namen, met de gedrukte naam ernaast.</p>
+      <ul class="marketing-list">
+        <li>Gemaakt voor je K-beauty- en J-beauty-vondsten en souvenirs van reizen</li>
+        <li>Zie de gedrukte naam naast het Engelse equivalent</li>
+        <li>Dezelfde indeling op functie, in welke taal het etiket ook is</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Zoek elk ingrediënt op</h3>
+      <p>Doorzoek meer dan 1.000 ingrediënten op INCI-naam, Franse, Koreaanse, Japanse of Chinese naam, of op afkortingen zoals AHA en BHA.</p>
+      <ul class="marketing-list">
+        <li>Wat het doet en waar het het meest telt</li>
+        <li>Zwangerschapsnotities en bekende interacties bij het opbouwen van lagen</li>
+        <li>Links naar betrouwbare databases om meer te leren</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -92,6 +112,8 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
       <ul class="marketing-list">
         <li>Betere volgorde tussen stappen</li>
         <li>Controles op conflicten en overbodigheid in één keer</li>
+        <li>Een seintje wanneer geurallergenen zich over meerdere stappen opstapelen</li>
+        <li>Suggesties voor wat je routine mogelijk mist</li>
         <li>Handig voor zowel eenvoudige als ingrediëntrijke routines</li>
       </ul>
     </article>
@@ -100,7 +122,7 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="fl-modes-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Productarchitectuur</p>
+    <p class="marketing-eyebrow">Drie modi</p>
     <h2 id="fl-modes-title" class="marketing-section-title">Drie manieren om te analyseren, één visuele taal overal.</h2>
     <p class="marketing-section-intro">Elke flow beantwoordt een andere vraag, maar ze landen allemaal in hetzelfde leesbare, kleurgeleide systeem, zodat het product altijd samenhangend aanvoelt.</p>
   </div>
@@ -134,7 +156,7 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
 
 <section class="marketing-band" aria-labelledby="fl-flow-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Onboardingflow</p>
+    <p class="marketing-eyebrow">Zo werkt het</p>
     <h2 id="fl-flow-title" class="marketing-section-title">Van flesje tot oordeel in vijf overzichtelijke stappen.</h2>
   </div>
   <div class="marketing-step-grid">
@@ -148,7 +170,7 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
     </article>
     <article class="marketing-step">
       <h3>Fotografeer of importeer het etiket</h3>
-      <p>Fotografeer de ingrediëntenlijst of kies uit je bibliotheek. Als het etiket rond het flesje loopt, leg het dan vast in meerdere foto's.</p>
+      <p>Fotografeer de ingrediëntenlijst of kies uit je bibliotheek. Als het etiket rond het flesje loopt, leg het dan vast in meerdere foto's. Etiketten die onder elke hoek zijn gefotografeerd, worden automatisch rechtgezet.</p>
     </article>
     <article class="marketing-step">
       <h3>Lees de kleurgecodeerde uitsplitsing</h3>
@@ -156,7 +178,7 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
     </article>
     <article class="marketing-step">
       <h3>Bewaar wat ertoe doet</h3>
-      <p>Bewaar de scan met een eigen naam, notities en tags zodat het werk herbruikbaar is de volgende keer dat je winkelt of je routine opnieuw opbouwt.</p>
+      <p>Bewaar de scan met een eigen naam, notities en tags zodat het werk herbruikbaar is de volgende keer dat je winkelt of je routine opnieuw opbouwt. Er wordt ook een kleine miniatuur van de foto bewaard.</p>
     </article>
   </div>
 </section>
@@ -169,14 +191,14 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
       <h3>Houd een doorzoekbare ingrediëntbibliotheek bij</h3>
-      <p>Bewaar elke analyse met een eigen naam, tags en notities, en filter er later op. Het is handig om te onthouden wat werkte, wat je huid irriteerde en wat er vergelijkbaar uitzag maar het niet was.</p>
+      <p>Bewaar elke analyse met een eigen naam, tags en notities, en filter er later op. Het is handig om te onthouden wat werkte, wat je huid irriteerde en wat er vergelijkbaar uitzag maar het niet was. Zoek op naam, tag of ingrediënt.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Gemaakt voor ingrediëntbewuste kopers</h3>
       <ul class="marketing-list">
         <li>Routineliefhebbers die actieve stoffen en lagen bijschaven</li>
         <li>Gevoelige kopers die letten op parfum of bekende triggers</li>
-        <li>Fans van K-beauty en J-beauty die dichte INCI-lijsten ontcijferen</li>
+        <li>K-beauty- en J-beauty-fans die Koreaanse en Japanse etiketten scannen</li>
         <li>Ouders die controleren wat er op de huid van hun gezin komt</li>
       </ul>
     </article>

@@ -57,6 +57,18 @@ Yes. Add multiple photos of the same product and FormuLens reads each one and me
 
 The app's interface is currently in English, with more languages planned. This support site is available in several languages.
 
+### Can I scan labels in other languages?
+
+Yes. FormuLens reads ingredient lists printed in English, French, Korean, Japanese, and Chinese (Simplified and Traditional). Ingredient names are translated to their English INCI names, and the name as printed on the label is shown alongside. If a Korean, Japanese, or Chinese name has no known translation yet, it appears as printed with a "Not yet translated" note.
+
+### Does the label have to be upright in the photo?
+
+No. Labels photographed at an angle, sideways, or upside down are turned upright automatically before they are read. A flat, well-lit, in-focus photo still gives the best results.
+
+### How do I look up a single ingredient?
+
+Open the **Ingredients** tab and search by INCI, French, Korean, Japanese, or Chinese name, or by shorthands like AHA, BHA, and PHA. Each profile shows what the ingredient does, which product types it matters for, pregnancy notes, known layering interactions, and links to learn more.
+
 ## Understanding Your Results
 
 ### Is FormuLens medical advice?
@@ -90,7 +102,7 @@ Choose **Check My Routine** and add one product per step in the order you use th
 
 ### How do I save a scan?
 
-Tap the save button after analyzing a product, then add a custom name, tags, and notes. It will appear in your **Saved** tab for easy access later, where you can search and filter your saved products.
+Tap the save button after analyzing a product, then add a custom name, tags, and notes. FormuLens suggests a name from your photo and keeps a small thumbnail of it. Your product appears in the **Saved** tab, where you can search by name, tag, or ingredient and filter by tag.
 
 ## Troubleshooting
 
@@ -137,11 +149,11 @@ None. FormuLens has no accounts, no analytics, no tracking, and no advertising. 
 
 ### How do I delete my saved data?
 
-Swipe left on any saved product to remove it. To delete all app data, simply uninstall FormuLens from your device.
+Swipe left on any saved product to remove it, along with its thumbnail. To delete all app data, simply uninstall FormuLens from your device.
 
 ### What happens if I delete the app?
 
-Uninstalling FormuLens permanently removes all saved analyses from your device. Since there is no cloud backup or sync, this can't be undone.
+Uninstalling FormuLens permanently removes all saved analyses and thumbnails from your device. Since there is no cloud backup or sync, this can't be undone.
 
 ## Permissions
 
@@ -149,13 +161,13 @@ Uninstalling FormuLens permanently removes all saved analyses from your device. 
 
 So you can photograph ingredient lists directly. This permission is optional; you can always choose a photo from your library instead.
 
-### Why does the app ask for photo library access?
+### Does FormuLens need access to my photo library?
 
-So you can select an existing photo of an ingredient list. This is optional; you can use the camera instead.
+No. To use an existing photo of an ingredient list, FormuLens opens the standard iOS photo picker. You choose the photos to share, and the app receives only those. It never sees the rest of your library. You can also drag photos onto a product.
 
 ### Does FormuLens access my location, microphone, or contacts?
 
-No. The only permissions ever requested are camera and photo library. Nothing else.
+No. The only permission FormuLens ever requests is camera access, and that is optional. Nothing else.
 
 ## Compatibility
 

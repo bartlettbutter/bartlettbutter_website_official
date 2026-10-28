@@ -2,7 +2,7 @@
 layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
-app_description: "احفظ الروابط التي تستحق العودة إليها مباشرةً من ورقة المشاركة، وأعد فتح كل واحدٍ منها عند مصدره."
+app_description: "احفظ الروابط من أي تطبيق بمشاركة واحدة، مرتّبةً حسب الموضوع، وتُفتح من جديد حيث جاءت."
 app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 lang: ar
 permalink: /linkhq/ar/
@@ -14,27 +14,27 @@ redirect_from:
 
 <!--gallery-->
 
-LinkHQ مكانٌ هادئ للروابط التي تودّ أن تجدها من جديد. شارك مقطعًا أو منشورًا أو صفحة بالطريقة نفسها التي ترسل بها شيئًا إلى صديق، فيلتقط LinkHQ الرابط، ويملأ عنوانه الحقيقي وكلماته المفتاحية وصورته المصغّرة، ويبقيه جاهزًا. انقر عليه لاحقًا فيعيد التطبيق الأصلي فتح المقطع أو المنشور عند مصدره. تبقى مكتبتك على جهازك ولا تُرفَع أبدًا.
+وجدت فيديو أو مقالًا أو وصفة أو منشورًا تريد العودة إليه؟ شاركه مع LinkHQ كما ترسله إلى صديق. يضيف LinkHQ العنوان الحقيقي والمعاينة، ويرتّبه حسب الموضوع، وعندما تلمسه لاحقًا يفتحه من جديد في YouTube أو RedNote أو التطبيق الذي جاء منه. بلا حساب، بلا تسجيل دخول، بلا تتبّع. تبقى مكتبتك على جهازك.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
-  <span class="marketing-chip">التقاط من أي تطبيق</span>
-  <span class="marketing-chip">عناوين وصور مصغّرة تلقائية</span>
-  <span class="marketing-chip">محلي فقط، بلا حساب</span>
-  <span class="marketing-chip">بحث قوي</span>
+  <span class="marketing-chip">احفظ من أي تطبيق</span>
+  <span class="marketing-chip">مرتّب حسب الموضوع لك</span>
+  <span class="marketing-chip">يُفتح في التطبيق الأصلي</span>
+  <span class="marketing-chip">بلا حساب وبلا تتبّع</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="LinkHQ at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">7 مصادر</span>
-    <span class="marketing-stat-label">YouTube وRedNote وBilibili وTikTok وInstagram وX والويب المفتوح، تُكتشَف تلقائيًا</span>
+    <span class="marketing-stat-value">32 منصّة</span>
+    <span class="marketing-stat-label">يتعرّف عليها بأيقونتها ولونها، من YouTube وTikTok إلى RedNote وBilibili، إضافةً إلى أي موقع آخر على الويب</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">على الجهاز</span>
-    <span class="marketing-stat-label">تُستخرَج الكلمات المفتاحية على جهازك عند حفظ الرابط، للبحث والتصفية</span>
+    <span class="marketing-stat-value">16 موضوعًا</span>
+    <span class="marketing-stat-label">تُرتَّب فيها روابطك تلقائيًا، مباشرةً على جهازك</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">محلي وخاص، بلا حسابات، ولا تتبّع، ولا إعلانات</span>
+    <span class="marketing-stat-value">0 حسابات</span>
+    <span class="marketing-stat-label">بلا تسجيل دخول ولا تتبّع ولا إعلانات، ولا تُرفَع مكتبتك أبدًا</span>
   </article>
 </div>
 
@@ -52,81 +52,81 @@ LinkHQ مكانٌ هادئ للروابط التي تودّ أن تجدها من
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">لماذا يختاره الناس</p>
-    <h2 id="lk-why-title" class="marketing-section-title">أرشيف هادئ للروابط التي تنوي العودة إليها.</h2>
-    <p class="marketing-section-intro">يحوّل LinkHQ الروابط التي تشاركها إلى مكتبةٍ يمكنك البحث فيها فعلًا، فيصبح المنشور المحفوظ سهل الاستعادة وعلى بُعد نقرةٍ واحدة من التطبيق الذي جاء منه.</p>
+    <h2 id="lk-why-title" class="marketing-section-title">مكتبة هادئة للروابط التي تنوي العودة إليها.</h2>
+    <p class="marketing-section-intro">يحوّل LinkHQ الروابط التي تشاركها إلى مكتبة تشبه ما حفظته، ترتّب نفسها بنفسها، وتبعد لمسة واحدة عن التطبيق الذي جاء منه كل رابط.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>التقاط من أي تطبيق</h3>
-      <p>يضع امتداد المشاركة LinkHQ في ورقة مشاركة النظام، فيمكنك حفظ رابطٍ أو نصٍّ مشارَك من حيث تجده.</p>
+      <h3>احفظ من أي تطبيق</h3>
+      <p>يعيش LinkHQ في ورقة المشاركة. أينما استطعت لمس «مشاركة»، يمكنك الحفظ في LinkHQ.</p>
       <ul class="marketing-list">
-        <li>احفظ عنوان ويب واحدًا، أو رابطًا موجودًا داخل نصٍّ مشارَك</li>
-        <li>يُفتح المحرّر على الفور بعنوانٍ مؤقت</li>
-        <li>عدّل العنوان والمصدر والملاحظة والوسوم والكلمات المفتاحية قبل الحفظ</li>
+        <li>احفظ رابط ويب، أو رابطًا داخل نص مُشارَك</li>
+        <li>عدّل العنوان، وأضف ملاحظة ووسومًا، أو المس Save فحسب</li>
+        <li>أو الصق رابطًا عبر Add Link</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>عناوين وصور مصغّرة وكلمات مفتاحية تلقائية</h3>
-      <p>يُجلَب العنوان الحقيقي للمقطع أو المنشور أو الصفحة ويُعرَض بدلًا من الرابط العاري، مع صورة معاينة وبضع كلمات مفتاحية.</p>
+      <h3>مكتبة تشبه ما حفظته</h3>
+      <p>يعرض كل رابط العنوان الحقيقي للفيديو أو المنشور أو الصفحة وصورة المعاينة، لا عنوان URL مجرّدًا.</p>
       <ul class="marketing-list">
-        <li>تأتي العناوين من oEmbed أو من بيانات الصفحة الوصفية</li>
-        <li>تستخدم الصور المصغّرة معاينة المنصة، وإلا فصورة الصفحة</li>
-        <li>تُستخرَج الكلمات المفتاحية على الجهاز للبحث والتصفية</li>
+        <li>تُملأ العناوين والمعاينات تلقائيًا</li>
+        <li>بضع كلمات مفتاحية لكل رابط تجعل العثور عليه سهلًا</li>
+        <li>يحمل كل رابط أيقونة المنصّة التي جاء منها</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>مرتّب لك</h3>
+      <p>يرتّب LinkHQ كل رابط في واحد من 16 موضوعًا، مثل الطعام والسفر والتقنية والموسيقى.</p>
+      <ul class="marketing-list">
+        <li>عند تشغيل Apple Intelligence، يتولّى نموذج Apple على الجهاز الترتيب</li>
+        <li>وإلا يرتّب LinkHQ وفق عنوان الرابط ووسومه وكلماته المفتاحية</li>
+        <li>اختر فئة أخرى وسيحتفظ LinkHQ باختيارك</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>أعد الفتح عند المصدر</h3>
-      <p>انقر Open Original فيعيد LinkHQ الرابط المحفوظ إلى iOS، الذي يوجّهه إلى التطبيق صاحبه حين يكون مثبّتًا.</p>
+      <p>المس Open Original فيُفتح الفيديو أو المنشور في تطبيقه عندما يكون مثبّتًا.</p>
       <ul class="marketing-list">
-        <li>يُعاد فتح رابط YouTube في تطبيق YouTube</li>
-        <li>الروابط التي لم تُفتَح قط تحمل نقطة ومرشّح Unopened</li>
-        <li>يضع Open Original علامة مفتوح على الرابط نيابةً عنك</li>
-      </ul>
-    </article>
-    <article class="marketing-card">
-      <h3>خاص افتراضيًا</h3>
-      <p>تُخزَّن المكتبة على جهازك فقط ولا تُرفَع أبدًا. الاستخدام الوحيد للشبكة هو البحث عن بيانات كل رابطٍ الوصفية عند حفظه.</p>
-      <ul class="marketing-list">
-        <li>بلا حسابات، ولا تحليلات، ولا إعلانات</li>
-        <li>تصل عمليات البحث عن البيانات الوصفية إلى موقع كل رابطٍ أو نقطة oEmbed</li>
-        <li>احذف التطبيق فتذهب المكتبة معه</li>
+        <li>رابط YouTube يفتح YouTube، ورابط RedNote يفتح الملاحظة في RedNote</li>
+        <li>الروابط التي ليس لها تطبيق تُفتح في متصفّحك</li>
+        <li>الروابط التي لم تُعِد فتحها بعد تحمل علامة، لتعرف ما ينتظرك</li>
       </ul>
     </article>
   </div>
 </section>
 
-<section class="marketing-band marketing-band--plain" aria-labelledby="lk-arch-title">
+<section class="marketing-band marketing-band--plain" aria-labelledby="lk-find-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">بنية المنتج</p>
-    <h2 id="lk-arch-title" class="marketing-section-title">مكتبة واحدة، وثلاث طرق لإبقاء روابطك مرتّبة.</h2>
-    <p class="marketing-section-intro">يجيب كل جزء من LinkHQ عن سؤالٍ مختلف، كيف تحفظ رابطًا، وكيف تجده من جديد، ومن أين جاء، مع الحفاظ على الأسلوب الهادئ المنسّق نفسه.</p>
+    <p class="marketing-eyebrow">اعثر على أي شيء بسرعة</p>
+    <h2 id="lk-find-title" class="marketing-section-title">أربع علامات تبويب تُبقي روابطك مرتّبة.</h2>
+    <p class="marketing-section-intro">لكلٍّ من Library وFavorites وCategories وSettings مهمة واحدة، فلا يبعد الرابط الذي تريده أكثر من بحث أو لمسة.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
-      <h3>المكتبة</h3>
-      <p>كل ما حفظته، الأحدث أولًا، حيث تؤدّي العناوين والصور المصغّرة العمل الذي كان يؤدّيه الرابط العاري.</p>
+      <h3>Library وFavorites</h3>
+      <p>كل ما حفظته، الأحدث أولًا، مع الروابط الأهم لديك مميّزة بنجمة في علامة تبويب خاصة بها.</p>
       <ul class="marketing-list">
-        <li>ابحث عبر العنوان والرابط والملاحظة والوسوم والكلمات المفتاحية</li>
-        <li>صفِّ حسب المصدر أو الكلمة المفتاحية أو المفضّلة أو غير المفتوح</li>
-        <li>ضع علامة مفضّلة، أو حرّر، أو احذف العناصر</li>
+        <li>ابحث في العناوين وعناوين URL والملاحظات والوسوم والكلمات المفتاحية، مع اقتراحات أثناء الكتابة</li>
+        <li>اسحب لإضافة إلى المفضّلة أو الفتح أو وضع علامة مفتوح أو الحذف</li>
+        <li>حفظت شيئًا مرتين؟ يُريك LinkHQ متى وبأي عنوان</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>التقِط وعلِّق</h3>
-      <p>يتيح لك محرّر ورقة المشاركة تشكيل الرابط قبل تخزينه، وإتمامه لاحقًا في التطبيق.</p>
+      <h3>Categories</h3>
+      <p>تصفّح مكتبتك حسب الموضوع أو المصدر أو الوسم أو الكلمة المفتاحية، ولكلٍّ عدده.</p>
       <ul class="marketing-list">
-        <li>حرّر العنوان والكلمات المفتاحية والوسوم والملاحظة</li>
-        <li>اختر مصدرًا للرابط</li>
-        <li>يذكر تنبيه التكرار متى وبأي عنوانٍ حُفِظ من قبل</li>
+        <li>افتح أي مجموعة ثم ضيّقها حسب المفضّلة أو غير المفتوح أو الفئة أو المصدر أو الكلمة المفتاحية</li>
+        <li>اعرف أي الروابط أُزيل محتواها</li>
+        <li>تحقّق من جديد بلمسة</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>المصادر والاكتشاف</h3>
-      <p>تُصنَّف الروابط حسب مضيفها، فيُضبَط المصدر الصحيح دون أن تختاره أنت.</p>
+      <h3>يعرف من أين جاء</h3>
+      <p>يتعرّف LinkHQ على 32 من أكبر المنصّات ويوسم كل رابط بأيقونته ولونه.</p>
       <ul class="marketing-list">
-        <li>YouTube وRedNote وBilibili وTikTok وInstagram وX والويب</li>
-        <li>يحدّد المصدر الأيقونة ويوجّه البحث عن البيانات الوصفية</li>
-        <li>لا يزال بإمكانك تغيير المصدر يدويًا</li>
+        <li>YouTube وInstagram وTikTok وWeChat وReddit وX وPinterest وSpotify وBilibili وRedNote وغيرها</li>
+        <li>تُحفَظ روابط أي موقع آخر أيضًا، مجمّعةً تحت Web</li>
+        <li>يمكنك دائمًا تغيير مصدر الرابط بنفسك</li>
       </ul>
     </article>
   </div>
@@ -135,52 +135,52 @@ LinkHQ مكانٌ هادئ للروابط التي تودّ أن تجدها من
 <section class="marketing-band" aria-labelledby="lk-flow-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">كيف يعمل</p>
-    <h2 id="lk-flow-title" class="marketing-section-title">من رابطٍ مشارَك إلى منشورٍ يُعاد فتحه في خمس خطوات.</h2>
+    <h2 id="lk-flow-title" class="marketing-section-title">من رابط مُشارَك إلى منشور يُعاد فتحه في خمس خطوات.</h2>
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
       <h3>شارك رابطًا</h3>
-      <p>انقر Share في أي تطبيق واختر LinkHQ، كما لو كنت ترسله إلى صديق.</p>
+      <p>المس «مشاركة» في أي تطبيق واختر LinkHQ، كما ترسله إلى صديق.</p>
     </article>
     <article class="marketing-step">
-      <h3>يلتقطه LinkHQ</h3>
-      <p>يُفتح المحرّر بعنوانٍ مؤقت، جاهزًا لملاحظة ووسوم ومصدر.</p>
+      <h3>اجعله على طريقتك</h3>
+      <p>عدّل العنوان، وأضف ملاحظة ووسومًا، أو المس Save فحسب.</p>
     </article>
     <article class="marketing-step">
-      <h3>تُملأ العناوين والصور المصغّرة</h3>
-      <p>يُجلَب العنوان الحقيقي والكلمات المفتاحية وصورة المعاينة فتستقر في مكانها.</p>
+      <h3>شاهده يكتمل</h3>
+      <p>يستقرّ العنوان الحقيقي وصورة المعاينة والكلمات المفتاحية في أماكنها تلقائيًا.</p>
     </article>
     <article class="marketing-step">
-      <h3>ابحث أو صفِّ لاحقًا</h3>
-      <p>اعثر على الرابط من جديد حسب العنوان أو المصدر أو الكلمة المفتاحية أو المفضّلة أو ما إذا فتحته.</p>
+      <h3>اعثر عليه حسب الموضوع</h3>
+      <p>يرتّب LinkHQ الرابط في موضوع، جاهزًا للتصفّح في Categories أو للعثور عليه بالبحث.</p>
     </article>
     <article class="marketing-step">
       <h3>Open Original</h3>
-      <p>انقر لإعادة الرابط إلى iOS وإعادة فتح المقطع أو المنشور عند مصدره.</p>
+      <p>لمسة واحدة ويُعاد فتح الفيديو أو المنشور في التطبيق الذي جاء منه.</p>
     </article>
   </div>
 </section>
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="lk-audience-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">لمن هو</p>
-    <h2 id="lk-audience-title" class="marketing-section-title">مصمَّم للطريقة التي تحفظ بها الأشياء أصلًا.</h2>
+    <p class="marketing-eyebrow">خاص بطبيعة تصميمه</p>
+    <h2 id="lk-audience-title" class="marketing-section-title">صُمّم لـ iPhone وiPad، ويبقى عليهما.</h2>
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>الجامعون والباحثون</h3>
-      <p>احفظ المقاطع والمنشورات والصفحات من مختلف تطبيقاتك في مكانٍ واحد قابل للبحث، بعناوين حقيقية وكلمات مفتاحية بدل جدارٍ من الروابط العارية. صفِّ حسب المصدر أو الكلمة المفتاحية لتجمع موضوعًا من جديد، واتّكئ على تنبيهات التكرار كي لا يُحفَظ الرابط نفسه مرتين عن طريق الخطأ.</p>
+      <h3>مكتبتك لا تغادر جهازك أبدًا</h3>
+      <p>ليس لدى LinkHQ خادم خاص به، ولا تُرفَع مكتبتك إلى أي مكان. لعرض عنوان الرابط ومعاينته، والتحقّق من أنه ما زال متاحًا، يسأل LinkHQ موقع الرابط نفسه، بالطلب ذاته الذي يرسله متصفّحك. وتجري الكلمات المفتاحية والترتيب حسب الموضوع مباشرةً على جهازك.</p>
     </article>
     <article class="marketing-story-card">
-      <h3>استخدام يومي على iPhone وiPad</h3>
-      <p>على iPad بعرضٍ عادي تصبح المكتبة عرضًا منقسمًا، القائمة في شريط جانبي والرابط المحدَّد إلى جانبها. يكبّر النوع الديناميكي كل تسمية حتى أكبر أحجام تسهيل الوصول، فيُقرأ الأرشيف براحةٍ أينما احتفظت به.</p>
+      <h3>مريح على iPhone وiPad</h3>
+      <p>على iPad، يرتّب شريط جانبي مكتبتك حسب الحالة والموضوع والمصدر والوسم، وتُفتح تفاصيل الرابط بجانب القائمة. استخدم ⌘N لإضافة رابط و⌘, لفتح Settings. اختر الفاتح أو الداكن أو اتبع النظام، ويكبر كل نص حتى أكبر أحجام تسهيلات الاستخدام.</p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">هل أنت مستعد للاحتفاظ بالأشياء التي تستحق العودة إليها؟</h2>
-  <p>احفظ أول رابطٍ لك من ورقة المشاركة، ودع العناوين والصور المصغّرة تُملأ.</p>
+  <p>احفظ أول رابطٍ لك من ورقة المشاركة، ودع LinkHQ يُكمل الباقي.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/ar/">زيارة الدعم</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/ar/">قراءة سياسة الخصوصية</a>

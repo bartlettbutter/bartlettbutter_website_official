@@ -11,99 +11,123 @@ redirect_from:
 
 # Come possiamo aiutarti?
 
-Vogliamo che tu sfrutti al meglio LinkHQ. Se qualcosa non funziona come previsto o hai una domanda, probabilmente trovi la risposta qui sotto. In caso contrario, scrivici e ti aiutiamo.
+Vogliamo che tu sfrutti al meglio LinkHQ. Se qualcosa non funziona come previsto o hai una domanda, probabilmente troverai la risposta qui sotto. Altrimenti scrivici e ti aiuteremo.
 
 ## Primi passi
 
 ### Come configuro l'app?
 
-Basta aprire LinkHQ. Nessun account, nessuna registrazione. Al primo avvio compare una schermata di benvenuto unica con una breve guida in tre passaggi, e appena entri nella tua libreria puoi iniziare a salvare link.
+Apri semplicemente LinkHQ. Nessun account, nessuna registrazione. Una schermata di benvenuto spiega l'idea con una breve guida in tre passaggi e, appena entri nella tua libreria, puoi iniziare a salvare link.
 
 ### Come salvo un link?
 
-Trova qualcosa da conservare in un'altra app, tocca Condividi e scegli LinkHQ nel foglio di condivisione, come lo invieresti a un amico. L'editor si apre subito con un titolo provvisorio. Regola titolo, fonte, nota, tag e parole chiave se vuoi, poi tocca Salva. Un link si può aggiungere anche a mano dalla schermata Aggiungi link dell'app.
+Quando trovi qualcosa da conservare in un'altra app, tocca Condividi e scegli LinkHQ nel foglio di condivisione, come lo manderesti a un amico. Se vuoi, modifica il titolo, scegli una fonte, aggiungi una nota e dei tag, poi tocca Save. Puoi anche incollare un link con Add Link, dal pulsante + nell'app.
 
-### Cosa succede a titolo, miniatura e parole chiave?
+### Cosa succede dopo aver salvato un link?
 
-Al salvataggio di un link, LinkHQ recupera il titolo reale e l'immagine di anteprima tramite la rete ed estrae alcune parole chiave sul tuo dispositivo. Il titolo sostituisce quello provvisorio, a meno che tu non lo abbia già modificato, e la miniatura appare quando è nota. Un link salvato prima che ciò finisca riceve titolo, parole chiave e miniatura più tardi nell'app.
+LinkHQ aggiunge il titolo vero e l'immagine di anteprima del video, del post o della pagina, sceglie qualche parola chiave e ordina il link in un argomento. Se hai già modificato il titolo, LinkHQ mantiene il tuo. Un link salvato offline riceve i suoi dettagli la prossima volta che apri l'app con una connessione.
 
 ### Come ritrovo un link?
 
-Cerca per titolo, URL, nota, tag e parole chiave, con suggerimenti di parole chiave corrispondenti mentre digiti. Puoi anche filtrare la libreria per fonte, parola chiave, preferiti o link non aperti, e segnare come preferiti quelli che contano.
+Cerca dalla parte alta dell'elenco Library o Favorites. La ricerca guarda in titoli, URL, note, tag e parole chiave, suggerisce parole chiave mentre scrivi e non bada a maiuscole o accenti. Puoi anche aprire la scheda Categories e sfogliare per argomento, fonte, tag o parola chiave, poi restringere l'elenco per preferiti, non aperti, categoria, fonte o parola chiave.
 
 ### Come riapro un link alla sua fonte?
 
-Apri un link e tocca Open Original. LinkHQ restituisce l'URL salvato a iOS, che riapre l'app di origine quando è installata e rivendica quell'URL, per esempio un link di YouTube che si apre nell'app di YouTube. Open Original segna anche il link come aperto.
+Apri un link e tocca Open Original, oppure scorri la riga fino a Open. Il video o il post si apre nella sua app quando è installata, quindi un link di YouTube apre YouTube e uno di RedNote apre la nota in RedNote. I link senza app si aprono nel browser. Aprire un link lo segna anche come aperto.
 
 ## Domande frequenti
 
 ### LinkHQ è gratuita?
 
-Sì. LinkHQ è gratuita da scaricare e usare, senza pubblicità e senza account. In futuro potremmo introdurre funzioni premium opzionali.
+Sì. LinkHQ è gratuita da scaricare e usare, senza pubblicità e senza account. In futuro potremmo introdurre funzioni premium facoltative.
 
 ### LinkHQ raccoglie i miei dati?
 
-No. Non ci sono account utente, né analisi, né tracciamento, né pubblicità. La tua libreria è archiviata solo sul tuo dispositivo e non viene mai caricata. L'unico uso della rete è una ricerca di metadati per link che recupera un titolo, una miniatura e parole chiave. Consulta la nostra [Informativa sulla privacy](https://bartlettbutter.com/linkhq/privacy/it/) completa per i dettagli.
+No. Non ci sono account, analisi, tracciamento né pubblicità. La tua libreria è salvata solo sul tuo dispositivo e non viene mai caricata. Consulta la nostra [Informativa sulla privacy](https://bartlettbutter.com/linkhq/privacy/it/) completa per i dettagli.
 
-### Quali fonti riconosce LinkHQ?
+### Come ordina LinkHQ i miei link in categorie?
 
-I link vengono classificati automaticamente per host in YouTube, RedNote, Bilibili, TikTok, Instagram, X o Web. La fonte fissa l'icona mostrata nella libreria e orienta come viene cercato il titolo. Puoi cambiare la fonte a mano nell'editor.
+Ogni link viene ordinato in uno di 16 argomenti, come cibo, viaggi, tecnologia o musica. Con Apple Intelligence attivo, ordina il modello di Apple sul dispositivo. Altrimenti LinkHQ ordina in base a titolo, tag e parole chiave del link. In entrambi i casi tutto avviene sul tuo dispositivo. Una nota sotto le categorie ti dice quale metodo ha ordinato i tuoi link.
+
+### Posso cambiare la categoria di un link?
+
+Sì. Apri il link e scegli un'altra categoria. LinkHQ rispetta la tua scelta e non riordinerà più quel link.
+
+### Quali piattaforme riconosce LinkHQ?
+
+LinkHQ riconosce 32 delle piattaforme più grandi ed etichetta ogni link con icona e colore propri, tra cui YouTube, Instagram, TikTok, Facebook, WhatsApp, WeChat, Reddit, X, LinkedIn, Pinterest, Threads, Spotify, Bilibili, RedNote, Weibo, GitHub, Medium, Apple Music e Apple Podcasts. Anche i link di qualsiasi altro sito vengono salvati, raggruppati sotto Web. Puoi cambiare la fonte di un link in qualsiasi momento.
 
 ### Cosa sono i link non aperti?
 
-Un link che non hai mai riaperto da LinkHQ porta un piccolo punto, e il filtro Non aperti li raccoglie in un unico posto. Open Original segna un link come aperto, e puoi anche segnare un link come aperto o non aperto a mano.
+Un link che non hai ancora riaperto da LinkHQ ha un piccolo punto, e il filtro Unopened li raccoglie in un unico posto. Aprire un link lo segna come aperto, e puoi anche segnarlo come aperto o non aperto scorrendo la sua riga.
+
+### Cosa significa «Unavailable»?
+
+Ogni volta che apri la libreria, LinkHQ controlla che i tuoi link salvati ci siano ancora. Un link il cui contenuto è stato rimosso viene segnato come Unavailable, e li trovi tutti in Categories. Tocca Check Again nei dettagli di un link per controllarlo subito. Se il contenuto torna, il segno scompare. Un link che richiede l'accesso o che non è stato raggiungibile non viene mai segnato come Unavailable solo per questo.
 
 ### Cosa significa un avviso di duplicato?
 
-Se condividi o aggiungi un link già salvato, LinkHQ mostra quando e con quale titolo è stato salvato la prima volta. Salvarlo di nuovo resta consentito, l'avviso è solo lì perché tu decida.
+Se condividi o aggiungi un link già salvato, LinkHQ mostra quando e con quale titolo l'hai salvato prima. Puoi comunque salvarlo di nuovo. L'avviso serve solo ad aiutarti a decidere.
 
-### Perché un link mostra l'icona della fonte invece di una miniatura?
+### Come funzionano i preferiti?
 
-Alcune piattaforme firmano URL di immagine che scadono, altre bloccano le ricerche anonime, quindi una miniatura non è sempre disponibile. Quando non c'è immagine di anteprima, l'icona della fonte ne prende il posto. Alcuni siti richiedono anche l'accesso per vedere il contenuto, perciò il loro titolo viene solo dal testo condiviso con il link.
+Attiva Favorite nei dettagli di un link, o scorri la sua riga, per aggiungerlo ai preferiti. I tuoi link preferiti hanno la loro scheda Favorites.
+
+### Posso usare LinkHQ in modalità scura?
+
+Sì. In Settings, sotto Appearance, scegli System, Light o Dark. La tua scelta vale anche quando salvi dal foglio di condivisione.
 
 ### LinkHQ funziona su iPad?
 
-Sì. Su iPad a larghezza regolare la libreria diventa una vista divisa, con l'elenco in una barra laterale e i dettagli del link selezionato accanto, e il layout si riorganizza al ridimensionamento della finestra. Ogni iPhone mantiene il layout a colonna singola.
+Sì. Su iPad, una barra laterale organizza la libreria per stato, argomento, fonte e tag, ciascuno con il suo conteggio, e i dettagli di un link si aprono accanto all'elenco quando c'è spazio. Con una tastiera, ⌘N aggiunge un link e ⌘, apre Settings.
 
-### LinkHQ supporta il Dynamic Type?
+### LinkHQ supporta testi più grandi?
 
-Sì. Tutto il testo segue l'impostazione di dimensione del testo del sistema, fino alle più grandi dimensioni di accessibilità. Alla dimensione predefinita il layout non cambia.
+Sì. Tutto il testo segue la dimensione del testo del tuo dispositivo, fino alle dimensioni di accessibilità più grandi.
+
+### Come valuto LinkHQ?
+
+Vai in Settings e tocca Rate LinkHQ. Si apre la pagina di LinkHQ sull'App Store, dove puoi lasciare una valutazione e, se vuoi, una recensione. Grazie, aiuta davvero.
+
+### Come svuoto l'intera libreria?
+
+Vai in Settings e tocca Delete All Links. Dopo la conferma, tutti i link salvati vengono rimossi dal tuo dispositivo. L'operazione non si può annullare.
 
 ## Autorizzazioni
 
 ### LinkHQ ha bisogno di autorizzazioni particolari?
 
-No. LinkHQ non chiede microfono, fotocamera, contatti, foto, dati sulla salute o posizione. Salvare link dal foglio di condivisione e riaprirli alla loro fonte non richiede queste autorizzazioni.
+No. LinkHQ non richiede microfono, fotocamera, contatti, foto, dati sulla salute o posizione. Salvare link dal foglio di condivisione e riaprirli alla fonte non richiede queste autorizzazioni.
 
 ### Perché LinkHQ usa la rete?
 
-Solo per cercare i metadati di un link salvato. Al salvataggio, l'URL viene inviato al sito del link stesso, o all'endpoint oEmbed di quella piattaforma, per recuperare un titolo e una miniatura. L'estrazione delle parole chiave avviene poi sul tuo dispositivo. La tua libreria stessa non viene mai caricata.
+Solo per consultare i link che salvi. Per mostrare titolo e anteprima di un link, e verificare che sia ancora disponibile, LinkHQ interroga il sito stesso del link, la stessa richiesta che farebbe il tuo browser, e carica l'immagine di anteprima da dove indica quel sito. Parole chiave e ordinamento per argomento avvengono sul tuo dispositivo. La tua libreria non viene mai caricata.
 
 ## Risoluzione dei problemi
 
 ### Un link non ha ottenuto un titolo reale
 
-Alcuni siti richiedono l'accesso per vedere il contenuto, perciò il loro titolo viene solo dal testo condiviso con il link, e un link incollato a mano tiene il suo host come titolo finché non lo modifichi. Ogni link viene cercato al massimo una volta per avvio, e una ricerca che non ha raggiunto il sito viene ritentata all'avvio successivo, così riaprire l'app spesso completa un titolo mancante.
+Alcuni siti richiedono l'accesso per mostrare i contenuti, quindi LinkHQ può usare solo il testo condiviso con il link, e un link incollato a mano mantiene il suo indirizzo web come titolo finché non lo modifichi. Alcuni siti limitano anche quanto spesso possono essere consultati. LinkHQ riprova la prossima volta che apri l'app, quindi un titolo mancante spesso si completa da solo. Puoi sempre modificare il titolo tu stesso.
 
 ### Un link salvato non appare subito
 
-L'app e l'estensione di condivisione girano come processi separati sulla stessa libreria. Un link salvato mentre l'app è già in background potrebbe non apparire finché non riavvii l'app.
+Un link salvato dal foglio di condivisione mentre LinkHQ è aperta in background potrebbe non apparire finché non chiudi e riapri l'app.
 
 ### Open Original ha aperto il browser invece dell'app
 
-Open Original restituisce l'URL salvato a iOS. Riapre l'app di origine solo quando quell'app è installata e rivendica l'URL. Altrimenti il link si apre nel browser.
+Un link si apre nella sua app solo quando l'app è installata e supporta l'apertura di quel tipo di link. Alcuni link, come gli articoli di WeChat, si aprono sempre nel browser. Altrimenti verifica che l'app sia installata e aggiornata.
 
 ### Una miniatura non si mostra
 
-Le miniature si caricano dal sito quando non sono già in cache. Alcune piattaforme fanno scadere i propri URL di immagine o bloccano le ricerche anonime, perciò quei link mostrano l'icona della fonte. Questo non influisce sul salvataggio né sulla riapertura del link.
+Alcune piattaforme, come Instagram e TikTok, usano immagini di anteprima che scadono, e altre non condividono anteprime senza accesso, quindi quei link mostrano l'icona della piattaforma. Questo non influisce sul salvataggio né sulla riapertura del link.
 
-### Un duplicato non è stato rilevato attraverso un link breve
+### Un duplicato non è stato rilevato con un link breve
 
-Una corrispondenza attraverso i link brevi viene riconosciuta solo una volta che il link breve è stato risolto, cosa che avviene nel foglio di condivisione o tramite il riempimento in background dell'app. Riaprire l'app le dà occasione di risolverlo.
+Un link breve (ad esempio di bit.ly o di un pulsante di condivisione) viene confrontato con il link a cui punta dopo che LinkHQ l'ha consultato. Aprire l'app con una connessione gli dà l'occasione di farlo.
 
 ### L'app si blocca
 
-Assicurati di usare l'ultima versione dall'App Store e riavvia il dispositivo. Se i blocchi persistono, scrivici con il modello del dispositivo e la versione di iOS così possiamo indagare.
+Assicurati di usare l'ultima versione dall'App Store e riavvia il dispositivo. Se i blocchi continuano, scrivici indicando il modello del dispositivo e la versione di iOS così possiamo indagare.
 
 ## Contattaci
 

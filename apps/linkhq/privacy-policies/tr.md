@@ -9,9 +9,9 @@ redirect_from:
   - /privacy-policies/linkhq/tr/
 ---
 
-**Yürürlük Tarihi:** 3 Mart 2026
+**Yürürlük Tarihi:** 28 Ekim 2026
 
-LinkHQ ("Uygulama"), iPhone ve iPad için ücretsiz, yalnızca yerel bir bağlantı arşividir. Gizlilik, onu nasıl kurduğumuzun merkezindedir. Bu politika, LinkHQ'yu kullanırken hangi verilerin söz konusu olduğunu ve daha da önemlisi hangilerinin olmadığını tam olarak açıklar.
+LinkHQ ("Uygulama"), her şeyi cihazınızda tutan, iPhone ve iPad için ücretsiz bir bağlantı kitaplığıdır. Gizlilik, onu nasıl geliştirdiğimizin merkezindedir. Bu politika, LinkHQ'yu kullandığınızda hangi verilerin söz konusu olduğunu ve daha da önemlisi hangilerinin olmadığını tam olarak açıklar.
 
 ## Kısa Sürüm
 
@@ -23,42 +23,55 @@ LinkHQ ("Uygulama"), iPhone ve iPad için ücretsiz, yalnızca yerel bir bağlan
 | İzleme veya analiz var mı? | Hayır |
 | Reklam var mı? | Hayır |
 | Verilerim satılıyor veya paylaşılıyor mu? | Hayır |
-| Uygulama çocuklar için güvenli mi? | Evet |
+| Çocuklardan veri topluyor musunuz? | Hayır |
 
-Kaydettiğiniz bağlantılar ve onların başlıkları, notları, etiketleri ve anahtar kelimeleri cihazınızda kalır. Verilerinizi alan hiçbir sunucu işletmiyoruz. LinkHQ'nun ağı kullandığı tek an, aşağıda açıklandığı gibi bağlantının kendi meta verisini sorgulamaktır.
+Kaydettiğiniz bağlantılar; başlıkları, notları, etiketleri, anahtar kelimeleri ve kategorileriyle birlikte cihazınızda kalır. Verilerinizi alan hiçbir sunucu işletmiyoruz. LinkHQ ağı yalnızca, aşağıda açıklandığı gibi, kaydettiğiniz bağlantıları sorgulamak için kullanır.
 
 ## Hangi Veriler Toplanır
 
-**Hiçbiri.** LinkHQ'da kullanıcı hesabı, analiz platformu, reklam SDK'sı veya herhangi bir türde izleme düzeneği yoktur. Kişisel bilgileri toplamaz, saklamaz veya iletmeyiz.
+**Hiçbiri.** LinkHQ'da kullanıcı hesabı, analiz platformu, reklam SDK'sı ya da herhangi bir izleme mekanizması yoktur. Kişisel bilgi toplamaz, saklamaz veya iletmeyiz.
 
 ## Uygulama Verileri Yerel Olarak Nasıl Kullanır
 
 ### Kaydettiğiniz Bağlantılar
 
-Kaydettiğiniz bağlantılar; başlıkları, notları, etiketleri, anahtar kelimeleri, kaynağı, sık kullanılan durumu ve açılma durumuyla birlikte yalnızca cihazınızda, ana uygulamanın ve paylaşım uzantısının tek bir doğruluk kaynağını okuyabilmesi için paylaşılan bir uygulama kabında saklanır. Asla yüklenmezler.
+Kaydettiğiniz bağlantılar; başlıkları, notları, etiketleri, anahtar kelimeleri, kategorileri, kaynağı, favorileri ve açılma ile erişilebilirlik durumlarıyla birlikte yalnızca cihazınızda, uygulamanın ve paylaşım sayfası uzantısının ortak kullandığı bir kapsayıcıda saklanır. Asla yüklenmezler.
 
-### Paylaşım Sayfasından Yakalama
+### Paylaşım Sayfasından Kaydetme
 
-Bir bağlantıyı LinkHQ'ya paylaştığınızda, paylaşım uzantısı kaydedilebilmesi için paylaşılan adresi veya paylaşılan metnin içindeki bir bağlantıyı okur. Bu, cihazınızda gerçekleşir. Bu paylaşımla ilgili hiçbir şey, denetlediğimiz bir sunucuya gönderilmez.
+LinkHQ ile bir şey paylaştığınızda uygulama, kaydedebilmek için paylaşılan bağlantıyı ya da paylaşılan metnin içindeki bir bağlantıyı okur. Bu cihazınızda gerçekleşir. Paylaşımla ilgili hiçbir şey kontrol ettiğimiz bir sunucuya gönderilmez.
 
-### Cihazda Anahtar Kelime Çıkarımı
+### Cihazda Anahtar Kelimeler
 
-Bir bağlantı kaydedilirken, içeriğini tanımlayan birkaç anahtar kelime cihazınızda çıkarılır; arama ve süzme için. Bu, Apple'ın cihaz üzerindeki doğal dil çerçeveleriyle yerel olarak çalışır. Bunun için hiçbir metin hiçbir yere gönderilmez.
+Bir bağlantı kaydedildiğinde, arama ve filtreleme için içeriğini tanımlayan birkaç anahtar kelime cihazınızda seçilir. Bunun için Apple'ın cihaz üzerindeki dil çerçeveleri kullanılır. Bunun için hiçbir metin bir yere gönderilmez.
 
-## Tek Ağ Kullanımı: Bağlantı Başına Meta Veri Sorgusu
+### Cihazda Konuya Göre Sıralama
 
-Bir bağlantının çıplak adresi yerine gerçek başlığını ve önizleme görselini göstermek için LinkHQ, kaydederken bağlantı başına bir meta veri sorgusu yapar ve bazen sorgu bitmeden kaydedilen bir bağlantıyı tamamlamak için uygulamada bir kez daha yapar.
+LinkHQ her bağlantıyı yemek veya seyahat gibi bir konuya yerleştirir. Apple Intelligence açık olan cihazlarda bunun için Apple'ın cihaz üzerindeki temel modeli kullanılır; aksi halde LinkHQ bağlantının başlığına, etiketlerine, anahtar kelimelerine ve notuna göre sıralar. Her ikisi de tamamen cihazınızda çalışır ve bunun için bağlantılarınızla ilgili hiçbir şey bir yere gönderilmez.
 
-- İstek, **her bağlantının kendi sitesine** veya **o platformun oEmbed uç noktasına** (örneğin YouTube, TikTok veya X) gider; bu, tarayıcınızın o bağlantı için ulaşacağı hedeflerle aynıdır.
-- Yalnızca başlık, açıklama, site anahtar kelimeleri ve önizleme görseli adresi okunur. Yalnızca görsel adresi saklanır, görselin kendisi asla; önizleme görselleri gösterildiğinde siteden yüklenir.
-- Bu istekler işlettiğimiz hiçbir sunucuya gönderilmez ve herhangi bir hesap veya tanımlayıcı taşımaz, çünkü hiç yoktur.
-- **Kitaplığınız asla yüklenmez.** Sorgu, koleksiyonunuzla değil, tek bir bağlantının herkese açık sayfasıyla ilgilidir.
+### Önizleme Görselleri
 
-Siteye ulaşamayan bir sorgu, örneğin çevrimdışıyken, başlığı veya küçük resmi yalnızca daha sonraki bir başlatmada tamamlanmak üzere bırakır.
+Önizleme görselleri, her gösterildiklerinde yeniden indirilmeleri gerekmesin diye cihazınızda önbelleğe alınır. Önbellek iOS tarafından yönetilir ve uygulamayla birlikte kaldırılır.
+
+### Ayarlar ve Puanlama İsteği
+
+Görünüm seçiminiz (System, Light veya Dark) cihazınızda saklanır. Çok sık sormamak için LinkHQ ayrıca, sizden en son ne zaman uygulamayı puanlamanızı istediğine ve App Store değerlendirme sayfasını Settings'ten açıp açmadığınıza dair küçük bir yerel kayıt tutar. Puanlar ve değerlendirmeler bizim tarafımızdan değil, Apple'ın App Store'u tarafından işlenir. Bu kayıt cihazınızdan asla çıkmaz.
+
+## LinkHQ Ağı Nasıl Kullanır
+
+Düz bir URL yerine bir bağlantının gerçek başlığını ve önizleme görselini göstermek ve bir bağlantının içeriği kaldırıldığında sizi bilgilendirmek için LinkHQ kaydettiğiniz bağlantıları sorgular. Her sorgu koleksiyonunuzu değil, tek bir bağlantıyı ilgilendirir.
+
+- **Başlıklar, önizlemeler ve anahtar kelimeler.** Bir bağlantı kaydedildiğinde, bu tamamlanmadıysa daha sonra uygulamada, LinkHQ bağlantıyı **kendi sitesinden** ister. Bazı platformlarda bunun yerine o platformun **herkese açık yerleştirme veya veri hizmetine** (örneğin YouTube, TikTok, X, Bilibili veya Wikipedia) sorar; bunlar diğer web sitelerindeki yerleştirilmiş gönderileri besleyen kaynakların aynısıdır. Kısa bir bağlantı (bit.ly gibi), nereye gittiğini bulmak için onu oluşturan hizmet üzerinden izlenir.
+- **Önizleme görselleri**, bağlantının sitesinin gösterdiği yerden yüklenir; bu, o sitenin bir görsel sunucusu olabilir.
+- **Erişilebilirlik kontrolleri.** Kitaplığınızı her açtığınızda LinkHQ, aynı şekilde her bağlantının sitesine veya o platformun herkese açık hizmetine sorarak kaydettiğiniz bağlantıların hâlâ erişilebilir olup olmadığını kontrol eder. Check Again ile tek bir bağlantıyı da kontrol edebilirsiniz.
+- Bu istekler, tarayıcınızın o bağlantı için yapacağı isteklerin aynısı olarak doğrudan cihazınızdan yapılır. Bizim işlettiğimiz hiçbir sunucuya gönderilmez ve hesap ya da kişisel tanımlayıcı taşımaz, çünkü böyle bir şey yoktur.
+- **Kitaplığınız asla yüklenmez.** Notlarınız, etiketleriniz, anahtar kelimeleriniz, kategorileriniz ve favorileriniz hiçbir yere gönderilmez.
+
+Bir siteye ulaşamayan bir sorgu, örneğin çevrimdışıyken, daha sonraki bir açılışta yeniden denenir.
 
 ## İzinler
 
-LinkHQ hiçbir hassas cihaz izni istemez.
+LinkHQ hassas cihaz izinleri istemez.
 
 | İzin | Durum |
 |------------|--------|
@@ -69,36 +82,36 @@ LinkHQ hiçbir hassas cihaz izni istemez.
 | **Sağlık verileri** | İstenmez |
 | **Konum** | İstenmez |
 
-Bağlantıları paylaşım sayfasından kaydetmek ve kaynağında yeniden açmak, bu izinlerin hiçbirini gerektirmez.
+Paylaşım sayfasından bağlantı kaydetmek ve onları kaynağında yeniden açmak bu izinlerin hiçbirini gerektirmez.
 
 ## Üçüncü Taraf Hizmetleri
 
-LinkHQ hiçbir üçüncü taraf analiz, reklam veya izleme hizmetini entegre etmez. Meta veri sorguları doğrudan her bağlantının kendi sitesiyle ya da o platformun herkese açık oEmbed uç noktasıyla iletişim kurar ve anahtar kelime çıkarımı, cihazınızda işletim sisteminin bir parçası olarak çalışan Apple'ın cihaz üzerindeki çerçevelerini kullanır.
+LinkHQ üçüncü taraf analiz, reklam veya izleme hizmetleri içermez. Bağlantı sorguları doğrudan her bağlantının sitesiyle ya da o platformun herkese açık hizmetiyle iletişim kurar. Anahtar kelimeler ve konuya göre sıralama, cihazınızda işletim sisteminin bir parçası olarak çalışan Apple çerçevelerini kullanır. Open Original dahil LinkHQ üzerinden ulaştığınız web sitelerinin kendi gizlilik politikaları vardır.
 
 ## Veri Paylaşımı
 
-Verilerinizi kimseye satmaz, kiralamaz, lisanslamaz veya paylaşmayız. LinkHQ, kitaplığınızı, notlarınızı, etiketlerinizi veya anahtar kelimelerinizi ileten hiçbir ağ trafiği oluşturmaz.
+Verilerinizi kimseye satmaz, kiralamaz, lisanslamaz veya paylaşmayız. LinkHQ kitaplığınızı, notlarınızı, etiketlerinizi, anahtar kelimelerinizi veya kategorilerinizi asla iletmez.
 
 ## Verilerin Saklanması ve Silinmesi
 
-Sunucularımızda hiçbir veri saklamayız, bu yüzden bizim tarafımızda saklanacak veya silinecek bir şey yoktur. Cihazınızdaki her şey, kaydettiğiniz bağlantılar ve tüm ayrıntıları, uygulamayı sildiğiniz anda kaldırılır. Ayarlar ayrıca kitaplığınızı yerinde boşaltmak için bir Tümünü Sil eylemi içerir.
+Sunucularımızda veri saklamadığımız için bizim tarafımızda saklanacak veya silinecek bir şey yoktur. Cihazınızdaki her şey, kaydettiğiniz bağlantılar ve tüm ayrıntıları, uygulamayı sildiğiniz anda kaldırılır. Kitaplığınızı Settings › Delete All Links ile yerinde de temizleyebilirsiniz.
 
 ## Haklarınız
 
-Hiçbir şey toplamadığımız için bizim tarafımızda erişilecek, düzeltilecek, taşınacak veya silinecek kişisel veri yoktur. Uygulamayı yöneterek veya kaldırarak yerel olarak saklanan her şey üzerinde tam denetime sahipsiniz.
+Hiçbir şey toplamadığımız için bizim tarafımızda erişilecek, düzeltilecek, taşınacak veya silinecek kişisel veri yoktur. Uygulamayı yöneterek veya kaldırarak yerel olarak saklanan her şey üzerinde tam kontrole sahipsiniz.
 
 ## Çocukların Gizliliği
 
-LinkHQ, 13 yaşından küçük çocuklar (veya yargı bölgenizde geçerli yaş) dahil olmak üzere hiç kimseden bilgi toplamaz. Hiçbir kişisel veri toplanmadığından uygulama her yaştan kullanıcı için güvenlidir.
+LinkHQ, 13 yaşından küçük çocuklar (veya yetki alanınızda geçerli yaş) dahil hiç kimseden bilgi toplamaz. LinkHQ kaydettiğiniz bağlantıların sitelerinden başlık ve önizlemeler gösterir; bu nedenle gördüğünüz içerik saklamayı seçtiğiniz bağlantılara bağlıdır.
 
 ## Uluslararası Kullanıcılar
 
-LinkHQ kişisel veri toplamadığından, kişisel bilgilerin sınır ötesi aktarımı gerçekleşmez. Bağlantı başına meta veri sorguları, kaydettiğiniz bağlantıyı barındıran siteye ulaşır.
+LinkHQ kişisel veri toplamadığından kişisel bilgilerin sınır ötesi aktarımı gerçekleşmez. Bağlantı sorguları, kaydettiğiniz bağlantıyı barındıran siteye ulaşır.
 
 ## Bu Politikadaki Değişiklikler
 
-Bu politikayı güncellersek, gözden geçirilmiş sürüm yeni bir yürürlük tarihiyle burada yayımlanır. Bir güncellemeden sonra uygulamayı kullanmaya devam etmek, gözden geçirilmiş politikanın kabulü anlamına gelir.
+Bu politikayı güncellersek, revize edilmiş sürüm yeni bir yürürlük tarihiyle burada yayımlanır. Bir güncellemeden sonra uygulamayı kullanmaya devam etmeniz, revize edilmiş politikayı kabul ettiğiniz anlamına gelir.
 
 ## İletişim
 
-Bu gizlilik politikası hakkında sorularınız mı var? Bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden e-posta gönderin.
+Bu gizlilik politikasıyla ilgili sorularınız mı var? Bize [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com) adresinden yazın.

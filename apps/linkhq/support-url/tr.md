@@ -11,95 +11,119 @@ redirect_from:
 
 # Nasıl yardımcı olabiliriz?
 
-LinkHQ'dan en iyi şekilde yararlanmanızı istiyoruz. Bir şey beklediğiniz gibi çalışmıyorsa ya da bir sorunuz varsa, yanıtı büyük olasılıkla aşağıda bulursunuz. Bulamazsanız bize ulaşın, yardımcı olalım.
+LinkHQ'dan en iyi şekilde yararlanmanızı istiyoruz. Bir şey beklendiği gibi çalışmıyorsa ya da bir sorunuz varsa, yanıtı büyük olasılıkla aşağıda bulacaksınız. Bulamazsanız bize yazın, yardımcı olalım.
 
 ## Başlarken
 
 ### Uygulamayı nasıl kurarım?
 
-Yalnızca LinkHQ'yu açın. Hesap yok, kayıt yok. İlk açılışta bir kez görünen bir karşılama ekranı fikri kısa, üç adımlı bir kılavuzla anlatır; kitaplığınıza girdiğinizde bağlantı kaydetmeye başlayabilirsiniz.
+LinkHQ'yu açmanız yeterli. Hesap ve kayıt yok. Bir karşılama ekranı fikri üç adımlık kısa bir rehberle anlatır; kitaplığınıza girdiğiniz anda bağlantı kaydetmeye başlayabilirsiniz.
 
 ### Bir bağlantıyı nasıl kaydederim?
 
-Başka bir uygulamada saklamak istediğiniz bir şey bulun, Paylaş'a dokunun ve paylaşım sayfasında LinkHQ'yu seçin, bir arkadaşınıza gönderir gibi. Düzenleyici geçici bir başlıkla hemen açılır. İsterseniz başlığı, kaynağı, notu, etiketleri ve anahtar kelimeleri ayarlayın, sonra Kaydet'e dokunun. Bir bağlantı, uygulamanın Bağlantı Ekle ekranından elle de eklenebilir.
+Başka bir uygulamada saklamak istediğiniz bir şey bulduğunuzda Paylaş'a dokunun ve bir arkadaşınıza gönderir gibi paylaşım sayfasında LinkHQ'yu seçin. İsterseniz başlığı düzenleyin, bir kaynak seçin, not ve etiket ekleyin, ardından Save'e dokunun. Uygulamadaki + düğmesinden Add Link ile bir bağlantı da yapıştırabilirsiniz.
 
-### Başlık, küçük resim ve anahtar kelimelere ne olur?
+### Bir bağlantıyı kaydettikten sonra ne olur?
 
-Bir bağlantı kaydedilirken LinkHQ gerçek başlığını ve önizleme görselini ağ üzerinden getirir ve cihazınızda birkaç anahtar kelime çıkarır. Başlığı zaten düzenlemediyseniz geçici başlık gerçek başlıkla değişir, küçük resim ise bilinir bilinmez görünür. Bu bitmeden kaydedilen bir bağlantı başlığını, anahtar kelimelerini ve küçük resmini daha sonra uygulamada alır.
+LinkHQ videonun, gönderinin ya da sayfanın gerçek başlığını ve önizleme görselini ekler, birkaç anahtar kelime seçer ve bağlantıyı bir konuya yerleştirir. Başlığı zaten düzenlediyseniz LinkHQ sizinkini korur. Çevrimdışıyken kaydedilen bir bağlantı, uygulamayı bir sonraki bağlantılı açışınızda ayrıntılarını alır.
 
 ### Bir bağlantıyı nasıl yeniden bulurum?
 
-Başlık, adres, not, etiket ve anahtar kelimeler arasında arayın; yazarken eşleşen anahtar kelimeler önerilir. Kitaplığı kaynağa, anahtar kelimeye, sık kullanılanlara veya açılmamış bağlantılara göre de süzebilir, önemsediklerinizi sık kullanılan olarak işaretleyebilirsiniz.
+Library veya Favorites listesinin üstünden arayın. Arama başlıklarda, URL'lerde, notlarda, etiketlerde ve anahtar kelimelerde yapılır, yazarken eşleşen anahtar kelimeleri önerir ve büyük-küçük harf ya da aksanlarla ilgilenmez. Categories sekmesini açıp konu, kaynak, etiket veya anahtar kelimeye göre göz atabilir, ardından listeyi favoriler, açılmamışlar, kategori, kaynak veya anahtar kelimeyle daraltabilirsiniz.
 
 ### Bir bağlantıyı kaynağında nasıl yeniden açarım?
 
-Bir bağlantıyı açın ve Open Original'a dokunun. LinkHQ kaydedilen adresi iOS'a verir; kaynak uygulama yüklüyse ve o adresi talep ediyorsa onu yeniden açar, örneğin bir YouTube bağlantısı YouTube uygulamasında açılır. Open Original ayrıca bağlantıyı açıldı olarak işaretler.
+Bir bağlantıyı açın ve Open Original'a dokunun ya da satırı Open'a kaydırın. Video veya gönderi, yüklüyse kendi uygulamasında açılır; yani YouTube bağlantısı YouTube'u, RedNote bağlantısı notu RedNote'ta açar. Uygulaması olmayan bağlantılar tarayıcınızda açılır. Bir bağlantıyı açmak onu açıldı olarak da işaretler.
 
 ## Sık Sorulan Sorular
 
 ### LinkHQ ücretsiz mi?
 
-Evet. LinkHQ indirmesi ve kullanması ücretsizdir, reklamsız ve hesapsız. İleride isteğe bağlı premium özellikler sunabiliriz.
+Evet. LinkHQ'yu indirmek ve kullanmak ücretsizdir; reklam ve hesap yoktur. Gelecekte isteğe bağlı premium özellikler sunabiliriz.
 
 ### LinkHQ verilerimi topluyor mu?
 
-Hayır. Kullanıcı hesabı, analiz, izleme veya reklam yok. Kitaplığınız yalnızca cihazınızda saklanır ve asla yüklenmez. Ağın tek kullanımı, başlık, küçük resim ve anahtar kelimeleri getiren bağlantı başına bir meta veri sorgusudur. Ayrıntılar için tam [Gizlilik Politikası](https://bartlettbutter.com/linkhq/privacy/tr/) sayfamıza bakın.
+Hayır. Hesap, analiz, izleme ve reklam yoktur. Kitaplığınız yalnızca cihazınızda saklanır ve asla yüklenmez. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/linkhq/privacy/tr/) bakın.
 
-### LinkHQ hangi kaynakları tanır?
+### LinkHQ bağlantılarımı kategorilere nasıl ayırır?
 
-Bağlantılar sunucularına göre otomatik olarak YouTube, RedNote, Bilibili, TikTok, Instagram, X veya Web olarak sınıflandırılır. Kaynak, kitaplıkta gösterilen simgeyi belirler ve başlığın nasıl aranacağını yönlendirir. Kaynağı düzenleyicide elle değiştirebilirsiniz.
+Her bağlantı yemek, seyahat, teknoloji veya müzik gibi 16 konudan birine yerleştirilir. Apple Intelligence açıkken sıralamayı Apple'ın cihaz üzerindeki modeli yapar. Aksi halde LinkHQ bağlantının başlığına, etiketlerine ve anahtar kelimelerine göre sıralar. Her ikisi de doğrudan cihazınızda gerçekleşir. Kategorilerin altındaki not, bağlantılarınızı hangisinin sıraladığını söyler.
+
+### Bir bağlantının kategorisini değiştirebilir miyim?
+
+Evet. Bağlantıyı açın ve başka bir kategori seçin. LinkHQ seçiminizi korur ve o bağlantıyı bir daha sıralamaz.
+
+### LinkHQ hangi platformları tanır?
+
+LinkHQ en büyük 32 platformu tanır ve her bağlantıyı kendi simgesi ve rengiyle etiketler; bunlar arasında YouTube, Instagram, TikTok, Facebook, WhatsApp, WeChat, Reddit, X, LinkedIn, Pinterest, Threads, Spotify, Bilibili, RedNote, Weibo, GitHub, Medium, Apple Music ve Apple Podcasts vardır. Diğer tüm sitelerden gelen bağlantılar da kaydedilir ve Web altında gruplanır. Bir bağlantının kaynağını istediğiniz zaman değiştirebilirsiniz.
 
 ### Açılmamış bağlantılar nedir?
 
-LinkHQ üzerinden hiç yeniden açmadığınız bir bağlantıda küçük bir nokta bulunur ve Unopened süzgeci bunları tek bir yerde toplar. Open Original bir bağlantıyı açıldı olarak işaretler; bir bağlantıyı elle de açıldı veya açılmadı olarak işaretleyebilirsiniz.
+LinkHQ üzerinden henüz yeniden açmadığınız bir bağlantıda küçük bir nokta bulunur ve Unopened filtresi bunları tek bir yerde toplar. Bir bağlantıyı açmak onu açıldı olarak işaretler; satırını kaydırarak da açıldı ya da açılmadı olarak işaretleyebilirsiniz.
+
+### "Unavailable" ne anlama gelir?
+
+Kitaplığınızı her açtığınızda LinkHQ kaydettiğiniz bağlantıların hâlâ yerinde olup olmadığını kontrol eder. İçeriği kaldırılmış bir bağlantı Unavailable olarak etiketlenir ve hepsini Categories'te bulabilirsiniz. Hemen kontrol etmek için bağlantının ayrıntılarında Check Again'e dokunun. İçerik geri gelirse etiket kaybolur. Oturum açmayı gerektiren ya da ulaşılamayan bir bağlantı yalnızca bu nedenle asla Unavailable olarak işaretlenmez.
 
 ### Yinelenen uyarısı ne anlama gelir?
 
-Zaten kaydedilmiş bir bağlantıyı paylaşır veya eklerseniz, LinkHQ onun ilk kez ne zaman ve hangi başlıkla kaydedildiğini gösterir. Yeniden kaydetmek yine de serbesttir; uyarı yalnızca karar vermeniz içindir.
+Zaten kayıtlı bir bağlantıyı paylaşır ya da eklerseniz, LinkHQ onu daha önce ne zaman ve hangi başlıkla kaydettiğinizi gösterir. Yine de yeniden kaydedebilirsiniz. Uyarı yalnızca karar vermenize yardımcı olmak içindir.
 
-### Bir bağlantı neden küçük resim yerine kaynak simgesi gösteriyor?
+### Favoriler nasıl çalışır?
 
-Bazı platformlar görsel adreslerini süresi dolan imzalarla imzalar, bazıları ise anonim sorguları engeller; bu yüzden küçük resim her zaman bulunmaz. Önizleme görseli olmadığında yerini kaynak simgesi alır. Bazı siteler içeriği görmek için oturum açmayı da gerektirir, bu nedenle başlıkları yalnızca bağlantıyla paylaşılan metinden gelir.
+Bir bağlantıyı favorilere eklemek için ayrıntılarında Favorite'i açın ya da satırını kaydırın. Favori bağlantılarınızın kendi Favorites sekmesi vardır.
+
+### LinkHQ'yu karanlık modda kullanabilir miyim?
+
+Evet. Settings'te Appearance altında System, Light veya Dark'ı seçin. Seçiminiz paylaşım sayfasından kaydederken de geçerlidir.
 
 ### LinkHQ iPad'de çalışır mı?
 
-Evet. Normal genişlikteki iPad'de kitaplık bölünmüş görünüme dönüşür; liste bir kenar çubuğunda, seçili bağlantının ayrıntıları yanında olur ve pencere boyutu değiştikçe düzen yeniden dizilir. Her iPhone tek sütunlu düzeni korur.
+Evet. iPad'de bir kenar çubuğu kitaplığınızı duruma, konuya, kaynağa ve etikete göre, her biri kendi sayısıyla düzenler; yer olduğunda bir bağlantının ayrıntıları listenin yanında açılır. Klavyeyle ⌘N bağlantı ekler, ⌘, Settings'i açar.
 
-### LinkHQ Dynamic Type'ı destekler mi?
+### LinkHQ daha büyük metin boyutlarını destekler mi?
 
-Evet. Tüm metin, sistemin metin boyutu ayarına uyar, en büyük erişilebilirlik boyutlarına kadar. Varsayılan boyutta düzen değişmez.
+Evet. Tüm metinler cihazınızın metin boyutu ayarını, en büyük erişilebilirlik boyutlarına kadar izler.
+
+### LinkHQ'ya nasıl puan veririm?
+
+Settings'e gidin ve Rate LinkHQ'ya dokunun. LinkHQ'nun App Store sayfası açılır; orada puan verebilir ve isterseniz bir değerlendirme yazabilirsiniz. Teşekkürler, gerçekten yardımcı oluyor.
+
+### Tüm kitaplığımı nasıl temizlerim?
+
+Settings'e gidin ve Delete All Links'e dokunun. Onayladıktan sonra kaydedilen tüm bağlantılar cihazınızdan kaldırılır. Bu işlem geri alınamaz.
 
 ## İzinler
 
 ### LinkHQ'nun özel bir izne ihtiyacı var mı?
 
-Hayır. LinkHQ mikrofon, kamera, kişiler, fotoğraflar, sağlık verileri veya konum istemez. Bağlantıları paylaşım sayfasından kaydetmek ve kaynağında yeniden açmak bu izinleri gerektirmez.
+Hayır. LinkHQ mikrofon, kamera, kişiler, fotoğraflar, sağlık verileri veya konum izni istemez. Paylaşım sayfasından bağlantı kaydetmek ve onları kaynağında yeniden açmak bu izinleri gerektirmez.
 
 ### LinkHQ neden ağı kullanır?
 
-Yalnızca kaydedilmiş bir bağlantının meta verisini sorgulamak için. Bir bağlantı kaydedilirken adresi, başlık ve küçük resim almak üzere bağlantının kendi sitesine ya da o platformun oEmbed uç noktasına gönderilir. Anahtar kelime çıkarımı ardından cihazınızda çalışır. Kitaplığınızın kendisi asla yüklenmez.
+Yalnızca kaydettiğiniz bağlantıları sorgulamak için. Bir bağlantının başlığını ve önizlemesini göstermek ve hâlâ erişilebilir olup olmadığını kontrol etmek için LinkHQ, tarayıcınızın yapacağı isteğin aynısıyla bağlantının kendi sitesine sorar ve önizleme görselini o sitenin gösterdiği yerden yükler. Anahtar kelimeler ve konuya göre sıralama cihazınızda yapılır. Kitaplığınızın kendisi asla yüklenmez.
 
 ## Sorun Giderme
 
 ### Bir bağlantı gerçek bir başlık almadı
 
-Bazı siteler içeriği görmek için oturum açmayı gerektirir, bu yüzden başlıkları yalnızca bağlantıyla paylaşılan metinden gelir; elle yapıştırılan bir bağlantı ise siz düzenleyene kadar sunucusunu başlık olarak tutar. Her bağlantı başlatma başına en çok bir kez sorgulanır ve siteye ulaşamayan bir sorgu bir sonraki başlatmada yeniden denenir; bu nedenle uygulamayı yeniden açmak çoğu zaman eksik bir başlığı tamamlar.
+Bazı siteler içeriklerini göstermek için oturum açmayı gerektirir; bu durumda LinkHQ yalnızca bağlantıyla paylaşılan metni kullanabilir ve elle yapıştırılan bir bağlantı siz düzenleyene kadar web adresini başlık olarak tutar. Bazı siteler ne sıklıkla sorgulanabileceklerini de sınırlar. LinkHQ uygulamayı bir sonraki açışınızda yeniden dener, bu yüzden eksik bir başlık çoğu zaman kendiliğinden dolar. Başlığı her zaman kendiniz düzenleyebilirsiniz.
 
 ### Kaydedilen bir bağlantı hemen görünmüyor
 
-Uygulama ve paylaşım uzantısı aynı kitaplık üzerinde ayrı süreçler olarak çalışır. Uygulama zaten arka planda çalışırken kaydedilen bir bağlantı, siz uygulamayı yeniden başlatana dek görünmeyebilir.
+LinkHQ arka planda açıkken paylaşım sayfasından kaydedilen bir bağlantı, uygulamayı kapatıp yeniden açana kadar görünmeyebilir.
 
 ### Open Original uygulama yerine tarayıcıyı açtı
 
-Open Original kaydedilen adresi iOS'a verir. Kaynak uygulamayı yalnızca o uygulama yüklüyse ve adresi talep ediyorsa yeniden açar. Aksi hâlde bağlantı tarayıcınızda açılır.
+Bir bağlantı yalnızca o uygulama yüklüyse ve bu tür bağlantıları açmayı destekliyorsa kendi uygulamasında açılır. WeChat makaleleri gibi bazı bağlantılar her zaman tarayıcıda açılır. Bunun dışında uygulamanın yüklü ve güncel olduğundan emin olun.
 
 ### Bir küçük resim görünmüyor
 
-Küçük resimler önbellekte yoksa siteden yüklenir. Bazı platformlar görsel adreslerinin süresini doldurur veya anonim sorguları engeller, bu yüzden o bağlantılar kaynak simgesini gösterir. Bu, bağlantıyı kaydetmeyi veya yeniden açmayı etkilemez.
+Instagram ve TikTok gibi bazı platformlar süresi dolan önizleme görselleri kullanır, bazıları da oturum açmadan önizleme paylaşmaz; bu bağlantılar bunun yerine platformun simgesini gösterir. Bu, bağlantıyı kaydetmeyi veya yeniden açmayı etkilemez.
 
-### Kısa bir bağlantı üzerinden yinelenen yakalanmadı
+### Kısa bir bağlantıda yinelenen yakalanmadı
 
-Kısa bağlantılar üzerinden eşleşme yalnızca kısa bağlantı çözüldükten sonra tanınır; bu, paylaşım sayfasında veya uygulamanın arka plan tamamlamasıyla gerçekleşir. Uygulamayı yeniden açmak ona çözme fırsatı verir.
+Kısa bir bağlantı (bit.ly'den ya da bir paylaş düğmesinden gelen gibi), LinkHQ onu sorguladıktan sonra işaret ettiği bağlantıyla karşılaştırılır. Uygulamayı bağlantılıyken açmak buna fırsat verir.
 
 ### Uygulama çöküyor
 

@@ -11,99 +11,123 @@ redirect_from:
 
 # Comment pouvons-nous aider ?
 
-Nous voulons que vous tiriez le meilleur de LinkHQ. Si quelque chose ne fonctionne pas comme prévu ou si vous avez une question, vous trouverez sans doute la réponse ci-dessous. Sinon, écrivez-nous et nous vous aiderons.
+Nous voulons que vous tiriez le meilleur de LinkHQ. Si quelque chose ne fonctionne pas comme prévu ou si vous avez une question, vous trouverez probablement la réponse ci-dessous. Sinon, écrivez-nous et nous vous aiderons.
 
 ## Pour commencer
 
 ### Comment configurer l'app ?
 
-Ouvrez simplement LinkHQ. Pas de compte, pas d'inscription. Au premier lancement, un écran de bienvenue unique explique l'idée avec un court guide en trois étapes, et dès que vous entrez dans votre bibliothèque, vous pouvez commencer à enregistrer des liens.
+Ouvrez simplement LinkHQ. Pas de compte, pas d'inscription. Un écran de bienvenue présente l'idée avec un court guide en trois étapes, et dès que vous entrez dans votre bibliothèque, vous pouvez commencer à enregistrer des liens.
 
 ### Comment enregistrer un lien ?
 
-Trouvez quelque chose à garder dans une autre app, touchez Partager et choisissez LinkHQ dans la feuille de partage, comme vous l'enverriez à un ami. L'éditeur s'ouvre aussitôt avec un titre provisoire. Ajustez le titre, la source, la note, les étiquettes et les mots-clés si vous le souhaitez, puis touchez Enregistrer. Un lien peut aussi être ajouté à la main depuis l'écran Ajouter un lien de l'app.
+Quand vous trouvez quelque chose à garder dans une autre app, touchez Partager et choisissez LinkHQ dans la feuille de partage, comme pour l'envoyer à un ami. Ajustez le titre, choisissez une source, ajoutez une note et des tags si vous le souhaitez, puis touchez Save. Vous pouvez aussi coller un lien avec Add Link, depuis le bouton + de l'app.
 
-### Que deviennent le titre, la vignette et les mots-clés ?
+### Que se passe-t-il après l'enregistrement d'un lien ?
 
-À l'enregistrement d'un lien, LinkHQ récupère son vrai titre et son image d'aperçu par le réseau et extrait quelques mots-clés sur votre appareil. Le titre remplace le provisoire sauf si vous l'avez déjà modifié, et la vignette apparaît une fois connue. Un lien enregistré avant la fin de cette étape reçoit son titre, ses mots-clés et sa vignette plus tard dans l'app.
+LinkHQ ajoute le vrai titre et l'image d'aperçu de la vidéo, de la publication ou de la page, choisit quelques mots-clés et range le lien dans un thème. Si vous avez déjà modifié le titre, LinkHQ garde le vôtre. Un lien enregistré hors ligne reçoit ses détails la prochaine fois que vous ouvrez l'app avec une connexion.
 
 ### Comment retrouver un lien ?
 
-Recherchez par titre, URL, note, étiquettes et mots-clés, avec des suggestions de mots-clés correspondants à la saisie. Vous pouvez aussi filtrer la bibliothèque par source, mot-clé, favoris ou liens non ouverts, et marquer en favoris ceux qui comptent.
+Lancez une recherche en haut de la liste Library ou Favorites. Elle parcourt les titres, URL, notes, tags et mots-clés, suggère des mots-clés pendant la saisie et ignore majuscules et accents. Vous pouvez aussi ouvrir l'onglet Categories et parcourir par thème, source, tag ou mot-clé, puis affiner la liste par favoris, non ouverts, catégorie, source ou mot-clé.
 
 ### Comment rouvrir un lien à sa source ?
 
-Ouvrez un lien et touchez Open Original. LinkHQ remet l'URL enregistrée à iOS, qui rouvre l'app d'origine lorsqu'elle est installée et revendique cette URL, par exemple un lien YouTube s'ouvrant dans l'app YouTube. Open Original marque aussi le lien comme ouvert.
+Ouvrez un lien et touchez Open Original, ou balayez la ligne jusqu'à Open. La vidéo ou la publication s'ouvre dans son app lorsqu'elle est installée : un lien YouTube ouvre YouTube, un lien RedNote ouvre la note dans RedNote. Les liens sans app s'ouvrent dans votre navigateur. Ouvrir un lien le marque aussi comme ouvert.
 
 ## Questions fréquentes
 
 ### LinkHQ est-elle gratuite ?
 
-Oui. LinkHQ est gratuite à télécharger et à utiliser, sans publicités et sans compte. Nous pourrions proposer des fonctionnalités premium optionnelles à l'avenir.
+Oui. LinkHQ est gratuite à télécharger et à utiliser, sans publicité et sans compte. Nous pourrions proposer à l'avenir des fonctionnalités premium facultatives.
 
 ### LinkHQ collecte-t-elle mes données ?
 
-Non. Pas de comptes, pas d'analytique, pas de suivi, pas de publicité. Votre bibliothèque est stockée uniquement sur votre appareil et n'est jamais téléversée. Le seul usage du réseau est une recherche de métadonnées par lien qui récupère un titre, une vignette et des mots-clés. Consultez notre [Politique de confidentialité](https://bartlettbutter.com/linkhq/privacy/fr/) complète pour en savoir plus.
+Non. Il n'y a ni compte, ni analytique, ni pistage, ni publicité. Votre bibliothèque est stockée uniquement sur votre appareil et n'est jamais envoyée. Consultez notre [Politique de confidentialité](https://bartlettbutter.com/linkhq/privacy/fr/) complète pour plus de détails.
 
-### Quelles sources LinkHQ reconnaît-elle ?
+### Comment LinkHQ classe-t-elle mes liens en catégories ?
 
-Les liens sont classés automatiquement selon leur hôte en YouTube, RedNote, Bilibili, TikTok, Instagram, X ou Web. La source fixe l'icône affichée dans la bibliothèque et oriente la recherche du titre. Vous pouvez changer la source à la main dans l'éditeur.
+Chaque lien est rangé dans l'un de 16 thèmes, comme la cuisine, les voyages, la technologie ou la musique. Avec Apple Intelligence activé, le modèle d'Apple sur l'appareil se charge du classement. Sinon, LinkHQ classe selon le titre, les tags et les mots-clés du lien. Dans les deux cas, tout se passe sur votre appareil. Une note sous les catégories vous indique quelle méthode a classé vos liens.
+
+### Puis-je changer la catégorie d'un lien ?
+
+Oui. Ouvrez le lien et choisissez une autre catégorie. LinkHQ garde votre choix et ne reclassera plus ce lien.
+
+### Quelles plateformes LinkHQ reconnaît-elle ?
+
+LinkHQ reconnaît 32 des plus grandes plateformes et étiquette chaque lien avec sa propre icône et sa couleur, dont YouTube, Instagram, TikTok, Facebook, WhatsApp, WeChat, Reddit, X, LinkedIn, Pinterest, Threads, Spotify, Bilibili, RedNote, Weibo, GitHub, Medium, Apple Music et Apple Podcasts. Les liens de tout autre site sont enregistrés aussi, regroupés sous Web. Vous pouvez changer la source d'un lien à tout moment.
 
 ### Que sont les liens non ouverts ?
 
-Un lien que vous n'avez jamais rouvert depuis LinkHQ porte un petit point, et le filtre Non ouverts les rassemble en un seul endroit. Open Original marque un lien comme ouvert, et vous pouvez aussi marquer un lien comme ouvert ou non ouvert à la main.
+Un lien que vous n'avez pas encore rouvert depuis LinkHQ porte un petit point, et le filtre Unopened les rassemble au même endroit. Ouvrir un lien le marque comme ouvert, et vous pouvez aussi le marquer ouvert ou non ouvert en balayant sa ligne.
+
+### Que signifie « Unavailable » ?
+
+Chaque fois que vous ouvrez votre bibliothèque, LinkHQ vérifie que vos liens enregistrés sont toujours là. Un lien dont le contenu a été supprimé est marqué Unavailable, et vous les retrouvez tous dans Categories. Touchez Check Again dans les détails d'un lien pour le vérifier tout de suite. Si le contenu revient, la mention disparaît. Un lien qui exige une connexion ou qui n'a pas pu être joint n'est jamais marqué Unavailable pour cette seule raison.
 
 ### Que signifie un avertissement de doublon ?
 
-Si vous partagez ou ajoutez un lien déjà enregistré, LinkHQ indique quand et sous quel titre il a été enregistré la première fois. L'enregistrer de nouveau reste permis, l'avertissement est là pour vous laisser décider.
+Si vous partagez ou ajoutez un lien déjà enregistré, LinkHQ indique quand et sous quel titre vous l'avez enregistré. Vous pouvez quand même l'enregistrer à nouveau. L'avertissement est simplement là pour vous aider à décider.
 
-### Pourquoi un lien affiche-t-il l'icône de source au lieu d'une vignette ?
+### Comment fonctionnent les favoris ?
 
-Certaines plateformes signent des URL d'image qui expirent, et d'autres bloquent les requêtes anonymes, si bien qu'une vignette n'est pas toujours disponible. Lorsqu'il n'y a pas d'image d'aperçu, l'icône de source prend sa place. Certains sites demandent aussi une connexion pour voir le contenu, leur titre vient donc seulement du texte partagé avec le lien.
+Activez Favorite dans les détails d'un lien, ou balayez sa ligne, pour l'ajouter aux favoris. Vos liens favoris ont leur propre onglet Favorites.
+
+### Puis-je utiliser LinkHQ en mode sombre ?
+
+Oui. Dans Settings, sous Appearance, choisissez System, Light ou Dark. Votre choix s'applique aussi quand vous enregistrez depuis la feuille de partage.
 
 ### LinkHQ fonctionne-t-elle sur iPad ?
 
-Oui. Sur iPad en largeur normale, la bibliothèque devient une vue partagée, la liste dans une barre latérale et les détails du lien sélectionné à côté, et la mise en page se réorganise au redimensionnement de la fenêtre. Chaque iPhone conserve la disposition à une seule colonne.
+Oui. Sur iPad, une barre latérale organise votre bibliothèque par statut, thème, source et tag, chacun avec son nombre, et les détails d'un lien s'ouvrent à côté de la liste quand la place le permet. Avec un clavier, ⌘N ajoute un lien et ⌘, ouvre Settings.
 
-### LinkHQ prend-elle en charge le Dynamic Type ?
+### LinkHQ prend-elle en charge les grandes tailles de texte ?
 
-Oui. Tout le texte suit le réglage de taille de texte du système, jusqu'aux plus grandes tailles d'accessibilité. À la taille par défaut, la mise en page ne change pas.
+Oui. Tout le texte suit la taille de texte de votre appareil, jusqu'aux plus grandes tailles d'accessibilité.
+
+### Comment noter LinkHQ ?
+
+Allez dans Settings et touchez Rate LinkHQ. La page de LinkHQ s'ouvre dans l'App Store, où vous pouvez laisser une note et, si vous le souhaitez, un avis. Merci, cela aide vraiment.
+
+### Comment vider toute ma bibliothèque ?
+
+Allez dans Settings et touchez Delete All Links. Après confirmation, tous les liens enregistrés sont supprimés de votre appareil. Cette action est irréversible.
 
 ## Autorisations
 
 ### LinkHQ a-t-elle besoin d'autorisations particulières ?
 
-Non. LinkHQ ne demande ni le micro, ni l'appareil photo, ni les contacts, ni les photos, ni les données de santé, ni la localisation. Enregistrer des liens depuis la feuille de partage et les rouvrir à leur source n'exige pas ces autorisations.
+Non. LinkHQ ne demande pas l'accès au micro, à l'appareil photo, aux contacts, aux photos, aux données de santé ni à la localisation. Enregistrer des liens depuis la feuille de partage et les rouvrir à leur source ne nécessite pas ces autorisations.
 
 ### Pourquoi LinkHQ utilise-t-elle le réseau ?
 
-Uniquement pour rechercher les métadonnées d'un lien enregistré. À l'enregistrement, l'URL est envoyée à son propre site, ou au point oEmbed de cette plateforme, pour récupérer un titre et une vignette. L'extraction des mots-clés se fait ensuite sur votre appareil. Votre bibliothèque elle-même n'est jamais téléversée.
+Uniquement pour consulter les liens que vous enregistrez. Pour afficher le titre et l'aperçu d'un lien, et vérifier qu'il est toujours disponible, LinkHQ interroge le site du lien lui-même, la même requête que ferait votre navigateur, et charge l'image d'aperçu depuis l'adresse indiquée par ce site. Les mots-clés et le classement par thème se font sur votre appareil. Votre bibliothèque elle-même n'est jamais envoyée.
 
 ## Dépannage
 
 ### Un lien n'a pas obtenu de vrai titre
 
-Certains sites demandent une connexion pour voir leur contenu, leur titre vient donc seulement du texte partagé avec le lien, et un lien collé à la main garde son hôte comme titre jusqu'à ce que vous le modifiiez. Chaque lien est consulté au plus une fois par lancement, et une recherche qui n'a pas pu atteindre le site est réessayée au lancement suivant, si bien que rouvrir l'app complète souvent un titre manquant.
+Certains sites exigent une connexion pour afficher leur contenu ; LinkHQ ne peut alors utiliser que le texte partagé avec le lien, et un lien collé à la main garde son adresse web comme titre jusqu'à ce que vous le modifiiez. Certains sites limitent aussi la fréquence des consultations. LinkHQ réessaie à la prochaine ouverture de l'app, si bien qu'un titre manquant se complète souvent tout seul. Vous pouvez toujours modifier le titre vous-même.
 
 ### Un lien enregistré n'apparaît pas tout de suite
 
-L'app et l'extension de partage s'exécutent comme des processus distincts sur la même bibliothèque. Un lien enregistré alors que l'app tourne déjà en arrière-plan peut n'apparaître qu'après un redémarrage de l'app.
+Un lien enregistré depuis la feuille de partage pendant que LinkHQ est ouverte en arrière-plan peut n'apparaître qu'après avoir fermé puis rouvert l'app.
 
 ### Open Original a ouvert le navigateur au lieu de l'app
 
-Open Original remet l'URL enregistrée à iOS. Il ne rouvre l'app d'origine que lorsque cette app est installée et revendique l'URL. Sinon, le lien s'ouvre dans votre navigateur.
+Un lien ne s'ouvre dans son app que si celle-ci est installée et prend en charge ce type de lien. Certains liens, comme les articles WeChat, s'ouvrent toujours dans le navigateur. Sinon, vérifiez que l'app est installée et à jour.
 
 ### Une vignette ne s'affiche pas
 
-Les vignettes se chargent depuis le site quand elles ne sont pas déjà en cache. Certaines plateformes font expirer leurs URL d'image ou bloquent les requêtes anonymes, ces liens affichent donc l'icône de source. Cela n'affecte ni l'enregistrement ni la réouverture du lien.
+Certaines plateformes, comme Instagram et TikTok, utilisent des images d'aperçu qui expirent, et d'autres ne partagent pas d'aperçu sans connexion ; ces liens affichent alors l'icône de la plateforme. Cela n'affecte ni l'enregistrement ni la réouverture du lien.
 
-### Un doublon n'a pas été détecté à travers un lien court
+### Un doublon n'a pas été détecté avec un lien court
 
-Une correspondance à travers des liens courts n'est reconnue qu'une fois le lien court résolu, ce qui se produit dans la feuille de partage ou via le remplissage en arrière-plan de l'app. Rouvrir l'app lui donne l'occasion de le résoudre.
+Un lien court (par exemple de bit.ly ou d'un bouton de partage) est comparé au lien vers lequel il pointe une fois que LinkHQ l'a consulté. Ouvrir l'app avec une connexion lui en donne l'occasion.
 
 ### L'app plante
 
-Assurez-vous d'utiliser la dernière version de l'App Store et redémarrez votre appareil. Si les plantages persistent, écrivez-nous avec le modèle de votre appareil et la version d'iOS pour que nous puissions enquêter.
+Vérifiez que vous utilisez la dernière version de l'App Store et redémarrez votre appareil. Si les plantages persistent, écrivez-nous en précisant le modèle de votre appareil et votre version d'iOS afin que nous puissions enquêter.
 
 ## Nous contacter
 

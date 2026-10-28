@@ -2,7 +2,7 @@
 layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
-app_description: "Sichere die Links, zu denen du zurückkehren willst, direkt aus dem Teilen-Menü und öffne jeden wieder an seiner Quelle."
+app_description: "Sichere Links aus jeder App mit einem Teilen, nach Thema sortiert und genau dort wieder geöffnet, wo sie herkommen."
 app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 lang: de
 permalink: /linkhq/de/
@@ -14,27 +14,27 @@ redirect_from:
 
 <!--gallery-->
 
-LinkHQ ist ein ruhiger Ort für die Links, die du wiederfinden möchtest. Teile ein Video, einen Beitrag oder eine Seite so, wie du es einem Freund schicken würdest, und LinkHQ erfasst den Link, ergänzt seinen echten Titel, Schlagwörter und ein Vorschaubild und hält ihn bereit. Tippe später darauf, und die ursprüngliche App öffnet das Video oder den Beitrag wieder an seiner Quelle. Deine Bibliothek bleibt auf deinem Gerät und wird nie hochgeladen.
+Ein Video, ein Artikel, ein Rezept oder ein Beitrag, zu dem du zurückkehren willst? Teile es mit LinkHQ, so wie du es einem Freund schicken würdest. LinkHQ ergänzt den echten Titel und die Vorschau, sortiert den Link nach Thema und öffnet ihn später mit einem Tippen wieder in YouTube, RedNote oder der App, aus der er stammt. Kein Konto, keine Anmeldung, kein Tracking. Deine Bibliothek bleibt auf deinem Gerät.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
-  <span class="marketing-chip">Aus jeder App erfassen</span>
-  <span class="marketing-chip">Automatische Titel und Vorschaubilder</span>
-  <span class="marketing-chip">Nur lokal, ohne Konto</span>
-  <span class="marketing-chip">Starke Suche</span>
+  <span class="marketing-chip">Aus jeder App sichern</span>
+  <span class="marketing-chip">Automatisch nach Thema sortiert</span>
+  <span class="marketing-chip">Öffnet in der Original-App</span>
+  <span class="marketing-chip">Kein Konto, kein Tracking</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="LinkHQ at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">7 Quellen</span>
-    <span class="marketing-stat-label">YouTube, RedNote, Bilibili, TikTok, Instagram, X und das offene Web, automatisch erkannt</span>
+    <span class="marketing-stat-value">32 Plattformen</span>
+    <span class="marketing-stat-label">mit eigenem Symbol und eigener Farbe erkannt, von YouTube und TikTok bis RedNote und Bilibili, dazu jede andere Website</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">Auf dem Gerät</span>
-    <span class="marketing-stat-label">Schlagwörter werden beim Sichern eines Links auf deinem Gerät extrahiert, für Suche und Filter</span>
+    <span class="marketing-stat-value">16 Themen</span>
+    <span class="marketing-stat-label">in die deine Links automatisch sortiert werden, direkt auf deinem Gerät</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">lokal und privat, ohne Konten, ohne Tracking und ohne Werbung</span>
+    <span class="marketing-stat-value">0 Konten</span>
+    <span class="marketing-stat-label">keine Anmeldung, kein Tracking, keine Werbung, und deine Bibliothek wird nie hochgeladen</span>
   </article>
 </div>
 
@@ -51,82 +51,82 @@ LinkHQ ist ein ruhiger Ort für die Links, die du wiederfinden möchtest. Teile 
 
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Warum man es wählt</p>
-    <h2 id="lk-why-title" class="marketing-section-title">Ein ruhiges Archiv für die Links, zu denen du zurückkehren willst.</h2>
-    <p class="marketing-section-intro">LinkHQ verwandelt die Links, die du teilst, in eine Bibliothek, die du wirklich durchsuchen kannst. So lässt sich ein gesicherter Beitrag leicht wiederfinden und ist nur einen Tipp von der App entfernt, aus der er stammt.</p>
+    <p class="marketing-eyebrow">Warum LinkHQ</p>
+    <h2 id="lk-why-title" class="marketing-section-title">Eine ruhige Bibliothek für die Links, zu denen du zurückwillst.</h2>
+    <p class="marketing-section-intro">LinkHQ macht aus den Links, die du teilst, eine Bibliothek, die aussieht wie das Gesicherte, sich selbst sortiert und nur ein Tippen von der App entfernt ist, aus der jeder Link stammt.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>Aus jeder App erfassen</h3>
-      <p>Eine Teilen-Erweiterung bringt LinkHQ in das Teilen-Menü des Systems, sodass du einen Link oder geteilten Text dort sichern kannst, wo du ihn findest.</p>
+      <h3>Aus jeder App sichern</h3>
+      <p>LinkHQ wohnt im Teilen-Menü. Überall, wo du auf Teilen tippen kannst, kannst du in LinkHQ sichern.</p>
       <ul class="marketing-list">
-        <li>Sichere eine einzelne Web-URL oder einen Link innerhalb geteilten Texts</li>
-        <li>Der Editor öffnet sich sofort mit einem vorläufigen Titel</li>
-        <li>Passe Titel, Quelle, Notiz, Tags und Schlagwörter vor dem Sichern an</li>
+        <li>Sichere einen Weblink oder einen Link in geteiltem Text</li>
+        <li>Passe den Titel an, füge Notiz und Tags hinzu, oder tippe einfach auf Save</li>
+        <li>Oder füge einen Link mit Add Link ein</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Automatische Titel, Vorschaubilder und Schlagwörter</h3>
-      <p>Der echte Titel des Videos, Beitrags oder der Seite wird geladen und statt der nackten URL gezeigt, mit einem Vorschaubild und einigen Schlagwörtern.</p>
+      <h3>Eine Bibliothek, die aussieht wie das Gesicherte</h3>
+      <p>Jeder Link zeigt den echten Titel des Videos, Beitrags oder der Seite und sein Vorschaubild, keine nackte URL.</p>
       <ul class="marketing-list">
-        <li>Titel stammen von oEmbed oder den Metadaten der Seite</li>
-        <li>Vorschaubilder nutzen die Plattform-Vorschau, sonst das Seitenbild</li>
-        <li>Schlagwörter werden auf dem Gerät extrahiert, für Suche und Filter</li>
+        <li>Titel und Vorschauen ergänzen sich von selbst</li>
+        <li>Ein paar Schlagwörter pro Link machen ihn leicht wiederzufinden</li>
+        <li>Jeder Link trägt das Symbol der Plattform, von der er stammt</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Für dich sortiert</h3>
+      <p>LinkHQ sortiert jeden Link in eines von 16 Themen, etwa Essen und Trinken, Reisen, Technik oder Musik.</p>
+      <ul class="marketing-list">
+        <li>Mit eingeschalteter Apple Intelligence sortiert Apples Modell auf dem Gerät</li>
+        <li>Sonst sortiert LinkHQ nach Titel, Tags und Schlagwörtern des Links</li>
+        <li>Wähle eine andere Kategorie, und LinkHQ behält deine Wahl</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>An der Quelle wieder öffnen</h3>
-      <p>Tippe auf Open Original, und LinkHQ gibt die gesicherte URL an iOS zurück, das sie an die zuständige App weiterleitet, wenn sie installiert ist.</p>
+      <p>Tippe auf Open Original, und das Video oder der Beitrag öffnet sich in seiner eigenen App, wenn sie installiert ist.</p>
       <ul class="marketing-list">
-        <li>Ein YouTube-Link öffnet sich wieder in der YouTube-App</li>
-        <li>Nie wieder geöffnete Links tragen einen Punkt und einen Unopened-Filter</li>
-        <li>Open Original markiert den Link für dich als geöffnet</li>
-      </ul>
-    </article>
-    <article class="marketing-card">
-      <h3>Privat von Haus aus</h3>
-      <p>Die Bibliothek wird nur auf deinem Gerät gespeichert und nie hochgeladen. Das Netzwerk wird allein für eine Metadaten-Abfrage pro Link beim Sichern genutzt.</p>
-      <ul class="marketing-list">
-        <li>Keine Konten, keine Analyse, keine Werbung</li>
-        <li>Metadaten-Abfragen erreichen die eigene Seite des Links oder dessen oEmbed-Endpunkt</li>
-        <li>Lösche die App, und die Bibliothek geht mit ihr</li>
+        <li>Ein YouTube-Link öffnet YouTube, ein RedNote-Link die Notiz in RedNote</li>
+        <li>Links ohne eigene App öffnen sich im Browser</li>
+        <li>Noch nicht geöffnete Links sind markiert, damit du weißt, was noch wartet</li>
       </ul>
     </article>
   </div>
 </section>
 
-<section class="marketing-band marketing-band--plain" aria-labelledby="lk-arch-title">
+<section class="marketing-band marketing-band--plain" aria-labelledby="lk-find-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Produktarchitektur</p>
-    <h2 id="lk-arch-title" class="marketing-section-title">Eine Bibliothek, drei Wege, deine Links in Ordnung zu halten.</h2>
-    <p class="marketing-section-intro">Jeder Teil von LinkHQ beantwortet eine andere Frage, wie man einen Link sichert, wie man ihn wiederfindet und woher er kommt, und bewahrt dabei denselben ruhigen, redaktionellen Stil.</p>
+    <p class="marketing-eyebrow">Alles schnell finden</p>
+    <h2 id="lk-find-title" class="marketing-section-title">Vier Tabs, die deine Links in Ordnung halten.</h2>
+    <p class="marketing-section-intro">Library, Favorites, Categories und Settings haben je eine Aufgabe, damit der gesuchte Link nie weiter als eine Suche oder ein Tippen entfernt ist.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
-      <h3>Bibliothek</h3>
-      <p>Alles, was du gesichert hast, das Neueste zuerst, wobei Titel und Vorschaubilder die Arbeit übernehmen, die früher die nackte URL leistete.</p>
+      <h3>Library und Favorites</h3>
+      <p>Alles, was du gesichert hast, das Neueste zuerst, und deine wichtigsten Links mit Stern in einem eigenen Tab.</p>
       <ul class="marketing-list">
-        <li>Suche über Titel, URL, Notiz, Tags und Schlagwörter</li>
-        <li>Filtere nach Quelle, Schlagwort, Favoriten oder ungeöffnet</li>
-        <li>Markiere Favoriten, bearbeite oder lösche Einträge</li>
+        <li>Durchsuche Titel, URLs, Notizen, Tags und Schlagwörter, mit Vorschlägen beim Tippen</li>
+        <li>Wische, um zu favorisieren, zu öffnen, als geöffnet zu markieren oder zu löschen</li>
+        <li>Doppelt gesichert? LinkHQ zeigt, wann und unter welchem Titel</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Erfassen und kommentieren</h3>
-      <p>Der Editor des Teilen-Menüs lässt dich einen Link vor dem Speichern formen und später in der App vollenden.</p>
+      <h3>Categories</h3>
+      <p>Durchstöbere deine Bibliothek nach Thema, Quelle, Tag oder Schlagwort, jeweils mit Anzahl.</p>
       <ul class="marketing-list">
-        <li>Bearbeite Titel, Schlagwörter, Tags und Notiz</li>
-        <li>Wähle eine Quelle für den Link</li>
-        <li>Ein Duplikathinweis nennt, wann und unter welchem Titel gesichert wurde</li>
+        <li>Öffne eine Gruppe und grenze sie nach Favoriten, ungeöffnet, Kategorie, Quelle oder Schlagwort ein</li>
+        <li>Sieh, bei welchen Links der Inhalt entfernt wurde</li>
+        <li>Prüfe mit einem Tippen erneut</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Quellen und Erkennung</h3>
-      <p>Links werden nach ihrem Host eingeordnet, sodass die richtige Quelle gesetzt wird, ohne dass du sie wählst.</p>
+      <h3>Weiß, woher er kommt</h3>
+      <p>LinkHQ erkennt 32 der größten Plattformen und kennzeichnet jeden Link mit eigenem Symbol und eigener Farbe.</p>
       <ul class="marketing-list">
-        <li>YouTube, RedNote, Bilibili, TikTok, Instagram, X und Web</li>
-        <li>Die Quelle legt das Symbol fest und leitet die Metadaten-Abfrage</li>
-        <li>Du kannst die Quelle weiterhin von Hand ändern</li>
+        <li>YouTube, Instagram, TikTok, WeChat, Reddit, X, Pinterest, Spotify, Bilibili, RedNote und mehr</li>
+        <li>Links von jeder anderen Website werden ebenfalls gesichert, gruppiert unter Web</li>
+        <li>Du kannst die Quelle eines Links jederzeit selbst ändern</li>
       </ul>
     </article>
   </div>
@@ -135,52 +135,52 @@ LinkHQ ist ein ruhiger Ort für die Links, die du wiederfinden möchtest. Teile 
 <section class="marketing-band" aria-labelledby="lk-flow-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">So funktioniert es</p>
-    <h2 id="lk-flow-title" class="marketing-section-title">Von einem geteilten Link zu einem wieder geöffneten Beitrag in fünf Schritten.</h2>
+    <h2 id="lk-flow-title" class="marketing-section-title">Vom geteilten Link zum wieder geöffneten Beitrag in fünf Schritten.</h2>
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>Teile einen Link</h3>
-      <p>Tippe in einer beliebigen App auf Teilen und wähle LinkHQ, so wie du ihn einem Freund schicken würdest.</p>
+      <h3>Link teilen</h3>
+      <p>Tippe in einer beliebigen App auf Teilen und wähle LinkHQ, so wie du es einem Freund schicken würdest.</p>
     </article>
     <article class="marketing-step">
-      <h3>LinkHQ erfasst ihn</h3>
-      <p>Der Editor öffnet sich mit einem vorläufigen Titel, bereit für Notiz, Tags und eine Quelle.</p>
+      <h3>Anpassen</h3>
+      <p>Passe den Titel an, füge Notiz und Tags hinzu, oder tippe einfach auf Save.</p>
     </article>
     <article class="marketing-step">
-      <h3>Titel und Vorschaubilder füllen sich</h3>
-      <p>Der echte Titel, die Schlagwörter und das Vorschaubild werden geladen und finden ihren Platz.</p>
+      <h3>Zusehen, wie er sich füllt</h3>
+      <p>Echter Titel, Vorschaubild und Schlagwörter ergänzen sich von selbst.</p>
     </article>
     <article class="marketing-step">
-      <h3>Später suchen oder filtern</h3>
-      <p>Finde einen Link wieder nach Titel, Quelle, Schlagwort, Favorit oder ob du ihn geöffnet hast.</p>
+      <h3>Nach Thema finden</h3>
+      <p>LinkHQ sortiert den Link in ein Thema, bereit zum Stöbern in Categories oder zum Finden per Suche.</p>
     </article>
     <article class="marketing-step">
       <h3>Open Original</h3>
-      <p>Tippe, um die URL an iOS zurückzugeben und das Video oder den Beitrag an seiner Quelle wieder zu öffnen.</p>
+      <p>Ein Tippen, und das Video oder der Beitrag öffnet sich wieder in der App, aus der er stammt.</p>
     </article>
   </div>
 </section>
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="lk-audience-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Für wen es ist</p>
-    <h2 id="lk-audience-title" class="marketing-section-title">Gemacht für die Art, wie du ohnehin Dinge sicherst.</h2>
+    <p class="marketing-eyebrow">Privat von Grund auf</p>
+    <h2 id="lk-audience-title" class="marketing-section-title">Gemacht für iPhone und iPad, und dort bleibt alles.</h2>
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>Sammler und Rechercheure</h3>
-      <p>Sichere Videos, Beiträge und Seiten aus all deinen Apps an einem durchsuchbaren Ort, mit echten Titeln und Schlagwörtern statt einer Wand nackter Links. Filtere nach Quelle oder Schlagwort, um ein Thema wieder zusammenzuführen, und verlass dich auf Duplikathinweise, damit derselbe Link nicht versehentlich zweimal gesichert wird.</p>
+      <h3>Deine Bibliothek verlässt nie dein Gerät</h3>
+      <p>LinkHQ hat keinen eigenen Server, und deine Bibliothek wird nirgendwohin hochgeladen. Um Titel und Vorschau eines Links zu zeigen und zu prüfen, ob er noch verfügbar ist, fragt LinkHQ die Website des Links selbst, dieselbe Anfrage, die dein Browser stellen würde. Schlagwörter und Themensortierung entstehen direkt auf deinem Gerät.</p>
     </article>
     <article class="marketing-story-card">
-      <h3>Alltag auf iPhone und iPad</h3>
-      <p>Auf dem iPad in regulärer Breite wird die Bibliothek zu einer geteilten Ansicht, die Liste in einer Seitenleiste und der ausgewählte Link daneben. Dynamic Type skaliert jede Beschriftung bis zu den größten Barrierefreiheitsgrößen, damit sich das Archiv überall angenehm liest.</p>
+      <h3>Zuhause auf iPhone und iPad</h3>
+      <p>Auf dem iPad ordnet eine Seitenleiste deine Bibliothek nach Status, Thema, Quelle und Tag, und die Details eines Links öffnen sich neben der Liste. Mit ⌘N fügst du einen Link hinzu, mit ⌘, öffnest du Settings. Wähle Hell oder Dunkel oder folge dem System, und jede Beschriftung wächst bis zu den größten Textgrößen der Bedienungshilfen mit.</p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">Bereit zu bewahren, was es wert ist, dass du zurückkehrst?</h2>
-  <p>Sichere deinen ersten Link aus dem Teilen-Menü und lass Titel und Vorschaubilder sich füllen.</p>
+  <p>Sichere deinen ersten Link aus dem Teilen-Menü und sieh zu, wie LinkHQ den Rest ergänzt.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/de/">Support besuchen</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/de/">Datenschutzerklärung lesen</a>

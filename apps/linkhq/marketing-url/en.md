@@ -2,7 +2,7 @@
 layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
-app_description: "Save the links worth returning to, straight from the share sheet, and reopen each one at its source."
+app_description: "Save links from any app in one share, sorted by topic and reopened right where they came from."
 app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 permalink: /linkhq/
 redirect_from:
@@ -13,27 +13,27 @@ redirect_from:
 
 <!--gallery-->
 
-LinkHQ is a quiet place for the links you want to find again. Share a video, a post, or a page into it the way you would send it to a friend, and LinkHQ captures the link, fills in its real title, keywords, and thumbnail, and keeps it ready. Tap it later and the original app reopens the video or post at its source. The library lives on your device and is never uploaded.
+Found a video, article, recipe, or post you want to come back to? Share it to LinkHQ the same way you'd send it to a friend. LinkHQ fills in the real title and preview, sorts it by topic, and when you tap it later, opens it right back in YouTube, RedNote, or whichever app it came from. No account, no sign-in, no tracking. Your library stays on your device.
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
-  <span class="marketing-chip">Capture from any app</span>
-  <span class="marketing-chip">Automatic titles and thumbnails</span>
-  <span class="marketing-chip">Local-only, no account</span>
-  <span class="marketing-chip">Powerful search</span>
+  <span class="marketing-chip">Save from any app</span>
+  <span class="marketing-chip">Sorted by topic for you</span>
+  <span class="marketing-chip">Reopens in the original app</span>
+  <span class="marketing-chip">No account, no tracking</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="LinkHQ at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">7 sources</span>
-    <span class="marketing-stat-label">YouTube, RedNote, Bilibili, TikTok, Instagram, X, and the open Web, detected automatically</span>
+    <span class="marketing-stat-value">32 platforms</span>
+    <span class="marketing-stat-label">recognized with their own icon and color, from YouTube and TikTok to RedNote and Bilibili, plus every other site on the web</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">On-device</span>
-    <span class="marketing-stat-label">keywords are extracted on your device when a link is saved, for search and filtering</span>
+    <span class="marketing-stat-value">16 topics</span>
+    <span class="marketing-stat-label">your links are sorted into automatically, right on your device</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">local and private, with no accounts, no tracking, and no ads</span>
+    <span class="marketing-stat-value">0 accounts</span>
+    <span class="marketing-stat-label">no sign-in, no tracking, and no ads, and your library is never uploaded</span>
   </article>
 </div>
 
@@ -51,81 +51,81 @@ LinkHQ is a quiet place for the links you want to find again. Share a video, a p
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">Why people choose it</p>
-    <h2 id="lk-why-title" class="marketing-section-title">A calm archive for the links you mean to come back to.</h2>
-    <p class="marketing-section-intro">LinkHQ turns the links you share into a library you can actually search, so a saved post is easy to find again and one tap away from the app it came from.</p>
+    <h2 id="lk-why-title" class="marketing-section-title">A calm library for the links you mean to come back to.</h2>
+    <p class="marketing-section-intro">LinkHQ turns the links you share into a library that looks like what you saved, sorts itself, and is one tap away from the app each link came from.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>Capture from any app</h3>
-      <p>A Share Extension puts LinkHQ in the system share sheet, so a link or shared text can be saved from wherever you find it.</p>
+      <h3>Save from any app</h3>
+      <p>LinkHQ lives in the share sheet. Wherever you can tap Share, you can save to LinkHQ.</p>
       <ul class="marketing-list">
-        <li>Save a single web URL, or a link found inside shared text</li>
-        <li>The editor opens right away with a provisional title</li>
-        <li>Adjust the title, source, note, tags, and keywords before saving</li>
+        <li>Save a web link, or a link inside shared text</li>
+        <li>Adjust the title, add a note and tags, or just tap Save</li>
+        <li>Or paste a link with Add Link</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Automatic titles, thumbnails, and keywords</h3>
-      <p>The real title of the video, post, or page is fetched and shown instead of the bare URL, with a preview image and a few keywords.</p>
+      <h3>A library that looks like what you saved</h3>
+      <p>Every link shows the real title of the video, post, or page and its preview image, not a plain URL.</p>
       <ul class="marketing-list">
-        <li>Titles come from oEmbed or the page's own metadata</li>
-        <li>Thumbnails use the platform preview, else the page image</li>
-        <li>Keywords are extracted on device for search and filtering</li>
+        <li>Titles and previews fill in on their own</li>
+        <li>A few keywords for each link make it easy to find again</li>
+        <li>Each link is labeled with the icon of the platform it came from</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>Sorted for you</h3>
+      <p>LinkHQ sorts every link into one of 16 topics, such as Food & Drink, Travel & Places, Technology, and Music.</p>
+      <ul class="marketing-list">
+        <li>With Apple Intelligence on, Apple's on-device model does the sorting</li>
+        <li>Otherwise LinkHQ sorts by the link's title, tags, and keywords</li>
+        <li>Pick a different category and LinkHQ keeps your choice</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Reopen at the source</h3>
-      <p>Tap Open Original and LinkHQ hands the saved URL back to iOS, which routes it to the app that owns it when it is installed.</p>
+      <p>Tap Open Original and the video or post opens in its own app when it's installed.</p>
       <ul class="marketing-list">
-        <li>A YouTube link reopens in the YouTube app</li>
-        <li>Links never reopened carry a dot and an Unopened filter</li>
-        <li>Open Original marks a link opened for you</li>
-      </ul>
-    </article>
-    <article class="marketing-card">
-      <h3>Private by default</h3>
-      <p>The library is stored only on your device and never uploaded. The only network use is a per-link metadata lookup when a link is saved.</p>
-      <ul class="marketing-list">
-        <li>No accounts, no analytics, no ads</li>
-        <li>Metadata lookups reach each link's own site or oEmbed endpoint</li>
-        <li>Delete the app and the library goes with it</li>
+        <li>A YouTube link opens YouTube, a RedNote link opens the note in RedNote</li>
+        <li>Links without an app open in your browser</li>
+        <li>Links you haven't reopened yet are marked, so you know what's waiting</li>
       </ul>
     </article>
   </div>
 </section>
 
-<section class="marketing-band marketing-band--plain" aria-labelledby="lk-arch-title">
+<section class="marketing-band marketing-band--plain" aria-labelledby="lk-find-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Product architecture</p>
-    <h2 id="lk-arch-title" class="marketing-section-title">One library, three ways it keeps your links in order.</h2>
-    <p class="marketing-section-intro">Each part of LinkHQ answers a different question, how to save a link, how to find it again, and where it came from, while keeping the same calm, editorial style.</p>
+    <p class="marketing-eyebrow">Find anything fast</p>
+    <h2 id="lk-find-title" class="marketing-section-title">Four tabs that keep your links in order.</h2>
+    <p class="marketing-section-intro">Library, Favorites, Categories, and Settings each do one job, so the link you want is never more than a search or a tap away.</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
-      <h3>Library</h3>
-      <p>Everything you have saved, newest first, with titles and thumbnails doing the work the bare URL used to do.</p>
+      <h3>Library and Favorites</h3>
+      <p>Everything you've saved, newest first, with the links you care about most starred into their own tab.</p>
       <ul class="marketing-list">
-        <li>Search across title, URL, note, tags, and keywords</li>
-        <li>Filter by source, keyword, favorites, or unopened</li>
-        <li>Mark favorites, edit, or delete entries</li>
+        <li>Search titles, URLs, notes, tags, and keywords, with suggestions as you type</li>
+        <li>Swipe to favorite, open, mark as opened, or delete</li>
+        <li>Saved something twice? LinkHQ shows when and under what title</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Capture and annotate</h3>
-      <p>The share sheet editor lets you shape a link before it is stored, and finish it later in the app.</p>
+      <h3>Categories</h3>
+      <p>Browse your library by topic, source, tag, or keyword, each with its count.</p>
       <ul class="marketing-list">
-        <li>Edit the title, keywords, tags, and note</li>
-        <li>Pick a source for the link</li>
-        <li>A duplicate warning names when and under what title it was saved</li>
+        <li>Open any group, then narrow it down by favorites, unopened, category, source, or keyword</li>
+        <li>See which links have had their content removed</li>
+        <li>Check again in a tap</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>Sources and detection</h3>
-      <p>Links are classified by their host, so the right source is set without you choosing it.</p>
+      <h3>Knows where it came from</h3>
+      <p>LinkHQ recognizes 32 of the biggest platforms and labels each link with its own icon and color.</p>
       <ul class="marketing-list">
-        <li>YouTube, RedNote, Bilibili, TikTok, Instagram, X, and Web</li>
-        <li>The source sets the icon and informs the metadata lookup</li>
-        <li>You can still change the source by hand</li>
+        <li>YouTube, Instagram, TikTok, WeChat, Reddit, X, Pinterest, Spotify, Bilibili, RedNote, and more</li>
+        <li>Links from any other site are saved too, grouped under Web</li>
+        <li>You can always change a link's source yourself</li>
       </ul>
     </article>
   </div>
@@ -139,47 +139,47 @@ LinkHQ is a quiet place for the links you want to find again. Share a video, a p
   <div class="marketing-step-grid">
     <article class="marketing-step">
       <h3>Share a link</h3>
-      <p>Tap Share in any app and choose LinkHQ, the same way you would send it to a friend.</p>
+      <p>Tap Share in any app and choose LinkHQ, the same way you'd send it to a friend.</p>
     </article>
     <article class="marketing-step">
-      <h3>LinkHQ captures it</h3>
-      <p>The editor opens with a provisional title, ready for a note, tags, and a source.</p>
+      <h3>Make it yours</h3>
+      <p>Adjust the title, add a note and tags, or just tap Save.</p>
     </article>
     <article class="marketing-step">
-      <h3>Titles and thumbnails fill in</h3>
-      <p>The real title, keywords, and preview image are fetched and settle into place.</p>
+      <h3>Watch it fill in</h3>
+      <p>The real title, preview image, and keywords settle into place on their own.</p>
     </article>
     <article class="marketing-step">
-      <h3>Search or filter later</h3>
-      <p>Find a link again by title, source, keyword, favorite, or whether you have opened it.</p>
+      <h3>Find it by topic</h3>
+      <p>LinkHQ sorts the link into a topic, ready to browse in Categories or find with search.</p>
     </article>
     <article class="marketing-step">
       <h3>Open Original</h3>
-      <p>Tap to hand the URL back to iOS and reopen the video or post at its source.</p>
+      <p>Tap once and the video or post reopens in the app it came from.</p>
     </article>
   </div>
 </section>
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="lk-audience-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Who it serves</p>
-    <h2 id="lk-audience-title" class="marketing-section-title">Built for the way you already save things.</h2>
+    <p class="marketing-eyebrow">Private by design</p>
+    <h2 id="lk-audience-title" class="marketing-section-title">Made for iPhone and iPad, and it stays on them.</h2>
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>Collectors and researchers</h3>
-      <p>Save videos, posts, and pages from across your apps into one searchable place, with real titles and keywords instead of a wall of bare links. Filter by source or keyword to pull a topic back together, and lean on duplicate warnings so the same link is not saved twice by accident.</p>
+      <h3>Your library never leaves your device</h3>
+      <p>LinkHQ has no server of its own, and your library is never uploaded anywhere. To show a link's title and preview, and to check that it's still available, LinkHQ asks the link's own site, the same request your browser would make. Keywords and topic sorting happen right on your device.</p>
     </article>
     <article class="marketing-story-card">
-      <h3>Everyday use on iPhone and iPad</h3>
-      <p>On iPad at regular width the library becomes a split view, with the list in a sidebar and the selected link beside it. Dynamic Type scales every label up to the largest accessibility sizes, so the archive reads comfortably wherever you keep it.</p>
+      <h3>At home on iPhone and iPad</h3>
+      <p>On iPad, a sidebar organizes your library by status, topic, source, and tag, and a link's details open beside the list. Use ⌘N to add a link and ⌘, to open Settings. Choose Light or Dark, or follow your system, and every label scales up to the largest accessibility text sizes.</p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">Ready to keep the things worth returning to?</h2>
-  <p>Save your first link from the share sheet and let the titles and thumbnails fill in.</p>
+  <p>Save your first link from the share sheet and watch LinkHQ fill in the rest.</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/">Visit support</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/">Read privacy policy</a>

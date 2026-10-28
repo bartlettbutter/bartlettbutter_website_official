@@ -9,23 +9,23 @@ redirect_from:
   - /privacy-policies/linkhq/de/
 ---
 
-**Gültig ab:** 3. März 2026
+**Gültig ab:** 28. Oktober 2026
 
-LinkHQ ("die App") ist ein kostenloses, rein lokales Link-Archiv für iPhone und iPad. Datenschutz steht im Mittelpunkt, wie wir sie gebaut haben. Diese Erklärung legt genau dar, welche Daten bei der Nutzung von LinkHQ eine Rolle spielen und, noch wichtiger, welche nicht.
+LinkHQ („die App“) ist eine kostenlose Link-Bibliothek für iPhone und iPad, die alles auf deinem Gerät behält. Datenschutz steht im Mittelpunkt dessen, wie wir sie gebaut haben. Diese Richtlinie erklärt genau, welche Daten bei der Nutzung von LinkHQ eine Rolle spielen und, noch wichtiger, welche nicht.
 
 ## Die Kurzfassung
 
 | Frage | Antwort |
 |----------|--------|
-| Erheben Sie personenbezogene Daten? | Nein |
-| Wird meine Bibliothek an Ihre Server gesendet? | Nein |
+| Erhebt ihr personenbezogene Daten? | Nein |
+| Wird meine Bibliothek an eure Server gesendet? | Nein |
 | Gibt es Konten oder Anmeldungen? | Nein |
 | Gibt es Tracking oder Analyse? | Nein |
 | Gibt es Werbung? | Nein |
-| Werden meine Daten verkauft oder geteilt? | Nein |
-| Ist die App für Kinder sicher? | Ja |
+| Werden meine Daten verkauft oder weitergegeben? | Nein |
+| Erhebt ihr Daten von Kindern? | Nein |
 
-Die Links, die du sicherst, ihre Titel, Notizen, Tags und Schlagwörter bleiben auf deinem Gerät. Wir betreiben keine Server, die deine Daten empfangen. Das einzige Mal, dass LinkHQ das Netzwerk nutzt, ist die Abfrage der Metadaten des Links selbst, wie unten beschrieben.
+Die Links, die du sicherst, mit ihren Titeln, Notizen, Tags, Schlagwörtern und Kategorien, bleiben alle auf deinem Gerät. Wir betreiben keine Server, die deine Daten empfangen. LinkHQ nutzt das Netzwerk nur, um die Links nachzuschlagen, die du sicherst, wie unten beschrieben.
 
 ## Welche Daten erhoben werden
 
@@ -35,26 +35,39 @@ Die Links, die du sicherst, ihre Titel, Notizen, Tags und Schlagwörter bleiben 
 
 ### Deine gesicherten Links
 
-Die Links, die du sicherst, mit ihren Titeln, Notizen, Tags, Schlagwörtern, der Quelle, Favoriten und dem Geöffnet-Status, werden nur auf deinem Gerät gespeichert, in einem gemeinsamen App-Container, damit die Haupt-App und ihre Teilen-Erweiterung eine einzige Quelle der Wahrheit lesen. Sie werden nie hochgeladen.
+Die Links, die du sicherst, mit Titeln, Notizen, Tags, Schlagwörtern, Kategorien, Quelle, Favoriten sowie Geöffnet- und Verfügbarkeitsstatus, werden nur auf deinem Gerät gespeichert, in einem Container, den die App und ihre Erweiterung für das Teilen-Menü gemeinsam nutzen. Sie werden nie hochgeladen.
 
-### Erfassen aus dem Teilen-Menü
+### Sichern aus dem Teilen-Menü
 
-Wenn du einen Link in LinkHQ teilst, liest die Teilen-Erweiterung die geteilte URL oder einen Link innerhalb des geteilten Texts, um ihn sichern zu können. Das geschieht auf deinem Gerät. Nichts über diesen Vorgang wird an einen von uns kontrollierten Server gesendet.
+Wenn du etwas mit LinkHQ teilst, liest die App den geteilten Link oder einen Link in geteiltem Text, damit er gesichert werden kann. Das geschieht auf deinem Gerät. Nichts über das Teilen wird an einen Server gesendet, den wir betreiben.
 
-### Schlagwort-Extraktion auf dem Gerät
+### Schlagwörter auf dem Gerät
 
-Beim Sichern eines Links werden einige Schlagwörter, die seinen Inhalt beschreiben, auf deinem Gerät extrahiert, für Suche und Filter. Das läuft lokal mit Apples Natural-Language-Frameworks auf dem Gerät. Dafür wird kein Text irgendwohin gesendet.
+Wenn ein Link gesichert wird, werden auf deinem Gerät ein paar Schlagwörter zu seinem Inhalt ausgewählt, für Suche und Filter. Dafür werden Apples Sprach-Frameworks auf dem Gerät genutzt. Dafür wird kein Text irgendwohin gesendet.
 
-## Die einzige Netzwerknutzung: Metadaten-Abfrage pro Link
+### Themensortierung auf dem Gerät
 
-Um statt einer nackten URL den echten Titel eines Links und sein Vorschaubild zu zeigen, führt LinkHQ beim Sichern eine Metadaten-Abfrage pro Link durch, und manchmal noch einmal in der App, um einen vor Abschluss der Abfrage gesicherten Link zu vervollständigen.
+LinkHQ sortiert jeden Link in ein Thema, etwa Essen und Trinken oder Reisen. Auf Geräten mit eingeschalteter Apple Intelligence nutzt das Apples Basismodell auf dem Gerät; sonst sortiert LinkHQ nach Titel, Tags, Schlagwörtern und Notiz des Links. Beides läuft vollständig auf deinem Gerät, und nichts über deine Links wird dafür irgendwohin gesendet.
 
-- Die Anfrage geht an die **eigene Seite des Links** oder an den **oEmbed-Endpunkt dieser Plattform** (zum Beispiel YouTube, TikTok oder X), dieselben Ziele, die dein Browser für diesen Link erreichen würde.
-- Nur Titel, Beschreibung, Website-Schlagwörter und die URL des Vorschaubilds werden gelesen. Nur die Bild-URL wird gespeichert, nie das Bild selbst; Vorschaubilder werden beim Anzeigen von der Seite geladen.
-- Diese Anfragen gehen an keinen von uns betriebenen Server und tragen kein Konto und keine Kennung, weil es keine gibt.
-- **Deine Bibliothek wird nie hochgeladen.** Die Abfrage betrifft die öffentliche Seite eines einzelnen Links, nicht deine Sammlung.
+### Vorschaubilder
 
-Eine Abfrage, die die Seite nicht erreichen kann, etwa wenn du offline bist, überlässt Titel oder Vorschaubild einfach einem späteren Start zur Vervollständigung.
+Vorschaubilder werden auf deinem Gerät zwischengespeichert, damit sie nicht bei jeder Anzeige erneut geladen werden müssen. Der Zwischenspeicher wird von iOS verwaltet und mit der App entfernt.
+
+### Einstellungen und Bewertungsanfrage
+
+Deine Wahl der Darstellung (System, Light oder Dark) wird auf deinem Gerät gespeichert. Um nicht zu oft zu fragen, führt LinkHQ außerdem lokal einen kleinen Vermerk darüber, wann es dich zuletzt um eine Bewertung gebeten hat und ob du die Bewertungsseite im App Store über Settings geöffnet hast. Bewertungen und Rezensionen werden vom App Store von Apple abgewickelt, nicht von uns. Dieser Vermerk verlässt nie dein Gerät.
+
+## Wie LinkHQ das Netzwerk nutzt
+
+Um den echten Titel und das Vorschaubild eines Links statt einer nackten URL zu zeigen und dir zu sagen, wenn der Inhalt eines Links entfernt wurde, schlägt LinkHQ die Links nach, die du sicherst. Jede Abfrage betrifft einen einzelnen Link, nie deine Sammlung.
+
+- **Titel, Vorschauen und Schlagwörter.** Wenn ein Link gesichert wird, und später in der App, falls das nicht abgeschlossen wurde, ruft LinkHQ den Link von **seiner eigenen Website** ab. Bei manchen Plattformen fragt es stattdessen den **öffentlichen Einbettungs- oder Datendienst** dieser Plattform (zum Beispiel YouTube, TikTok, X, Bilibili oder Wikipedia), dieselben Quellen, die eingebettete Beiträge auf anderen Websites liefern. Ein Kurzlink (etwa bit.ly) wird über den Dienst verfolgt, der ihn ausgegeben hat, um sein Ziel zu finden.
+- **Vorschaubilder** werden von dort geladen, wohin die Website des Links verweist, was ein Bildserver dieser Website sein kann.
+- **Verfügbarkeitsprüfungen.** Jedes Mal, wenn du deine Bibliothek öffnest, prüft LinkHQ auf dieselbe Weise, ob deine gesicherten Links noch verfügbar sind, indem es die Website jedes Links oder den öffentlichen Dienst dieser Plattform fragt. Mit Check Again kannst du auch einen einzelnen Link prüfen.
+- Diese Anfragen gehen direkt von deinem Gerät aus, dieselben Anfragen, die dein Browser für diesen Link stellen würde. Sie werden an keinen von uns betriebenen Server gesendet und enthalten kein Konto und keine persönliche Kennung, weil es keine gibt.
+- **Deine Bibliothek wird nie hochgeladen.** Deine Notizen, Tags, Schlagwörter, Kategorien und Favoriten werden nirgendwohin gesendet.
+
+Eine Abfrage, die eine Website nicht erreicht, etwa wenn du offline bist, wird einfach bei einem späteren Start erneut versucht.
 
 ## Berechtigungen
 
@@ -73,32 +86,32 @@ Links aus dem Teilen-Menü zu sichern und an ihrer Quelle wieder zu öffnen, erf
 
 ## Dienste von Drittanbietern
 
-LinkHQ bindet keine Analyse-, Werbe- oder Tracking-Dienste von Drittanbietern ein. Metadaten-Abfragen kontaktieren direkt die eigene Seite des Links oder den öffentlichen oEmbed-Endpunkt dieser Plattform, und die Schlagwort-Extraktion nutzt Apples Frameworks auf dem Gerät, die als Teil des Betriebssystems auf deinem Gerät laufen.
+LinkHQ bindet keine Analyse-, Werbe- oder Tracking-Dienste von Drittanbietern ein. Link-Abfragen kontaktieren direkt die Website jedes Links oder den öffentlichen Dienst dieser Plattform. Schlagwörter und Themensortierung nutzen Apple-Frameworks, die als Teil des Betriebssystems auf deinem Gerät laufen. Websites, die du über LinkHQ erreichst, auch über Open Original, haben eigene Datenschutzrichtlinien.
 
 ## Weitergabe von Daten
 
-Wir verkaufen, vermieten, lizenzieren oder teilen deine Daten mit niemandem. LinkHQ erzeugt keinen Netzwerkverkehr, der deine Bibliothek, Notizen, Tags oder Schlagwörter übermittelt.
+Wir verkaufen, vermieten, lizenzieren oder teilen deine Daten mit niemandem. LinkHQ überträgt nie deine Bibliothek, Notizen, Tags, Schlagwörter oder Kategorien.
 
 ## Aufbewahrung und Löschung von Daten
 
-Wir speichern keine Daten auf unseren Servern, es gibt also auf unserer Seite nichts aufzubewahren oder zu löschen. Alles auf deinem Gerät, deine gesicherten Links und all ihre Details, wird in dem Moment entfernt, in dem du die App löschst. Die Einstellungen enthalten zudem eine Aktion Alle löschen, um deine Bibliothek an Ort und Stelle zu leeren.
+Wir speichern keine Daten auf unseren Servern, also gibt es bei uns nichts aufzubewahren oder zu löschen. Alles auf deinem Gerät, deine gesicherten Links und all ihre Details, wird entfernt, sobald du die App löschst. Du kannst deine Bibliothek auch direkt mit Settings › Delete All Links leeren.
 
 ## Deine Rechte
 
-Da wir nichts erheben, gibt es auf unserer Seite keine personenbezogenen Daten, auf die zugegriffen, die berichtigt, übertragen oder gelöscht werden könnten. Du hast die volle Kontrolle über alles lokal Gespeicherte, indem du die App verwaltest oder entfernst.
+Da wir nichts erheben, gibt es bei uns keine personenbezogenen Daten, die eingesehen, berichtigt, übertragen oder gelöscht werden könnten. Du hast die volle Kontrolle über alles lokal Gespeicherte, indem du die App verwaltest oder entfernst.
 
 ## Datenschutz von Kindern
 
-LinkHQ erhebt von niemandem Informationen, auch nicht von Kindern unter 13 Jahren (oder dem in deiner Rechtsordnung geltenden Alter). Da keine personenbezogenen Daten erfasst werden, ist die App für Nutzer jeden Alters sicher.
+LinkHQ erhebt von niemandem Informationen, auch nicht von Kindern unter 13 Jahren (oder dem in deiner Rechtsordnung geltenden Alter). LinkHQ zeigt Titel und Vorschauen von den Websites der Links, die du sicherst, die angezeigten Inhalte hängen also von den Links ab, die du behalten möchtest.
 
 ## Internationale Nutzer
 
-Da LinkHQ keine personenbezogenen Daten erhebt, findet keine grenzüberschreitende Übermittlung personenbezogener Daten statt. Die Metadaten-Abfragen pro Link erreichen die Seite, die den von dir gesicherten Link hostet.
+Da LinkHQ keine personenbezogenen Daten erhebt, findet keine grenzüberschreitende Übermittlung personenbezogener Informationen statt. Link-Abfragen erreichen die Website, auf der der gesicherte Link liegt.
 
-## Änderungen dieser Erklärung
+## Änderungen dieser Richtlinie
 
-Wenn wir diese Erklärung aktualisieren, wird die überarbeitete Fassung hier mit einem neuen Gültigkeitsdatum veröffentlicht. Die fortgesetzte Nutzung der App nach einer Aktualisierung gilt als Annahme der überarbeiteten Erklärung.
+Wenn wir diese Richtlinie aktualisieren, wird die überarbeitete Fassung hier mit einem neuen Gültigkeitsdatum veröffentlicht. Die weitere Nutzung der App nach einer Aktualisierung gilt als Zustimmung zur überarbeiteten Richtlinie.
 
 ## Kontakt
 
-Fragen zu dieser Datenschutzerklärung? Schreib uns an [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).
+Fragen zu dieser Datenschutzrichtlinie? Schreib uns an [contact@bartlettbutter.com](mailto:contact@bartlettbutter.com).

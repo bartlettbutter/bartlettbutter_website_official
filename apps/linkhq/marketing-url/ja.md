@@ -2,7 +2,7 @@
 layout: app-linkhq
 title: LinkHQ
 app_icon: /assets/app-icons/icon_LinkHQ.png
-app_description: "共有シートからそのまま、また見返したいリンクを保存し、それぞれを元のアプリで開き直せます。"
+app_description: "どのアプリからでも共有ひとつでリンクを保存。トピック別に整理され、元のアプリでそのまま開き直せます。"
 app_store_url: "https://apps.apple.com/us/app/linkhq-save-organize-links/id6814350246"
 lang: ja
 permalink: /linkhq/ja/
@@ -14,27 +14,27 @@ redirect_from:
 
 <!--gallery-->
 
-LinkHQ は、もう一度見つけたいリンクのための静かな場所です。動画や投稿、ページを友だちに送るのと同じように共有すると、LinkHQ がリンクを取り込み、本当のタイトル、キーワード、サムネイルを補って、いつでも開ける状態にしておきます。あとでタップすれば、元のアプリがその動画や投稿を元の場所で開き直します。ライブラリは端末の中にとどまり、アップロードされることはありません。
+また見返したい動画、記事、レシピ、投稿を見つけたら、友だちに送るのと同じように LinkHQ に共有するだけ。LinkHQ が本当のタイトルとプレビューを入れ、トピック別に整理し、あとでタップすれば YouTube や RedNote など元のアプリでそのまま開き直します。アカウントもサインインも追跡もありません。ライブラリはあなたのデバイスの中にとどまります。
 
 <div class="marketing-chip-row" aria-label="LinkHQ highlights">
-  <span class="marketing-chip">どのアプリからでも取り込み</span>
-  <span class="marketing-chip">タイトルとサムネイルを自動取得</span>
-  <span class="marketing-chip">端末内だけ、アカウント不要</span>
-  <span class="marketing-chip">強力な検索</span>
+  <span class="marketing-chip">どのアプリからでも保存</span>
+  <span class="marketing-chip">トピック別に自動で整理</span>
+  <span class="marketing-chip">元のアプリで開き直せる</span>
+  <span class="marketing-chip">アカウント不要、追跡なし</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="LinkHQ at a glance">
   <article class="marketing-stat">
-    <span class="marketing-stat-value">7 つのソース</span>
-    <span class="marketing-stat-label">YouTube、RedNote、Bilibili、TikTok、Instagram、X、そしてオープンな Web を自動で判別</span>
+    <span class="marketing-stat-value">32 のプラットフォーム</span>
+    <span class="marketing-stat-label">をそれぞれのアイコンと色で認識。YouTube や TikTok から RedNote、Bilibili まで、ほかのあらゆるサイトにも対応</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">端末内で</span>
-    <span class="marketing-stat-label">リンク保存時に端末内でキーワードを抽出し、検索と絞り込みに使います</span>
+    <span class="marketing-stat-value">16 のトピック</span>
+    <span class="marketing-stat-label">にリンクをデバイス上で自動的に整理</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">端末内で完結し、アカウントも、追跡も、広告もありません</span>
+    <span class="marketing-stat-value">アカウント 0</span>
+    <span class="marketing-stat-label">サインインも追跡も広告もなく、ライブラリがアップロードされることはありません</span>
   </article>
 </div>
 
@@ -52,81 +52,81 @@ LinkHQ は、もう一度見つけたいリンクのための静かな場所で�
 <section class="marketing-band" aria-labelledby="lk-why-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">選ばれる理由</p>
-    <h2 id="lk-why-title" class="marketing-section-title">また戻るつもりのリンクのための、静かなアーカイブ。</h2>
-    <p class="marketing-section-intro">LinkHQ は共有したリンクを、本当に検索できるライブラリに変えます。だから保存した投稿は見つけ直しやすく、元のアプリまでタップひとつです。</p>
+    <h2 id="lk-why-title" class="marketing-section-title">また戻ってきたいリンクのための、落ち着いたライブラリ。</h2>
+    <p class="marketing-section-intro">LinkHQ は共有したリンクを、保存したものがそのまま見えて、ひとりでに整理され、どのリンクも元のアプリまでワンタップのライブラリに変えます。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>どのアプリからでも取り込み</h3>
-      <p>共有拡張がシステムの共有シートに LinkHQ を加えるので、見つけたその場からリンクや共有テキストを保存できます。</p>
+      <h3>どのアプリからでも保存</h3>
+      <p>LinkHQ は共有シートの中にあります。「共有」をタップできる場所なら、どこからでも LinkHQ に保存できます。</p>
       <ul class="marketing-list">
-        <li>ひとつの Web URL、または共有テキスト内のリンクを保存</li>
-        <li>エディタが仮のタイトルと共にすぐ開きます</li>
-        <li>保存前にタイトル、ソース、メモ、タグ、キーワードを調整</li>
+        <li>Web リンクも、共有されたテキスト内のリンクも保存</li>
+        <li>タイトルを調整し、メモやタグを追加。または Save をタップするだけ</li>
+        <li>Add Link でリンクを貼り付けることもできます</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>タイトル・サムネイル・キーワードを自動で</h3>
-      <p>動画や投稿、ページの本当のタイトルを取得し、むき出しの URL の代わりに表示します。プレビュー画像といくつかのキーワードも付きます。</p>
+      <h3>保存したものがそのまま見えるライブラリ</h3>
+      <p>どのリンクも、ただの URL ではなく、動画・投稿・ページの本当のタイトルとプレビュー画像を表示します。</p>
       <ul class="marketing-list">
-        <li>タイトルは oEmbed かページ自身のメタデータから</li>
-        <li>サムネイルはまずプラットフォームのプレビュー、なければページの画像</li>
-        <li>キーワードは端末内で抽出し、検索と絞り込みに使用</li>
+        <li>タイトルとプレビューは自動で入ります</li>
+        <li>リンクごとのいくつかのキーワードで、あとから見つけやすく</li>
+        <li>各リンクには元のプラットフォームのアイコンが付きます</li>
+      </ul>
+    </article>
+    <article class="marketing-card">
+      <h3>あなたの代わりに整理</h3>
+      <p>LinkHQ はすべてのリンクを、フード、旅行、テクノロジー、音楽など 16 のトピックのどれかに振り分けます。</p>
+      <ul class="marketing-list">
+        <li>Apple Intelligence がオンなら、デバイス上の Apple のモデルが振り分けます</li>
+        <li>オフなら、リンクのタイトル、タグ、キーワードをもとに LinkHQ が振り分けます</li>
+        <li>別のカテゴリを選べば、LinkHQ はその選択を守ります</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>元の場所で開き直す</h3>
-      <p>Open Original をタップすると、LinkHQ は保存した URL を iOS に返し、該当アプリがインストールされていればそこへ渡します。</p>
+      <p>Open Original をタップすれば、アプリがインストールされている場合はその動画や投稿がそのアプリで開きます。</p>
       <ul class="marketing-list">
-        <li>YouTube のリンクは YouTube アプリで開き直します</li>
-        <li>一度も開き直していないリンクには点が付き、Unopened で絞り込めます</li>
-        <li>Open Original はリンクを開封済みに記録します</li>
-      </ul>
-    </article>
-    <article class="marketing-card">
-      <h3>はじめからプライベート</h3>
-      <p>ライブラリは端末内だけに保存され、アップロードされません。ネットワークを使うのは保存時のリンクごとのメタデータ取得だけです。</p>
-      <ul class="marketing-list">
-        <li>アカウントも、解析も、広告もありません</li>
-        <li>メタデータ取得は各リンク自身のサイトか oEmbed エンドポイントへ</li>
-        <li>アプリを削除すればライブラリも一緒に消えます</li>
+        <li>YouTube のリンクは YouTube で、RedNote のリンクはノートを RedNote で開きます</li>
+        <li>対応アプリがないリンクはブラウザで開きます</li>
+        <li>まだ開き直していないリンクには印が付くので、残っているものがすぐわかります</li>
       </ul>
     </article>
   </div>
 </section>
 
-<section class="marketing-band marketing-band--plain" aria-labelledby="lk-arch-title">
+<section class="marketing-band marketing-band--plain" aria-labelledby="lk-find-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">プロダクトの構成</p>
-    <h2 id="lk-arch-title" class="marketing-section-title">ひとつのライブラリ、リンクを整える三つの道筋。</h2>
-    <p class="marketing-section-intro">LinkHQ の各部分は、リンクをどう保存するか、どう見つけ直すか、どこから来たか、という別々の問いに答えつつ、同じ静かで編集的なスタイルを保ちます。</p>
+    <p class="marketing-eyebrow">すぐに見つかる</p>
+    <h2 id="lk-find-title" class="marketing-section-title">リンクを整然と保つ、4 つのタブ。</h2>
+    <p class="marketing-section-intro">Library、Favorites、Categories、Settings はそれぞれ役割がひとつ。探しているリンクには、検索ひとつかタップひとつでたどり着けます。</p>
   </div>
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
-      <h3>ライブラリ</h3>
-      <p>保存したものすべてを新しい順に。タイトルとサムネイルが、かつてむき出しの URL が担っていた役目を果たします。</p>
+      <h3>Library と Favorites</h3>
+      <p>保存したものすべてを新しい順に。いちばん大切なリンクは星を付けて専用のタブへ。</p>
       <ul class="marketing-list">
-        <li>タイトル、URL、メモ、タグ、キーワードを横断して検索</li>
-        <li>ソース、キーワード、お気に入り、未開封で絞り込み</li>
-        <li>お気に入りの登録、項目の編集や削除</li>
+        <li>タイトル、URL、メモ、タグ、キーワードを入力中の候補つきで検索</li>
+        <li>スワイプでお気に入り、開く、開封済みにする、削除</li>
+        <li>2 回保存した？ いつ、どんなタイトルで保存したかを LinkHQ が表示します</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>取り込みと注釈</h3>
-      <p>共有シートのエディタで、保存前にリンクを整え、あとからアプリ内で仕上げられます。</p>
+      <h3>Categories</h3>
+      <p>トピック、ソース、タグ、キーワードごとに、件数つきでライブラリを見渡せます。</p>
       <ul class="marketing-list">
-        <li>タイトル、キーワード、タグ、メモを編集</li>
-        <li>リンクのソースを選択</li>
-        <li>重複の警告が、いつどのタイトルで保存済みかを知らせます</li>
+        <li>どのグループも開いてから、お気に入り、未開封、カテゴリ、ソース、キーワードで絞り込み</li>
+        <li>コンテンツが削除されたリンクがわかります</li>
+        <li>ワンタップで再確認</li>
       </ul>
     </article>
     <article class="marketing-card">
-      <h3>ソースと判別</h3>
-      <p>リンクはホストで分類されるので、あなたが選ばなくても正しいソースが設定されます。</p>
+      <h3>出どころがわかる</h3>
+      <p>LinkHQ は主要な 32 のプラットフォームを認識し、各リンクにそれぞれのアイコンと色を付けます。</p>
       <ul class="marketing-list">
-        <li>YouTube、RedNote、Bilibili、TikTok、Instagram、X、Web</li>
-        <li>ソースがアイコンを決め、メタデータ取得を導きます</li>
-        <li>ソースは手動でも変更できます</li>
+        <li>YouTube、Instagram、TikTok、WeChat、Reddit、X、Pinterest、Spotify、Bilibili、RedNote など</li>
+        <li>ほかのどのサイトのリンクも保存でき、Web としてまとめられます</li>
+        <li>リンクのソースはいつでも自分で変更できます</li>
       </ul>
     </article>
   </div>
@@ -135,52 +135,52 @@ LinkHQ は、もう一度見つけたいリンクのための静かな場所で�
 <section class="marketing-band" aria-labelledby="lk-flow-title">
   <div class="marketing-section-head">
     <p class="marketing-eyebrow">使い方</p>
-    <h2 id="lk-flow-title" class="marketing-section-title">共有したリンクから、開き直す投稿まで五つの手順。</h2>
+    <h2 id="lk-flow-title" class="marketing-section-title">共有したリンクから、開き直した投稿まで 5 ステップ。</h2>
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
       <h3>リンクを共有</h3>
-      <p>どのアプリでも共有をタップして LinkHQ を選びます。友だちに送るのと同じ感覚です。</p>
+      <p>どのアプリでも「共有」をタップして LinkHQ を選びます。友だちに送るのと同じです。</p>
     </article>
     <article class="marketing-step">
-      <h3>LinkHQ が取り込む</h3>
-      <p>エディタが仮のタイトルで開き、メモ、タグ、ソースを待ちます。</p>
+      <h3>自分好みに</h3>
+      <p>タイトルを調整し、メモやタグを追加。または Save をタップするだけ。</p>
     </article>
     <article class="marketing-step">
-      <h3>タイトルとサムネイルが埋まる</h3>
-      <p>本当のタイトル、キーワード、プレビュー画像が取得され、所定の位置に収まります。</p>
+      <h3>自動で埋まる</h3>
+      <p>本当のタイトル、プレビュー画像、キーワードが自然に収まります。</p>
     </article>
     <article class="marketing-step">
-      <h3>あとで検索・絞り込み</h3>
-      <p>タイトル、ソース、キーワード、お気に入り、開封したかで、リンクを見つけ直します。</p>
+      <h3>トピックで見つける</h3>
+      <p>LinkHQ がリンクをトピックに振り分け、Categories で見渡すことも検索で探すこともできます。</p>
     </article>
     <article class="marketing-step">
       <h3>Open Original</h3>
-      <p>タップして URL を iOS に返し、動画や投稿を元の場所で開き直します。</p>
+      <p>ワンタップで、動画や投稿が元のアプリで再び開きます。</p>
     </article>
   </div>
 </section>
 
 <section class="marketing-band marketing-band--plain" aria-labelledby="lk-audience-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">こんな人に</p>
-    <h2 id="lk-audience-title" class="marketing-section-title">あなたがすでにしている保存の仕方のために。</h2>
+    <p class="marketing-eyebrow">設計からプライベート</p>
+    <h2 id="lk-audience-title" class="marketing-section-title">iPhone と iPad のために。そして、そこにとどまる。</h2>
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>コレクターと調べもの好き</h3>
-      <p>いろいろなアプリの動画や投稿、ページを、検索できるひとつの場所にまとめます。むき出しのリンクの壁ではなく、本当のタイトルとキーワードで。ソースやキーワードで絞り込んでテーマを再び束ね、重複の警告を頼りに、同じリンクをうっかり二度保存しないようにできます。</p>
+      <h3>ライブラリはデバイスの外に出ません</h3>
+      <p>LinkHQ には独自のサーバーがなく、ライブラリがどこかにアップロードされることはありません。リンクのタイトルとプレビューを表示し、まだ閲覧できるかを確かめるために、LinkHQ はブラウザと同じリクエストでリンク先のサイト自体に問い合わせます。キーワードとトピックの振り分けは、デバイス上で行われます。</p>
     </article>
     <article class="marketing-story-card">
-      <h3>iPhone と iPad での毎日の使い方</h3>
-      <p>通常幅の iPad ではライブラリが分割ビューになり、一覧がサイドバー、選んだリンクがその横に並びます。Dynamic Type が各ラベルを最大のアクセシビリティサイズまで拡大するので、どこに置いてもアーカイブを快適に読めます。</p>
+      <h3>iPhone でも iPad でも快適に</h3>
+      <p>iPad では、サイドバーがライブラリを状態、トピック、ソース、タグで整理し、リンクの詳細はリストの横に開きます。⌘N でリンクを追加、⌘, で Settings を開けます。ライトかダーク、またはシステムに合わせて選べ、すべての文字はアクセシビリティの最大サイズまで大きくなります。</p>
     </article>
   </div>
 </section>
 
 <section class="marketing-cta-panel" aria-labelledby="lk-next-title">
   <h2 id="lk-next-title">また戻ってきたいものを、とっておく準備はできましたか？</h2>
-  <p>共有シートから最初のリンクを保存すれば、タイトルとサムネイルが自動で埋まります。</p>
+  <p>共有シートから最初のリンクを保存すれば、あとは LinkHQ が仕上げます。</p>
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/linkhq/support/ja/">サポートを見る</a>
     <a class="marketing-inline-link" href="/linkhq/privacy/ja/">プライバシーポリシーを読む</a>

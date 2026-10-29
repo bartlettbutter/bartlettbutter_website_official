@@ -63,7 +63,7 @@ Düz bir URL yerine bir bağlantının gerçek başlığını ve önizleme görs
 
 - **Başlıklar, önizlemeler ve anahtar kelimeler.** Bir bağlantı kaydedildiğinde, bu tamamlanmadıysa daha sonra uygulamada, LinkHQ bağlantıyı **kendi sitesinden** ister. Bazı platformlarda bunun yerine o platformun **herkese açık yerleştirme veya veri hizmetine** (örneğin YouTube, TikTok, X, Bilibili veya Wikipedia) sorar; bunlar diğer web sitelerindeki yerleştirilmiş gönderileri besleyen kaynakların aynısıdır. Kısa bir bağlantı (bit.ly gibi), nereye gittiğini bulmak için onu oluşturan hizmet üzerinden izlenir.
 - **Önizleme görselleri**, bağlantının sitesinin gösterdiği yerden yüklenir; bu, o sitenin bir görsel sunucusu olabilir.
-- **Erişilebilirlik kontrolleri.** Kitaplığınızı her açtığınızda LinkHQ, aynı şekilde her bağlantının sitesine veya o platformun herkese açık hizmetine sorarak kaydettiğiniz bağlantıların hâlâ erişilebilir olup olmadığını kontrol eder. Check Again ile tek bir bağlantıyı da kontrol edebilirsiniz.
+- **Erişilebilirlik kontrolleri.** Kitaplığınızı açtığınızda LinkHQ, aynı şekilde her bağlantının sitesine veya o platformun herkese açık hizmetine sorarak kaydettiğiniz bağlantıların hâlâ erişilebilir olup olmadığını kontrol eder. Her bağlantı en fazla 12 saatte bir kontrol edilir. Check Again ile tek bir bağlantıyı da kontrol edebilirsiniz.
 - Bu istekler, tarayıcınızın o bağlantı için yapacağı isteklerin aynısı olarak doğrudan cihazınızdan yapılır. Bizim işlettiğimiz hiçbir sunucuya gönderilmez ve hesap ya da kişisel tanımlayıcı taşımaz, çünkü böyle bir şey yoktur.
 - **Kitaplığınız asla yüklenmez.** Notlarınız, etiketleriniz, anahtar kelimeleriniz, kategorileriniz ve favorileriniz hiçbir yere gönderilmez.
 

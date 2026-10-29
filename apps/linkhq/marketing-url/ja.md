@@ -26,11 +26,11 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="LinkHQ at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">32 のプラットフォーム</span>
-    <span class="marketing-stat-label">をそれぞれのアイコンと色で認識。YouTube や TikTok から RedNote、Bilibili まで、ほかのあらゆるサイトにも対応</span>
+    <span class="marketing-stat-label">それぞれのアイコンと色で認識。YouTube や TikTok から RedNote、Bilibili まで、ほかのあらゆるサイトにも対応</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">16 のトピック</span>
-    <span class="marketing-stat-label">にリンクをデバイス上で自動的に整理</span>
+    <span class="marketing-stat-label">リンクをデバイス上で自動的に振り分け</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">アカウント 0</span>

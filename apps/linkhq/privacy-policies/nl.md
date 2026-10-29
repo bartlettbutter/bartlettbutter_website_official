@@ -63,7 +63,7 @@ Om de echte titel en voorvertoning van een link te tonen in plaats van een kale 
 
 - **Titels, voorvertoningen en trefwoorden.** Als een link wordt bewaard, en later in de app als dat niet is afgerond, vraagt LinkHQ de link op bij **de eigen site**. Voor sommige platforms vraagt het in plaats daarvan de **openbare insluit- of gegevensdienst** van dat platform (bijvoorbeeld YouTube, TikTok, X, Bilibili of Wikipedia), dezelfde bronnen die ingesloten berichten op andere websites leveren. Een korte link (zoals bit.ly) wordt gevolgd via de dienst die hem uitgaf, om te zien waar hij naartoe leidt.
 - **Voorvertoningen** worden geladen van waar de site van de link naar verwijst, wat een afbeeldingsserver van die site kan zijn.
-- **Beschikbaarheidscontroles.** Elke keer dat je je bibliotheek opent, controleert LinkHQ of je bewaarde links nog beschikbaar zijn door op dezelfde manier de site van elke link of de openbare dienst van dat platform te vragen. Met Check Again kun je ook één link controleren.
+- **Beschikbaarheidscontroles.** Wanneer je je bibliotheek opent, controleert LinkHQ of je bewaarde links nog beschikbaar zijn door op dezelfde manier de site van elke link of de openbare dienst van dat platform te vragen. Elke link wordt hoogstens eens per 12 uur gecontroleerd. Met Check Again kun je ook één link controleren.
 - Deze verzoeken gaan rechtstreeks vanaf je apparaat, dezelfde verzoeken die je browser voor die link zou doen. Ze worden niet naar een server van ons gestuurd en bevatten geen account of persoonlijke identificatie, omdat die er niet is.
 - **Je bibliotheek wordt nooit geüpload.** Je notities, tags, trefwoorden, categorieën en favorieten worden nergens naartoe gestuurd.
 

@@ -63,7 +63,7 @@ Um link que você ainda não reabriu pelo LinkHQ tem um pontinho, e o filtro Uno
 
 ### O que significa "Unavailable"?
 
-Sempre que você abre sua biblioteca, o LinkHQ verifica se seus links salvos continuam lá. Um link cujo conteúdo foi removido recebe o rótulo Unavailable, e você encontra todos eles em Categories. Toque em Check Again nos detalhes de um link para verificar na hora. Se o conteúdo voltar, o rótulo some. Um link que exige login ou que não pôde ser acessado nunca é marcado como Unavailable só por isso.
+Quando você abre sua biblioteca, o LinkHQ verifica se seus links salvos continuam lá. Cada link é verificado no máximo uma vez a cada 12 horas. Um link cujo conteúdo foi removido recebe o rótulo Unavailable, e você encontra todos eles em Categories. Toque em Check Again nos detalhes de um link para verificar na hora. Se o conteúdo voltar, o rótulo some. Um link que exige login ou que não pôde ser acessado nunca é marcado como Unavailable só por isso.
 
 ### O que significa um aviso de duplicata?
 

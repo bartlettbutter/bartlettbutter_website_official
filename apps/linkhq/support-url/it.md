@@ -63,7 +63,7 @@ Un link che non hai ancora riaperto da LinkHQ ha un piccolo punto, e il filtro U
 
 ### Cosa significa «Unavailable»?
 
-Ogni volta che apri la libreria, LinkHQ controlla che i tuoi link salvati ci siano ancora. Un link il cui contenuto è stato rimosso viene segnato come Unavailable, e li trovi tutti in Categories. Tocca Check Again nei dettagli di un link per controllarlo subito. Se il contenuto torna, il segno scompare. Un link che richiede l'accesso o che non è stato raggiungibile non viene mai segnato come Unavailable solo per questo.
+Quando apri la libreria, LinkHQ controlla che i tuoi link salvati ci siano ancora. Ogni link viene controllato al massimo una volta ogni 12 ore. Un link il cui contenuto è stato rimosso viene segnato come Unavailable, e li trovi tutti in Categories. Tocca Check Again nei dettagli di un link per controllarlo subito. Se il contenuto torna, il segno scompare. Un link che richiede l'accesso o che non è stato raggiungibile non viene mai segnato come Unavailable solo per questo.
 
 ### Cosa significa un avviso di duplicato?
 

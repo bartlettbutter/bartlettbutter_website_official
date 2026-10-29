@@ -63,7 +63,7 @@ Ein Link, den du noch nicht über LinkHQ geöffnet hast, trägt einen kleinen Pu
 
 ### Was bedeutet „Unavailable“?
 
-Jedes Mal, wenn du deine Bibliothek öffnest, prüft LinkHQ, ob deine gesicherten Links noch da sind. Ein Link, dessen Inhalt entfernt wurde, wird als Unavailable gekennzeichnet, und du findest alle diese Links in Categories. Tippe in den Details eines Links auf Check Again, um ihn sofort zu prüfen. Kommt der Inhalt zurück, verschwindet die Kennzeichnung. Ein Link, der eine Anmeldung verlangt oder nicht erreichbar war, wird allein deshalb nie als Unavailable markiert.
+Wenn du deine Bibliothek öffnest, prüft LinkHQ, ob deine gesicherten Links noch da sind. Jeder Link wird höchstens alle 12 Stunden geprüft. Ein Link, dessen Inhalt entfernt wurde, wird als Unavailable gekennzeichnet, und du findest alle diese Links in Categories. Tippe in den Details eines Links auf Check Again, um ihn sofort zu prüfen. Kommt der Inhalt zurück, verschwindet die Kennzeichnung. Ein Link, der eine Anmeldung verlangt oder nicht erreichbar war, wird allein deshalb nie als Unavailable markiert.
 
 ### Was bedeutet ein Duplikathinweis?
 

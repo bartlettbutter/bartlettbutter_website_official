@@ -63,7 +63,7 @@ Para mostrar el título real y la imagen de vista previa de un enlace en lugar d
 
 - **Títulos, vistas previas y palabras clave.** Cuando se guarda un enlace, y más tarde en la app si eso no terminó, LinkHQ solicita el enlace a **su propio sitio**. Para algunas plataformas consulta en su lugar el **servicio público de inserción o de datos** de esa plataforma (por ejemplo YouTube, TikTok, X, Bilibili o Wikipedia), las mismas fuentes que alimentan las publicaciones insertadas en otros sitios web. Un enlace corto (como bit.ly) se sigue a través del servicio que lo emitió para saber adónde apunta.
 - **Las imágenes de vista previa** se cargan desde donde indique el sitio del enlace, que puede ser un servidor de imágenes de ese sitio.
-- **Comprobaciones de disponibilidad.** Cada vez que abres tu biblioteca, LinkHQ comprueba si tus enlaces guardados siguen disponibles consultando del mismo modo el sitio de cada enlace o el servicio público de esa plataforma. También puedes comprobar un solo enlace con Check Again.
+- **Comprobaciones de disponibilidad.** Al abrir tu biblioteca, LinkHQ comprueba si tus enlaces guardados siguen disponibles consultando del mismo modo el sitio de cada enlace o el servicio público de esa plataforma. Cada enlace se comprueba como máximo una vez cada 12 horas. También puedes comprobar un solo enlace con Check Again.
 - Estas peticiones se hacen directamente desde tu dispositivo, las mismas que haría tu navegador para ese enlace. No se envían a ningún servidor operado por nosotros y no llevan ninguna cuenta ni identificador personal, porque no existe ninguno.
 - **Tu biblioteca nunca se sube.** Tus notas, etiquetas, palabras clave, categorías y favoritos nunca se envían a ninguna parte.
 

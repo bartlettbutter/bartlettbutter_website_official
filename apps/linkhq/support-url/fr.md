@@ -63,7 +63,7 @@ Un lien que vous n'avez pas encore rouvert depuis LinkHQ porte un petit point, e
 
 ### Que signifie « Unavailable » ?
 
-Chaque fois que vous ouvrez votre bibliothèque, LinkHQ vérifie que vos liens enregistrés sont toujours là. Un lien dont le contenu a été supprimé est marqué Unavailable, et vous les retrouvez tous dans Categories. Touchez Check Again dans les détails d'un lien pour le vérifier tout de suite. Si le contenu revient, la mention disparaît. Un lien qui exige une connexion ou qui n'a pas pu être joint n'est jamais marqué Unavailable pour cette seule raison.
+Lorsque vous ouvrez votre bibliothèque, LinkHQ vérifie que vos liens enregistrés sont toujours là. Chaque lien est vérifié au plus une fois toutes les 12 heures. Un lien dont le contenu a été supprimé est marqué Unavailable, et vous les retrouvez tous dans Categories. Touchez Check Again dans les détails d'un lien pour le vérifier tout de suite. Si le contenu revient, la mention disparaît. Un lien qui exige une connexion ou qui n'a pas pu être joint n'est jamais marqué Unavailable pour cette seule raison.
 
 ### Que signifie un avertissement de doublon ?
 

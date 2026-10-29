@@ -62,7 +62,7 @@ A link you haven't reopened through LinkHQ yet carries a small dot, and the Unop
 
 ### What does "Unavailable" mean?
 
-Each time you open your library, LinkHQ checks whether your saved links are still there. A link whose content has been removed is labeled Unavailable, and you can find all of them in Categories. Tap Check Again on a link's details to check it right away. If the content comes back, the label goes away. A link that needs sign-in or that couldn't be reached is never marked Unavailable on that basis alone.
+When you open your library, LinkHQ checks whether your saved links are still there. Each link is checked at most once every 12 hours. A link whose content has been removed is labeled Unavailable, and you can find all of them in Categories. Tap Check Again on a link's details to check it right away. If the content comes back, the label goes away. A link that needs sign-in or that couldn't be reached is never marked Unavailable on that basis alone.
 
 ### What does a duplicate warning mean?
 

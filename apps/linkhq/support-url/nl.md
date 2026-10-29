@@ -63,7 +63,7 @@ Een link die je nog niet via LinkHQ opnieuw hebt geopend, heeft een kleine stip,
 
 ### Wat betekent 'Unavailable'?
 
-Elke keer dat je je bibliotheek opent, controleert LinkHQ of je bewaarde links er nog zijn. Een link waarvan de inhoud is verwijderd, krijgt het label Unavailable, en je vindt ze allemaal in Categories. Tik op Check Again in de details van een link om hem meteen te controleren. Komt de inhoud terug, dan verdwijnt het label. Een link die aanmelding vereist of niet bereikbaar was, wordt nooit alleen daarom als Unavailable gemarkeerd.
+Wanneer je je bibliotheek opent, controleert LinkHQ of je bewaarde links er nog zijn. Elke link wordt hoogstens eens per 12 uur gecontroleerd. Een link waarvan de inhoud is verwijderd, krijgt het label Unavailable, en je vindt ze allemaal in Categories. Tik op Check Again in de details van een link om hem meteen te controleren. Komt de inhoud terug, dan verdwijnt het label. Een link die aanmelding vereist of niet bereikbaar was, wordt nooit alleen daarom als Unavailable gemarkeerd.
 
 ### Wat betekent een duplicaatmelding?
 

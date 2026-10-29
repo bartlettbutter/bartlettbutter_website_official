@@ -63,7 +63,7 @@ Un enlace que aún no has reabierto desde LinkHQ lleva un pequeño punto, y el f
 
 ### ¿Qué significa «Unavailable»?
 
-Cada vez que abres tu biblioteca, LinkHQ comprueba si tus enlaces guardados siguen ahí. Un enlace cuyo contenido se ha eliminado se marca como Unavailable, y puedes encontrarlos todos en Categories. Toca Check Again en los detalles de un enlace para comprobarlo al momento. Si el contenido vuelve, la marca desaparece. Un enlace que requiere iniciar sesión o que no se pudo alcanzar nunca se marca como Unavailable solo por eso.
+Al abrir tu biblioteca, LinkHQ comprueba si tus enlaces guardados siguen ahí. Cada enlace se comprueba como máximo una vez cada 12 horas. Un enlace cuyo contenido se ha eliminado se marca como Unavailable, y puedes encontrarlos todos en Categories. Toca Check Again en los detalles de un enlace para comprobarlo al momento. Si el contenido vuelve, la marca desaparece. Un enlace que requiere iniciar sesión o que no se pudo alcanzar nunca se marca como Unavailable solo por eso.
 
 ### ¿Qué significa un aviso de duplicado?
 

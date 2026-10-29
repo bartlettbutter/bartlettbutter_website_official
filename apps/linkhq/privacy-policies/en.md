@@ -62,7 +62,7 @@ To show a link's real title and preview image instead of a bare URL, and to tell
 
 - **Titles, previews, and keywords.** When a link is saved, and later in the app if that didn't finish, LinkHQ requests the link from **its own site**. For some platforms it asks that platform's **public embed or data service** instead (for example YouTube, TikTok, X, Bilibili, or Wikipedia), the same sources that power embedded posts on other websites. A short link (such as bit.ly) is followed through the service that issued it to find where it points.
 - **Preview images** are loaded from wherever the link's site points, which may be an image server run by that site.
-- **Availability checks.** Each time you open your library, LinkHQ checks whether your saved links are still available by asking each link's own site, or that platform's public service, in the same way. You can also check a single link with Check Again.
+- **Availability checks.** When you open your library, LinkHQ checks whether your saved links are still available by asking each link's own site, or that platform's public service, in the same way. Each link is checked at most once every 12 hours. You can also check a single link with Check Again.
 - These requests are made directly from your device, the same requests your browser would make for that link. They are not sent to any server operated by us, and they carry no account or personal identifier, because there is none.
 - **Your library is never uploaded.** Your notes, tags, keywords, categories, and favorites are never sent anywhere.
 

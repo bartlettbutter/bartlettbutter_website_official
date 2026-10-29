@@ -63,7 +63,7 @@ LinkHQ üzerinden henüz yeniden açmadığınız bir bağlantıda küçük bir 
 
 ### "Unavailable" ne anlama gelir?
 
-Kitaplığınızı her açtığınızda LinkHQ kaydettiğiniz bağlantıların hâlâ yerinde olup olmadığını kontrol eder. İçeriği kaldırılmış bir bağlantı Unavailable olarak etiketlenir ve hepsini Categories'te bulabilirsiniz. Hemen kontrol etmek için bağlantının ayrıntılarında Check Again'e dokunun. İçerik geri gelirse etiket kaybolur. Oturum açmayı gerektiren ya da ulaşılamayan bir bağlantı yalnızca bu nedenle asla Unavailable olarak işaretlenmez.
+Kitaplığınızı açtığınızda LinkHQ kaydettiğiniz bağlantıların hâlâ yerinde olup olmadığını kontrol eder. Her bağlantı en fazla 12 saatte bir kontrol edilir. İçeriği kaldırılmış bir bağlantı Unavailable olarak etiketlenir ve hepsini Categories'te bulabilirsiniz. Hemen kontrol etmek için bağlantının ayrıntılarında Check Again'e dokunun. İçerik geri gelirse etiket kaybolur. Oturum açmayı gerektiren ya da ulaşılamayan bir bağlantı yalnızca bu nedenle asla Unavailable olarak işaretlenmez.
 
 ### Yinelenen uyarısı ne anlama gelir?
 

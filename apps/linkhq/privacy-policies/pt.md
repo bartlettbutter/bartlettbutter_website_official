@@ -63,7 +63,7 @@ Para mostrar o título real e a imagem de prévia de um link em vez de uma URL q
 
 - **Títulos, prévias e palavras-chave.** Quando um link é salvo, e depois no app se isso não terminou, o LinkHQ solicita o link **ao próprio site**. Para algumas plataformas, ele consulta em vez disso o **serviço público de incorporação ou de dados** dessa plataforma (por exemplo YouTube, TikTok, X, Bilibili ou Wikipédia), as mesmas fontes que alimentam posts incorporados em outros sites. Um link curto (como bit.ly) é seguido pelo serviço que o emitiu para descobrir aonde ele leva.
 - **As imagens de prévia** são carregadas de onde o site do link indicar, que pode ser um servidor de imagens desse site.
-- **Verificações de disponibilidade.** Sempre que você abre sua biblioteca, o LinkHQ verifica se seus links salvos continuam disponíveis consultando da mesma forma o site de cada link ou o serviço público dessa plataforma. Você também pode verificar um único link com Check Again.
+- **Verificações de disponibilidade.** Quando você abre sua biblioteca, o LinkHQ verifica se seus links salvos continuam disponíveis consultando da mesma forma o site de cada link ou o serviço público dessa plataforma. Cada link é verificado no máximo uma vez a cada 12 horas. Você também pode verificar um único link com Check Again.
 - Essas solicitações saem direto do seu dispositivo, as mesmas que seu navegador faria para esse link. Elas não são enviadas a nenhum servidor operado por nós e não carregam nenhuma conta nem identificador pessoal, porque não existe nenhum.
 - **Sua biblioteca nunca é enviada.** Suas notas, tags, palavras-chave, categorias e favoritos nunca são enviados a lugar nenhum.
 

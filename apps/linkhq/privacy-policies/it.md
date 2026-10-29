@@ -63,7 +63,7 @@ Per mostrare il titolo vero e l'immagine di anteprima di un link invece di un se
 
 - **Titoli, anteprime e parole chiave.** Quando un link viene salvato, e più tardi nell'app se non è stato completato, LinkHQ richiede il link al **suo stesso sito**. Per alcune piattaforme interroga invece il **servizio pubblico di incorporamento o di dati** di quella piattaforma (per esempio YouTube, TikTok, X, Bilibili o Wikipedia), le stesse fonti che alimentano i post incorporati in altri siti web. Un link breve (come bit.ly) viene seguito tramite il servizio che lo ha emesso per scoprire dove porta.
 - **Le immagini di anteprima** vengono caricate da dove indica il sito del link, che può essere un server di immagini di quel sito.
-- **Controlli di disponibilità.** Ogni volta che apri la libreria, LinkHQ controlla se i tuoi link salvati sono ancora disponibili interrogando allo stesso modo il sito di ogni link o il servizio pubblico di quella piattaforma. Puoi anche controllare un singolo link con Check Again.
+- **Controlli di disponibilità.** Quando apri la libreria, LinkHQ controlla se i tuoi link salvati sono ancora disponibili interrogando allo stesso modo il sito di ogni link o il servizio pubblico di quella piattaforma. Ogni link viene controllato al massimo una volta ogni 12 ore. Puoi anche controllare un singolo link con Check Again.
 - Queste richieste partono direttamente dal tuo dispositivo, le stesse che farebbe il tuo browser per quel link. Non vengono inviate a server gestiti da noi e non contengono alcun account né identificativo personale, perché non ne esistono.
 - **La tua libreria non viene mai caricata.** Note, tag, parole chiave, categorie e preferiti non vengono mai inviati da nessuna parte.
 

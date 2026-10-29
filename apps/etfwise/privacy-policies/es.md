@@ -26,7 +26,7 @@ ETFWise ("la Aplicación") es una aplicación iOS de descarga gratuita con una s
 | ¿Reciben mis datos de pago? | No. Apple gestiona las compras Premium |
 | ¿Los niños pueden usar la aplicación de forma segura? | Sí |
 
-Los únicos datos que la aplicación envía a proveedores de datos financieros son los símbolos de ETF para obtener datos de mercado. Apple procesa las compras Premium.
+Los únicos datos que la aplicación envía a proveedores de datos financieros son los símbolos de ETF y los rangos de fechas para obtener datos de mercado. Apple procesa las compras Premium.
 
 ## Qué Datos Recopilamos
 

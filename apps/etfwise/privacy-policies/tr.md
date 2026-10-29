@@ -26,7 +26,7 @@ ETFWise ("Uygulama"), ücretsiz indirilen ve isteğe bağlı bir Premium aboneli
 | Ödeme bilgilerimi alıyor musunuz? | Hayır. Premium satın alımlarını Apple yürütür |
 | Çocuklar uygulamayı güvenle kullanabilir mi? | Evet |
 
-Uygulamanın finansal veri sağlayıcılarına gönderdiği tek veri, piyasa verilerini almak için kullanılan ETF hisse senedi sembolleridir. Premium satın alımları Apple tarafından işlenir.
+Uygulamanın finansal veri sağlayıcılarına gönderdiği tek veri, piyasa verilerini almak için kullanılan ETF hisse senedi sembolleri ve tarih aralıklarıdır. Premium satın alımları Apple tarafından işlenir.
 
 ## Hangi Verileri Topluyoruz
 

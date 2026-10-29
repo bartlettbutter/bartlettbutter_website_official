@@ -26,7 +26,7 @@ ETFWise ("de App") is een iOS-applicatie die gratis te downloaden is en een opti
 | Ontvangen jullie mijn betaalgegevens? | Nee. Premium-aankopen worden door Apple afgehandeld |
 | Kunnen kinderen de app veilig gebruiken? | Ja |
 
-De enige gegevens die de app naar financiële dataproviders verzendt zijn ETF-tickersymbolen om marktgegevens op te halen. Premium-aankopen worden door Apple verwerkt.
+De enige gegevens die de app naar financiële dataproviders verzendt zijn ETF-tickersymbolen en datumbereiken om marktgegevens op te halen. Premium-aankopen worden door Apple verwerkt.
 
 ## Welke Gegevens We Verzamelen
 

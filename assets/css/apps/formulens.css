@@ -154,12 +154,6 @@
   .fl-page h2 + ul {
     grid-template-columns: 1fr;
   }
-
-  /* Match the reduced CTA top margin on phones so the white fill covers the
-     gap above the box exactly. */
-  .fl-page .marketing-cta-panel {
-    clip-path: inset(-56px -100vw 0 -100vw);
-  }
 }
 
 /* Hero gallery: soft magenta frames and eyebrow. */
@@ -253,6 +247,14 @@
     0 32px 88px rgba(3, 7, 18, 0.18),
     0 0 0 100vw #FFFFFF;
   clip-path: inset(-72px -100vw 0 -100vw);
+}
+
+/* Phones use a 56px CTA top margin (marketing.css); clip the white fill to
+   match so it does not paint over the bottom of the band above. */
+@media (max-width: 768px) {
+  .fl-page .marketing-cta-panel {
+    clip-path: inset(-56px -100vw 0 -100vw);
+  }
 }
 
 /* CTA link pills ("Visit support", "Read privacy policy", contact email):

@@ -149,10 +149,6 @@
   .nk-page h2 + ul {
     grid-template-columns: 1fr;
   }
-
-  .nk-page .marketing-cta-panel {
-    clip-path: inset(-56px -100vw 0 -100vw);
-  }
 }
 
 /* Hero gallery: soft teal frames and eyebrow. */
@@ -242,6 +238,14 @@
     0 32px 88px rgba(3, 7, 18, 0.18),
     0 0 0 100vw #FFFFFF;
   clip-path: inset(-72px -100vw 0 -100vw);
+}
+
+/* Phones use a 56px CTA top margin (marketing.css); clip the white fill to
+   match so it does not paint over the bottom of the band above. */
+@media (max-width: 768px) {
+  .nk-page .marketing-cta-panel {
+    clip-path: inset(-56px -100vw 0 -100vw);
+  }
 }
 
 /* CTA link pills: light fill with dark accent text, overriding the base

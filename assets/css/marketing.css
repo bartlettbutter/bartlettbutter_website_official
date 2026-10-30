@@ -596,8 +596,24 @@ h3.marketing-price-summary {
     margin-bottom: 24px;
   }
 
-  h2.marketing-section-title {
-    font-size: 26px;
+  /* Phone type scale: hero h1 (28px, per-app CSS) > section and CTA titles
+     (24px) > price summary (22px) > card titles (20px) > body (17px), so no
+     heading ends up larger than the one it sits under. */
+  h2.marketing-section-title,
+  .marketing-cta-panel h2,
+  .marketing-cta-panel h3 {
+    font-size: 24px;
+  }
+
+  .marketing-card h3,
+  .marketing-step h3,
+  .marketing-price-card h3,
+  .marketing-story-card h3 {
+    font-size: 20px;
+  }
+
+  h3.marketing-price-summary {
+    font-size: 22px;
   }
 
   .marketing-card-grid--two > *,

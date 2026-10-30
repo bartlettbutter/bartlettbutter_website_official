@@ -196,12 +196,6 @@
   .jf-page h2 + p + ul {
     padding-inline: 20px;
   }
-
-  /* Match the reduced CTA top margin on phones so the white fill covers the
-     gap above the box exactly. */
-  .jf-page .marketing-cta-panel {
-    clip-path: inset(-56px -100vw 0 -100vw);
-  }
 }
 
 /* Hero gallery: serif heading and soft blue frames. */
@@ -283,6 +277,30 @@
     0 32px 88px rgba(3, 7, 18, 0.18),
     0 0 0 100vw #FFFFFF;
   clip-path: inset(-72px -100vw 0 -100vw);
+}
+
+/* Phone overrides for the rules above; declared after them so they win.
+   Type scale (serif runs ~2px larger than the shared 24/22/20 steps in
+   marketing.css): hero 30 > section and CTA titles 26 > price summary 24 >
+   card titles 21. The CTA clip matches the 56px phone top margin so the
+   white fill does not paint over the bottom of the band above. */
+@media (max-width: 768px) {
+  .jf-page h2.marketing-section-title,
+  .jf-page .marketing-cta-panel h2 {
+    font-size: 26px;
+  }
+
+  .jf-page h3.marketing-price-summary {
+    font-size: 24px;
+  }
+
+  .jf-page h3 {
+    font-size: 21px;
+  }
+
+  .jf-page .marketing-cta-panel {
+    clip-path: inset(-56px -100vw 0 -100vw);
+  }
 }
 
 .jf-page .marketing-cta-panel h2,

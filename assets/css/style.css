@@ -67,6 +67,10 @@
 
 html {
   scroll-behavior: smooth;
+  /* Stop iOS Safari from inflating some text blocks (e.g. on rotation to
+     landscape), which breaks the type scale on phones. */
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 /* Offset anchor targets so section tops clear the fixed nav for all
@@ -1362,8 +1366,16 @@ img {
     border-radius: 48px;
   }
 
-  .hero-subtitle {
+  /* Lead paragraphs share one phone size with the hero subtitle. */
+  .hero-subtitle,
+  .works-story-intro .about-intro-text,
+  .contact-text {
     font-size: 17px;
+  }
+
+  .contact-email {
+    font-size: 18px;
+    padding: 14px 28px;
   }
 
   .section {

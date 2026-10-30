@@ -37,6 +37,10 @@
 
 html {
   scroll-behavior: smooth;
+  /* Stop iOS Safari from inflating some text blocks (e.g. on rotation to
+     landscape), which breaks the type scale on phones. */
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 body {
@@ -658,6 +662,19 @@ body {
 
   .content-body {
     padding: 36px 20px 48px;
+  }
+
+  /* Phone type scale: app name (24px) > page title (22px) > h2 (20px) >
+     h3 (18px) > body (17px). Without this the page title ties the app name
+     and h3 questions match body text. Marketing pages override these with
+     their own heading rules. */
+  .content-body h1,
+  .content-body h1:first-child {
+    font-size: 22px;
+  }
+
+  .content-body h3 {
+    font-size: 18px;
   }
 
   .footer {

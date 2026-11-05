@@ -66,16 +66,16 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
     </article>
     <article class="marketing-card">
       <h3>The best time to leave</h3>
-      <p>When waiting a few minutes means a meaningfully faster trip, TrafficVibe tells you. An hourly outlook shows how your drive changes through the day.</p>
+      <p>TrafficVibe tells you whether leaving now puts you in the thick of rush hour and how much longer the trip takes than usual. Your briefing lays out today's morning and afternoon rush-hour windows.</p>
       <ul class="marketing-list">
-        <li>See how your trip shifts hour by hour</li>
-        <li>The usual rush-hour windows, called out</li>
-        <li>Pick your smoothest departure with confidence</li>
+        <li>Today's morning and afternoon rush windows, called out</li>
+        <li>A heads-up when the worst of rush hour is close</li>
+        <li>Optional reminders a set time before the rush</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Everything that shapes your drive</h3>
-      <p>See how the roads are moving, how much time traffic is adding, and any accidents, construction, or closures ahead, with a faster alternate route when one helps.</p>
+      <p>See how the roads are moving, how much time traffic is adding, and any accidents, construction, or closures ahead.</p>
       <ul class="marketing-list">
         <li>At-a-glance gas price, speed limits, and nearby essentials</li>
         <li>Accidents, construction, and closures, so nothing catches you out</li>
@@ -148,11 +148,11 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
     </article>
     <article class="marketing-step">
       <h3>Pick your window</h3>
-      <p>Check the hourly outlook and rush-hour windows to choose the smoothest moment to leave.</p>
+      <p>Check today's rush-hour windows to choose the smoothest moment to leave.</p>
     </article>
     <article class="marketing-step">
       <h3>Add your cities</h3>
-      <p>Save the places you travel to for door-to-door ETAs, delay alerts, and departure reminders.</p>
+      <p>Save the cities you drive in and switch between them in a tap, each with its own live read.</p>
     </article>
   </div>
 </section>
@@ -171,7 +171,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
       <h3>Made for every commute</h3>
       <ul class="marketing-list">
         <li>Daily drivers timing the smoothest departure</li>
-        <li>Multi-city commuters juggling saved routes</li>
+        <li>Multi-city commuters switching between saved cities</li>
         <li>Anyone driving in bad weather, glare, or ice</li>
         <li>Travelers who want an honest read in any city worldwide</li>
       </ul>
@@ -192,7 +192,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
     </article>
     <article class="marketing-card">
       <h3>Your commute cities</h3>
-      <p>Save the places you travel to, and each becomes a route from where you are, with its own door-to-door ETAs, delay alerts, and departure reminders. Switching between them is instant.</p>
+      <p>Save up to 10 cities, including your current location, and switch between them instantly, each with its own live read. Alerts and departure reminders follow your starred city, timed in its own time zone.</p>
     </article>
   </div>
 </section>
@@ -206,7 +206,7 @@ Should I go now, or wait? TrafficVibe answers that before you pick up your keys:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Included today</span>
       <h3 class="marketing-price-summary">All current features available at no cost.</h3>
-      <p>The morning briefing, all eighteen Commute Life Indices, the hourly outlook, saved commute cities, and smart alerts, with no account needed.</p>
+      <p>The morning briefing, all eighteen Commute Life Indices, today's rush-hour windows, up to 10 saved cities, and smart alerts, with no account needed.</p>
       <p class="marketing-price-note">Compatible with iPhone and iPad on iOS 26.2 or later.</p>
     </article>
     <article class="marketing-price-card">

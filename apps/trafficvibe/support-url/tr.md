@@ -21,7 +21,7 @@ TrafficVibe'ı açtığınızda ilk gördüğünüz şey, en önemli konu en ba�
 
 ### TrafficVibe çıkmak için en iyi zamanı nasıl biliyor?
 
-Uygulama, yolculuğunuzun gün boyunca nasıl değiştiğine dair saatlik bir görünüm oluşturur ve bunu tipik bir referans değerle karşılaştırır, ardından alışılmış yoğun saat aralıklarını vurgular. Birkaç dakika beklemek belirgin biçimde daha hızlı bir yolculuk demek olduğunda bunu söyler; böylece en rahat çıkışınızı seçebilirsiniz.
+TrafficVibe, yolculuk sürelerinin gün içinde nasıl değiştiğine bakar ve bunları tipik bir yolculukla karşılaştırır. Özetiniz bugünün sabah ve öğleden sonra yoğun saat aralıklarını gösterir; Yoğun Saat rozeti de şimdi çıkarsanız tam ortasına denk gelip gelmeyeceğinizi söyler. İsteğe bağlı çıkış hatırlatıcıları her aralıktan belirlediğiniz süre önce sizi uyarabilir.
 
 ### İnternet bağlantısına ihtiyacım var mı?
 
@@ -75,17 +75,17 @@ TrafficVibe arka planda yenilenmez; uyarıları uygulamayı açtığınızda vey
 
 ### Yolculuk şehirleri nasıl çalışır?
 
-Kontrol panelindeki şehirler sayfasından gittiğiniz yerleri ekleyin. Her biri, mevcut şehrinizden bir rotaya dönüşerek kapıdan kapıya varış sürelerini, gecikme uyarılarını ve çıkış hatırlatıcılarını açar. Kayıtlı şehirler arasında geçiş anında gerçekleşir.
+Bir şehri arayarak ya da mevcut konumunuzla eklemek için kontrol panelinden (iPad'de kenar çubuğundan) Şehirler'i açın. 10 şehre kadar kaydedebilir, görmek istediğinizi yıldızlayabilir, sıralarını değiştirebilir ve kaydırarak silebilirsiniz. Kayıtlı şehirler arasında geçiş anında olur; uyarılar ve çıkış hatırlatıcıları yıldızladığınız şehri takip eder.
 
-### Mevcut şehrimi neden hedef olarak ekleyemiyorum?
+### Mevcut Konum nasıl çalışır?
 
-Mevcut konumunuzla eşleşen bir şehir yok sayılır, çünkü bir yerden kendisine giden bir rotanın gösterecek hiçbir şeyi yoktur.
+Konum erişimine izin verirseniz TrafficVibe mevcut şehrinizi sizin için ekler ve uygulamayı her baştan açtığınızda onu gösterir. Başka bir şehre geçtiğinizde kendiliğinden güncellenir.
 
 ## Tercihler
 
 ### Birimleri ve saat biçimini değiştirebilir miyim?
 
-Evet. Ayarlar, mesafeyi, hızı ve sıcaklığı birlikte yöneten tek bir ölçüm sistemi seçimi (ABD Geleneksel veya metrik) ile 12 ya da 24 saatlik saat geçişini barındırır. Görünüm, sisteminizdeki Açık veya Koyu ayarı izler.
+Evet. Ayarlar, mesafeyi, hızı ve sıcaklığı birlikte yöneten tek bir ölçüm sistemi seçimi (İngiliz veya metrik) ile 12 ya da 24 saatlik saat geçişini barındırır. Görünüm sisteminizi izleyebilir ya da Açık veya Koyu olarak sabit kalabilir.
 
 ## Sorun Giderme
 

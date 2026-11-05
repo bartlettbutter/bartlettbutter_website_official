@@ -21,7 +21,7 @@ Wanneer je TrafficVibe opent, is het eerste wat je ziet een uitleg in gewone taa
 
 ### Hoe weet TrafficVibe het beste moment om te vertrekken?
 
-De app bouwt een verwachting per uur op van hoe je rit door de dag heen verandert en vergelijkt die met een gebruikelijke basislijn, en licht vervolgens de gewone spitsuren uit. Wanneer een paar minuten wachten een merkbaar snellere rit betekent, zegt de app dat, zodat je je soepelste vertrek kunt kiezen.
+TrafficVibe kijkt hoe reistijden in de loop van de dag veranderen en vergelijkt ze met een gemiddelde rit. Je briefing toont de spitsuren van vandaag, 's ochtends en 's middags, en de Spits-badge vertelt je of je nu midden in de drukte vertrekt. Optionele vertrekherinneringen kunnen je een gekozen tijd vóór elk spitsuur een seintje geven.
 
 ### Heb ik een internetverbinding nodig?
 
@@ -75,17 +75,17 @@ TrafficVibe vernieuwt niet op de achtergrond; het beoordeelt meldingen wanneer j
 
 ### Hoe werken woon-werksteden?
 
-Voeg de plaatsen toe waar je naartoe reist via het stedenblad op het dashboard. Elke plaats wordt een route vanuit je huidige stad, waarmee deur-tot-deur-aankomsttijden, vertragingsmeldingen en vertrekherinneringen worden ontgrendeld. Wisselen tussen opgeslagen steden gaat direct.
+Open Steden vanaf het dashboard (of via de zijbalk op iPad) om een stad toe te voegen via zoeken of je huidige locatie. Je kunt tot 10 steden bewaren, de stad die je wilt zien een ster geven, ze herschikken en vegen om te verwijderen. Wisselen tussen opgeslagen steden gaat direct, en meldingen en vertrekherinneringen volgen je stad met een ster.
 
-### Waarom kan ik mijn huidige stad niet als bestemming toevoegen?
+### Hoe werkt Huidige locatie?
 
-Een stad die overeenkomt met je huidige locatie wordt genegeerd, omdat een route van een plaats naar zichzelf niets te tonen heeft.
+Als je locatietoegang toestaat, voegt TrafficVibe je huidige stad voor je toe en toont die elke keer dat je de app opnieuw opent. Kom je in een andere stad, dan werkt die zichzelf bij.
 
 ## Voorkeuren
 
 ### Kan ik eenheden en tijdnotatie wijzigen?
 
-Ja. Instellingen bevat één keuze voor het meetsysteem (US Customary of metriek) die afstand, snelheid en temperatuur samen bepaalt, plus een schakelaar voor 12- of 24-uursnotatie. De weergave volgt je systeeminstelling voor licht of donker.
+Ja. Instellingen bevat één keuze voor het meetsysteem (imperiaal of metriek) die afstand, snelheid en temperatuur samen bepaalt, plus een schakelaar voor 12- of 24-uursnotatie. De weergave kan je systeem volgen of vast op licht of donker blijven.
 
 ## Problemen oplossen
 

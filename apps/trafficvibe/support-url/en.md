@@ -20,7 +20,7 @@ When you open TrafficVibe, the first thing you see is a plain-language read of y
 
 ### How does TrafficVibe know the best time to leave?
 
-The app builds an hourly outlook of how your drive changes through the day and compares it against a typical baseline, then highlights the usual rush-hour windows. When waiting a few minutes means a meaningfully faster trip, it says so, so you can pick your smoothest departure.
+TrafficVibe looks at how travel times change through the day and compares them with a typical drive. Your briefing lays out today's morning and afternoon rush-hour windows, and the Rush Hour badge tells you whether leaving now puts you in the thick of it. Optional departure reminders can nudge you a set time before each window.
 
 ### Do I need an internet connection?
 
@@ -74,17 +74,17 @@ TrafficVibe doesn't refresh in the background. It evaluates alerts when you open
 
 ### How do commute cities work?
 
-Add the places you travel to from the cities sheet on the dashboard. Each one becomes a route from your current city, unlocking door-to-door ETAs, delay alerts, and departure reminders. Switching between saved cities is instant.
+Open Cities from the dashboard (or the sidebar on iPad) to add a city by search or by your current location. You can save up to 10 cities, star the one you want to see, reorder them, and swipe to delete. Switching between saved cities is instant, and alerts and departure reminders follow your starred city.
 
-### Why can't I add my current city as a destination?
+### How does Current Location work?
 
-A city that matches your current location is ignored, because a route from a place to itself has nothing to show.
+If you allow location access, TrafficVibe adds your current city for you and shows it each time you open the app fresh. When you move to a different city, it updates on its own.
 
 ## Preferences
 
 ### Can I change units and time format?
 
-Yes. Settings holds one measurement-system choice (US Customary or metric) that governs distance, speed, and temperature together, plus a 12- or 24-hour time toggle. Appearance follows your system Light or Dark setting.
+Yes. Settings holds one measurement-system choice (Imperial or Metric) that governs distance, speed, and temperature together, plus a 12- or 24-hour time toggle. Appearance can match your system or stay in Light or Dark.
 
 ## Troubleshooting
 

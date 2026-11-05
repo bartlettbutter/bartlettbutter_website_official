@@ -67,16 +67,16 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
     </article>
     <article class="marketing-card">
       <h3>O melhor horário para sair</h3>
-      <p>Quando esperar alguns minutos significa um trajeto bem mais rápido, o TrafficVibe avisa. Uma previsão por hora mostra como sua viagem muda ao longo do dia.</p>
+      <p>O TrafficVibe diz se sair agora coloca você em pleno horário de pico e quanto mais que o normal o trajeto leva. Seu resumo mostra as faixas de horário de pico de hoje, de manhã e à tarde.</p>
       <ul class="marketing-list">
-        <li>Veja como seu trajeto muda hora a hora</li>
-        <li>As faixas habituais de horário de pico, destacadas</li>
-        <li>Escolha sua partida mais tranquila com confiança</li>
+        <li>As faixas de horário de pico de hoje, manhã e tarde, destacadas</li>
+        <li>Um aviso quando o pior do horário de pico se aproxima</li>
+        <li>Lembretes opcionais com antecedência antes do pico</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Tudo o que molda seu trajeto</h3>
-      <p>Veja como o trânsito está fluindo, quanto tempo ele está adicionando e quais acidentes, obras ou bloqueios há pela frente, com uma rota alternativa mais rápida quando ela ajuda.</p>
+      <p>Veja como o trânsito está fluindo, quanto tempo ele está adicionando e quais acidentes, obras ou bloqueios há pela frente.</p>
       <ul class="marketing-list">
         <li>De relance: preço do combustível, limites de velocidade e serviços essenciais por perto</li>
         <li>Acidentes, obras e bloqueios, para que nada te pegue de surpresa</li>
@@ -149,11 +149,11 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
     </article>
     <article class="marketing-step">
       <h3>Escolha sua janela</h3>
-      <p>Verifique a previsão por hora e as faixas de horário de pico para escolher o momento mais tranquilo para sair.</p>
+      <p>Verifique as faixas de horário de pico de hoje para escolher o momento mais tranquilo para sair.</p>
     </article>
     <article class="marketing-step">
       <h3>Adicione suas cidades</h3>
-      <p>Salve os lugares para onde você viaja e tenha tempos porta a porta, alertas de atraso e lembretes de partida.</p>
+      <p>Salve as cidades onde você dirige e alterne entre elas com um toque, cada uma com sua própria leitura ao vivo.</p>
     </article>
   </div>
 </section>
@@ -172,7 +172,7 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
       <h3>Feito para cada trajeto</h3>
       <ul class="marketing-list">
         <li>Motoristas do dia a dia calculando a partida mais tranquila</li>
-        <li>Quem se desloca por várias cidades gerenciando rotas salvas</li>
+        <li>Quem se desloca por várias cidades e alterna entre cidades salvas</li>
         <li>Qualquer um que dirija com mau tempo, ofuscamento ou gelo</li>
         <li>Viajantes que querem uma leitura honesta em qualquer cidade do mundo</li>
       </ul>
@@ -193,7 +193,7 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
     </article>
     <article class="marketing-card">
       <h3>Suas cidades de trajeto</h3>
-      <p>Salve os lugares para onde você viaja e cada um vira uma rota a partir de onde você está, com seus próprios tempos porta a porta, alertas de atraso e lembretes de partida. Alternar entre elas é instantâneo.</p>
+      <p>Salve até 10 cidades, incluindo sua localização atual, e alterne entre elas na hora, cada uma com sua própria leitura ao vivo. Alertas e lembretes de saída seguem sua cidade marcada com estrela, no fuso horário dela.</p>
     </article>
   </div>
 </section>
@@ -207,7 +207,7 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Incluído hoje</span>
       <h3 class="marketing-price-summary">Todos os recursos atuais disponíveis sem custo.</h3>
-      <p>O resumo matinal, todos os dezoito Índices de Vida do Trajeto, a previsão por hora, as cidades de trajeto salvas e os alertas inteligentes, sem conta.</p>
+      <p>O resumo matinal, todos os dezoito Índices de Vida no Trajeto, as faixas de horário de pico de hoje, até 10 cidades salvas e alertas inteligentes, sem precisar de conta.</p>
       <p class="marketing-price-note">Compatível com iPhone e iPad com iOS 26.2 ou posterior.</p>
     </article>
     <article class="marketing-price-card">

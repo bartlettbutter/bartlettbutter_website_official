@@ -67,16 +67,16 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
     </article>
     <article class="marketing-card">
       <h3>Der beste Moment zum Losfahren</h3>
-      <p>Wenn ein paar Minuten Warten einen deutlich schnelleren Weg bedeuten, sagt dir TrafficVibe das. Eine stündliche Vorschau zeigt, wie sich dein Weg über den Tag verändert.</p>
+      <p>TrafficVibe sagt dir, ob du gerade mitten in die Stoßzeit fährst und wie viel länger die Fahrt als üblich dauert. Dein Briefing zeigt die heutigen Stoßzeiten am Morgen und am Nachmittag.</p>
       <ul class="marketing-list">
-        <li>Sieh, wie sich dein Weg Stunde für Stunde verändert</li>
-        <li>Die üblichen Stoßzeiten, hervorgehoben</li>
-        <li>Wähle deinen entspanntesten Aufbruch mit Zuversicht</li>
+        <li>Die heutigen Stoßzeiten am Morgen und Nachmittag, hervorgehoben</li>
+        <li>Ein Hinweis, wenn der Höhepunkt der Stoßzeit naht</li>
+        <li>Optionale Erinnerungen eine feste Zeit vor dem Berufsverkehr</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Alles, was deinen Weg beeinflusst</h3>
-      <p>Sieh, wie der Verkehr läuft, wie viel Zeit er kostet und welche Unfälle, Baustellen oder Sperrungen vor dir liegen, mit einer schnelleren Alternativroute, wenn eine hilft.</p>
+      <p>Sieh, wie der Verkehr läuft, wie viel Zeit er kostet und welche Unfälle, Baustellen oder Sperrungen vor dir liegen.</p>
       <ul class="marketing-list">
         <li>Auf einen Blick: Spritpreis, Tempolimits und nahe Anlaufstellen</li>
         <li>Unfälle, Baustellen und Sperrungen, damit dich nichts überrascht</li>
@@ -149,11 +149,11 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
     </article>
     <article class="marketing-step">
       <h3>Wähl dein Zeitfenster</h3>
-      <p>Prüf die stündliche Vorschau und die Stoßzeiten, um den entspanntesten Moment zum Losfahren zu wählen.</p>
+      <p>Prüf die heutigen Stoßzeiten, um den entspanntesten Moment zum Losfahren zu wählen.</p>
     </article>
     <article class="marketing-step">
       <h3>Füg deine Städte hinzu</h3>
-      <p>Speichere die Orte, zu denen du fährst, für Tür-zu-Tür-Ankunftszeiten, Verzögerungswarnungen und Aufbruch-Erinnerungen.</p>
+      <p>Speichere die Städte, in denen du fährst, und wechsle mit einem Tippen zwischen ihnen, jede mit ihrem eigenen Live-Überblick.</p>
     </article>
   </div>
 </section>
@@ -172,7 +172,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
       <h3>Für jeden Weg gemacht</h3>
       <ul class="marketing-list">
         <li>Alltagsfahrer, die den entspanntesten Aufbruch timen</li>
-        <li>Pendler zwischen mehreren Städten, die gespeicherte Routen jonglieren</li>
+        <li>Pendler zwischen mehreren Städten, die zwischen gespeicherten Städten wechseln</li>
         <li>Alle, die bei schlechtem Wetter, Blendung oder Glatteis fahren</li>
         <li>Reisende, die eine ehrliche Einschätzung in jeder Stadt weltweit wollen</li>
       </ul>
@@ -193,7 +193,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
     </article>
     <article class="marketing-card">
       <h3>Deine Pendelstädte</h3>
-      <p>Speichere die Orte, zu denen du fährst, und jeder wird zu einer Route von deinem Standort aus, mit eigenen Tür-zu-Tür-Ankunftszeiten, Verzögerungswarnungen und Aufbruch-Erinnerungen. Der Wechsel zwischen ihnen erfolgt sofort.</p>
+      <p>Speichere bis zu 10 Städte, einschließlich deines aktuellen Standorts, und wechsle sofort zwischen ihnen, jede mit ihrem eigenen Live-Überblick. Warnungen und Aufbruch-Erinnerungen folgen deiner mit Stern markierten Stadt, abgestimmt auf deren Zeitzone.</p>
     </article>
   </div>
 </section>
@@ -207,7 +207,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Heute enthalten</span>
       <h3 class="marketing-price-summary">Alle aktuellen Funktionen ohne Kosten verfügbar.</h3>
-      <p>Das Morgen-Briefing, alle achtzehn Pendel-Indizes, die stündliche Vorschau, gespeicherte Pendelstädte und smarte Warnungen, ganz ohne Konto.</p>
+      <p>Das Morgen-Briefing, alle achtzehn Pendel-Indizes, die heutigen Stoßzeiten, bis zu 10 gespeicherte Städte und smarte Warnungen, ganz ohne Konto.</p>
       <p class="marketing-price-note">Kompatibel mit iPhone und iPad mit iOS 26.2 oder neuer.</p>
     </article>
     <article class="marketing-price-card">

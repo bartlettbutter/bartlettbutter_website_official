@@ -67,16 +67,16 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>最佳出发时机</h3>
-      <p>当多等几分钟能明显换来更快的行程时，TrafficVibe 会告诉你。逐小时展望展示你的行程如何随一天变化。</p>
+      <p>TrafficVibe 会告诉你现在出发是否正赶上高峰，以及行程比平时多花多少时间。你的简报会列出今天上午和下午的高峰时段。</p>
       <ul class="marketing-list">
-        <li>看行程如何逐小时变化</li>
-        <li>标出常见的高峰时段</li>
-        <li>笃定地选出最顺畅的出发时刻</li>
+        <li>标出今天上午和下午的高峰时段</li>
+        <li>最堵的时候临近时提醒你</li>
+        <li>可选提醒，在高峰前按你设定的时间送达</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>影响你行程的一切</h3>
-      <p>看清路况如何、拥堵增加了多少时间，以及前方的事故、施工或封路，有更快的备选路线时也会一并给出。</p>
+      <p>看清路况如何、拥堵增加了多少时间，以及前方的事故、施工或封路。</p>
       <ul class="marketing-list">
         <li>一目了然的油价、限速和附近的必备设施</li>
         <li>事故、施工和封路，让你不被打个措手不及</li>
@@ -149,11 +149,11 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>选定你的时段</h3>
-      <p>查看逐小时展望和高峰时段，挑出最顺畅的出发时刻。</p>
+      <p>查看今天的高峰时段，挑出最顺畅的出发时刻。</p>
     </article>
     <article class="marketing-step">
       <h3>添加你的城市</h3>
-      <p>保存你前往的地点，获取门到门的预计到达时间、延误提醒和出发提醒。</p>
+      <p>保存你开车所在的城市，轻点一下即可切换，每座城市都有各自的实时概况。</p>
     </article>
   </div>
 </section>
@@ -172,7 +172,7 @@ redirect_from:
       <h3>为每一段通勤而生</h3>
       <ul class="marketing-list">
         <li>想选出最顺畅出发时刻的每日通勤者</li>
-        <li>在多座城市间往返、管理已保存路线的人</li>
+        <li>在多座城市间往返、切换已保存城市的人</li>
         <li>需要在恶劣天气、眩光或结冰中驾车的每个人</li>
         <li>想在全球任何城市获得诚实读数的旅行者</li>
       </ul>
@@ -193,7 +193,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>你的通勤城市</h3>
-      <p>保存你前往的地点，每一个都会成为从你所在位置出发的路线，拥有各自的门到门预计到达时间、延误提醒和出发提醒。在它们之间切换是瞬时的。</p>
+      <p>最多保存 10 座城市（包括你的当前位置），即时切换，每座城市都有各自的实时概况。提醒和出发提醒跟随你加星标的城市，并按该城市的时区送达。</p>
     </article>
   </div>
 </section>
@@ -207,7 +207,7 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">现已包含</span>
       <h3 class="marketing-price-summary">当前所有功能均可免费使用。</h3>
-      <p>清晨简报、全部十八项通勤生活指数、逐小时展望、已保存的通勤城市和智能提醒，无需账户。</p>
+      <p>清晨简报、全部十八项通勤生活指数、今天的高峰时段、最多 10 座已保存城市和智能提醒，无需账户。</p>
       <p class="marketing-price-note">兼容 iPhone 和 iPad，需 iOS 26.2 或更高版本。</p>
     </article>
     <article class="marketing-price-card">

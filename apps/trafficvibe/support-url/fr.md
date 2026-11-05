@@ -21,7 +21,7 @@ Quand vous ouvrez TrafficVibe, la première chose que vous voyez est une lecture
 
 ### Comment TrafficVibe connaît-il le meilleur moment pour partir ?
 
-L'app établit une prévision horaire de l'évolution de votre trajet au fil de la journée et la compare à une référence habituelle, puis met en avant les créneaux habituels d'heure de pointe. Quand attendre quelques minutes signifie un trajet nettement plus rapide, il le dit, pour que vous puissiez choisir votre départ le plus fluide.
+TrafficVibe observe comment les temps de trajet évoluent au fil de la journée et les compare à un trajet typique. Votre point matinal indique les créneaux d'heure de pointe du matin et de l'après-midi, et le badge Heure de pointe vous dit si partir maintenant vous y plonge. Des rappels de départ facultatifs peuvent vous prévenir un délai choisi avant chaque créneau.
 
 ### Ai-je besoin d'une connexion Internet ?
 
@@ -75,17 +75,17 @@ TrafficVibe ne s'actualise pas en arrière-plan : il évalue les alertes quand v
 
 ### Comment fonctionnent les villes de trajet ?
 
-Ajoutez les endroits où vous vous rendez depuis la fiche des villes sur le tableau de bord. Chacun devient un itinéraire depuis votre ville actuelle, débloquant les estimations d'arrivée porte-à-porte, les alertes de retard et les rappels de départ. Passer d'une ville enregistrée à l'autre est instantané.
+Ouvrez Villes depuis le tableau de bord (ou la barre latérale sur iPad) pour ajouter une ville par recherche ou via votre position actuelle. Vous pouvez enregistrer jusqu'à 10 villes, marquer d'une étoile celle que vous voulez voir, les réorganiser et balayer pour les supprimer. Le passage d'une ville enregistrée à l'autre est instantané, et les alertes et rappels de départ suivent votre ville marquée d'une étoile.
 
-### Pourquoi ne puis-je pas ajouter ma ville actuelle comme destination ?
+### Comment fonctionne la position actuelle ?
 
-Une ville qui correspond à votre position actuelle est ignorée, car un itinéraire d'un endroit vers lui-même n'a rien à montrer.
+Si vous autorisez l'accès à la position, TrafficVibe ajoute votre ville actuelle pour vous et l'affiche chaque fois que vous rouvrez l'app. Lorsque vous changez de ville, elle se met à jour d'elle-même.
 
 ## Préférences
 
 ### Puis-je changer les unités et le format de l'heure ?
 
-Oui. Les Réglages contiennent un choix de système de mesure (impérial américain ou métrique) qui régit ensemble la distance, la vitesse et la température, ainsi qu'un basculement entre le format 12 ou 24 heures. L'apparence suit le réglage clair ou sombre de votre système.
+Oui. Les Réglages contiennent un choix de système de mesure (impérial ou métrique) qui régit ensemble la distance, la vitesse et la température, ainsi qu'un basculement entre le format 12 ou 24 heures. L'apparence peut suivre votre système ou rester en mode clair ou sombre.
 
 ## Dépannage
 

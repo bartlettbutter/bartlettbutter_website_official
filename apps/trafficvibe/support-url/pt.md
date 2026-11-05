@@ -21,7 +21,7 @@ Quando você abre o TrafficVibe, a primeira coisa que vê é uma leitura em ling
 
 ### Como o TrafficVibe sabe o melhor horário para sair?
 
-O app monta uma previsão por hora de como seu trajeto muda ao longo do dia e a compara com uma base típica, depois destaca as faixas habituais de horário de pico. Quando esperar alguns minutos significa um trajeto bem mais rápido, ele avisa, para você escolher sua partida mais tranquila.
+O TrafficVibe observa como os tempos de viagem mudam ao longo do dia e os compara com um trajeto típico. Seu resumo mostra as faixas de horário de pico de hoje, de manhã e à tarde, e o selo Horário de Pico diz se sair agora coloca você em pleno pico. Lembretes de saída opcionais podem avisar com antecedência antes de cada faixa.
 
 ### Preciso de conexão com a internet?
 
@@ -75,17 +75,17 @@ O TrafficVibe não atualiza em segundo plano. Ele avalia os alertas quando você
 
 ### Como funcionam as cidades de trajeto?
 
-Adicione os lugares para onde você viaja pela folha de cidades no painel. Cada um vira uma rota a partir da sua cidade atual, liberando tempos porta a porta, alertas de atraso e lembretes de partida. Alternar entre cidades salvas é instantâneo.
+Abra Cidades pelo painel (ou pela barra lateral no iPad) para adicionar uma cidade por busca ou pela sua localização atual. Você pode salvar até 10 cidades, marcar com estrela a que quer ver, reordená-las e deslizar para excluir. Alternar entre cidades salvas é instantâneo, e alertas e lembretes de saída seguem sua cidade marcada com estrela.
 
-### Por que não consigo adicionar minha cidade atual como destino?
+### Como funciona a Localização atual?
 
-Uma cidade que coincide com sua localização atual é ignorada, porque uma rota de um lugar para ele mesmo não tem nada a mostrar.
+Se você permitir o acesso à localização, o TrafficVibe adiciona sua cidade atual por você e a mostra sempre que você abre o app do zero. Quando você vai para outra cidade, ela se atualiza sozinha.
 
 ## Preferências
 
 ### Posso mudar as unidades e o formato de hora?
 
-Sim. Ajustes contém uma escolha de sistema de medidas (Imperial dos EUA ou métrico) que rege distância, velocidade e temperatura em conjunto, além de uma opção de hora em formato de 12 ou 24 horas. A aparência segue o ajuste Claro ou Escuro do seu sistema.
+Sim. Ajustes contém uma escolha de sistema de medidas (imperial ou métrico) que rege distância, velocidade e temperatura em conjunto, além de uma opção de hora em formato de 12 ou 24 horas. A aparência pode seguir o seu sistema ou ficar em Claro ou Escuro.
 
 ## Solução de problemas
 

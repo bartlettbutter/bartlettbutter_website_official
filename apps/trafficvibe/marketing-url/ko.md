@@ -67,16 +67,16 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>나서기 가장 좋은 때</h3>
-      <p>몇 분 기다리는 것이 의미 있게 더 빠른 이동으로 이어질 때, TrafficVibe가 알려드립니다. 시간별 전망이 하루 동안 이동이 어떻게 달라지는지 보여줍니다.</p>
+      <p>TrafficVibe는 지금 나서면 혼잡 시간 한가운데에 갇히는지, 그리고 이동이 평소보다 얼마나 더 걸리는지 알려드립니다. 브리핑에는 오늘 아침과 오후의 혼잡 시간대가 표시됩니다.</p>
       <ul class="marketing-list">
-        <li>시간마다 이동이 어떻게 바뀌는지 확인</li>
-        <li>평소의 혼잡 시간대를 콕 짚어 표시</li>
-        <li>가장 수월한 출발 시각을 자신 있게 선택</li>
+        <li>오늘 아침과 오후의 혼잡 시간대를 콕 짚어 표시</li>
+        <li>혼잡이 가장 심한 때가 다가오면 미리 알림</li>
+        <li>혼잡 시간 전 원하는 시간에 받는 선택형 리마인더</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>이동을 좌우하는 모든 것</h3>
-      <p>도로가 어떻게 움직이는지, 교통 때문에 얼마나 시간이 더 드는지, 그리고 앞쪽의 사고·공사·통제까지, 도움이 될 때는 더 빠른 대체 경로와 함께 확인하세요.</p>
+      <p>도로가 어떻게 움직이는지, 교통 때문에 얼마나 시간이 더 드는지, 그리고 앞쪽의 사고·공사·통제까지 확인하세요.</p>
       <ul class="marketing-list">
         <li>한눈에 보는 유가, 제한 속도, 근처 필수 시설</li>
         <li>사고·공사·통제 정보로 갑작스러운 상황을 방지</li>
@@ -149,11 +149,11 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>나설 시간 정하기</h3>
-      <p>시간별 전망과 혼잡 시간대를 확인해 가장 수월하게 나설 순간을 고르세요.</p>
+      <p>오늘의 혼잡 시간대를 확인해 가장 수월하게 나설 순간을 고르세요.</p>
     </article>
     <article class="marketing-step">
       <h3>도시 추가하기</h3>
-      <p>이동하는 곳을 저장해 도어투도어 예상 도착 시간, 지연 알림, 출발 리마인더를 받으세요.</p>
+      <p>운전하는 도시를 저장하고 탭 한 번으로 전환하세요. 도시마다 저마다의 실시간 정보가 있습니다.</p>
     </article>
   </div>
 </section>
@@ -172,7 +172,7 @@ redirect_from:
       <h3>모든 출근길을 위해</h3>
       <ul class="marketing-list">
         <li>가장 수월한 출발 시각을 재는 매일의 운전자</li>
-        <li>저장한 경로를 오가는 여러 도시 통근자</li>
+        <li>저장한 도시를 오가는 여러 도시 통근자</li>
         <li>궂은 날씨, 눈부심, 결빙 속에서 운전하는 모든 이</li>
         <li>전 세계 어느 도시에서든 정직한 정보를 원하는 여행자</li>
       </ul>
@@ -193,7 +193,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>나의 출근 도시</h3>
-      <p>이동하는 곳을 저장하면 각각이 현재 위치에서 출발하는 경로가 되어, 저마다의 도어투도어 예상 도착 시간, 지연 알림, 출발 리마인더를 제공합니다. 도시 간 전환은 즉각적입니다.</p>
+      <p>현재 위치를 포함해 최대 10개 도시를 저장하고 즉시 전환하세요. 도시마다 저마다의 실시간 정보가 있습니다. 알림과 출발 리마인더는 별표한 도시를 따라, 그 도시의 시간대에 맞춰 도착합니다.</p>
     </article>
   </div>
 </section>
@@ -207,7 +207,7 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">오늘 포함된 것</span>
       <h3 class="marketing-price-summary">현재의 모든 기능을 무료로 이용할 수 있습니다.</h3>
-      <p>아침 브리핑, 열여덟 가지 출근길 생활 지수, 시간별 전망, 저장한 출근 도시, 그리고 스마트 알림을 계정 없이.</p>
+      <p>아침 브리핑, 열여덟 가지 출근길 생활 지수, 오늘의 혼잡 시간대, 최대 10개의 저장 도시, 그리고 스마트 알림까지, 계정 없이 이용하세요.</p>
       <p class="marketing-price-note">iOS 26.2 이상의 iPhone 및 iPad와 호환됩니다.</p>
     </article>
     <article class="marketing-price-card">

@@ -67,16 +67,16 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
     </article>
     <article class="marketing-card">
       <h3>Le meilleur moment pour partir</h3>
-      <p>Quand attendre quelques minutes signifie un trajet nettement plus rapide, TrafficVibe vous le dit. Une prévision horaire montre comment votre trajet évolue au fil de la journée.</p>
+      <p>TrafficVibe vous dit si partir maintenant vous plonge en pleine heure de pointe et combien de temps de plus que d'habitude prend le trajet. Votre point matinal indique les créneaux d'heure de pointe du matin et de l'après-midi.</p>
       <ul class="marketing-list">
-        <li>Voyez comment votre trajet change heure par heure</li>
-        <li>Les créneaux habituels d'heure de pointe, signalés</li>
-        <li>Choisissez votre départ le plus fluide en toute confiance</li>
+        <li>Les créneaux d'heure de pointe du jour, matin et après-midi, signalés</li>
+        <li>Une alerte quand le pire de l'heure de pointe approche</li>
+        <li>Des rappels facultatifs un délai choisi avant la pointe</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Tout ce qui influence votre trajet</h3>
-      <p>Voyez comment circulent les routes, combien de temps le trafic ajoute, et les accidents, travaux ou fermetures à venir, avec un itinéraire alternatif plus rapide lorsqu'il est utile.</p>
+      <p>Voyez comment circulent les routes, combien de temps le trafic ajoute, et les accidents, travaux ou fermetures à venir.</p>
       <ul class="marketing-list">
         <li>D'un coup d'œil : prix du carburant, limites de vitesse et commodités à proximité</li>
         <li>Accidents, travaux et fermetures, pour que rien ne vous prenne au dépourvu</li>
@@ -149,11 +149,11 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
     </article>
     <article class="marketing-step">
       <h3>Choisissez votre créneau</h3>
-      <p>Consultez la prévision horaire et les créneaux d'heure de pointe pour choisir le moment le plus fluide pour partir.</p>
+      <p>Consultez les créneaux d'heure de pointe du jour pour choisir le moment le plus fluide pour partir.</p>
     </article>
     <article class="marketing-step">
       <h3>Ajoutez vos villes</h3>
-      <p>Enregistrez les endroits où vous vous rendez pour obtenir des estimations d'arrivée porte-à-porte, des alertes de retard et des rappels de départ.</p>
+      <p>Enregistrez les villes où vous conduisez et passez de l'une à l'autre d'un geste, chacune avec sa propre lecture en direct.</p>
     </article>
   </div>
 </section>
@@ -172,7 +172,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
       <h3>Pensé pour chaque trajet</h3>
       <ul class="marketing-list">
         <li>Les conducteurs quotidiens qui calent le départ le plus fluide</li>
-        <li>Les navetteurs multi-villes qui jonglent avec des itinéraires enregistrés</li>
+        <li>Les navetteurs multi-villes qui passent d'une ville enregistrée à l'autre</li>
         <li>Toute personne qui conduit sous la pluie, l'éblouissement ou le verglas</li>
         <li>Les voyageurs qui veulent une lecture honnête dans n'importe quelle ville du monde</li>
       </ul>
@@ -193,7 +193,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
     </article>
     <article class="marketing-card">
       <h3>Vos villes de trajet</h3>
-      <p>Enregistrez les endroits où vous vous rendez, et chacun devient un itinéraire depuis l'endroit où vous êtes, avec ses propres estimations d'arrivée porte-à-porte, alertes de retard et rappels de départ. Passer de l'une à l'autre est instantané.</p>
+      <p>Enregistrez jusqu'à 10 villes, y compris votre position actuelle, et passez de l'une à l'autre instantanément, chacune avec sa propre lecture en direct. Les alertes et les rappels de départ suivent votre ville marquée d'une étoile, à l'heure de son propre fuseau horaire.</p>
     </article>
   </div>
 </section>
@@ -207,7 +207,7 @@ Je pars maintenant ou j'attends ? TrafficVibe vous répond avant même que vous 
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Inclus dès aujourd'hui</span>
       <h3 class="marketing-price-summary">Toutes les fonctionnalités actuelles disponibles sans frais.</h3>
-      <p>Le point matinal, les dix-huit Indices de trajet, la prévision horaire, les villes de trajet enregistrées et les alertes intelligentes, sans compte requis.</p>
+      <p>Le point matinal, les dix-huit Indices de trajet, les créneaux d'heure de pointe du jour, jusqu'à 10 villes enregistrées et des alertes intelligentes, sans aucun compte.</p>
       <p class="marketing-price-note">Compatible avec iPhone et iPad sous iOS 26.2 ou version ultérieure.</p>
     </article>
     <article class="marketing-price-card">

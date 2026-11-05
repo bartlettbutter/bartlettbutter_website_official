@@ -21,7 +21,7 @@ Wenn du TrafficVibe öffnest, siehst du als Erstes eine Einschätzung deines Weg
 
 ### Woher weiß TrafficVibe den besten Zeitpunkt zum Losfahren?
 
-Die App erstellt eine stündliche Vorschau, wie sich deine Fahrt über den Tag verändert, vergleicht sie mit einem typischen Referenzwert und hebt dann die üblichen Stoßzeiten hervor. Wenn ein paar Minuten Warten einen deutlich schnelleren Weg bedeuten, sagt sie das, damit du deinen entspanntesten Aufbruch wählen kannst.
+TrafficVibe schaut sich an, wie sich die Fahrzeiten über den Tag verändern, und vergleicht sie mit einer typischen Fahrt. Dein Briefing zeigt die heutigen Stoßzeiten am Morgen und am Nachmittag, und das Stoßzeit-Abzeichen sagt dir, ob du gerade mitten hineinfährst. Optionale Aufbruch-Erinnerungen melden sich eine feste Zeit vor jeder Stoßzeit.
 
 ### Brauche ich eine Internetverbindung?
 
@@ -75,17 +75,17 @@ TrafficVibe aktualisiert sich nicht im Hintergrund. Es wertet Warnungen aus, wen
 
 ### Wie funktionieren Pendelstädte?
 
-Füge die Orte, zu denen du fährst, über das Städte-Blatt im Dashboard hinzu. Jeder wird zu einer Route von deiner aktuellen Stadt aus und schaltet Tür-zu-Tür-Ankunftszeiten, Verzögerungswarnungen und Aufbruch-Erinnerungen frei. Der Wechsel zwischen gespeicherten Städten erfolgt sofort.
+Öffne Städte über das Dashboard (auf dem iPad über die Seitenleiste), um eine Stadt per Suche oder über deinen aktuellen Standort hinzuzufügen. Du kannst bis zu 10 Städte speichern, die gewünschte mit einem Stern markieren, sie neu anordnen und per Wischen löschen. Der Wechsel zwischen gespeicherten Städten erfolgt sofort, und Warnungen sowie Aufbruch-Erinnerungen folgen deiner mit Stern markierten Stadt.
 
-### Warum kann ich meine aktuelle Stadt nicht als Ziel hinzufügen?
+### Wie funktioniert der aktuelle Standort?
 
-Eine Stadt, die deinem aktuellen Standort entspricht, wird ignoriert, weil eine Route von einem Ort zu sich selbst nichts anzuzeigen hat.
+Wenn du den Standortzugriff erlaubst, fügt TrafficVibe deine aktuelle Stadt automatisch hinzu und zeigt sie bei jedem Neustart der App an. Wenn du in eine andere Stadt kommst, aktualisiert sie sich von selbst.
 
 ## Einstellungen
 
 ### Kann ich Einheiten und Zeitformat ändern?
 
-Ja. Die Einstellungen enthalten eine Wahl des Maßsystems (US-üblich oder metrisch), die Entfernung, Geschwindigkeit und Temperatur gemeinsam steuert, sowie einen Umschalter für 12- oder 24-Stunden-Zeit. Das Erscheinungsbild folgt deiner System-Einstellung für Hell oder Dunkel.
+Ja. Die Einstellungen enthalten eine Wahl des Maßsystems (imperial oder metrisch), die Entfernung, Geschwindigkeit und Temperatur gemeinsam steuert, sowie einen Umschalter für 12- oder 24-Stunden-Zeit. Das Erscheinungsbild kann deinem System folgen oder fest auf Hell oder Dunkel bleiben.
 
 ## Fehlerbehebung
 

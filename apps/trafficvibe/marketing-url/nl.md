@@ -67,16 +67,16 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
     </article>
     <article class="marketing-card">
       <h3>Het beste moment om te vertrekken</h3>
-      <p>Wanneer een paar minuten wachten een merkbaar snellere rit oplevert, vertelt TrafficVibe je dat. Een verwachting per uur laat zien hoe je rit door de dag heen verandert.</p>
+      <p>TrafficVibe vertelt je of je nu midden in de spits vertrekt en hoeveel langer de rit duurt dan normaal. Je briefing toont de spitsuren van vandaag, 's ochtends en 's middags.</p>
       <ul class="marketing-list">
-        <li>Zie hoe je rit uur na uur verschuift</li>
-        <li>De gebruikelijke spitsuren, aangegeven</li>
-        <li>Kies je soepelste vertrek met vertrouwen</li>
+        <li>De spitsuren van vandaag, ochtend en middag, aangegeven</li>
+        <li>Een seintje wanneer het drukste moment van de spits nadert</li>
+        <li>Optionele herinneringen een gekozen tijd vóór de spits</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Alles wat je rit bepaalt</h3>
-      <p>Zie hoe het verkeer doorstroomt, hoeveel tijd het toevoegt, en welke ongevallen, wegwerkzaamheden of afsluitingen er voor je liggen, met een snellere alternatieve route wanneer die helpt.</p>
+      <p>Zie hoe het verkeer doorstroomt, hoeveel tijd het toevoegt, en welke ongevallen, wegwerkzaamheden of afsluitingen er voor je liggen.</p>
       <ul class="marketing-list">
         <li>In één oogopslag: brandstofprijs, snelheidslimieten en voorzieningen in de buurt</li>
         <li>Ongevallen, wegwerkzaamheden en afsluitingen, zodat niets je verrast</li>
@@ -149,11 +149,11 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
     </article>
     <article class="marketing-step">
       <h3>Kies je moment</h3>
-      <p>Bekijk de verwachting per uur en de spitsuren om het soepelste moment om te vertrekken te kiezen.</p>
+      <p>Bekijk de spitsuren van vandaag om het soepelste moment om te vertrekken te kiezen.</p>
     </article>
     <article class="marketing-step">
       <h3>Voeg je steden toe</h3>
-      <p>Bewaar de plaatsen waar je naartoe reist voor deur-tot-deur-aankomsttijden, vertragingsmeldingen en vertrekherinneringen.</p>
+      <p>Bewaar de steden waarin je rijdt en wissel er met één tik tussen, elk met een eigen live beeld.</p>
     </article>
   </div>
 </section>
@@ -172,7 +172,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
       <h3>Gemaakt voor elke rit</h3>
       <ul class="marketing-list">
         <li>Dagelijkse rijders die het soepelste vertrek uitkienen</li>
-        <li>Forensen naar meerdere steden die opgeslagen routes beheren</li>
+        <li>Forensen in meerdere steden die tussen opgeslagen steden wisselen</li>
         <li>Iedereen die rijdt bij slecht weer, tegenlicht of ijzel</li>
         <li>Reizigers die een eerlijk beeld willen in elke stad ter wereld</li>
       </ul>
@@ -193,7 +193,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
     </article>
     <article class="marketing-card">
       <h3>Jouw woon-werksteden</h3>
-      <p>Bewaar de plaatsen waar je naartoe reist en elke plaats wordt een route vanaf waar je bent, met eigen deur-tot-deur-aankomsttijden, vertragingsmeldingen en vertrekherinneringen. Wisselen ertussen gaat direct.</p>
+      <p>Bewaar tot 10 steden, inclusief je huidige locatie, en wissel er direct tussen, elk met een eigen live beeld. Meldingen en vertrekherinneringen volgen je stad met een ster, afgestemd op de eigen tijdzone.</p>
     </article>
   </div>
 </section>
@@ -207,7 +207,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Vandaag inbegrepen</span>
       <h3 class="marketing-price-summary">Alle huidige functies kosteloos beschikbaar.</h3>
-      <p>De ochtendbriefing, alle achttien Commute Life Indices, de verwachting per uur, opgeslagen woon-werksteden en slimme meldingen, zonder account.</p>
+      <p>De ochtendbriefing, alle achttien Commute Life Indices, de spitsuren van vandaag, tot 10 opgeslagen steden en slimme meldingen, zonder account.</p>
       <p class="marketing-price-note">Compatibel met iPhone en iPad met iOS 26.2 of later.</p>
     </article>
     <article class="marketing-price-card">

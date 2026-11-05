@@ -21,7 +21,7 @@ Quando apri TrafficVibe, la prima cosa che vedi è una lettura in linguaggio chi
 
 ### Come fa TrafficVibe a sapere il momento migliore per partire?
 
-L'app costruisce una previsione oraria di come cambia il tuo tragitto nell'arco della giornata e la confronta con un valore di riferimento tipico, poi mette in evidenza le consuete fasce di ora di punta. Quando aspettare qualche minuto significa un tragitto sensibilmente più veloce, te lo dice, così puoi scegliere la partenza più scorrevole.
+TrafficVibe osserva come cambiano i tempi di viaggio durante la giornata e li confronta con un tragitto tipico. Il tuo resoconto indica le fasce di ora di punta di oggi, al mattino e al pomeriggio, e il badge Ora di Punta ti dice se partire ora ti porta nel pieno del traffico. I promemoria di partenza facoltativi possono avvisarti con un anticipo a scelta prima di ogni fascia.
 
 ### Serve una connessione a internet?
 
@@ -75,17 +75,17 @@ TrafficVibe non si aggiorna in background: valuta gli avvisi quando apri l'app o
 
 ### Come funzionano le città di tragitto?
 
-Aggiungi i luoghi in cui viaggi dal pannello delle città sulla dashboard. Ognuno diventa un percorso dalla tua città attuale, sbloccando tempi porta a porta, avvisi di ritardo e promemoria di partenza. Passare da una città salvata all'altra è immediato.
+Apri Città dalla dashboard (o dalla barra laterale su iPad) per aggiungere una città tramite ricerca o con la tua posizione attuale. Puoi salvare fino a 10 città, contrassegnare con la stella quella che vuoi vedere, riordinarle e scorrere per eliminarle. Il passaggio tra città salvate è immediato, e avvisi e promemoria di partenza seguono la città contrassegnata con la stella.
 
-### Perché non posso aggiungere la mia città attuale come destinazione?
+### Come funziona la posizione attuale?
 
-Una città che coincide con la tua posizione attuale viene ignorata, perché un percorso da un luogo a se stesso non ha nulla da mostrare.
+Se consenti l'accesso alla posizione, TrafficVibe aggiunge la tua città attuale al posto tuo e la mostra ogni volta che riapri l'app da zero. Quando ti sposti in un'altra città, si aggiorna da sola.
 
 ## Preferenze
 
 ### Posso cambiare unità e formato dell'ora?
 
-Sì. Le Impostazioni contengono un'unica scelta di sistema di misura (US Customary o metrico) che regola insieme distanza, velocità e temperatura, oltre a un interruttore per il formato a 12 o 24 ore. L'aspetto segue l'impostazione Chiaro o Scuro del tuo sistema.
+Sì. Le Impostazioni contengono un'unica scelta di sistema di misura (imperiale o metrico) che regola insieme distanza, velocità e temperatura, oltre a un interruttore per il formato a 12 o 24 ore. L'aspetto può seguire il tuo sistema o restare su Chiaro o Scuro.
 
 ## Risoluzione dei problemi
 

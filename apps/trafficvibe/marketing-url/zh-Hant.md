@@ -67,16 +67,16 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>最佳出發時機</h3>
-      <p>當多等幾分鐘能明顯換來更快的行程時，TrafficVibe 會告訴你。逐小時展望展示你的行程如何隨一天變化。</p>
+      <p>TrafficVibe 會告訴你現在出發是否正碰上尖峰，以及行程比平常多花多少時間。你的簡報會列出今天上午和下午的尖峰時段。</p>
       <ul class="marketing-list">
-        <li>看行程如何逐小時變化</li>
-        <li>標出常見的尖峰時段</li>
-        <li>篤定地選出最順暢的出發時刻</li>
+        <li>標出今天上午和下午的尖峰時段</li>
+        <li>最塞的時候接近時提醒你</li>
+        <li>可選提醒，在尖峰前依你設定的時間送達</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>影響你行程的一切</h3>
-      <p>看清路況如何、壅塞增加了多少時間，以及前方的事故、施工或封路，有更快的替代路線時也會一併給出。</p>
+      <p>看清路況如何、壅塞增加了多少時間，以及前方的事故、施工或封路。</p>
       <ul class="marketing-list">
         <li>一目了然的油價、速限和附近的必備設施</li>
         <li>事故、施工和封路，讓你不被打個措手不及</li>
@@ -149,11 +149,11 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>選定你的時段</h3>
-      <p>查看逐小時展望和尖峰時段，挑出最順暢的出發時刻。</p>
+      <p>查看今天的尖峰時段，挑出最順暢的出發時刻。</p>
     </article>
     <article class="marketing-step">
       <h3>加入你的城市</h3>
-      <p>儲存你前往的地點，取得門到門的預計到達時間、延誤提醒和出發提醒。</p>
+      <p>儲存你開車所在的城市，輕點一下即可切換，每座城市都有各自的即時概況。</p>
     </article>
   </div>
 </section>
@@ -172,7 +172,7 @@ redirect_from:
       <h3>為每一段通勤而生</h3>
       <ul class="marketing-list">
         <li>想選出最順暢出發時刻的每日通勤者</li>
-        <li>在多座城市間往返、管理已儲存路線的人</li>
+        <li>在多座城市間往返、切換已儲存城市的人</li>
         <li>需要在惡劣天氣、眩光或結冰中駕車的每個人</li>
         <li>想在全球任何城市獲得誠實讀數的旅行者</li>
       </ul>
@@ -193,7 +193,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>你的通勤城市</h3>
-      <p>儲存你前往的地點，每一個都會成為從你所在位置出發的路線，擁有各自的門到門預計到達時間、延誤提醒和出發提醒。在它們之間切換是瞬時的。</p>
+      <p>最多儲存 10 座城市（包括你的目前位置），即時切換，每座城市都有各自的即時概況。提醒和出發提醒會跟隨你加上星號的城市，並依該城市的時區送達。</p>
     </article>
   </div>
 </section>
@@ -207,7 +207,7 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">今日包含</span>
       <h3 class="marketing-price-summary">目前所有功能均可免費使用。</h3>
-      <p>清晨簡報、全部十八項通勤生活指數、逐小時展望、已儲存的通勤城市和智慧提醒，無需帳戶。</p>
+      <p>清晨簡報、全部十八項通勤生活指數、今天的尖峰時段、最多 10 座已儲存城市和智慧提醒，無需帳戶。</p>
       <p class="marketing-price-note">相容 iPhone 和 iPad，需 iOS 26.2 或更新版本。</p>
     </article>
     <article class="marketing-price-card">

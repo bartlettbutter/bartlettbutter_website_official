@@ -67,16 +67,16 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
     </article>
     <article class="marketing-card">
       <h3>Il momento migliore per partire</h3>
-      <p>Quando aspettare qualche minuto significa un tragitto sensibilmente più veloce, TrafficVibe te lo dice. Una previsione oraria mostra come cambia il tuo tragitto nell'arco della giornata.</p>
+      <p>TrafficVibe ti dice se partire ora ti porta nel pieno dell'ora di punta e quanto più del solito dura il tragitto. Il tuo resoconto indica le fasce di ora di punta di oggi, al mattino e al pomeriggio.</p>
       <ul class="marketing-list">
-        <li>Guarda come cambia il tuo tragitto ora per ora</li>
-        <li>Le consuete fasce di ora di punta, segnalate</li>
-        <li>Scegli la partenza più scorrevole con sicurezza</li>
+        <li>Le fasce di ora di punta di oggi, mattina e pomeriggio, segnalate</li>
+        <li>Un avviso quando il picco dell'ora di punta si avvicina</li>
+        <li>Promemoria facoltativi con un anticipo a scelta sull'ora di punta</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Tutto ciò che influisce sul tuo tragitto</h3>
-      <p>Guarda come scorre il traffico, quanto tempo aggiunge e quali incidenti, cantieri o chiusure ci sono più avanti, con un percorso alternativo più veloce quando serve.</p>
+      <p>Guarda come scorre il traffico, quanto tempo aggiunge e quali incidenti, cantieri o chiusure ci sono più avanti.</p>
       <ul class="marketing-list">
         <li>A colpo d'occhio: prezzo del carburante, limiti di velocità e servizi nelle vicinanze</li>
         <li>Incidenti, cantieri e chiusure, così nulla ti coglie di sorpresa</li>
@@ -149,11 +149,11 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
     </article>
     <article class="marketing-step">
       <h3>Scegli il tuo momento</h3>
-      <p>Consulta la previsione oraria e le fasce di ora di punta per scegliere il momento più scorrevole per partire.</p>
+      <p>Consulta le fasce di ora di punta di oggi per scegliere il momento più scorrevole per partire.</p>
     </article>
     <article class="marketing-step">
       <h3>Aggiungi le tue città</h3>
-      <p>Salva i luoghi in cui viaggi per avere tempi porta a porta, avvisi di ritardo e promemoria di partenza.</p>
+      <p>Salva le città in cui guidi e passa dall'una all'altra con un tocco, ognuna con la sua lettura in tempo reale.</p>
     </article>
   </div>
 </section>
@@ -172,7 +172,7 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
       <h3>Fatta per ogni tragitto</h3>
       <ul class="marketing-list">
         <li>Chi guida ogni giorno cercando la partenza più scorrevole</li>
-        <li>Pendolari su più città che gestiscono percorsi salvati</li>
+        <li>Pendolari su più città che passano da una città salvata all'altra</li>
         <li>Chiunque guidi con maltempo, abbagliamento o ghiaccio</li>
         <li>Viaggiatori che vogliono una lettura onesta in qualsiasi città del mondo</li>
       </ul>
@@ -193,7 +193,7 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
     </article>
     <article class="marketing-card">
       <h3>Le tue città di tragitto</h3>
-      <p>Salva i luoghi in cui viaggi e ognuno diventa un percorso da dove ti trovi, con i propri tempi porta a porta, avvisi di ritardo e promemoria di partenza. Passare dall'uno all'altro è immediato.</p>
+      <p>Salva fino a 10 città, compresa la tua posizione attuale, e passa dall'una all'altra all'istante, ognuna con la sua lettura in tempo reale. Avvisi e promemoria di partenza seguono la città contrassegnata con la stella, regolati sul suo fuso orario.</p>
     </article>
   </div>
 </section>
@@ -207,7 +207,7 @@ Vado ora o aspetto? TrafficVibe ti risponde prima che tu prenda le chiavi: una l
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Incluso oggi</span>
       <h3 class="marketing-price-summary">Tutte le funzioni attuali disponibili senza costi.</h3>
-      <p>Il resoconto mattutino, tutti i diciotto Indici di Vita del Tragitto, la previsione oraria, le città di tragitto salvate e gli avvisi intelligenti, senza bisogno di un account.</p>
+      <p>Il resoconto mattutino, tutti i diciotto Indici di Vita da Pendolare, le fasce di ora di punta di oggi, fino a 10 città salvate e avvisi intelligenti, senza bisogno di un account.</p>
       <p class="marketing-price-note">Compatibile con iPhone e iPad con iOS 26.2 o successivo.</p>
     </article>
     <article class="marketing-price-card">

@@ -21,7 +21,7 @@ Cuando abres TrafficVibe, lo primero que ves es una lectura en lenguaje claro de
 
 ### ¿Cómo sabe TrafficVibe el mejor momento para salir?
 
-La app construye una previsión por horas de cómo cambia tu trayecto a lo largo del día y la compara con una referencia típica, para luego señalar las franjas habituales de hora punta. Cuando esperar unos minutos supone un viaje notablemente más rápido, te lo dice, para que elijas tu salida más fluida.
+TrafficVibe observa cómo cambian los tiempos de viaje a lo largo del día y los compara con un trayecto típico. Tu resumen muestra las franjas de hora punta de hoy por la mañana y por la tarde, y la insignia Hora Punta te dice si salir ahora te mete de lleno en ella. Los recordatorios de salida opcionales pueden avisarte con antelación antes de cada franja.
 
 ### ¿Necesito conexión a internet?
 
@@ -75,17 +75,17 @@ TrafficVibe no se actualiza en segundo plano. Evalúa las alertas cuando abres l
 
 ### ¿Cómo funcionan las ciudades de trayecto?
 
-Añade los lugares a los que viajas desde la hoja de ciudades en el panel. Cada uno se convierte en una ruta desde tu ciudad actual, desbloqueando tiempos puerta a puerta, alertas de retraso y recordatorios de salida. Cambiar entre las ciudades guardadas es instantáneo.
+Abre Ciudades desde el panel (o la barra lateral en iPad) para añadir una ciudad por búsqueda o por tu ubicación actual. Puedes guardar hasta 10 ciudades, marcar con estrella la que quieres ver, reordenarlas y deslizar para eliminarlas. Cambiar entre ciudades guardadas es instantáneo, y las alertas y los recordatorios de salida siguen a tu ciudad marcada con estrella.
 
-### ¿Por qué no puedo añadir mi ciudad actual como destino?
+### ¿Cómo funciona la Ubicación actual?
 
-Una ciudad que coincide con tu ubicación actual se ignora, porque una ruta de un lugar a sí mismo no tiene nada que mostrar.
+Si permites el acceso a la ubicación, TrafficVibe añade tu ciudad actual por ti y la muestra cada vez que abres la app desde cero. Cuando te desplazas a otra ciudad, se actualiza sola.
 
 ## Preferencias
 
 ### ¿Puedo cambiar las unidades y el formato de hora?
 
-Sí. Ajustes tiene una única elección de sistema de medida (US Customary o métrico) que rige la distancia, la velocidad y la temperatura de forma conjunta, además de un selector de hora de 12 o 24 horas. La apariencia sigue la configuración Claro u Oscuro de tu sistema.
+Sí. Ajustes tiene una única elección de sistema de medida (imperial o métrico) que rige la distancia, la velocidad y la temperatura de forma conjunta, además de un selector de hora de 12 o 24 horas. La apariencia puede seguir a tu sistema o quedarse en Claro u Oscuro.
 
 ## Resolución de problemas
 

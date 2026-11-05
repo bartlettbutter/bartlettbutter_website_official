@@ -67,16 +67,16 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>El mejor momento para salir</h3>
-      <p>Cuando esperar unos minutos supone un trayecto notablemente más rápido, TrafficVibe te lo dice. Una previsión por horas muestra cómo cambia tu trayecto a lo largo del día.</p>
+      <p>TrafficVibe te dice si salir ahora te mete de lleno en la hora punta y cuánto más de lo habitual tarda el trayecto. Tu resumen muestra las franjas de hora punta de hoy por la mañana y por la tarde.</p>
       <ul class="marketing-list">
-        <li>Mira cómo cambia tu trayecto hora a hora</li>
-        <li>Las franjas habituales de hora punta, señaladas</li>
-        <li>Elige tu salida más fluida con confianza</li>
+        <li>Las franjas de hora punta de hoy, mañana y tarde, señaladas</li>
+        <li>Un aviso cuando se acerca lo peor de la hora punta</li>
+        <li>Recordatorios opcionales con antelación a la hora punta</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Todo lo que influye en tu trayecto</h3>
-      <p>Mira cómo circula el tráfico, cuánto tiempo añade y qué accidentes, obras o cortes hay más adelante, con una ruta alternativa más rápida cuando ayuda.</p>
+      <p>Mira cómo circula el tráfico, cuánto tiempo añade y qué accidentes, obras o cortes hay más adelante.</p>
       <ul class="marketing-list">
         <li>De un vistazo: precio del combustible, límites de velocidad y servicios cercanos</li>
         <li>Accidentes, obras y cortes, para que nada te pille por sorpresa</li>
@@ -149,11 +149,11 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>Elige tu momento</h3>
-      <p>Consulta la previsión por horas y las franjas de hora punta para escoger el momento más fluido para salir.</p>
+      <p>Consulta las franjas de hora punta de hoy para elegir el momento más fluido para salir.</p>
     </article>
     <article class="marketing-step">
       <h3>Añade tus ciudades</h3>
-      <p>Guarda los lugares a los que viajas para tener tiempos puerta a puerta, alertas de retraso y recordatorios de salida.</p>
+      <p>Guarda las ciudades por las que conduces y cambia entre ellas con un toque, cada una con su propia lectura en vivo.</p>
     </article>
   </div>
 </section>
@@ -172,7 +172,7 @@ redirect_from:
       <h3>Pensada para cada trayecto</h3>
       <ul class="marketing-list">
         <li>Conductores diarios que buscan la salida más fluida</li>
-        <li>Quienes se desplazan a varias ciudades y gestionan rutas guardadas</li>
+        <li>Quienes se desplazan por varias ciudades y cambian entre ciudades guardadas</li>
         <li>Cualquiera que conduzca con mal tiempo, deslumbramiento o hielo</li>
         <li>Viajeros que quieren una lectura honesta en cualquier ciudad del mundo</li>
       </ul>
@@ -193,7 +193,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Tus ciudades de trayecto</h3>
-      <p>Guarda los lugares a los que viajas y cada uno se convierte en una ruta desde donde estás, con sus propios tiempos puerta a puerta, alertas de retraso y recordatorios de salida. Cambiar entre ellas es instantáneo.</p>
+      <p>Guarda hasta 10 ciudades, incluida tu ubicación actual, y cambia entre ellas al instante, cada una con su propia lectura en vivo. Las alertas y los recordatorios de salida siguen a tu ciudad marcada con estrella, ajustados a su propia zona horaria.</p>
     </article>
   </div>
 </section>
@@ -207,7 +207,7 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Incluido hoy</span>
       <h3 class="marketing-price-summary">Todas las funciones actuales disponibles sin coste.</h3>
-      <p>El resumen matutino, los dieciocho Índices de Vida del Trayecto, la previsión por horas, las ciudades guardadas y las alertas inteligentes, sin necesidad de cuenta.</p>
+      <p>El resumen matutino, los dieciocho Índices de Vida en el Trayecto, las franjas de hora punta de hoy, hasta 10 ciudades guardadas y alertas inteligentes, sin necesidad de cuenta.</p>
       <p class="marketing-price-note">Compatible con iPhone y iPad con iOS 26.2 o posterior.</p>
     </article>
     <article class="marketing-price-card">

@@ -67,16 +67,16 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Çıkmak için en iyi zaman</h3>
-      <p>Birkaç dakika beklemek belirgin biçimde daha hızlı bir yolculuk demek olduğunda, TrafficVibe bunu söyler. Saatlik bir görünüm, yolculuğunuzun gün boyunca nasıl değiştiğini gösterir.</p>
+      <p>TrafficVibe, şimdi çıkarsanız yoğun saatin tam ortasına denk gelip gelmeyeceğinizi ve yolculuğun normalden ne kadar uzun süreceğini söyler. Özetiniz bugünün sabah ve öğleden sonra yoğun saat aralıklarını gösterir.</p>
       <ul class="marketing-list">
-        <li>Yolculuğunuzun saat saat nasıl değiştiğini görün</li>
-        <li>Alışılmış yoğun saat aralıkları, belirtilmiş halde</li>
-        <li>En rahat çıkış anınızı güvenle seçin</li>
+        <li>Bugünün sabah ve öğleden sonra yoğun saat aralıkları, belirtilmiş halde</li>
+        <li>Yoğun saatin en kötü anı yaklaşırken bir uyarı</li>
+        <li>Yoğun saatten belirlediğiniz süre önce isteğe bağlı hatırlatıcılar</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Yolculuğunuzu şekillendiren her şey</h3>
-      <p>Yolların nasıl aktığını, trafiğin ne kadar süre eklediğini ve ileride herhangi bir kaza, yol çalışması ya da kapanma olup olmadığını görün; işe yaradığında daha hızlı bir alternatif rotayla birlikte.</p>
+      <p>Yolların nasıl aktığını, trafiğin ne kadar süre eklediğini ve ileride herhangi bir kaza, yol çalışması ya da kapanma olup olmadığını görün.</p>
       <ul class="marketing-list">
         <li>Bir bakışta yakıt fiyatı, hız sınırları ve yakındaki temel yerler</li>
         <li>Kazalar, yol çalışmaları ve kapanmalar; böylece hiçbir şey sizi hazırlıksız yakalamaz</li>
@@ -149,11 +149,11 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>Zaman aralığınızı seçin</h3>
-      <p>En rahat çıkış anını seçmek için saatlik görünümü ve yoğun saat aralıklarını kontrol edin.</p>
+      <p>En rahat çıkış anını seçmek için bugünün yoğun saat aralıklarına göz atın.</p>
     </article>
     <article class="marketing-step">
       <h3>Şehirlerinizi ekleyin</h3>
-      <p>Kapıdan kapıya varış süreleri, gecikme uyarıları ve çıkış hatırlatıcıları için gittiğiniz yerleri kaydedin.</p>
+      <p>Araç kullandığınız şehirleri kaydedin ve aralarında tek dokunuşla geçin; her birinin kendi canlı görünümü olsun.</p>
     </article>
   </div>
 </section>
@@ -172,7 +172,7 @@ redirect_from:
       <h3>Her yolculuk için yapıldı</h3>
       <ul class="marketing-list">
         <li>En rahat çıkışı zamanlayan günlük sürücüler</li>
-        <li>Kayıtlı rotaları yöneten çok şehirli yolcular</li>
+        <li>Kayıtlı şehirler arasında geçiş yapan çok şehirli yolcular</li>
         <li>Kötü havada, kamaşmada veya buzda araç kullanan herkes</li>
         <li>Dünyanın her şehrinde dürüst bir okuma isteyen gezginler</li>
       </ul>
@@ -193,7 +193,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Yolculuk şehirleriniz</h3>
-      <p>Gittiğiniz yerleri kaydedin; her biri bulunduğunuz yerden bir rotaya dönüşür ve kendine ait kapıdan kapıya varış süreleri, gecikme uyarıları ve çıkış hatırlatıcıları olur. Aralarında geçiş anında gerçekleşir.</p>
+      <p>Mevcut konumunuz dahil 10 şehre kadar kaydedin ve aralarında anında geçin; her birinin kendi canlı görünümü vardır. Uyarılar ve çıkış hatırlatıcıları, yıldızladığınız şehri o şehrin saat dilimine göre takip eder.</p>
     </article>
   </div>
 </section>
@@ -207,7 +207,7 @@ redirect_from:
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Bugün dahil</span>
       <h3 class="marketing-price-summary">Mevcut tüm özellikler ücretsiz olarak sunulur.</h3>
-      <p>Sabah özeti, on sekiz Yolculuk Yaşam Endeksinin tamamı, saatlik görünüm, kayıtlı yolculuk şehirleri ve akıllı uyarılar; hesap olmadan.</p>
+      <p>Sabah özeti, on sekiz Yolculuk Yaşam Endeksinin tamamı, bugünün yoğun saat aralıkları, 10 şehre kadar kayıt ve akıllı uyarılar; hesap gerekmeden.</p>
       <p class="marketing-price-note">iOS 26.2 veya sonrasını çalıştıran iPhone ve iPad ile uyumludur.</p>
     </article>
     <article class="marketing-price-card">

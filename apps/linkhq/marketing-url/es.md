@@ -173,7 +173,7 @@ redirect_from:
     </article>
     <article class="marketing-story-card">
       <h3>Cómoda en iPhone y iPad</h3>
-      <p>En iPad, una barra lateral organiza tu biblioteca por estado, tema, origen y etiqueta, y los detalles de un enlace se abren junto a la lista. Usa ⌘N para añadir un enlace y ⌘, para abrir Settings. Elige claro u oscuro, o sigue al sistema, y cada texto crece hasta los mayores tamaños de accesibilidad.</p>
+      <p>En iPad, una barra lateral organiza tu biblioteca por estado, tema, origen y etiqueta, y permanece junto a tus listas y los detalles de cada enlace. Usa ⌘N para añadir un enlace y ⌘, para abrir Settings. Elige claro u oscuro, o sigue al sistema, y cada texto crece hasta los mayores tamaños de accesibilidad.</p>
     </article>
   </div>
 </section>

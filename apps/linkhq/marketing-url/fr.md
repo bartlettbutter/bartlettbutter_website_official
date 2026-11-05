@@ -173,7 +173,7 @@ Une vidéo, un article, une recette ou une publication à laquelle vous voulez r
     </article>
     <article class="marketing-story-card">
       <h3>À l'aise sur iPhone et iPad</h3>
-      <p>Sur iPad, une barre latérale organise votre bibliothèque par statut, thème, source et tag, et les détails d'un lien s'ouvrent à côté de la liste. Utilisez ⌘N pour ajouter un lien et ⌘, pour ouvrir Settings. Choisissez clair ou sombre, ou suivez le système, et chaque libellé s'agrandit jusqu'aux plus grandes tailles d'accessibilité.</p>
+      <p>Sur iPad, une barre latérale organise votre bibliothèque par statut, thème, source et tag, et reste à côté de vos listes et des détails de vos liens. Utilisez ⌘N pour ajouter un lien et ⌘, pour ouvrir Settings. Choisissez clair ou sombre, ou suivez le système, et chaque libellé s'agrandit jusqu'aux plus grandes tailles d'accessibilité.</p>
     </article>
   </div>
 </section>

@@ -173,7 +173,7 @@ Een video, artikel, recept of bericht gevonden waar je naar terug wilt? Deel het
     </article>
     <article class="marketing-story-card">
       <h3>Thuis op iPhone en iPad</h3>
-      <p>Op iPad ordent een navigatiekolom je bibliotheek op status, onderwerp, bron en tag, en de details van een link openen naast de lijst. Gebruik ⌘N om een link toe te voegen en ⌘, om Settings te openen. Kies licht of donker, of volg het systeem, en elk label groeit mee tot de grootste toegankelijkheidsgroottes.</p>
+      <p>Op iPad ordent een navigatiekolom je bibliotheek op status, onderwerp, bron en tag, en blijft naast je lijsten en linkdetails staan. Gebruik ⌘N om een link toe te voegen en ⌘, om Settings te openen. Kies licht of donker, of volg het systeem, en elk label groeit mee tot de grootste toegankelijkheidsgroottes.</p>
     </article>
   </div>
 </section>

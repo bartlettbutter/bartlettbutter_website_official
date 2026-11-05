@@ -33,7 +33,7 @@ Library veya Favorites listesinin üstünden arayın. Arama başlıklarda, URL'l
 
 ### Bir bağlantıyı kaynağında nasıl yeniden açarım?
 
-Bir bağlantıyı açın ve Open Original'a dokunun ya da satırı Open'a kaydırın. Video veya gönderi, yüklüyse kendi uygulamasında açılır; yani YouTube bağlantısı YouTube'u, RedNote bağlantısı notu RedNote'ta açar. Uygulaması olmayan bağlantılar tarayıcınızda açılır. Bir bağlantıyı açmak onu açıldı olarak da işaretler.
+Bir bağlantıyı açın ve Open Original'a dokunun ya da satırını sola kaydırıp açma düğmesine dokunun. Video veya gönderi, yüklüyse kendi uygulamasında açılır; yani YouTube bağlantısı YouTube'u, RedNote bağlantısı notu RedNote'ta açar. Uygulaması olmayan bağlantılar tarayıcınızda açılır. Bir bağlantıyı açmak onu açıldı olarak da işaretler.
 
 ## Sık Sorulan Sorular
 
@@ -79,7 +79,7 @@ Evet. Settings'te Appearance altında System, Light veya Dark'ı seçin. Seçimi
 
 ### LinkHQ iPad'de çalışır mı?
 
-Evet. iPad'de bir kenar çubuğu kitaplığınızı duruma, konuya, kaynağa ve etikete göre, her biri kendi sayısıyla düzenler; yer olduğunda bir bağlantının ayrıntıları listenin yanında açılır. Klavyeyle ⌘N bağlantı ekler, ⌘, Settings'i açar.
+Evet. iPad'de bir kenar çubuğu kitaplığınızı duruma, konuya, kaynağa ve etikete göre, her biri kendi sayısıyla düzenler ve listelerinizin ve bağlantı ayrıntılarının yanında kalır. Klavyeyle ⌘N bağlantı ekler, ⌘, Settings'i açar.
 
 ### LinkHQ daha büyük metin boyutlarını destekler mi?
 

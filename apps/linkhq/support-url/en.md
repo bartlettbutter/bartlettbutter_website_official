@@ -32,7 +32,7 @@ Search from the top of the Library or Favorites list. It looks through titles, U
 
 ### How do I reopen a link at its source?
 
-Open a link and tap Open Original, or swipe the row to Open. The video or post opens in its own app when it's installed, so a YouTube link opens YouTube and a RedNote link opens the note in RedNote. Links without an app open in your browser. Opening a link also marks it as opened.
+Open a link and tap Open Original, or swipe its row to the left and tap the Open button. The video or post opens in its own app when it's installed, so a YouTube link opens YouTube and a RedNote link opens the note in RedNote. Links without an app open in your browser. Opening a link also marks it as opened.
 
 ## Frequently Asked Questions
 
@@ -78,7 +78,7 @@ Yes. In Settings, under Appearance, choose System, Light, or Dark. Your choice a
 
 ### Does LinkHQ work on iPad?
 
-Yes. On iPad, a sidebar organizes your library by status, topic, source, and tag, each with its count, and a link's details open beside the list when there's room. With a keyboard, ⌘N adds a link and ⌘, opens Settings.
+Yes. On iPad, a sidebar organizes your library by status, topic, source, and tag, each with its count, and stays beside your lists and link details. With a keyboard, ⌘N adds a link and ⌘, opens Settings.
 
 ### Does LinkHQ support larger text sizes?
 

@@ -173,7 +173,7 @@ redirect_from:
     </article>
     <article class="marketing-story-card">
       <h3>在 iPhone 和 iPad 上都順手</h3>
-      <p>在 iPad 上，側邊欄會依狀態、主題、來源和標籤整理收藏，連結詳細資訊會在列表旁邊開啟。用 ⌘N 新增連結，用 ⌘, 開啟 Settings。可以選擇淺色或深色，也可以跟隨系統，所有文字都能放大到最大的輔助使用字級。</p>
+      <p>在 iPad 上，側邊欄會依狀態、主題、來源和標籤整理收藏，並始終停留在列表和連結詳細資訊旁邊。用 ⌘N 新增連結，用 ⌘, 開啟 Settings。可以選擇淺色或深色，也可以跟隨系統，所有文字都能放大到最大的輔助使用字級。</p>
     </article>
   </div>
 </section>

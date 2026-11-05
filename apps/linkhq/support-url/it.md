@@ -33,7 +33,7 @@ Cerca dalla parte alta dell'elenco Library o Favorites. La ricerca guarda in tit
 
 ### Come riapro un link alla sua fonte?
 
-Apri un link e tocca Open Original, oppure scorri la riga fino a Open. Il video o il post si apre nella sua app quando è installata, quindi un link di YouTube apre YouTube e uno di RedNote apre la nota in RedNote. I link senza app si aprono nel browser. Aprire un link lo segna anche come aperto.
+Apri un link e tocca Open Original, oppure scorri la sua riga verso sinistra e tocca il pulsante per aprirlo. Il video o il post si apre nella sua app quando è installata, quindi un link di YouTube apre YouTube e uno di RedNote apre la nota in RedNote. I link senza app si aprono nel browser. Aprire un link lo segna anche come aperto.
 
 ## Domande frequenti
 
@@ -79,7 +79,7 @@ Sì. In Settings, sotto Appearance, scegli System, Light o Dark. La tua scelta v
 
 ### LinkHQ funziona su iPad?
 
-Sì. Su iPad, una barra laterale organizza la libreria per stato, argomento, fonte e tag, ciascuno con il suo conteggio, e i dettagli di un link si aprono accanto all'elenco quando c'è spazio. Con una tastiera, ⌘N aggiunge un link e ⌘, apre Settings.
+Sì. Su iPad, una barra laterale organizza la libreria per stato, argomento, fonte e tag, ciascuno con il suo conteggio, e resta accanto ai tuoi elenchi e ai dettagli dei link. Con una tastiera, ⌘N aggiunge un link e ⌘, apre Settings.
 
 ### LinkHQ supporta testi più grandi?
 

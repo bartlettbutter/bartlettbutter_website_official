@@ -33,7 +33,7 @@ Lancez une recherche en haut de la liste Library ou Favorites. Elle parcourt les
 
 ### Comment rouvrir un lien à sa source ?
 
-Ouvrez un lien et touchez Open Original, ou balayez la ligne jusqu'à Open. La vidéo ou la publication s'ouvre dans son app lorsqu'elle est installée : un lien YouTube ouvre YouTube, un lien RedNote ouvre la note dans RedNote. Les liens sans app s'ouvrent dans votre navigateur. Ouvrir un lien le marque aussi comme ouvert.
+Ouvrez un lien et touchez Open Original, ou balayez sa ligne vers la gauche et touchez le bouton d'ouverture. La vidéo ou la publication s'ouvre dans son app lorsqu'elle est installée : un lien YouTube ouvre YouTube, un lien RedNote ouvre la note dans RedNote. Les liens sans app s'ouvrent dans votre navigateur. Ouvrir un lien le marque aussi comme ouvert.
 
 ## Questions fréquentes
 
@@ -79,7 +79,7 @@ Oui. Dans Settings, sous Appearance, choisissez System, Light ou Dark. Votre cho
 
 ### LinkHQ fonctionne-t-elle sur iPad ?
 
-Oui. Sur iPad, une barre latérale organise votre bibliothèque par statut, thème, source et tag, chacun avec son nombre, et les détails d'un lien s'ouvrent à côté de la liste quand la place le permet. Avec un clavier, ⌘N ajoute un lien et ⌘, ouvre Settings.
+Oui. Sur iPad, une barre latérale organise votre bibliothèque par statut, thème, source et tag, chacun avec son nombre, et reste à côté de vos listes et des détails de vos liens. Avec un clavier, ⌘N ajoute un lien et ⌘, ouvre Settings.
 
 ### LinkHQ prend-elle en charge les grandes tailles de texte ?
 

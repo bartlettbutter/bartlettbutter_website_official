@@ -33,7 +33,7 @@ Zoek bovenaan de lijst van Library of Favorites. Zoeken doorzoekt titels, URL's,
 
 ### Hoe open ik een link opnieuw bij de bron?
 
-Open een link en tik op Open Original, of veeg de rij naar Open. De video of het bericht opent in de eigen app als die geïnstalleerd is, dus een YouTube-link opent YouTube en een RedNote-link opent de notitie in RedNote. Links zonder app openen in je browser. Een link openen markeert hem ook als geopend.
+Open een link en tik op Open Original, of veeg de rij naar links en tik op de knop om hem te openen. De video of het bericht opent in de eigen app als die geïnstalleerd is, dus een YouTube-link opent YouTube en een RedNote-link opent de notitie in RedNote. Links zonder app openen in je browser. Een link openen markeert hem ook als geopend.
 
 ## Veelgestelde vragen
 
@@ -79,7 +79,7 @@ Ja. Kies in Settings onder Appearance System, Light of Dark. Je keuze geldt ook 
 
 ### Werkt LinkHQ op de iPad?
 
-Ja. Op iPad ordent een navigatiekolom je bibliotheek op status, onderwerp, bron en tag, elk met een aantal, en de details van een link openen naast de lijst als er ruimte is. Met een toetsenbord voegt ⌘N een link toe en opent ⌘, Settings.
+Ja. Op iPad ordent een navigatiekolom je bibliotheek op status, onderwerp, bron en tag, elk met een aantal, en blijft naast je lijsten en linkdetails staan. Met een toetsenbord voegt ⌘N een link toe en opent ⌘, Settings.
 
 ### Ondersteunt LinkHQ grotere tekstgroottes?
 

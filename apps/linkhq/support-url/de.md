@@ -33,7 +33,7 @@ Suche oben in der Liste von Library oder Favorites. Die Suche durchsucht Titel, 
 
 ### Wie öffne ich einen Link an seiner Quelle wieder?
 
-Öffne einen Link und tippe auf Open Original, oder wische die Zeile zu Open. Das Video oder der Beitrag öffnet sich in seiner eigenen App, wenn sie installiert ist, so öffnet ein YouTube-Link YouTube und ein RedNote-Link die Notiz in RedNote. Links ohne eigene App öffnen sich im Browser. Das Öffnen markiert den Link zudem als geöffnet.
+Öffne einen Link und tippe auf Open Original, oder wische seine Zeile nach links und tippe auf die Taste zum Öffnen. Das Video oder der Beitrag öffnet sich in seiner eigenen App, wenn sie installiert ist, so öffnet ein YouTube-Link YouTube und ein RedNote-Link die Notiz in RedNote. Links ohne eigene App öffnen sich im Browser. Das Öffnen markiert den Link zudem als geöffnet.
 
 ## Häufige Fragen
 
@@ -79,7 +79,7 @@ Ja. Wähle in Settings unter Appearance System, Light oder Dark. Deine Wahl gilt
 
 ### Funktioniert LinkHQ auf dem iPad?
 
-Ja. Auf dem iPad ordnet eine Seitenleiste deine Bibliothek nach Status, Thema, Quelle und Tag, jeweils mit Anzahl, und die Details eines Links öffnen sich neben der Liste, wenn Platz ist. Mit einer Tastatur fügt ⌘N einen Link hinzu und ⌘, öffnet Settings.
+Ja. Auf dem iPad ordnet eine Seitenleiste deine Bibliothek nach Status, Thema, Quelle und Tag, jeweils mit Anzahl, und bleibt neben deinen Listen und Link-Details. Mit einer Tastatur fügt ⌘N einen Link hinzu und ⌘, öffnet Settings.
 
 ### Unterstützt LinkHQ größere Textgrößen?
 

@@ -173,7 +173,7 @@ redirect_from:
     </article>
     <article class="marketing-story-card">
       <h3>在 iPhone 和 iPad 上都顺手</h3>
-      <p>在 iPad 上，侧边栏会按状态、主题、来源和标签整理收藏，链接详情会在列表旁边打开。用 ⌘N 添加链接，用 ⌘, 打开 Settings。可以选择浅色或深色，也可以跟随系统，所有文字都能放大到最大的辅助功能字号。</p>
+      <p>在 iPad 上，侧边栏会按状态、主题、来源和标签整理收藏，并始终停留在列表和链接详情旁边。用 ⌘N 添加链接，用 ⌘, 打开 Settings。可以选择浅色或深色，也可以跟随系统，所有文字都能放大到最大的辅助功能字号。</p>
     </article>
   </div>
 </section>

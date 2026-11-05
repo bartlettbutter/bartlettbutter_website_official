@@ -173,7 +173,7 @@ Geri dönmek istediğiniz bir video, makale, tarif ya da gönderi mi buldunuz? B
     </article>
     <article class="marketing-story-card">
       <h3>iPhone ve iPad'de rahat</h3>
-      <p>iPad'de bir kenar çubuğu kitaplığınızı duruma, konuya, kaynağa ve etikete göre düzenler; bir bağlantının ayrıntıları listenin yanında açılır. Bağlantı eklemek için ⌘N, Settings'i açmak için ⌘, kullanın. Açık ya da koyu görünümü seçin veya sistemi izleyin; her etiket en büyük erişilebilirlik metin boyutlarına kadar büyür.</p>
+      <p>iPad'de bir kenar çubuğu kitaplığınızı duruma, konuya, kaynağa ve etikete göre düzenler ve listelerinizin ve bağlantı ayrıntılarının yanında kalır. Bağlantı eklemek için ⌘N, Settings'i açmak için ⌘, kullanın. Açık ya da koyu görünümü seçin veya sistemi izleyin; her etiket en büyük erişilebilirlik metin boyutlarına kadar büyür.</p>
     </article>
   </div>
 </section>

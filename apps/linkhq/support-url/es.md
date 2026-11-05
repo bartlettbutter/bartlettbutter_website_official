@@ -33,7 +33,7 @@ Busca desde la parte superior de la lista de Library o Favorites. La búsqueda r
 
 ### ¿Cómo vuelvo a abrir un enlace en su origen?
 
-Abre un enlace y toca Open Original, o desliza la fila hasta Open. El video o la publicación se abre en su propia app cuando está instalada, así que un enlace de YouTube abre YouTube y uno de RedNote abre la nota en RedNote. Los enlaces sin app se abren en tu navegador. Abrir un enlace también lo marca como abierto.
+Abre un enlace y toca Open Original, o desliza su fila hacia la izquierda y toca el botón de abrir. El video o la publicación se abre en su propia app cuando está instalada, así que un enlace de YouTube abre YouTube y uno de RedNote abre la nota en RedNote. Los enlaces sin app se abren en tu navegador. Abrir un enlace también lo marca como abierto.
 
 ## Preguntas frecuentes
 
@@ -79,7 +79,7 @@ Sí. En Settings, en Appearance, elige System, Light o Dark. Tu elección tambi�
 
 ### ¿LinkHQ funciona en iPad?
 
-Sí. En iPad, una barra lateral organiza tu biblioteca por estado, tema, origen y etiqueta, cada uno con su recuento, y los detalles de un enlace se abren junto a la lista cuando hay espacio. Con un teclado, ⌘N añade un enlace y ⌘, abre Settings.
+Sí. En iPad, una barra lateral organiza tu biblioteca por estado, tema, origen y etiqueta, cada uno con su recuento, y permanece junto a tus listas y los detalles de cada enlace. Con un teclado, ⌘N añade un enlace y ⌘, abre Settings.
 
 ### ¿LinkHQ admite tamaños de texto más grandes?
 

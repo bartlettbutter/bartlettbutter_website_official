@@ -172,7 +172,7 @@ Found a video, article, recipe, or post you want to come back to? Share it to Li
     </article>
     <article class="marketing-story-card">
       <h3>At home on iPhone and iPad</h3>
-      <p>On iPad, a sidebar organizes your library by status, topic, source, and tag, and a link's details open beside the list. Use ⌘N to add a link and ⌘, to open Settings. Choose Light or Dark, or follow your system, and every label scales up to the largest accessibility text sizes.</p>
+      <p>On iPad, a sidebar organizes your library by status, topic, source, and tag, and stays beside your lists and link details. Use ⌘N to add a link and ⌘, to open Settings. Choose Light or Dark, or follow your system, and every label scales up to the largest accessibility text sizes.</p>
     </article>
   </div>
 </section>

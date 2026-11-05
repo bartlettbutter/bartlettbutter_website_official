@@ -173,7 +173,7 @@ Encontrou um vídeo, artigo, receita ou post para ver depois? Compartilhe com o 
     </article>
     <article class="marketing-story-card">
       <h3>À vontade no iPhone e no iPad</h3>
-      <p>No iPad, uma barra lateral organiza a biblioteca por status, tema, origem e tag, e os detalhes de um link abrem ao lado da lista. Use ⌘N para adicionar um link e ⌘, para abrir Settings. Escolha claro ou escuro, ou siga o sistema, e todo texto cresce até os maiores tamanhos de acessibilidade.</p>
+      <p>No iPad, uma barra lateral organiza a biblioteca por status, tema, origem e tag, e fica ao lado das suas listas e dos detalhes dos links. Use ⌘N para adicionar um link e ⌘, para abrir Settings. Escolha claro ou escuro, ou siga o sistema, e todo texto cresce até os maiores tamanhos de acessibilidade.</p>
     </article>
   </div>
 </section>

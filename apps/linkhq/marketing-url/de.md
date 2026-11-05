@@ -173,7 +173,7 @@ Ein Video, ein Artikel, ein Rezept oder ein Beitrag, zu dem du zurückkehren wil
     </article>
     <article class="marketing-story-card">
       <h3>Zuhause auf iPhone und iPad</h3>
-      <p>Auf dem iPad ordnet eine Seitenleiste deine Bibliothek nach Status, Thema, Quelle und Tag, und die Details eines Links öffnen sich neben der Liste. Mit ⌘N fügst du einen Link hinzu, mit ⌘, öffnest du Settings. Wähle Hell oder Dunkel oder folge dem System, und jede Beschriftung wächst bis zu den größten Textgrößen der Bedienungshilfen mit.</p>
+      <p>Auf dem iPad ordnet eine Seitenleiste deine Bibliothek nach Status, Thema, Quelle und Tag und bleibt neben deinen Listen und Link-Details. Mit ⌘N fügst du einen Link hinzu, mit ⌘, öffnest du Settings. Wähle Hell oder Dunkel oder folge dem System, und jede Beschriftung wächst bis zu den größten Textgrößen der Bedienungshilfen mit.</p>
     </article>
   </div>
 </section>

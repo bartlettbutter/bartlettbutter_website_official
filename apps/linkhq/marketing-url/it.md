@@ -173,7 +173,7 @@ Hai trovato un video, un articolo, una ricetta o un post a cui vuoi tornare? Con
     </article>
     <article class="marketing-story-card">
       <h3>A suo agio su iPhone e iPad</h3>
-      <p>Su iPad, una barra laterale organizza la libreria per stato, argomento, fonte e tag, e i dettagli di un link si aprono accanto all'elenco. Usa ⌘N per aggiungere un link e ⌘, per aprire Settings. Scegli chiaro o scuro, o segui il sistema, e ogni testo si ingrandisce fino alle dimensioni di accessibilità più grandi.</p>
+      <p>Su iPad, una barra laterale organizza la libreria per stato, argomento, fonte e tag, e resta accanto ai tuoi elenchi e ai dettagli dei link. Usa ⌘N per aggiungere un link e ⌘, per aprire Settings. Scegli chiaro o scuro, o segui il sistema, e ogni testo si ingrandisce fino alle dimensioni di accessibilità più grandi.</p>
     </article>
   </div>
 </section>

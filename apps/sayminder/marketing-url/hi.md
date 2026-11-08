@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "एक रिमाइंडर बोलिए और वह ठीक समय पर आप तक पहुँचेगा, साइलेंट पर भी, और खुद बोलकर सुना भी देगा।"
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: hi
 permalink: /sayminder/hi/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-सबसे तेज़ रिमाइंडर वही है जिसे आप बोलते हैं। माइक दबाकर रखिए, बताइए क्या और कब, और Sayminder उसे लिखता है, आपके शब्दों में से समय पढ़ लेता है और उसे आपके कैलेंडर में जोड़ देता है। जब वह पल आता है तो यह आपको सचेत करता है, साइलेंट या फ़ोकस में भी, और रिमाइंडर को एक स्वाभाविक आवाज़ में पढ़कर सुनाता है।
+सबसे तेज़ रिमाइंडर वही है जिसे आप बोलते हैं। माइक पर टैप कीजिए, बताइए क्या और कब, और Sayminder उसे लिखता है, आपके शब्दों में से समय पढ़ लेता है और उसे आपके कैलेंडर में जोड़ देता है। जब वह पल आता है तो यह आपको सचेत करता है, साइलेंट या फ़ोकस में भी, और अगर आप उसके कुछ ही देर बाद ऐप खोलें तो रिमाइंडर पढ़कर सुनाता है।
 
 <div class="marketing-chip-row" aria-label="Sayminder की खास बातें">
   <span class="marketing-chip">बोलिए, टाइप मत कीजिए</span>
   <span class="marketing-chip">साइलेंट और फ़ोकस को भेदता है</span>
   <span class="marketing-chip">रिमाइंडर पढ़कर सुनाता है</span>
-  <span class="marketing-chip">निजी, डिवाइस पर ही</span>
+  <span class="marketing-chip">डिज़ाइन से ही निजी</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="एक नज़र में Sayminder">
@@ -33,14 +33,14 @@ redirect_from:
     <span class="marketing-stat-label">ब्रेकथ्रू अलार्म साइलेंट या फ़ोकस में भी बजते हैं, कभी चुपचाप नहीं छूटते</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">निजी और डिवाइस पर ही, न कोई अकाउंट, न ट्रैकिंग, न विज्ञापन</span>
+    <span class="marketing-stat-value">0 अकाउंट</span>
+    <span class="marketing-stat-label">रिमाइंडर आपके डिवाइस पर ही रहते हैं, न साइन-अप, न ट्रैकिंग, न विज्ञापन</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="App Store पर डाउनलोड करें">
     </a>
   </div>
@@ -63,6 +63,7 @@ redirect_from:
         <li>"मुझे आज रात नौ बजे दवा लेने की याद दिलाना"</li>
         <li>"20 मिनट में", "अगले शुक्रवार", "महीने के अंत में"</li>
         <li>बोलते समय लाइव ट्रांसक्रिप्ट, सहेजने से पहले संपादन योग्य</li>
+        <li>एक साथ कई बातें कहिए और हर एक अपना अलग रिमाइंडर बन जाती है</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>यह पढ़कर सुनाता है</h3>
-      <p>जब कोई रिमाइंडर आता है, ऐप उसे बोलकर सुनाता है और सहेजते समय बोलकर पुष्टि करता है, ताकि पूरा चक्र हैंड्स-फ़्री रहे।</p>
+      <p>जब ऐप खुला हो और कोई रिमाइंडर बजे, या आप उसके कुछ ही देर बाद ऐप खोलें, तो Sayminder उसे बोलकर सुनाता है। सहेजते समय भी यह बोलकर पुष्टि करता है, ताकि पूरा चक्र हैंड्स-फ़्री रहे।</p>
       <ul class="marketing-list">
         <li>सहेजने के बाद "ठीक है। मैं आपको याद दिलाऊँगा…"</li>
         <li>किसी भी सूची पंक्ति को माँगने पर बोला जा सकता है</li>
@@ -88,7 +89,7 @@ redirect_from:
       <p>जब आपकी भाषा समर्थन करती है तो वाक् पहचान डिवाइस पर चलती है, और रिमाइंडर केवल आपके डिवाइस पर ही संग्रहीत होते हैं।</p>
       <ul class="marketing-list">
         <li>न अकाउंट, न एनालिटिक्स, न विज्ञापन</li>
-        <li>प्रोसेस करने के लिए कहीं कुछ नहीं भेजा जाता</li>
+        <li>वैकल्पिक छुट्टियाँ छुट्टी सेवा के साथ केवल देश कोड साझा करती हैं</li>
         <li>ऐप हटाइए और सब कुछ उसके साथ चला जाता है</li>
       </ul>
     </article>
@@ -108,6 +109,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>संपादन योग्य शीर्षक, नोट्स, तारीख और दोहराव विकल्प</li>
         <li>बीत चुका एक-बार का समय कल पर ले जाने की पेशकश करता है</li>
+        <li>अभी बोल नहीं सकते? टाइप कर दीजिए</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ redirect_from:
       <p>एक महीने का ग्रिड उन दिनों पर बिंदु लगाता है जिनमें रिमाइंडर हैं, और होम व लॉक स्क्रीन विजेट आपके अगले को नज़र में रखता है।</p>
       <ul class="marketing-list">
         <li>वैकल्पिक केवल-पढ़ने वाली परत आपके सिस्टम कैलेंडर को दर्शाती है</li>
+        <li>आप जिस देश में हैं उसकी वैकल्पिक राष्ट्रीय छुट्टियाँ</li>
         <li>छोटे, मध्यम और लॉक स्क्रीन विजेट परिवार</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ redirect_from:
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>माइक दबाकर रखिए</h3>
+      <h3>माइक पर टैप कीजिए</h3>
       <p>एक बटन रिकॉर्डिंग शुरू और बंद करता है, बोलते समय लाइव ट्रांसक्रिप्ट के साथ।</p>
     </article>
     <article class="marketing-step">
       <h3>बताइए क्या और कब</h3>
-      <p>Sayminder स्वाभाविक वाक्य-रचना में से समय पढ़ता है और बाकी को शीर्षक के रूप में लेता है।</p>
+      <p>Sayminder स्वाभाविक वाक्य-रचना में से समय पढ़ता है और बाकी को शीर्षक के रूप में लेता है। समय नहीं बताया? आज रात, कल सुबह या एक घंटे में पर टैप कीजिए।</p>
     </article>
     <article class="marketing-step">
       <h3>पुष्टि करें या संपादित करें</h3>
@@ -149,7 +152,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>यह आप तक पहुँचता है</h3>
-      <p>एक ब्रेकथ्रू अलार्म समय पर बजता है, साइलेंट पर भी, और रिमाइंडर पढ़कर सुनाता है।</p>
+      <p>एक ब्रेकथ्रू अलार्म समय पर बजता है, साइलेंट या फ़ोकस में भी, और अगर आप उसके कुछ ही देर बाद ऐप खोलें तो Sayminder उसे पढ़कर सुनाता है।</p>
     </article>
     <article class="marketing-step">
       <h3>हटाने के लिए टैप करें</h3>

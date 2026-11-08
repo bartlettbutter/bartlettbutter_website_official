@@ -26,7 +26,7 @@ Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la hi
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">razas de gato con perfiles completos al estilo CFA/TICA que puedes buscar y explorar</span>
+    <span class="marketing-stat-label">razas de gato con perfiles completos que puedes buscar y explorar</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la hi
     </article>
     <article class="marketing-card">
       <h3>Perfiles que vale la pena leer</h3>
-      <p>Cada raza abre un perfil al estilo CFA/TICA que explica cómo es realmente el gato, no solo cómo se llama.</p>
+      <p>Cada raza abre un perfil detallado que explica cómo es realmente el gato, no solo cómo se llama.</p>
       <ul class="marketing-list">
         <li>Temperamento, esperanza de vida, peso y altura de un vistazo</li>
         <li>País de origen y la historia de la raza</li>
@@ -195,7 +195,7 @@ Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la hi
       <span class="marketing-price-tier">Postura de privacidad</span>
       <h3 class="marketing-price-summary">Sin subidas. Sin nube. Sin rastreo.</h3>
       <p>Tus fotos nunca salen de tu dispositivo. La identificación de razas se realiza íntegramente en el dispositivo y las funciones en línea solo descargan fotos y datos públicos de gatos.</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Leer política de privacidad</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/es/">Leer política de privacidad</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Haz una foto de cualquier gato y Nekopedia nombra la raza, luego abre toda la hi
   <h2 id="nk-next-title">¿Listo para nombrar a cada gato que conozcas?</h2>
   <p>Descarga Nekopedia, empieza a escanear de inmediato y ten el resto del mundo de las razas a mano siempre que surja la curiosidad.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">Visitar soporte</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">Leer política de privacidad</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/es/">Visitar soporte</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/es/">Leer política de privacidad</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -26,7 +26,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">Hunderassen mit reichhaltigen Profilen im AKC-Stil, die du durchsuchen und entdecken kannst</span>
+    <span class="marketing-stat-label">Hunderassen mit reichhaltigen Profilen, die du durchsuchen und entdecken kannst</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
     </article>
     <article class="marketing-card">
       <h3>Profile, die es wert sind, gelesen zu werden</h3>
-      <p>Jede Rasse öffnet ein Profil im AKC-Stil, das erklärt, wie der Hund wirklich ist, nicht nur wie er heißt.</p>
+      <p>Jede Rasse öffnet ein ausführliches Profil, das erklärt, wie der Hund wirklich ist, nicht nur wie er heißt.</p>
       <ul class="marketing-list">
         <li>Temperament, Lebenserwartung, Gewicht und Größe auf einen Blick</li>
         <li>Herkunftsland und die Geschichte der Rasse</li>
@@ -195,7 +195,7 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
       <span class="marketing-price-tier">Datenschutz-Haltung</span>
       <h3 class="marketing-price-summary">Keine Uploads. Keine Konten. Kein Tracking.</h3>
       <p>Deine Fotos verlassen niemals dein Gerät. Die Rassenerkennung läuft vollständig auf dem Gerät, während Rassenprofile und Quizfotos aus öffentlichen Hunderassen-Quellen geladen werden, und zwar ohne persönliche Daten.</p>
-      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Datenschutzrichtlinie lesen</a></p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/de/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Mach ein Foto von einem beliebigen Hund und Barkpedia nennt dir die Rasse und ö
   <h2 id="bp-next-title">Bereit, jeden Hund zu benennen, den du triffst?</h2>
   <p>Lade Barkpedia herunter, beginne sofort mit dem Scannen und behalte den Rest der Rassenwelt griffbereit, wann immer die Neugier zuschlägt.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/barkpedia/support/">Support besuchen</a>
-    <a class="marketing-inline-link" href="/barkpedia/privacy/">Datenschutzrichtlinie lesen</a>
+    <a class="marketing-inline-link" href="/barkpedia/support/de/">Support besuchen</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/de/">Datenschutzrichtlinie lesen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

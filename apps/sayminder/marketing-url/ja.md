@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "リマインダーを話すだけで、サイレントでも時間どおりに届き、自然な声で読み上げます。"
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: ja
 permalink: /sayminder/ja/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-いちばん速いリマインダーは、話すリマインダーです。マイクを長押しして、何を・いつを言うだけで、Sayminder が文字に起こし、あなたの言葉から時間を読み取り、カレンダーに追加します。その時が来ると、サイレントや集中モードでも通知し、リマインダーを自然な声で読み上げます。
+いちばん速いリマインダーは、話すリマインダーです。マイクをタップして、何を・いつを言うだけで、Sayminder が文字に起こし、あなたの言葉から時間を読み取り、カレンダーに追加します。その時が来ると、サイレントや集中モードでも通知し、その直後にアプリを開くとリマインダーを読み上げます。
 
 <div class="marketing-chip-row" aria-label="Sayminder のハイライト">
   <span class="marketing-chip">入力せず、話すだけ</span>
   <span class="marketing-chip">サイレントと集中モードを突破</span>
   <span class="marketing-chip">リマインダーを読み上げ</span>
-  <span class="marketing-chip">プライベート、端末内で完結</span>
+  <span class="marketing-chip">設計からプライベート</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="ひと目でわかる Sayminder">
@@ -33,14 +33,14 @@ redirect_from:
     <span class="marketing-stat-label">突破型アラームはサイレントや集中モードでも鳴り、静かに見落とされることはありません</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">プライベートで端末内完結、アカウント・追跡・広告なし</span>
+    <span class="marketing-stat-value">アカウント0</span>
+    <span class="marketing-stat-label">リマインダーは端末内にとどまり、サインアップ・追跡・広告なし</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="App Store でダウンロード">
     </a>
   </div>
@@ -63,6 +63,7 @@ redirect_from:
         <li>「今夜9時に薬を飲むのをリマインドして」</li>
         <li>「20分後」「来週の金曜」「月末」</li>
         <li>話しながらのリアルタイム文字起こし、保存前に編集可能</li>
+        <li>複数のことを一度に話すと、それぞれが別のリマインダーに</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>読み上げてくれる</h3>
-      <p>リマインダーが届くと、アプリが声に出して読み上げ、保存時にも声で確認するので、一連の流れがすべてハンズフリーです。</p>
+      <p>アプリを開いているときにリマインダーが鳴ったとき、または鳴った直後にアプリを開いたとき、Sayminder が声に出して読み上げます。保存時にも声で確認するので、一連の流れがすべてハンズフリーです。</p>
       <ul class="marketing-list">
         <li>保存後に「わかりました。……をお知らせします」</li>
         <li>どのリスト行も必要に応じて読み上げ可能</li>
@@ -88,7 +89,7 @@ redirect_from:
       <p>お使いの言語が対応していれば音声認識は端末上で実行され、リマインダーは端末内にのみ保存されます。</p>
       <ul class="marketing-list">
         <li>アカウントなし、分析なし、広告なし</li>
-        <li>処理のためにどこかへ送信されることはありません</li>
+        <li>任意の祝日表示で祝日サービスと共有するのは国コードだけです</li>
         <li>アプリを削除すれば、すべて一緒に消えます</li>
       </ul>
     </article>
@@ -108,6 +109,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>編集可能なタイトル、メモ、日付、繰り返しオプション</li>
         <li>過ぎた一度きりの時刻は、明日への変更を提案</li>
+        <li>今は話せない？代わりに入力できます</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ redirect_from:
       <p>月グリッドはリマインダーのある日にドットを表示し、ホーム画面とロック画面のウィジェットが次の予定を視界に保ちます。</p>
       <ul class="marketing-list">
         <li>任意の読み取り専用レイヤーがシステムカレンダーを反映</li>
+        <li>今いる国の国民の祝日を任意で表示</li>
         <li>小・中・ロック画面のウィジェットファミリー</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ redirect_from:
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>マイクを長押し</h3>
+      <h3>マイクをタップ</h3>
       <p>1つのボタンで録音を開始・停止、話しながらリアルタイム文字起こし。</p>
     </article>
     <article class="marketing-step">
       <h3>何を・いつを言う</h3>
-      <p>Sayminder は自然な言い回しから時間を読み取り、残りをタイトルとして使います。</p>
+      <p>Sayminder は自然な言い回しから時間を読み取り、残りをタイトルとして使います。時間を言わなかったら、「今夜」「明日の朝」「1時間後」をタップ。</p>
     </article>
     <article class="marketing-step">
       <h3>確認または編集</h3>
@@ -149,7 +152,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>あなたに届く</h3>
-      <p>突破型アラームがサイレントでも時間どおりに鳴り、リマインダーを読み上げます。</p>
+      <p>突破型アラームがサイレントや集中モードでも時間どおりに鳴り、その直後にアプリを開くと Sayminder がリマインダーを読み上げます。</p>
     </article>
     <article class="marketing-step">
       <h3>タップして消す</h3>

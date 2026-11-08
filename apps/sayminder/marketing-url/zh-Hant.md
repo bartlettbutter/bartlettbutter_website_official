@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "說出提醒，它就會準時找到你，即使靜音也不例外，還會用自然語音朗讀出來。"
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: zh-Hant
 permalink: /sayminder/zh-Hant/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-最快的提醒，就是你說出來的那一句。按住麥克風，說出要做什麼、什麼時候做，Sayminder 會為你轉寫文字，從你的話裡讀出時間，並把它放進你的行事曆。到了那一刻，它會提醒你（即使在靜音或專注模式下），並用自然的語音把提醒念給你聽。
+最快的提醒，就是你說出來的那一句。點按麥克風，說出要做什麼、什麼時候做，Sayminder 會為你轉寫文字，從你的話裡讀出時間，並把它放進你的行事曆。到了那一刻，它會提醒你（即使在靜音或專注模式下）；如果你隨後不久開啟應用程式，它還會把提醒朗讀給你聽。
 
 <div class="marketing-chip-row" aria-label="Sayminder 亮點">
   <span class="marketing-chip">用說的，不用打字</span>
   <span class="marketing-chip">突破靜音與專注模式</span>
   <span class="marketing-chip">朗讀提醒內容</span>
-  <span class="marketing-chip">隱私，全程在裝置上</span>
+  <span class="marketing-chip">從設計上保護隱私</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Sayminder 一覽">
@@ -33,14 +33,14 @@ redirect_from:
     <span class="marketing-stat-label">突破式鬧鈴即使在靜音或專注模式下也會響起，絕不悄悄漏掉</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">隱私且全程在裝置上，無需帳戶、無追蹤、無廣告</span>
+    <span class="marketing-stat-value">0 帳戶</span>
+    <span class="marketing-stat-label">提醒保留在你的裝置上，無需註冊、無追蹤、無廣告</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="在 App Store 下載">
     </a>
   </div>
@@ -63,6 +63,7 @@ redirect_from:
         <li>「提醒我今晚九點吃藥」</li>
         <li>「20 分鐘後」「下週五」「月底」</li>
         <li>說話時即時轉寫，儲存前可隨意編輯</li>
+        <li>一次說出幾件事，每件都會成為單獨的提醒</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>它會念給你聽</h3>
-      <p>提醒到來時，應用程式會把它朗讀出來，儲存時也會出聲確認，讓整個流程都能免持操作。</p>
+      <p>當提醒在應用程式開啟時響起，或你在它響起後不久開啟應用程式，Sayminder 都會把它朗讀出來。儲存時它也會出聲確認，讓整個流程都能免持操作。</p>
       <ul class="marketing-list">
         <li>儲存後會說「好的，我會提醒你……」</li>
         <li>任意清單項目都能按需朗讀</li>
@@ -88,7 +89,7 @@ redirect_from:
       <p>當你的語言支援時，語音辨識在裝置上執行，提醒也只儲存在你的裝置上。</p>
       <ul class="marketing-list">
         <li>無帳戶、無分析、無廣告</li>
-        <li>不會把任何內容傳送到別處處理</li>
+        <li>選用的國定假日功能只與假日服務分享國家代碼</li>
         <li>刪除應用程式，一切隨之而去</li>
       </ul>
     </article>
@@ -104,10 +105,11 @@ redirect_from:
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
       <h3>語音記錄</h3>
-      <p>按住說話。Sayminder 解析自然的表達方式，隨後把結果顯示出來，供你確認或手動編輯。</p>
+      <p>點按說話。Sayminder 解析自然的表達方式，隨後把結果顯示出來，供你確認或手動編輯。</p>
       <ul class="marketing-list">
         <li>可編輯標題、備註、日期和重複選項</li>
         <li>過去的一次性時間會提議改到明天</li>
+        <li>現在不方便說話？改用打字輸入</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ redirect_from:
       <p>月檢視在有提醒的日子標點，主畫面和鎖定畫面小工具讓你的下一項始終在視野內。</p>
       <ul class="marketing-list">
         <li>可選的唯讀層鏡像你的系統行事曆</li>
+        <li>可選擇顯示你所在國家的國定假日</li>
         <li>提供小型、中型和鎖定畫面小工具系列</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ redirect_from:
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>按住麥克風</h3>
+      <h3>點按麥克風</h3>
       <p>一個按鈕開始和停止錄音，說話時帶即時轉寫。</p>
     </article>
     <article class="marketing-step">
       <h3>說出要做什麼、什麼時候</h3>
-      <p>Sayminder 從自然表達中讀出時間，其餘部分作為標題。</p>
+      <p>Sayminder 從自然表達中讀出時間，其餘部分作為標題。沒說時間？點按「今晚」「明天早上」或「一小時後」。</p>
     </article>
     <article class="marketing-step">
       <h3>確認或編輯</h3>
@@ -149,7 +152,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>它會找到你</h3>
-      <p>突破式鬧鈴即使在靜音時也會準時響起，並朗讀提醒內容。</p>
+      <p>突破式鬧鈴即使在靜音或專注模式下也會準時響起，如果你隨後不久開啟應用程式，Sayminder 會把它朗讀出來。</p>
     </article>
     <article class="marketing-step">
       <h3>點一下清除</h3>

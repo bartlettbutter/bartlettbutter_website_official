@@ -6,7 +6,7 @@ app_description: "Terms of Use"
 permalink: /journeyfolio/terms/
 ---
 
-**Effective Date:** October 26, 2026
+**Effective Date:** November 8, 2026
 
 These Terms of Use ("Terms") apply to Journeyfolio ("the app"), developed by Bartlett Butter. By downloading or using the app, you agree to these Terms. Our [Privacy Policy](/journeyfolio/privacy/) explains how the app handles your information.
 
@@ -16,7 +16,7 @@ Journeyfolio is licensed to you, not sold, under Apple's [Licensed Application E
 
 ## Free and Premium Features
 
-Journeyfolio is free to download and lets you plan up to 10 trips at no cost. Premium adds unlimited trips, live flight tracking, and destination weather forecasts.
+Journeyfolio is free to download and lets you plan up to 10 trips at no cost, with weather forecasts, public holidays, ticket auto-fill, and trip reminders included. Premium adds unlimited trips, live flight status, and Verify Flight, which fills in a flight's airline, route, and scheduled times.
 
 ## Auto-Renewable Subscriptions
 

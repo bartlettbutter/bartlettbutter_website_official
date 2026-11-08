@@ -25,7 +25,7 @@ Não. O Huepick não tem contas, cadastro nem login. Basta abrir o aplicativo e 
 
 ### É necessária uma conexão com a internet?
 
-Quase tudo funciona offline, incluindo extração de cores, paletas, ferramentas criativas e salvamento. O único recurso de rede opcional é converter as coordenadas de localização da foto em um nome de lugar (como "Seattle, WA") nas paletas salvas.
+Não. Tudo funciona offline, incluindo extração de cores, análise de cores, ferramentas criativas e salvamento.
 
 ### O Huepick é realmente gratuito?
 
@@ -72,7 +72,7 @@ Mantenha pressionada a criação na Galeria e escolha "Excluir". Você será sol
 
 ### Onde meus dados são armazenados?
 
-Tudo, incluindo paletas e criações salvas, é armazenado localmente no seu dispositivo. Não temos servidores, armazenamento na nuvem nem acesso aos seus dados.
+Tudo, incluindo suas criações salvas, é armazenado localmente no seu dispositivo. Não temos servidores, armazenamento na nuvem nem acesso aos seus dados.
 
 ### Minhas fotos são enviadas para algum lugar?
 
@@ -80,11 +80,11 @@ Nunca. Todo o processamento acontece inteiramente no seu dispositivo.
 
 ### Quais dados vocês coletam?
 
-Nenhum. Sem dados pessoais, sem análises de uso, sem identificadores de dispositivo. Consulte nossa [Política de Privacidade](https://bartlettbutter.com/huepick/privacy/) completa para mais detalhes.
+Nenhum. Sem dados pessoais, sem análises de uso, sem identificadores de dispositivo. Consulte nossa [Política de Privacidade](https://bartlettbutter.com/huepick/privacy/pt/) completa para mais detalhes.
 
 ### O que acontece se eu excluir o aplicativo?
 
-Desinstalar o Huepick remove permanentemente todas as paletas e criações salvas do seu dispositivo. Como não há backup nem sincronização na nuvem, isso não pode ser desfeito.
+Desinstalar o Huepick remove permanentemente todas as criações salvas do seu dispositivo. Como não há backup nem sincronização na nuvem, isso não pode ser desfeito.
 
 ## Solução de Problemas
 

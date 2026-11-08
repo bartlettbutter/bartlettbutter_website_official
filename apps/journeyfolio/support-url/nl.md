@@ -17,7 +17,7 @@ Of je nu je eerste reis instelt of een functie oplost, je vindt hieronder antwoo
 
 ### Is Journeyfolio gratis?
 
-Ja. Journeyfolio is gratis te downloaden en laat je tot 10 reizen kosteloos plannen. Premium-functies (onbeperkte reizen, live vluchtvolging en weersvoorspellingen) zijn beschikbaar via optionele automatisch verlengende abonnementen (maandelijks, halfjaarlijks of jaarlijks).
+Ja. Journeyfolio is gratis te downloaden en laat je tot 10 reizen kosteloos plannen, inclusief weersvoorspellingen, feestdagen, automatisch invullen vanuit tickets en reisherinneringen. Premium-functies (onbeperkte reizen, live vluchtstatus en automatisch invullen met "Vlucht verifiëren") zijn beschikbaar via optionele automatisch verlengende abonnementen (maandelijks, halfjaarlijks of jaarlijks).
 
 ### Ik heb Journeyfolio gekocht voordat het gratis werd. Verlies ik toegang?
 
@@ -63,7 +63,7 @@ Ja. Schakel "Meerdaags" in bij het toevoegen van een activiteit om start- en ein
 
 ### Hoe voeg ik documenten toe aan een activiteit?
 
-Open een willekeurige activiteit, tik op de bijlage-optie, maak dan een foto met je camera of importeer een bestand. Ondersteunde formaten zijn PDF, JPEG en PNG. Slimme OCR probeert de boekingsgegevens automatisch uit je document in te vullen.
+Open een willekeurige activiteit, tik op de bijlage-optie en voeg dan een bestand toe uit Bestanden, een afbeelding uit Foto's of een foto met je camera. Ondersteunde formaten zijn PDF, JPEG en PNG. Journeyfolio leest het document op je apparaat en vult gegevens in zoals vluchtnummer, stoel en bevestigingscode. Tekst die je al hebt ingevoerd, wordt nooit overschreven.
 
 ### Hoe werkt het zoeken naar locaties?
 
@@ -71,17 +71,25 @@ Bij het toevoegen van een activiteit typ je een naam of trefwoord in de ingebouw
 
 ### Hoe werken de weersvoorspellingen?
 
-Voeg een bestemmingsstad toe en Journeyfolio haalt de huidige omstandigheden plus een 5-daagse voorspelling op via [Apple Weer](https://weatherkit.apple.com/legal-attribution.html). Schakel tussen °C en °F op de weerkaart. *Weersvoorspellingen vereisen een Premium-abonnement.*
+Voeg een bestemmingsstad toe en Journeyfolio haalt de huidige omstandigheden plus een 5-daagse voorspelling op via [Apple Weer](https://weatherkit.apple.com/legal-attribution.html). Schakel tussen °C en °F op de weerkaart. *Weersvoorspellingen zijn gratis voor iedereen.*
 
 ### Hoe werkt vluchtvolging?
 
-Voer je vluchtnummer en vertrekdatum in, tik dan op "Vlucht verifiëren". De app vult route, luchtvaartmaatschappij en tijden automatisch in de lokale tijdzone van elke luchthaven in. Voor vertrek binnen ~24 uur verschijnen automatisch live statusbadges (Op tijd, Vertraagd, Geannuleerd, In de lucht, Geland). *Live vluchtvolging vereist een Premium-abonnement.*
+Voer je vluchtnummer en vertrekdatum in, tik dan op "Vlucht verifiëren". De app vult route, luchtvaartmaatschappij en tijden automatisch in de lokale tijdzone van elke luchthaven in. Voor vertrek binnen ~24 uur verschijnen automatisch live statusbadges (Op tijd, Vertraagd, Geannuleerd, In de lucht, Geland). *"Vlucht verifiëren" en de live vluchtstatus vereisen een Premium-abonnement. Met het gratis abonnement kun je vluchtgegevens zelf invoeren of invullen vanuit een ticket.*
 
 Schemaverificatie dekt vluchten tot 12 maanden in de toekomst en 3 maanden in het verleden.
 
 ### Hoe werken feestdagen?
 
 Journeyfolio detecteert het land van je bestemming en toont feestdagen in de datumstrook. Feestdagdata worden gemarkeerd met een zachtgele achtergrond zodat je rond sluitingen kunt plannen.
+
+### Wat toont het tabblad Binnenkort?
+
+Het tabblad Binnenkort opent met Vandaag: de datum, de hoeveelste dag van je reis het is, in welke stad je bent en de plannen voor vandaag. Daaronder toont elke reis die nog niet voorbij is een aftelling, van "Over 12 dagen" tot "Nu bezig".
+
+### Hoe werken herinneringen?
+
+Elke komende reis toont wat er nog ontbreekt: nachten zonder geboekt hotel en trajecten tussen steden zonder vervoer. Als er niets ontbreekt, bevestigt de app dat je reisinformatie compleet is. Zet Reisherinneringen aan op het tabblad Instellingen om een melding te krijgen op de dag voordat elke reis begint. Herinneringen worden op je apparaat ingepland.
 
 ### Heb ik een internetverbinding nodig?
 
@@ -103,7 +111,7 @@ Ga naar **Instellingen → je naam → Abonnementen** op je apparaat. Je kunt op
 
 ### Verlies ik mijn reizen als ik annuleer?
 
-Nee. Je reisgegevens worden lokaal opgeslagen en zijn volledig onafhankelijk van je abonnement. Het annuleren van Premium beperkt alleen de toegang tot de functies voor vluchtvolging en weer.
+Nee. Je reisgegevens worden lokaal opgeslagen en zijn volledig onafhankelijk van je abonnement. Het annuleren van Premium schakelt alleen de live vluchtstatus en "Vlucht verifiëren" uit. Je bestaande reizen blijven behouden, maar je kunt geen nieuwe reizen toevoegen boven de gratis limiet van 10.
 
 ## Probleemoplossing
 
@@ -111,8 +119,7 @@ Nee. Je reisgegevens worden lokaal opgeslagen en zijn volledig onafhankelijk van
 
 1. Bevestig dat je apparaat een internetverbinding heeft.
 2. Controleer of de naam van de bestemmingsstad correct is.
-3. Zorg ervoor dat je een actief Premium-abonnement hebt.
-4. Als het nog steeds niet laadt, probeer het dan over een paar minuten opnieuw, want de weerdienst is mogelijk tijdelijk niet beschikbaar.
+3. Als het nog steeds niet laadt, probeer het dan over een paar minuten opnieuw, want de weerdienst is mogelijk tijdelijk niet beschikbaar.
 
 ### Vluchtverificatie zegt "Geen vlucht gevonden"
 

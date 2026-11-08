@@ -79,7 +79,7 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
       <p>Zes creatieve hulpmiddelen laten je elke afbeelding omvormen met de kleuren uit je eigen palet.</p>
       <ul class="marketing-list">
         <li>Isoleren, Duotoon, Tritoon, Pixeliseren, Vervagen en Glitch</li>
-        <li>Verfijn intensiteit, stijl en richting van elk effect</li>
+        <li>Verfijn elk effect met instellingen als intensiteit, stijl en richting</li>
         <li>Bewaar, download naar Foto's of deel je creaties</li>
       </ul>
     </article>
@@ -87,7 +87,7 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
       <h3>Standaard privé</h3>
       <p>Geen accounts, geen analyse, geen advertenties. Je foto's verlaten nooit je apparaat en alles werkt zonder verbinding.</p>
       <ul class="marketing-list">
-        <li>Paletten en creaties blijven lokaal opgeslagen</li>
+        <li>Je bewaarde creaties blijven lokaal opgeslagen</li>
         <li>Niets om je voor aan te melden en gratis te gebruiken</li>
       </ul>
     </article>
@@ -111,17 +111,17 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
     </article>
     <article class="marketing-card">
       <h3>Playground</h3>
-      <p>Vorm je afbeelding om met zes creatieve hulpmiddelen, elk geleid door suggesties afgestemd op je foto.</p>
+      <p>Vorm je afbeelding om met zes creatieve hulpmiddelen, geleid door suggesties afgestemd op je foto.</p>
       <ul class="marketing-list">
         <li>Isoleren, Duotoon, Tritoon, Pixeliseren, Vervagen en Glitch</li>
-        <li>Pas intensiteit, stijl en richting van elk effect aan</li>
+        <li>Pas elk effect aan met instellingen als intensiteit, stijl en richting</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Galerij</h3>
       <p>Elke creatie die je bewaart leeft hier, klaar om terug te bekijken wanneer inspiratie terugkeert.</p>
       <ul class="marketing-list">
-        <li>Bewerk elk bewaard palet of creatie opnieuw</li>
+        <li>Bewerk elke bewaarde creatie opnieuw</li>
         <li>Download naar Foto's of deel met één tik</li>
       </ul>
     </article>
@@ -164,8 +164,8 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>Bouw een bibliotheek van de kleuren waar je van houdt</h3>
-      <p>Bewaar elk palet of creatie en bekijk het wanneer je maar wilt. Het is handig om een kleur te onthouden die je opviel, looks te vergelijken en exacte hexcodes opnieuw te gebruiken in je werk.</p>
+      <h3>Bouw een bibliotheek van de looks waar je van houdt</h3>
+      <p>Bewaar elke creatie en bekijk of bewerk die wanneer je maar wilt. Kopieer met één tik de exacte hexcodes van elk palet en gebruik ze opnieuw in je werk.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Gemaakt voor creatieve mensen</h3>
@@ -195,7 +195,7 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen servers. Geen cloud. Geen tracking.</h3>
       <p>Je foto's verlaten nooit je apparaat. Extractie, analyse en elk creatief hulpmiddel draaien lokaal.</p>
-      <p class="marketing-price-note"><a href="/huepick/privacy/">Privacybeleid lezen</a></p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/nl/">Privacybeleid lezen</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Maak een foto van alles wat je inspireert en Huepick onthult het verborgen palet
   <h2 id="hp-next-title">Klaar om de kleuren om je heen te zien?</h2>
   <p>Download Huepick, begin direct met het extraheren van paletten en houd je creatieve hulpmiddelen bij de hand wanneer inspiratie toeslaat.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/huepick/support/">Ondersteuning bezoeken</a>
-    <a class="marketing-inline-link" href="/huepick/privacy/">Privacybeleid lezen</a>
+    <a class="marketing-inline-link" href="/huepick/support/nl/">Ondersteuning bezoeken</a>
+    <a class="marketing-inline-link" href="/huepick/privacy/nl/">Privacybeleid lezen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

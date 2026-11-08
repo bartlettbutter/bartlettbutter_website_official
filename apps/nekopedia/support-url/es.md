@@ -67,7 +67,7 @@ Sí. Nekopedia es una aplicación universal que funciona tanto en iPhone como en
 
 ### ¿Mis datos son privados?
 
-Sí. Tus fotos nunca salen de tu dispositivo y no se recopilan datos personales. Consulta nuestra [Política de Privacidad](https://bartlettbutter.com/nekopedia/privacy/) completa para más detalles.
+Sí. Tus fotos nunca salen de tu dispositivo y no se recopilan datos personales. Consulta nuestra [Política de Privacidad](https://bartlettbutter.com/nekopedia/privacy/es/) completa para más detalles.
 
 ## Permisos
 
@@ -75,13 +75,13 @@ Sí. Tus fotos nunca salen de tu dispositivo y no se recopilan datos personales.
 
 El acceso a la cámara te permite tomar fotos de gatos directamente en la aplicación para la identificación de razas. Puedes omitir este permiso y elegir fotos de tu galería en su lugar.
 
-### ¿Por qué Nekopedia necesita acceso a la biblioteca de fotos?
+### ¿Necesita Nekopedia acceso a la biblioteca de fotos?
 
-El acceso a la biblioteca de fotos te permite seleccionar fotos existentes de tu galería para la identificación de razas. Es una alternativa a usar la cámara.
+No. Para usar una foto existente, Nekopedia abre el selector de fotos estándar de iOS. Tú eliges la foto y la aplicación recibe solo esa foto, nunca el resto de tu biblioteca, por lo que no se solicita permiso de acceso a la biblioteca de fotos.
 
 ### ¿Nekopedia accede a mi ubicación u otros datos?
 
-No. Nekopedia solo solicita acceso a la cámara y a la biblioteca de fotos. No accede a tu ubicación, contactos, micrófono ni ninguna otra información sensible.
+No. El acceso a la cámara es el único permiso que solicita Nekopedia. No accede a tu ubicación, contactos, micrófono ni ninguna otra información sensible.
 
 ## Solución de Problemas
 
@@ -91,7 +91,7 @@ Abre Configuración, navega hasta Nekopedia y asegúrate de que el acceso a la C
 
 ### La información de razas, el concurso o las curiosidades no se cargan
 
-Estas funciones requieren una conexión a internet activa. Confirma que estás conectado a Wi-Fi o datos móviles y vuelve a intentarlo. Si el problema persiste, el servicio puede estar temporalmente no disponible. Espera unos minutos y reinténtalo.
+Las fotos de las razas y el Concurso de Razas necesitan conexión a internet, igual que las Curiosidades Felinas y los datos curiosos de cada raza cuando la app está en inglés. Los perfiles integrados de las razas funcionan sin conexión. Confirma que estás conectado a Wi-Fi o datos móviles y vuelve a intentarlo. Si el problema persiste, el servicio puede estar temporalmente no disponible. Espera unos minutos y reinténtalo.
 
 ### La aplicación dice "No es un gato"
 

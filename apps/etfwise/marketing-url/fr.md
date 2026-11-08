@@ -81,7 +81,7 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
       <ul class="marketing-list">
         <li>Rien n'est envoyé vers un cloud pour l'analyse</li>
         <li>Des arguments riches en contexte ancrés dans les fondamentaux des fonds</li>
-        <li>Seuls les symboles boursiers sont envoyés pour récupérer les données de marché</li>
+        <li>Seuls les symboles boursiers et des plages de dates sont envoyés pour récupérer les données de marché</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -205,8 +205,8 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Posture de confidentialité</span>
       <h3 class="marketing-price-summary">Aucun compte. Aucune analyse. Aucune publicité.</h3>
-      <p>L'analyse fonctionne sur votre appareil et vos données restent avec vous. Seuls les symboles boursiers sont envoyés aux fournisseurs de données financières pour récupérer les prix de marché.</p>
-      <p class="marketing-price-note"><a href="/etfwise/privacy/">Lire la politique de confidentialité</a></p>
+      <p>L'analyse fonctionne sur votre appareil et vos données restent avec vous. Seuls les symboles boursiers et des plages de dates sont envoyés aux fournisseurs de données financières pour récupérer les prix de marché.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/fr/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">ETFWise est fourni à titre informatif et éducatif uniquement et ne constitue pas un conseil en investissement, financier ou fiscal. Ses sélections quotidiennes et les résultats du Screener ne sont pas des recommandations personnalisées d'achat ou de vente d'un quelconque titre. Les données de marché peuvent être différées ou incomplètes, et les performances passées ne préjugent pas des résultats futurs. Faites vos propres recherches ou consultez un conseiller financier agréé avant d'investir.</p>
@@ -216,8 +216,9 @@ Arrêtez de faire défiler d'interminables symboles boursiers. ETFWise fournit d
   <h2 id="ew-next-title">Prêt pour votre avantage quotidien dans l'investissement en ETF ?</h2>
   <p>Téléchargez ETFWise, lisez le briefing du jour immédiatement et gardez les sélections soignées et l'analyse approfondie à portée de main dès que le marché bouge.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/etfwise/support/">Voir l'assistance</a>
-    <a class="marketing-inline-link" href="/etfwise/privacy/">Lire la politique de confidentialité</a>
+    <a class="marketing-inline-link" href="/etfwise/support/fr/">Voir l'assistance</a>
+    <a class="marketing-inline-link" href="/etfwise/privacy/fr/">Lire la politique de confidentialité</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/fr/">Lire les conditions d'utilisation</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

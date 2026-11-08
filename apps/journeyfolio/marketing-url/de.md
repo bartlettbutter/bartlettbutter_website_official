@@ -101,20 +101,20 @@ Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jong
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>Kostenlos herunterladbar, mit flexiblen Tarifen</h3>
-      <p>Journeyfolio startet jetzt kostenlos, während bestehende Käufer dauerhaften Premium-Zugang behalten, ohne dass eine zusätzliche Aktion erforderlich ist.</p>
+      <h3>Deine Reise auf einen Blick</h3>
+      <p>Der Tab „Bevorstehend" öffnet sich mit „Heute": welcher Reisetag es ist, in welcher Stadt du bist und was heute ansteht. Jede bevorstehende Reise bekommt einen Countdown.</p>
     </article>
     <article class="marketing-card">
-      <h3>Reisedokumente an Aktivitäten angehängt</h3>
-      <p>Bordkarten, Buchungsbestätigungen und Belege können genau dort liegen, wo sie hingehören, wobei OCR hilft, die manuelle Eingabe zu reduzieren.</p>
+      <h3>Erinnerungen, damit nichts ungebucht bleibt</h3>
+      <p>Journeyfolio weist auf Nächte ohne Hotel und Strecken zwischen Städten ohne Transportmittel hin, und Reiseerinnerungen melden sich am Tag vor jedem Reisebeginn.</p>
     </article>
     <article class="marketing-card">
-      <h3>Volle iPad-Unterstützung</h3>
-      <p>Adaptive Layouts, Split View und Slide Over machen den Planer auf größeren Bildschirmen und beim Multitasking komfortabler.</p>
+      <h3>Wettervorhersagen, jetzt für alle kostenlos</h3>
+      <p>Aktuelle Bedingungen und eine 5-Tage-Vorhersage für jedes Reiseziel erfordern kein Premium mehr.</p>
     </article>
     <article class="marketing-card">
-      <h3>Verbesserungen bei Zuverlässigkeit und Barrierefreiheit</h3>
-      <p>Kernstabilität, Benutzerfreundlichkeit und Feinschliff wurden gemeinsam vorangebracht, statt Barrierefreiheit als Nebensache zu behandeln.</p>
+      <h3>Ein klareres, aufgefrischtes Design</h3>
+      <p>Die gesamte App hat auf iPhone und iPad ein klareres, aufgefrischtes Design.</p>
     </article>
   </div>
 </section>
@@ -196,16 +196,17 @@ Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jong
         <li>Erstelle und organisiere Reisen auf iPhone und iPad</li>
         <li>Halte Dokumente, Notizen und wichtige Reiseplan-Details zusammen</li>
         <li>Starte ohne Konto oder Einrichtungsaufwand</li>
+        <li>Wetter, Feiertage, automatisches Ausfüllen aus Tickets und Reiseerinnerungen inklusive</li>
       </ul>
     </article>
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Unbegrenzte Reisen, Live-Flugverfolgung und Wettervorhersagen.</h3>
+      <h3 class="marketing-price-summary">Unbegrenzte Reisen, Live-Flugstatus und automatisches Ausfüllen per „Flug verifizieren".</h3>
       <p>Premium ist als monatliches, halbjährliches oder jährliches automatisch verlängerbares Abonnement für Reisende verfügbar, die vollen laufenden Kontext an einem Ort wollen.</p>
       <ul class="marketing-list">
         <li>Unbegrenzte Reisekapazität</li>
         <li>Echtzeit-Flugstatus direkt im Reiseplan</li>
-        <li>Zielwettervorhersagen in die Reiseansicht integriert</li>
+        <li>„Flug verifizieren" füllt Fluggesellschaft, Route und planmäßige Zeiten aus</li>
       </ul>
     </article>
   </div>
@@ -215,8 +216,8 @@ Hör auf, mit Screenshots, verstreuten E-Mails und halbfertigen Tabellen zu jong
   <h2 id="jf-next-title">Reise leichter, schon bevor du losfährst.</h2>
   <p>Lade Journeyfolio herunter und halte deine Reise an einem stimmigen Ort.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/journeyfolio/support/">Support besuchen</a>
-    <a class="marketing-inline-link" href="/journeyfolio/privacy/">Datenschutzrichtlinie lesen</a>
+    <a class="marketing-inline-link" href="/journeyfolio/support/de/">Support besuchen</a>
+    <a class="marketing-inline-link" href="/journeyfolio/privacy/de/">Datenschutzrichtlinie lesen</a>
     <a class="marketing-inline-link" href="/journeyfolio/terms/de/">Nutzungsbedingungen lesen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>

@@ -53,7 +53,7 @@ Der Screener filtert mehr als 480 ETFs nach Regeln, die du festlegst. Eine Regel
 
 ### Wie verwalte, kündige oder stelle ich mein Abo wieder her?
 
-Zum Verwalten oder Kündigen öffne die Einstellungen in ETFWise und tippe im Premium-Banner auf „Verwalten", oder gehe in den Geräteeinstellungen zu Apple-ID > Abos. Abos verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ende des aktuellen Zeitraums gekündigt werden. Um Premium auf einem neuen Gerät oder nach einer Neuinstallation wiederherzustellen, tippe auf dem Planbildschirm oder in den Einstellungen auf „Käufe wiederherstellen" und verwende dieselbe Apple-ID. Rückerstattungsanfragen werden von Apple bearbeitet.
+Zum Verwalten oder Kündigen öffne die Einstellungen in ETFWise und tippe im Premium-Banner auf „Verwalten", oder gehe in den Geräteeinstellungen zu Apple-ID > Abos. Abos verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ende des aktuellen Zeitraums gekündigt werden. Um Premium auf einem neuen Gerät oder nach einer Neuinstallation wiederherzustellen, tippe auf dem Planbildschirm oder in den Einstellungen auf „Käufe wiederherstellen" und verwende dieselbe Apple-ID. Rückerstattungsanfragen werden von Apple bearbeitet. Alle Details zum Abonnement findest du in den [Nutzungsbedingungen](/etfwise/terms/de/).
 
 ### Wie werden die Bull- und Risiko-Szenarien erstellt?
 
@@ -65,11 +65,11 @@ Die App analysiert aktuelle Nachrichtenartikel für jeden ETF und bewertet sie h
 
 ### Kann ich nach einem bestimmten ETF suchen?
 
-Ja. Verwende die Suchleiste, um einen beliebigen ETF nach Tickersymbol oder Namen zu finden. Die Suche umfasst mehr als 480 ETFs, darunter über 200 kuratierte Auswahlen und eine erweiterte Bibliothek weiterer Fonds.
+Ja. Verwende die Suchleiste, um einen beliebigen ETF nach Tickersymbol zu finden. Die Suche umfasst mehr als 480 ETFs, darunter über 200 kuratierte Auswahlen und eine erweiterte Bibliothek weiterer Fonds.
 
 ### Sind meine Daten privat?
 
-Ja. Keine Konten, keine Analysen, kein Tracking. Nur Tickersymbole werden an Finanzdatenanbieter gesendet. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/etfwise/privacy/).
+Ja. Keine Konten, keine Analysen, kein Tracking. Nur Tickersymbole und Datumsbereiche werden an Finanzdatenanbieter gesendet. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/etfwise/privacy/de/).
 
 ### Was passiert, wenn ich die App lösche?
 

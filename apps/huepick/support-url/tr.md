@@ -25,7 +25,7 @@ Hayır. Huepick'te hesap, kayıt veya oturum açma yoktur. Sadece uygulamayı a�
 
 ### İnternet bağlantısı gerekli mi?
 
-Neredeyse her şey çevrimdışı çalışır; buna renk çıkarma, paletler, yaratıcı araçlar ve kaydetme dahildir. Tek isteğe bağlı ağ özelliği, kaydedilen paletlerde fotoğraf konum koordinatlarını bir yer adına (örneğin "Seattle, WA") dönüştürmektir.
+Hayır. Her şey çevrimdışı çalışır; buna renk çıkarma, renk analizi, yaratıcı araçlar ve kaydetme dahildir.
 
 ### Huepick gerçekten ücretsiz mi?
 
@@ -72,7 +72,7 @@ Galeride oluşturmaya uzun basın ve "Sil"i seçin. Onaylamanız istenir.
 
 ### Verilerim nerede saklanır?
 
-Kaydedilen paletler ve oluşturmalar dahil her şey cihazınızda yerel olarak saklanır. Sunucumuz, bulut depolamamız veya verilerinize erişimimiz yoktur.
+Kaydedilen oluşturmalarınız dahil her şey cihazınızda yerel olarak saklanır. Sunucumuz, bulut depolamamız veya verilerinize erişimimiz yoktur.
 
 ### Fotoğraflarım bir yere yükleniyor mu?
 
@@ -80,11 +80,11 @@ Asla. Tüm işlemler tamamen cihazınızda gerçekleşir.
 
 ### Hangi verileri topluyorsunuz?
 
-Hiçbiri. Kişisel veri yok, kullanım analizi yok, cihaz tanımlayıcısı yok. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/huepick/privacy/) bakın.
+Hiçbiri. Kişisel veri yok, kullanım analizi yok, cihaz tanımlayıcısı yok. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/huepick/privacy/tr/) bakın.
 
 ### Uygulamayı silersem ne olur?
 
-Huepick'i kaldırmak, kaydedilen tüm paletleri ve oluşturmaları cihazınızdan kalıcı olarak kaldırır. Bulut yedeklemesi veya senkronizasyonu olmadığından bu işlem geri alınamaz.
+Huepick'i kaldırmak, kaydedilen tüm oluşturmaları cihazınızdan kalıcı olarak kaldırır. Bulut yedeklemesi veya senkronizasyonu olmadığından bu işlem geri alınamaz.
 
 ## Sorun Giderme
 

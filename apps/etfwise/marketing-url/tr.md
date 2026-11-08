@@ -81,7 +81,7 @@ Bitmeyen sembol listelerinde gezinmeyi bırakın. ETFWise, güncel piyasa verile
       <ul class="marketing-list">
         <li>Analiz için buluta hiçbir şey yüklenmez</li>
         <li>Fonun temellerine dayanan, bağlamı zengin senaryolar</li>
-        <li>Piyasa verilerini almak için yalnızca hisse sembolleri gönderilir</li>
+        <li>Piyasa verilerini almak için yalnızca hisse sembolleri ve tarih aralıkları gönderilir</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -205,8 +205,8 @@ Bitmeyen sembol listelerinde gezinmeyi bırakın. ETFWise, güncel piyasa verile
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Hesap yok. Analiz yok. Reklam yok.</h3>
-      <p>Analiz cihazınızda çalışır ve verileriniz sizde kalır. Piyasa fiyatlarını almak için finansal veri sağlayıcılarına yalnızca hisse sembolleri gönderilir.</p>
-      <p class="marketing-price-note"><a href="/etfwise/privacy/">Gizlilik politikasını okuyun</a></p>
+      <p>Analiz cihazınızda çalışır ve verileriniz sizde kalır. Piyasa fiyatlarını almak için finansal veri sağlayıcılarına yalnızca hisse sembolleri ve tarih aralıkları gönderilir.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/tr/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">ETFWise yalnızca bilgilendirme ve eğitim amaçlıdır; yatırım, finans veya vergi tavsiyesi değildir. Günlük seçimler ve Screener sonuçları, herhangi bir menkul kıymeti alma veya satmaya yönelik kişiselleştirilmiş öneriler değildir. Piyasa verileri gecikmeli veya eksik olabilir ve geçmiş performans gelecekteki sonuçları garanti etmez. Yatırım yapmadan önce kendi araştırmanızı yapın veya lisanslı bir finans uzmanına danışın.</p>
@@ -216,8 +216,9 @@ Bitmeyen sembol listelerinde gezinmeyi bırakın. ETFWise, güncel piyasa verile
   <h2 id="ew-next-title">ETF yatırımında günlük avantajınıza hazır mısınız?</h2>
   <p>ETFWise'ı indirin, bugünün brifingini hemen okuyun ve piyasa hareket ettiğinde özenle seçilmiş seçimleri ve derin analizi elinizin altında tutun.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/etfwise/support/">Desteği ziyaret edin</a>
-    <a class="marketing-inline-link" href="/etfwise/privacy/">Gizlilik politikasını okuyun</a>
+    <a class="marketing-inline-link" href="/etfwise/support/tr/">Desteği ziyaret edin</a>
+    <a class="marketing-inline-link" href="/etfwise/privacy/tr/">Gizlilik politikasını okuyun</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/tr/">Kullanım koşullarını okuyun</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/barkpedia/it/
 ---
 
-**Data di entrata in vigore:** 11 aprile 2026
+**Data di entrata in vigore:** 8 novembre 2026
 
 Barkpedia ("l'App") è un'applicazione iOS gratuita che identifica le razze canine dalle foto. La tua privacy è fondamentale nel modo in cui abbiamo costruito questa app. Ecco esattamente come vengono gestite le tue informazioni.
 
@@ -31,7 +31,7 @@ Barkpedia ("l'App") è un'applicazione iOS gratuita che identifica le razze cani
 
 ## Come Vengono Gestite le tue Foto
 
-L'App richiede le autorizzazioni per la fotocamera e la libreria fotografica esclusivamente per permetterti di fotografare o selezionare immagini di cani per l'identificazione della razza. Le foto che scatti o selezioni vengono analizzate interamente sul tuo dispositivo utilizzando l'intelligenza integrata nel dispositivo. **Le tue foto non vengono mai caricate su alcun server.**
+L'App richiede l'autorizzazione per la fotocamera esclusivamente per permetterti di fotografare cani per l'identificazione della razza. Per usare una foto esistente, l'App apre il selettore di foto standard di iOS. Sei tu a scegliere la foto e l'App riceve solo quella, senza alcun accesso al resto della tua libreria fotografica. Le foto che scatti o selezioni vengono analizzate interamente sul tuo dispositivo utilizzando l'intelligenza integrata nel dispositivo. **Le tue foto non vengono mai caricate su alcun server.**
 
 ## Cosa Viene Memorizzato sul tuo Dispositivo
 
@@ -56,7 +56,6 @@ Non vendiamo, affittiamo né condividiamo alcun dato degli utenti con terze part
 | Autorizzazione | Perché la Richiediamo | Obbligatoria? |
 |----------------|-----------------------|---------------|
 | Fotocamera | Per fotografare cani per l'identificazione della razza | Facoltativa. Puoi usare la tua libreria fotografica |
-| Libreria Fotografica | Per selezionare foto esistenti per l'identificazione della razza | Facoltativa. Puoi usare la fotocamera |
 
 **Tutto qui.** L'App non richiede né accede a posizione, contatti, microfono, Bluetooth, tracciamento (ATT), notifiche o qualsiasi altra autorizzazione sensibile.
 

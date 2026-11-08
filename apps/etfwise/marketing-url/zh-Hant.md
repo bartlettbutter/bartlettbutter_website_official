@@ -81,7 +81,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>不會把任何內容上傳到雲端進行分析</li>
         <li>基於基金基本面、內容豐富的理由</li>
-        <li>僅傳送代碼以取得市場資料</li>
+        <li>僅傳送代碼和日期範圍以取得市場資料</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -205,8 +205,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">隱私立場</span>
       <h3 class="marketing-price-summary">沒有帳戶。沒有分析。沒有廣告。</h3>
-      <p>分析在您的裝置上執行，您的資料留在您手中。僅將代碼傳送給金融資料提供商以取得市場價格。</p>
-      <p class="marketing-price-note"><a href="/etfwise/privacy/">閱讀隱私政策</a></p>
+      <p>分析在您的裝置上執行，您的資料留在您手中。僅將代碼和日期範圍傳送給金融資料提供商以取得市場價格。</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/zh-Hant/">閱讀隱私政策</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">ETFWise僅供參考和學習之用，不構成投資、財務或稅務建議。其每日精選和篩選結果並非針對個人的買入或賣出任何證券的建議。市場資料可能存在延遲或不完整，過往表現不代表未來結果。投資前請自行研究或諮詢持牌金融專業人士。</p>
@@ -216,8 +216,9 @@ redirect_from:
   <h2 id="ew-next-title">準備好獲得您在ETF投資中的每日優勢了嗎？</h2>
   <p>下載ETFWise，立即閱讀今日簡報，並在市場變動時隨時手握精選與深入分析。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/etfwise/support/">訪問支援</a>
-    <a class="marketing-inline-link" href="/etfwise/privacy/">閱讀隱私政策</a>
+    <a class="marketing-inline-link" href="/etfwise/support/zh-Hant/">訪問支援</a>
+    <a class="marketing-inline-link" href="/etfwise/privacy/zh-Hant/">閱讀隱私政策</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/zh-Hant/">閱讀使用條款</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -25,7 +25,7 @@ No. Huepick non ha account, registrazione né accesso. Basta aprire l'app e iniz
 
 ### È richiesta una connessione internet?
 
-Quasi tutto funziona offline, tra cui estrazione dei colori, palette, strumenti creativi e salvataggio. L'unica funzione di rete facoltativa è la conversione delle coordinate di posizione della foto in un nome di luogo (come "Seattle, WA") sulle palette salvate.
+No. Tutto funziona offline, tra cui estrazione dei colori, analisi del colore, strumenti creativi e salvataggio.
 
 ### Huepick è davvero gratuito?
 
@@ -72,7 +72,7 @@ Tieni premuta la creazione nella Galleria e scegli "Elimina". Ti verrà chiesto 
 
 ### Dove vengono memorizzati i miei dati?
 
-Tutto, comprese le palette e le creazioni salvate, viene memorizzato localmente sul tuo dispositivo. Non abbiamo server, archiviazione sul cloud né accesso ai tuoi dati.
+Tutto, comprese le tue creazioni salvate, viene memorizzato localmente sul tuo dispositivo. Non abbiamo server, archiviazione sul cloud né accesso ai tuoi dati.
 
 ### Le mie foto vengono caricate da qualche parte?
 
@@ -80,11 +80,11 @@ Mai. Tutta l'elaborazione avviene interamente sul tuo dispositivo.
 
 ### Quali dati raccogliete?
 
-Nessuno. Nessun dato personale, nessuna analisi di utilizzo, nessun identificatore del dispositivo. Consulta la nostra [Informativa sulla Privacy](https://bartlettbutter.com/huepick/privacy/) completa per maggiori dettagli.
+Nessuno. Nessun dato personale, nessuna analisi di utilizzo, nessun identificatore del dispositivo. Consulta la nostra [Informativa sulla Privacy](https://bartlettbutter.com/huepick/privacy/it/) completa per maggiori dettagli.
 
 ### Cosa succede se elimino l'app?
 
-La disinstallazione di Huepick rimuove definitivamente tutte le palette e le creazioni salvate dal tuo dispositivo. Poiché non esiste backup o sincronizzazione sul cloud, questa operazione non può essere annullata.
+La disinstallazione di Huepick rimuove definitivamente tutte le creazioni salvate dal tuo dispositivo. Poiché non esiste backup o sincronizzazione sul cloud, questa operazione non può essere annullata.
 
 ## Risoluzione dei Problemi
 

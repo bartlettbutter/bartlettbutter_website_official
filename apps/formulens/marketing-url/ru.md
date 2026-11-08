@@ -221,7 +221,7 @@ redirect_from:
       <span class="marketing-price-tier">Подход к приватности</span>
       <h3 class="marketing-price-summary">Без серверов. Без облака. Без отслеживания.</h3>
       <p>Ваши фотографии никогда не покидают устройство. Распознавание и анализ происходят локально.</p>
-      <p class="marketing-price-note"><a href="/formulens/privacy/">Читать политику конфиденциальности</a></p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/ru/">Читать политику конфиденциальности</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">FormuLens предназначен исключительно для информационных целей и не является медицинской или дерматологической консультацией. Сведения об ингредиентах могут быть неполными, а результаты зависят от того, насколько чётко распознана этикетка. Если у вас аллергия, чувствительная кожа или кожное заболевание, проверяйте этикетку продукта, тестируйте новые средства на небольшом участке кожи и консультируйтесь с дерматологом или медицинским специалистом.</p>
@@ -231,8 +231,8 @@ redirect_from:
   <h2 id="fl-next-title">Готовы читать этикетки так, будто их написали для вас?</h2>
   <p>Скачайте FormuLens и начните сканировать сразу же.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/formulens/support/">Перейти в поддержку</a>
-    <a class="marketing-inline-link" href="/formulens/privacy/">Читать политику конфиденциальности</a>
+    <a class="marketing-inline-link" href="/formulens/support/ru/">Перейти в поддержку</a>
+    <a class="marketing-inline-link" href="/formulens/privacy/ru/">Читать политику конфиденциальности</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

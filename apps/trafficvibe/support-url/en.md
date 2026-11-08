@@ -68,7 +68,7 @@ Set your own quiet hours and turn on the weekdays-only preference. TrafficVibe a
 
 ### Why aren't my alerts firing?
 
-TrafficVibe doesn't refresh in the background. It evaluates alerts when you open the app or pull to refresh. Make sure notifications are enabled in Settings, and that you're not inside your quiet hours or a weekday-only exclusion.
+Departure reminders are scheduled ahead of time, so they arrive even when the app is closed, and each time you open TrafficVibe it sets up the next ones. Delay and incident alerts are different: TrafficVibe doesn't refresh in the background, so it checks for them when you open the app or pull to refresh. Make sure notifications are enabled in Settings, and that you're not inside your quiet hours or a weekday-only exclusion.
 
 ## Commute Cities
 

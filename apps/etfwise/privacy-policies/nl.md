@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/etfwise/nl/
 ---
 
-**Ingangsdatum:** 28 oktober 2026
+**Ingangsdatum:** 8 november 2026
 
 ETFWise ("de App") is een iOS-applicatie die gratis te downloaden is en een optioneel Premium-abonnement biedt. De app biedt dagelijkse ETF-selecties met marktgegevens en directe analyse op het apparaat. Uw privacy staat centraal in de manier waarop we deze app hebben gebouwd. Hier leest u precies hoe uw informatie wordt behandeld.
 
@@ -59,7 +59,7 @@ ETFWise biedt een optioneel automatisch verlengend Premium-abonnement dat de Scr
 
 ## Analyse op het Apparaat
 
-De bull-cases, risico-cases en fondsbeschrijvingen worden volledig op uw apparaat gegenereerd uit de marktgegevens die al voor elke ETF zijn opgehaald. Deze analyse omvat geen aparte download en geen externe server: niets ervan verlaat uw apparaat.
+De bull-cases en risico-cases worden volledig op uw apparaat gegenereerd uit de marktgegevens die al voor elke ETF zijn opgehaald. Deze analyse omvat geen aparte download en geen externe server: niets ervan verlaat uw apparaat.
 
 ## Gegevens Delen
 

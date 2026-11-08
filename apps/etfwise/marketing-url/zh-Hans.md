@@ -81,7 +81,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>不会把任何内容上传到云端进行分析</li>
         <li>基于基金基本面、内容丰富的理由</li>
-        <li>仅发送代码以获取市场数据</li>
+        <li>仅发送代码和日期范围以获取市场数据</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -205,8 +205,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">隐私姿态</span>
       <h3 class="marketing-price-summary">没有账户。没有分析。没有广告。</h3>
-      <p>分析在您的设备上运行，您的数据留在您手中。仅将代码发送给金融数据提供商以获取市场价格。</p>
-      <p class="marketing-price-note"><a href="/etfwise/privacy/">阅读隐私政策</a></p>
+      <p>分析在您的设备上运行，您的数据留在您手中。仅将代码和日期范围发送给金融数据提供商以获取市场价格。</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/zh-Hans/">阅读隐私政策</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">ETFWise仅供参考和学习之用，不构成投资、财务或税务建议。其每日精选和筛选结果并非针对个人的买入或卖出任何证券的建议。市场数据可能存在延迟或不完整，过往表现不代表未来结果。投资前请自行研究或咨询持牌金融专业人士。</p>
@@ -216,8 +216,9 @@ redirect_from:
   <h2 id="ew-next-title">准备好获得您在ETF投资中的每日优势了吗？</h2>
   <p>下载ETFWise，立即阅读今日简报，并在市场变动时随时手握精选与深入分析。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/etfwise/support/">访问支持</a>
-    <a class="marketing-inline-link" href="/etfwise/privacy/">阅读隐私政策</a>
+    <a class="marketing-inline-link" href="/etfwise/support/zh-Hans/">访问支持</a>
+    <a class="marketing-inline-link" href="/etfwise/privacy/zh-Hans/">阅读隐私政策</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/zh-Hans/">阅读使用条款</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

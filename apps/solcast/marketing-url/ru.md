@@ -12,7 +12,7 @@ redirect_from:
 
 # Точно знайте, как одеться, спланировать и защитить свой день.
 
-Solcast выходит за рамки прогноза. Оно подсказывает, что надеть, когда взять зонт и как сохранить комфорт вашей семьи, и всё это персонализировано под вашу жизнь и подано простым языком. Никакой рекламы, никаких учётных записей, бесплатно в использовании, с опциональным обновлением до Premium. Просто откройте и пользуйтесь.
+Solcast выходит за рамки прогноза. Оно подсказывает, что надеть, когда взять зонт и как сохранить комфорт вашей семьи, и всё это персонализировано под вашу жизнь и подано простым языком. Никакой рекламы, никаких учётных записей, и всё это бесплатно. Просто откройте и пользуйтесь.
 
 <!--gallery-->
 
@@ -20,7 +20,7 @@ Solcast выходит за рамки прогноза. Оно подсказы
   <span class="marketing-chip">Ответы, а не цифры</span>
   <span class="marketing-chip">16 индексов образа жизни</span>
   <span class="marketing-chip">Без рекламы и учётных записей</span>
-  <span class="marketing-chip">Бесплатно с опцией Premium</span>
+  <span class="marketing-chip">Бесплатно в использовании</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Solcast at a glance">
@@ -182,29 +182,21 @@ Solcast выходит за рамки прогноза. Оно подсказы
 
 <section class="marketing-band" aria-labelledby="sc-offer-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Цены и тарифы</p>
-    <h2 id="sc-offer-title" class="marketing-section-title">Бесплатно в использовании. Обновляйтесь, когда захотите большего.</h2>
+    <p class="marketing-eyebrow">Предложение и доверие</p>
+    <h2 id="sc-offer-title" class="marketing-section-title">Бесплатная загрузка. Конфиденциальность по замыслу.</h2>
   </div>
   <div class="marketing-price-grid">
-    <article class="marketing-price-card">
-      <span class="marketing-price-tier">Бесплатно</span>
-      <h3 class="marketing-price-summary">Всё необходимое для планирования дня без затрат.</h3>
-      <p>Идеально для всех, кому нужны понятные персонализированные советы о погоде без рекламы, учётных записей или платного доступа на пути.</p>
-      <ul class="marketing-list">
-        <li>Ежедневная сводка, 7-дневный прогноз и почасовая полоса</li>
-        <li>Все 16 индексов образа жизни и подбор одежды</li>
-        <li>Сохранение нескольких городов и старт без учётной записи</li>
-      </ul>
-    </article>
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Неограниченное число мест и полная картина в одном месте.</h3>
-      <p>Premium предназначен для тех, кто следит за погодой во многих городах и хочет снять бесплатные ограничения на сохранённые места.</p>
-      <ul class="marketing-list">
-        <li>Неограниченное число сохранённых мест, каждое в своём часовом поясе</li>
-        <li>Опциональное обновление к бесплатному приложению</li>
-        <li>Без рекламы и отслеживания как в Free, так и в Premium</li>
-      </ul>
+      <span class="marketing-price-tier">Включено сегодня</span>
+      <h3 class="marketing-price-summary">Все текущие функции доступны бесплатно.</h3>
+      <p>Ежедневная сводка, 7-дневный и почасовой прогнозы, все 16 индексов образа жизни, подбор одежды и умные погодные оповещения, до 4 сохранённых городов и без учётной записи.</p>
+      <p class="marketing-price-note">Совместимо с iPhone и iPad на iOS 18.0 или новее.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">Принцип конфиденциальности</span>
+      <h3 class="marketing-price-summary">Никаких учётных записей. Никакого отслеживания. Никакой рекламы.</h3>
+      <p>Ваши настройки и персонализация остаются на вашем устройстве. Запросы погоды и мест передают только координаты или поисковый запрос, а запросы праздников передают только код страны.</p>
+      <p class="marketing-price-note"><a href="/solcast/privacy/ru/">Читать политику конфиденциальности</a></p>
     </article>
   </div>
 </section>
@@ -213,9 +205,8 @@ Solcast выходит за рамки прогноза. Оно подсказы
   <h2 id="sc-next-title">Готовы планировать каждый день с уверенностью?</h2>
   <p>Скачайте Solcast и сразу увидьте свою персонализированную панель.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/solcast/support/">Перейти в поддержку</a>
-    <a class="marketing-inline-link" href="/solcast/privacy/">Читать политику конфиденциальности</a>
-    <a class="marketing-inline-link" href="/solcast/terms/ru/">Читать условия использования</a>
+    <a class="marketing-inline-link" href="/solcast/support/ru/">Перейти в поддержку</a>
+    <a class="marketing-inline-link" href="/solcast/privacy/ru/">Читать политику конфиденциальности</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

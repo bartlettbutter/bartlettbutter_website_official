@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "Pronuncia un promemoria e ti raggiunge in tempo, anche in silenzioso, e si legge ad alta voce."
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: it
 permalink: /sayminder/it/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di' cosa e quando, e Sayminder lo trascrive, ricava l'orario dalle tue parole e lo inserisce nel tuo calendario. Quando arriva il momento ti avvisa, anche in silenzioso o in Full Immersion, e ti rilegge il promemoria con una voce naturale.
+Il promemoria più rapido è quello che pronunci. Tocca il microfono, di' cosa e quando, e Sayminder lo trascrive, ricava l'orario dalle tue parole e lo inserisce nel tuo calendario. Quando arriva il momento ti avvisa, anche in silenzioso o in Full Immersion, e ti rilegge il promemoria ad alta voce se apri l'app poco dopo.
 
 <div class="marketing-chip-row" aria-label="Punti di forza di Sayminder">
   <span class="marketing-chip">Parla, non digitare</span>
   <span class="marketing-chip">Supera silenzioso e Full Immersion</span>
   <span class="marketing-chip">Legge i promemoria ad alta voce</span>
-  <span class="marketing-chip">Privato, sul dispositivo</span>
+  <span class="marketing-chip">Privacy by design</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Sayminder in breve">
@@ -33,14 +33,14 @@ Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di
     <span class="marketing-stat-label">gli allarmi prioritari suonano anche in silenzioso o in Full Immersion, mai ignorati in silenzio</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privato e sul dispositivo, senza account, senza tracciamento e senza pubblicità</span>
+    <span class="marketing-stat-value">0 account</span>
+    <span class="marketing-stat-label">i promemoria restano sul tuo dispositivo, senza registrazione, senza tracciamento e senza pubblicità</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Scarica su App Store">
     </a>
   </div>
@@ -63,6 +63,7 @@ Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di
         <li>«Ricordami di prendere la medicina stasera alle nove»</li>
         <li>«Tra 20 minuti», «venerdì prossimo», «a fine mese»</li>
         <li>Una trascrizione dal vivo mentre parli, modificabile prima di salvare</li>
+        <li>Di' più cose insieme e ognuna diventa un promemoria a sé</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di
     </article>
     <article class="marketing-card">
       <h3>Te lo rilegge</h3>
-      <p>Quando arriva un promemoria, l'app lo pronuncia ad alta voce e conferma ad alta voce quando ne salvi uno, così l'intero ciclo è a mani libere.</p>
+      <p>Quando un promemoria suona mentre l'app è aperta, o la apri poco dopo, Sayminder lo pronuncia ad alta voce. Conferma anche ad alta voce quando ne salvi uno, così l'intero ciclo è a mani libere.</p>
       <ul class="marketing-list">
         <li>«Va bene. Ti ricorderò di…» dopo il salvataggio</li>
         <li>Qualsiasi riga dell'elenco può essere letta su richiesta</li>
@@ -88,7 +89,7 @@ Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di
       <p>Il riconoscimento vocale gira sul dispositivo quando la tua lingua lo supporta, e i promemoria sono archiviati solo sul tuo dispositivo.</p>
       <ul class="marketing-list">
         <li>Nessun account, nessuna analisi, nessuna pubblicità</li>
-        <li>Nulla viene inviato da nessuna parte per essere elaborato</li>
+        <li>Le festività facoltative condividono solo un codice paese con il servizio di festività</li>
         <li>Elimina l'app e tutto se ne va con lei</li>
       </ul>
     </article>
@@ -108,6 +109,7 @@ Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di
       <ul class="marketing-list">
         <li>Titolo, note, data e opzione di ripetizione modificabili</li>
         <li>Un orario singolo già passato propone di spostarlo a domani</li>
+        <li>Non puoi parlare adesso? Scrivi invece</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di
       <p>Una griglia mensile segna con un punto i giorni con promemoria, e un widget per la schermata Home e di blocco tiene il prossimo in vista.</p>
       <ul class="marketing-list">
         <li>Un livello opzionale di sola lettura rispecchia il calendario di sistema</li>
+        <li>Festività nazionali opzionali del paese in cui ti trovi</li>
         <li>Famiglie di widget piccolo, medio e per la schermata di blocco</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>Tieni premuto il microfono</h3>
+      <h3>Tocca il microfono</h3>
       <p>Un pulsante avvia e ferma la registrazione, con una trascrizione dal vivo mentre parli.</p>
     </article>
     <article class="marketing-step">
       <h3>Di' cosa e quando</h3>
-      <p>Sayminder ricava l'orario dal fraseggio naturale e usa il resto come titolo.</p>
+      <p>Sayminder ricava l'orario dal fraseggio naturale e usa il resto come titolo. Nessun orario? Tocca Stasera, Domattina o Tra un'ora.</p>
     </article>
     <article class="marketing-step">
       <h3>Conferma o modifica</h3>
@@ -149,7 +152,7 @@ Il promemoria più rapido è quello che pronunci. Tieni premuto il microfono, di
     </article>
     <article class="marketing-step">
       <h3>Ti raggiunge</h3>
-      <p>Un allarme prioritario suona in tempo, anche in silenzioso, e legge il promemoria ad alta voce.</p>
+      <p>Un allarme prioritario suona in tempo, anche in silenzioso o in Full Immersion, e Sayminder ti rilegge il promemoria se apri l'app poco dopo.</p>
     </article>
     <article class="marketing-step">
       <h3>Tocca per rimuovere</h3>

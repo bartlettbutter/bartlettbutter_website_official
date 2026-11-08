@@ -79,7 +79,7 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
       <p>Six outils créatifs vous permettent de remodeler n'importe quelle image en utilisant les couleurs de votre propre palette.</p>
       <ul class="marketing-list">
         <li>Isoler, Duotone, Tritone, Pixeliser, Flouter et Glitch</li>
-        <li>Ajustez l'intensité, le style et la direction de chaque effet</li>
+        <li>Ajustez chaque effet avec des réglages comme l'intensité, le style et la direction</li>
         <li>Enregistrez, téléchargez dans vos Photos ou partagez vos créations</li>
       </ul>
     </article>
@@ -87,7 +87,7 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
       <h3>Privé par défaut</h3>
       <p>Aucun compte, aucune analyse, aucune publicité. Vos photos ne quittent jamais votre appareil et tout fonctionne sans connexion.</p>
       <ul class="marketing-list">
-        <li>Les palettes et créations restent stockées localement</li>
+        <li>Vos créations enregistrées restent stockées localement</li>
         <li>Aucune inscription requise, et gratuit à l'usage</li>
       </ul>
     </article>
@@ -111,17 +111,17 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
     </article>
     <article class="marketing-card">
       <h3>Playground</h3>
-      <p>Remodelez votre image avec six outils créatifs, chacun guidé par des suggestions adaptées à votre photo.</p>
+      <p>Remodelez votre image avec six outils créatifs, guidés par des suggestions adaptées à votre photo.</p>
       <ul class="marketing-list">
         <li>Isoler, Duotone, Tritone, Pixeliser, Flouter et Glitch</li>
-        <li>Ajustez l'intensité, le style et la direction de chaque effet</li>
+        <li>Ajustez chaque effet avec des réglages comme l'intensité, le style et la direction</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Galerie</h3>
       <p>Chaque création que vous enregistrez se trouve ici, prête à être revisitée dès que l'inspiration revient.</p>
       <ul class="marketing-list">
-        <li>Modifiez à nouveau n'importe quelle palette ou création enregistrée</li>
+        <li>Modifiez à nouveau n'importe quelle création enregistrée</li>
         <li>Téléchargez dans vos Photos ou partagez en un toucher</li>
       </ul>
     </article>
@@ -164,8 +164,8 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>Constituez une bibliothèque des couleurs que vous aimez</h3>
-      <p>Enregistrez n'importe quelle palette ou création et revisitez-la à tout moment. C'est utile pour se souvenir d'une couleur qui a attiré votre regard, comparer des styles et réutiliser des codes hexadécimaux exacts dans votre travail.</p>
+      <h3>Constituez une bibliothèque des styles que vous aimez</h3>
+      <p>Enregistrez n'importe quelle création, puis revisitez-la ou modifiez-la à tout moment. Copiez d'un toucher les codes hexadécimaux exacts de n'importe quelle palette pour les réutiliser dans votre travail.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Conçu pour les créatifs</h3>
@@ -195,7 +195,7 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
       <span class="marketing-price-tier">Posture de confidentialité</span>
       <h3 class="marketing-price-summary">Aucun serveur. Aucun cloud. Aucun suivi.</h3>
       <p>Vos photos ne quittent jamais votre appareil. L'extraction, l'analyse et chaque outil créatif fonctionnent localement.</p>
-      <p class="marketing-price-note"><a href="/huepick/privacy/">Lire la politique de confidentialité</a></p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/fr/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Prenez une photo de tout ce qui vous inspire et Huepick révèle la palette cach
   <h2 id="hp-next-title">Prêt à voir les couleurs autour de vous ?</h2>
   <p>Téléchargez Huepick, commencez à extraire des palettes immédiatement et gardez vos outils créatifs à portée de main dès que l'inspiration surgit.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/huepick/support/">Voir l'assistance</a>
-    <a class="marketing-inline-link" href="/huepick/privacy/">Lire la politique de confidentialité</a>
+    <a class="marketing-inline-link" href="/huepick/support/fr/">Voir l'assistance</a>
+    <a class="marketing-inline-link" href="/huepick/privacy/fr/">Lire la politique de confidentialité</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

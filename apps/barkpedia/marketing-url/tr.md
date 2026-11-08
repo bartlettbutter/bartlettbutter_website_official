@@ -26,7 +26,7 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">arayıp keşfedebileceğiniz zengin, AKC tarzı profillere sahip köpek ırkı</span>
+    <span class="marketing-stat-label">arayıp keşfedebileceğiniz zengin profillere sahip köpek ırkı</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
     </article>
     <article class="marketing-card">
       <h3>Okunmaya değer profiller</h3>
-      <p>Her ırk, köpeğin yalnızca adının ne olduğunu değil, gerçekte nasıl olduğunu açıklayan AKC tarzı bir profil açar.</p>
+      <p>Her ırk, köpeğin yalnızca adının ne olduğunu değil, gerçekte nasıl olduğunu açıklayan ayrıntılı bir profil açar.</p>
       <ul class="marketing-list">
         <li>Mizaç, ömür, ağırlık ve boy bir bakışta</li>
         <li>Menşe ülke ve ırkın tarihçesi</li>
@@ -195,7 +195,7 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Yükleme yok. Hesap yok. İzleme yok.</h3>
       <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Irk tanımlama tamamen cihaz üzerinde yapılır; ırk profilleri ve test fotoğrafları ise hiçbir kişisel veri içermeden herkese açık köpek ırkı kaynaklarından yüklenir.</p>
-      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Gizlilik politikasını okuyun</a></p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/tr/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Herhangi bir köpeğin fotoğrafını çekin; Barkpedia ırkı adlandırsın ve 
   <h2 id="bp-next-title">Tanıştığınız her köpeği adlandırmaya hazır mısınız?</h2>
   <p>Barkpedia'yı indirin, hemen taramaya başlayın ve merak sardığında ırk dünyasının geri kalanını el altında tutun.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/barkpedia/support/">Desteği ziyaret edin</a>
-    <a class="marketing-inline-link" href="/barkpedia/privacy/">Gizlilik politikasını okuyun</a>
+    <a class="marketing-inline-link" href="/barkpedia/support/tr/">Desteği ziyaret edin</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/tr/">Gizlilik politikasını okuyun</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

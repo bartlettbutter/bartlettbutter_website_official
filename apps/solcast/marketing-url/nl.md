@@ -12,7 +12,7 @@ redirect_from:
 
 # Weet precies hoe je je kleedt, plant en je dag beschermt.
 
-Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wanneer je een paraplu moet meenemen en hoe je je gezin comfortabel houdt, allemaal gepersonaliseerd op jouw leven en geleverd in gewone taal. Geen advertenties, geen accounts, gratis te gebruiken, met een optionele Premium-upgrade. Gewoon openen en gaan.
+Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wanneer je een paraplu moet meenemen en hoe je je gezin comfortabel houdt, allemaal gepersonaliseerd op jouw leven en geleverd in gewone taal. Geen advertenties, geen accounts en gratis te gebruiken. Gewoon openen en gaan.
 
 <!--gallery-->
 
@@ -20,7 +20,7 @@ Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wann
   <span class="marketing-chip">Antwoorden, geen cijfers</span>
   <span class="marketing-chip">16 lifestyle-indexen</span>
   <span class="marketing-chip">Geen advertenties of accounts</span>
-  <span class="marketing-chip">Gratis met Premium-optie</span>
+  <span class="marketing-chip">Gratis te gebruiken</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Solcast at a glance">
@@ -182,29 +182,21 @@ Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wann
 
 <section class="marketing-band" aria-labelledby="sc-offer-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Prijzen en niveaus</p>
-    <h2 id="sc-offer-title" class="marketing-section-title">Gratis te gebruiken. Upgrade wanneer je meer wilt.</h2>
+    <p class="marketing-eyebrow">Aanbod en vertrouwen</p>
+    <h2 id="sc-offer-title" class="marketing-section-title">Gratis te downloaden. Privé van nature.</h2>
   </div>
   <div class="marketing-price-grid">
-    <article class="marketing-price-card">
-      <span class="marketing-price-tier">Gratis</span>
-      <h3 class="marketing-price-summary">Alles wat je nodig hebt om je dag te plannen, kosteloos.</h3>
-      <p>Ideaal voor iedereen die duidelijk, gepersonaliseerd weeradvies wil zonder advertenties, accounts of een betaalmuur in de weg.</p>
-      <ul class="marketing-list">
-        <li>Dagelijkse briefing, 7-daagse voorspelling en uurstrook</li>
-        <li>Alle 16 lifestyle-indexen en outfitsuggesties</li>
-        <li>Bewaar meerdere steden en begin zonder account</li>
-      </ul>
-    </article>
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Onbeperkte locaties en het volledige beeld op één plek.</h3>
-      <p>Premium is voor mensen die het weer in veel steden volgen en de gratis limieten op bewaarde plaatsen willen opheffen.</p>
-      <ul class="marketing-list">
-        <li>Onbeperkt aantal bewaarde locaties, elk in hun lokale tijdzone</li>
-        <li>Een optionele upgrade bovenop de gratis app</li>
-        <li>Geen advertenties en geen tracking, bij Gratis of Premium</li>
-      </ul>
+      <span class="marketing-price-tier">Vandaag inbegrepen</span>
+      <h3 class="marketing-price-summary">Alle huidige functies zijn kosteloos beschikbaar.</h3>
+      <p>De dagelijkse briefing, 7-daagse en uurvoorspellingen, alle 16 lifestyle-indexen, outfitsuggesties en slimme weerswaarschuwingen, met maximaal 4 bewaarde steden en zonder account.</p>
+      <p class="marketing-price-note">Compatibel met iPhone en iPad op iOS 18.0 of hoger.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">Privacyhouding</span>
+      <h3 class="marketing-price-summary">Geen accounts. Geen tracking. Geen advertenties.</h3>
+      <p>Je voorkeuren en personalisatie blijven op je apparaat. Weer- en plaatsopzoekingen versturen alleen coördinaten of een zoekopdracht, en feestdagopzoekingen versturen alleen een landcode.</p>
+      <p class="marketing-price-note"><a href="/solcast/privacy/nl/">Privacybeleid lezen</a></p>
     </article>
   </div>
 </section>
@@ -213,9 +205,8 @@ Solcast gaat verder dan de voorspelling. Het vertelt je wat je moet dragen, wann
   <h2 id="sc-next-title">Klaar om elke dag met vertrouwen te plannen?</h2>
   <p>Download Solcast en bekijk direct je gepersonaliseerde dashboard.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/solcast/support/">Ondersteuning bezoeken</a>
-    <a class="marketing-inline-link" href="/solcast/privacy/">Privacybeleid lezen</a>
-    <a class="marketing-inline-link" href="/solcast/terms/nl/">Gebruiksvoorwaarden lezen</a>
+    <a class="marketing-inline-link" href="/solcast/support/nl/">Ondersteuning bezoeken</a>
+    <a class="marketing-inline-link" href="/solcast/privacy/nl/">Privacybeleid lezen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

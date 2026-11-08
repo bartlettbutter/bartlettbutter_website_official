@@ -67,7 +67,7 @@ Evet. Nekopedia, hem iPhone hem de iPad'de çalışan evrensel bir uygulamadır.
 
 ### Verilerim gizli mi?
 
-Evet. Fotoğraflarınız cihazınızdan asla çıkmaz ve hiçbir kişisel veri toplanmaz. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/nekopedia/privacy/) bakın.
+Evet. Fotoğraflarınız cihazınızdan asla çıkmaz ve hiçbir kişisel veri toplanmaz. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/nekopedia/privacy/tr/) bakın.
 
 ## İzinler
 
@@ -75,13 +75,13 @@ Evet. Fotoğraflarınız cihazınızdan asla çıkmaz ve hiçbir kişisel veri t
 
 Kamera erişimi, ırk tanımlama için uygulama içinde doğrudan kedi fotoğrafları çekmenizi sağlar. Bu izni atlayıp bunun yerine kitaplığınızdan fotoğraf seçebilirsiniz.
 
-### Nekopedia neden fotoğraf kitaplığı erişimine ihtiyaç duyuyor?
+### Nekopedia fotoğraf kitaplığı erişimine ihtiyaç duyuyor mu?
 
-Fotoğraf kitaplığı erişimi, ırk tanımlama için kitaplığınızdan mevcut fotoğrafları seçmenizi sağlar. Bu, kamerayı kullanmanın bir alternatifidir.
+Hayır. Mevcut bir fotoğrafı kullanmak için Nekopedia standart iOS fotoğraf seçicisini açar. Fotoğrafı siz seçersiniz ve uygulama yalnızca o fotoğrafı alır, kitaplığınızın geri kalanını asla görmez. Bu nedenle fotoğraf kitaplığı izni istenmez.
 
 ### Nekopedia konumuma veya diğer verilere erişiyor mu?
 
-Hayır. Nekopedia yalnızca kamera ve fotoğraf kitaplığı erişimi ister. Konumunuza, kişilerinize, mikrofonunuza veya diğer hassas bilgilere erişmez.
+Hayır. Nekopedia'nın istediği tek izin kamera erişimidir. Konumunuza, kişilerinize, mikrofonunuza veya diğer hassas bilgilere erişmez.
 
 ## Sorun Giderme
 
@@ -91,7 +91,7 @@ Ayarlar'ı açın, Nekopedia'ya gidin ve Kamera erişiminin açık olduğundan e
 
 ### Irk bilgisi, sınav veya bilgi yarışması içeriği yüklenmiyor
 
-Bu özellikler etkin bir internet bağlantısı gerektirir. Wi-Fi veya hücresel veriye bağlı olduğunuzu doğrulayın, ardından yeniden deneyin. Sorun devam ederse hizmet geçici olarak kullanılamıyor olabilir. Birkaç dakika bekleyip yeniden deneyin.
+Irk fotoğrafları ve Irk Yarışması internet bağlantısı gerektirir. Uygulama İngilizceye ayarlıyken Kedi Bilgi Yarışması ve eğlenceli bilgiler de bağlantıya ihtiyaç duyar. Yerleşik ırk profilleri çevrimdışı çalışır. Wi-Fi veya hücresel veriye bağlı olduğunuzu doğrulayın, ardından yeniden deneyin. Sorun devam ederse hizmet geçici olarak kullanılamıyor olabilir. Birkaç dakika bekleyip yeniden deneyin.
 
 ### Uygulama "Kedi Değil" diyor
 

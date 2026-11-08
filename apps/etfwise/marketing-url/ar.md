@@ -81,7 +81,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>لا يُرفع أي شيء إلى السحابة للتحليل</li>
         <li>حالات غنية بالسياق مبنية على أساسيات الصندوق</li>
-        <li>تُرسل رموز المؤشرات فقط لجلب بيانات السوق</li>
+        <li>تُرسل رموز المؤشرات ونطاقات التواريخ فقط لجلب بيانات السوق</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -205,8 +205,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">موقف الخصوصية</span>
       <h3 class="marketing-price-summary">لا حسابات. لا تحليلات. لا إعلانات.</h3>
-      <p>يعمل التحليل على جهازك وتبقى بياناتك معك. تُرسل رموز المؤشرات فقط إلى مزوّدي البيانات المالية لجلب أسعار السوق.</p>
-      <p class="marketing-price-note"><a href="/etfwise/privacy/">اقرأ سياسة الخصوصية</a></p>
+      <p>يعمل التحليل على جهازك وتبقى بياناتك معك. تُرسل رموز المؤشرات ونطاقات التواريخ فقط إلى مزوّدي البيانات المالية لجلب أسعار السوق.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/ar/">اقرأ سياسة الخصوصية</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">ETFWise مخصّص لأغراض إعلامية وتعليمية فقط، ولا يُعدّ نصيحة استثمارية أو مالية أو ضريبية. اختياراته اليومية ونتائج الفاحص ليست توصيات شخصية لشراء أي ورقة مالية أو بيعها. قد تكون بيانات السوق متأخرة أو غير مكتملة، والأداء السابق لا يضمن النتائج المستقبلية. أجرِ بحثك الخاص أو استشر مختصًا ماليًا مرخّصًا قبل الاستثمار.</p>
@@ -216,8 +216,9 @@ redirect_from:
   <h2 id="ew-next-title">هل أنت مستعد لميزتك اليومية في الاستثمار في صناديق ETF؟</h2>
   <p>نزّل ETFWise، واقرأ موجز اليوم فورًا، وأبقِ الاختيارات المنتقاة والتحليل العميق في متناول يدك كلما تحرّك السوق.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/etfwise/support/">زيارة الدعم</a>
-    <a class="marketing-inline-link" href="/etfwise/privacy/">اقرأ سياسة الخصوصية</a>
+    <a class="marketing-inline-link" href="/etfwise/support/ar/">زيارة الدعم</a>
+    <a class="marketing-inline-link" href="/etfwise/privacy/ar/">اقرأ سياسة الخصوصية</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/ar/">اقرأ شروط الاستخدام</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-**Data di entrata in vigore:** 13 giugno 2026
+**Data di entrata in vigore:** 8 novembre 2026
 
 Nekopedia ("l'App") è un'applicazione iOS gratuita che identifica le razze di gatti dalle foto. La privacy qui non è un ripensamento, è il modo in cui l'App è stata costruita fin dal primo giorno. Questa informativa spiega, in un linguaggio semplice, esattamente come vengono gestite le tue informazioni. In breve: restano con te.
 
@@ -34,7 +34,7 @@ Nessuno. Non raccogliamo, memorizziamo o trasmettiamo alcun dato personale. L'Ap
 
 ## Foto e Accesso a Fotocamera/Libreria
 
-L'App richiede le autorizzazioni per fotocamera e libreria foto esclusivamente per consentirti di fotografare o selezionare immagini di gatti per l'identificazione della razza. Le foto che scatti o selezioni vengono analizzate interamente sul tuo dispositivo utilizzando l'intelligenza integrata. Le tue foto non vengono mai caricate su alcun server.
+L'App richiede l'autorizzazione per la fotocamera esclusivamente per consentirti di fotografare gatti per l'identificazione della razza. Per usare una foto esistente, l'App apre il selettore di foto standard di iOS. Sei tu a scegliere la foto e l'App riceve solo quella, senza alcun accesso al resto della tua libreria foto. Le foto che scatti o selezioni vengono analizzate interamente sul tuo dispositivo utilizzando l'intelligenza integrata. Le tue foto non vengono mai caricate su alcun server.
 
 ## Dati Memorizzati Localmente
 
@@ -55,7 +55,6 @@ Non vendiamo, noleggiamo o condividiamo alcun dato utente con terze parti. Non c
 | Autorizzazione | Perché la Chiediamo | Obbligatoria? |
 |----------------|-------------------|---------------|
 | Fotocamera | Per fotografare gatti per l'identificazione della razza | Facoltativa (puoi usare la libreria foto) |
-| Libreria Foto | Per selezionare foto esistenti per l'identificazione della razza | Facoltativa (puoi usare la fotocamera) |
 
 Non vengono richieste o utilizzate altre autorizzazioni. L'App non utilizza posizione, contatti, microfono, tracciamento, notifiche o qualsiasi altro accesso sensibile.
 

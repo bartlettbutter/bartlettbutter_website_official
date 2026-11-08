@@ -79,7 +79,7 @@ Haz una foto de cualquier cosa que te inspire y Huepick revela la paleta oculta 
       <p>Seis herramientas creativas te permiten transformar cualquier imagen usando los colores de tu propia paleta.</p>
       <ul class="marketing-list">
         <li>Aislar, Duotono, Tritono, Pixelizar, Desenfocar y Glitch</li>
-        <li>Ajusta la intensidad, el estilo y la dirección de cada efecto</li>
+        <li>Ajusta cada efecto con controles como intensidad, estilo y dirección</li>
         <li>Guarda, descarga en Fotos o comparte tus creaciones</li>
       </ul>
     </article>
@@ -87,7 +87,7 @@ Haz una foto de cualquier cosa que te inspire y Huepick revela la paleta oculta 
       <h3>Privado por defecto</h3>
       <p>Sin cuentas, sin analíticas, sin anuncios. Tus fotos nunca salen de tu dispositivo y todo funciona sin conexión.</p>
       <ul class="marketing-list">
-        <li>Las paletas y creaciones se guardan localmente</li>
+        <li>Tus creaciones guardadas se almacenan localmente</li>
         <li>Nada que registrar y de uso gratuito</li>
       </ul>
     </article>
@@ -111,17 +111,17 @@ Haz una foto de cualquier cosa que te inspire y Huepick revela la paleta oculta 
     </article>
     <article class="marketing-card">
       <h3>Playground</h3>
-      <p>Transforma tu imagen con seis herramientas creativas, cada una guiada por sugerencias ajustadas a tu foto.</p>
+      <p>Transforma tu imagen con seis herramientas creativas, guiadas por sugerencias ajustadas a tu foto.</p>
       <ul class="marketing-list">
         <li>Aislar, Duotono, Tritono, Pixelizar, Desenfocar y Glitch</li>
-        <li>Ajusta la intensidad, el estilo y la dirección de cada efecto</li>
+        <li>Ajusta cada efecto con controles como intensidad, estilo y dirección</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Galería</h3>
       <p>Cada creación que guardes vive aquí, lista para revisitarla cuando vuelva la inspiración.</p>
       <ul class="marketing-list">
-        <li>Reedita cualquier paleta o creación guardada</li>
+        <li>Reedita cualquier creación guardada</li>
         <li>Descarga en Fotos o comparte con un toque</li>
       </ul>
     </article>
@@ -164,8 +164,8 @@ Haz una foto de cualquier cosa que te inspire y Huepick revela la paleta oculta 
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>Crea una biblioteca de los colores que amas</h3>
-      <p>Guarda cualquier paleta o creación y revísala cuando quieras. Es útil para recordar un color que te llamó la atención, comparar looks y reutilizar códigos hex exactos en todo tu trabajo.</p>
+      <h3>Crea una biblioteca de los looks que amas</h3>
+      <p>Guarda cualquier creación y revísala o reedítala cuando quieras. Copia con un toque los códigos hex exactos de cualquier paleta y reutilízalos en todo tu trabajo.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Hecho para personas creativas</h3>
@@ -195,7 +195,7 @@ Haz una foto de cualquier cosa que te inspire y Huepick revela la paleta oculta 
       <span class="marketing-price-tier">Postura de privacidad</span>
       <h3 class="marketing-price-summary">Sin servidores. Sin nube. Sin rastreo.</h3>
       <p>Tus fotos nunca salen de tu dispositivo. La extracción, el análisis y cada herramienta creativa funcionan localmente.</p>
-      <p class="marketing-price-note"><a href="/huepick/privacy/">Leer política de privacidad</a></p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/es/">Leer política de privacidad</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Haz una foto de cualquier cosa que te inspire y Huepick revela la paleta oculta 
   <h2 id="hp-next-title">¿Listo para ver los colores que te rodean?</h2>
   <p>Descarga Huepick, empieza a extraer paletas de inmediato y ten tus herramientas creativas a mano siempre que surja la inspiración.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/huepick/support/">Visitar soporte</a>
-    <a class="marketing-inline-link" href="/huepick/privacy/">Leer política de privacidad</a>
+    <a class="marketing-inline-link" href="/huepick/support/es/">Visitar soporte</a>
+    <a class="marketing-inline-link" href="/huepick/privacy/es/">Leer política de privacidad</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

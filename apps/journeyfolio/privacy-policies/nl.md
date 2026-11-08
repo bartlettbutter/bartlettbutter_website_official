@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/journeyfolio/nl/
 ---
 
-**Ingangsdatum:** 22 juli 2026
+**Ingangsdatum:** 8 november 2026
 
 Journeyfolio ("de app") is ontwikkeld door Bartlett Butter. Dit beleid legt uit hoe de app met uw informatie omgaat. Het korte antwoord: we verzamelen er geen.
 
@@ -48,9 +48,10 @@ Wanneer u een bestemming toevoegt of naar plaatsen zoekt, worden uw zoekopdracht
 | Toestemming | Wanneer Gevraagd | Doel | Verlaten Gegevens het Apparaat? |
 |-------------|------------------|------|----------------------------------|
 | Camera | Wanneer u een document fotografeert | Reisdocumenten aan activiteiten koppelen | Nee, op het apparaat verwerkt via OCR |
-| Fotobibliotheek | Wanneer u een bestaande afbeelding importeert | Opgeslagen afbeeldingen aan activiteiten koppelen | Nee |
+| Fotobibliotheek | Niet gevraagd. U kiest afbeeldingen in de fotokiezer van het systeem en de app ontvangt alleen de afbeeldingen die u kiest | Opgeslagen afbeeldingen aan activiteiten koppelen en gegevens invullen | Nee, op het apparaat verwerkt |
+| Meldingen | Wanneer u Reisherinneringen inschakelt | Herinnering op de dag voordat elke reis begint | Nee, op het apparaat ingepland |
 
-Beide toestemmingen zijn optioneel. De app werkt volledig zonder deze. Er worden nooit afbeeldingen naar externe servers geüpload.
+Alle toestemmingen zijn optioneel. De app werkt volledig zonder deze. Tickets en documenten die u toevoegt vanuit Bestanden, Foto's of de camera worden op uw apparaat gelezen, en er worden nooit afbeeldingen of documenten naar externe servers geüpload.
 
 ## Diensten van Derden
 

@@ -101,20 +101,20 @@ redirect_from:
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>免费下载，套餐灵活</h3>
-      <p>Journeyfolio 现已免费开始使用，而现有购买者继续保留永久高级访问权限，无需任何额外操作。</p>
+      <h3>行程一目了然</h3>
+      <p>“即将出行”标签页打开时显示“今天”：您处于行程的第几天、所在城市以及今天的安排。每段即将开始的行程都有倒计时。</p>
     </article>
     <article class="marketing-card">
-      <h3>旅行文档附加到活动</h3>
-      <p>登机牌、预订确认单和收据可以正好存放在它们该在的地方，OCR 帮你减少手动录入。</p>
+      <h3>贴心提醒，不再漏订</h3>
+      <p>Journeyfolio 会标出未预订酒店的夜晚和没有交通安排的城市间行程段；开启“行程提醒”后，还会在每段行程开始前一天通知您。</p>
     </article>
     <article class="marketing-card">
-      <h3>完整的 iPad 支持</h3>
-      <p>自适应布局、分屏浏览和侧拉多任务，让规划在更大的屏幕上以及多任务处理时更加舒适。</p>
+      <h3>天气预报，现已对所有人免费</h3>
+      <p>每个目的地的当前天气和 5 天预报不再需要高级订阅。</p>
     </article>
     <article class="marketing-card">
-      <h3>可靠性和无障碍性的提升</h3>
-      <p>核心稳定性、易用性和细节打磨一并推进，而不是把无障碍性当作事后补充。</p>
+      <h3>更简洁、焕然一新的外观</h3>
+      <p>整个应用在 iPhone 和 iPad 上都换上了更简洁、焕然一新的设计。</p>
     </article>
   </div>
 </section>
@@ -196,16 +196,17 @@ redirect_from:
         <li>在 iPhone 和 iPad 上创建和组织行程</li>
         <li>把文档、备注和核心行程细节集中在一起</li>
         <li>无需账户，也没有繁琐的设置门槛，即可开始</li>
+        <li>包含天气、公共假日、票据自动填写和行程提醒</li>
       </ul>
     </article>
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">高级版</span>
-      <h3 class="marketing-price-summary">无限行程、实时航班跟踪和天气预报。</h3>
+      <h3 class="marketing-price-summary">无限行程、实时航班状态和“验证航班”自动填写。</h3>
       <p>高级版提供月度、6 个月或年度自动续订订阅，献给希望在一处掌握全部实时信息的旅行者。</p>
       <ul class="marketing-list">
         <li>无限的行程容量</li>
         <li>行程表内的实时航班状态</li>
-        <li>内置于行程视图中的目的地天气预报</li>
+        <li>“验证航班”自动填写航空公司、航线和计划时间</li>
       </ul>
     </article>
   </div>
@@ -215,8 +216,8 @@ redirect_from:
   <h2 id="jf-next-title">在出发之前，就让旅行更轻松。</h2>
   <p>下载 Journeyfolio，把你的行程放在一个从容有序的地方。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/journeyfolio/support/">访问支持</a>
-    <a class="marketing-inline-link" href="/journeyfolio/privacy/">阅读隐私政策</a>
+    <a class="marketing-inline-link" href="/journeyfolio/support/zh-Hans/">访问支持</a>
+    <a class="marketing-inline-link" href="/journeyfolio/privacy/zh-Hans/">阅读隐私政策</a>
     <a class="marketing-inline-link" href="/journeyfolio/terms/zh-Hans/">阅读使用条款</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>

@@ -101,20 +101,20 @@ Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablol
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>Esnek planlarla ücretsiz indirilebilir</h3>
-      <p>Journeyfolio artık ücretsiz başlıyor; mevcut satın alanlar ise ek bir işlem gerekmeden kalıcı Premium erişimini korur.</p>
+      <h3>Geziniz bir bakışta</h3>
+      <p>Yaklaşan sekmesi Bugün görünümüyle açılır: gezinizin kaçıncı günü olduğu, hangi şehirde olduğunuz ve bugünün planları. Yaklaşan her gezinin bir geri sayımı vardır.</p>
     </article>
     <article class="marketing-card">
-      <h3>Etkinliklere eklenen seyahat belgeleri</h3>
-      <p>Biniş kartları, rezervasyon onayları ve makbuzlar tam olarak ait oldukları yerde bulunabilir; OCR manuel girişi azaltmaya yardımcı olur.</p>
+      <h3>Hiçbir şey rezervasyonsuz kalmasın diye hatırlatıcılar</h3>
+      <p>Journeyfolio otel ayrılmamış geceleri ve ulaşımı olmayan şehirler arası bağlantıları işaretler; Gezi Hatırlatıcıları ise her gezi başlamadan bir gün önce sizi uyarır.</p>
     </article>
     <article class="marketing-card">
-      <h3>Tam iPad desteği</h3>
-      <p>Uyarlanabilir düzenler, Split View ve Slide Over, planlayıcıyı daha büyük ekranlarda ve çoklu görev sırasında daha rahat hâle getirir.</p>
+      <h3>Hava tahminleri artık herkese ücretsiz</h3>
+      <p>Her hedef için güncel koşullar ve 5 günlük tahmin artık Premium gerektirmez.</p>
     </article>
     <article class="marketing-card">
-      <h3>Güvenilirlik ve erişilebilirlik iyileştirmeleri</h3>
-      <p>Erişilebilirliği sonradan akla gelen bir şey olarak ele almak yerine, temel kararlılık, kullanılabilirlik ve incelik birlikte ilerledi.</p>
+      <h3>Daha sade, yenilenmiş bir görünüm</h3>
+      <p>Uygulamanın tamamı iPhone ve iPad'de daha sade, yenilenmiş bir tasarıma kavuştu.</p>
     </article>
   </div>
 </section>
@@ -196,16 +196,17 @@ Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablol
         <li>iPhone ve iPad'de geziler oluşturun ve düzenleyin</li>
         <li>Belgeleri, notları ve temel güzergâh ayrıntılarını bir arada tutun</li>
         <li>Hesap ya da kurulum zahmeti olmadan başlayın</li>
+        <li>Hava durumu, resmi tatiller, biletlerden otomatik doldurma ve gezi hatırlatıcıları dahil</li>
       </ul>
     </article>
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Sınırsız gezi, canlı uçuş takibi ve hava tahminleri.</h3>
+      <h3 class="marketing-price-summary">Sınırsız gezi, canlı uçuş durumu ve "Uçuşu Doğrula" ile otomatik doldurma.</h3>
       <p>Premium; tüm bağlamı tek bir yerde, sürekli isteyen gezginler için aylık, 6 aylık veya yıllık otomatik yenilenen abonelikler olarak sunulur.</p>
       <ul class="marketing-list">
         <li>Sınırsız gezi kapasitesi</li>
         <li>Güzergâhın içinde gerçek zamanlı uçuş durumu</li>
-        <li>Gezi görünümüne yerleştirilmiş hedef hava tahminleri</li>
+        <li>"Uçuşu Doğrula" havayolunu, rotayı ve planlanan saatleri doldurur</li>
       </ul>
     </article>
   </div>
@@ -215,8 +216,8 @@ Ekran görüntüleri, dağınık e-postalar ve yarım kalmış elektronik tablol
   <h2 id="jf-next-title">Yola çıkmadan önce bile daha hafif seyahat edin.</h2>
   <p>Journeyfolio'yu indirin ve gezinizi tek bir düzenli yerde tutun.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/journeyfolio/support/">Desteği ziyaret edin</a>
-    <a class="marketing-inline-link" href="/journeyfolio/privacy/">Gizlilik politikasını okuyun</a>
+    <a class="marketing-inline-link" href="/journeyfolio/support/tr/">Desteği ziyaret edin</a>
+    <a class="marketing-inline-link" href="/journeyfolio/privacy/tr/">Gizlilik politikasını okuyun</a>
     <a class="marketing-inline-link" href="/journeyfolio/terms/tr/">Kullanım koşullarını okuyun</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>

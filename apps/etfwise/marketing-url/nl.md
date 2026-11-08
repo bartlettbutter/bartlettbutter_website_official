@@ -81,7 +81,7 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
       <ul class="marketing-list">
         <li>Niets wordt naar een cloud geüpload voor analyse</li>
         <li>Contextrijke scenario's gebaseerd op de fundamenten van het fonds</li>
-        <li>Alleen tickersymbolen worden verzonden om marktgegevens op te halen</li>
+        <li>Alleen tickersymbolen en datumbereiken worden verzonden om marktgegevens op te halen</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -205,8 +205,8 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen accounts. Geen analyse. Geen advertenties.</h3>
-      <p>Analyse draait op je apparaat en je gegevens blijven bij jou. Alleen tickersymbolen worden naar financiële dataproviders verzonden om marktprijzen op te halen.</p>
-      <p class="marketing-price-note"><a href="/etfwise/privacy/">Privacybeleid lezen</a></p>
+      <p>Analyse draait op je apparaat en je gegevens blijven bij jou. Alleen tickersymbolen en datumbereiken worden naar financiële dataproviders verzonden om marktprijzen op te halen.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/nl/">Privacybeleid lezen</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">ETFWise is uitsluitend bedoeld voor informatieve en educatieve doeleinden en is geen beleggings-, financieel of fiscaal advies. De dagelijkse selecties en Screener-resultaten zijn geen persoonlijke aanbevelingen om effecten te kopen of te verkopen. Marktgegevens kunnen vertraagd of onvolledig zijn, en in het verleden behaalde resultaten bieden geen garantie voor de toekomst. Doe je eigen onderzoek of raadpleeg een erkende financieel adviseur voordat je belegt.</p>
@@ -216,8 +216,9 @@ Stop met eindeloos door tickers scrollen. ETFWise levert samengestelde dagelijks
   <h2 id="ew-next-title">Klaar voor jouw dagelijkse voordeel bij ETF-beleggen?</h2>
   <p>Download ETFWise, lees direct de briefing van vandaag en houd samengestelde selecties en diepgaande analyse bij de hand wanneer de markt beweegt.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/etfwise/support/">Ondersteuning bezoeken</a>
-    <a class="marketing-inline-link" href="/etfwise/privacy/">Privacybeleid lezen</a>
+    <a class="marketing-inline-link" href="/etfwise/support/nl/">Ondersteuning bezoeken</a>
+    <a class="marketing-inline-link" href="/etfwise/privacy/nl/">Privacybeleid lezen</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/nl/">Lees de gebruiksvoorwaarden</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

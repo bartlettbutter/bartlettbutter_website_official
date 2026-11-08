@@ -31,17 +31,17 @@ Her değişiklik hemen geçerli olur, yeniden yüklemeye gerek yoktur.
 
 ### Konumları nasıl yönetirim?
 
-Ücretsiz katmanda en fazla 4 konum kaydedebilirsiniz (Premium ile sınırsız). Aralarında geçiş yapmak için kontrol panelindeki konum seçiciyi kullanın veya yeni bir şehir eklemek için arama simgesine dokunun. Her konum, havayı kendi yerel saat diliminde gösterir; böylece saatler (gün doğumu, gün batımı, saatlik tahmin) her zaman o şehirle ilgilidir.
+En fazla 4 konum kaydedebilirsiniz. Aralarında geçiş yapmak için kontrol panelindeki konum seçiciyi kullanın veya yeni bir şehir eklemek için arama simgesine dokunun. Her konum, havayı kendi yerel saat diliminde gösterir; böylece saatler (gün doğumu, gün batımı, saatlik tahmin) her zaman o şehirle ilgilidir.
 
 ## Sık Sorulan Sorular
 
 ### Solcast ücretsiz mi?
 
-Evet. Solcast'i indirmek ücretsizdir ve tam hava durumu deneyimi (tahminler, kıyafet önerileri, günlük brifing, 16 yaşam tarzı endeksinin tamamı ve akıllı hava durumu uyarıları) reklamsız olarak ücretsizdir. İsteğe bağlı bir Premium abonelik kişisel hatırlatıcılar ekler ve kaydedilen şehir sınırını yükseltir; geri kalan her şey ücretsizdir. Aboneliklerin nasıl faturalandırıldığı ve iptal edildiği için [Kullanım Koşulları](/solcast/terms/tr/) sayfasına bakın.
+Evet. Solcast'i indirmek ücretsizdir ve tahminler, kıyafet önerileri, günlük brifing, 16 yaşam tarzı endeksinin tamamı ve akıllı hava durumu uyarıları dahil mevcut tüm özellikler reklamsız ve hesapsız olarak ücretsiz sunulur. İleride isteğe bağlı premium özellikler sunabiliriz.
 
 ### Solcast verilerimi topluyor mu?
 
-Hayır. Kullanıcı hesabı, analiz, izleme veya reklam yoktur. Tüm tercihleriniz cihazınızda kalır. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/solcast/privacy/) bakın.
+Hayır. Kullanıcı hesabı, analiz, izleme veya reklam yoktur. Tüm tercihleriniz cihazınızda kalır. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/solcast/privacy/tr/) bakın.
 
 ### İnternet bağlantısına ihtiyacım var mı?
 
@@ -69,9 +69,9 @@ Solcast, hava kalitesi ve polen dahil güvenilir ve doğru tahminler sunmak içi
 
 Konum (Kullanılırken), bölgeniz için doğru hava durumu, hava kalitesi ve polen verilerini almak için kullanılır. Koordinatlarınız yalnızca hava durumu hizmetlerine gönderilir ve kontrol ettiğimiz hiçbir sunucuda asla saklanmaz. Konum erişimi vermeden de konumları manuel olarak ekleyebilirsiniz.
 
-### Solcast kameramа, kişilerime veya başka bir şeye erişiyor mu?
+### Solcast kamerama, kişilerime veya başka bir şeye erişiyor mu?
 
-Hayır. Solcast yalnızca konum iznini ister. Kameranıza, fotoğraflarınıza, kişilerinize, mikrofonunuza, sağlık verilerinize veya diğer bilgilere erişmez.
+Hayır. Solcast konum dışında yalnızca bildirim gönderme izni ister ve bunu akıllı hava durumu uyarıları için kullanır. Kameranıza, fotoğraflarınıza, kişilerinize, mikrofonunuza, sağlık verilerinize veya diğer bilgilere erişmez.
 
 ## Sorun Giderme
 

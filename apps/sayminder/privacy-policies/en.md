@@ -8,7 +8,7 @@ redirect_from:
   - /privacy-policies/sayminder/
 ---
 
-**Effective Date:** September 27, 2026
+**Effective Date:** November 8, 2026
 
 Sayminder ("the App") is a free voice-first reminder app for iPhone and iPad. Privacy is central to how we built it. This policy explains exactly what data is involved when you use Sayminder and, more importantly, what isn't.
 
@@ -44,6 +44,10 @@ The reminders you create, including their titles, notes, times, recurrence, and 
 
 If you turn on **Show calendar events**, the app reads your system-calendar events to display them alongside your reminders. This access is read-only: Sayminder never creates, edits, or deletes calendar events, and the events are only read on your device to render the agenda. This layer is off until you enable it.
 
+### National Holidays (Optional, Location)
+
+If you turn on **Show national holidays**, the app asks for while-using location permission and takes a coarse (approximately kilometer-accuracy) location fix when it launches or returns to the foreground. Apple's MapKit converts that location into a country, so the coordinates are sent to Apple for this lookup and handled under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/). Sayminder then sends only the two-letter country code (for example, "DE") to the public [Nager.Date](https://date.nager.at) holiday service to fetch that country's national holidays. Your coordinates are never sent to us or to the holiday service, and the holiday list is kept only in memory. This layer is off until you enable it.
+
 ### Scheduling & Text-to-Speech
 
 Alarms, notifications, and spoken read-back are all handled on your device by the operating system's frameworks. No scheduling data or spoken text is sent anywhere.
@@ -56,18 +60,19 @@ Sayminder requests the following permissions:
 |------------|---------|
 | **Microphone** | Capture your voice so a reminder can be created |
 | **Speech Recognition** | Transcribe your speech into reminder text |
-| **Notifications / Alarms** | Alert you at the reminder's time |
+| **Notifications / Alarms (optional)** | Alert you at the reminder's time, only if you turn alerts on |
 | **Calendar (read-only, optional)** | Show your existing events alongside reminders, only if you enable it |
+| **Location (while using, optional)** | Find the country you're in to show its national holidays, only if you enable it |
 
-No other permissions are requested: not camera, contacts, photos, health data, or location.
+No other permissions are requested: not camera, contacts, photos, or health data.
 
 ## Third-Party Services
 
-Sayminder does not integrate any third-party analytics, advertising, or tracking services. Speech recognition uses Apple's on-device and system speech-recognition frameworks; scheduling and text-to-speech use Apple's system frameworks. These run as part of the operating system on your device.
+Sayminder does not integrate any third-party analytics, advertising, or tracking services. Speech recognition uses Apple's on-device and system speech-recognition frameworks; scheduling and text-to-speech use Apple's system frameworks. These run as part of the operating system on your device. The optional holiday layer uses Apple's MapKit to resolve your country and the public Nager.Date service to look up holidays; Nager.Date receives only a country code.
 
 ## Data Sharing
 
-We do not sell, rent, license, or share your data with anyone. Sayminder does not generate network traffic that transmits your reminders, voice, transcripts, or calendar data.
+We do not sell, rent, license, or share your data with anyone. Sayminder does not generate network traffic that transmits your reminders, voice, transcripts, or calendar data. The only third-party service it contacts is Nager.Date, for the optional holiday lookup described above, which receives just a country code.
 
 ## Data Retention & Deletion
 

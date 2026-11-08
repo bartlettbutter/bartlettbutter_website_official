@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-**Ingangsdatum:** 13 juni 2026
+**Ingangsdatum:** 8 november 2026
 
 Nekopedia ("de App") is een gratis iOS-applicatie die kattenrassen identificeert aan de hand van foto's. Privacy is hier geen bijzaak, maar de manier waarop de App vanaf dag één is gebouwd. Dit beleid legt in gewone taal precies uit hoe uw informatie wordt verwerkt. Kort samengevat: die blijft bij u.
 
@@ -34,7 +34,7 @@ Geen. We verzamelen, bewaren of verzenden geen persoonlijke gegevens. De App bev
 
 ## Foto's en Camera-/Bibliotheektoegang
 
-De App vraagt camera- en fotobibliotheekrechten uitsluitend om u in staat te stellen foto's te maken of afbeeldingen te selecteren van katten voor rasidentificatie. Foto's die u maakt of selecteert worden volledig op uw apparaat geanalyseerd met behulp van on-device intelligentie. Uw foto's worden nooit geüpload naar een server.
+De App vraagt camerarechten uitsluitend om u in staat te stellen foto's van katten te maken voor rasidentificatie. Om een bestaande foto te gebruiken, opent de App de standaard fotokiezer van iOS. U kiest de foto en de App ontvangt alleen die foto, zonder toegang tot de rest van uw fotobibliotheek. Foto's die u maakt of selecteert worden volledig op uw apparaat geanalyseerd met behulp van on-device intelligentie. Uw foto's worden nooit geüpload naar een server.
 
 ## Lokaal Opgeslagen Gegevens
 
@@ -55,7 +55,6 @@ We verkopen, verhuren of delen geen gebruikersgegevens met derden. Er zijn geen 
 | Machtiging | Waarom We het Vragen | Vereist? |
 |------------|---------------------|----------|
 | Camera | Om katten te fotograferen voor rasidentificatie | Optioneel (u kunt uw fotobibliotheek gebruiken) |
-| Fotobibliotheek | Om bestaande foto's te selecteren voor rasidentificatie | Optioneel (u kunt de camera gebruiken) |
 
 Er worden geen andere machtigingen gevraagd of gebruikt. De App gebruikt geen locatie, contacten, microfoon, tracking, meldingen of andere gevoelige toegang.
 

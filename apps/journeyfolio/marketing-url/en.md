@@ -100,20 +100,20 @@ Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Jou
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>Free to download, with flexible plans</h3>
-      <p>Journeyfolio now starts free, while existing purchasers keep permanent Premium access with no extra action required.</p>
+      <h3>Your trip at a glance</h3>
+      <p>The Upcoming tab opens on Today, with what day of your trip it is, which city you're in, and today's plans. Every upcoming trip gets a countdown.</p>
     </article>
     <article class="marketing-card">
-      <h3>Travel documents attached to activities</h3>
-      <p>Boarding passes, booking confirmations, and receipts can live exactly where they belong, with OCR helping reduce manual entry.</p>
+      <h3>Reminders so nothing is left unbooked</h3>
+      <p>Journeyfolio flags nights with no hotel and legs between cities with no transport, and Trip Reminders can give you a heads-up the day before each trip begins.</p>
     </article>
     <article class="marketing-card">
-      <h3>Full iPad support</h3>
-      <p>Adaptive layouts, Split View, and Slide Over make the planner more comfortable on larger screens and during multitasking.</p>
+      <h3>Weather forecasts, now free for everyone</h3>
+      <p>Current conditions and a 5-day forecast for every destination no longer require Premium.</p>
     </article>
     <article class="marketing-card">
-      <h3>Reliability and accessibility improvements</h3>
-      <p>Core stability, usability, and polish all moved forward together instead of treating accessibility as an afterthought.</p>
+      <h3>A cleaner, refreshed look</h3>
+      <p>The whole app has a cleaner, refreshed design on iPhone and iPad.</p>
     </article>
   </div>
 </section>
@@ -195,16 +195,17 @@ Stop juggling screenshots, scattered emails, and half-finished spreadsheets. Jou
         <li>Create and organize trips on iPhone and iPad</li>
         <li>Keep documents, notes, and core itinerary details together</li>
         <li>Start without an account or setup friction</li>
+        <li>Weather, public holidays, ticket auto-fill, and trip reminders included</li>
       </ul>
     </article>
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Unlimited trips, live flight tracking, and weather forecasts.</h3>
+      <h3 class="marketing-price-summary">Unlimited trips, live flight status, and Verify Flight auto-fill.</h3>
       <p>Premium is available as monthly, 6-month, or yearly auto-renewable subscriptions for travelers who want full ongoing context in one place.</p>
       <ul class="marketing-list">
         <li>Unlimited trip capacity</li>
         <li>Real-time flight status inside the itinerary</li>
-        <li>Destination weather forecasts built into the trip view</li>
+        <li>Verify Flight fills in the airline, route, and scheduled times</li>
       </ul>
     </article>
   </div>

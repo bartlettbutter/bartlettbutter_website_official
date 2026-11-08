@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-**Effective Date:** June 13, 2026
+**Effective Date:** November 8, 2026
 
 Nekopedia ("the App") is a free iOS application that identifies cat breeds from photos. Privacy isn't an afterthought here, it's how the App was built from day one. This policy explains, in plain language, exactly how your information is handled. The short answer: it stays with you.
 
@@ -33,7 +33,7 @@ None. We do not collect, store, or transmit any personal data. The App contains 
 
 ## Photos and Camera/Library Access
 
-The App requests camera and photo library permissions solely to let you photograph or select images of cats for breed identification. Photos you take or select are analyzed entirely on your device using on-device intelligence. Your photos are never uploaded to any server.
+The App requests camera permission solely to let you photograph cats for breed identification. To use an existing photo, the App opens the standard iOS photo picker. You choose the photo, and the App receives only that photo, with no access to the rest of your photo library. Photos you take or select are analyzed entirely on your device using on-device intelligence. Your photos are never uploaded to any server.
 
 ## Locally Stored Data
 
@@ -54,7 +54,6 @@ We do not sell, rent, or share any user data with third parties. There is no dat
 | Permission | Why We Ask | Required? |
 |------------|-----------|-----------|
 | Camera | To photograph cats for breed identification | Optional (you can use your photo library instead) |
-| Photo Library | To select existing photos for breed identification | Optional (you can use the camera instead) |
 
 No other permissions are requested or accessed. The App does not use location, contacts, microphone, tracking, notifications, or any other sensitive access.
 

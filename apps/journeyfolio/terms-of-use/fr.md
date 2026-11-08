@@ -7,7 +7,7 @@ lang: fr
 permalink: /journeyfolio/terms/fr/
 ---
 
-**Date d'entrée en vigueur :** 26 octobre 2026
+**Date d'entrée en vigueur :** 8 novembre 2026
 
 Les présentes Conditions d'utilisation (les « Conditions ») s'appliquent à Journeyfolio (« l'application »), développée par Bartlett Butter. En téléchargeant ou en utilisant l'application, vous acceptez ces Conditions. Notre [Politique de confidentialité](/journeyfolio/privacy/fr/) explique comment l'application traite vos informations.
 
@@ -17,7 +17,7 @@ L'application Journeyfolio vous est concédée sous licence, et non vendue, conf
 
 ## Fonctionnalités Gratuites et Premium
 
-Journeyfolio est gratuit à télécharger et vous permet de planifier jusqu'à 10 voyages sans frais. Premium ajoute les voyages illimités, le suivi des vols en direct et les prévisions météo de destination.
+Journeyfolio est gratuit à télécharger et vous permet de planifier jusqu'à 10 voyages sans frais, avec les prévisions météo, les jours fériés, le remplissage automatique depuis vos billets et les rappels de voyage inclus. Premium ajoute les voyages illimités, le statut des vols en direct et « Vérifier le Vol », qui remplit la compagnie, l'itinéraire et les horaires prévus d'un vol.
 
 ## Abonnements à Renouvellement Automatique
 

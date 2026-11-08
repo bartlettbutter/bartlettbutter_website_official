@@ -25,7 +25,7 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">dog breeds with rich, AKC-style profiles you can search and explore</span>
+    <span class="marketing-stat-label">dog breeds with rich profiles you can search and explore</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -66,7 +66,7 @@ Snap a photo of any dog and Barkpedia names the breed, then opens the whole stor
     </article>
     <article class="marketing-card">
       <h3>Profiles worth reading</h3>
-      <p>Each breed opens an AKC-style profile that explains what the dog is actually like, not just what it is called.</p>
+      <p>Each breed opens a detailed profile that explains what the dog is actually like, not just what it is called.</p>
       <ul class="marketing-list">
         <li>Temperament, life span, weight, and height at a glance</li>
         <li>Country of origin and the breed's history</li>

@@ -221,7 +221,7 @@ Las listas de ingredientes están escritas para químicos, no para ti. FormuLens
       <span class="marketing-price-tier">Postura de privacidad</span>
       <h3 class="marketing-price-summary">Sin servidores. Sin nube. Sin rastreo.</h3>
       <p>Tus fotos nunca salen de tu dispositivo. El reconocimiento y el análisis ocurren localmente.</p>
-      <p class="marketing-price-note"><a href="/formulens/privacy/">Leer política de privacidad</a></p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/es/">Leer política de privacidad</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">FormuLens tiene fines exclusivamente informativos y no constituye asesoramiento médico ni dermatológico. Los detalles de los ingredientes pueden estar incompletos, y los resultados dependen de la claridad con que se lea la etiqueta. Si tienes alergias, piel sensible o alguna afección cutánea, revisa la etiqueta del producto, haz una prueba en una pequeña zona de la piel antes de usar productos nuevos y consulta a un dermatólogo o profesional de la salud.</p>
@@ -231,8 +231,8 @@ Las listas de ingredientes están escritas para químicos, no para ti. FormuLens
   <h2 id="fl-next-title">¿List@ para leer las etiquetas como si estuvieran escritas para ti?</h2>
   <p>Descarga FormuLens y empieza a escanear de inmediato.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/formulens/support/">Visitar soporte</a>
-    <a class="marketing-inline-link" href="/formulens/privacy/">Leer política de privacidad</a>
+    <a class="marketing-inline-link" href="/formulens/support/es/">Visitar soporte</a>
+    <a class="marketing-inline-link" href="/formulens/privacy/es/">Leer política de privacidad</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

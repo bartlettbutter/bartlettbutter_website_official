@@ -26,7 +26,7 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">races de chats avec des profils riches de style CFA/TICA que vous pouvez rechercher et explorer</span>
+    <span class="marketing-stat-label">races de chats avec des profils riches que vous pouvez rechercher et explorer</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
     </article>
     <article class="marketing-card">
       <h3>Des profils qui valent la lecture</h3>
-      <p>Chaque race ouvre un profil de style CFA/TICA qui explique à quoi ressemble vraiment le chat, pas seulement son nom.</p>
+      <p>Chaque race ouvre un profil détaillé qui explique à quoi ressemble vraiment le chat, pas seulement son nom.</p>
       <ul class="marketing-list">
         <li>Tempérament, espérance de vie, poids et taille en un coup d'œil</li>
         <li>Pays d'origine et histoire de la race</li>
@@ -195,7 +195,7 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
       <span class="marketing-price-tier">Posture de confidentialité</span>
       <h3 class="marketing-price-summary">Aucun envoi. Aucun cloud. Aucun suivi.</h3>
       <p>Vos photos ne quittent jamais votre appareil. L'identification des races s'effectue entièrement sur l'appareil, et les fonctions en ligne ne récupèrent que des photos et faits publics sur les chats.</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Lire la politique de confidentialité</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/fr/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Prenez une photo de n'importe quel chat et Nekopedia nomme la race, puis dévoil
   <h2 id="nk-next-title">Prêt à nommer chaque chat que vous rencontrez ?</h2>
   <p>Téléchargez Nekopedia, commencez à scanner immédiatement et gardez le reste du monde des races à portée de main dès que la curiosité surgit.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">Voir l'assistance</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">Lire la politique de confidentialité</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/fr/">Voir l'assistance</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/fr/">Lire la politique de confidentialité</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

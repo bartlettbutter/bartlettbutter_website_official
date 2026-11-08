@@ -74,13 +74,13 @@ Yes. Your photos never leave your device and no personal data is collected. See 
 
 Camera access lets you take photos of cats directly in the app for breed identification. You can skip this permission and choose photos from your library instead.
 
-### Why does Nekopedia need photo library access?
+### Does Nekopedia need photo library access?
 
-Photo library access lets you select existing photos from your library for breed identification. This is an alternative to using the camera.
+No. To use an existing photo, Nekopedia opens the standard iOS photo picker. You choose the photo, and the app receives only that photo, never the rest of your library, so no photo library permission is requested.
 
 ### Does Nekopedia access my location or other data?
 
-No. Nekopedia only requests camera and photo library access. It does not access your location, contacts, microphone, or any other sensitive information.
+No. Camera access is the only permission Nekopedia requests. It does not access your location, contacts, microphone, or any other sensitive information.
 
 ## Troubleshooting
 
@@ -90,7 +90,7 @@ Open Settings, then navigate to Nekopedia and make sure Camera access is toggled
 
 ### Breed info, quiz, or trivia content isn't loading
 
-These features require an active internet connection. Confirm you're connected to Wi-Fi or cellular data, then try again. If the issue persists, the service may be temporarily unavailable. Wait a few minutes and retry.
+Breed photos and the Breed Quiz need an internet connection, and so do Cat Trivia and breed fun facts when the app is set to English. The built-in breed profiles work offline. Confirm you're connected to Wi-Fi or cellular data, then try again. If the issue persists, the service may be temporarily unavailable. Wait a few minutes and retry.
 
 ### The app says "Not a Cat"
 

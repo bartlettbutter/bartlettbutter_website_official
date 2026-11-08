@@ -17,7 +17,7 @@ redirect_from:
 
 ### Journeyfolio ücretsiz mi?
 
-Evet. Journeyfolio ücretsiz olarak indirilir ve en fazla 10 geziyi ücretsiz planlamanıza olanak tanır. Premium özellikler (sınırsız gezi, canlı uçuş takibi ve hava tahminleri) isteğe bağlı otomatik yenilenen abonelikler (aylık, 6 aylık veya yıllık) aracılığıyla sunulur.
+Evet. Journeyfolio ücretsiz olarak indirilir ve en fazla 10 geziyi ücretsiz planlamanıza olanak tanır; hava tahminleri, resmi tatiller, biletlerden otomatik doldurma ve gezi hatırlatıcıları da dahildir. Premium özellikler (sınırsız gezi, canlı uçuş durumu ve "Uçuşu Doğrula" ile otomatik doldurma) isteğe bağlı otomatik yenilenen abonelikler (aylık, 6 aylık veya yıllık) aracılığıyla sunulur.
 
 ### Journeyfolio'yu ücretsiz olmadan önce satın aldım. Erişimi kaybeder miyim?
 
@@ -63,7 +63,7 @@ Evet. Başlangıç ve bitiş tarihlerini ayarlamak için bir etkinlik eklerken "
 
 ### Bir etkinliğe belgeleri nasıl eklerim?
 
-Herhangi bir etkinliği açın, ek seçeneğine dokunun, ardından kameranızla bir fotoğraf çekin veya bir dosya içe aktarın. Desteklenen formatlar arasında PDF, JPEG ve PNG bulunur. Akıllı OCR, belgenizden rezervasyon ayrıntılarını otomatik doldurmayı dener.
+Herhangi bir etkinliği açın, ek seçeneğine dokunun, ardından Dosyalar'dan bir dosya veya Fotoğraflar'dan bir görüntü ekleyin ya da kameranızla bir fotoğraf çekin. Desteklenen formatlar arasında PDF, JPEG ve PNG bulunur. Journeyfolio belgeyi cihazınızda okur ve uçuş numarası, koltuk ve onay kodu gibi ayrıntıları doldurur. Önceden girdiğiniz metnin üzerine asla yazılmaz.
 
 ### Konum arama nasıl çalışır?
 
@@ -71,17 +71,25 @@ Bir etkinlik eklerken, yerleşik aramaya bir ad veya anahtar sözcük yazın. Ay
 
 ### Hava tahminleri nasıl çalışır?
 
-Bir hedef şehir ekleyin; Journeyfolio, [Apple Hava Durumu](https://weatherkit.apple.com/legal-attribution.html) aracılığıyla güncel koşulları ve 5 günlük tahmini alır. Hava durumu kartında °C ve °F arasında geçiş yapın. *Hava tahminleri Premium abonelik gerektirir.*
+Bir hedef şehir ekleyin; Journeyfolio, [Apple Hava Durumu](https://weatherkit.apple.com/legal-attribution.html) aracılığıyla güncel koşulları ve 5 günlük tahmini alır. Hava durumu kartında °C ve °F arasında geçiş yapın. *Hava tahminleri herkes için ücretsizdir.*
 
 ### Uçuş takibi nasıl çalışır?
 
-Uçuş numaranızı ve kalkış tarihinizi girin, ardından "Uçuşu Doğrula"ya dokunun. Uygulama, rotayı, havayolunu ve saatleri her havaalanının yerel saat diliminde otomatik doldurur. ~24 saat içindeki kalkışlar için canlı durum rozetleri (Zamanında, Gecikmeli, İptal, Havada, İndi) otomatik olarak görünür. *Canlı uçuş takibi Premium abonelik gerektirir.*
+Uçuş numaranızı ve kalkış tarihinizi girin, ardından "Uçuşu Doğrula"ya dokunun. Uygulama, rotayı, havayolunu ve saatleri her havaalanının yerel saat diliminde otomatik doldurur. ~24 saat içindeki kalkışlar için canlı durum rozetleri (Zamanında, Gecikmeli, İptal, Havada, İndi) otomatik olarak görünür. *"Uçuşu Doğrula" ve canlı uçuş durumu Premium abonelik gerektirir. Ücretsiz planda uçuş ayrıntılarını kendiniz girebilir veya bir biletten doldurabilirsiniz.*
 
 Program doğrulaması, gelecekte 12 aya ve geçmişte 3 aya kadar olan uçuşları kapsar.
 
 ### Resmi tatiller nasıl çalışır?
 
 Journeyfolio, hedefinizin ülkesini algılar ve resmi tatilleri tarih şeridinde görüntüler. Tatil tarihleri, kapanışlara göre plan yapabilmeniz için yumuşak sarı bir arka planla vurgulanır.
+
+### Yaklaşan sekmesi neleri gösterir?
+
+Yaklaşan sekmesi Bugün görünümüyle açılır: tarih, gezinizin kaçıncı günü olduğu, hangi şehirde olduğunuz ve bugünün planları. Altında, henüz bitmemiş her gezi "12 gün sonra"dan "Şu anda sürüyor"a kadar bir geri sayım gösterir.
+
+### Hatırlatıcılar nasıl çalışır?
+
+Yaklaşan her gezi hâlâ eksik olanları listeler: otel ayrılmamış geceler ve ulaşımı olmayan şehirler arası bağlantılar. Eksik bir şey kalmadığında gezi bilgilerinizin tamamlandığını onaylar. Her gezi başlamadan bir gün önce bildirim almak için Ayarlar sekmesinden Gezi Hatırlatıcıları'nı açın. Hatırlatıcılar cihazınızda planlanır.
 
 ### İnternet bağlantısına ihtiyacım var mı?
 
@@ -103,7 +111,7 @@ Cihazınızda **Ayarlar → adınız → Abonelikler** bölümüne gidin. İsted
 
 ### İptal edersem gezilerimi kaybeder miyim?
 
-Hayır. Gezi verileriniz yerel olarak saklanır ve aboneliğinizden tamamen bağımsızdır. Premium'u iptal etmek yalnızca uçuş takibi ve hava durumu özelliklerine erişimi sınırlar.
+Hayır. Gezi verileriniz yerel olarak saklanır ve aboneliğinizden tamamen bağımsızdır. Premium'u iptal etmek yalnızca canlı uçuş durumunu ve "Uçuşu Doğrula"yı kapatır. Mevcut gezileriniz kalır, ancak 10 gezilik ücretsiz sınırın ötesinde yeni gezi ekleyemezsiniz.
 
 ## Sorun Giderme
 
@@ -111,8 +119,7 @@ Hayır. Gezi verileriniz yerel olarak saklanır ve aboneliğinizden tamamen bağ
 
 1. Cihazınızın internet bağlantısı olduğunu doğrulayın.
 2. Hedef şehir adının doğru olduğunu kontrol edin.
-3. Etkin bir Premium aboneliğinizin olduğundan emin olun.
-4. Hâlâ yüklenmiyorsa birkaç dakika sonra tekrar deneyin; hava durumu hizmeti geçici olarak kullanılamıyor olabilir.
+3. Hâlâ yüklenmiyorsa birkaç dakika sonra tekrar deneyin; hava durumu hizmeti geçici olarak kullanılamıyor olabilir.
 
 ### Uçuş doğrulaması "Uçuş bulunamadı" diyor
 

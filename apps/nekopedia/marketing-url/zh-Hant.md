@@ -26,7 +26,7 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">個貓咪品種，附有豐富的CFA/TICA風格資料，可供搜尋與探索</span>
+    <span class="marketing-stat-label">個貓咪品種，附有豐富的資料，可供搜尋與探索</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>值得一讀的品種資料</h3>
-      <p>每個品種都會開啟一份CFA/TICA風格的資料，說明這隻貓實際上是什麼樣子，而不僅僅是牠叫什麼名字。</p>
+      <p>每個品種都會開啟一份詳細的資料，說明這隻貓實際上是什麼樣子，而不僅僅是牠叫什麼名字。</p>
       <ul class="marketing-list">
         <li>性格、壽命、體重與身高一目了然</li>
         <li>起源國家與該品種的歷史</li>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">隱私姿態</span>
       <h3 class="marketing-price-summary">不上傳照片。沒有雲端。沒有追蹤。</h3>
       <p>您的照片永遠不會離開您的裝置。品種識別完全在本機完成，連網功能只會取得公開的貓咪照片與趣聞。</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">閱讀隱私政策</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/zh-Hant/">閱讀隱私政策</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="nk-next-title">準備好為您遇見的每隻貓命名了嗎？</h2>
   <p>下載Nekopedia，立即開始掃描，並在好奇心湧現時，將整個品種世界隨時握在手中。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">前往支援</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">閱讀隱私政策</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/zh-Hant/">前往支援</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/zh-Hant/">閱讀隱私政策</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/sayminder/es/
 ---
 
-**Fecha de entrada en vigor:** 27 de septiembre de 2026
+**Fecha de entrada en vigor:** 8 de noviembre de 2026
 
 Sayminder («la App») es una aplicación de recordatorios gratuita y basada en la voz para iPhone y iPad. La privacidad es fundamental en la forma en que la creamos. Esta política explica exactamente qué datos intervienen cuando usas Sayminder y, lo que es más importante, qué datos no intervienen.
 
@@ -45,6 +45,10 @@ Los recordatorios que creas, incluidos sus títulos, notas, horas, recurrencia y
 
 Si activas **Mostrar eventos del calendario**, la app lee los eventos del calendario de tu sistema para mostrarlos junto a tus recordatorios. Este acceso es de solo lectura: Sayminder nunca crea, edita ni elimina eventos del calendario, y los eventos solo se leen en tu dispositivo para representar la agenda. Esta capa está desactivada hasta que la habilitas.
 
+### Festivos nacionales (opcional, ubicación)
+
+Si activas **Mostrar festivos nacionales**, la app solicita permiso de ubicación mientras se usa y obtiene una ubicación aproximada (con una precisión de alrededor de un kilómetro) al abrirse o al volver a primer plano. MapKit de Apple convierte esa ubicación en un país, por lo que las coordenadas se envían a Apple para esta consulta y se tratan conforme a la [Política de Privacidad de Apple](https://www.apple.com/legal/privacy/). Después, Sayminder envía solo el código de país de dos letras (por ejemplo, «DE») al servicio público de festivos [Nager.Date](https://date.nager.at) para obtener los festivos nacionales de ese país. Tus coordenadas nunca se envían ni a nosotros ni al servicio de festivos, y la lista de festivos se guarda solo en memoria. Esta capa está desactivada hasta que la habilitas.
+
 ### Programación y conversión de texto a voz
 
 Las alarmas, las notificaciones y la lectura en voz alta se gestionan íntegramente en tu dispositivo mediante los marcos del sistema operativo. No se envía a ningún sitio ningún dato de programación ni texto leído.
@@ -57,18 +61,19 @@ Sayminder solicita los siguientes permisos:
 |------------|---------|
 | **Micrófono** | Captar tu voz para poder crear un recordatorio |
 | **Reconocimiento de voz** | Transcribir tu habla en texto de recordatorio |
-| **Notificaciones / Alarmas** | Avisarte a la hora del recordatorio |
+| **Notificaciones / Alarmas (opcional)** | Avisarte a la hora del recordatorio, solo si activas los avisos |
 | **Calendario (solo lectura, opcional)** | Mostrar tus eventos existentes junto a los recordatorios, solo si lo habilitas |
+| **Ubicación (mientras se usa, opcional)** | Saber en qué país estás para mostrar sus festivos nacionales, solo si lo habilitas |
 
-No se solicita ningún otro permiso: ni cámara, ni contactos, ni fotos, ni datos de salud ni ubicación.
+No se solicita ningún otro permiso: ni cámara, ni contactos, ni fotos ni datos de salud.
 
 ## Servicios de terceros
 
-Sayminder no integra ningún servicio de análisis, publicidad o seguimiento de terceros. El reconocimiento de voz utiliza los marcos de reconocimiento de voz del dispositivo y del sistema de Apple; la programación y la conversión de texto a voz utilizan los marcos del sistema de Apple. Estos se ejecutan como parte del sistema operativo en tu dispositivo.
+Sayminder no integra ningún servicio de análisis, publicidad o seguimiento de terceros. El reconocimiento de voz utiliza los marcos de reconocimiento de voz del dispositivo y del sistema de Apple; la programación y la conversión de texto a voz utilizan los marcos del sistema de Apple. Estos se ejecutan como parte del sistema operativo en tu dispositivo. La capa opcional de festivos usa MapKit de Apple para determinar tu país y el servicio público Nager.Date para consultar los festivos; Nager.Date solo recibe un código de país.
 
 ## Uso compartido de datos
 
-No vendemos, alquilamos, licenciamos ni compartimos tus datos con nadie. Sayminder no genera tráfico de red que transmita tus recordatorios, voz, transcripciones ni datos del calendario.
+No vendemos, alquilamos, licenciamos ni compartimos tus datos con nadie. Sayminder no genera tráfico de red que transmita tus recordatorios, voz, transcripciones ni datos del calendario. El único servicio de terceros con el que se comunica es Nager.Date, para la consulta opcional de festivos descrita arriba, que recibe solo un código de país.
 
 ## Conservación y eliminación de datos
 

@@ -221,7 +221,7 @@ redirect_from:
       <span class="marketing-price-tier">نهج الخصوصية</span>
       <h3 class="marketing-price-summary">لا خوادم. لا سحابة. لا تتبّع.</h3>
       <p>صورك لا تغادر جهازك أبدًا. يجري التعرّف والتحليل محليًا.</p>
-      <p class="marketing-price-note"><a href="/formulens/privacy/">اقرأ سياسة الخصوصية</a></p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/ar/">اقرأ سياسة الخصوصية</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">FormuLens مخصّص لأغراض إعلامية فقط، ولا يُعدّ نصيحة طبية أو جلدية. قد تكون تفاصيل المكوّنات غير مكتملة، وتعتمد النتائج على مدى وضوح قراءة الملصق. إذا كانت لديك حساسية أو بشرة حساسة أو حالة جلدية، فراجع ملصق المنتج، وجرّب المنتجات الجديدة على رقعة صغيرة من الجلد أولًا، واستشر طبيب جلدية أو مختصًا في الرعاية الصحية.</p>
@@ -231,8 +231,8 @@ redirect_from:
   <h2 id="fl-next-title">مستعد لقراءة الملصقات وكأنها كُتبت من أجلك؟</h2>
   <p>نزّل FormuLens وابدأ المسح فورًا.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/formulens/support/">تفضّل بزيارة الدعم</a>
-    <a class="marketing-inline-link" href="/formulens/privacy/">اقرأ سياسة الخصوصية</a>
+    <a class="marketing-inline-link" href="/formulens/support/ar/">تفضّل بزيارة الدعم</a>
+    <a class="marketing-inline-link" href="/formulens/privacy/ar/">اقرأ سياسة الخصوصية</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

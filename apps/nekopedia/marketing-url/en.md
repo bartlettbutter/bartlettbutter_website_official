@@ -25,7 +25,7 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">cat breeds with rich, CFA/TICA-style profiles you can search and explore</span>
+    <span class="marketing-stat-label">cat breeds with rich profiles you can search and explore</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -66,7 +66,7 @@ Snap a photo of any cat and Nekopedia names the breed, then opens the whole stor
     </article>
     <article class="marketing-card">
       <h3>Profiles worth reading</h3>
-      <p>Each breed opens a CFA/TICA-style profile that explains what the cat is actually like, not just what it is called.</p>
+      <p>Each breed opens a detailed profile that explains what the cat is actually like, not just what it is called.</p>
       <ul class="marketing-list">
         <li>Temperament, life span, weight, and height at a glance</li>
         <li>Country of origin and the breed's history</li>

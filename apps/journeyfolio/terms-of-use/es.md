@@ -7,7 +7,7 @@ lang: es
 permalink: /journeyfolio/terms/es/
 ---
 
-**Fecha de vigencia:** 26 de octubre de 2026
+**Fecha de vigencia:** 8 de noviembre de 2026
 
 Estos Términos de uso ("Términos") se aplican a Journeyfolio ("la aplicación"), desarrollada por Bartlett Butter. Al descargar o usar la aplicación, aceptas estos Términos. Nuestra [Política de privacidad](/journeyfolio/privacy/es/) explica cómo la aplicación trata tu información.
 
@@ -17,7 +17,7 @@ Journeyfolio se te concede bajo licencia, no se vende, conforme al [Contrato de 
 
 ## Funciones Gratuitas y Premium
 
-Journeyfolio es gratis de descargar y te permite planificar hasta 10 viajes sin costo. Premium añade viajes ilimitados, seguimiento de vuelos en vivo y pronósticos del tiempo del destino.
+Journeyfolio es gratis de descargar y te permite planificar hasta 10 viajes sin costo, con pronósticos del tiempo, festivos, autocompletado desde billetes y recordatorios de viaje incluidos. Premium añade viajes ilimitados, estado de vuelos en vivo y "Verificar Vuelo", que rellena la aerolínea, la ruta y los horarios programados de un vuelo.
 
 ## Suscripciones de Renovación Automática
 

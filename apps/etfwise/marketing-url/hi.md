@@ -81,7 +81,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>विश्लेषण के लिए कुछ भी क्लाउड पर अपलोड नहीं होता</li>
         <li>फंड के बुनियादी तत्वों पर आधारित, संदर्भ से भरपूर मामले</li>
-        <li>मार्केट डेटा लाने के लिए केवल टिकर प्रतीक भेजे जाते हैं</li>
+        <li>मार्केट डेटा लाने के लिए केवल टिकर प्रतीक और तिथि सीमाएँ भेजी जाती हैं</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -205,8 +205,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">गोपनीयता रुख</span>
       <h3 class="marketing-price-summary">कोई खाता नहीं। कोई एनालिटिक्स नहीं। कोई विज्ञापन नहीं।</h3>
-      <p>विश्लेषण आपके डिवाइस पर चलता है और आपका डेटा आपके पास रहता है। मार्केट कीमतें प्राप्त करने के लिए वित्तीय डेटा प्रदाताओं को केवल टिकर प्रतीक भेजे जाते हैं।</p>
-      <p class="marketing-price-note"><a href="/etfwise/privacy/">गोपनीयता नीति पढ़ें</a></p>
+      <p>विश्लेषण आपके डिवाइस पर चलता है और आपका डेटा आपके पास रहता है। मार्केट कीमतें प्राप्त करने के लिए वित्तीय डेटा प्रदाताओं को केवल टिकर प्रतीक और तिथि सीमाएँ भेजी जाती हैं।</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/hi/">गोपनीयता नीति पढ़ें</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">ETFWise केवल सूचनात्मक और शैक्षिक उद्देश्यों के लिए है और यह निवेश, वित्तीय या कर संबंधी सलाह नहीं है। इसके दैनिक चयन और स्क्रीनर परिणाम किसी भी प्रतिभूति को खरीदने या बेचने की व्यक्तिगत अनुशंसाएँ नहीं हैं। बाज़ार डेटा विलंबित या अधूरा हो सकता है, और पिछला प्रदर्शन भविष्य के परिणामों की गारंटी नहीं देता। निवेश करने से पहले स्वयं शोध करें या किसी लाइसेंस प्राप्त वित्तीय पेशेवर से सलाह लें।</p>
@@ -216,8 +216,9 @@ redirect_from:
   <h2 id="ew-next-title">ETF निवेश में अपनी दैनिक बढ़त के लिए तैयार हैं?</h2>
   <p>ETFWise डाउनलोड करें, आज की ब्रीफ़िंग तुरंत पढ़ें, और जब भी बाज़ार हिले, चुने हुए चयन और गहन विश्लेषण को अपने पास रखें।</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/etfwise/support/">सहायता पर जाएँ</a>
-    <a class="marketing-inline-link" href="/etfwise/privacy/">गोपनीयता नीति पढ़ें</a>
+    <a class="marketing-inline-link" href="/etfwise/support/hi/">सहायता पर जाएँ</a>
+    <a class="marketing-inline-link" href="/etfwise/privacy/hi/">गोपनीयता नीति पढ़ें</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/hi/">उपयोग की शर्तें पढ़ें</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

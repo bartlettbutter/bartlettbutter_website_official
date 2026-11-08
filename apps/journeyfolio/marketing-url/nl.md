@@ -101,20 +101,20 @@ Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreads
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>Gratis te downloaden, met flexibele plannen</h3>
-      <p>Journeyfolio start nu gratis, terwijl bestaande kopers permanente Premium-toegang behouden zonder dat er extra actie nodig is.</p>
+      <h3>Je reis in één oogopslag</h3>
+      <p>Het tabblad Binnenkort opent met Vandaag: de hoeveelste dag van je reis het is, in welke stad je bent en wat er vandaag gepland staat. Elke komende reis krijgt een aftelling.</p>
     </article>
     <article class="marketing-card">
-      <h3>Reisdocumenten gekoppeld aan activiteiten</h3>
-      <p>Instapkaarten, boekingsbevestigingen en bonnen kunnen precies daar leven waar ze horen, met OCR die het handmatig invoeren helpt verminderen.</p>
+      <h3>Herinneringen zodat niets ongeboekt blijft</h3>
+      <p>Journeyfolio signaleert nachten zonder hotel en trajecten tussen steden zonder vervoer, en Reisherinneringen sturen je een melding op de dag voordat elke reis begint.</p>
     </article>
     <article class="marketing-card">
-      <h3>Volledige iPad-ondersteuning</h3>
-      <p>Adaptieve lay-outs, Split View en Slide Over maken de planner comfortabeler op grotere schermen en tijdens het multitasken.</p>
+      <h3>Weersvoorspellingen, nu gratis voor iedereen</h3>
+      <p>Actuele omstandigheden en een 5-daagse voorspelling voor elke bestemming vereisen geen Premium meer.</p>
     </article>
     <article class="marketing-card">
-      <h3>Verbeteringen in betrouwbaarheid en toegankelijkheid</h3>
-      <p>Kernstabiliteit, bruikbaarheid en verfijning gingen allemaal samen vooruit in plaats van toegankelijkheid als bijzaak te behandelen.</p>
+      <h3>Een strakker, vernieuwd uiterlijk</h3>
+      <p>De hele app heeft een strakker, vernieuwd ontwerp, op iPhone en iPad.</p>
     </article>
   </div>
 </section>
@@ -196,16 +196,17 @@ Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreads
         <li>Maak en organiseer reizen op iPhone en iPad</li>
         <li>Houd documenten, notities en kerndetails van het reisschema bij elkaar</li>
         <li>Begin zonder account of set-upgedoe</li>
+        <li>Weer, feestdagen, automatisch invullen vanuit tickets en reisherinneringen inbegrepen</li>
       </ul>
     </article>
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Onbeperkte reizen, live vluchtvolging en weersvoorspellingen.</h3>
+      <h3 class="marketing-price-summary">Onbeperkte reizen, live vluchtstatus en automatisch invullen met "Vlucht verifiëren".</h3>
       <p>Premium is beschikbaar als maandelijks, halfjaarlijks of jaarlijks automatisch verlengend abonnement voor reizigers die volledige, doorlopende context op één plek willen.</p>
       <ul class="marketing-list">
         <li>Onbeperkte reiscapaciteit</li>
         <li>Realtime vluchtstatus in het reisschema</li>
-        <li>Bestemmingsweersvoorspellingen ingebouwd in de reisweergave</li>
+        <li>"Vlucht verifiëren" vult luchtvaartmaatschappij, route en geplande tijden in</li>
       </ul>
     </article>
   </div>
@@ -215,8 +216,8 @@ Stop met jongleren met screenshots, verspreide e-mails en halfafgemaakte spreads
   <h2 id="jf-next-title">Reis lichter, nog voordat je vertrekt.</h2>
   <p>Download Journeyfolio en houd je reis op één samenhangende plek.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/journeyfolio/support/">Bezoek ondersteuning</a>
-    <a class="marketing-inline-link" href="/journeyfolio/privacy/">Lees het privacybeleid</a>
+    <a class="marketing-inline-link" href="/journeyfolio/support/nl/">Bezoek ondersteuning</a>
+    <a class="marketing-inline-link" href="/journeyfolio/privacy/nl/">Lees het privacybeleid</a>
     <a class="marketing-inline-link" href="/journeyfolio/terms/nl/">Lees de gebruiksvoorwaarden</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>

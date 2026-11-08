@@ -26,7 +26,7 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">个猫品种，配以丰富的CFA/TICA风格资料，供您搜索和探索</span>
+    <span class="marketing-stat-label">个猫品种，配以丰富的资料，供您搜索和探索</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>值得一读的资料</h3>
-      <p>每个品种都会打开一份CFA/TICA风格的资料，解释这只猫真正是什么样子，而不仅仅是它叫什么。</p>
+      <p>每个品种都会打开一份详细的资料，解释这只猫真正是什么样子，而不仅仅是它叫什么。</p>
       <ul class="marketing-list">
         <li>一目了然的性格、寿命、体重和身高</li>
         <li>原产国和品种的历史</li>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">隐私姿态</span>
       <h3 class="marketing-price-summary">不上传照片。没有云端。没有追踪。</h3>
       <p>您的照片永远不会离开您的设备。品种识别完全在本机完成，联网功能只获取公开的猫咪照片和趣闻。</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">阅读隐私政策</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/zh-Hans/">阅读隐私政策</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="nk-next-title">准备好叫出您遇到的每一只猫了吗？</h2>
   <p>下载Nekopedia，立即开始扫描，并在好奇心涌上心头时随时把整个品种世界握在手中。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">访问支持</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">阅读隐私政策</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/zh-Hans/">访问支持</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/zh-Hans/">阅读隐私政策</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

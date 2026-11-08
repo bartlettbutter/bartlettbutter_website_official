@@ -26,7 +26,7 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">個具備豐富 AKC 風格資料的狗品種，可供您搜尋與探索</span>
+    <span class="marketing-stat-label">個具備豐富資料的狗品種，可供您搜尋與探索</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>值得一讀的資料</h3>
-      <p>每個品種都會開啟一份 AKC 風格的資料，說明這隻狗實際上是什麼樣子，而不僅僅是牠叫什麼名字。</p>
+      <p>每個品種都會開啟一份詳細的資料，說明這隻狗實際上是什麼樣子，而不僅僅是牠叫什麼名字。</p>
       <ul class="marketing-list">
         <li>一目了然的性格、壽命、體重與身高</li>
         <li>原產國以及該品種的歷史</li>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">隱私姿態</span>
       <h3 class="marketing-price-summary">不上傳。無需帳戶。沒有追蹤。</h3>
       <p>您的照片永遠不會離開您的裝置。品種識別完全在裝置上進行，品種資料與測驗照片則從公開的犬種資料來源載入，不附帶任何個人資料。</p>
-      <p class="marketing-price-note"><a href="/barkpedia/privacy/">閱讀隱私政策</a></p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/zh-Hant/">閱讀隱私政策</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="bp-next-title">準備好為您遇見的每隻狗命名了嗎？</h2>
   <p>下載 Barkpedia，立即開始掃描，並在好奇心湧現時將整個品種世界隨手可得。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/barkpedia/support/">前往支援</a>
-    <a class="marketing-inline-link" href="/barkpedia/privacy/">閱讀隱私政策</a>
+    <a class="marketing-inline-link" href="/barkpedia/support/zh-Hant/">前往支援</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/zh-Hant/">閱讀隱私政策</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -221,7 +221,7 @@ redirect_from:
       <span class="marketing-price-tier">プライバシーの姿勢</span>
       <h3 class="marketing-price-summary">サーバーなし。クラウドなし。トラッキングなし。</h3>
       <p>あなたの写真がデバイスから出ることは一切ありません。認識と分析はローカルで行われます。</p>
-      <p class="marketing-price-note"><a href="/formulens/privacy/">プライバシーポリシーを読む</a></p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/ja/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">FormuLensは情報提供のみを目的としており、医療上または皮膚科学上の助言ではありません。成分の情報は不完全な場合があり、結果はラベルがどれだけ鮮明に読み取れたかによって異なります。アレルギー、敏感肌、皮膚疾患がある方は、製品ラベルを確認し、新しい製品はパッチテストを行い、皮膚科医または医療の専門家にご相談ください。</p>
@@ -231,8 +231,8 @@ redirect_from:
   <h2 id="fl-next-title">まるであなたのために書かれたかのようにラベルを読む準備はできましたか？</h2>
   <p>FormuLensをダウンロードして、すぐにスキャンを始めましょう。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/formulens/support/">サポートを見る</a>
-    <a class="marketing-inline-link" href="/formulens/privacy/">プライバシーポリシーを読む</a>
+    <a class="marketing-inline-link" href="/formulens/support/ja/">サポートを見る</a>
+    <a class="marketing-inline-link" href="/formulens/privacy/ja/">プライバシーポリシーを読む</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

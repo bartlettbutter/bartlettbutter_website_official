@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/solcast/es/
 ---
 
-**Fecha de vigencia:** 8 de julio de 2026
+**Fecha de vigencia:** 8 de noviembre de 2026
 
 Solcast ("la Aplicación") es una aplicación gratuita de clima y orientación de estilo de vida para iPhone y iPad. La privacidad es fundamental en su diseño. Esta política explica exactamente qué datos están involucrados cuando usas Solcast y, lo que es más importante, cuáles no.
 
@@ -53,13 +53,14 @@ La aplicación mantiene una caché de corta duración, en memoria, de los datos 
 
 ## Permisos
 
-Solcast solicita un permiso:
+Solcast solicita dos permisos:
 
 | Permiso | Propósito |
 |---------|-----------|
 | **Ubicación (Mientras se usa)** | Obtener datos meteorológicos, de calidad del aire y de polen para tu posición actual |
+| **Notificaciones** | Mostrar alertas meteorológicas inteligentes como notificaciones creadas en tu dispositivo |
 
-No se solicita ningún otro permiso: ni cámara, ni contactos, ni micrófono, ni notificaciones, ni rastreo, ni nada más.
+No se solicita ningún otro permiso: ni cámara, ni contactos, ni micrófono, ni rastreo, ni nada más.
 
 ## Servicios de Terceros
 
@@ -76,7 +77,7 @@ La aplicación se conecta a los siguientes servicios para obtener datos meteorol
 
 ## Compartición de Datos
 
-No vendemos, alquilamos, licenciamos ni compartimos tus datos con nadie. El único tráfico de red que genera la aplicación es la obtención de datos meteorológicos (coordenadas) y de días festivos (código de país) de los servicios enumerados arriba.
+No vendemos, alquilamos, licenciamos ni compartimos tus datos con nadie. El único tráfico de red que genera la aplicación es la obtención de datos meteorológicos (coordenadas), la búsqueda de ubicaciones y nombres de ciudades con Apple Maps (consulta de búsqueda o coordenadas) y la obtención de días festivos (código de país) de los servicios enumerados arriba.
 
 ## Retención y Eliminación de Datos
 

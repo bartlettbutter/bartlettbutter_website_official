@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "Sprich eine Erinnerung aus und sie erreicht dich pünktlich, auch lautlos, und liest sich selbst laut vor."
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: de
 permalink: /sayminder/de/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrückt, sag was und wann, und Sayminder transkribiert es, liest die Zeit aus deinen Worten und legt sie in deinen Kalender. Wenn der Moment kommt, meldet es sich, auch lautlos oder im Fokus, und liest dir die Erinnerung mit natürlicher Stimme vor.
+Die schnellste Erinnerung ist die, die du aussprichst. Tippe auf das Mikrofon, sag was und wann, und Sayminder transkribiert es, liest die Zeit aus deinen Worten und legt sie in deinen Kalender. Wenn der Moment kommt, meldet es sich, auch lautlos oder im Fokus, und liest dir die Erinnerung laut vor, wenn du die App kurz danach öffnest.
 
 <div class="marketing-chip-row" aria-label="Sayminder-Highlights">
   <span class="marketing-chip">Sprechen statt tippen</span>
   <span class="marketing-chip">Durchbricht Lautlos & Fokus</span>
   <span class="marketing-chip">Liest Erinnerungen laut vor</span>
-  <span class="marketing-chip">Privat, auf dem Gerät</span>
+  <span class="marketing-chip">Von Grund auf privat</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Sayminder auf einen Blick">
@@ -33,14 +33,14 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
     <span class="marketing-stat-label">durchbrechende Alarme lösen auch lautlos oder im Fokus aus und werden nie stillschweigend verworfen</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100 %</span>
-    <span class="marketing-stat-label">privat und auf dem Gerät, ohne Konten, ohne Tracking und ohne Werbung</span>
+    <span class="marketing-stat-value">0 Konten</span>
+    <span class="marketing-stat-label">Erinnerungen bleiben auf deinem Gerät, ohne Registrierung, ohne Tracking und ohne Werbung</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Laden im App Store">
     </a>
   </div>
@@ -63,6 +63,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
         <li>„Erinnere mich, heute Abend um neun die Medizin zu nehmen"</li>
         <li>„In 20 Minuten", „nächsten Freitag", „Ende des Monats"</li>
         <li>Ein Live-Transkript, während du sprichst, vor dem Speichern bearbeitbar</li>
+        <li>Sag mehrere Dinge auf einmal, und jedes wird zu einer eigenen Erinnerung</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
     </article>
     <article class="marketing-card">
       <h3>Es liest dir vor</h3>
-      <p>Wenn eine Erinnerung eintrifft, spricht die App sie laut aus und bestätigt laut, wenn du eine speicherst, damit der ganze Ablauf freihändig bleibt.</p>
+      <p>Wenn eine Erinnerung auslöst, während die App geöffnet ist, oder du sie kurz danach öffnest, spricht Sayminder sie laut aus. Außerdem bestätigt es laut, wenn du eine speicherst, damit der ganze Ablauf freihändig bleibt.</p>
       <ul class="marketing-list">
         <li>„Okay. Ich erinnere dich daran, …" nach dem Speichern</li>
         <li>Jede Listenzeile kann auf Wunsch vorgelesen werden</li>
@@ -88,7 +89,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
       <p>Die Spracherkennung läuft auf dem Gerät, wenn deine Sprache es unterstützt, und Erinnerungen werden nur auf deinem Gerät gespeichert.</p>
       <ul class="marketing-list">
         <li>Keine Konten, keine Analysen, keine Werbung</li>
-        <li>Nichts wird irgendwohin zur Verarbeitung gesendet</li>
+        <li>Optionale Feiertage teilen nur einen Ländercode mit dem Feiertagsdienst</li>
         <li>Lösche die App und alles geht mit ihr</li>
       </ul>
     </article>
@@ -108,6 +109,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
       <ul class="marketing-list">
         <li>Bearbeitbarer Titel, Notizen, Datum und Wiederholungsoption</li>
         <li>Ein vergangener einmaliger Zeitpunkt bietet an, auf morgen zu verschieben</li>
+        <li>Kannst du gerade nicht sprechen? Dann tipp es einfach ein</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
       <p>Ein Monatsraster markiert die Tage mit Erinnerungen mit Punkten, und ein Home- und Sperrbildschirm-Widget hält deine nächste im Blick.</p>
       <ul class="marketing-list">
         <li>Eine optionale Nur-Lese-Ebene spiegelt deinen Systemkalender</li>
+        <li>Optionale nationale Feiertage für das Land, in dem du dich befindest</li>
         <li>Widget-Familien in Klein, Mittel und für den Sperrbildschirm</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>Mikrofon gedrückt halten</h3>
+      <h3>Aufs Mikrofon tippen</h3>
       <p>Eine Taste startet und stoppt die Aufnahme, mit einem Live-Transkript, während du sprichst.</p>
     </article>
     <article class="marketing-step">
       <h3>Sag was und wann</h3>
-      <p>Sayminder liest die Zeit aus der natürlichen Formulierung und nutzt den Rest als Titel.</p>
+      <p>Sayminder liest die Zeit aus der natürlichen Formulierung und nutzt den Rest als Titel. Keine Zeit genannt? Tippe auf Heute Abend, Morgen früh oder In einer Stunde.</p>
     </article>
     <article class="marketing-step">
       <h3>Bestätigen oder bearbeiten</h3>
@@ -149,7 +152,7 @@ Die schnellste Erinnerung ist die, die du aussprichst. Halte das Mikrofon gedrü
     </article>
     <article class="marketing-step">
       <h3>Es erreicht dich</h3>
-      <p>Ein durchbrechender Alarm löst pünktlich aus, auch lautlos, und liest die Erinnerung laut vor.</p>
+      <p>Ein durchbrechender Alarm löst pünktlich aus, auch lautlos oder im Fokus, und Sayminder liest dir die Erinnerung vor, wenn du die App kurz danach öffnest.</p>
     </article>
     <article class="marketing-step">
       <h3>Zum Löschen tippen</h3>

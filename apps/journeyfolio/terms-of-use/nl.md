@@ -7,7 +7,7 @@ lang: nl
 permalink: /journeyfolio/terms/nl/
 ---
 
-**Ingangsdatum:** 26 oktober 2026
+**Ingangsdatum:** 8 november 2026
 
 Deze gebruiksvoorwaarden ("Voorwaarden") zijn van toepassing op Journeyfolio ("de app"), ontwikkeld door Bartlett Butter. Door de app te downloaden of te gebruiken, gaat u akkoord met deze Voorwaarden. Ons [privacybeleid](/journeyfolio/privacy/nl/) legt uit hoe de app met uw informatie omgaat.
 
@@ -17,7 +17,7 @@ Journeyfolio wordt niet aan u verkocht, maar in licentie gegeven onder Apples [L
 
 ## Gratis functies en Premium
 
-Journeyfolio is gratis te downloaden en u kunt kosteloos tot 10 reizen plannen. Premium voegt onbeperkt reizen, live vluchtvolging en weersvoorspellingen voor uw bestemming toe.
+Journeyfolio is gratis te downloaden en u kunt kosteloos tot 10 reizen plannen, inclusief weersvoorspellingen, feestdagen, automatisch invullen vanuit tickets en reisherinneringen. Premium voegt onbeperkt reizen, live vluchtstatus en "Vlucht verifiëren" toe, dat de luchtvaartmaatschappij, route en geplande tijden van een vlucht invult.
 
 ## Automatisch verlengde abonnementen
 

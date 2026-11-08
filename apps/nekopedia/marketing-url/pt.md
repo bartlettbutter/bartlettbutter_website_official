@@ -26,7 +26,7 @@ Tire uma foto de qualquer gato e o Nekopedia dá nome à raça e, em seguida, ab
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">raças de gatos com perfis ricos no estilo CFA/TICA que você pode buscar e explorar</span>
+    <span class="marketing-stat-label">raças de gatos com perfis ricos que você pode buscar e explorar</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Tire uma foto de qualquer gato e o Nekopedia dá nome à raça e, em seguida, ab
     </article>
     <article class="marketing-card">
       <h3>Perfis que valem a leitura</h3>
-      <p>Cada raça abre um perfil no estilo CFA/TICA que explica como o gato realmente é, não apenas como ele se chama.</p>
+      <p>Cada raça abre um perfil detalhado que explica como o gato realmente é, não apenas como ele se chama.</p>
       <ul class="marketing-list">
         <li>Temperamento, expectativa de vida, peso e altura num relance</li>
         <li>País de origem e a história da raça</li>
@@ -195,7 +195,7 @@ Tire uma foto de qualquer gato e o Nekopedia dá nome à raça e, em seguida, ab
       <span class="marketing-price-tier">Postura de privacidade</span>
       <h3 class="marketing-price-summary">Sem uploads. Sem nuvem. Sem rastreamento.</h3>
       <p>Suas fotos nunca saem do seu dispositivo. A identificação de raças roda inteiramente no dispositivo, e os recursos online só baixam fotos e fatos públicos sobre gatos.</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Ler política de privacidade</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/pt/">Ler política de privacidade</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Tire uma foto de qualquer gato e o Nekopedia dá nome à raça e, em seguida, ab
   <h2 id="nk-next-title">Pronto para dar nome a cada gato que você encontrar?</h2>
   <p>Baixe o Nekopedia, comece a escanear imediatamente e mantenha o resto do mundo das raças ao seu alcance sempre que a curiosidade surgir.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">Visitar suporte</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">Ler política de privacidade</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/pt/">Visitar suporte</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/pt/">Ler política de privacidade</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

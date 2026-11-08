@@ -81,7 +81,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>분석을 위해 클라우드에 업로드하는 것은 없음</li>
         <li>펀드의 펀더멘털에 기반한 맥락이 풍부한 시나리오</li>
-        <li>시장 데이터를 가져오기 위해 티커 심볼만 전송</li>
+        <li>시장 데이터를 가져오기 위해 티커 심볼과 날짜 범위만 전송</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -205,8 +205,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">개인정보 기조</span>
       <h3 class="marketing-price-summary">계정 없음. 분석 도구 없음. 광고 없음.</h3>
-      <p>분석은 여러분의 기기에서 실행되며 데이터는 여러분에게 남습니다. 시장 가격을 가져오기 위해 금융 데이터 제공업체에는 티커 심볼만 전송됩니다.</p>
-      <p class="marketing-price-note"><a href="/etfwise/privacy/">개인정보 처리방침 읽기</a></p>
+      <p>분석은 여러분의 기기에서 실행되며 데이터는 여러분에게 남습니다. 시장 가격을 가져오기 위해 금융 데이터 제공업체에는 티커 심볼과 날짜 범위만 전송됩니다.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/ko/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">ETFWise는 정보 제공 및 교육 목적으로만 제공되며 투자, 금융 또는 세무 조언이 아닙니다. 일일 추천과 스크리너 결과는 특정 증권의 매수 또는 매도를 개인에게 권유하는 것이 아닙니다. 시장 데이터는 지연되거나 불완전할 수 있으며, 과거 성과가 미래 결과를 보장하지 않습니다. 투자하기 전에 직접 조사하거나 공인 금융 전문가와 상담하세요.</p>
@@ -216,8 +216,9 @@ redirect_from:
   <h2 id="ew-next-title">ETF 투자에서의 매일의 우위를 누릴 준비가 되셨나요?</h2>
   <p>ETFWise를 다운로드하고 오늘의 브리핑을 바로 읽어 보세요. 시장이 움직일 때마다 엄선된 추천과 깊이 있는 분석을 가까이에 두실 수 있습니다.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/etfwise/support/">지원 방문하기</a>
-    <a class="marketing-inline-link" href="/etfwise/privacy/">개인정보 처리방침 읽기</a>
+    <a class="marketing-inline-link" href="/etfwise/support/ko/">지원 방문하기</a>
+    <a class="marketing-inline-link" href="/etfwise/privacy/ko/">개인정보 처리방침 읽기</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/ko/">이용약관 읽기</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

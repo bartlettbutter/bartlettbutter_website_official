@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/etfwise/tr/
 ---
 
-**Yürürlük Tarihi:** 28 Ekim 2026
+**Yürürlük Tarihi:** 8 Kasım 2026
 
 ETFWise ("Uygulama"), ücretsiz indirilen ve isteğe bağlı bir Premium abonelik sunan; piyasa verileri ve cihaz üzerinde anlık analiz ile günlük ETF seçimleri sağlayan bir iOS uygulamasıdır. Gizliliğiniz, bu uygulamayı nasıl geliştirdiğimizin temelini oluşturur. Bilgilerinizin tam olarak nasıl ele alındığı aşağıda açıklanmıştır.
 
@@ -59,7 +59,7 @@ ETFWise, Screener'ın kilidini açan, isteğe bağlı ve otomatik yenilenen bir 
 
 ## Cihaz Üzerinde Analiz
 
-Yükseliş senaryoları, risk senaryoları ve fon açıklamaları, her ETF için zaten alınan piyasa verilerinden tamamen cihazınızda oluşturulur. Bu analiz ayrı bir indirme veya harici bir sunucu içermez; onunla ilgili hiçbir şey cihazınızdan çıkmaz.
+Yükseliş senaryoları ve risk senaryoları, her ETF için zaten alınan piyasa verilerinden tamamen cihazınızda oluşturulur. Bu analiz ayrı bir indirme veya harici bir sunucu içermez; onunla ilgili hiçbir şey cihazınızdan çıkmaz.
 
 ## Veri Paylaşımı
 

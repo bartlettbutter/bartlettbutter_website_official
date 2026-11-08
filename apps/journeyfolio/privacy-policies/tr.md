@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/journeyfolio/tr/
 ---
 
-**Yürürlük Tarihi:** 22 Temmuz 2026
+**Yürürlük Tarihi:** 8 Kasım 2026
 
 Journeyfolio ("uygulama") Bartlett Butter tarafından geliştirilmiştir. Bu politika, uygulamanın bilgilerinizi nasıl ele aldığını açıklar. Kısa cevap: hiçbirini toplamıyoruz.
 
@@ -48,9 +48,10 @@ Bir hedef eklediğinizde veya yer aradığınızda, arama sorgularınız sonuç 
 | İzin | Ne Zaman İstenir | Amaç | Veriler Cihazdan Çıkıyor mu? |
 |------|------------------|------|------------------------------|
 | Kamera | Bir belgeyi fotoğrafladığınızda | Seyahat belgelerini etkinliklere eklemek | Hayır, OCR aracılığıyla cihazda işlenir |
-| Fotoğraf Kitaplığı | Mevcut bir görüntüyü içe aktardığınızda | Kaydedilen görüntüleri etkinliklere eklemek | Hayır |
+| Fotoğraf Kitaplığı | İstenmez. Görüntüleri sistem fotoğraf seçicisinde siz seçersiniz ve uygulama yalnızca seçtiklerinizi alır | Kaydedilen görüntüleri etkinliklere eklemek ve ayrıntıları doldurmak | Hayır, cihazda işlenir |
+| Bildirimler | Gezi Hatırlatıcıları'nı açtığınızda | Her gezi başlamadan bir gün önce hatırlatmak | Hayır, cihazda planlanır |
 
-Her iki izin de isteğe bağlıdır. Uygulama bunlar olmadan tam olarak çalışır. Hiçbir görüntü asla harici sunuculara yüklenmez.
+Tüm izinler isteğe bağlıdır. Uygulama bunlar olmadan tam olarak çalışır. Dosyalar, Fotoğraflar veya kameradan eklediğiniz biletler ve belgeler cihazınızda okunur ve hiçbir görüntü ya da belge asla harici sunuculara yüklenmez.
 
 ## Üçüncü Taraf Hizmetleri
 

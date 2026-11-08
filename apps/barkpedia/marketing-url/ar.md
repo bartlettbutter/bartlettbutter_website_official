@@ -26,7 +26,7 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">سلالة كلاب بملفات تعريف غنية على طراز AKC يمكنك البحث فيها واستكشافها</span>
+    <span class="marketing-stat-label">سلالة كلاب بملفات تعريف غنية يمكنك البحث فيها واستكشافها</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>ملفات تعريف تستحق القراءة</h3>
-      <p>تفتح كل سلالة ملف تعريف على طراز AKC يشرح ما هو الكلب فعليًا، وليس مجرد اسمه.</p>
+      <p>تفتح كل سلالة ملف تعريف مفصّلًا يشرح ما هو الكلب فعليًا، وليس مجرد اسمه.</p>
       <ul class="marketing-list">
         <li>الطباع، والعمر، والوزن، والارتفاع بلمحة واحدة</li>
         <li>بلد المنشأ وتاريخ السلالة</li>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">موقف الخصوصية</span>
       <h3 class="marketing-price-summary">لا رفع للصور. لا حسابات. لا تتبع.</h3>
       <p>لا تغادر صورك جهازك أبدًا. يجري التعرّف على السلالة بالكامل على جهازك، بينما تُحمَّل الملفات التعريفية للسلالات وصور الاختبار من مصادر عامة لمعلومات سلالات الكلاب دون إرفاق أي بيانات شخصية.</p>
-      <p class="marketing-price-note"><a href="/barkpedia/privacy/">قراءة سياسة الخصوصية</a></p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/ar/">قراءة سياسة الخصوصية</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="bp-next-title">هل أنت مستعد لتسمية كل كلب تلتقيه؟</h2>
   <p>نزّل Barkpedia، وابدأ المسح فورًا، واحتفظ ببقية عالم السلالات في متناول يدك متى داهمك الفضول.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/barkpedia/support/">زيارة الدعم</a>
-    <a class="marketing-inline-link" href="/barkpedia/privacy/">قراءة سياسة الخصوصية</a>
+    <a class="marketing-inline-link" href="/barkpedia/support/ar/">زيارة الدعم</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/ar/">قراءة سياسة الخصوصية</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

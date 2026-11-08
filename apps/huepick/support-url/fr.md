@@ -25,7 +25,7 @@ Non. Huepick n'a aucun compte, aucune inscription et aucune connexion. Ouvrez si
 
 ### Une connexion internet est-elle requise ?
 
-Presque tout fonctionne hors ligne, notamment l'extraction des couleurs, les palettes, les outils créatifs et l'enregistrement. La seule fonctionnalité réseau facultative est la conversion des coordonnées de localisation de la photo en un nom de lieu (comme « Seattle, WA ») sur les palettes enregistrées.
+Non. Tout fonctionne hors ligne, notamment l'extraction des couleurs, l'analyse des couleurs, les outils créatifs et l'enregistrement.
 
 ### Huepick est-il vraiment gratuit ?
 
@@ -72,7 +72,7 @@ Appuyez longuement sur la création dans la Galerie et choisissez « Supprimer �
 
 ### Où mes données sont-elles stockées ?
 
-Tout, y compris les palettes et créations enregistrées, est stocké localement sur votre appareil. Nous n'avons aucun serveur, aucun stockage cloud et aucun accès à vos données.
+Tout, y compris vos créations enregistrées, est stocké localement sur votre appareil. Nous n'avons aucun serveur, aucun stockage cloud et aucun accès à vos données.
 
 ### Mes photos sont-elles téléchargées quelque part ?
 
@@ -80,11 +80,11 @@ Jamais. Tout le traitement se déroule entièrement sur votre appareil.
 
 ### Quelles données collectez-vous ?
 
-Aucune. Aucune donnée personnelle, aucune analyse d'utilisation, aucun identifiant d'appareil. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/huepick/privacy/) complète pour plus de détails.
+Aucune. Aucune donnée personnelle, aucune analyse d'utilisation, aucun identifiant d'appareil. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/huepick/privacy/fr/) complète pour plus de détails.
 
 ### Que se passe-t-il si je supprime l'application ?
 
-La désinstallation de Huepick supprime définitivement toutes les palettes et créations enregistrées de votre appareil. Comme il n'y a aucune sauvegarde ni synchronisation dans le cloud, cette action est irréversible.
+La désinstallation de Huepick supprime définitivement toutes les créations enregistrées de votre appareil. Comme il n'y a aucune sauvegarde ni synchronisation dans le cloud, cette action est irréversible.
 
 ## Dépannage
 

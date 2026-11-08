@@ -12,7 +12,7 @@ redirect_from:
 
 # Saiba exatamente como se vestir, planejar e proteger seu dia.
 
-O Solcast vai além da previsão. Ele diz o que vestir, quando levar um guarda-chuva e como manter sua família confortável, tudo personalizado para a sua vida e apresentado em linguagem simples. Sem anúncios, sem contas, gratuito para usar, com uma atualização Premium opcional. Basta abrir e usar.
+O Solcast vai além da previsão. Ele diz o que vestir, quando levar um guarda-chuva e como manter sua família confortável, tudo personalizado para a sua vida e apresentado em linguagem simples. Sem anúncios, sem contas e gratuito para usar. Basta abrir e usar.
 
 <!--gallery-->
 
@@ -20,7 +20,7 @@ O Solcast vai além da previsão. Ele diz o que vestir, quando levar um guarda-c
   <span class="marketing-chip">Respostas, não números</span>
   <span class="marketing-chip">16 índices de estilo de vida</span>
   <span class="marketing-chip">Sem anúncios ou contas</span>
-  <span class="marketing-chip">Grátis com opção Premium</span>
+  <span class="marketing-chip">Grátis para usar</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Solcast at a glance">
@@ -182,29 +182,21 @@ O Solcast vai além da previsão. Ele diz o que vestir, quando levar um guarda-c
 
 <section class="marketing-band" aria-labelledby="sc-offer-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Preços e planos</p>
-    <h2 id="sc-offer-title" class="marketing-section-title">Grátis para usar. Faça upgrade quando quiser mais.</h2>
+    <p class="marketing-eyebrow">Oferta e confiança</p>
+    <h2 id="sc-offer-title" class="marketing-section-title">Grátis para baixar. Privado por design.</h2>
   </div>
   <div class="marketing-price-grid">
-    <article class="marketing-price-card">
-      <span class="marketing-price-tier">Grátis</span>
-      <h3 class="marketing-price-summary">Tudo o que você precisa para planejar seu dia, sem custo.</h3>
-      <p>Ideal para quem quer orientação de clima clara e personalizada sem anúncios, contas ou paywall no caminho.</p>
-      <ul class="marketing-list">
-        <li>Resumo diário, previsão de 7 dias e faixa horária</li>
-        <li>Todos os 16 índices de estilo de vida e sugestões de roupa</li>
-        <li>Salve várias cidades e comece sem conta</li>
-      </ul>
-    </article>
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Localizações ilimitadas e o quadro completo em um só lugar.</h3>
-      <p>O Premium é para quem acompanha o clima em muitas cidades e quer remover os limites gratuitos de lugares salvos.</p>
-      <ul class="marketing-list">
-        <li>Localizações salvas ilimitadas, cada uma em seu fuso horário local</li>
-        <li>Um upgrade opcional além do aplicativo gratuito</li>
-        <li>Sem anúncios e sem rastreamento, no plano Grátis ou Premium</li>
-      </ul>
+      <span class="marketing-price-tier">Incluído hoje</span>
+      <h3 class="marketing-price-summary">Todos os recursos atuais estão disponíveis sem custo.</h3>
+      <p>O resumo diário, as previsões de 7 dias e por hora, todos os 16 índices de estilo de vida, as sugestões de roupa e os alertas meteorológicos inteligentes, com até 4 cidades salvas e sem conta.</p>
+      <p class="marketing-price-note">Compatível com iPhone e iPad no iOS 18.0 ou posterior.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">Postura de privacidade</span>
+      <h3 class="marketing-price-summary">Sem contas. Sem rastreamento. Sem anúncios.</h3>
+      <p>Suas preferências e personalização ficam no seu dispositivo. As consultas de clima e de lugares enviam apenas coordenadas ou uma consulta de busca, e as consultas de feriados enviam apenas um código de país.</p>
+      <p class="marketing-price-note"><a href="/solcast/privacy/pt/">Ler política de privacidade</a></p>
     </article>
   </div>
 </section>
@@ -213,9 +205,8 @@ O Solcast vai além da previsão. Ele diz o que vestir, quando levar um guarda-c
   <h2 id="sc-next-title">Pronto para planejar cada dia com confiança?</h2>
   <p>Baixe o Solcast e veja seu painel personalizado imediatamente.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/solcast/support/">Visitar suporte</a>
-    <a class="marketing-inline-link" href="/solcast/privacy/">Ler política de privacidade</a>
-    <a class="marketing-inline-link" href="/solcast/terms/pt/">Ler termos de uso</a>
+    <a class="marketing-inline-link" href="/solcast/support/pt/">Visitar suporte</a>
+    <a class="marketing-inline-link" href="/solcast/privacy/pt/">Ler política de privacidade</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

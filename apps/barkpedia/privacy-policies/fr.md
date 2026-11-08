@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/barkpedia/fr/
 ---
 
-**Date d'entrée en vigueur :** 11 avril 2026
+**Date d'entrée en vigueur :** 8 novembre 2026
 
 Barkpedia (« l'Application ») est une application iOS gratuite qui identifie les races de chiens à partir de photos. Votre vie privée est fondamentale dans la conception de cette application. Voici exactement comment vos informations sont traitées.
 
@@ -31,7 +31,7 @@ Barkpedia (« l'Application ») est une application iOS gratuite qui identifie l
 
 ## Comment vos Photos Sont Traitées
 
-L'Application demande l'accès à l'appareil photo et à la photothèque uniquement pour vous permettre de photographier ou de sélectionner des images de chiens pour l'identification de race. Les photos que vous prenez ou sélectionnez sont analysées entièrement sur votre appareil à l'aide de l'intelligence embarquée. **Vos photos ne sont jamais téléchargées sur un serveur.**
+L'Application demande l'accès à l'appareil photo uniquement pour vous permettre de photographier des chiens pour l'identification de race. Pour utiliser une photo existante, l'Application ouvre le sélecteur de photos standard d'iOS. Vous choisissez la photo, et l'Application ne reçoit que cette photo, sans aucun accès au reste de votre photothèque. Les photos que vous prenez ou sélectionnez sont analysées entièrement sur votre appareil à l'aide de l'intelligence embarquée. **Vos photos ne sont jamais téléchargées sur un serveur.**
 
 ## Ce Qui Est Stocké sur votre Appareil
 
@@ -56,7 +56,6 @@ Nous ne vendons, ne louons ni ne partageons aucune donnée utilisateur avec des 
 | Autorisation | Pourquoi Nous la Demandons | Requise ? |
 |--------------|----------------------------|-----------|
 | Appareil photo | Pour photographier des chiens pour l'identification de race | Facultative. Vous pouvez utiliser votre photothèque |
-| Photothèque | Pour sélectionner des photos existantes pour l'identification de race | Facultative. Vous pouvez utiliser l'appareil photo |
 
 **C'est tout.** L'Application ne demande ni n'accède à la localisation, aux contacts, au microphone, au Bluetooth, au suivi (ATT), aux notifications ni à aucune autre autorisation sensible.
 

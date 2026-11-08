@@ -12,7 +12,7 @@ redirect_from:
 
 # Wisse genau, wie du dich kleidest, planst und deinen Tag schützt.
 
-Solcast geht über die Vorhersage hinaus. Es sagt dir, was du anziehen sollst, wann du einen Regenschirm mitnehmen musst und wie du deine Familie bequem hältst, alles auf dein Leben personalisiert und in verständlicher Sprache geliefert. Keine Werbung, keine Konten, kostenlos nutzbar, mit optionalem Premium-Upgrade. Einfach öffnen und loslegen.
+Solcast geht über die Vorhersage hinaus. Es sagt dir, was du anziehen sollst, wann du einen Regenschirm mitnehmen musst und wie du deine Familie bequem hältst, alles auf dein Leben personalisiert und in verständlicher Sprache geliefert. Keine Werbung, keine Konten und kostenlos nutzbar. Einfach öffnen und loslegen.
 
 <!--gallery-->
 
@@ -20,7 +20,7 @@ Solcast geht über die Vorhersage hinaus. Es sagt dir, was du anziehen sollst, w
   <span class="marketing-chip">Antworten, keine Zahlen</span>
   <span class="marketing-chip">16 Lifestyle-Indizes</span>
   <span class="marketing-chip">Keine Werbung oder Konten</span>
-  <span class="marketing-chip">Kostenlos mit Premium-Option</span>
+  <span class="marketing-chip">Kostenlos nutzbar</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Solcast at a glance">
@@ -182,29 +182,21 @@ Solcast geht über die Vorhersage hinaus. Es sagt dir, was du anziehen sollst, w
 
 <section class="marketing-band" aria-labelledby="sc-offer-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Preise und Stufen</p>
-    <h2 id="sc-offer-title" class="marketing-section-title">Kostenlos nutzbar. Upgrade, wenn du mehr willst.</h2>
+    <p class="marketing-eyebrow">Angebot und Vertrauen</p>
+    <h2 id="sc-offer-title" class="marketing-section-title">Kostenloser Download. Privat durch Design.</h2>
   </div>
   <div class="marketing-price-grid">
-    <article class="marketing-price-card">
-      <span class="marketing-price-tier">Kostenlos</span>
-      <h3 class="marketing-price-summary">Alles, was du brauchst, um deinen Tag zu planen, ohne Kosten.</h3>
-      <p>Ideal für alle, die klare, personalisierte Wetterempfehlungen wollen, ohne Werbung, Konten oder eine Bezahlschranke im Weg.</p>
-      <ul class="marketing-list">
-        <li>Tägliches Briefing, 7-Tage-Vorhersage und Stundenleiste</li>
-        <li>Alle 16 Lifestyle-Indizes und Outfit-Vorschläge</li>
-        <li>Speichere mehrere Städte und starte ohne Konto</li>
-      </ul>
-    </article>
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Unbegrenzte Standorte und das ganze Bild an einem Ort.</h3>
-      <p>Premium ist für Menschen, die das Wetter über viele Städte hinweg verfolgen und die kostenlosen Limits für gespeicherte Orte aufheben möchten.</p>
-      <ul class="marketing-list">
-        <li>Unbegrenzt gespeicherte Standorte, jeder in seiner lokalen Zeitzone</li>
-        <li>Ein optionales Upgrade zusätzlich zur kostenlosen App</li>
-        <li>Keine Werbung und kein Tracking, ob Kostenlos oder Premium</li>
-      </ul>
+      <span class="marketing-price-tier">Heute enthalten</span>
+      <h3 class="marketing-price-summary">Alle aktuellen Funktionen sind ohne Kosten verfügbar.</h3>
+      <p>Das tägliche Briefing, die 7-Tage- und Stundenvorhersage, alle 16 Lifestyle-Indizes, Outfit-Vorschläge und smarte Wetterwarnungen, mit bis zu 4 gespeicherten Städten und ohne Konto.</p>
+      <p class="marketing-price-note">Kompatibel mit iPhone und iPad ab iOS 18.0 oder neuer.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">Datenschutz-Haltung</span>
+      <h3 class="marketing-price-summary">Keine Konten. Kein Tracking. Keine Werbung.</h3>
+      <p>Deine Einstellungen und Personalisierung bleiben auf deinem Gerät. Wetter- und Ortsabfragen senden nur Koordinaten oder eine Suchanfrage, und Feiertagsabfragen senden nur einen Ländercode.</p>
+      <p class="marketing-price-note"><a href="/solcast/privacy/de/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
 </section>
@@ -213,9 +205,8 @@ Solcast geht über die Vorhersage hinaus. Es sagt dir, was du anziehen sollst, w
   <h2 id="sc-next-title">Bereit, jeden Tag mit Zuversicht zu planen?</h2>
   <p>Lade Solcast herunter und sieh dein personalisiertes Dashboard sofort.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/solcast/support/">Support besuchen</a>
-    <a class="marketing-inline-link" href="/solcast/privacy/">Datenschutzrichtlinie lesen</a>
-    <a class="marketing-inline-link" href="/solcast/terms/de/">Nutzungsbedingungen lesen</a>
+    <a class="marketing-inline-link" href="/solcast/support/de/">Support besuchen</a>
+    <a class="marketing-inline-link" href="/solcast/privacy/de/">Datenschutzrichtlinie lesen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

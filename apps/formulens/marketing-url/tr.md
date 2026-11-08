@@ -221,7 +221,7 @@ redirect_from:
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Sunucu yok. Bulut yok. Takip yok.</h3>
       <p>Fotoğraflarınız asla cihazınızdan çıkmaz. Tanıma ve analiz yerel olarak gerçekleşir.</p>
-      <p class="marketing-price-note"><a href="/formulens/privacy/">Gizlilik politikasını okuyun</a></p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/tr/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">FormuLens yalnızca bilgilendirme amaçlıdır ve tıbbi veya dermatolojik tavsiye değildir. İçerik bilgileri eksik olabilir ve sonuçlar etiketin ne kadar net okunduğuna bağlıdır. Alerjiniz, hassas cildiniz veya bir cilt rahatsızlığınız varsa ürün etiketini kontrol edin, yeni ürünlerde yama testi yapın ve bir dermatoloğa veya sağlık uzmanına danışın.</p>
@@ -231,8 +231,8 @@ redirect_from:
   <h2 id="fl-next-title">Etiketleri sizin için yazılmış gibi okumaya hazır mısınız?</h2>
   <p>FormuLens'i indirin ve hemen taramaya başlayın.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/formulens/support/">Desteği ziyaret edin</a>
-    <a class="marketing-inline-link" href="/formulens/privacy/">Gizlilik politikasını okuyun</a>
+    <a class="marketing-inline-link" href="/formulens/support/tr/">Desteği ziyaret edin</a>
+    <a class="marketing-inline-link" href="/formulens/privacy/tr/">Gizlilik politikasını okuyun</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

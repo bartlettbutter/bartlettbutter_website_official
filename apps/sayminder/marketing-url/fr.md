@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "Dites un rappel et il vous parvient à l'heure, même en silencieux, et se lit à voix haute."
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: fr
 permalink: /sayminder/fr/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites quoi et quand, et Sayminder le transcrit, extrait l'heure de vos mots et l'ajoute à votre calendrier. Le moment venu, il vous alerte, même en silencieux ou en mode Concentration, et vous relit le rappel d'une voix naturelle.
+Le rappel le plus rapide est celui que vous prononcez. Touchez le micro, dites quoi et quand, et Sayminder le transcrit, extrait l'heure de vos mots et l'ajoute à votre calendrier. Le moment venu, il vous alerte, même en silencieux ou en mode Concentration, et vous relit le rappel à voix haute si vous ouvrez l'app peu après.
 
 <div class="marketing-chip-row" aria-label="Points forts de Sayminder">
   <span class="marketing-chip">Parlez, n'écrivez pas</span>
   <span class="marketing-chip">Perce le silencieux et Concentration</span>
   <span class="marketing-chip">Lit les rappels à voix haute</span>
-  <span class="marketing-chip">Privé, sur l'appareil</span>
+  <span class="marketing-chip">Privé par conception</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Sayminder en un coup d'œil">
@@ -33,14 +33,14 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
     <span class="marketing-stat-label">les alarmes prioritaires se déclenchent même en silencieux ou en Concentration, jamais ignorées en silence</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100 %</span>
-    <span class="marketing-stat-label">privé et sur l'appareil, sans compte, sans suivi et sans publicité</span>
+    <span class="marketing-stat-value">0 compte</span>
+    <span class="marketing-stat-label">les rappels restent sur votre appareil, sans inscription, sans suivi et sans publicité</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Télécharger dans l'App Store">
     </a>
   </div>
@@ -63,6 +63,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
         <li>« Rappelle-moi de prendre mon médicament ce soir à neuf heures »</li>
         <li>« Dans 20 minutes », « vendredi prochain », « fin du mois »</li>
         <li>Une transcription en direct pendant que vous parlez, modifiable avant l'enregistrement</li>
+        <li>Dites plusieurs choses à la fois et chacune devient son propre rappel</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
     </article>
     <article class="marketing-card">
       <h3>Il vous le relit</h3>
-      <p>Quand un rappel arrive, l'app le prononce à voix haute et confirme à voix haute quand vous en enregistrez un, pour que toute la boucle soit mains libres.</p>
+      <p>Quand un rappel se déclenche alors que l'app est ouverte, ou que vous l'ouvrez peu après, Sayminder le prononce à voix haute. Il confirme aussi à voix haute quand vous en enregistrez un, pour que toute la boucle soit mains libres.</p>
       <ul class="marketing-list">
         <li>« D'accord. Je te rappellerai de… » après l'enregistrement</li>
         <li>Toute ligne de la liste peut être lue à la demande</li>
@@ -88,7 +89,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
       <p>La reconnaissance vocale s'exécute sur l'appareil quand votre langue le permet, et les rappels ne sont stockés que sur votre appareil.</p>
       <ul class="marketing-list">
         <li>Sans compte, sans analytique, sans publicité</li>
-        <li>Rien n'est envoyé où que ce soit pour être traité</li>
+        <li>Les jours fériés optionnels ne partagent qu'un code pays avec le service de jours fériés</li>
         <li>Supprimez l'app et tout part avec elle</li>
       </ul>
     </article>
@@ -108,6 +109,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
       <ul class="marketing-list">
         <li>Titre, notes, date et option de répétition modifiables</li>
         <li>Une heure ponctuelle passée propose de la déplacer à demain</li>
+        <li>Impossible de parler ? Tapez plutôt votre rappel</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
       <p>Une grille mensuelle marque d'un point les jours qui ont des rappels, et un widget d'écran d'accueil et verrouillé garde le prochain sous les yeux.</p>
       <ul class="marketing-list">
         <li>Une couche optionnelle en lecture seule reflète votre calendrier système</li>
+        <li>Jours fériés nationaux optionnels du pays où vous vous trouvez</li>
         <li>Familles de widgets petit, moyen et écran verrouillé</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>Maintenez le micro</h3>
+      <h3>Touchez le micro</h3>
       <p>Un bouton démarre et arrête l'enregistrement, avec une transcription en direct pendant que vous parlez.</p>
     </article>
     <article class="marketing-step">
       <h3>Dites quoi et quand</h3>
-      <p>Sayminder extrait l'heure de la formulation naturelle et utilise le reste comme titre.</p>
+      <p>Sayminder extrait l'heure de la formulation naturelle et utilise le reste comme titre. Pas d'heure ? Touchez Ce soir, Demain matin ou Dans une heure.</p>
     </article>
     <article class="marketing-step">
       <h3>Confirmez ou modifiez</h3>
@@ -149,7 +152,7 @@ Le rappel le plus rapide est celui que vous prononcez. Maintenez le micro, dites
     </article>
     <article class="marketing-step">
       <h3>Il vous parvient</h3>
-      <p>Une alarme prioritaire se déclenche à l'heure, même en silencieux, et lit le rappel à voix haute.</p>
+      <p>Une alarme prioritaire se déclenche à l'heure, même en silencieux ou en Concentration, et Sayminder vous relit le rappel si vous ouvrez l'app peu après.</p>
     </article>
     <article class="marketing-step">
       <h3>Touchez pour effacer</h3>

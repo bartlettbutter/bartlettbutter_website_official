@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "Di un recordatorio y te llegará a tiempo, incluso en silencio, y se lee en voz alta."
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: es
 permalink: /sayminder/es/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di qué y cuándo, y Sayminder lo transcribe, extrae la hora de tus palabras y lo coloca en tu calendario. Cuando llega el momento te avisa, incluso en silencio o en modo Concentración, y te lee el recordatorio con una voz natural.
+El recordatorio más rápido es el que dices. Toca el micrófono, di qué y cuándo, y Sayminder lo transcribe, extrae la hora de tus palabras y lo coloca en tu calendario. Cuando llega el momento te avisa, incluso en silencio o en modo Concentración, y te lee el recordatorio en voz alta si abres la app poco después.
 
 <div class="marketing-chip-row" aria-label="Aspectos destacados de Sayminder">
   <span class="marketing-chip">Habla, no escribas</span>
   <span class="marketing-chip">Atraviesa el silencio y Concentración</span>
   <span class="marketing-chip">Lee los recordatorios en voz alta</span>
-  <span class="marketing-chip">Privado, en el dispositivo</span>
+  <span class="marketing-chip">Privado por diseño</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Sayminder de un vistazo">
@@ -33,14 +33,14 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
     <span class="marketing-stat-label">las alarmas prioritarias suenan incluso en silencio o en Concentración, nunca se descartan sin más</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privado y en el dispositivo, sin cuentas, sin rastreo y sin anuncios</span>
+    <span class="marketing-stat-value">0 cuentas</span>
+    <span class="marketing-stat-label">los recordatorios se quedan en tu dispositivo, sin registro, sin rastreo y sin anuncios</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Descárgalo en el App Store">
     </a>
   </div>
@@ -63,6 +63,7 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
         <li>«Recuérdame tomar la medicina esta noche a las nueve»</li>
         <li>«En 20 minutos», «el próximo viernes», «a fin de mes»</li>
         <li>Transcripción en vivo mientras hablas, editable antes de guardar</li>
+        <li>Di varias cosas a la vez y cada una se convierte en su propio recordatorio</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
     </article>
     <article class="marketing-card">
       <h3>Te lo lee</h3>
-      <p>Cuando llega un recordatorio, la app lo dice en voz alta y confirma en voz alta cuando guardas uno, para que todo el ciclo sea manos libres.</p>
+      <p>Cuando un recordatorio suena con la app abierta, o la abres poco después, Sayminder lo dice en voz alta. También confirma en voz alta cuando guardas uno, para que todo el ciclo sea manos libres.</p>
       <ul class="marketing-list">
         <li>«De acuerdo. Te recordaré que…» después de guardar</li>
         <li>Cualquier fila de la lista se puede leer cuando quieras</li>
@@ -88,7 +89,7 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
       <p>El reconocimiento de voz se ejecuta en el dispositivo cuando tu idioma lo permite, y los recordatorios se guardan solo en tu dispositivo.</p>
       <ul class="marketing-list">
         <li>Sin cuentas, sin analíticas, sin anuncios</li>
-        <li>No se envía nada a ningún lugar para procesarse</li>
+        <li>Los festivos opcionales solo comparten un código de país con el servicio de festivos</li>
         <li>Borra la app y todo se va con ella</li>
       </ul>
     </article>
@@ -104,10 +105,11 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
       <h3>Captura por voz</h3>
-      <p>Mantén pulsado y habla. Sayminder analiza el lenguaje natural y luego muestra el resultado para que lo confirmes o lo edites a mano.</p>
+      <p>Pulsa y habla. Sayminder analiza el lenguaje natural y luego muestra el resultado para que lo confirmes o lo edites a mano.</p>
       <ul class="marketing-list">
         <li>Título, notas, fecha y opción de repetición editables</li>
         <li>Una hora puntual ya pasada te ofrece moverla a mañana</li>
+        <li>¿No puedes hablar ahora? Escríbelo</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
       <p>Una cuadrícula mensual marca con puntos los días con recordatorios, y un widget de pantalla de inicio y bloqueo mantiene el próximo a la vista.</p>
       <ul class="marketing-list">
         <li>Una capa opcional de solo lectura refleja tu calendario del sistema</li>
+        <li>Festivos nacionales opcionales del país en el que estás</li>
         <li>Familias de widgets pequeño, mediano y de pantalla bloqueada</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>Mantén pulsado el micrófono</h3>
+      <h3>Toca el micrófono</h3>
       <p>Un botón inicia y detiene la grabación, con transcripción en vivo mientras hablas.</p>
     </article>
     <article class="marketing-step">
       <h3>Di qué y cuándo</h3>
-      <p>Sayminder extrae la hora del lenguaje natural y usa el resto como título.</p>
+      <p>Sayminder extrae la hora del lenguaje natural y usa el resto como título. ¿Sin hora? Toca Esta noche, Mañana por la mañana o En una hora.</p>
     </article>
     <article class="marketing-step">
       <h3>Confirma o edita</h3>
@@ -149,7 +152,7 @@ El recordatorio más rápido es el que dices. Mantén pulsado el micrófono, di 
     </article>
     <article class="marketing-step">
       <h3>Te llega</h3>
-      <p>Una alarma prioritaria suena a tiempo, incluso en silencio, y lee el recordatorio en voz alta.</p>
+      <p>Una alarma prioritaria suena a tiempo, incluso en silencio o en Concentración, y Sayminder te lee el recordatorio si abres la app poco después.</p>
     </article>
     <article class="marketing-step">
       <h3>Toca para descartar</h3>

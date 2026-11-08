@@ -55,7 +55,7 @@ Ils sont regroupés selon ce qu'un conducteur demande réellement :
 
 ### D'où proviennent les données ?
 
-TrafficVibe s'appuie sur des sources cartographiques, météo et de données publiques fiables et reconnues pour les itinéraires et les estimations d'arrivée, les conditions, les caractéristiques routières à proximité, les jours fériés et les prix du carburant (affichés dans votre devise locale). Votre point et ses évaluations sont assemblés sur votre appareil : rien concernant votre trajet n'est téléversé. Pour savoir exactement ce qui quitte votre appareil et pourquoi, consultez notre [Politique de confidentialité](https://bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe s'appuie sur des sources cartographiques, météo et de données publiques fiables et reconnues pour les itinéraires et les estimations d'arrivée, les conditions, les caractéristiques routières à proximité, les jours fériés et les prix du carburant (affichés dans votre devise locale). Votre point et ses évaluations sont assemblés sur votre appareil : rien concernant votre trajet n'est téléversé. Pour savoir exactement ce qui quitte votre appareil et pourquoi, consultez notre [Politique de confidentialité](https://bartlettbutter.com/trafficvibe/privacy/fr/).
 
 ## Notifications
 
@@ -69,7 +69,7 @@ Définissez vos propres heures de silence et activez la préférence pour les jo
 
 ### Pourquoi mes alertes ne se déclenchent-elles pas ?
 
-TrafficVibe ne s'actualise pas en arrière-plan : il évalue les alertes quand vous ouvrez l'app ou que vous tirez pour actualiser. Assurez-vous que les notifications sont activées dans les Réglages, et que vous n'êtes pas dans vos heures de silence ou une exclusion des jours de semaine uniquement.
+Les rappels de départ sont programmés à l'avance : ils arrivent même quand l'app est fermée, et chaque fois que vous ouvrez TrafficVibe, il programme les suivants. Les alertes de retard et d'incident fonctionnent autrement : TrafficVibe ne s'actualise pas en arrière-plan, il les vérifie donc quand vous ouvrez l'app ou que vous tirez pour actualiser. Assurez-vous que les notifications sont activées dans les Réglages, et que vous n'êtes pas dans vos heures de silence ou une exclusion des jours de semaine uniquement.
 
 ## Villes de trajet
 

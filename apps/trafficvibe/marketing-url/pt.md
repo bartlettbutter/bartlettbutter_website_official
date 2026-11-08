@@ -214,7 +214,7 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
       <span class="marketing-price-tier">Postura de privacidade</span>
       <h3 class="marketing-price-summary">Sem contas na nuvem. Sem rastreamento. Sem anúncios.</h3>
       <p>O TrafficVibe nunca inventa um número e mantém seu trajeto só para você. Não há cadastro nem nada sobre você para coletar.</p>
-      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Ler a política de privacidade</a></p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/pt/">Ler a política de privacidade</a></p>
     </article>
   </div>
 </section>
@@ -223,8 +223,8 @@ Vou agora ou espero? O TrafficVibe responde isso antes de você pegar as chaves:
   <h2 id="tv-next-title">Pronto para saber antes de sair?</h2>
   <p>Baixe o TrafficVibe, leia o resumo desta manhã na hora e comece cada trajeto sabendo exatamente o que vem pela frente.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/trafficvibe/support/">Ir para o suporte</a>
-    <a class="marketing-inline-link" href="/trafficvibe/privacy/">Ler a política de privacidade</a>
+    <a class="marketing-inline-link" href="/trafficvibe/support/pt/">Ir para o suporte</a>
+    <a class="marketing-inline-link" href="/trafficvibe/privacy/pt/">Ler a política de privacidade</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

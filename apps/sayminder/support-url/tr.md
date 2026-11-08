@@ -17,15 +17,15 @@ Sayminder'dan en iyi şekilde yararlanmanızı istiyoruz. Bir şey beklendiği g
 
 ### Uygulamayı nasıl kurarım?
 
-Yalnızca Sayminder'ı açın. Hesap yok, kayıt yok. İlk açılışta sizi duyabilmek ve zamanında ulaşabilmek için mikrofon, konuşma tanıma ve uyarı izinlerini ister. Bunları verin, ardından mikrofonu basılı tutup ilk hatırlatıcınızı söyleyin.
+Yalnızca Sayminder'ı açın. Hesap yok, kayıt yok. Hoş Geldiniz ekranı, hatırlatıcıların size zamanında ulaşabilmesi için uyarıları açmayı önerir; uyarılar isteğe bağlıdır, bu yüzden "Şimdi değil" seçeneğini seçip bunları daha sonra Ayarlar'dan etkinleştirebilirsiniz. Ardından Konuşma ekranı, sizi duyabilmek için mikrofon ve konuşma tanıma erişimi ister. Mikrofona dokunun ve ilk hatırlatıcınızı söyleyin.
 
 ### Nasıl hatırlatıcı oluştururum?
 
-Mikrofon düğmesine dokunun ve konuşun, örneğin: "bana bu akşam dokuzda ilaç almamı hatırlat." Sayminder söylediklerinizi yazıya döker, içinden tarih ve saati okur ve bir onay kartı gösterir. Başlığı, notları, saati ve tekrar seçeneğini gözden geçirin veya düzenleyin, sonra kaydedin. Kısa bir onayı size sesli okur.
+Mikrofon düğmesine dokunun ve konuşun, örneğin: "bana bu akşam dokuzda ilaç almamı hatırlat." Sayminder söylediklerinizi yazıya döker, içinden tarih ve saati okur ve bir onay kartı gösterir. Başlığı, notları, saati ve tekrar seçeneğini gözden geçirin veya düzenleyin, sonra kaydedin. Kısa bir onayı size sesli okur. "Bankayı ara ve süt al" gibi birkaç şeyi aynı anda söyleyin; her biri ayrı bir hatırlatıcı olur. Şu an konuşamıyor musunuz? Bunun yerine yazma alanını kullanın.
 
 ### Ne tür saatler söyleyebilirim?
 
-Bir kişiye söyler gibi söyleyin. Sayminder "20 dakika sonra", "bu akşam 9'da", "önümüzdeki cuma" ve "ay sonu" gibi göreli ifadeleri, ayrıca "3 Aralık" gibi kesin tarihleri anlar. Somut bir saat bulamazsa hatırlatıcıyı varsayılan olarak bir saat sonrasına ayarlar ve onaylayabilmeniz için saati işaretler.
+Bir kişiye söyler gibi söyleyin. Sayminder "20 dakika sonra", "bu akşam 9'da", "önümüzdeki cuma" ve "ay sonu" gibi göreli ifadeleri, ayrıca "3 Aralık" gibi kesin tarihleri anlar. Somut bir saat bulamazsa "Bu akşam", "Yarın sabah" veya "Bir saat sonra" gibi hızlı seçenekler sunar; aksi halde hatırlatıcı varsayılan olarak bir saat sonrasına ayarlanır ve onaylayabilmeniz için saat işaretlenir.
 
 ### Bir hatırlatıcıyı daha sonra nasıl düzenlerim?
 
@@ -39,7 +39,7 @@ Evet. Sayminder'ın indirilmesi ve kullanılması ücretsizdir, reklam da yoktur
 
 ### Sayminder verilerimi topluyor mu?
 
-Hayır. Kullanıcı hesabı, analiz, izleme ve reklam yoktur. Hatırlatıcılar, zamanlama ve metin okuma özelliğinin tümü yerel olarak çalışır ve yalnızca cihazınızda saklanır. Ayrıntılar için tam [Gizlilik Politikası](https://bartlettbutter.com/sayminder/privacy/tr/) belgemize bakın.
+Hayır. Kullanıcı hesabı, analiz, izleme ve reklam yoktur. Hatırlatıcılar, zamanlama ve metin okuma özelliğinin tümü yerel olarak çalışır ve yalnızca cihazınızda saklanır. İsteğe bağlı tatil katmanında Apple yaklaşık konumunuzdan ülkenizi belirler, ardından herkese açık bir tatil hizmetine yalnızca ülke kodu gönderilir. Ayrıntılar için tam [Gizlilik Politikası](https://bartlettbutter.com/sayminder/privacy/tr/) belgemize bakın.
 
 ### Telefonum sessizdeyken veya Odak'tayken hatırlatıcılar çalışır mı?
 
@@ -51,7 +51,7 @@ Evet. Bir hatırlatıcı günlük, haftalık veya aylık olarak tekrarlanabilir.
 
 ### Sayminder hatırlatıcıları sesli okur mu?
 
-Evet. Bir hatırlatıcı tetiklendiğinde uygulama onu sesli söyler ("Hatırlatıcı: …") ve bir hatırlatıcı kaydettiğinizde sesli onaylar. Ayrıca herhangi bir liste satırına dokunarak onu istediğinizde okutabilirsiniz. Sesli okuma, uygulama ön plandayken veya bir uyarıya dokunduğunuzda gerçekleşir.
+Evet. Bir hatırlatıcı uygulama açıkken tetiklendiğinde veya tetiklendikten sonraki 15 dakika içinde uygulamayı açtığınızda Sayminder onu sesli söyler ("Hatırlatıcı: …") ve bir hatırlatıcı kaydettiğinizde sesli onaylar. Ayrıca bekleyen herhangi bir hatırlatıcı satırındaki hoparlör düğmesine dokunarak onu istediğinizde okutabilirsiniz.
 
 ### Uygulamayı açmadan hatırlatıcı oluşturabilir miyim?
 
@@ -61,9 +61,17 @@ Evet. Sayminder bir Uygulama Kısayolu ekler, böylece Siri, Kısayollar veya Sp
 
 Evet, isteğe bağlı olarak. Sistem takvimi etkinliklerinizi Bugünün Özeti'ne, Yaklaşan listesine ve Takvim ızgarasına yansıtmak için Ayarlar'da **Takvim etkinliklerini göster** seçeneğini açın. Bu katman kesinlikle salt okunurdur: Sayminder takvim etkinliklerini asla oluşturmaz, düzenlemez veya silmez. Bu katman siz açana kadar kapalıdır.
 
+### Sayminder resmî tatilleri gösterebilir mi?
+
+Evet, isteğe bağlı olarak. Şu anda bulunduğunuz ülkenin ulusal resmî tatillerini Takvim'de işaretlemek için Ayarlar'da **Ulusal tatilleri göster** seçeneğini açın. Apple yaklaşık konumunuzdan ülkenizi belirler ve herkese açık [Nager.Date](https://date.nager.at) tatil hizmetine yalnızca ülke kodu gönderilir. Bu özellik siz açana kadar kapalıdır.
+
 ### Sayminder iPad'de çalışır mı?
 
 Evet. Sayminder hem iPhone hem de iPad için optimize edilmiştir ve daha büyük ekran için uyarlanabilir bir düzene sahiptir.
+
+### Sayminder hangi dilde kullanılabilir?
+
+Uygulamanın arayüzü ve söylenen zamanları anlama özelliği şu anda İngilizcedir; daha fazla dil planlanmaktadır. Bu destek sitesi birkaç dilde sunulmaktadır.
 
 ## İzinler
 
@@ -73,11 +81,15 @@ Bunlar temel özelliği güçlendirir: bir hatırlatıcıyı sesle yakalamak ve 
 
 ### Sayminder neden alarm ve bildirim izni ister?
 
-Ne alarmlar ne de bildirimler yetkilendirilmemişse bir hatırlatıcı size ulaşamaz. Sayminder, sessiz modu ve Odak'ı aşmak için alarmları, yedek olarak da bildirimleri kullanır. Uyarılar kapalıysa Ayarlar'daki uyarı durumu satırı, bunları yeniden etkinleştirmeniz için size yol gösterir.
+Ne alarmlar ne de bildirimler yetkilendirilmemişse bir hatırlatıcı size ulaşamaz. Sayminder, sessiz modu ve Odak'ı aşmak için alarmları, yedek olarak da bildirimleri kullanır. Uyarılar isteğe bağlıdır ve yalnızca Hoş Geldiniz ekranından veya Ayarlar'dan bunları açmayı seçtiğinizde istenir; uygulama onlar olmadan da kullanılabilir. Uyarılar kapalıysa Ayarlar'daki uyarı durumu satırı, bunları açmanız için size yol gösterir.
 
 ### Takvim izni neden yalnızca bazen görünür?
 
 Salt okunur takvim erişimi, açılışta değil, yalnızca Ayarlar'da **Takvim etkinliklerini göster** seçeneğini açtığınızda gecikmeli olarak istenir.
+
+### Sayminder neden konumumu ister?
+
+Yalnızca Ayarlar'da **Ulusal tatilleri göster** seçeneğini açarsanız. Bulunduğunuz ülkeyi belirleyip o ülkenin tatillerini gösterebilmek için, yalnızca uygulama kullanılırken alınan yaklaşık bir konum kullanılır. Konumunuzun kendisi asla bize veya tatil hizmetine gönderilmez; yalnızca ülke kodu gönderilir.
 
 ## Sorun Giderme
 
@@ -99,7 +111,7 @@ Saati geçmiş tek seferlik bir hatırlatıcı kaydederseniz, onay kartı sizi u
 
 ### Sesli okuma çalınmıyor
 
-Sesli okuma, uygulama ön plandayken veya bir uyarıya dokunduğunuzda çalınır. Cihazınızın medya oynatma için sessize alınmadığından ve başka bir uygulamanın ses oturumunu tutmadığından emin olun.
+Sesli okuma, bir hatırlatıcı uygulama açıkken tetiklendiğinde veya tetiklendikten sonraki 15 dakika içinde uygulamayı açtığınızda çalınır. Cihazınızın medya oynatma için sessize alınmadığından ve başka bir uygulamanın ses oturumunu tutmadığından emin olun.
 
 ### Widget güncellenmiyor
 

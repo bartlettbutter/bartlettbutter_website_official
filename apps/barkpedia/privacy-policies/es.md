@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/barkpedia/es/
 ---
 
-**Fecha de vigencia:** 11 de abril de 2026
+**Fecha de vigencia:** 8 de noviembre de 2026
 
 Barkpedia ("la Aplicación") es una aplicación iOS gratuita que identifica razas de perros a partir de fotos. Tu privacidad es fundamental en el diseño de esta aplicación. Aquí explicamos exactamente cómo se maneja tu información.
 
@@ -31,7 +31,7 @@ Barkpedia ("la Aplicación") es una aplicación iOS gratuita que identifica raza
 
 ## Cómo se Manejan tus Fotos
 
-La Aplicación solicita permisos de cámara y biblioteca de fotos únicamente para permitirte fotografiar o seleccionar imágenes de perros para la identificación de raza. Las fotos que tomas o seleccionas se analizan completamente en tu dispositivo utilizando inteligencia en el dispositivo. **Tus fotos nunca se suben a ningún servidor.**
+La Aplicación solicita el permiso de cámara únicamente para permitirte fotografiar perros para la identificación de raza. Para usar una foto existente, la Aplicación abre el selector de fotos estándar de iOS. Tú eliges la foto y la Aplicación recibe solo esa foto, sin acceso al resto de tu biblioteca de fotos. Las fotos que tomas o seleccionas se analizan completamente en tu dispositivo utilizando inteligencia en el dispositivo. **Tus fotos nunca se suben a ningún servidor.**
 
 ## Qué se Almacena en tu Dispositivo
 
@@ -56,7 +56,6 @@ No vendemos, alquilamos ni compartimos ningún dato de usuario con terceros. No 
 | Permiso | Por Qué lo Solicitamos | ¿Requerido? |
 |---------|----------------------|-------------|
 | Cámara | Para fotografiar perros para la identificación de raza | Opcional. Puedes usar tu biblioteca de fotos |
-| Biblioteca de Fotos | Para seleccionar fotos existentes para la identificación de raza | Opcional. Puedes usar la cámara |
 
 **Eso es todo.** La Aplicación no solicita ni accede a ubicación, contactos, micrófono, Bluetooth, rastreo (ATT), notificaciones ni ningún otro permiso sensible.
 

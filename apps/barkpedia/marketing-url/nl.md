@@ -26,7 +26,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">hondenrassen met rijke, AKC-achtige profielen die je kunt doorzoeken en verkennen</span>
+    <span class="marketing-stat-label">hondenrassen met rijke profielen die je kunt doorzoeken en verkennen</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
     </article>
     <article class="marketing-card">
       <h3>Profielen die het lezen waard zijn</h3>
-      <p>Elk ras opent een AKC-achtig profiel dat uitlegt hoe de hond werkelijk is, niet alleen hoe hij heet.</p>
+      <p>Elk ras opent een uitgebreid profiel dat uitlegt hoe de hond werkelijk is, niet alleen hoe hij heet.</p>
       <ul class="marketing-list">
         <li>Temperament, levensduur, gewicht en hoogte in één oogopslag</li>
         <li>Land van herkomst en de geschiedenis van het ras</li>
@@ -195,7 +195,7 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen uploads. Geen accounts. Geen tracking.</h3>
       <p>Je foto's verlaten nooit je apparaat. Rasherkenning gebeurt volledig op je apparaat, terwijl rasprofielen en quizfoto's worden geladen uit openbare bronnen over hondenrassen, zonder persoonsgegevens.</p>
-      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Privacybeleid lezen</a></p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/nl/">Privacybeleid lezen</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Maak een foto van een willekeurige hond en Barkpedia noemt het ras, en opent daa
   <h2 id="bp-next-title">Klaar om elke hond die je ontmoet een naam te geven?</h2>
   <p>Download Barkpedia, begin direct met scannen en houd de rest van de rassenwereld bij de hand wanneer de nieuwsgierigheid toeslaat.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/barkpedia/support/">Ondersteuning bezoeken</a>
-    <a class="marketing-inline-link" href="/barkpedia/privacy/">Privacybeleid lezen</a>
+    <a class="marketing-inline-link" href="/barkpedia/support/nl/">Ondersteuning bezoeken</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/nl/">Privacybeleid lezen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

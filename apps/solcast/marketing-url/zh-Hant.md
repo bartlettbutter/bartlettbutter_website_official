@@ -12,7 +12,7 @@ redirect_from:
 
 # 準確知道如何著裝、規劃和保護您的一天。
 
-Solcast超越了單純的預報。它告訴您該穿什麼、何時帶傘，以及如何讓家人保持舒適，全部根據您的生活個性化定製，並以通俗易懂的語言呈現。沒有廣告，沒有賬戶，免費使用，並提供可選的Premium升級。只需開啟即可使用。
+Solcast超越了單純的預報。它告訴您該穿什麼、何時帶傘，以及如何讓家人保持舒適，全部根據您的生活個性化定製，並以通俗易懂的語言呈現。沒有廣告，沒有賬戶，免費使用。只需開啟即可使用。
 
 <!--gallery-->
 
@@ -20,7 +20,7 @@ Solcast超越了單純的預報。它告訴您該穿什麼、何時帶傘，以�
   <span class="marketing-chip">給答案，而非數字</span>
   <span class="marketing-chip">16項生活方式指數</span>
   <span class="marketing-chip">無廣告無賬戶</span>
-  <span class="marketing-chip">免費並提供Premium選項</span>
+  <span class="marketing-chip">免費使用</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Solcast at a glance">
@@ -182,29 +182,21 @@ Solcast超越了單純的預報。它告訴您該穿什麼、何時帶傘，以�
 
 <section class="marketing-band" aria-labelledby="sc-offer-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">價格與方案</p>
-    <h2 id="sc-offer-title" class="marketing-section-title">免費使用。想要更多時再升級。</h2>
+    <p class="marketing-eyebrow">產品與信任</p>
+    <h2 id="sc-offer-title" class="marketing-section-title">免費下載。設計即私密。</h2>
   </div>
   <div class="marketing-price-grid">
-    <article class="marketing-price-card">
-      <span class="marketing-price-tier">免費</span>
-      <h3 class="marketing-price-summary">規劃一天所需的一切，全部免費。</h3>
-      <p>非常適合任何想要清晰、個性化天氣指導的人，沒有廣告、賬戶或付費牆擋在路上。</p>
-      <ul class="marketing-list">
-        <li>每日簡報、7天預報和每小時條</li>
-        <li>全部16項生活方式指數和穿搭推薦</li>
-        <li>儲存多個城市，無需賬戶即可開始</li>
-      </ul>
-    </article>
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">無限地點，全貌盡在一處。</h3>
-      <p>Premium適合關注眾多城市天氣、並希望解除免費版儲存地點限制的人。</p>
-      <ul class="marketing-list">
-        <li>無限儲存地點，每個都以其當地時區顯示</li>
-        <li>在免費應用之上的一項可選升級</li>
-        <li>無論免費版還是Premium，都無廣告無追蹤</li>
-      </ul>
+      <span class="marketing-price-tier">今日即享</span>
+      <h3 class="marketing-price-summary">目前所有功能均可免費使用。</h3>
+      <p>每日簡報、7天和每小時預報、全部16項生活方式指數、穿搭推薦以及智慧天氣提醒，最多可儲存4個城市，無需賬戶。</p>
+      <p class="marketing-price-note">相容於 iOS 18.0 或更高版本的 iPhone 和 iPad。</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">隱私姿態</span>
+      <h3 class="marketing-price-summary">無需帳戶。沒有追蹤。沒有廣告。</h3>
+      <p>您的偏好設定和個人化內容保留在您的裝置上。天氣和地點查詢僅傳送座標或搜尋查詢，假日查詢僅傳送國家代碼。</p>
+      <p class="marketing-price-note"><a href="/solcast/privacy/zh-Hant/">閱讀隱私政策</a></p>
     </article>
   </div>
 </section>
@@ -213,9 +205,8 @@ Solcast超越了單純的預報。它告訴您該穿什麼、何時帶傘，以�
   <h2 id="sc-next-title">準備好滿懷信心地規劃每一天了嗎？</h2>
   <p>下載Solcast，立即檢視您的個性化儀表板。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/solcast/support/">訪問支援</a>
-    <a class="marketing-inline-link" href="/solcast/privacy/">閱讀隱私政策</a>
-    <a class="marketing-inline-link" href="/solcast/terms/zh-Hant/">閱讀使用條款</a>
+    <a class="marketing-inline-link" href="/solcast/support/zh-Hant/">訪問支援</a>
+    <a class="marketing-inline-link" href="/solcast/privacy/zh-Hant/">閱讀隱私政策</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

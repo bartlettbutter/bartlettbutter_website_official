@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/sayminder/tr/
 ---
 
-**Yürürlük Tarihi:** 27 Eylül 2026
+**Yürürlük Tarihi:** 8 Kasım 2026
 
 Sayminder ("Uygulama"), iPhone ve iPad için ücretsiz, sese öncelik veren bir hatırlatıcı uygulamasıdır. Gizlilik, onu geliştirme biçimimizin merkezindedir. Bu politika, Sayminder'ı kullanırken hangi verilerin söz konusu olduğunu ve daha da önemlisi hangilerinin olmadığını tam olarak açıklar.
 
@@ -45,6 +45,10 @@ Oluşturduğunuz hatırlatıcılar (başlıkları, notları, saatleri, tekrarlar
 
 **Takvim etkinliklerini göster** seçeneğini açarsanız, uygulama sistem takviminizdeki etkinlikleri okuyarak hatırlatıcılarınızın yanında görüntüler. Bu erişim salt okunurdur: Sayminder asla takvim etkinliği oluşturmaz, düzenlemez veya silmez. Etkinlikler ajandayı görüntülemek için yalnızca cihazınızda okunur. Bu katman, siz etkinleştirene kadar kapalıdır.
 
+### Ulusal Tatiller (İsteğe Bağlı, Konum)
+
+**Ulusal tatilleri göster** seçeneğini açarsanız, uygulama "uygulama kullanılırken" konum izni ister ve uygulama açıldığında veya ön plana döndüğünde kaba (yaklaşık kilometre hassasiyetinde) bir konum belirler. Apple'ın MapKit'i bu konumu bir ülkeye çözümler; bu nedenle koordinatlar bu sorgu için Apple'a gönderilir ve [Apple'ın Gizlilik Politikası](https://www.apple.com/legal/privacy/) kapsamında işlenir. Sayminder ardından o ülkenin ulusal tatillerini almak için herkese açık [Nager.Date](https://date.nager.at) tatil hizmetine yalnızca iki harfli ülke kodunu (örneğin "DE") gönderir. Koordinatlarınız asla bize veya tatil hizmetine gönderilmez ve tatil listesi yalnızca bellekte tutulur. Bu katman, siz etkinleştirene kadar kapalıdır.
+
 ### Planlama ve Metin Okuma
 
 Alarmlar, bildirimler ve sesli geri okuma işlemlerinin tamamı, cihazınızda işletim sisteminin çerçeveleri tarafından gerçekleştirilir. Hiçbir planlama verisi veya seslendirilen metin herhangi bir yere gönderilmez.
@@ -57,18 +61,19 @@ Sayminder aşağıdaki izinleri ister:
 |------------|---------|
 | **Mikrofon** | Bir hatırlatıcı oluşturulabilmesi için sesinizi yakalamak |
 | **Konuşma Tanıma** | Konuşmanızı hatırlatıcı metnine deşifre etmek |
-| **Bildirimler / Alarmlar** | Hatırlatıcı saatinde sizi uyarmak |
+| **Bildirimler / Alarmlar (isteğe bağlı)** | Yalnızca uyarıları açarsanız hatırlatıcı saatinde sizi uyarmak |
 | **Takvim (salt okunur, isteğe bağlı)** | Yalnızca etkinleştirirseniz mevcut etkinliklerinizi hatırlatıcıların yanında göstermek |
+| **Konum (kullanılırken, isteğe bağlı)** | Yalnızca etkinleştirirseniz, ulusal tatillerini göstermek için bulunduğunuz ülkeyi belirlemek |
 
-Başka hiçbir izin istenmez: kamera, kişiler, fotoğraflar, sağlık verileri veya konum istenmez.
+Başka hiçbir izin istenmez: kamera, kişiler, fotoğraflar veya sağlık verileri istenmez.
 
 ## Üçüncü Taraf Hizmetleri
 
-Sayminder herhangi bir üçüncü taraf analiz, reklam veya izleme hizmetini entegre etmez. Konuşma tanıma, Apple'ın cihaz üzerindeki ve sistem konuşma tanıma çerçevelerini kullanır; planlama ve metin okuma, Apple'ın sistem çerçevelerini kullanır. Bunlar cihazınızda işletim sisteminin bir parçası olarak çalışır.
+Sayminder herhangi bir üçüncü taraf analiz, reklam veya izleme hizmetini entegre etmez. Konuşma tanıma, Apple'ın cihaz üzerindeki ve sistem konuşma tanıma çerçevelerini kullanır; planlama ve metin okuma, Apple'ın sistem çerçevelerini kullanır. Bunlar cihazınızda işletim sisteminin bir parçası olarak çalışır. İsteğe bağlı tatil katmanı, ülkenizi belirlemek için Apple'ın MapKit'ini, tatilleri sorgulamak için de herkese açık Nager.Date hizmetini kullanır; Nager.Date yalnızca bir ülke kodu alır.
 
 ## Veri Paylaşımı
 
-Verilerinizi kimseye satmaz, kiralamaz, lisanslamaz veya paylaşmayız. Sayminder hatırlatıcılarınızı, sesinizi, deşifre metinlerinizi veya takvim verilerinizi ileten hiçbir ağ trafiği oluşturmaz.
+Verilerinizi kimseye satmaz, kiralamaz, lisanslamaz veya paylaşmayız. Sayminder hatırlatıcılarınızı, sesinizi, deşifre metinlerinizi veya takvim verilerinizi ileten hiçbir ağ trafiği oluşturmaz. İletişim kurduğu tek üçüncü taraf hizmet, yukarıda açıklanan isteğe bağlı tatil sorgusu için Nager.Date'tir ve bu hizmet yalnızca bir ülke kodu alır.
 
 ## Verilerin Saklanması ve Silinmesi
 

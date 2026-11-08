@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/barkpedia/tr/
 ---
 
-**Yürürlük Tarihi:** 11 Nisan 2026
+**Yürürlük Tarihi:** 8 Kasım 2026
 
 Barkpedia ("Uygulama"), fotoğraflardan köpek ırklarını tanımlayan ücretsiz bir iOS uygulamasıdır. Gizliliğiniz, bu uygulamayı nasıl geliştirdiğimizin temelini oluşturur. Bilgilerinizin tam olarak nasıl ele alındığı aşağıda açıklanmıştır.
 
@@ -31,7 +31,7 @@ Barkpedia ("Uygulama"), fotoğraflardan köpek ırklarını tanımlayan ücretsi
 
 ## Fotoğraflarınız Nasıl Ele Alınır
 
-Uygulama, ırk tanımlaması için köpek görüntülerini fotoğraflamanıza veya seçmenize olanak tanımak amacıyla yalnızca kamera ve fotoğraf kitaplığı izinlerini ister. Çektiğiniz veya seçtiğiniz fotoğraflar, cihaz üzerindeki zeka kullanılarak tamamen cihazınızda analiz edilir. **Fotoğraflarınız hiçbir zaman hiçbir sunucuya yüklenmez.**
+Uygulama, ırk tanımlaması için köpekleri fotoğraflamanıza olanak tanımak amacıyla yalnızca kamera iznini ister. Mevcut bir fotoğrafı kullanmak için Uygulama standart iOS fotoğraf seçicisini açar. Fotoğrafı siz seçersiniz ve Uygulama yalnızca o fotoğrafı alır, fotoğraf kitaplığınızın geri kalanına erişemez. Çektiğiniz veya seçtiğiniz fotoğraflar, cihaz üzerindeki zeka kullanılarak tamamen cihazınızda analiz edilir. **Fotoğraflarınız hiçbir zaman hiçbir sunucuya yüklenmez.**
 
 ## Cihazınızda Neler Saklanır
 
@@ -56,7 +56,6 @@ Hiçbir kullanıcı verisini üçüncü taraflarla satmıyor, kiralamıyor veya 
 | İzin | Neden İstiyoruz | Gerekli mi? |
 |------|-----------------|-------------|
 | Kamera | Irk tanımlaması için köpekleri fotoğraflamak amacıyla | İsteğe bağlı. Bunun yerine fotoğraf kitaplığınızı kullanabilirsiniz |
-| Fotoğraf Kitaplığı | Irk tanımlaması için mevcut fotoğrafları seçmek amacıyla | İsteğe bağlı. Bunun yerine kamerayı kullanabilirsiniz |
 
 **Hepsi bu.** Uygulama konum, kişiler, mikrofon, Bluetooth, izleme (ATT), bildirimler veya başka herhangi bir hassas izni istemez veya bunlara erişmez.
 

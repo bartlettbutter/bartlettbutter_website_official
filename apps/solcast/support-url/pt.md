@@ -31,17 +31,17 @@ Cada alteração entra em vigor imediatamente, sem necessidade de recarregar.
 
 ### Como gerencio localizações?
 
-Você pode salvar até 4 localizações no plano gratuito (ilimitadas com Premium). Use o seletor de localização no painel para alternar entre elas, ou toque no ícone de busca para adicionar uma nova cidade. Cada localização exibe o clima em seu próprio fuso horário local, então os horários (nascer do sol, pôr do sol, previsão por hora) são sempre relevantes para aquela cidade.
+Você pode salvar até 4 localizações. Use o seletor de localização no painel para alternar entre elas, ou toque no ícone de busca para adicionar uma nova cidade. Cada localização exibe o clima em seu próprio fuso horário local, então os horários (nascer do sol, pôr do sol, previsão por hora) são sempre relevantes para aquela cidade.
 
 ## Perguntas Frequentes
 
 ### O Solcast é gratuito?
 
-Sim. O Solcast é gratuito para baixar e a experiência meteorológica completa (previsões, sugestões de roupa, resumo diário, todos os 16 índices de estilo de vida e alertas meteorológicos inteligentes) é gratuita, sem anúncios. Uma assinatura Premium opcional adiciona lembretes pessoais e amplia o limite de cidades salvas; todo o resto é gratuito. Consulte os [Termos de Uso](/solcast/terms/pt/) para saber como as assinaturas são cobradas e canceladas.
+Sim. O Solcast é gratuito para baixar e todos os recursos atuais, incluindo previsões, sugestões de roupa, o resumo diário, todos os 16 índices de estilo de vida e alertas meteorológicos inteligentes, estão disponíveis sem custo, sem anúncios e sem conta. Podemos introduzir recursos premium opcionais no futuro.
 
 ### O Solcast coleta meus dados?
 
-Não. Não há contas de usuário, análises, rastreamento ou publicidade. Todas as suas preferências permanecem no seu dispositivo. Consulte nossa [Política de Privacidade](https://bartlettbutter.com/solcast/privacy/) completa para mais detalhes.
+Não. Não há contas de usuário, análises, rastreamento ou publicidade. Todas as suas preferências permanecem no seu dispositivo. Consulte nossa [Política de Privacidade](https://bartlettbutter.com/solcast/privacy/pt/) completa para mais detalhes.
 
 ### Preciso de conexão com a internet?
 
@@ -71,7 +71,7 @@ A localização (Ao Usar) é usada para buscar dados precisos de clima, qualidad
 
 ### O Solcast acessa minha câmera, contatos ou qualquer outra coisa?
 
-Não. O Solcast solicita apenas a permissão de localização. Ele não acessa sua câmera, fotos, contatos, microfone, dados de saúde ou qualquer outra informação.
+Não. Além da localização, o Solcast pede apenas permissão para enviar notificações, que usa para os alertas meteorológicos inteligentes. Ele não acessa sua câmera, fotos, contatos, microfone, dados de saúde ou qualquer outra informação.
 
 ## Solução de Problemas
 

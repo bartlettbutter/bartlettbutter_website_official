@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-**Fecha de vigencia:** 13 de junio de 2026
+**Fecha de vigencia:** 8 de noviembre de 2026
 
 Nekopedia ("la Aplicación") es una aplicación iOS gratuita que identifica razas de gatos a partir de fotos. La privacidad no es algo secundario aquí, es la forma en que se construyó la Aplicación desde el primer día. Esta política explica, en lenguaje sencillo, exactamente cómo se maneja tu información. La respuesta corta: se queda contigo.
 
@@ -34,7 +34,7 @@ Ninguno. No recopilamos, almacenamos ni transmitimos ningún dato personal. La A
 
 ## Fotos y Acceso a la Cámara/Biblioteca
 
-La Aplicación solicita permisos de cámara y biblioteca de fotos únicamente para permitirte fotografiar o seleccionar imágenes de gatos para la identificación de raza. Las fotos que tomas o seleccionas se analizan completamente en tu dispositivo utilizando inteligencia en el dispositivo. Tus fotos nunca se suben a ningún servidor.
+La Aplicación solicita el permiso de cámara únicamente para permitirte fotografiar gatos para la identificación de raza. Para usar una foto existente, la Aplicación abre el selector de fotos estándar de iOS. Tú eliges la foto y la Aplicación recibe solo esa foto, sin acceso al resto de tu biblioteca de fotos. Las fotos que tomas o seleccionas se analizan completamente en tu dispositivo utilizando inteligencia en el dispositivo. Tus fotos nunca se suben a ningún servidor.
 
 ## Datos Almacenados Localmente
 
@@ -55,7 +55,6 @@ No vendemos, alquilamos ni compartimos ningún dato de usuario con terceros. No 
 | Permiso | Por Qué lo Solicitamos | ¿Requerido? |
 |---------|----------------------|-------------|
 | Cámara | Para fotografiar gatos para la identificación de raza | Opcional (puedes usar tu biblioteca de fotos) |
-| Biblioteca de Fotos | Para seleccionar fotos existentes para la identificación de raza | Opcional (puedes usar la cámara) |
 
 No se solicitan ni acceden otros permisos. La Aplicación no utiliza ubicación, contactos, micrófono, rastreo, notificaciones ni ningún otro acceso sensible.
 

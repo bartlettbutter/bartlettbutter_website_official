@@ -53,7 +53,7 @@ Screener, 480'den fazla ETF'yi sizin belirlediğiniz kurallara göre filtreler. 
 
 ### Aboneliğimi nasıl yönetir, iptal eder veya geri yüklerim?
 
-Yönetmek veya iptal etmek için ETFWise'da Ayarlar'ı açıp Premium bannerında Yönet'e dokunun ya da cihazınızın Ayarlar > Apple Hesabı > Abonelikler bölümüne gidin. Abonelikler, mevcut dönemin bitiminden en az 24 saat önce iptal edilmedikçe otomatik olarak yenilenir. Premium'u yeni bir cihazda veya yeniden yüklemeden sonra geri yüklemek için plan ekranında ya da Ayarlar'da, aynı Apple Hesabıyla Satın Alımları Geri Yükle'ye dokunun. İade talepleri Apple tarafından ele alınır.
+Yönetmek veya iptal etmek için ETFWise'da Ayarlar'ı açıp Premium bannerında Yönet'e dokunun ya da cihazınızın Ayarlar > Apple Hesabı > Abonelikler bölümüne gidin. Abonelikler, mevcut dönemin bitiminden en az 24 saat önce iptal edilmedikçe otomatik olarak yenilenir. Premium'u yeni bir cihazda veya yeniden yüklemeden sonra geri yüklemek için plan ekranında ya da Ayarlar'da, aynı Apple Hesabıyla Satın Alımları Geri Yükle'ye dokunun. İade talepleri Apple tarafından ele alınır. Tüm abonelik ayrıntıları için [Kullanım Koşulları](/etfwise/terms/tr/) sayfasına bakın.
 
 ### Yükseliş ve risk senaryoları nasıl oluşturulur?
 
@@ -65,11 +65,11 @@ Uygulama, her ETF için yakın tarihli haber makalelerini analiz eder ve pozitif
 
 ### Belirli bir ETF arayabilir miyim?
 
-Evet. Herhangi bir ETF'yi hisse sembolü veya adıyla bulmak için arama çubuğunu kullanın. Arama, 200'den fazla özenle seçilmiş ETF dahil 480'den fazla ETF'yi ve ek fonlardan oluşan genişletilmiş bir kitaplığı kapsar.
+Evet. Herhangi bir ETF'yi hisse sembolüyle bulmak için arama çubuğunu kullanın. Arama, 200'den fazla özenle seçilmiş ETF dahil 480'den fazla ETF'yi ve ek fonlardan oluşan genişletilmiş bir kitaplığı kapsar.
 
 ### Verilerim gizli mi?
 
-Evet. Hesap yok, analiz yok, izleme yok. Finansal veri sağlayıcılarına yalnızca hisse sembolleri gönderilir. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/etfwise/privacy/) bakın.
+Evet. Hesap yok, analiz yok, izleme yok. Finansal veri sağlayıcılarına yalnızca hisse sembolleri ve tarih aralıkları gönderilir. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/etfwise/privacy/tr/) bakın.
 
 ### Uygulamayı silersem ne olur?
 

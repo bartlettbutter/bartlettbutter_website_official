@@ -17,15 +17,15 @@ We willen dat je het meeste uit Sayminder haalt. Als iets niet werkt zoals verwa
 
 ### Hoe stel ik de app in?
 
-Open gewoon Sayminder. Er is geen account en geen registratie. Bij de eerste start vraagt de app toestemming voor microfoon, spraakherkenning en meldingen, zodat hij je kan horen en op tijd kan bereiken. Verleen ze, houd vervolgens de microfoon ingedrukt en spreek je eerste herinnering in.
+Open gewoon Sayminder. Er is geen account en geen registratie. Het welkomstscherm biedt aan waarschuwingen in te schakelen zodat herinneringen je op tijd kunnen bereiken; waarschuwingen zijn optioneel, dus je kunt Niet nu kiezen en ze later inschakelen bij Instellingen. Het spreekscherm vraagt daarna toegang tot microfoon en spraakherkenning, zodat de app je kan horen. Tik op de microfoon en spreek je eerste herinnering in.
 
 ### Hoe maak ik een herinnering?
 
-Tik op de microfoonknop en spreek, bijvoorbeeld: "herinner me eraan vanavond om negen uur mijn medicijn in te nemen." Sayminder transcribeert je woorden, leest daaruit de datum en tijd af en toont een bevestigingskaart. Bekijk of bewerk de titel, notities, tijd en herhaaloptie en bewaar daarna. De app leest je een korte bevestiging voor.
+Tik op de microfoonknop en spreek, bijvoorbeeld: "herinner me eraan vanavond om negen uur mijn medicijn in te nemen." Sayminder transcribeert je woorden, leest daaruit de datum en tijd af en toont een bevestigingskaart. Bekijk of bewerk de titel, notities, tijd en herhaaloptie en bewaar daarna. De app leest je een korte bevestiging voor. Zeg meerdere dingen tegelijk, zoals "bel de bank en haal melk", en elk wordt een eigen herinnering. Kun je nu niet praten? Gebruik dan het typveld.
 
 ### Wat voor soort tijden kan ik zeggen?
 
-Zeg het zoals je het tegen een persoon zou zeggen. Sayminder begrijpt relatieve uitdrukkingen zoals "over 20 minuten", "vanavond om 9 uur", "volgende vrijdag" en "eind van de maand", evenals absolute data zoals "3 december". Als er geen concrete tijd wordt gevonden, stelt de app de herinnering standaard in op over een uur en markeert de tijd zodat je die kunt bevestigen.
+Zeg het zoals je het tegen een persoon zou zeggen. Sayminder begrijpt relatieve uitdrukkingen zoals "over 20 minuten", "vanavond om 9 uur", "volgende vrijdag" en "eind van de maand", evenals absolute data zoals "3 december". Als er geen concrete tijd wordt gevonden, biedt de app snelle keuzes zoals Vanavond, Morgenochtend of Over een uur; anders wordt de herinnering standaard ingesteld op over een uur en wordt de tijd gemarkeerd zodat je die kunt bevestigen.
 
 ### Hoe bewerk ik een herinnering later?
 
@@ -39,7 +39,7 @@ Ja. Sayminder is gratis te downloaden en te gebruiken, zonder advertenties. In d
 
 ### Verzamelt Sayminder mijn gegevens?
 
-Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Herinneringen, planning en tekst-naar-spraak draaien allemaal lokaal en worden alleen op je apparaat bewaard. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/sayminder/privacy/nl/) voor details.
+Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Herinneringen, planning en tekst-naar-spraak draaien allemaal lokaal en worden alleen op je apparaat bewaard. Bij de optionele feestdagenlaag zet Apple je geschatte locatie om in een land, waarna alleen de landcode naar een openbare feestdagendienst wordt gestuurd. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/sayminder/privacy/nl/) voor details.
 
 ### Werken herinneringen wanneer mijn telefoon op stil staat of in Focus?
 
@@ -51,7 +51,7 @@ Ja. Een herinnering kan dagelijks, wekelijks of maandelijks worden herhaald. Her
 
 ### Leest Sayminder herinneringen hardop voor?
 
-Ja. Wanneer een herinnering afgaat, spreekt de app deze hardop uit ("Herinnering: …"), en hij bevestigt hardop wanneer je er een bewaart. Je kunt ook op een willekeurige lijstrij tikken om die op verzoek te laten voorlezen. Het hardop voorlezen gebeurt terwijl de app op de voorgrond staat of wanneer je op een melding tikt.
+Ja. Wanneer een herinnering afgaat terwijl de app open is, of wanneer je de app binnen 15 minuten nadat die is afgegaan opent, spreekt Sayminder deze hardop uit ("Herinnering: …"), en de app bevestigt hardop wanneer je er een bewaart. Je kunt ook op de luidsprekerknop van een openstaande herinneringsrij tikken om die op verzoek te laten voorlezen.
 
 ### Kan ik een herinnering maken zonder de app te openen?
 
@@ -61,9 +61,17 @@ Ja. Sayminder voegt een App-opdracht toe, zodat je met je stem een herinnering k
 
 Ja, optioneel. Schakel **Toon agenda-activiteiten** in bij Instellingen om de activiteiten van je systeemagenda te spiegelen naar het Dagoverzicht, de lijst Aankomend en het Kalenderraster. Deze laag is strikt alleen-lezen: Sayminder maakt, bewerkt of verwijdert nooit agenda-activiteiten. De laag staat uit totdat je hem inschakelt.
 
+### Kan Sayminder officiële feestdagen tonen?
+
+Ja, optioneel. Schakel **Toon nationale feestdagen** in bij Instellingen om de nationale feestdagen van het land waar je nu bent in de Kalender te markeren. Apple zet je geschatte locatie om in een land, en alleen de landcode wordt naar de openbare feestdagendienst [Nager.Date](https://date.nager.at) gestuurd. Het staat uit totdat je het inschakelt.
+
 ### Werkt Sayminder op de iPad?
 
 Ja. Sayminder is geoptimaliseerd voor zowel iPhone als iPad, met een aanpasbare lay-out voor het grotere scherm.
+
+### In welke taal is Sayminder beschikbaar?
+
+De interface van de app en het begrijpen van gesproken tijden zijn momenteel in het Engels, en er zijn meer talen gepland. Deze supportsite is in meerdere talen beschikbaar.
 
 ## Toestemmingen
 
@@ -73,11 +81,15 @@ Ze vormen de basis van de kernfunctie: een herinnering met je stem vastleggen en
 
 ### Waarom vraagt Sayminder om toestemming voor wekker en meldingen?
 
-Een herinnering kan je niet bereiken als noch wekkers noch meldingen zijn geautoriseerd. Sayminder gebruikt wekkers om door de stille modus en Focus heen te breken, en meldingen als terugvaloptie. Als waarschuwingen uit staan, begeleidt de waarschuwingsstatusrij in Instellingen je om ze opnieuw in te schakelen.
+Een herinnering kan je niet bereiken als noch wekkers noch meldingen zijn geautoriseerd. Sayminder gebruikt wekkers om door de stille modus en Focus heen te breken, en meldingen als terugvaloptie. Waarschuwingen zijn optioneel en worden alleen gevraagd wanneer je ervoor kiest ze in te schakelen, via het welkomstscherm of Instellingen; de app blijft zonder bruikbaar. Als waarschuwingen uit staan, begeleidt de waarschuwingsstatusrij in Instellingen je om ze in te schakelen.
 
 ### Waarom verschijnt de agendatoestemming maar soms?
 
 Alleen-lezen toegang tot de agenda wordt uitgesteld aangevraagd, alleen wanneer je **Toon agenda-activiteiten** inschakelt bij Instellingen, in plaats van bij de start.
+
+### Waarom vraagt Sayminder om mijn locatie?
+
+Alleen als je **Toon nationale feestdagen** inschakelt bij Instellingen. Een grove locatiebepaling tijdens gebruik wordt gebruikt om te bepalen in welk land je bent, zodat de feestdagen van dat land kunnen worden getoond. Je locatie zelf wordt nooit naar ons of naar de feestdagendienst gestuurd; alleen de landcode.
 
 ## Problemen oplossen
 
@@ -99,7 +111,7 @@ Als je een eenmalige herinnering bewaart waarvan de tijd verstreken is, waarschu
 
 ### Het hardop voorlezen speelt niet af
 
-Het voorlezen speelt af terwijl de app op de voorgrond staat of wanneer je op een melding tikt. Zorg dat je apparaat niet gedempt is voor mediaweergave en dat geen andere app de audiosessie vasthoudt.
+Het voorlezen speelt af wanneer een herinnering afgaat terwijl de app open is, of wanneer je de app binnen 15 minuten nadat die is afgegaan opent. Zorg dat je apparaat niet gedempt is voor mediaweergave en dat geen andere app de audiosessie vasthoudt.
 
 ### De widget werkt niet bij
 

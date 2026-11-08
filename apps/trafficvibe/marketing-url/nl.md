@@ -214,7 +214,7 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen cloudaccounts. Geen tracking. Geen advertenties.</h3>
       <p>TrafficVibe verzint nooit een cijfer en houdt je woon-werkrit voor jou. Er is geen aanmelding en niets over jou om te verzamelen.</p>
-      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Lees het privacybeleid</a></p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/nl/">Lees het privacybeleid</a></p>
     </article>
   </div>
 </section>
@@ -223,8 +223,8 @@ Ga ik nu of wacht ik? TrafficVibe beantwoordt die vraag voordat je je sleutels p
   <h2 id="tv-next-title">Klaar om te weten voordat je gaat?</h2>
   <p>Download TrafficVibe, lees de briefing van vanochtend meteen en begin elke rit met precies te weten wat je te wachten staat.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/trafficvibe/support/">Naar support</a>
-    <a class="marketing-inline-link" href="/trafficvibe/privacy/">Lees het privacybeleid</a>
+    <a class="marketing-inline-link" href="/trafficvibe/support/nl/">Naar support</a>
+    <a class="marketing-inline-link" href="/trafficvibe/privacy/nl/">Lees het privacybeleid</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

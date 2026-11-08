@@ -12,7 +12,7 @@ redirect_from:
 
 # اعرف بالضبط كيف تلبس، وتخطّط، وتحمي يومك.
 
-يتجاوز Solcast مجرّد التوقعات. يخبرك بما ترتديه، ومتى تحمل مظلّة، وكيف تُبقي عائلتك مرتاحة، وكل ذلك مخصّص لحياتك ومُقدَّم بلغة واضحة. لا إعلانات، ولا حسابات، مجاني للاستخدام، مع ترقية Premium اختيارية. افتح فقط وانطلق.
+يتجاوز Solcast مجرّد التوقعات. يخبرك بما ترتديه، ومتى تحمل مظلّة، وكيف تُبقي عائلتك مرتاحة، وكل ذلك مخصّص لحياتك ومُقدَّم بلغة واضحة. لا إعلانات، ولا حسابات، ومجاني للاستخدام. افتح فقط وانطلق.
 
 <!--gallery-->
 
@@ -20,7 +20,7 @@ redirect_from:
   <span class="marketing-chip">إجابات، وليست أرقامًا</span>
   <span class="marketing-chip">16 مؤشرًا لنمط الحياة</span>
   <span class="marketing-chip">لا إعلانات ولا حسابات</span>
-  <span class="marketing-chip">مجاني مع خيار Premium</span>
+  <span class="marketing-chip">مجاني للاستخدام</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Solcast at a glance">
@@ -182,29 +182,21 @@ redirect_from:
 
 <section class="marketing-band" aria-labelledby="sc-offer-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">الأسعار والباقات</p>
-    <h2 id="sc-offer-title" class="marketing-section-title">مجاني للاستخدام. رقِّ عندما تريد المزيد.</h2>
+    <p class="marketing-eyebrow">العرض والثقة</p>
+    <h2 id="sc-offer-title" class="marketing-section-title">مجاني للتنزيل. خاص بالتصميم.</h2>
   </div>
   <div class="marketing-price-grid">
-    <article class="marketing-price-card">
-      <span class="marketing-price-tier">مجاني</span>
-      <h3 class="marketing-price-summary">كل ما تحتاجه للتخطيط ليومك، بلا تكلفة.</h3>
-      <p>مثالي لأي شخص يريد إرشادات طقس واضحة ومخصّصة بلا إعلانات أو حسابات أو جدار دفع يعترض طريقه.</p>
-      <ul class="marketing-list">
-        <li>الموجز اليومي، وتوقعات لسبعة أيام، وشريط ساعي</li>
-        <li>جميع الـ 16 مؤشرًا لنمط الحياة واقتراحات الملابس</li>
-        <li>احفظ مدنًا متعددة وابدأ بلا حساب</li>
-      </ul>
-    </article>
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">مواقع غير محدودة والصورة الكاملة في مكان واحد.</h3>
-      <p>Premium لمن يتابعون الطقس عبر مدن كثيرة ويريدون رفع الحدود المجانية على الأماكن المحفوظة.</p>
-      <ul class="marketing-list">
-        <li>مواقع محفوظة غير محدودة، كل منها بمنطقتها الزمنية المحلية</li>
-        <li>ترقية اختيارية تُضاف إلى التطبيق المجاني</li>
-        <li>لا إعلانات ولا تتبّع، في المجاني أو Premium</li>
-      </ul>
+      <span class="marketing-price-tier">مشمول اليوم</span>
+      <h3 class="marketing-price-summary">جميع الميزات الحالية متاحة دون أي تكلفة.</h3>
+      <p>الموجز اليومي، والتوقعات لسبعة أيام والتوقعات الساعية، وجميع مؤشرات نمط الحياة الـ 16، واقتراحات الملابس، وتنبيهات الطقس الذكية، مع ما يصل إلى 4 مدن محفوظة ودون حساب.</p>
+      <p class="marketing-price-note">متوافق مع iPhone وiPad على iOS 18.0 أو أحدث.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">موقف الخصوصية</span>
+      <h3 class="marketing-price-summary">لا حسابات. لا تتبع. لا إعلانات.</h3>
+      <p>تبقى تفضيلاتك وتخصيصاتك على جهازك. لا ترسل عمليات البحث عن الطقس والأماكن سوى الإحداثيات أو استعلام البحث، ولا ترسل عمليات البحث عن العطلات سوى رمز البلد.</p>
+      <p class="marketing-price-note"><a href="/solcast/privacy/ar/">قراءة سياسة الخصوصية</a></p>
     </article>
   </div>
 </section>
@@ -213,9 +205,8 @@ redirect_from:
   <h2 id="sc-next-title">هل أنت مستعد للتخطيط لكل يوم بثقة؟</h2>
   <p>نزّل Solcast، وشاهد لوحة تحكمك المخصّصة على الفور.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/solcast/support/">زيارة الدعم</a>
-    <a class="marketing-inline-link" href="/solcast/privacy/">اقرأ سياسة الخصوصية</a>
-    <a class="marketing-inline-link" href="/solcast/terms/ar/">اقرأ شروط الاستخدام</a>
+    <a class="marketing-inline-link" href="/solcast/support/ar/">زيارة الدعم</a>
+    <a class="marketing-inline-link" href="/solcast/privacy/ar/">اقرأ سياسة الخصوصية</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

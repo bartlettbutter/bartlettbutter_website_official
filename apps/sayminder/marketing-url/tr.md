@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "Bir hatırlatıcı söyleyin; sessizdeyken bile tam zamanında size ulaşsın ve kendini sesli okusun."
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: tr
 permalink: /sayminder/tr/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve ne zaman söyleyin; Sayminder bunu yazıya döker, sözlerinizden zamanı okur ve takviminize ekler. Vakti geldiğinde sizi sessizde ya da Odak'ta bile uyarır ve hatırlatıcıyı doğal bir sesle geri okur.
+En hızlı hatırlatıcı, söylediğinizdir. Mikrofona dokunun, neyi ve ne zaman söyleyin; Sayminder bunu yazıya döker, sözlerinizden zamanı okur ve takviminize ekler. Vakti geldiğinde sizi sessizde ya da Odak'ta bile uyarır ve kısa süre sonra uygulamayı açarsanız hatırlatıcıyı sesli olarak geri okur.
 
 <div class="marketing-chip-row" aria-label="Sayminder öne çıkanlar">
   <span class="marketing-chip">Yazma, konuş</span>
   <span class="marketing-chip">Sessiz ve Odak'ı aşar</span>
   <span class="marketing-chip">Hatırlatıcıları sesli okur</span>
-  <span class="marketing-chip">Gizli, cihaz üzerinde</span>
+  <span class="marketing-chip">Tasarımı gereği gizli</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Bir bakışta Sayminder">
@@ -33,14 +33,14 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
     <span class="marketing-stat-label">aşan alarmlar sessizde veya Odak'ta bile çalar, asla sessizce göz ardı edilmez</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">%100</span>
-    <span class="marketing-stat-label">gizli ve cihaz üzerinde; hesap yok, izleme yok, reklam yok</span>
+    <span class="marketing-stat-value">0 hesap</span>
+    <span class="marketing-stat-label">hatırlatıcılar cihazınızda kalır; kayıt yok, izleme yok, reklam yok</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="App Store'dan indirin">
     </a>
   </div>
@@ -63,6 +63,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
         <li>"Bu gece dokuzda ilaç almamı hatırlat"</li>
         <li>"20 dakika sonra", "gelecek cuma", "ay sonunda"</li>
         <li>Konuşurken canlı yazıya dökme, kaydetmeden önce düzenlenebilir</li>
+        <li>Birkaç şeyi aynı anda söyleyin, her biri ayrı bir hatırlatıcı olsun</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
     </article>
     <article class="marketing-card">
       <h3>Size geri okur</h3>
-      <p>Bir hatırlatıcı geldiğinde uygulama onu sesli söyler ve birini kaydettiğinizde sesli onaylar; böylece tüm döngü eller serbest kalır.</p>
+      <p>Bir hatırlatıcı uygulama açıkken çaldığında ya da kısa süre sonra uygulamayı açtığınızda Sayminder onu sesli söyler. Birini kaydettiğinizde de sesli onaylar; böylece tüm döngü eller serbest kalır.</p>
       <ul class="marketing-list">
         <li>Kaydettikten sonra "Tamam. Size şunu hatırlatacağım…"</li>
         <li>Herhangi bir liste satırı istendiğinde okunabilir</li>
@@ -88,7 +89,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
       <p>Diliniz destekliyorsa konuşma tanıma cihaz üzerinde çalışır ve hatırlatıcılar yalnızca cihazınızda saklanır.</p>
       <ul class="marketing-list">
         <li>Hesap yok, analiz yok, reklam yok</li>
-        <li>İşlenmek üzere hiçbir yere hiçbir şey gönderilmez</li>
+        <li>İsteğe bağlı tatiller, tatil hizmetiyle yalnızca bir ülke kodu paylaşır</li>
         <li>Uygulamayı silin, her şey onunla birlikte gider</li>
       </ul>
     </article>
@@ -108,6 +109,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
       <ul class="marketing-list">
         <li>Düzenlenebilir başlık, notlar, tarih ve tekrar seçeneği</li>
         <li>Geçmiş tek seferlik bir zaman, yarına taşımayı önerir</li>
+        <li>Şu an konuşamıyor musunuz? Yazarak girin</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
       <p>Bir aylık ızgara, hatırlatıcısı olan günleri noktalar ve bir Ana Ekran ile Kilit Ekranı widget'ı bir sonrakini gözünüzün önünde tutar.</p>
       <ul class="marketing-list">
         <li>İsteğe bağlı salt okunur katman sistem takviminizi yansıtır</li>
+        <li>Bulunduğunuz ülkenin isteğe bağlı ulusal tatilleri</li>
         <li>Küçük, orta ve Kilit Ekranı widget aileleri</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>Mikrofonu basılı tut</h3>
+      <h3>Mikrofona dokun</h3>
       <p>Tek bir düğme kaydı başlatır ve durdurur, konuşurken canlı yazıya dökmeyle.</p>
     </article>
     <article class="marketing-step">
       <h3>Neyi ve ne zaman söyle</h3>
-      <p>Sayminder doğal ifadeden zamanı okur ve geri kalanını başlık olarak kullanır.</p>
+      <p>Sayminder doğal ifadeden zamanı okur ve geri kalanını başlık olarak kullanır. Zaman söylemediniz mi? "Bu akşam", "Yarın sabah" veya "Bir saat sonra" seçeneğine dokunun.</p>
     </article>
     <article class="marketing-step">
       <h3>Onayla veya düzenle</h3>
@@ -149,7 +152,7 @@ En hızlı hatırlatıcı, söylediğinizdir. Mikrofonu basılı tutun, neyi ve 
     </article>
     <article class="marketing-step">
       <h3>Size ulaşır</h3>
-      <p>Aşan bir alarm sessizde bile zamanında çalar ve hatırlatıcıyı sesli okur.</p>
+      <p>Aşan bir alarm sessizde veya Odak'ta bile zamanında çalar ve kısa süre sonra uygulamayı açarsanız Sayminder hatırlatıcıyı geri okur.</p>
     </article>
     <article class="marketing-step">
       <h3>Silmek için dokun</h3>

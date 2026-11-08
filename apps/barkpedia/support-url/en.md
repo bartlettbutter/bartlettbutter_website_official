@@ -28,7 +28,7 @@ Yes. Barkpedia is free to download and all current features are available at no 
 
 ### How many breeds can Barkpedia recognize?
 
-Barkpedia identifies 147 breeds based on AKC standards.
+Barkpedia identifies 147 dog breeds. Breed details are compiled from public dog breed databases and curated references.
 
 ## Using the App
 
@@ -64,7 +64,7 @@ Scan history and favorites are stored locally on your device only. Nothing is se
 
 ### How do I delete my data?
 
-Swipe left on any item in the Favorites tab to remove it. To delete all app data at once, simply delete Barkpedia from your device.
+Touch and hold any item in the Favorites tab, then tap Delete to remove it. To delete all app data at once, simply delete Barkpedia from your device.
 
 ### What happens if I delete the app?
 
@@ -76,13 +76,13 @@ Uninstalling Barkpedia permanently removes all saved favorites and scan history 
 
 Camera access lets you photograph dogs directly in the app for breed identification. This permission is optional, so you can use your photo library instead.
 
-### Why does Barkpedia need photo library access?
+### Does Barkpedia need photo library access?
 
-Photo library access lets you select existing photos for identification. This is an alternative to using the camera.
+No. To use an existing photo, Barkpedia opens the standard iOS photo picker. You choose the photo, and the app receives only that photo, never the rest of your library, so no photo library permission is requested.
 
 ### Does Barkpedia access my location or other data?
 
-No. Barkpedia only requests camera and photo library access. It does not use location services, contacts, microphone, notifications, or any other sensitive permissions.
+No. Camera access is the only permission Barkpedia requests. It does not use location services, contacts, microphone, notifications, or any other sensitive permissions.
 
 ## Troubleshooting
 

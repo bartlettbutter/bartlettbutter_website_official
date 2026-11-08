@@ -55,7 +55,7 @@ Están agrupados según lo que de verdad se pregunta quien se desplaza:
 
 ### ¿De dónde vienen los datos?
 
-TrafficVibe se apoya en fuentes de mapas, tiempo y datos públicos fiables y consolidadas para las rutas y los tiempos estimados, las condiciones, las características de la vía cercanas, los festivos y los precios del combustible (mostrados en tu moneda local). Tu resumen y sus valoraciones se elaboran en tu dispositivo; nada sobre tu trayecto se sube. Para saber exactamente qué sale de tu dispositivo y por qué, consulta nuestra [Política de Privacidad](https://bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe se apoya en fuentes de mapas, tiempo y datos públicos fiables y consolidadas para las rutas y los tiempos estimados, las condiciones, las características de la vía cercanas, los festivos y los precios del combustible (mostrados en tu moneda local). Tu resumen y sus valoraciones se elaboran en tu dispositivo; nada sobre tu trayecto se sube. Para saber exactamente qué sale de tu dispositivo y por qué, consulta nuestra [Política de Privacidad](https://bartlettbutter.com/trafficvibe/privacy/es/).
 
 ## Notificaciones
 
@@ -69,7 +69,7 @@ Define tus propias horas de silencio y activa la preferencia de solo días labor
 
 ### ¿Por qué no me llegan las alertas?
 
-TrafficVibe no se actualiza en segundo plano. Evalúa las alertas cuando abres la app o deslizas para actualizar. Asegúrate de que las notificaciones estén activadas en Ajustes, y de que no estés dentro de tus horas de silencio o de una exclusión de solo días laborables.
+Los recordatorios de salida se programan con antelación, así que llegan incluso con la app cerrada, y cada vez que abres TrafficVibe programa los siguientes. Las alertas de retraso e incidentes son distintas: TrafficVibe no se actualiza en segundo plano, así que las comprueba cuando abres la app o deslizas para actualizar. Asegúrate de que las notificaciones estén activadas en Ajustes, y de que no estés dentro de tus horas de silencio o de una exclusión de solo días laborables.
 
 ## Ciudades de trayecto
 

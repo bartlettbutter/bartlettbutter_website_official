@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "리마인더를 말하면 무음 모드에서도 제시간에 도착하고, 자연스러운 목소리로 읽어 줍니다."
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: ko
 permalink: /sayminder/ko/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-가장 빠른 리마인더는 말로 하는 리마인더입니다. 마이크를 길게 누르고 무엇을, 언제 할지 말하면 Sayminder가 이를 받아 적고, 당신의 말에서 시간을 읽어내어 캘린더에 넣어 줍니다. 그 순간이 오면 무음 모드나 집중 모드에서도 알려 주고, 리마인더를 자연스러운 목소리로 읽어 줍니다.
+가장 빠른 리마인더는 말로 하는 리마인더입니다. 마이크를 탭하고 무엇을, 언제 할지 말하면 Sayminder가 이를 받아 적고, 당신의 말에서 시간을 읽어내어 캘린더에 넣어 줍니다. 그 순간이 오면 무음 모드나 집중 모드에서도 알려 주고, 직후에 앱을 열면 리마인더를 소리 내어 읽어 줍니다.
 
 <div class="marketing-chip-row" aria-label="Sayminder 주요 특징">
   <span class="marketing-chip">입력하지 말고 말하세요</span>
   <span class="marketing-chip">무음과 집중 모드를 뚫습니다</span>
   <span class="marketing-chip">리마인더를 소리 내어 읽습니다</span>
-  <span class="marketing-chip">비공개, 기기 안에서</span>
+  <span class="marketing-chip">설계부터 비공개</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="한눈에 보는 Sayminder">
@@ -33,14 +33,14 @@ redirect_from:
     <span class="marketing-stat-label">돌파형 알람은 무음이나 집중 모드에서도 울리며, 조용히 놓치는 일이 없습니다</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">비공개이며 기기 안에서 처리, 계정도 추적도 광고도 없습니다</span>
+    <span class="marketing-stat-value">계정 0개</span>
+    <span class="marketing-stat-label">리마인더는 기기에만 머물며, 가입도 추적도 광고도 없습니다</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="App Store에서 다운로드">
     </a>
   </div>
@@ -63,6 +63,7 @@ redirect_from:
         <li>"오늘 밤 아홉 시에 약 먹으라고 알려 줘"</li>
         <li>"20분 후", "다음 주 금요일", "이달 말"</li>
         <li>말하는 동안 실시간 받아쓰기, 저장 전 편집 가능</li>
+        <li>여러 가지를 한 번에 말하면 각각 별도의 리마인더가 됩니다</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>읽어 줍니다</h3>
-      <p>리마인더가 도착하면 앱이 소리 내어 말하고 저장할 때도 소리로 확인해 주어, 전체 과정을 손 없이 처리할 수 있습니다.</p>
+      <p>앱이 열려 있을 때 리마인더가 울리거나 울린 직후 앱을 열면 Sayminder가 소리 내어 말해 줍니다. 저장할 때도 소리로 확인해 주어, 전체 과정을 손 없이 처리할 수 있습니다.</p>
       <ul class="marketing-list">
         <li>저장 후 "알겠습니다. …을 알려 드릴게요"</li>
         <li>어떤 목록 행이든 원할 때 읽어 줄 수 있습니다</li>
@@ -88,7 +89,7 @@ redirect_from:
       <p>사용 언어가 지원되면 음성 인식은 기기에서 실행되며, 리마인더는 오직 당신의 기기에만 저장됩니다.</p>
       <ul class="marketing-list">
         <li>계정 없음, 분석 없음, 광고 없음</li>
-        <li>처리를 위해 어디로도 전송되지 않습니다</li>
+        <li>선택형 공휴일 기능은 공휴일 서비스와 국가 코드만 공유합니다</li>
         <li>앱을 삭제하면 모든 것이 함께 사라집니다</li>
       </ul>
     </article>
@@ -108,6 +109,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>편집 가능한 제목, 메모, 날짜, 반복 옵션</li>
         <li>이미 지난 일회성 시간은 내일로 옮기도록 제안합니다</li>
+        <li>지금 말하기 곤란하다면 대신 입력하세요</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ redirect_from:
       <p>월간 격자가 리마인더가 있는 날에 점을 찍고, 홈 화면과 잠금 화면 위젯이 다음 일정을 눈앞에 둡니다.</p>
       <ul class="marketing-list">
         <li>선택적 읽기 전용 레이어가 시스템 캘린더를 반영합니다</li>
+        <li>현재 있는 국가의 공휴일을 선택적으로 표시</li>
         <li>소형, 중형, 잠금 화면 위젯 제품군</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ redirect_from:
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>마이크를 길게 누르기</h3>
+      <h3>마이크 탭하기</h3>
       <p>버튼 하나로 녹음을 시작하고 멈추며, 말하는 동안 실시간 받아쓰기를 제공합니다.</p>
     </article>
     <article class="marketing-step">
       <h3>무엇을, 언제 말하기</h3>
-      <p>Sayminder가 자연스러운 표현에서 시간을 읽어내고 나머지를 제목으로 사용합니다.</p>
+      <p>Sayminder가 자연스러운 표현에서 시간을 읽어내고 나머지를 제목으로 사용합니다. 시간을 말하지 않았다면 오늘 밤, 내일 아침, 1시간 후 중 하나를 탭하세요.</p>
     </article>
     <article class="marketing-step">
       <h3>확인 또는 편집</h3>
@@ -149,7 +152,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>당신에게 도착합니다</h3>
-      <p>돌파형 알람이 무음에서도 제시간에 울리고, 리마인더를 소리 내어 읽어 줍니다.</p>
+      <p>돌파형 알람이 무음이나 집중 모드에서도 제시간에 울리고, 직후에 앱을 열면 Sayminder가 리마인더를 읽어 줍니다.</p>
     </article>
     <article class="marketing-step">
       <h3>탭하여 지우기</h3>

@@ -17,7 +17,7 @@ Que vous configuriez votre premier voyage ou que vous dépanniez une fonctionnal
 
 ### Journeyfolio est-il gratuit ?
 
-Oui. Journeyfolio est gratuit à télécharger et vous permet de planifier jusqu'à 10 voyages sans frais. Les fonctionnalités premium (voyages illimités, suivi de vol en direct et prévisions météo) sont disponibles via des abonnements facultatifs à renouvellement automatique (mensuel, semestriel ou annuel).
+Oui. Journeyfolio est gratuit à télécharger et vous permet de planifier jusqu'à 10 voyages sans frais, avec les prévisions météo, les jours fériés, le remplissage automatique depuis vos billets et les rappels de voyage inclus. Les fonctionnalités premium (voyages illimités, statut des vols en direct et remplissage automatique via « Vérifier le Vol ») sont disponibles via des abonnements facultatifs à renouvellement automatique (mensuel, semestriel ou annuel).
 
 ### J'ai acheté Journeyfolio avant qu'il ne devienne gratuit. Est-ce que je perds l'accès ?
 
@@ -63,7 +63,7 @@ Oui. Activez « Multi-jours » lors de l'ajout d'une activité pour définir les
 
 ### Comment joindre des documents à une activité ?
 
-Ouvrez n'importe quelle activité, touchez l'option de pièce jointe, puis prenez une photo avec votre appareil photo ou importez un fichier. Les formats pris en charge incluent PDF, JPEG et PNG. L'OCR intelligent tentera de remplir automatiquement les détails de réservation à partir de votre document.
+Ouvrez n'importe quelle activité, touchez l'option de pièce jointe, puis ajoutez un fichier depuis Fichiers, une image depuis Photos ou une photo prise avec votre appareil photo. Les formats pris en charge incluent PDF, JPEG et PNG. Journeyfolio lit le document sur votre appareil et remplit des détails comme le numéro de vol, le siège et le code de confirmation. Le texte que vous avez déjà saisi n'est jamais écrasé.
 
 ### Comment fonctionne la recherche de lieux ?
 
@@ -71,17 +71,25 @@ Lors de l'ajout d'une activité, saisissez un nom ou un mot-clé dans la recherc
 
 ### Comment fonctionnent les prévisions météo ?
 
-Ajoutez une ville de destination et Journeyfolio récupère les conditions actuelles ainsi qu'une prévision sur 5 jours via [Apple Météo](https://weatherkit.apple.com/legal-attribution.html). Basculez entre °C et °F sur la carte météo. *Les prévisions météo nécessitent un abonnement Premium.*
+Ajoutez une ville de destination et Journeyfolio récupère les conditions actuelles ainsi qu'une prévision sur 5 jours via [Apple Météo](https://weatherkit.apple.com/legal-attribution.html). Basculez entre °C et °F sur la carte météo. *Les prévisions météo sont gratuites pour tous.*
 
 ### Comment fonctionne le suivi de vol ?
 
-Saisissez votre numéro de vol et la date de départ, puis touchez « Vérifier le Vol ». L'application remplit automatiquement l'itinéraire, la compagnie aérienne et les horaires dans le fuseau horaire local de chaque aéroport. Pour les départs dans les ~24 heures, des badges de statut en direct (À l'heure, Retardé, Annulé, En vol, Atterri) apparaissent automatiquement. *Le suivi de vol en direct nécessite un abonnement Premium.*
+Saisissez votre numéro de vol et la date de départ, puis touchez « Vérifier le Vol ». L'application remplit automatiquement l'itinéraire, la compagnie aérienne et les horaires dans le fuseau horaire local de chaque aéroport. Pour les départs dans les ~24 heures, des badges de statut en direct (À l'heure, Retardé, Annulé, En vol, Atterri) apparaissent automatiquement. *« Vérifier le Vol » et le statut des vols en direct nécessitent un abonnement Premium. Avec l'offre gratuite, vous pouvez saisir vous-même les détails du vol ou les remplir à partir d'un billet.*
 
 La vérification des horaires couvre les vols jusqu'à 12 mois à l'avance et 3 mois dans le passé.
 
 ### Comment fonctionnent les jours fériés ?
 
 Journeyfolio détecte le pays de votre destination et affiche les jours fériés dans la bande de dates. Les dates fériées sont mises en évidence avec un fond jaune doux afin que vous puissiez planifier autour des fermetures.
+
+### Que montre l'onglet À venir ?
+
+L'onglet À venir s'ouvre sur Aujourd'hui : la date, le jour de votre voyage, la ville où vous vous trouvez et le programme du jour. En dessous, chaque voyage qui n'est pas encore terminé affiche un compte à rebours, de « Dans 12 jours » à « En cours ».
+
+### Comment fonctionnent les rappels ?
+
+Chaque voyage à venir indique ce qui manque encore : les nuits sans hôtel réservé et les trajets entre villes sans transport. Quand rien ne manque, il confirme que les informations de votre voyage sont complètes. Activez Rappels de voyage dans l'onglet Réglages pour recevoir une notification la veille du début de chaque voyage. Les rappels sont programmés sur votre appareil.
 
 ### Ai-je besoin d'une connexion internet ?
 
@@ -103,7 +111,7 @@ Allez dans **Réglages → votre nom → Abonnements** sur votre appareil. Vous 
 
 ### Vais-je perdre mes voyages si j'annule ?
 
-Non. Les données de vos voyages sont stockées localement et totalement indépendantes de votre abonnement. Annuler Premium limite uniquement l'accès aux fonctionnalités de suivi de vol et de météo.
+Non. Les données de vos voyages sont stockées localement et totalement indépendantes de votre abonnement. Annuler Premium désactive uniquement le statut des vols en direct et « Vérifier le Vol ». Vos voyages existants sont conservés, mais vous ne pouvez pas en ajouter au-delà de la limite gratuite de 10.
 
 ## Dépannage
 
@@ -111,8 +119,7 @@ Non. Les données de vos voyages sont stockées localement et totalement indépe
 
 1. Confirmez que votre appareil dispose d'une connexion internet.
 2. Vérifiez que le nom de la ville de destination est correct.
-3. Assurez-vous d'avoir un abonnement Premium actif.
-4. Si cela ne se charge toujours pas, réessayez dans quelques minutes, car le service météo peut être temporairement indisponible.
+3. Si cela ne se charge toujours pas, réessayez dans quelques minutes, car le service météo peut être temporairement indisponible.
 
 ### La vérification de vol indique « Aucun vol trouvé »
 

@@ -101,20 +101,20 @@ redirect_from:
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>유연한 요금제와 함께 무료 다운로드</h3>
-      <p>Journeyfolio는 이제 무료로 시작하며, 기존 구매자는 별도의 조치 없이 영구 프리미엄 액세스를 유지합니다.</p>
+      <h3>한눈에 보는 여행</h3>
+      <p>예정 탭은 오늘 보기로 열려 여행 며칠째인지, 현재 있는 도시, 오늘의 일정을 보여 줍니다. 예정된 모든 여행에는 카운트다운이 표시됩니다.</p>
     </article>
     <article class="marketing-card">
-      <h3>활동에 첨부되는 여행 문서</h3>
-      <p>탑승권, 예약 확인서, 영수증이 있어야 할 바로 그곳에 있을 수 있으며, OCR이 수동 입력을 줄이는 데 도움을 줍니다.</p>
+      <h3>예약을 놓치지 않도록 돕는 알림</h3>
+      <p>Journeyfolio는 호텔이 없는 밤과 교통편이 없는 도시 간 구간을 알려 주며, 여행 알림을 켜면 각 여행이 시작되기 전날 알림을 받을 수 있습니다.</p>
     </article>
     <article class="marketing-card">
-      <h3>완전한 iPad 지원</h3>
-      <p>적응형 레이아웃, Split View, Slide Over가 더 큰 화면과 멀티태스킹 중에 플래너를 더 편안하게 만듭니다.</p>
+      <h3>이제 모두에게 무료인 일기 예보</h3>
+      <p>모든 목적지의 현재 날씨와 5일 예보에 더 이상 프리미엄이 필요하지 않습니다.</p>
     </article>
     <article class="marketing-card">
-      <h3>안정성 및 접근성 개선</h3>
-      <p>접근성을 나중 문제로 취급하는 대신, 핵심 안정성, 사용성, 완성도가 모두 함께 발전했습니다.</p>
+      <h3>더 깔끔해진 새로운 디자인</h3>
+      <p>iPhone과 iPad에서 앱 전체가 더 깔끔하고 새로운 디자인으로 바뀌었습니다.</p>
     </article>
   </div>
 </section>
@@ -196,16 +196,17 @@ redirect_from:
         <li>iPhone과 iPad에서 여행을 만들고 정리</li>
         <li>문서, 메모, 핵심 일정 세부 정보를 한곳에 보관</li>
         <li>계정이나 설정의 번거로움 없이 시작</li>
+        <li>날씨, 공휴일, 티켓 자동 입력, 여행 알림 포함</li>
       </ul>
     </article>
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">프리미엄</span>
-      <h3 class="marketing-price-summary">무제한 여행, 실시간 항공편 추적, 일기 예보.</h3>
+      <h3 class="marketing-price-summary">무제한 여행, 실시간 항공편 상태, "항공편 확인" 자동 입력.</h3>
       <p>프리미엄은 모든 맥락을 한곳에서 계속 이용하고 싶은 여행자를 위해 월간, 6개월, 또는 연간 자동 갱신 구독으로 제공됩니다.</p>
       <ul class="marketing-list">
         <li>무제한 여행 용량</li>
         <li>일정 안의 실시간 항공편 상태</li>
-        <li>여행 화면에 내장된 목적지 일기 예보</li>
+        <li>"항공편 확인"으로 항공사, 노선, 예정 시간을 자동 입력</li>
       </ul>
     </article>
   </div>
@@ -215,8 +216,8 @@ redirect_from:
   <h2 id="jf-next-title">떠나기 전부터, 더 가볍게 여행하세요.</h2>
   <p>Journeyfolio를 다운로드하여 여행을 하나의 정돈된 곳에 두세요.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/journeyfolio/support/">지원 방문</a>
-    <a class="marketing-inline-link" href="/journeyfolio/privacy/">개인정보 처리방침 읽기</a>
+    <a class="marketing-inline-link" href="/journeyfolio/support/ko/">지원 방문</a>
+    <a class="marketing-inline-link" href="/journeyfolio/privacy/ko/">개인정보 처리방침 읽기</a>
     <a class="marketing-inline-link" href="/journeyfolio/terms/ko/">이용약관 읽기</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>

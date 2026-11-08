@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">गोपनीयता का रुख़</span>
       <h3 class="marketing-price-summary">कोई क्लाउड खाता नहीं। कोई ट्रैकिंग नहीं। कोई विज्ञापन नहीं।</h3>
       <p>TrafficVibe कभी कोई आँकड़ा नहीं गढ़ता, और आपका सफ़र आपके ही पास रखता है। न कोई साइन-अप है और न आपके बारे में इकट्ठा करने को कुछ।</p>
-      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">गोपनीयता नीति पढ़ें</a></p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/hi/">गोपनीयता नीति पढ़ें</a></p>
     </article>
   </div>
 </section>
@@ -223,8 +223,8 @@ redirect_from:
   <h2 id="tv-next-title">निकलने से पहले जानने के लिए तैयार हैं?</h2>
   <p>TrafficVibe डाउनलोड करें, आज सुबह की जानकारी तुरंत पढ़ें और हर सफ़र यह जानते हुए शुरू करें कि आगे ठीक-ठीक क्या है।</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/trafficvibe/support/">सहायता देखें</a>
-    <a class="marketing-inline-link" href="/trafficvibe/privacy/">गोपनीयता नीति पढ़ें</a>
+    <a class="marketing-inline-link" href="/trafficvibe/support/hi/">सहायता देखें</a>
+    <a class="marketing-inline-link" href="/trafficvibe/privacy/hi/">गोपनीयता नीति पढ़ें</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/barkpedia/de/
 ---
 
-**Gültig ab:** 11. April 2026
+**Gültig ab:** 8. November 2026
 
 Barkpedia („die App") ist eine kostenlose iOS-Anwendung, die Hunderassen anhand von Fotos identifiziert. Ihre Privatsphäre ist grundlegend dafür, wie wir diese App entwickelt haben. Hier erfahren Sie genau, wie Ihre Informationen verarbeitet werden.
 
@@ -31,7 +31,7 @@ Barkpedia („die App") ist eine kostenlose iOS-Anwendung, die Hunderassen anhan
 
 ## Wie Ihre Fotos Verarbeitet Werden
 
-Die App fordert Kamera- und Fotomediathek-Berechtigungen ausschließlich an, damit Sie Bilder von Hunden für die Rassenerkennung fotografieren oder auswählen können. Fotos, die Sie aufnehmen oder auswählen, werden vollständig auf Ihrem Gerät mit geräteinterner Intelligenz analysiert. **Ihre Fotos werden niemals auf einen Server hochgeladen.**
+Die App fordert die Kamera-Berechtigung ausschließlich an, damit Sie Hunde für die Rassenerkennung fotografieren können. Um ein vorhandenes Foto zu verwenden, öffnet die App die standardmäßige iOS-Fotoauswahl. Sie wählen das Foto aus, und die App erhält nur dieses Foto, ohne Zugriff auf den Rest Ihrer Fotomediathek. Fotos, die Sie aufnehmen oder auswählen, werden vollständig auf Ihrem Gerät mit geräteinterner Intelligenz analysiert. **Ihre Fotos werden niemals auf einen Server hochgeladen.**
 
 ## Was auf Ihrem Gerät Gespeichert Wird
 
@@ -56,7 +56,6 @@ Wir verkaufen, vermieten oder teilen keine Nutzerdaten mit Dritten. Es gibt kein
 | Berechtigung | Warum Wir Sie Anfordern | Erforderlich? |
 |--------------|-------------------------|---------------|
 | Kamera | Um Hunde für die Rassenerkennung zu fotografieren | Optional. Sie können stattdessen Ihre Fotomediathek verwenden |
-| Fotomediathek | Um vorhandene Fotos für die Rassenerkennung auszuwählen | Optional. Sie können stattdessen die Kamera verwenden |
 
 **Das war's.** Die App fordert keinen Zugriff auf Standort, Kontakte, Mikrofon, Bluetooth, Tracking (ATT), Benachrichtigungen oder andere sensible Berechtigungen an.
 

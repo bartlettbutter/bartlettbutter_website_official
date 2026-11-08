@@ -29,7 +29,7 @@ Evet. Barkpedia'yı indirmek ücretsizdir ve mevcut tüm özellikler reklamsız 
 
 ### Barkpedia kaç ırkı tanıyabilir?
 
-Barkpedia, AKC standartlarına dayanarak 147 ırkı tanımlar.
+Barkpedia 147 köpek ırkını tanımlar. Irk bilgileri, herkese açık köpek ırkı veri tabanlarından ve özenle seçilmiş kaynaklardan derlenmiştir.
 
 ## Uygulamayı Kullanma
 
@@ -57,7 +57,7 @@ Evet. Barkpedia düzenini otomatik olarak uyarlar; iPhone'da sekme gezinmesi, iP
 
 ### Verilerim gizli mi?
 
-Evet. Fotoğraflarınız tamamen cihazınızda işlenir ve asla yüklenmez. Barkpedia hiçbir kişisel veri toplamaz, kullanıcı hesabı yoktur ve hiçbir analiz veya izleme içermez. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/barkpedia/privacy/) bakın.
+Evet. Fotoğraflarınız tamamen cihazınızda işlenir ve asla yüklenmez. Barkpedia hiçbir kişisel veri toplamaz, kullanıcı hesabı yoktur ve hiçbir analiz veya izleme içermez. Ayrıntılar için tam [Gizlilik Politikamıza](https://bartlettbutter.com/barkpedia/privacy/tr/) bakın.
 
 ### Verilerim nerede saklanır?
 
@@ -65,7 +65,7 @@ Tarama geçmişi ve favoriler yalnızca cihazınızda yerel olarak saklanır. Hi
 
 ### Verilerimi nasıl silerim?
 
-Kaldırmak için Favoriler sekmesindeki herhangi bir öğeyi sola kaydırın. Tüm uygulama verilerini bir kerede silmek için Barkpedia'yı cihazınızdan silmeniz yeterlidir.
+Kaldırmak için Favoriler sekmesindeki herhangi bir öğeye basılı tutun, ardından "Sil" seçeneğine dokunun. Tüm uygulama verilerini bir kerede silmek için Barkpedia'yı cihazınızdan silmeniz yeterlidir.
 
 ### Uygulamayı silersem ne olur?
 
@@ -77,13 +77,13 @@ Barkpedia'yı kaldırmak, kaydedilen tüm favorileri ve tarama geçmişini cihaz
 
 Kamera erişimi, ırk tanımlama için köpekleri doğrudan uygulama içinde fotoğraflamanızı sağlar. Bu izin isteğe bağlıdır. Bunun yerine fotoğraf kitaplığınızı kullanabilirsiniz.
 
-### Barkpedia neden fotoğraf kitaplığı erişimine ihtiyaç duyuyor?
+### Barkpedia fotoğraf kitaplığı erişimine ihtiyaç duyuyor mu?
 
-Fotoğraf kitaplığı erişimi, tanımlama için mevcut fotoğrafları seçmenizi sağlar. Bu, kamerayı kullanmanın bir alternatifidir.
+Hayır. Mevcut bir fotoğrafı kullanmak için Barkpedia standart iOS fotoğraf seçicisini açar. Fotoğrafı siz seçersiniz ve uygulama yalnızca o fotoğrafı alır, kitaplığınızın geri kalanını asla görmez. Bu nedenle fotoğraf kitaplığı izni istenmez.
 
 ### Barkpedia konumuma veya diğer verilere erişiyor mu?
 
-Hayır. Barkpedia yalnızca kamera ve fotoğraf kitaplığı erişimi ister. Konum hizmetlerini, kişileri, mikrofonu, bildirimleri veya diğer hassas izinleri kullanmaz.
+Hayır. Barkpedia'nın istediği tek izin kamera erişimidir. Konum hizmetlerini, kişileri, mikrofonu, bildirimleri veya diğer hassas izinleri kullanmaz.
 
 ## Sorun Giderme
 

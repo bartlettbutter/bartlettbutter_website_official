@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">Подход к конфиденциальности</span>
       <h3 class="marketing-price-summary">Без облачных учётных записей. Без слежки. Без рекламы.</h3>
       <p>TrafficVibe никогда не выдумывает цифры и оставляет вашу поездку при вас. Здесь нет регистрации и нечего собирать о вас.</p>
-      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Читать политику конфиденциальности</a></p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/ru/">Читать политику конфиденциальности</a></p>
     </article>
   </div>
 </section>
@@ -223,8 +223,8 @@ redirect_from:
   <h2 id="tv-next-title">Готовы знать заранее, прежде чем выехать?</h2>
   <p>Скачайте TrafficVibe, сразу прочитайте сегодняшнюю утреннюю сводку и начинайте каждую поездку, точно зная, что вас ждёт впереди.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/trafficvibe/support/">Перейти в поддержку</a>
-    <a class="marketing-inline-link" href="/trafficvibe/privacy/">Читать политику конфиденциальности</a>
+    <a class="marketing-inline-link" href="/trafficvibe/support/ru/">Перейти в поддержку</a>
+    <a class="marketing-inline-link" href="/trafficvibe/privacy/ru/">Читать политику конфиденциальности</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

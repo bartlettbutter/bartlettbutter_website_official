@@ -12,7 +12,7 @@ redirect_from:
 
 # Nasıl giyineceğinizi, planlayacağınızı ve gününüzü koruyacağınızı tam olarak bilin.
 
-Solcast tahminin ötesine geçer. Ne giyeceğinizi, ne zaman şemsiye alacağınızı ve ailenizi nasıl rahat tutacağınızı söyler; hepsi hayatınıza göre kişiselleştirilmiş ve sade bir dille sunulmuştur. Reklam yok, hesap yok, kullanımı ücretsiz, isteğe bağlı bir Premium yükseltmeyle. Sadece açın ve başlayın.
+Solcast tahminin ötesine geçer. Ne giyeceğinizi, ne zaman şemsiye alacağınızı ve ailenizi nasıl rahat tutacağınızı söyler; hepsi hayatınıza göre kişiselleştirilmiş ve sade bir dille sunulmuştur. Reklam yok, hesap yok ve kullanımı ücretsiz. Sadece açın ve başlayın.
 
 <!--gallery-->
 
@@ -20,7 +20,7 @@ Solcast tahminin ötesine geçer. Ne giyeceğinizi, ne zaman şemsiye alacağın
   <span class="marketing-chip">Rakamlar değil, cevaplar</span>
   <span class="marketing-chip">16 yaşam tarzı indeksi</span>
   <span class="marketing-chip">Reklam veya hesap yok</span>
-  <span class="marketing-chip">Premium seçenekli ücretsiz</span>
+  <span class="marketing-chip">Kullanımı ücretsiz</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Solcast at a glance">
@@ -182,29 +182,21 @@ Solcast tahminin ötesine geçer. Ne giyeceğinizi, ne zaman şemsiye alacağın
 
 <section class="marketing-band" aria-labelledby="sc-offer-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Fiyatlandırma ve katmanlar</p>
-    <h2 id="sc-offer-title" class="marketing-section-title">Kullanımı ücretsiz. Daha fazlasını istediğinizde yükseltin.</h2>
+    <p class="marketing-eyebrow">Sunum ve güven</p>
+    <h2 id="sc-offer-title" class="marketing-section-title">İndirmesi ücretsiz. Tasarımı gereği gizli.</h2>
   </div>
   <div class="marketing-price-grid">
-    <article class="marketing-price-card">
-      <span class="marketing-price-tier">Ücretsiz</span>
-      <h3 class="marketing-price-summary">Gününüzü planlamak için ihtiyacınız olan her şey, ücretsiz.</h3>
-      <p>Reklam, hesap ya da yolu tıkayan bir ödeme duvarı olmadan net, kişiselleştirilmiş hava durumu rehberliği isteyen herkes için ideal.</p>
-      <ul class="marketing-list">
-        <li>Günlük brifing, 7 günlük tahmin ve saatlik şerit</li>
-        <li>16 yaşam tarzı indeksinin tümü ve kıyafet önerileri</li>
-        <li>Birden fazla şehir kaydedin ve hesap olmadan başlayın</li>
-      </ul>
-    </article>
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Sınırsız konum ve tüm resim tek bir yerde.</h3>
-      <p>Premium, havayı birçok şehir üzerinden takip eden ve kaydedilen yerlerdeki ücretsiz sınırları kaldırmak isteyenler içindir.</p>
-      <ul class="marketing-list">
-        <li>Her biri kendi yerel saat diliminde sınırsız kayıtlı konum</li>
-        <li>Ücretsiz uygulamanın üzerine isteğe bağlı bir yükseltme</li>
-        <li>Ücretsiz ya da Premium'da reklam yok ve izleme yok</li>
-      </ul>
+      <span class="marketing-price-tier">Bugün dahil</span>
+      <h3 class="marketing-price-summary">Mevcut tüm özellikler ücretsiz olarak sunulur.</h3>
+      <p>Günlük brifing, 7 günlük ve saatlik tahminler, 16 yaşam tarzı indeksinin tümü, kıyafet önerileri ve akıllı hava durumu uyarıları, en fazla 4 kayıtlı şehirle ve hesap olmadan.</p>
+      <p class="marketing-price-note">iOS 18.0 veya sonrasındaki iPhone ve iPad ile uyumludur.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">Gizlilik duruşu</span>
+      <h3 class="marketing-price-summary">Hesap yok. İzleme yok. Reklam yok.</h3>
+      <p>Tercihleriniz ve kişiselleştirmeleriniz cihazınızda kalır. Hava durumu ve yer sorguları yalnızca koordinatları veya bir arama sorgusunu, tatil sorguları ise yalnızca bir ülke kodunu gönderir.</p>
+      <p class="marketing-price-note"><a href="/solcast/privacy/tr/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
 </section>
@@ -213,9 +205,8 @@ Solcast tahminin ötesine geçer. Ne giyeceğinizi, ne zaman şemsiye alacağın
   <h2 id="sc-next-title">Her günü güvenle planlamaya hazır mısınız?</h2>
   <p>Solcast'i indirin ve kişiselleştirilmiş kontrol panelinizi hemen görün.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/solcast/support/">Desteği ziyaret edin</a>
-    <a class="marketing-inline-link" href="/solcast/privacy/">Gizlilik politikasını okuyun</a>
-    <a class="marketing-inline-link" href="/solcast/terms/tr/">Kullanım koşullarını okuyun</a>
+    <a class="marketing-inline-link" href="/solcast/support/tr/">Desteği ziyaret edin</a>
+    <a class="marketing-inline-link" href="/solcast/privacy/tr/">Gizlilik politikasını okuyun</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

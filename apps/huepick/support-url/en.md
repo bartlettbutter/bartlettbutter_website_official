@@ -24,7 +24,7 @@ No. Huepick has no accounts, no sign-up, and no login. Just open the app and sta
 
 ### Is an internet connection required?
 
-Almost everything works offline, including color extraction, palettes, creative tools, and saving. The only optional network feature is converting photo location coordinates into a place name (like "Seattle, WA") on saved palettes.
+No. Everything works offline, including color extraction, color analysis, creative tools, and saving.
 
 ### Is Huepick really free?
 
@@ -71,7 +71,7 @@ Long-press the creation in the Gallery and choose "Delete." You'll be asked to c
 
 ### Where is my data stored?
 
-Everything, including saved palettes and creations, is stored locally on your device. We have no servers, no cloud storage, and no access to your data.
+Everything, including your saved creations, is stored locally on your device. We have no servers, no cloud storage, and no access to your data.
 
 ### Are my photos uploaded anywhere?
 
@@ -83,7 +83,7 @@ None. No personal data, no usage analytics, no device identifiers. See our full 
 
 ### What happens if I delete the app?
 
-Uninstalling Huepick permanently removes all saved palettes and creations from your device. Since there is no cloud backup or sync, this cannot be undone.
+Uninstalling Huepick permanently removes all saved creations from your device. Since there is no cloud backup or sync, this cannot be undone.
 
 ## Troubleshooting
 

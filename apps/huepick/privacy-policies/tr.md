@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/huepick/tr/
 ---
 
-**Yürürlük Tarihi:** 8 Temmuz 2026
+**Yürürlük Tarihi:** 8 Kasım 2026
 
 Huepick, fotoğraflardan renk çıkarmak, paletler oluşturmak ve yaratıcı araçlarla görüntüleri dönüştürmek için ücretsiz bir iOS uygulamasıdır. Bu politika, bilgilerinizi nasıl ele aldığımızı sade bir dille açıklar.
 
@@ -25,7 +25,7 @@ Huepick, fotoğraflardan renk çıkarmak, paletler oluşturmak ve yaratıcı ara
 | Verilerim satılıyor veya paylaşılıyor mu? | Hayır |
 | Çocuklar uygulamayı güvenle kullanabilir mi? | Evet |
 
-Herhangi bir verinin cihazınızdan çıktığı tek zaman, isteğe bağlı bir özelliğin bir fotoğrafın konum koordinatlarını okunabilir bir yer adına dönüştürmesidir; bu durumda yalnızca koordinatlar gönderilir.
+Huepick tamamen çevrimdışı çalışır ve hiçbir ağ isteği yapmaz. Bir oluşturulanı paylaşmayı seçmediğiniz sürece hiçbir şey cihazınızdan çıkmaz.
 
 ## Hangi Verileri Topluyoruz
 
@@ -35,28 +35,17 @@ Herhangi bir verinin cihazınızdan çıktığı tek zaman, isteğe bağlı bir 
 
 Bir fotoğraf çektiğinizde veya seçtiğinizde, renk çıkarma, palet oluşturma ve yaratıcı efektler dahil tüm işlemler cihazınızda yerel olarak gerçekleşir. Fotoğraflarınız asla hiçbir yere gönderilmez.
 
-## Fotoğraf Konum Verileri (isteğe bağlı)
+## Fotoğraf Konum Verileri
 
-Fotoğraflarınız, meta verilerinde gömülü GPS koordinatları içerebilir. Konum verileri mevcutsa, Huepick bu koordinatları okunabilir bir yer adına (örneğin, "Portland, OR") dönüştürmek için Apple'ın yerleşik coğrafi kodlama hizmetini kullanabilir ve bu ad, kaydedilen paletinizin yanında görüntülenir. Önemli olan şudur:
+Fotoğraflarınız, meta verilerinde gömülü GPS koordinatları içerebilir. Huepick bu konum verilerini kullanmaz ve hiçbir yere göndermez.
 
-- Bu dönüştürme için Apple'a yalnızca GPS koordinatları gönderilir
-- Hiçbir fotoğraf, cihaz tanımlayıcısı veya kişisel bilgi dahil edilmez
-- Bu özellik yalnızca fotoğrafınızda zaten gömülü konum verisi olduğunda etkinleşir
-- Fotoğrafınızda konum verisi yoksa hiçbir ağ isteği yapılmaz
+## Kaydedilen Oluşturulanlar
 
-Apple bu verileri [Apple'ın Gizlilik Politikası](https://www.apple.com/legal/privacy/) uyarınca işler.
-
-## Kaydedilen Paletler ve Oluşturulanlar
-
-Kaydettiğiniz paletler ve Playground'da işlediğiniz görüntüler cihazınızda yerel olarak saklanır. Bunlar cihazınızdan asla çıkmaz.
+Playground'dan kaydettiğiniz oluşturulanlar cihazınızda yerel olarak saklanır. Yalnızca paylaşmayı seçerseniz cihazınızdan çıkarlar.
 
 ## Üçüncü Taraf Hizmetleri
 
-| Hizmet | Amaç | Ne Gönderilir |
-|--------|------|---------------|
-| Apple Coğrafi Kodlama | Fotoğrafın GPS koordinatlarını bir yer adına dönüştürür | Yalnızca GPS koordinatları (isteğe bağlı) |
-
-Başka hiçbir üçüncü taraf hizmeti kullanılmaz.
+Yok. Huepick hiçbir üçüncü taraf hizmeti, SDK veya analiz aracı kullanmaz.
 
 ## Veri Paylaşımı
 
@@ -67,13 +56,13 @@ Verilerinizi kimseye satmıyor, paylaşmıyor veya kiralamıyoruz. Paylaşılaca
 | İzin | Neden Gerekli | Gerekli mi? |
 |------|---------------|-------------|
 | Kamera | Renk çıkarma için fotoğraf çekmek | İsteğe bağlı: Bunun yerine fotoğraf kitaplığınızı kullanabilirsiniz |
-| Fotoğraf Kitaplığı | Fotoğraf seçmek ve işlenmiş görüntüleri kaydetmek | İsteğe bağlı |
+| Fotoğraf Kitaplığı | İşlenmiş görüntüleri fotoğraf kitaplığınıza kaydetmek | İsteğe bağlı |
 
-Canlı konumunuza erişim istemiyoruz. Konum verileri yalnızca fotoğrafınızın gömülü meta verilerinde zaten varsa okunur.
+Mevcut bir fotoğrafı seçmek için Huepick, yalnızca seçtiğiniz fotoğrafları paylaşan standart iOS fotoğraf seçicisini kullanır. Huepick konumunuza erişim istemez.
 
 ## Verilerinizi Silme
 
-Sunucularımızda hiçbir şey saklamadığımız için bizim tarafımızda silinecek bir şey yoktur. Cihazınızda saklanan tüm paletler veya oluşturulanlar uygulama içinde tek tek silinebilir veya Huepick'i kaldırarak tamamen kaldırılabilir.
+Sunucularımızda hiçbir şey saklamadığımız için bizim tarafımızda silinecek bir şey yoktur. Cihazınızda saklanan tüm oluşturulanlar uygulama içinde tek tek silinebilir veya Huepick'i kaldırarak tamamen kaldırılabilir.
 
 ## Haklarınız
 
@@ -85,7 +74,7 @@ Huepick, 13 yaşın altındaki çocuklar (veya yargı bölgenizde geçerli olan 
 
 ## Uluslararası Kullanıcılar
 
-Huepick hiçbir kişisel veri toplamadığından, kişisel bilgilerin sınır ötesi aktarımı gerçekleşmez. Tek ağ isteği (fotoğraf koordinatlarının isteğe bağlı coğrafi kodlaması) GPS koordinatlarını Apple'a gönderir ve konumunuzdan bağımsız olarak hiçbir kişisel veri veya cihaz tanımlayıcısı içermez.
+Huepick hiçbir kişisel veri toplamadığından ve hiçbir ağ isteği yapmadığından, kişisel bilgilerin sınır ötesi aktarımı gerçekleşmez.
 
 ## Bu Politikadaki Değişiklikler
 

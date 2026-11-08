@@ -79,7 +79,7 @@ redirect_from:
       <p>六種創意工具讓您運用自己調色盤中的色彩，重新塑造任何影像。</p>
       <ul class="marketing-list">
         <li>隔離、雙色調、三色調、像素化、模糊與故障</li>
-        <li>為每種效果微調強度、風格與方向</li>
+        <li>透過強度、風格與方向等控制項微調每種效果</li>
         <li>儲存、下載到「照片」，或分享您的作品</li>
       </ul>
     </article>
@@ -87,7 +87,7 @@ redirect_from:
       <h3>預設即私密</h3>
       <p>沒有帳戶、沒有分析、沒有廣告。您的照片永遠不會離開您的裝置，一切都無需連線即可運作。</p>
       <ul class="marketing-list">
-        <li>調色盤與作品都儲存在本機</li>
+        <li>已儲存的作品都儲存在本機</li>
         <li>無需註冊，且可免費使用</li>
       </ul>
     </article>
@@ -111,17 +111,17 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Playground</h3>
-      <p>用六種創意工具重新塑造您的影像，每一種都有針對您照片調校的建議引導。</p>
+      <p>用六種創意工具重新塑造您的影像，並由針對您照片調校的建議引導。</p>
       <ul class="marketing-list">
         <li>隔離、雙色調、三色調、像素化、模糊與故障</li>
-        <li>為每種效果調整強度、風格與方向</li>
+        <li>透過強度、風格與方向等控制項調整每種效果</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>畫廊</h3>
       <p>您儲存的每個創作都存放在這裡，靈感再度湧現時隨時可以回顧。</p>
       <ul class="marketing-list">
-        <li>重新編輯任何已儲存的調色盤或創作</li>
+        <li>重新編輯任何已儲存的創作</li>
         <li>輕點一下即可下載到「照片」或分享</li>
       </ul>
     </article>
@@ -164,8 +164,8 @@ redirect_from:
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>建立一座您鍾愛色彩的圖庫</h3>
-      <p>儲存任何調色盤或創作，隨時回顧。它有助於記住某個吸引您目光的顏色、比較不同風格，並在您的作品中重複使用精確的十六進位色碼。</p>
+      <h3>建立一座您鍾愛風格的圖庫</h3>
+      <p>儲存任何創作，隨時回顧或重新編輯。輕點一下即可複製任一調色盤的精確十六進位色碼，在您的作品中重複使用。</p>
     </article>
     <article class="marketing-story-card">
       <h3>為創意人士打造</h3>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">隱私態度</span>
       <h3 class="marketing-price-summary">沒有伺服器。沒有雲端。沒有追蹤。</h3>
       <p>您的照片永遠不會離開您的裝置。提取、分析與每一種創意工具都在本機執行。</p>
-      <p class="marketing-price-note"><a href="/huepick/privacy/">閱讀隱私政策</a></p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/zh-Hant/">閱讀隱私政策</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="hp-next-title">準備好看見身邊的色彩了嗎？</h2>
   <p>下載 Huepick，立即開始提取調色盤，讓創意工具在靈感湧現時隨手可得。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/huepick/support/">前往支援</a>
-    <a class="marketing-inline-link" href="/huepick/privacy/">閱讀隱私政策</a>
+    <a class="marketing-inline-link" href="/huepick/support/zh-Hant/">前往支援</a>
+    <a class="marketing-inline-link" href="/huepick/privacy/zh-Hant/">閱讀隱私政策</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

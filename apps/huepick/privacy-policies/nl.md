@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/huepick/nl/
 ---
 
-**Ingangsdatum:** 8 juli 2026
+**Ingangsdatum:** 8 november 2026
 
 Huepick is een gratis iOS-app om kleuren uit foto's te halen, paletten samen te stellen en afbeeldingen te transformeren met creatieve hulpmiddelen. Dit beleid legt in gewone taal uit hoe we met uw informatie omgaan.
 
@@ -25,7 +25,7 @@ Huepick is een gratis iOS-app om kleuren uit foto's te halen, paletten samen te 
 | Worden mijn gegevens verkocht of gedeeld? | Nee |
 | Kunnen kinderen de app veilig gebruiken? | Ja |
 
-De enige keer dat er gegevens uw apparaat verlaten, is wanneer een optionele functie de locatiecoördinaten van een foto omzet in een leesbare plaatsnaam, en alleen de coördinaten worden verzonden.
+Huepick werkt volledig offline en doet geen netwerkverzoeken. Er verlaat niets uw apparaat, tenzij u ervoor kiest een creatie te delen.
 
 ## Welke Gegevens We Verzamelen
 
@@ -35,28 +35,17 @@ De enige keer dat er gegevens uw apparaat verlaten, is wanneer een optionele fun
 
 Wanneer u een foto maakt of selecteert, vindt alle verwerking, waaronder kleurextractie, paletgeneratie en creatieve effecten, lokaal op uw apparaat plaats. Uw foto's worden nooit ergens naartoe verzonden.
 
-## Locatiegegevens van Foto's (optioneel)
+## Locatiegegevens van Foto's
 
-Uw foto's kunnen GPS-coördinaten bevatten die in hun metadata zijn ingebed. Als er locatiegegevens aanwezig zijn, kan Huepick de ingebouwde geocoderingsdienst van Apple gebruiken om die coördinaten om te zetten in een voor mensen leesbare plaatsnaam (bijvoorbeeld "Portland, OR") die naast uw opgeslagen palet wordt weergegeven. Dit is wat van belang is:
+Uw foto's kunnen GPS-coördinaten bevatten die in hun metadata zijn ingebed. Huepick gebruikt deze locatiegegevens niet en verzendt ze nooit ergens naartoe.
 
-- Alleen de GPS-coördinaten worden voor deze omzetting naar Apple verzonden
-- Er worden geen foto's, apparaat-ID's of persoonlijke informatie opgenomen
-- Deze functie wordt alleen geactiveerd wanneer uw foto al ingebedde locatiegegevens bevat
-- Als uw foto geen locatiegegevens heeft, wordt er geen netwerkverzoek gedaan
+## Opgeslagen Creaties
 
-Apple verwerkt deze gegevens volgens het [Privacybeleid van Apple](https://www.apple.com/legal/privacy/).
-
-## Opgeslagen Paletten en Creaties
-
-Paletten die u opslaat en afbeeldingen die u in de Playground verwerkt, worden lokaal op uw apparaat opgeslagen. Ze verlaten nooit uw apparaat.
+Creaties die u vanuit de Playground opslaat, worden lokaal op uw apparaat opgeslagen. Ze verlaten uw apparaat alleen als u ervoor kiest ze te delen.
 
 ## Diensten van Derden
 
-| Dienst | Doel | Wat Er Wordt Verzonden |
-|--------|------|------------------------|
-| Apple-geocodering | Zet de GPS-coördinaten van de foto om in een plaatsnaam | Alleen GPS-coördinaten (optioneel) |
-
-Er worden geen andere diensten van derden gebruikt.
+Geen. Huepick gebruikt geen diensten, SDK's of analysetools van derden.
 
 ## Gegevens Delen
 
@@ -67,13 +56,13 @@ We verkopen, delen of verhuren uw gegevens aan niemand. Er zijn geen gegevens om
 | Toestemming | Waarom Het Nodig Is | Vereist? |
 |-------------|---------------------|----------|
 | Camera | Om foto's te maken voor kleurextractie | Optioneel: u kunt in plaats daarvan uw fotobibliotheek gebruiken |
-| Fotobibliotheek | Om foto's te selecteren en verwerkte afbeeldingen op te slaan | Optioneel |
+| Fotobibliotheek | Om verwerkte afbeeldingen in uw fotobibliotheek op te slaan | Optioneel |
 
-We vragen geen toegang tot uw live locatie. Locatiegegevens worden alleen gelezen wanneer ze al bestaan in de ingebedde metadata van uw foto.
+Om een bestaande foto te kiezen, gebruikt Huepick de standaard fotokiezer van iOS, die alleen de foto's deelt die u selecteert. Huepick vraagt geen toegang tot uw locatie.
 
 ## Uw Gegevens Verwijderen
 
-Omdat we niets op onze servers opslaan, is er aan onze kant niets te verwijderen. Alle paletten of creaties die op uw apparaat zijn opgeslagen, kunnen afzonderlijk binnen de app worden verwijderd of volledig worden verwijderd door Huepick te de-installeren.
+Omdat we niets op onze servers opslaan, is er aan onze kant niets te verwijderen. Alle creaties die op uw apparaat zijn opgeslagen, kunnen afzonderlijk binnen de app worden verwijderd of volledig worden verwijderd door Huepick te de-installeren.
 
 ## Uw Rechten
 
@@ -85,7 +74,7 @@ Huepick verzamelt geen informatie van enige gebruiker, ook niet van kinderen jon
 
 ## Internationale Gebruikers
 
-Omdat Huepick geen persoonsgegevens verzamelt, vindt er geen grensoverschrijdende overdracht van persoonsgegevens plaats. Het enige netwerkverzoek (optionele geocodering van fotocoördinaten) verzendt GPS-coördinaten naar Apple en bevat geen persoonsgegevens of apparaat-ID's, ongeacht uw locatie.
+Omdat Huepick geen persoonsgegevens verzamelt en geen netwerkverzoeken doet, vindt er geen grensoverschrijdende overdracht van persoonsgegevens plaats.
 
 ## Wijzigingen in Dit Beleid
 

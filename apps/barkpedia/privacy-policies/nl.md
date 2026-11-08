@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/barkpedia/nl/
 ---
 
-**Ingangsdatum:** 11 april 2026
+**Ingangsdatum:** 8 november 2026
 
 Barkpedia ("de App") is een gratis iOS-applicatie die hondenrassen herkent op basis van foto's. Uw privacy staat centraal in de manier waarop we deze app hebben gebouwd. Hier leest u precies hoe uw informatie wordt behandeld.
 
@@ -31,7 +31,7 @@ Barkpedia ("de App") is een gratis iOS-applicatie die hondenrassen herkent op ba
 
 ## Hoe uw Foto's Worden Behandeld
 
-De App vraagt uitsluitend toestemming voor de camera en fotobibliotheek zodat u foto's van honden kunt maken of selecteren voor rasherkenning. Foto's die u maakt of selecteert, worden volledig op uw apparaat geanalyseerd met behulp van intelligentie op het apparaat. **Uw foto's worden nooit naar een server geüpload.**
+De App vraagt uitsluitend toestemming voor de camera zodat u foto's van honden kunt maken voor rasherkenning. Om een bestaande foto te gebruiken, opent de App de standaard fotokiezer van iOS. U kiest de foto en de App ontvangt alleen die foto, zonder toegang tot de rest van uw fotobibliotheek. Foto's die u maakt of selecteert, worden volledig op uw apparaat geanalyseerd met behulp van intelligentie op het apparaat. **Uw foto's worden nooit naar een server geüpload.**
 
 ## Wat Er op uw Apparaat Wordt Opgeslagen
 
@@ -56,7 +56,6 @@ We verkopen, verhuren of delen geen gebruikersgegevens met derden. Er zijn geen 
 | Toestemming | Waarom We Deze Vragen | Vereist? |
 |-------------|-----------------------|----------|
 | Camera | Om honden te fotograferen voor rasherkenning | Optioneel. U kunt in plaats daarvan uw fotobibliotheek gebruiken |
-| Fotobibliotheek | Om bestaande foto's te selecteren voor rasherkenning | Optioneel. U kunt in plaats daarvan de camera gebruiken |
 
 **Dat is alles.** De App vraagt of gebruikt geen locatie, contacten, microfoon, Bluetooth, tracking (ATT), meldingen of enige andere gevoelige toestemming.
 

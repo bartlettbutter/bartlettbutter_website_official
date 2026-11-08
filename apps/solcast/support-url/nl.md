@@ -31,17 +31,17 @@ Elke wijziging wordt onmiddellijk van kracht, zonder dat herladen nodig is.
 
 ### Hoe beheer ik locaties?
 
-Je kunt tot 4 locaties opslaan in de gratis versie (onbeperkt met Premium). Gebruik de locatiekiezer op het dashboard om ertussen te schakelen, of tik op het zoekpictogram om een nieuwe stad toe te voegen. Elke locatie toont het weer in zijn eigen lokale tijdzone, zodat de tijden (zonsopgang, zonsondergang, uurvoorspelling) altijd relevant zijn voor die stad.
+Je kunt tot 4 locaties opslaan. Gebruik de locatiekiezer op het dashboard om ertussen te schakelen, of tik op het zoekpictogram om een nieuwe stad toe te voegen. Elke locatie toont het weer in zijn eigen lokale tijdzone, zodat de tijden (zonsopgang, zonsondergang, uurvoorspelling) altijd relevant zijn voor die stad.
 
 ## Veelgestelde Vragen
 
 ### Is Solcast gratis?
 
-Ja. Solcast is gratis te downloaden en de volledige weerervaring (voorspellingen, outfitsuggesties, dagelijkse briefing, alle 16 lifestyle-indexen en slimme weerswaarschuwingen) is gratis, zonder advertenties. Een optioneel Premium-abonnement voegt persoonlijke herinneringen toe en verhoogt de limiet voor opgeslagen steden; al het andere is gratis. Zie de [gebruiksvoorwaarden](/solcast/terms/nl/) voor hoe abonnementen worden gefactureerd en opgezegd.
+Ja. Solcast is gratis te downloaden en alle huidige functies, waaronder voorspellingen, outfitsuggesties, de dagelijkse briefing, alle 16 lifestyle-indexen en slimme weerswaarschuwingen, zijn kosteloos beschikbaar, zonder advertenties en zonder account. In de toekomst kunnen we optionele premiumfuncties introduceren.
 
 ### Verzamelt Solcast mijn gegevens?
 
-Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Al je voorkeuren blijven op je apparaat. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/solcast/privacy/) voor meer details.
+Nee. Er zijn geen gebruikersaccounts, geen analyse, geen tracking en geen advertenties. Al je voorkeuren blijven op je apparaat. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/solcast/privacy/nl/) voor meer details.
 
 ### Heb ik een internetverbinding nodig?
 
@@ -71,7 +71,7 @@ Locatie (Tijdens gebruik) wordt gebruikt om nauwkeurige weer-, luchtkwaliteits- 
 
 ### Heeft Solcast toegang tot mijn camera, contacten of iets anders?
 
-Nee. Solcast vraagt alleen locatietoestemming. Het heeft geen toegang tot je camera, foto's, contacten, microfoon, gezondheidsgegevens of enige andere informatie.
+Nee. Naast locatie vraagt Solcast alleen toestemming om meldingen te sturen, die het gebruikt voor slimme weerswaarschuwingen. Het heeft geen toegang tot je camera, foto's, contacten, microfoon, gezondheidsgegevens of enige andere informatie.
 
 ## Probleemoplossing
 

@@ -26,7 +26,7 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">검색하고 탐색할 수 있는 풍부한 AKC 스타일 프로필을 갖춘 개 품종</span>
+    <span class="marketing-stat-label">검색하고 탐색할 수 있는 풍부한 프로필을 갖춘 개 품종</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>읽을 만한 가치가 있는 프로필</h3>
-      <p>각 품종은 그 개가 무엇으로 불리는지뿐 아니라 실제로 어떤지 설명하는 AKC 스타일 프로필을 엽니다.</p>
+      <p>각 품종은 그 개가 무엇으로 불리는지뿐 아니라 실제로 어떤지 설명하는 상세한 프로필을 엽니다.</p>
       <ul class="marketing-list">
         <li>기질, 수명, 체중, 신장을 한눈에</li>
         <li>원산지 국가와 품종의 역사</li>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">개인정보 기조</span>
       <h3 class="marketing-price-summary">업로드 없음. 계정 없음. 추적 없음.</h3>
       <p>여러분의 사진은 절대 기기를 벗어나지 않습니다. 품종 식별은 전적으로 기기에서 이루어지며, 품종 프로필과 퀴즈 사진은 공개된 견종 정보 출처에서 불러오고 개인 데이터는 전혀 포함되지 않습니다.</p>
-      <p class="marketing-price-note"><a href="/barkpedia/privacy/">개인정보 처리방침 읽기</a></p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/ko/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="bp-next-title">만나는 모든 개의 이름을 알 준비가 되셨나요?</h2>
   <p>Barkpedia를 다운로드해 곧바로 스캔을 시작하고, 호기심이 생길 때마다 나머지 품종 세계를 가까이 두세요.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/barkpedia/support/">지원 방문하기</a>
-    <a class="marketing-inline-link" href="/barkpedia/privacy/">개인정보 처리방침 읽기</a>
+    <a class="marketing-inline-link" href="/barkpedia/support/ko/">지원 방문하기</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/ko/">개인정보 처리방침 읽기</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

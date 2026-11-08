@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">隱私立場</span>
       <h3 class="marketing-price-summary">無雲端帳戶。無追蹤。無廣告。</h3>
       <p>TrafficVibe 絕不捏造數字，並把你的通勤留給你自己。沒有註冊，也沒有關於你的任何資訊可供收集。</p>
-      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">閱讀隱私政策</a></p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/zh-Hant/">閱讀隱私政策</a></p>
     </article>
   </div>
 </section>
@@ -223,8 +223,8 @@ redirect_from:
   <h2 id="tv-next-title">準備好在出發前就瞭如指掌了嗎？</h2>
   <p>下載 TrafficVibe，立即讀到今早的簡報，讓每一次出行都清楚前方等著你的是什麼。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/trafficvibe/support/">前往支援</a>
-    <a class="marketing-inline-link" href="/trafficvibe/privacy/">閱讀隱私政策</a>
+    <a class="marketing-inline-link" href="/trafficvibe/support/zh-Hant/">前往支援</a>
+    <a class="marketing-inline-link" href="/trafficvibe/privacy/zh-Hant/">閱讀隱私政策</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

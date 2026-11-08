@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/sayminder/nl/
 ---
 
-**Ingangsdatum:** 27 september 2026
+**Ingangsdatum:** 8 november 2026
 
 Sayminder ("de App") is een gratis, spraakgestuurde herinneringsapp voor iPhone en iPad. Privacy staat centraal in de manier waarop we hem hebben gebouwd. Dit beleid legt precies uit welke gegevens betrokken zijn wanneer je Sayminder gebruikt en, nog belangrijker, welke niet.
 
@@ -45,6 +45,10 @@ De herinneringen die je maakt, inclusief hun titels, notities, tijden, herhaling
 
 Als je **Agenda-afspraken tonen** inschakelt, leest de app de afspraken van je systeemagenda om ze naast je herinneringen weer te geven. Deze toegang is alleen-lezen: Sayminder maakt, bewerkt of verwijdert nooit agenda-afspraken, en de afspraken worden alleen op je apparaat gelezen om de agenda weer te geven. Deze laag is uitgeschakeld totdat je hem inschakelt.
 
+### Nationale feestdagen (optioneel, locatie)
+
+Als je **Nationale feestdagen tonen** inschakelt, vraagt de app locatietoestemming tijdens gebruik en bepaalt hij een grove locatie (met een nauwkeurigheid van ongeveer een kilometer) wanneer hij start of terugkeert naar de voorgrond. Apple's MapKit zet die locatie om in een land, dus de coördinaten worden voor deze opzoeking naar Apple gestuurd en verwerkt volgens het [Privacybeleid van Apple](https://www.apple.com/legal/privacy/). Sayminder stuurt vervolgens alleen de landcode van twee letters (bijvoorbeeld "DE") naar de openbare feestdagendienst [Nager.Date](https://date.nager.at) om de nationale feestdagen van dat land op te halen. Je coördinaten worden nooit naar ons of naar de feestdagendienst gestuurd, en de lijst met feestdagen wordt alleen in het geheugen bewaard. Deze laag is uitgeschakeld totdat je hem inschakelt.
+
 ### Planning en tekst-naar-spraak
 
 Alarmen, meldingen en het hardop voorlezen worden allemaal op je apparaat afgehandeld door de frameworks van het besturingssysteem. Er worden geen planningsgegevens of gesproken tekst ergens naartoe verstuurd.
@@ -57,18 +61,19 @@ Sayminder vraagt de volgende rechten aan:
 |------------|---------|
 | **Microfoon** | Je stem vastleggen zodat er een herinnering kan worden gemaakt |
 | **Spraakherkenning** | Je spraak transcriberen naar herinneringstekst |
-| **Meldingen / Alarmen** | Je waarschuwen op het tijdstip van de herinnering |
+| **Meldingen / Alarmen (optioneel)** | Je waarschuwen op het tijdstip van de herinnering, alleen als je waarschuwingen inschakelt |
 | **Agenda (alleen-lezen, optioneel)** | Je bestaande afspraken naast herinneringen tonen, alleen als je het inschakelt |
+| **Locatie (tijdens gebruik, optioneel)** | Bepalen in welk land je bent om de nationale feestdagen ervan te tonen, alleen als je het inschakelt |
 
-Er worden geen andere rechten aangevraagd: geen camera, contacten, foto's, gezondheidsgegevens of locatie.
+Er worden geen andere rechten aangevraagd: geen camera, contacten, foto's of gezondheidsgegevens.
 
 ## Diensten van derden
 
-Sayminder integreert geen analyse-, advertentie- of trackingdiensten van derden. Spraakherkenning gebruikt Apple's spraakherkenningsframeworks op het apparaat en van het systeem; planning en tekst-naar-spraak gebruiken Apple's systeemframeworks. Deze draaien als onderdeel van het besturingssysteem op je apparaat.
+Sayminder integreert geen analyse-, advertentie- of trackingdiensten van derden. Spraakherkenning gebruikt Apple's spraakherkenningsframeworks op het apparaat en van het systeem; planning en tekst-naar-spraak gebruiken Apple's systeemframeworks. Deze draaien als onderdeel van het besturingssysteem op je apparaat. De optionele feestdagenlaag gebruikt Apple's MapKit om je land te bepalen en de openbare dienst Nager.Date om feestdagen op te zoeken; Nager.Date ontvangt alleen een landcode.
 
 ## Delen van gegevens
 
-We verkopen, verhuren, licentiëren of delen je gegevens met niemand. Sayminder genereert geen netwerkverkeer waarmee je herinneringen, stem, transcripties of agendagegevens worden verzonden.
+We verkopen, verhuren, licentiëren of delen je gegevens met niemand. Sayminder genereert geen netwerkverkeer waarmee je herinneringen, stem, transcripties of agendagegevens worden verzonden. De enige dienst van derden waarmee de app contact maakt, is Nager.Date, voor de hierboven beschreven optionele opzoeking van feestdagen, en die ontvangt alleen een landcode.
 
 ## Bewaring en verwijdering van gegevens
 

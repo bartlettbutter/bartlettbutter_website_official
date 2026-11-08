@@ -79,7 +79,7 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
       <p>Altı yaratıcı araç, kendi paletinizdeki renkleri kullanarak herhangi bir görüntüyü yeniden şekillendirmenizi sağlar.</p>
       <ul class="marketing-list">
         <li>İzole, Duotone, Tritone, Pikselleştir, Bulanıklaştır ve Glitch</li>
-        <li>Her efektte yoğunluğu, stili ve yönü ince ayarlayın</li>
+        <li>Her efekti yoğunluk, stil ve yön gibi ayarlarla ince ayarlayın</li>
         <li>Oluşturmalarınızı kaydedin, Fotoğraflar'a indirin veya paylaşın</li>
       </ul>
     </article>
@@ -87,7 +87,7 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
       <h3>Varsayılan olarak gizli</h3>
       <p>Hesap yok, analiz yok, reklam yok. Fotoğraflarınız cihazınızdan asla çıkmaz ve her şey bağlantı olmadan çalışır.</p>
       <ul class="marketing-list">
-        <li>Paletler ve oluşturmalar yerel olarak saklanır</li>
+        <li>Kaydettiğiniz oluşturmalar yerel olarak saklanır</li>
         <li>Kayıt olacak hiçbir şey yok ve kullanımı ücretsiz</li>
       </ul>
     </article>
@@ -111,17 +111,17 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
     </article>
     <article class="marketing-card">
       <h3>Playground</h3>
-      <p>Görüntünüzü altı yaratıcı araçla yeniden şekillendirin; her biri fotoğrafınıza göre ayarlanmış önerilerle yönlendirilir.</p>
+      <p>Görüntünüzü, fotoğrafınıza göre ayarlanmış önerilerin yönlendirdiği altı yaratıcı araçla yeniden şekillendirin.</p>
       <ul class="marketing-list">
         <li>İzole, Duotone, Tritone, Pikselleştir, Bulanıklaştır ve Glitch</li>
-        <li>Her efektte yoğunluğu, stili ve yönü ayarlayın</li>
+        <li>Her efekti yoğunluk, stil ve yön gibi ayarlarla düzenleyin</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Galeri</h3>
       <p>Kaydettiğiniz her oluşturma burada yaşar; ilham geri döndüğünde yeniden görmeye hazır.</p>
       <ul class="marketing-list">
-        <li>Kaydettiğiniz herhangi bir paleti veya oluşturmayı yeniden düzenleyin</li>
+        <li>Kaydettiğiniz herhangi bir oluşturmayı yeniden düzenleyin</li>
         <li>Bir dokunuşla Fotoğraflar'a indirin veya paylaşın</li>
       </ul>
     </article>
@@ -164,8 +164,8 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>Sevdiğiniz renklerin bir kitaplığını oluşturun</h3>
-      <p>Herhangi bir paleti veya oluşturmayı kaydedin ve istediğiniz zaman geri dönün. Gözünüze çarpan bir rengi hatırlamak, görünümleri karşılaştırmak ve çalışmalarınızda tam hex kodlarını yeniden kullanmak için kullanışlıdır.</p>
+      <h3>Sevdiğiniz görünümlerin bir kitaplığını oluşturun</h3>
+      <p>Herhangi bir oluşturmayı kaydedin; istediğiniz zaman geri dönün veya yeniden düzenleyin. Herhangi bir paletteki tam hex kodlarını tek dokunuşla kopyalayın ve çalışmalarınızda yeniden kullanın.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Yaratıcı insanlar için yapıldı</h3>
@@ -195,7 +195,7 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Sunucu yok. Bulut yok. İzleme yok.</h3>
       <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Çıkarma, analiz ve her yaratıcı araç yerel olarak çalışır.</p>
-      <p class="marketing-price-note"><a href="/huepick/privacy/">Gizlilik politikasını okuyun</a></p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/tr/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Size ilham veren her şeyin fotoğrafını çekin; Huepick içindeki gizli palet
   <h2 id="hp-next-title">Etrafınızdaki renkleri görmeye hazır mısınız?</h2>
   <p>Huepick'i indirin, hemen palet çıkarmaya başlayın ve ilham geldiğinde yaratıcı araçlarınızı el altında tutun.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/huepick/support/">Desteği ziyaret edin</a>
-    <a class="marketing-inline-link" href="/huepick/privacy/">Gizlilik politikasını okuyun</a>
+    <a class="marketing-inline-link" href="/huepick/support/tr/">Desteği ziyaret edin</a>
+    <a class="marketing-inline-link" href="/huepick/privacy/tr/">Gizlilik politikasını okuyun</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

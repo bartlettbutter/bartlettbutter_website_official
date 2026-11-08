@@ -16,7 +16,7 @@ Whether you're setting up your first trip or troubleshooting a feature, you'll f
 
 ### Is Journeyfolio free?
 
-Yes. Journeyfolio is free to download and lets you plan up to 10 trips at no cost. Premium features (unlimited trips, live flight tracking, and weather forecasts) are available through optional auto-renewable subscriptions (monthly, 6-month, or yearly).
+Yes. Journeyfolio is free to download and lets you plan up to 10 trips at no cost, with weather forecasts, public holidays, ticket auto-fill, and trip reminders included. Premium features (unlimited trips, live flight status, and Verify Flight auto-fill) are available through optional auto-renewable subscriptions (monthly, 6-month, or yearly).
 
 ### I purchased Journeyfolio before it went free. Do I lose access?
 
@@ -62,7 +62,7 @@ Yes. Toggle "Multi-day" when adding an activity to set start and end dates. It w
 
 ### How do I attach documents to an activity?
 
-Open any activity, tap the attachment option, then snap a photo with your camera or import a file. Supported formats include PDF, JPEG, and PNG. Smart OCR will attempt to auto-fill booking details from your document.
+Open any activity, tap the attachment option, then add a file from Files, an image from Photos, or a photo from your camera. Supported formats include PDF, JPEG, and PNG. Journeyfolio reads the document on your device and fills in details such as flight number, seat, and confirmation code. Text you've already entered is never overwritten.
 
 ### How does the location search work?
 
@@ -70,17 +70,25 @@ When adding an activity, type a name or keyword into the built-in search. Tap a 
 
 ### How do weather forecasts work?
 
-Add a destination city and Journeyfolio fetches current conditions plus a 5-day forecast via [Apple Weather](https://weatherkit.apple.com/legal-attribution.html). Toggle between °C and °F on the weather card. *Weather forecasts require a Premium subscription.*
+Add a destination city and Journeyfolio fetches current conditions plus a 5-day forecast via [Apple Weather](https://weatherkit.apple.com/legal-attribution.html). Toggle between °C and °F on the weather card. *Weather forecasts are free for everyone.*
 
 ### How does flight tracking work?
 
-Enter your flight number and departure date, then tap "Verify Flight." The app auto-fills route, airline, and times in each airport's local timezone. For departures within ~24 hours, live status badges (On Time, Delayed, Cancelled, In Air, Landed) appear automatically. *Live flight tracking requires a Premium subscription.*
+Enter your flight number and departure date, then tap "Verify Flight." The app auto-fills route, airline, and times in each airport's local timezone. For departures within ~24 hours, live status badges (On Time, Delayed, Cancelled, In Air, Landed) appear automatically. *Verify Flight and live flight status require a Premium subscription. On the free plan, you can enter flight details yourself or fill them in from a ticket.*
 
 Schedule verification covers flights up to 12 months in the future and 3 months in the past.
 
 ### How do public holidays work?
 
 Journeyfolio detects your destination's country and displays public holidays in the date strip. Holiday dates are highlighted with a soft yellow background so you can plan around closures.
+
+### What does the Upcoming tab show?
+
+The Upcoming tab opens on Today: the date, which day of your trip it is, which city you're in, and today's plans. Below it, every trip that hasn't ended yet shows a countdown, from "In 12 days" to "Happening now".
+
+### How do reminders work?
+
+Each upcoming trip lists what's still missing: nights with no hotel booked and legs between cities with no transport. When nothing is missing, it confirms that your trip information is complete. Turn on Trip Reminders in the Settings tab to get a notification the day before each trip begins. Reminders are scheduled on your device.
 
 ### Do I need an internet connection?
 
@@ -102,7 +110,7 @@ Go to **Settings → your name → Subscriptions** on your device. You can switc
 
 ### Will I lose my trips if I cancel?
 
-No. Your trip data is stored locally and is completely independent of your subscription. Canceling Premium only limits access to flight tracking and weather features.
+No. Your trip data is stored locally and is completely independent of your subscription. Canceling Premium only turns off live flight status and Verify Flight. Your existing trips stay, but you can't add new ones beyond the free limit of 10.
 
 ## Troubleshooting
 
@@ -110,8 +118,7 @@ No. Your trip data is stored locally and is completely independent of your subsc
 
 1. Confirm your device has an internet connection.
 2. Verify the destination city name is correct.
-3. Ensure you have an active Premium subscription.
-4. If it still doesn't load, try again in a few minutes, as the weather service may be temporarily unavailable.
+3. If it still doesn't load, try again in a few minutes, as the weather service may be temporarily unavailable.
 
 ### Flight verification says "No flight found"
 

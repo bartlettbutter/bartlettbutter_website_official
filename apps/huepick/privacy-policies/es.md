@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/huepick/es/
 ---
 
-**Fecha de vigencia:** 8 de julio de 2026
+**Fecha de vigencia:** 8 de noviembre de 2026
 
 Huepick es una aplicación iOS gratuita para extraer colores de fotos, crear paletas y transformar imágenes con herramientas creativas. Esta política explica cómo manejamos tu información, en lenguaje sencillo.
 
@@ -25,7 +25,7 @@ Huepick es una aplicación iOS gratuita para extraer colores de fotos, crear pal
 | ¿Se venden o comparten mis datos? | No |
 | ¿Los niños pueden usar la aplicación de forma segura? | Sí |
 
-La única vez que algún dato sale de tu dispositivo es cuando una función opcional convierte las coordenadas de ubicación de una foto en un nombre de lugar legible, y solo se envían las coordenadas.
+Huepick funciona completamente sin conexión y no realiza solicitudes de red. Nada sale de tu dispositivo a menos que decidas compartir una creación.
 
 ## Qué Datos Recopilamos
 
@@ -35,28 +35,17 @@ La única vez que algún dato sale de tu dispositivo es cuando una función opci
 
 Cuando tomas o seleccionas una foto, todo el procesamiento, incluidos la extracción de colores, la generación de paletas y los efectos creativos, ocurre localmente en tu dispositivo. Tus fotos nunca se envían a ningún lugar.
 
-## Datos de Ubicación de las Fotos (opcional)
+## Datos de Ubicación de las Fotos
 
-Tus fotos pueden contener coordenadas GPS incrustadas en sus metadatos. Si hay datos de ubicación presentes, Huepick puede usar el servicio de geocodificación integrado de Apple para convertir esas coordenadas en un nombre de lugar legible (por ejemplo, "Portland, OR") que se muestra junto a tu paleta guardada. Esto es lo que importa:
+Tus fotos pueden contener coordenadas GPS incrustadas en sus metadatos. Huepick no usa estos datos de ubicación y nunca los envía a ningún lugar.
 
-- Solo se envían las coordenadas GPS a Apple para esta conversión
-- No se incluye ninguna foto, identificador de dispositivo ni información personal
-- Esta función se activa únicamente cuando tu foto ya tiene datos de ubicación incrustados
-- Si tu foto no tiene datos de ubicación, no se realiza ninguna solicitud de red
+## Creaciones Guardadas
 
-Apple maneja estos datos según la [Política de Privacidad de Apple](https://www.apple.com/legal/privacy/).
-
-## Paletas y Creaciones Guardadas
-
-Las paletas que guardas y las imágenes que procesas en el Playground se almacenan localmente en tu dispositivo. Nunca salen de tu dispositivo.
+Las creaciones que guardas desde el Playground se almacenan localmente en tu dispositivo. Solo salen de tu dispositivo si decides compartirlas.
 
 ## Servicios de Terceros
 
-| Servicio | Propósito | Qué se envía |
-|----------|-----------|--------------|
-| Geocodificación de Apple | Convierte las coordenadas GPS de la foto en un nombre de lugar | Solo coordenadas GPS (opcional) |
-
-No se usa ningún otro servicio de terceros.
+Ninguno. Huepick no usa servicios, SDK ni herramientas de análisis de terceros.
 
 ## Compartición de Datos
 
@@ -67,13 +56,13 @@ No vendemos, compartimos ni alquilamos tus datos a nadie. No hay datos que compa
 | Permiso | Por Qué se Necesita | ¿Requerido? |
 |---------|---------------------|-------------|
 | Cámara | Para tomar fotos para la extracción de colores | Opcional: puedes usar tu biblioteca de fotos |
-| Biblioteca de Fotos | Para seleccionar fotos y guardar imágenes procesadas | Opcional |
+| Biblioteca de Fotos | Para guardar imágenes procesadas en tu biblioteca de fotos | Opcional |
 
-No solicitamos acceso a tu ubicación en vivo. Los datos de ubicación solo se leen cuando ya existen en los metadatos incrustados de tu foto.
+Para elegir una foto existente, Huepick usa el selector de fotos estándar de iOS, que solo comparte las fotos que seleccionas. Huepick no solicita acceso a tu ubicación.
 
 ## Eliminación de tus Datos
 
-Ya que no almacenamos nada en nuestros servidores, no hay nada que eliminar de nuestro lado. Cualquier paleta o creación almacenada en tu dispositivo puede eliminarse individualmente dentro de la aplicación o quitarse por completo desinstalando Huepick.
+Ya que no almacenamos nada en nuestros servidores, no hay nada que eliminar de nuestro lado. Cualquier creación almacenada en tu dispositivo puede eliminarse individualmente dentro de la aplicación o quitarse por completo desinstalando Huepick.
 
 ## Tus Derechos
 
@@ -85,7 +74,7 @@ Huepick no recopila ninguna información de ningún usuario, incluidos los niño
 
 ## Usuarios Internacionales
 
-Dado que Huepick no recopila datos personales, no se produce ninguna transferencia transfronteriza de información personal. La única solicitud de red (geocodificación opcional de las coordenadas de la foto) envía coordenadas GPS a Apple y no contiene datos personales ni identificadores de dispositivo, independientemente de tu ubicación.
+Dado que Huepick no recopila datos personales ni realiza solicitudes de red, no se produce ninguna transferencia transfronteriza de información personal.
 
 ## Cambios en Esta Política
 

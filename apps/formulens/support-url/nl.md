@@ -146,7 +146,7 @@ Nee. Alle fotoverwerking gebeurt volledig op je apparaat. Je afbeeldingen verlat
 
 ### Welke gegevens verzamelen jullie?
 
-Geen. FormuLens heeft geen accounts, geen analyses, geen tracking en geen advertenties. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/formulens/privacy/) voor details.
+Geen. FormuLens heeft geen accounts, geen analyses, geen tracking en geen advertenties. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/formulens/privacy/nl/) voor details.
 
 ### Hoe verwijder ik mijn opgeslagen gegevens?
 

@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/etfwise/es/
 ---
 
-**Fecha de vigencia:** 28 de octubre de 2026
+**Fecha de vigencia:** 8 de noviembre de 2026
 
 ETFWise ("la Aplicación") es una aplicación iOS de descarga gratuita con una suscripción Premium opcional, que ofrece selecciones diarias de ETF con datos de mercado y análisis instantáneo en el dispositivo. Tu privacidad es fundamental en el diseño de esta aplicación. Aquí explicamos exactamente cómo se maneja tu información.
 
@@ -59,7 +59,7 @@ ETFWise ofrece una suscripción Premium opcional de renovación automática que 
 
 ## Análisis en el Dispositivo
 
-Los argumentos alcistas, los argumentos de riesgo y las descripciones de fondos se generan completamente en tu dispositivo a partir de los datos de mercado ya obtenidos para cada ETF. Este análisis no implica ninguna descarga por separado ni ningún servidor externo: nada relacionado con él sale de tu dispositivo.
+Los argumentos alcistas y los argumentos de riesgo se generan completamente en tu dispositivo a partir de los datos de mercado ya obtenidos para cada ETF. Este análisis no implica ninguna descarga por separado ni ningún servidor externo: nada relacionado con él sale de tu dispositivo.
 
 ## Compartición de Datos
 

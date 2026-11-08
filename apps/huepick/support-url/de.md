@@ -25,7 +25,7 @@ Nein. Huepick hat keine Konten, keine Anmeldung und keinen Login. Öffne einfach
 
 ### Ist eine Internetverbindung erforderlich?
 
-Fast alles funktioniert offline, darunter Farbextraktion, Paletten, kreative Werkzeuge und Speichern. Die einzige optionale Netzwerkfunktion ist die Umwandlung von Fotostandortkoordinaten in einen Ortsnamen (wie „Seattle, WA") auf gespeicherten Paletten.
+Nein. Alles funktioniert offline, darunter Farbextraktion, Farbanalyse, kreative Werkzeuge und Speichern.
 
 ### Ist Huepick wirklich kostenlos?
 
@@ -72,7 +72,7 @@ Halte die Kreation in der Galerie gedrückt und wähle „Löschen". Du wirst um
 
 ### Wo werden meine Daten gespeichert?
 
-Alles, einschließlich gespeicherter Paletten und Kreationen, wird lokal auf deinem Gerät gespeichert. Wir haben keine Server, keinen Cloud-Speicher und keinen Zugriff auf deine Daten.
+Alles, einschließlich deiner gespeicherten Kreationen, wird lokal auf deinem Gerät gespeichert. Wir haben keine Server, keinen Cloud-Speicher und keinen Zugriff auf deine Daten.
 
 ### Werden meine Fotos irgendwohin hochgeladen?
 
@@ -80,11 +80,11 @@ Niemals. Die gesamte Verarbeitung erfolgt vollständig auf deinem Gerät.
 
 ### Welche Daten erhebt ihr?
 
-Keine. Keine personenbezogenen Daten, keine Nutzungsanalysen, keine Gerätekennungen. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/huepick/privacy/).
+Keine. Keine personenbezogenen Daten, keine Nutzungsanalysen, keine Gerätekennungen. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/huepick/privacy/de/).
 
 ### Was passiert, wenn ich die App lösche?
 
-Die Deinstallation von Huepick entfernt dauerhaft alle gespeicherten Paletten und Kreationen von deinem Gerät. Da es keine Cloud-Sicherung oder -Synchronisierung gibt, kann dies nicht rückgängig gemacht werden.
+Die Deinstallation von Huepick entfernt dauerhaft alle gespeicherten Kreationen von deinem Gerät. Da es keine Cloud-Sicherung oder -Synchronisierung gibt, kann dies nicht rückgängig gemacht werden.
 
 ## Fehlerbehebung
 

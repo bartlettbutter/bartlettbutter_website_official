@@ -11,7 +11,7 @@ redirect_from:
 
 # Know exactly how to dress, plan, and protect your day.
 
-Solcast goes beyond the forecast. It tells you what to wear, when to bring an umbrella, and how to keep your family comfortable, all personalized to your life and delivered in plain language. No ads, no accounts, free to use, with an optional Premium upgrade. Just open and go.
+Solcast goes beyond the forecast. It tells you what to wear, when to bring an umbrella, and how to keep your family comfortable, all personalized to your life and delivered in plain language. No ads, no accounts, and free to use. Just open and go.
 
 <!--gallery-->
 
@@ -19,7 +19,7 @@ Solcast goes beyond the forecast. It tells you what to wear, when to bring an um
   <span class="marketing-chip">Answers, not numbers</span>
   <span class="marketing-chip">16 lifestyle indices</span>
   <span class="marketing-chip">No ads or accounts</span>
-  <span class="marketing-chip">Free + optional Premium</span>
+  <span class="marketing-chip">Free to use</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Solcast at a glance">
@@ -181,29 +181,21 @@ Solcast goes beyond the forecast. It tells you what to wear, when to bring an um
 
 <section class="marketing-band" aria-labelledby="sc-offer-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Pricing and tiers</p>
-    <h2 id="sc-offer-title" class="marketing-section-title">Free to use. Upgrade when you want more.</h2>
+    <p class="marketing-eyebrow">Offer and trust</p>
+    <h2 id="sc-offer-title" class="marketing-section-title">Free to download. Private by design.</h2>
   </div>
   <div class="marketing-price-grid">
-    <article class="marketing-price-card">
-      <span class="marketing-price-tier">Free</span>
-      <h3 class="marketing-price-summary">Everything you need to plan your day, at no cost.</h3>
-      <p>Ideal for anyone who wants clear, personalized weather guidance without ads, accounts, or a paywall standing in the way.</p>
-      <ul class="marketing-list">
-        <li>Daily briefing, 7-day forecast, and hourly strip</li>
-        <li>All 16 lifestyle indices and outfit picks</li>
-        <li>Save multiple cities and start with no account</li>
-      </ul>
-    </article>
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Unlimited locations and the full picture in one place.</h3>
-      <p>Premium is for people who follow the weather across many cities and want to lift the free limits on saved places.</p>
-      <ul class="marketing-list">
-        <li>Unlimited saved locations, each in its local timezone</li>
-        <li>An optional upgrade on top of the free app</li>
-        <li>No ads and no tracking, on Free or Premium</li>
-      </ul>
+      <span class="marketing-price-tier">Included today</span>
+      <h3 class="marketing-price-summary">All current features are available at no cost.</h3>
+      <p>The daily briefing, 7-day and hourly forecasts, all 16 lifestyle indices, outfit picks, and smart weather alerts, with up to 4 saved cities and no account.</p>
+      <p class="marketing-price-note">Compatible with iPhone and iPad on iOS 18.0 or later.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">Privacy posture</span>
+      <h3 class="marketing-price-summary">No accounts. No tracking. No ads.</h3>
+      <p>Your preferences and personalization stay on your device. Weather and place lookups send only coordinates or a search query, and holiday lookups send only a country code.</p>
+      <p class="marketing-price-note"><a href="/solcast/privacy/">Read privacy policy</a></p>
     </article>
   </div>
 </section>
@@ -214,7 +206,6 @@ Solcast goes beyond the forecast. It tells you what to wear, when to bring an um
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/solcast/support/">Visit support</a>
     <a class="marketing-inline-link" href="/solcast/privacy/">Read privacy policy</a>
-    <a class="marketing-inline-link" href="/solcast/terms/">Read terms of use</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

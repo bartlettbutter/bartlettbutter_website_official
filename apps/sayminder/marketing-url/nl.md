@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "Spreek een herinnering in en ze bereikt je op tijd, zelfs op stil, en leest zichzelf hardop voor."
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: nl
 permalink: /sayminder/nl/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt, zeg wat en wanneer, en Sayminder transcribeert het, leest de tijd uit je woorden en zet het in je agenda. Als het moment komt, waarschuwt het je, zelfs op stil of in Focus, en leest het de herinnering met een natuurlijke stem terug.
+De snelste herinnering is degene die je uitspreekt. Tik op de microfoon, zeg wat en wanneer, en Sayminder transcribeert het, leest de tijd uit je woorden en zet het in je agenda. Als het moment komt, waarschuwt het je, zelfs op stil of in Focus, en leest het de herinnering hardop voor als je de app kort daarna opent.
 
 <div class="marketing-chip-row" aria-label="Hoogtepunten van Sayminder">
   <span class="marketing-chip">Spreek, typ niet</span>
   <span class="marketing-chip">Breekt door stil en Focus heen</span>
   <span class="marketing-chip">Leest herinneringen hardop voor</span>
-  <span class="marketing-chip">Privé, op het apparaat</span>
+  <span class="marketing-chip">Privé door ontwerp</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Sayminder in één oogopslag">
@@ -33,14 +33,14 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
     <span class="marketing-stat-label">doorbrekende wekkers gaan zelfs op stil of in Focus af en worden nooit stilletjes genegeerd</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privé en op het apparaat, zonder accounts, zonder tracking en zonder advertenties</span>
+    <span class="marketing-stat-value">0 accounts</span>
+    <span class="marketing-stat-label">herinneringen blijven op je apparaat, zonder aanmelding, zonder tracking en zonder advertenties</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download in de App Store">
     </a>
   </div>
@@ -63,6 +63,7 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
         <li>"Herinner me eraan vanavond om negen uur mijn medicijn te nemen"</li>
         <li>"Over 20 minuten", "volgende vrijdag", "eind van de maand"</li>
         <li>Een live transcriptie terwijl je spreekt, aan te passen voor je bewaart</li>
+        <li>Zeg meerdere dingen tegelijk en elk wordt een eigen herinnering</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
     </article>
     <article class="marketing-card">
       <h3>Het leest naar je terug</h3>
-      <p>Als een herinnering binnenkomt, spreekt de app die hardop uit en bevestigt hardop wanneer je er een bewaart, zodat de hele cyclus handsfree is.</p>
+      <p>Als een herinnering afgaat terwijl de app open is, of je de app kort daarna opent, spreekt Sayminder die hardop uit. Het bevestigt ook hardop wanneer je er een bewaart, zodat de hele cyclus handsfree is.</p>
       <ul class="marketing-list">
         <li>"Oké. Ik zal je eraan herinneren om…" na het bewaren</li>
         <li>Elke rij in de lijst kan op verzoek worden voorgelezen</li>
@@ -88,7 +89,7 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
       <p>Spraakherkenning draait op het apparaat wanneer je taal dat ondersteunt, en herinneringen worden alleen op je apparaat bewaard.</p>
       <ul class="marketing-list">
         <li>Geen accounts, geen analyses, geen advertenties</li>
-        <li>Er wordt niets ergens heen gestuurd om te verwerken</li>
+        <li>Optionele feestdagen delen alleen een landcode met de feestdagendienst</li>
         <li>Verwijder de app en alles gaat mee</li>
       </ul>
     </article>
@@ -104,10 +105,11 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
   <div class="marketing-card-grid marketing-card-grid--three">
     <article class="marketing-card marketing-card--featured">
       <h3>Spraakopname</h3>
-      <p>Ingedrukt houden en spreken. Sayminder analyseert natuurlijke formuleringen en toont dan het resultaat om te bevestigen of met de hand aan te passen.</p>
+      <p>Tik en spreek. Sayminder analyseert natuurlijke formuleringen en toont dan het resultaat om te bevestigen of met de hand aan te passen.</p>
       <ul class="marketing-list">
         <li>Bewerkbare titel, notities, datum en herhaaloptie</li>
         <li>Een verstreken eenmalig tijdstip biedt aan naar morgen te verplaatsen</li>
+        <li>Kun je nu niet praten? Typ dan</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
       <p>Een maandraster stipt de dagen met herinneringen aan, en een widget voor het beginscherm en toegangsscherm houdt je volgende in beeld.</p>
       <ul class="marketing-list">
         <li>Een optionele alleen-lezen laag weerspiegelt je systeemagenda</li>
+        <li>Optionele nationale feestdagen voor het land waar je bent</li>
         <li>Widgetfamilies klein, gemiddeld en voor het toegangsscherm</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>Houd de microfoon ingedrukt</h3>
+      <h3>Tik op de microfoon</h3>
       <p>Eén knop start en stopt de opname, met een live transcriptie terwijl je spreekt.</p>
     </article>
     <article class="marketing-step">
       <h3>Zeg wat en wanneer</h3>
-      <p>Sayminder leest de tijd uit de natuurlijke formulering en gebruikt de rest als titel.</p>
+      <p>Sayminder leest de tijd uit de natuurlijke formulering en gebruikt de rest als titel. Geen tijd? Tik op Vanavond, Morgenochtend of Over een uur.</p>
     </article>
     <article class="marketing-step">
       <h3>Bevestig of bewerk</h3>
@@ -149,7 +152,7 @@ De snelste herinnering is degene die je uitspreekt. Houd de microfoon ingedrukt,
     </article>
     <article class="marketing-step">
       <h3>Het bereikt je</h3>
-      <p>Een doorbrekende wekker gaat op tijd af, zelfs op stil, en leest de herinnering hardop voor.</p>
+      <p>Een doorbrekende wekker gaat op tijd af, zelfs op stil of in Focus, en Sayminder leest de herinnering voor als je de app kort daarna opent.</p>
     </article>
     <article class="marketing-step">
       <h3>Tik om te wissen</h3>

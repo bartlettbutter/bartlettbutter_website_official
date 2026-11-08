@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">プライバシーへの姿勢</span>
       <h3 class="marketing-price-summary">クラウドアカウントなし。トラッキングなし。広告なし。</h3>
       <p>TrafficVibeは決して数字を作り出すことなく、あなたの通勤をあなただけのものに保ちます。サインアップもなく、あなたについて収集するものもありません。</p>
-      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">プライバシーポリシーを読む</a></p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/ja/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
 </section>
@@ -223,8 +223,8 @@ redirect_from:
   <h2 id="tv-next-title">出発する前に知る準備はできましたか？</h2>
   <p>TrafficVibeをダウンロードして、今朝のブリーフィングをすぐに読み、この先に何が待っているかを正確に把握して、毎回の運転を始めましょう。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/trafficvibe/support/">サポートを見る</a>
-    <a class="marketing-inline-link" href="/trafficvibe/privacy/">プライバシーポリシーを読む</a>
+    <a class="marketing-inline-link" href="/trafficvibe/support/ja/">サポートを見る</a>
+    <a class="marketing-inline-link" href="/trafficvibe/privacy/ja/">プライバシーポリシーを読む</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

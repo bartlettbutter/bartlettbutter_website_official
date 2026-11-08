@@ -26,7 +26,7 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">سلالة قطط بملفات تعريف غنية بأسلوب CFA/TICA يمكنك البحث فيها واستكشافها</span>
+    <span class="marketing-stat-label">سلالة قطط بملفات تعريف غنية يمكنك البحث فيها واستكشافها</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>ملفات تعريف تستحق القراءة</h3>
-      <p>تفتح كل سلالة ملف تعريف بأسلوب CFA/TICA يشرح كيف تكون القطة فعليًا، لا مجرد اسمها.</p>
+      <p>تفتح كل سلالة ملف تعريف مفصّلًا يشرح كيف تكون القطة فعليًا، لا مجرد اسمها.</p>
       <ul class="marketing-list">
         <li>الطباع ومتوسط العمر والوزن والطول في لمحة</li>
         <li>بلد الأصل وتاريخ السلالة</li>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">موقف الخصوصية</span>
       <h3 class="marketing-price-summary">لا رفع للصور. لا سحابة. لا تتبع.</h3>
       <p>لا تغادر صورك جهازك أبدًا. يتم التعرّف على السلالة بالكامل على جهازك، ولا تجلب الميزات المتصلة بالإنترنت سوى صور وحقائق عامة عن القطط.</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">اقرأ سياسة الخصوصية</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/ar/">اقرأ سياسة الخصوصية</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="nk-next-title">مستعد لتسمية كل قطة تلتقيها؟</h2>
   <p>نزّل Nekopedia، وابدأ المسح فورًا، وأبقِ بقية عالم السلالات في متناول يدك كلما داهمك الفضول.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">زيارة الدعم</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">اقرأ سياسة الخصوصية</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/ar/">زيارة الدعم</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/ar/">اقرأ سياسة الخصوصية</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

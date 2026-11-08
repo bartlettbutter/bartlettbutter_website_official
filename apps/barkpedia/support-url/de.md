@@ -29,7 +29,7 @@ Ja. Barkpedia ist kostenlos herunterzuladen und alle aktuellen Funktionen sind o
 
 ### Wie viele Rassen kann Barkpedia erkennen?
 
-Barkpedia identifiziert 147 Rassen basierend auf den AKC-Standards.
+Barkpedia identifiziert 147 Hunderassen. Die Rasseninformationen stammen aus öffentlichen Hunderassen-Datenbanken und sorgfältig ausgewählten Quellen.
 
 ## Verwendung der App
 
@@ -57,7 +57,7 @@ Ja. Barkpedia passt sein Layout automatisch an, mit Tab-Navigation auf dem iPhon
 
 ### Sind meine Daten privat?
 
-Ja. Deine Fotos werden vollständig auf deinem Gerät verarbeitet und niemals hochgeladen. Barkpedia erhebt keine personenbezogenen Daten, hat keine Benutzerkonten und enthält keine Analysen oder Tracking. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/barkpedia/privacy/).
+Ja. Deine Fotos werden vollständig auf deinem Gerät verarbeitet und niemals hochgeladen. Barkpedia erhebt keine personenbezogenen Daten, hat keine Benutzerkonten und enthält keine Analysen oder Tracking. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/barkpedia/privacy/de/).
 
 ### Wo werden meine Daten gespeichert?
 
@@ -65,7 +65,7 @@ Scan-Verlauf und Favoriten werden ausschließlich lokal auf deinem Gerät gespei
 
 ### Wie lösche ich meine Daten?
 
-Wische auf einem beliebigen Element im Favoriten-Tab nach links, um es zu entfernen. Um alle App-Daten auf einmal zu löschen, lösche einfach Barkpedia von deinem Gerät.
+Halte ein beliebiges Element im Favoriten-Tab gedrückt und tippe dann auf „Löschen“, um es zu entfernen. Um alle App-Daten auf einmal zu löschen, lösche einfach Barkpedia von deinem Gerät.
 
 ### Was passiert, wenn ich die App lösche?
 
@@ -77,13 +77,13 @@ Die Deinstallation von Barkpedia entfernt dauerhaft alle gespeicherten Favoriten
 
 Der Kamerazugriff ermöglicht es dir, Hunde direkt in der App für die Rassenerkennung zu fotografieren. Diese Berechtigung ist optional. Du kannst stattdessen deine Fotomediathek verwenden.
 
-### Warum benötigt Barkpedia Zugriff auf die Fotomediathek?
+### Benötigt Barkpedia Zugriff auf die Fotomediathek?
 
-Der Zugriff auf die Fotomediathek ermöglicht es dir, vorhandene Fotos für die Erkennung auszuwählen. Dies ist eine Alternative zur Verwendung der Kamera.
+Nein. Um ein vorhandenes Foto zu verwenden, öffnet Barkpedia die standardmäßige iOS-Fotoauswahl. Du wählst das Foto aus, und die App erhält nur dieses Foto, nie den Rest deiner Mediathek. Deshalb wird keine Berechtigung für die Fotomediathek angefordert.
 
 ### Greift Barkpedia auf meinen Standort oder andere Daten zu?
 
-Nein. Barkpedia fordert nur Zugriff auf die Kamera und die Fotomediathek an. Es verwendet keine Ortungsdienste, Kontakte, Mikrofon, Benachrichtigungen oder andere sensible Berechtigungen.
+Nein. Der Kamerazugriff ist die einzige Berechtigung, die Barkpedia anfordert. Es verwendet keine Ortungsdienste, Kontakte, Mikrofon, Benachrichtigungen oder andere sensible Berechtigungen.
 
 ## Fehlerbehebung
 

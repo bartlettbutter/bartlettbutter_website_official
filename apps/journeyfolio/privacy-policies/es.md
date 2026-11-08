@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/journeyfolio/es/
 ---
 
-**Fecha de vigencia:** 22 de julio de 2026
+**Fecha de vigencia:** 8 de noviembre de 2026
 
 Journeyfolio ("la aplicación") está desarrollada por Bartlett Butter. Esta política explica cómo la aplicación maneja tu información. La respuesta corta: no recopilamos ninguna.
 
@@ -48,9 +48,10 @@ Cuando añades un destino o buscas lugares, tus consultas de búsqueda se envía
 | Permiso | Cuándo se Solicita | Propósito | ¿Los Datos Salen del Dispositivo? |
 |---------|--------------------|-----------|-----------------------------------|
 | Cámara | Cuando fotografías un documento | Adjuntar documentos de viaje a las actividades | No, procesado en el dispositivo mediante OCR |
-| Biblioteca de Fotos | Cuando importas una imagen existente | Adjuntar imágenes guardadas a las actividades | No |
+| Biblioteca de Fotos | No se solicita. Eliges las imágenes en el selector de fotos del sistema y la app solo recibe las que eliges | Adjuntar imágenes guardadas a las actividades y rellenar detalles | No, procesado en el dispositivo |
+| Notificaciones | Cuando activas Recordatorios de viaje | Avisarte el día antes de que empiece cada viaje | No, programadas en el dispositivo |
 
-Ambos permisos son opcionales. La aplicación funciona completamente sin ellos. Ninguna imagen se sube nunca a servidores externos.
+Todos los permisos son opcionales. La aplicación funciona completamente sin ellos. Los billetes y documentos que añades desde Archivos, Fotos o la cámara se leen en tu dispositivo, y ninguna imagen ni documento se sube nunca a servidores externos.
 
 ## Servicios de Terceros
 

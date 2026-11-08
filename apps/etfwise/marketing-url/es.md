@@ -81,7 +81,7 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece selecciones diaria
       <ul class="marketing-list">
         <li>Nada se sube a la nube para el análisis</li>
         <li>Argumentos ricos en contexto basados en los fundamentos del fondo</li>
-        <li>Solo se envían los símbolos de tickers para obtener datos de mercado</li>
+        <li>Solo se envían los símbolos de tickers y rangos de fechas para obtener datos de mercado</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -205,8 +205,8 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece selecciones diaria
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Postura de privacidad</span>
       <h3 class="marketing-price-summary">Sin cuentas. Sin analíticas. Sin anuncios.</h3>
-      <p>El análisis se ejecuta en tu dispositivo y tus datos permanecen contigo. Solo se envían símbolos de tickers a los proveedores de datos financieros para obtener los precios de mercado.</p>
-      <p class="marketing-price-note"><a href="/etfwise/privacy/">Leer política de privacidad</a></p>
+      <p>El análisis se ejecuta en tu dispositivo y tus datos permanecen contigo. Solo se envían símbolos de tickers y rangos de fechas a los proveedores de datos financieros para obtener los precios de mercado.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/es/">Leer política de privacidad</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">ETFWise tiene fines exclusivamente informativos y educativos, y no constituye asesoramiento de inversión, financiero ni fiscal. Sus selecciones diarias y los resultados del Screener no son recomendaciones personalizadas para comprar o vender ningún valor. Los datos de mercado pueden estar retrasados o incompletos, y el rendimiento pasado no garantiza resultados futuros. Investiga por tu cuenta o consulta a un profesional financiero autorizado antes de invertir.</p>
@@ -216,8 +216,9 @@ Deja de desplazarte por tickers interminables. ETFWise ofrece selecciones diaria
   <h2 id="ew-next-title">¿Listo para tu ventaja diaria en la inversión en ETF?</h2>
   <p>Descarga ETFWise, lee el informe de hoy de inmediato y ten a mano las selecciones curadas y el análisis profundo siempre que el mercado se mueva.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/etfwise/support/">Visitar soporte</a>
-    <a class="marketing-inline-link" href="/etfwise/privacy/">Leer política de privacidad</a>
+    <a class="marketing-inline-link" href="/etfwise/support/es/">Visitar soporte</a>
+    <a class="marketing-inline-link" href="/etfwise/privacy/es/">Leer política de privacidad</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/es/">Leer términos de uso</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

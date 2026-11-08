@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">개인정보 보호 태도</span>
       <h3 class="marketing-price-summary">클라우드 계정 없음. 추적 없음. 광고 없음.</h3>
       <p>TrafficVibe는 결코 수치를 지어내지 않으며, 당신의 출근길을 당신만의 것으로 지킵니다. 가입도 없고, 당신에 관해 수집할 것도 없습니다.</p>
-      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">개인정보 처리방침 읽기</a></p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/ko/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
 </section>
@@ -223,8 +223,8 @@ redirect_from:
   <h2 id="tv-next-title">나서기 전에 알 준비가 되셨나요?</h2>
   <p>TrafficVibe를 다운로드하고 오늘 아침 브리핑을 즉시 읽은 뒤, 앞으로 무엇이 기다리는지 정확히 안 채로 모든 운전을 시작하세요.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/trafficvibe/support/">지원 보기</a>
-    <a class="marketing-inline-link" href="/trafficvibe/privacy/">개인정보 처리방침 읽기</a>
+    <a class="marketing-inline-link" href="/trafficvibe/support/ko/">지원 보기</a>
+    <a class="marketing-inline-link" href="/trafficvibe/privacy/ko/">개인정보 처리방침 읽기</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

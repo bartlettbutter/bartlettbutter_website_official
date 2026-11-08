@@ -55,7 +55,7 @@ Sie sind danach gruppiert, was ein Pendler tatsächlich fragt:
 
 ### Woher stammen die Daten?
 
-TrafficVibe greift auf vertrauenswürdige, etablierte Karten-, Wetter- und öffentliche Datenquellen für Routen und Ankunftszeiten, Bedingungen, nahe Straßenmerkmale, Feiertage und Spritpreise (in deiner lokalen Währung angezeigt) zurück. Dein Briefing und seine Bewertungen werden auf deinem Gerät zusammengestellt; nichts über deinen Weg wird hochgeladen. Was genau dein Gerät verlässt und warum, findest du in unserer [Datenschutzrichtlinie](https://bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe greift auf vertrauenswürdige, etablierte Karten-, Wetter- und öffentliche Datenquellen für Routen und Ankunftszeiten, Bedingungen, nahe Straßenmerkmale, Feiertage und Spritpreise (in deiner lokalen Währung angezeigt) zurück. Dein Briefing und seine Bewertungen werden auf deinem Gerät zusammengestellt; nichts über deinen Weg wird hochgeladen. Was genau dein Gerät verlässt und warum, findest du in unserer [Datenschutzrichtlinie](https://bartlettbutter.com/trafficvibe/privacy/de/).
 
 ## Benachrichtigungen
 
@@ -69,7 +69,7 @@ Leg deine eigenen Ruhezeiten fest und aktiviere die Vorliebe nur für Werktage. 
 
 ### Warum werden meine Warnungen nicht ausgelöst?
 
-TrafficVibe aktualisiert sich nicht im Hintergrund. Es wertet Warnungen aus, wenn du die App öffnest oder zum Aktualisieren nach unten ziehst. Stell sicher, dass Benachrichtigungen in den Einstellungen aktiviert sind und du dich nicht innerhalb deiner Ruhezeiten oder einer Nur-Werktags-Ausnahme befindest.
+Aufbruch-Erinnerungen werden im Voraus geplant, sodass sie auch bei geschlossener App ankommen, und jedes Mal, wenn du TrafficVibe öffnest, plant es die nächsten. Bei Verzögerungs- und Vorfallwarnungen ist das anders: TrafficVibe aktualisiert sich nicht im Hintergrund und prüft sie daher, wenn du die App öffnest oder zum Aktualisieren nach unten ziehst. Stell sicher, dass Benachrichtigungen in den Einstellungen aktiviert sind und du dich nicht innerhalb deiner Ruhezeiten oder einer Nur-Werktags-Ausnahme befindest.
 
 ## Pendelstädte
 

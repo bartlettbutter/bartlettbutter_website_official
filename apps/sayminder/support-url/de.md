@@ -17,15 +17,15 @@ Wir möchten, dass Sie das Beste aus Sayminder herausholen. Wenn etwas nicht wie
 
 ### Wie richte ich die App ein?
 
-Öffnen Sie einfach Sayminder. Es gibt kein Konto und keine Anmeldung. Beim ersten Start fragt die App nach den Berechtigungen für Mikrofon, Spracherkennung und Mitteilungen, damit sie Sie hören und rechtzeitig erreichen kann. Gewähren Sie diese, halten Sie dann das Mikrofon gedrückt und sprechen Sie Ihre erste Erinnerung.
+Öffnen Sie einfach Sayminder. Es gibt kein Konto und keine Anmeldung. Der Willkommensbildschirm bietet an, Hinweise zu aktivieren, damit Erinnerungen Sie rechtzeitig erreichen können; Hinweise sind optional, Sie können also „Jetzt nicht“ wählen und sie später in den Einstellungen aktivieren. Der Sprechen-Bildschirm fragt anschließend nach Zugriff auf Mikrofon und Spracherkennung, damit die App Sie hören kann. Tippen Sie auf das Mikrofon und sprechen Sie Ihre erste Erinnerung.
 
 ### Wie erstelle ich eine Erinnerung?
 
-Tippen Sie auf die Mikrofontaste und sprechen Sie, zum Beispiel: „Erinnere mich, heute Abend um neun meine Medizin zu nehmen“. Sayminder transkribiert Ihre Worte, liest daraus Datum und Uhrzeit heraus und zeigt eine Bestätigungskarte an. Überprüfen oder bearbeiten Sie Titel, Notizen, Uhrzeit und Wiederholungsoption und sichern Sie anschließend. Die App liest Ihnen eine kurze Bestätigung vor.
+Tippen Sie auf die Mikrofontaste und sprechen Sie, zum Beispiel: „Erinnere mich, heute Abend um neun meine Medizin zu nehmen“. Sayminder transkribiert Ihre Worte, liest daraus Datum und Uhrzeit heraus und zeigt eine Bestätigungskarte an. Überprüfen oder bearbeiten Sie Titel, Notizen, Uhrzeit und Wiederholungsoption und sichern Sie anschließend. Die App liest Ihnen eine kurze Bestätigung vor. Sagen Sie mehrere Dinge auf einmal, etwa „die Bank anrufen und Milch holen“, und jedes wird zu einer eigenen Erinnerung. Können Sie gerade nicht sprechen? Nutzen Sie stattdessen das Eingabefeld.
 
 ### Welche Arten von Zeitangaben kann ich sagen?
 
-Sagen Sie es so, wie Sie es einer Person sagen würden. Sayminder versteht relative Angaben wie „in 20 Minuten“, „heute Abend um 9“, „nächsten Freitag“ und „Ende des Monats“ sowie absolute Daten wie „3. Dezember“. Findet die App keine konkrete Uhrzeit, setzt sie die Erinnerung standardmäßig auf eine Stunde ab jetzt und markiert die Zeit, damit Sie sie bestätigen können.
+Sagen Sie es so, wie Sie es einer Person sagen würden. Sayminder versteht relative Angaben wie „in 20 Minuten“, „heute Abend um 9“, „nächsten Freitag“ und „Ende des Monats“ sowie absolute Daten wie „3. Dezember“. Findet die App keine konkrete Uhrzeit, bietet sie Schnellauswahlen wie „Heute Abend“, „Morgen früh“ oder „In einer Stunde“ an; andernfalls wird die Erinnerung standardmäßig auf eine Stunde ab jetzt gesetzt und die Zeit markiert, damit Sie sie bestätigen können.
 
 ### Wie bearbeite ich eine Erinnerung später?
 
@@ -39,7 +39,7 @@ Ja. Sayminder ist kostenlos herunterzuladen und zu nutzen, ohne Werbung. Möglic
 
 ### Erhebt Sayminder meine Daten?
 
-Nein. Es gibt keine Benutzerkonten, keine Analysen, kein Tracking und keine Werbung. Erinnerungen, Terminplanung und Sprachausgabe laufen alle lokal ab und werden nur auf Ihrem Gerät gespeichert. Weitere Einzelheiten finden Sie in unserer vollständigen [Datenschutzerklärung](https://bartlettbutter.com/sayminder/privacy/de/).
+Nein. Es gibt keine Benutzerkonten, keine Analysen, kein Tracking und keine Werbung. Erinnerungen, Terminplanung und Sprachausgabe laufen alle lokal ab und werden nur auf Ihrem Gerät gespeichert. Bei der optionalen Feiertagsebene ordnet Apple Ihren ungefähren Standort einem Land zu, anschließend wird nur der Ländercode an einen öffentlichen Feiertagsdienst gesendet. Weitere Einzelheiten finden Sie in unserer vollständigen [Datenschutzerklärung](https://bartlettbutter.com/sayminder/privacy/de/).
 
 ### Funktionieren Erinnerungen, wenn mein Telefon stummgeschaltet oder im Fokus ist?
 
@@ -51,7 +51,7 @@ Ja. Eine Erinnerung kann sich täglich, wöchentlich oder monatlich wiederholen.
 
 ### Liest Sayminder Erinnerungen vor?
 
-Ja. Wenn eine Erinnerung auslöst, spricht die App sie laut aus („Erinnerung: …“), und sie bestätigt laut, wenn Sie eine sichern. Sie können auch auf eine beliebige Listenzeile tippen, um sie bei Bedarf vorlesen zu lassen. Die gesprochene Rückmeldung erfolgt, während die App im Vordergrund ist oder wenn Sie auf eine Mitteilung tippen.
+Ja. Wenn eine Erinnerung auslöst, während die App geöffnet ist, oder wenn Sie die App innerhalb von 15 Minuten nach dem Auslösen öffnen, spricht Sayminder sie laut aus („Erinnerung: …“), und die App bestätigt laut, wenn Sie eine sichern. Sie können auch auf die Lautsprechertaste einer beliebigen offenen Erinnerungszeile tippen, um sie bei Bedarf vorlesen zu lassen.
 
 ### Kann ich eine Erinnerung erstellen, ohne die App zu öffnen?
 
@@ -61,9 +61,17 @@ Ja. Sayminder fügt einen App-Kurzbefehl hinzu, sodass Sie eine Erinnerung per S
 
 Ja, optional. Aktivieren Sie **Kalenderereignisse anzeigen** in den Einstellungen, um die Ereignisse Ihres Systemkalenders im Tagesüberblick, in der Anstehend-Liste und im Kalenderraster zu spiegeln. Diese Ebene ist streng schreibgeschützt: Sayminder erstellt, bearbeitet oder löscht niemals Kalenderereignisse, und sie ist deaktiviert, bis Sie sie einschalten.
 
+### Kann Sayminder Feiertage anzeigen?
+
+Ja, optional. Aktivieren Sie **Nationale Feiertage anzeigen** in den Einstellungen, um die gesetzlichen Feiertage des Landes, in dem Sie sich gerade befinden, im Kalender zu markieren. Apple ordnet Ihren ungefähren Standort einem Land zu, und nur der Ländercode wird an den öffentlichen Feiertagsdienst [Nager.Date](https://date.nager.at) gesendet. Die Funktion ist deaktiviert, bis Sie sie einschalten.
+
 ### Funktioniert Sayminder auf dem iPad?
 
 Ja. Sayminder ist sowohl für das iPhone als auch für das iPad optimiert, mit einem adaptiven Layout für den größeren Bildschirm.
+
+### In welcher Sprache ist Sayminder verfügbar?
+
+Die Oberfläche der App und das Verstehen gesprochener Zeitangaben sind derzeit auf Englisch verfügbar, weitere Sprachen sind geplant. Diese Support-Website ist in mehreren Sprachen verfügbar.
 
 ## Berechtigungen
 
@@ -73,11 +81,15 @@ Sie treiben die Kernfunktion an: eine Erinnerung per Stimme zu erfassen und zu t
 
 ### Warum fragt Sayminder nach der Wecker- und Mitteilungsberechtigung?
 
-Eine Erinnerung kann Sie nicht erreichen, wenn weder Wecker noch Mitteilungen autorisiert sind. Sayminder nutzt Wecker, um den Stummmodus und den Fokus zu durchbrechen, und Mitteilungen als Ausweichlösung. Sind die Hinweise ausgeschaltet, führt Sie die Zeile zum Hinweisstatus in den Einstellungen dazu, sie wieder zu aktivieren.
+Eine Erinnerung kann Sie nicht erreichen, wenn weder Wecker noch Mitteilungen autorisiert sind. Sayminder nutzt Wecker, um den Stummmodus und den Fokus zu durchbrechen, und Mitteilungen als Ausweichlösung. Hinweise sind optional und werden nur angefordert, wenn Sie sie über den Willkommensbildschirm oder die Einstellungen einschalten; die App bleibt auch ohne sie nutzbar. Sind die Hinweise ausgeschaltet, führt Sie die Zeile zum Hinweisstatus in den Einstellungen dazu, sie einzuschalten.
 
 ### Warum erscheint die Kalenderberechtigung nur manchmal?
 
 Der schreibgeschützte Kalenderzugriff wird verzögert angefordert, nur wenn Sie **Kalenderereignisse anzeigen** in den Einstellungen aktivieren, und nicht beim Start.
+
+### Warum fragt Sayminder nach meinem Standort?
+
+Nur wenn Sie **Nationale Feiertage anzeigen** in den Einstellungen aktivieren. Eine ungefähre Standortbestimmung während der Nutzung dient dazu, das Land zu ermitteln, in dem Sie sich befinden, damit dessen Feiertage angezeigt werden können. Ihr Standort selbst wird niemals an uns oder an den Feiertagsdienst gesendet; übertragen wird nur der Ländercode.
 
 ## Fehlerbehebung
 
@@ -99,7 +111,7 @@ Wenn Sie eine einmalige Erinnerung sichern, deren Uhrzeit verstrichen ist, warnt
 
 ### Die gesprochene Rückmeldung wird nicht abgespielt
 
-Die Rückmeldung wird abgespielt, während die App im Vordergrund ist oder wenn Sie auf eine Mitteilung tippen. Stellen Sie sicher, dass Ihr Gerät für die Medienwiedergabe nicht stummgeschaltet ist und dass keine andere App die Audiositzung belegt.
+Die Rückmeldung wird abgespielt, wenn eine Erinnerung auslöst, während die App geöffnet ist, oder wenn Sie die App innerhalb von 15 Minuten nach dem Auslösen öffnen. Stellen Sie sicher, dass Ihr Gerät für die Medienwiedergabe nicht stummgeschaltet ist und dass keine andere App die Audiositzung belegt.
 
 ### Das Widget aktualisiert sich nicht
 

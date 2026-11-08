@@ -7,7 +7,7 @@ lang: tr
 permalink: /journeyfolio/terms/tr/
 ---
 
-**Yürürlük Tarihi:** 26 Ekim 2026
+**Yürürlük Tarihi:** 8 Kasım 2026
 
 Bu Kullanım Koşulları ("Koşullar"), Bartlett Butter tarafından geliştirilen Journeyfolio ("uygulama") için geçerlidir. Uygulamayı indirerek veya kullanarak bu Koşulları kabul etmiş olursunuz. [Gizlilik Politikamız](/journeyfolio/privacy/tr/), uygulamanın bilgilerinizi nasıl ele aldığını açıklar.
 
@@ -17,7 +17,7 @@ Journeyfolio size satılmaz; Apple'ın [Lisanslı Uygulama Son Kullanıcı Lisan
 
 ## Ücretsiz ve Premium Özellikler
 
-Journeyfolio'yu indirmek ücretsizdir ve en fazla 10 geziyi ücretsiz olarak planlamanıza olanak tanır. Premium; sınırsız gezi, canlı uçuş takibi ve varış noktası hava tahminleri ekler.
+Journeyfolio'yu indirmek ücretsizdir ve en fazla 10 geziyi ücretsiz olarak planlamanıza olanak tanır; hava tahminleri, resmi tatiller, biletlerden otomatik doldurma ve gezi hatırlatıcıları da dahildir. Premium; sınırsız gezi, canlı uçuş durumu ve bir uçuşun havayolunu, rotasını ve planlanan saatlerini dolduran "Uçuşu Doğrula" özelliğini ekler.
 
 ## Otomatik Yenilenen Abonelikler
 

@@ -81,7 +81,7 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
       <ul class="marketing-list">
         <li>Nichts wird zur Analyse in eine Cloud hochgeladen</li>
         <li>Kontextreiche Szenarien, verankert in den Fundamentaldaten des Fonds</li>
-        <li>Nur Tickersymbole werden gesendet, um Marktdaten abzurufen</li>
+        <li>Nur Tickersymbole und Datumsbereiche werden gesendet, um Marktdaten abzurufen</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -205,8 +205,8 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Datenschutzhaltung</span>
       <h3 class="marketing-price-summary">Keine Konten. Keine Analysen. Keine Werbung.</h3>
-      <p>Die Analyse läuft auf deinem Gerät und deine Daten bleiben bei dir. Nur Tickersymbole werden an Finanzdatenanbieter gesendet, um Marktpreise abzurufen.</p>
-      <p class="marketing-price-note"><a href="/etfwise/privacy/">Datenschutzrichtlinie lesen</a></p>
+      <p>Die Analyse läuft auf deinem Gerät und deine Daten bleiben bei dir. Nur Tickersymbole und Datumsbereiche werden an Finanzdatenanbieter gesendet, um Marktpreise abzurufen.</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/de/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">ETFWise dient ausschließlich Informations- und Bildungszwecken und ist keine Anlage-, Finanz- oder Steuerberatung. Die täglichen Auswahlen und Screener-Ergebnisse sind keine persönlichen Empfehlungen zum Kauf oder Verkauf von Wertpapieren. Marktdaten können verzögert oder unvollständig sein, und die Wertentwicklung in der Vergangenheit ist keine Garantie für künftige Ergebnisse. Recherchiere selbst oder wende dich an eine zugelassene Finanzfachperson, bevor du investierst.</p>
@@ -216,8 +216,9 @@ Hör auf, endlose Ticker zu durchscrollen. ETFWise liefert kuratierte tägliche 
   <h2 id="ew-next-title">Bereit für deinen täglichen Vorsprung beim ETF-Investieren?</h2>
   <p>Lade ETFWise herunter, lies sofort das heutige Briefing und behalte kuratierte Auswahl und tiefgehende Analyse griffbereit, wann immer sich der Markt bewegt.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/etfwise/support/">Support besuchen</a>
-    <a class="marketing-inline-link" href="/etfwise/privacy/">Datenschutzrichtlinie lesen</a>
+    <a class="marketing-inline-link" href="/etfwise/support/de/">Support besuchen</a>
+    <a class="marketing-inline-link" href="/etfwise/privacy/de/">Datenschutzrichtlinie lesen</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/de/">Nutzungsbedingungen lesen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

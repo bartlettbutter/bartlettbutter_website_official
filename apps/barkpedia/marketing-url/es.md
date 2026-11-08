@@ -26,7 +26,7 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">razas de perro con perfiles completos al estilo AKC que puedes buscar y explorar</span>
+    <span class="marketing-stat-label">razas de perro con perfiles completos que puedes buscar y explorar</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
     </article>
     <article class="marketing-card">
       <h3>Perfiles que vale la pena leer</h3>
-      <p>Cada raza abre un perfil al estilo AKC que explica cómo es realmente el perro, no solo cómo se llama.</p>
+      <p>Cada raza abre un perfil detallado que explica cómo es realmente el perro, no solo cómo se llama.</p>
       <ul class="marketing-list">
         <li>Temperamento, esperanza de vida, peso y altura de un vistazo</li>
         <li>País de origen y la historia de la raza</li>
@@ -195,7 +195,7 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
       <span class="marketing-price-tier">Postura de privacidad</span>
       <h3 class="marketing-price-summary">Sin subidas. Sin cuentas. Sin rastreo.</h3>
       <p>Tus fotos nunca salen de tu dispositivo. La identificación de razas se realiza íntegramente en el dispositivo, mientras que los perfiles de razas y las fotos del quiz se cargan desde fuentes públicas de razas caninas sin ningún dato personal.</p>
-      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Leer política de privacidad</a></p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/es/">Leer política de privacidad</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Haz una foto de cualquier perro y Barkpedia nombra la raza, luego abre toda la h
   <h2 id="bp-next-title">¿Listo para nombrar a cada perro que conozcas?</h2>
   <p>Descarga Barkpedia, empieza a escanear de inmediato y ten el resto del mundo de las razas a mano siempre que surja la curiosidad.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/barkpedia/support/">Visitar soporte</a>
-    <a class="marketing-inline-link" href="/barkpedia/privacy/">Leer política de privacidad</a>
+    <a class="marketing-inline-link" href="/barkpedia/support/es/">Visitar soporte</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/es/">Leer política de privacidad</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

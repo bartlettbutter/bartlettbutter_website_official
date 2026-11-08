@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">Postura de privacidad</span>
       <h3 class="marketing-price-summary">Sin cuentas en la nube. Sin rastreo. Sin anuncios.</h3>
       <p>TrafficVibe nunca inventa una cifra y mantiene tu trayecto para ti. No hay registro ni nada sobre ti que recopilar.</p>
-      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Leer política de privacidad</a></p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/es/">Leer política de privacidad</a></p>
     </article>
   </div>
 </section>
@@ -223,8 +223,8 @@ redirect_from:
   <h2 id="tv-next-title">¿Listo para saber antes de salir?</h2>
   <p>Descarga TrafficVibe, lee el resumen de esta mañana al instante y empieza cada trayecto sabiendo exactamente qué te espera.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/trafficvibe/support/">Ir a soporte</a>
-    <a class="marketing-inline-link" href="/trafficvibe/privacy/">Leer política de privacidad</a>
+    <a class="marketing-inline-link" href="/trafficvibe/support/es/">Ir a soporte</a>
+    <a class="marketing-inline-link" href="/trafficvibe/privacy/es/">Leer política de privacidad</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

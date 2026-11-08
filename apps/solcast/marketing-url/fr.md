@@ -12,7 +12,7 @@ redirect_from:
 
 # Sachez exactement comment vous habiller, planifier et protéger votre journée.
 
-Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un parapluie et comment garder votre famille confortable, le tout personnalisé selon votre vie et livré dans un langage simple. Aucune publicité, aucun compte, gratuit à utiliser, avec une mise à niveau Premium en option. Ouvrez et c'est parti.
+Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un parapluie et comment garder votre famille confortable, le tout personnalisé selon votre vie et livré dans un langage simple. Aucune publicité, aucun compte et gratuit à utiliser. Ouvrez et c'est parti.
 
 <!--gallery-->
 
@@ -20,7 +20,7 @@ Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un
   <span class="marketing-chip">Des réponses, pas des chiffres</span>
   <span class="marketing-chip">16 indices de style de vie</span>
   <span class="marketing-chip">Aucune publicité ni compte</span>
-  <span class="marketing-chip">Gratuit avec option Premium</span>
+  <span class="marketing-chip">Gratuit à utiliser</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Solcast at a glance">
@@ -182,29 +182,21 @@ Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un
 
 <section class="marketing-band" aria-labelledby="sc-offer-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">Tarifs et formules</p>
-    <h2 id="sc-offer-title" class="marketing-section-title">Gratuit à utiliser. Passez à la version supérieure quand vous voulez plus.</h2>
+    <p class="marketing-eyebrow">Offre et confiance</p>
+    <h2 id="sc-offer-title" class="marketing-section-title">Téléchargement gratuit. Privé par conception.</h2>
   </div>
   <div class="marketing-price-grid">
-    <article class="marketing-price-card">
-      <span class="marketing-price-tier">Gratuit</span>
-      <h3 class="marketing-price-summary">Tout ce dont vous avez besoin pour planifier votre journée, sans frais.</h3>
-      <p>Idéal pour tous ceux qui veulent des conseils météo clairs et personnalisés sans publicité, sans compte ni péage sur leur chemin.</p>
-      <ul class="marketing-list">
-        <li>Briefing quotidien, prévisions sur 7 jours et bande horaire</li>
-        <li>Les 16 indices de style de vie et les suggestions de tenue</li>
-        <li>Enregistrez plusieurs villes et commencez sans compte</li>
-      </ul>
-    </article>
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Des lieux illimités et une vue d'ensemble complète au même endroit.</h3>
-      <p>Premium est destiné aux personnes qui suivent la météo dans de nombreuses villes et veulent lever les limites gratuites sur les lieux enregistrés.</p>
-      <ul class="marketing-list">
-        <li>Lieux enregistrés illimités, chacun dans son fuseau horaire local</li>
-        <li>Une mise à niveau en option, en plus de l'application gratuite</li>
-        <li>Aucune publicité et aucun suivi, en version Gratuite ou Premium</li>
-      </ul>
+      <span class="marketing-price-tier">Inclus dès aujourd'hui</span>
+      <h3 class="marketing-price-summary">Toutes les fonctionnalités actuelles sont disponibles sans frais.</h3>
+      <p>Le briefing quotidien, les prévisions sur 7 jours et horaires, les 16 indices de style de vie, les suggestions de tenue et les alertes météo intelligentes, avec jusqu'à 4 villes enregistrées et sans compte.</p>
+      <p class="marketing-price-note">Compatible avec iPhone et iPad sous iOS 18.0 ou version ultérieure.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">Posture de confidentialité</span>
+      <h3 class="marketing-price-summary">Aucun compte. Aucun suivi. Aucune publicité.</h3>
+      <p>Vos préférences et votre personnalisation restent sur votre appareil. Les recherches de météo et de lieux n'envoient que des coordonnées ou une requête de recherche, et les recherches de jours fériés n'envoient qu'un code de pays.</p>
+      <p class="marketing-price-note"><a href="/solcast/privacy/fr/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
 </section>
@@ -213,9 +205,8 @@ Solcast va au-delà des prévisions. Elle vous dit quoi porter, quand prendre un
   <h2 id="sc-next-title">Prêt à planifier chaque journée en toute confiance ?</h2>
   <p>Téléchargez Solcast et découvrez immédiatement votre tableau de bord personnalisé.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/solcast/support/">Voir l'assistance</a>
-    <a class="marketing-inline-link" href="/solcast/privacy/">Lire la politique de confidentialité</a>
-    <a class="marketing-inline-link" href="/solcast/terms/fr/">Lire les conditions d'utilisation</a>
+    <a class="marketing-inline-link" href="/solcast/support/fr/">Voir l'assistance</a>
+    <a class="marketing-inline-link" href="/solcast/privacy/fr/">Lire la politique de confidentialité</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

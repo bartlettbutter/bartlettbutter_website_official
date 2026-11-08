@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/solcast/fr/
 ---
 
-**Date d'entrée en vigueur :** 8 juillet 2026
+**Date d'entrée en vigueur :** 8 novembre 2026
 
 Solcast (« l'Application ») est une application gratuite de météo et de conseils de style de vie pour iPhone et iPad. La confidentialité est au cœur de sa conception. Cette politique explique exactement quelles données sont impliquées lorsque vous utilisez Solcast et, plus important encore, lesquelles ne le sont pas.
 
@@ -53,13 +53,14 @@ L'application conserve un cache de courte durée, en mémoire, des données mét
 
 ## Autorisations
 
-Solcast demande une autorisation :
+Solcast demande deux autorisations :
 
 | Autorisation | Objectif |
 |--------------|----------|
 | **Localisation (Lors de l'utilisation)** | Récupérer les données de météo, de qualité de l'air et de pollen pour votre position actuelle |
+| **Notifications** | Afficher les alertes météo intelligentes sous forme de notifications créées sur votre appareil |
 
-Aucune autre autorisation n'est demandée : ni appareil photo, ni contacts, ni microphone, ni notifications, ni suivi, ni quoi que ce soit d'autre.
+Aucune autre autorisation n'est demandée : ni appareil photo, ni contacts, ni microphone, ni suivi, ni quoi que ce soit d'autre.
 
 ## Services Tiers
 
@@ -76,7 +77,7 @@ L'application se connecte aux services suivants pour récupérer les données m�
 
 ## Partage des Données
 
-Nous ne vendons, ne louons, ne concédons sous licence ni ne partageons vos données avec qui que ce soit. Le seul trafic réseau généré par l'application est la récupération des données météo (coordonnées) et des jours fériés (code de pays) auprès des services énumérés ci-dessus.
+Nous ne vendons, ne louons, ne concédons sous licence ni ne partageons vos données avec qui que ce soit. Le seul trafic réseau généré par l'application est la récupération des données météo (coordonnées), la recherche de lieux et de noms de villes avec Apple Plans (requête de recherche ou coordonnées) et la récupération des jours fériés (code de pays) auprès des services énumérés ci-dessus.
 
 ## Conservation et Suppression des Données
 

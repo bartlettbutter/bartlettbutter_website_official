@@ -31,17 +31,17 @@ Jede Änderung wird sofort wirksam, ohne dass ein Neuladen erforderlich ist.
 
 ### Wie verwalte ich Standorte?
 
-Du kannst in der kostenlosen Version bis zu 4 Standorte speichern (unbegrenzt mit Premium). Verwende die Standortauswahl im Dashboard, um zwischen ihnen zu wechseln, oder tippe auf das Suchsymbol, um eine neue Stadt hinzuzufügen. Jeder Standort zeigt das Wetter in seiner eigenen Ortszeitzone an, sodass die Zeiten (Sonnenaufgang, Sonnenuntergang, stündliche Vorhersage) immer für diese Stadt relevant sind.
+Du kannst bis zu 4 Standorte speichern. Verwende die Standortauswahl im Dashboard, um zwischen ihnen zu wechseln, oder tippe auf das Suchsymbol, um eine neue Stadt hinzuzufügen. Jeder Standort zeigt das Wetter in seiner eigenen Ortszeitzone an, sodass die Zeiten (Sonnenaufgang, Sonnenuntergang, stündliche Vorhersage) immer für diese Stadt relevant sind.
 
 ## Häufig gestellte Fragen
 
 ### Ist Solcast kostenlos?
 
-Ja. Solcast ist kostenlos herunterzuladen, und das vollständige Wettererlebnis (Vorhersagen, Outfit-Vorschläge, tägliches Briefing, alle 16 Lifestyle-Indizes und smarte Wetterwarnungen) ist kostenlos, ohne Werbung. Ein optionales Premium-Abonnement fügt persönliche Erinnerungen hinzu und hebt das Limit für gespeicherte Städte an; alles andere ist kostenlos. In den [Nutzungsbedingungen](/solcast/terms/de/) erfährst du, wie Abonnements abgerechnet und gekündigt werden.
+Ja. Solcast ist kostenlos herunterzuladen, und alle aktuellen Funktionen, darunter Vorhersagen, Outfit-Vorschläge, das tägliche Briefing, alle 16 Lifestyle-Indizes und smarte Wetterwarnungen, sind ohne Kosten verfügbar, ohne Werbung und ohne erforderliches Konto. Möglicherweise führen wir in Zukunft optionale Premium-Funktionen ein.
 
 ### Erhebt Solcast meine Daten?
 
-Nein. Es gibt keine Benutzerkonten, keine Analysen, kein Tracking und keine Werbung. Alle deine Einstellungen bleiben auf deinem Gerät. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/solcast/privacy/).
+Nein. Es gibt keine Benutzerkonten, keine Analysen, kein Tracking und keine Werbung. Alle deine Einstellungen bleiben auf deinem Gerät. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/solcast/privacy/de/).
 
 ### Brauche ich eine Internetverbindung?
 
@@ -71,7 +71,7 @@ Der Standort (Bei Nutzung) wird verwendet, um genaue Wetter-, Luftqualitäts- un
 
 ### Greift Solcast auf meine Kamera, meine Kontakte oder etwas anderes zu?
 
-Nein. Solcast fordert nur die Standortberechtigung an. Es greift nicht auf deine Kamera, Fotos, Kontakte, dein Mikrofon, Gesundheitsdaten oder andere Informationen zu.
+Nein. Neben dem Standort fragt Solcast nur nach der Erlaubnis, Mitteilungen zu senden, die es für smarte Wetterwarnungen nutzt. Es greift nicht auf deine Kamera, Fotos, Kontakte, dein Mikrofon, Gesundheitsdaten oder andere Informationen zu.
 
 ## Fehlerbehebung
 

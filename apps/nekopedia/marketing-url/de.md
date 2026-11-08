@@ -26,7 +26,7 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">Katzenrassen mit umfangreichen Profilen im CFA/TICA-Stil, die du durchsuchen und erkunden kannst</span>
+    <span class="marketing-stat-label">Katzenrassen mit umfangreichen Profilen, die du durchsuchen und erkunden kannst</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
     </article>
     <article class="marketing-card">
       <h3>Profile, die es wert sind, gelesen zu werden</h3>
-      <p>Jede Rasse öffnet ein Profil im CFA/TICA-Stil, das erklärt, wie die Katze wirklich ist, nicht nur, wie sie heißt.</p>
+      <p>Jede Rasse öffnet ein ausführliches Profil, das erklärt, wie die Katze wirklich ist, nicht nur, wie sie heißt.</p>
       <ul class="marketing-list">
         <li>Temperament, Lebenserwartung, Gewicht und Größe auf einen Blick</li>
         <li>Herkunftsland und die Geschichte der Rasse</li>
@@ -195,7 +195,7 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
       <span class="marketing-price-tier">Datenschutzhaltung</span>
       <h3 class="marketing-price-summary">Keine Uploads. Keine Cloud. Kein Tracking.</h3>
       <p>Deine Fotos verlassen niemals dein Gerät. Die Rassenerkennung läuft vollständig auf dem Gerät, und Online-Funktionen laden nur öffentliche Katzenfotos und -fakten.</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Datenschutzrichtlinie lesen</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/de/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Mach ein Foto von einer beliebigen Katze und Nekopedia benennt die Rasse und öf
   <h2 id="nk-next-title">Bereit, jede Katze zu benennen, die du triffst?</h2>
   <p>Lade Nekopedia herunter, beginne sofort mit dem Scannen und halte den Rest der Rassenwelt griffbereit, wann immer die Neugier zuschlägt.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">Support besuchen</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">Datenschutzrichtlinie lesen</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/de/">Support besuchen</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/de/">Datenschutzrichtlinie lesen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

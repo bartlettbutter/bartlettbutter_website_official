@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "Speak a reminder and it reaches you on time, even on silent, and reads itself back aloud."
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 permalink: /sayminder/
 redirect_from:
   - /marketing-url/sayminder/
@@ -13,13 +13,13 @@ redirect_from:
 
 <!--gallery-->
 
-The fastest reminder is the one you speak. Hold the mic, say what and when, and Sayminder transcribes it, reads the time out of your words, and drops it onto your calendar. When the moment comes it alerts you, even on silent or in Focus, and reads the reminder back in a natural voice.
+The fastest reminder is the one you speak. Tap the mic, say what and when, and Sayminder transcribes it, reads the time out of your words, and drops it onto your calendar. When the moment comes it alerts you, even on silent or in Focus, and reads the reminder back aloud if you open the app soon after.
 
 <div class="marketing-chip-row" aria-label="Sayminder highlights">
   <span class="marketing-chip">Speak, don't type</span>
   <span class="marketing-chip">Breaks through silent &amp; Focus</span>
   <span class="marketing-chip">Reads reminders aloud</span>
-  <span class="marketing-chip">Private, on-device</span>
+  <span class="marketing-chip">Private by design</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Sayminder at a glance">
@@ -32,14 +32,14 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
     <span class="marketing-stat-label">breakthrough alarms fire even on silent or in Focus, never quietly dropped</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">private and on-device, with no accounts, no tracking, and no ads</span>
+    <span class="marketing-stat-value">0 accounts</span>
+    <span class="marketing-stat-label">reminders stay on your device, with no sign-up, no tracking, and no ads</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Download on the App Store">
     </a>
   </div>
@@ -62,6 +62,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
         <li>"Remind me to take medicine tonight at nine"</li>
         <li>"In 20 minutes", "next Friday", "end of the month"</li>
         <li>A live transcript as you speak, editable before you save</li>
+        <li>Say several things at once and each becomes its own reminder</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -75,7 +76,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
     </article>
     <article class="marketing-card">
       <h3>It reads back to you</h3>
-      <p>When a reminder arrives, the app speaks it aloud and confirms out loud when you save one, so the whole loop is hands-free.</p>
+      <p>When a reminder fires while the app is open, or you open it soon after, Sayminder speaks it aloud. It also confirms out loud when you save one, so the whole loop is hands-free.</p>
       <ul class="marketing-list">
         <li>"Okay. I'll remind you to …" after you save</li>
         <li>Any list row can be spoken on demand</li>
@@ -87,7 +88,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
       <p>Speech recognition runs on device when your language supports it, and reminders are stored only on your device.</p>
       <ul class="marketing-list">
         <li>No accounts, no analytics, no ads</li>
-        <li>Nothing is sent anywhere to be processed</li>
+        <li>Optional holidays share only a country code with the holiday service</li>
         <li>Delete the app and everything goes with it</li>
       </ul>
     </article>
@@ -107,6 +108,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
       <ul class="marketing-list">
         <li>Editable title, notes, date, and repeat option</li>
         <li>A past one-off time offers to move to tomorrow</li>
+        <li>Can't talk right now? Type instead</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -122,6 +124,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
       <p>A month grid dots the days that have reminders, and a Home and Lock Screen widget keeps your next one in view.</p>
       <ul class="marketing-list">
         <li>Optional read-only layer mirrors your system calendar</li>
+        <li>Optional national holidays for the country you're in</li>
         <li>Small, medium, and Lock Screen widget families</li>
       </ul>
     </article>
@@ -135,12 +138,12 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>Hold the mic</h3>
+      <h3>Tap the mic</h3>
       <p>One button starts and stops recording, with a live transcript as you speak.</p>
     </article>
     <article class="marketing-step">
       <h3>Say what and when</h3>
-      <p>Sayminder reads the time out of natural phrasing and uses the rest as the title.</p>
+      <p>Sayminder reads the time out of natural phrasing and uses the rest as the title. No time? Tap Tonight, Tomorrow morning, or In an hour.</p>
     </article>
     <article class="marketing-step">
       <h3>Confirm or edit</h3>
@@ -148,7 +151,7 @@ The fastest reminder is the one you speak. Hold the mic, say what and when, and 
     </article>
     <article class="marketing-step">
       <h3>It reaches you</h3>
-      <p>A breakthrough alarm fires on time, even on silent, and reads the reminder aloud.</p>
+      <p>A breakthrough alarm fires on time, even on silent or in Focus, and Sayminder reads it back if you open the app soon after.</p>
     </article>
     <article class="marketing-step">
       <h3>Tap to clear</h3>

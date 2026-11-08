@@ -53,7 +53,7 @@ O Screener filtra mais de 480 ETFs com as regras que você define. Uma regra pod
 
 ### Como gerencio, cancelo ou restauro minha assinatura?
 
-Para gerenciar ou cancelar, abra Ajustes no ETFWise e toque em Gerenciar no banner Premium, ou vá em Ajustes do dispositivo > Conta Apple > Assinaturas. As assinaturas são renovadas automaticamente, a menos que sejam canceladas pelo menos 24 horas antes do fim do período atual. Para restaurar o Premium em um novo dispositivo ou após reinstalar, toque em Restaurar Compras na tela de planos ou em Ajustes, usando a mesma Conta Apple. Os pedidos de reembolso são tratados pela Apple.
+Para gerenciar ou cancelar, abra Ajustes no ETFWise e toque em Gerenciar no banner Premium, ou vá em Ajustes do dispositivo > Conta Apple > Assinaturas. As assinaturas são renovadas automaticamente, a menos que sejam canceladas pelo menos 24 horas antes do fim do período atual. Para restaurar o Premium em um novo dispositivo ou após reinstalar, toque em Restaurar Compras na tela de planos ou em Ajustes, usando a mesma Conta Apple. Os pedidos de reembolso são tratados pela Apple. Consulte os [Termos de Uso](/etfwise/terms/pt/) para ver todos os detalhes da assinatura.
 
 ### Como os argumentos de alta e de risco são gerados?
 
@@ -65,11 +65,11 @@ O aplicativo analisa artigos de notícias recentes para cada ETF e os pontua qua
 
 ### Posso pesquisar um ETF específico?
 
-Sim. Use a barra de busca para encontrar qualquer ETF por símbolo ou nome. A busca abrange mais de 480 ETFs, incluindo mais de 200 seleções curadas e uma biblioteca estendida de fundos adicionais.
+Sim. Use a barra de busca para encontrar qualquer ETF por símbolo. A busca abrange mais de 480 ETFs, incluindo mais de 200 seleções curadas e uma biblioteca estendida de fundos adicionais.
 
 ### Meus dados são privados?
 
-Sim. Sem contas, sem análises, sem rastreamento. Apenas símbolos de tickers são enviados aos provedores de dados financeiros. Consulte nossa [Política de Privacidade](https://bartlettbutter.com/etfwise/privacy/) completa para mais detalhes.
+Sim. Sem contas, sem análises, sem rastreamento. Apenas símbolos de tickers e intervalos de datas são enviados aos provedores de dados financeiros. Consulte nossa [Política de Privacidade](https://bartlettbutter.com/etfwise/privacy/pt/) completa para mais detalhes.
 
 ### O que acontece se eu excluir o aplicativo?
 

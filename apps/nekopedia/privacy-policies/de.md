@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-**Gültig ab:** 13. Juni 2026
+**Gültig ab:** 8. November 2026
 
 Nekopedia („die App") ist eine kostenlose iOS-Anwendung, die Katzenrassen anhand von Fotos identifiziert. Datenschutz ist hier kein nachträglicher Gedanke, sondern die Art und Weise, wie die App von Anfang an entwickelt wurde. Diese Richtlinie erklärt in klarer Sprache genau, wie Ihre Informationen behandelt werden. Kurz gesagt: Sie bleiben bei Ihnen.
 
@@ -34,7 +34,7 @@ Keine. Wir sammeln, speichern oder übertragen keine persönlichen Daten. Die Ap
 
 ## Fotos und Kamera-/Bibliothekszugang
 
-Die App fordert Kamera- und Fotobibliothek-Berechtigungen ausschließlich an, damit Sie Katzen fotografieren oder Bilder für die Rassenerkennung auswählen können. Die von Ihnen aufgenommenen oder ausgewählten Fotos werden vollständig auf Ihrem Gerät mithilfe geräteeigener Intelligenz analysiert. Ihre Fotos werden niemals auf einen Server hochgeladen.
+Die App fordert die Kamera-Berechtigung ausschließlich an, damit Sie Katzen für die Rassenerkennung fotografieren können. Um ein vorhandenes Foto zu verwenden, öffnet die App die standardmäßige iOS-Fotoauswahl. Sie wählen das Foto aus, und die App erhält nur dieses Foto, ohne Zugriff auf den Rest Ihrer Fotobibliothek. Die von Ihnen aufgenommenen oder ausgewählten Fotos werden vollständig auf Ihrem Gerät mithilfe geräteeigener Intelligenz analysiert. Ihre Fotos werden niemals auf einen Server hochgeladen.
 
 ## Lokal gespeicherte Daten
 
@@ -55,7 +55,6 @@ Wir verkaufen, vermieten oder teilen keine Benutzerdaten mit Dritten. Es gibt ke
 | Berechtigung | Warum wir fragen | Erforderlich? |
 |--------------|-----------------|---------------|
 | Kamera | Um Katzen für die Rassenerkennung zu fotografieren | Optional (Sie können Ihre Fotobibliothek verwenden) |
-| Fotobibliothek | Um vorhandene Fotos für die Rassenerkennung auszuwählen | Optional (Sie können die Kamera verwenden) |
 
 Keine weiteren Berechtigungen werden angefordert oder genutzt. Die App verwendet weder Standort, Kontakte, Mikrofon, Tracking, Benachrichtigungen noch anderen sensiblen Zugriff.
 

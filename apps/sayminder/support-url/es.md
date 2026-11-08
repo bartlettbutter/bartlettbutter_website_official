@@ -17,15 +17,15 @@ Queremos que aproveches al máximo Sayminder. Si algo no funciona como esperas o
 
 ### ¿Cómo configuro la app?
 
-Solo tienes que abrir Sayminder. No hay cuentas ni registros. Al iniciarla por primera vez, te pide permisos de micrófono, reconocimiento de voz y notificaciones para poder escucharte y avisarte a tiempo. Concédelos, mantén pulsado el micrófono y di tu primer recordatorio.
+Solo tienes que abrir Sayminder. No hay cuentas ni registros. La pantalla de bienvenida te ofrece activar los avisos para que los recordatorios te lleguen a tiempo; los avisos son opcionales, así que puedes elegir «Ahora no» y activarlos más tarde en los Ajustes. Después, la pantalla Hablar te pide acceso al micrófono y al reconocimiento de voz para poder escucharte. Toca el micrófono y di tu primer recordatorio.
 
 ### ¿Cómo creo un recordatorio?
 
-Toca el botón del micrófono y habla; por ejemplo, «recuérdame tomar la medicina esta noche a las nueve». Sayminder transcribe tus palabras, extrae de ellas la fecha y la hora y muestra una tarjeta de confirmación. Revisa o edita el título, las notas, la hora y la opción de repetición, y luego guarda. Te lee en voz alta una breve confirmación.
+Toca el botón del micrófono y habla; por ejemplo, «recuérdame tomar la medicina esta noche a las nueve». Sayminder transcribe tus palabras, extrae de ellas la fecha y la hora y muestra una tarjeta de confirmación. Revisa o edita el título, las notas, la hora y la opción de repetición, y luego guarda. Te lee en voz alta una breve confirmación. Di varias cosas a la vez, como «llamar al banco y comprar leche», y cada una se convierte en su propio recordatorio. ¿No puedes hablar ahora? Usa el campo de texto para escribirlo.
 
 ### ¿Qué tipos de horas puedo decir?
 
-Dilo como se lo dirías a una persona. Sayminder entiende expresiones relativas como «en 20 minutos», «esta noche a las 9», «el próximo viernes» y «a fin de mes», así como fechas absolutas como «el 3 de diciembre». Si no encuentra una hora concreta, establece el recordatorio dentro de una hora de forma predeterminada y marca la hora para que puedas confirmarla.
+Dilo como se lo dirías a una persona. Sayminder entiende expresiones relativas como «en 20 minutos», «esta noche a las 9», «el próximo viernes» y «a fin de mes», así como fechas absolutas como «el 3 de diciembre». Si no encuentra una hora concreta, te ofrece opciones rápidas como «Esta noche», «Mañana por la mañana» o «En una hora»; si no, el recordatorio se establece dentro de una hora de forma predeterminada y la hora se marca para que puedas confirmarla.
 
 ### ¿Cómo edito un recordatorio más tarde?
 
@@ -39,7 +39,7 @@ Sí. Sayminder se descarga y se usa de forma gratuita, sin anuncios. Es posible 
 
 ### ¿Sayminder recopila mis datos?
 
-No. No hay cuentas de usuario, ni analíticas, ni seguimiento, ni publicidad. Los recordatorios, la programación y la síntesis de voz se ejecutan localmente y se almacenan solo en tu dispositivo. Consulta nuestra [Política de Privacidad](https://bartlettbutter.com/sayminder/privacy/es/) completa para más detalles.
+No. No hay cuentas de usuario, ni analíticas, ni seguimiento, ni publicidad. Los recordatorios, la programación y la síntesis de voz se ejecutan localmente y se almacenan solo en tu dispositivo. Con la capa opcional de festivos, Apple determina el país a partir de tu ubicación aproximada y luego se envía solo el código de país a un servicio público de festivos. Consulta nuestra [Política de Privacidad](https://bartlettbutter.com/sayminder/privacy/es/) completa para más detalles.
 
 ### ¿Funcionan los recordatorios cuando el teléfono está en silencio o en modo Concentración?
 
@@ -51,7 +51,7 @@ Sí. Un recordatorio puede repetirse a diario, semanalmente o mensualmente. Los 
 
 ### ¿Sayminder lee los recordatorios en voz alta?
 
-Sí. Cuando se activa un recordatorio, la app lo lee en voz alta («Recordatorio: …»), y confirma en voz alta cuando guardas uno. También puedes tocar cualquier fila de la lista para que se lea a petición. La lectura en voz alta se produce mientras la app está en primer plano o cuando tocas un aviso.
+Sí. Cuando se activa un recordatorio con la app abierta, o cuando abres la app en los 15 minutos siguientes a que se active, Sayminder lo lee en voz alta («Recordatorio: …»), y confirma en voz alta cuando guardas uno. También puedes tocar el botón del altavoz en cualquier fila de recordatorio abierto para que se lea a petición.
 
 ### ¿Puedo crear un recordatorio sin abrir la app?
 
@@ -61,9 +61,17 @@ Sí. Sayminder añade un atajo de app, así que puedes crear un recordatorio por
 
 Sí, de forma opcional. Activa **Mostrar eventos del calendario** en los Ajustes para reflejar los eventos del calendario del sistema en el Resumen de hoy, la lista de Próximos y la cuadrícula del Calendario. Esta capa es estrictamente de solo lectura: Sayminder nunca crea, edita ni elimina eventos del calendario, y está desactivada hasta que la actives.
 
+### ¿Puede Sayminder mostrar los días festivos?
+
+Sí, de forma opcional. Activa **Mostrar festivos nacionales** en los Ajustes para marcar en el Calendario los festivos nacionales del país en el que te encuentras. Apple determina el país a partir de tu ubicación aproximada, y solo el código de país se envía al servicio público de festivos [Nager.Date](https://date.nager.at). Está desactivada hasta que la actives.
+
 ### ¿Funciona Sayminder en el iPad?
 
 Sí. Sayminder está optimizada tanto para iPhone como para iPad, con un diseño adaptable a la pantalla más grande.
+
+### ¿En qué idioma está disponible Sayminder?
+
+La interfaz de la app y la comprensión de horas habladas están actualmente en inglés, y hay más idiomas previstos. Este sitio de soporte está disponible en varios idiomas.
 
 ## Permisos
 
@@ -73,11 +81,15 @@ Son la base de la función principal: capturar un recordatorio por voz y transcr
 
 ### ¿Por qué pide Sayminder permiso de alarma y de notificaciones?
 
-Un recordatorio no puede llegar a ti si no se autorizan ni las alarmas ni las notificaciones. Sayminder usa alarmas para superar el modo silencio y Concentración, y las notificaciones como alternativa. Si los avisos están desactivados, la fila de estado de avisos en los Ajustes te guía para reactivarlos.
+Un recordatorio no puede llegar a ti si no se autorizan ni las alarmas ni las notificaciones. Sayminder usa alarmas para superar el modo silencio y Concentración, y las notificaciones como alternativa. Los avisos son opcionales y solo se solicitan cuando eliges activarlos, desde la pantalla de bienvenida o los Ajustes; la app sigue siendo útil sin ellos. Si los avisos están desactivados, la fila de estado de avisos en los Ajustes te guía para activarlos.
 
 ### ¿Por qué el permiso de calendario aparece solo a veces?
 
 El acceso de solo lectura al calendario se solicita de forma diferida, solo cuando activas **Mostrar eventos del calendario** en los Ajustes, y no al iniciar la app.
+
+### ¿Por qué Sayminder me pide la ubicación?
+
+Solo si activas **Mostrar festivos nacionales** en los Ajustes. Se usa una ubicación aproximada, solo mientras usas la app, para saber en qué país estás y así mostrar sus festivos. Tu ubicación en sí nunca se envía ni a nosotros ni al servicio de festivos; solo se envía el código de país.
 
 ## Solución de problemas
 
@@ -99,7 +111,7 @@ Si guardas un recordatorio único cuya hora ya ha pasado, la tarjeta de confirma
 
 ### La lectura en voz alta no se reproduce
 
-La lectura en voz alta se reproduce mientras la app está en primer plano o cuando tocas un aviso. Asegúrate de que el dispositivo no esté silenciado para la reproducción de medios y de que ninguna otra app esté ocupando la sesión de audio.
+La lectura en voz alta se reproduce cuando un recordatorio se activa con la app abierta, o cuando abres la app en los 15 minutos siguientes a que se active. Asegúrate de que el dispositivo no esté silenciado para la reproducción de medios y de que ninguna otra app esté ocupando la sesión de audio.
 
 ### El widget no se actualiza
 

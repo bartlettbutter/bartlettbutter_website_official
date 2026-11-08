@@ -26,7 +26,7 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">検索して探索できる、CFA/TICAスタイルの充実したプロフィールを備えた猫の品種</span>
+    <span class="marketing-stat-label">検索して探索できる、充実したプロフィールを備えた猫の品種</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>読む価値のあるプロフィール</h3>
-      <p>各品種は、名前だけでなくその猫が実際にどんな性格なのかを説明する、CFA/TICAスタイルのプロフィールを開きます。</p>
+      <p>各品種は、名前だけでなくその猫が実際にどんな性格なのかを説明する詳しいプロフィールを開きます。</p>
       <ul class="marketing-list">
         <li>性格、寿命、体重、身長がひと目でわかる</li>
         <li>原産国とその品種の歴史</li>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">プライバシーの姿勢</span>
       <h3 class="marketing-price-summary">アップロードなし。クラウドなし。トラッキングなし。</h3>
       <p>あなたの写真がデバイスから出ることは一切ありません。品種の識別はすべてデバイス上で行われ、オンライン機能が取得するのは公開されている猫の写真と豆知識だけです。</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">プライバシーポリシーを読む</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/ja/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="nk-next-title">出会う猫すべてに名前をつける準備はできましたか?</h2>
   <p>Nekopediaをダウンロードして、すぐにスキャンを始めましょう。好奇心が湧いたときはいつでも、品種の世界をすぐそばに。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">サポートを見る</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">プライバシーポリシーを読む</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/ja/">サポートを見る</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/ja/">プライバシーポリシーを読む</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -25,7 +25,7 @@ Nee. Huepick heeft geen accounts, geen aanmelding en geen login. Open gewoon de 
 
 ### Is een internetverbinding vereist?
 
-Bijna alles werkt offline, waaronder kleurextractie, paletten, creatieve hulpmiddelen en opslaan. De enige optionele netwerkfunctie is het omzetten van fotolocatiecoördinaten in een plaatsnaam (zoals "Seattle, WA") op opgeslagen paletten.
+Nee. Alles werkt offline, waaronder kleurextractie, kleuranalyse, creatieve hulpmiddelen en opslaan.
 
 ### Is Huepick echt gratis?
 
@@ -72,7 +72,7 @@ Houd de creatie in de Galerij ingedrukt en kies "Verwijderen". Je wordt gevraagd
 
 ### Waar worden mijn gegevens opgeslagen?
 
-Alles, waaronder opgeslagen paletten en creaties, wordt lokaal op je apparaat opgeslagen. We hebben geen servers, geen cloudopslag en geen toegang tot je gegevens.
+Alles, waaronder je opgeslagen creaties, wordt lokaal op je apparaat opgeslagen. We hebben geen servers, geen cloudopslag en geen toegang tot je gegevens.
 
 ### Worden mijn foto's ergens geüpload?
 
@@ -80,11 +80,11 @@ Nooit. Alle verwerking gebeurt volledig op je apparaat.
 
 ### Welke gegevens verzamelen jullie?
 
-Geen. Geen persoonsgegevens, geen gebruiksanalyse, geen apparaat-ID's. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/huepick/privacy/) voor meer details.
+Geen. Geen persoonsgegevens, geen gebruiksanalyse, geen apparaat-ID's. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/huepick/privacy/nl/) voor meer details.
 
 ### Wat gebeurt er als ik de app verwijder?
 
-Het de-installeren van Huepick verwijdert permanent alle opgeslagen paletten en creaties van je apparaat. Omdat er geen cloudback-up of -synchronisatie is, kan dit niet ongedaan worden gemaakt.
+Het de-installeren van Huepick verwijdert permanent alle opgeslagen creaties van je apparaat. Omdat er geen cloudback-up of -synchronisatie is, kan dit niet ongedaan worden gemaakt.
 
 ## Probleemoplossing
 

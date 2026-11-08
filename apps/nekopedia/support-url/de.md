@@ -67,7 +67,7 @@ Ja. Nekopedia ist eine universelle App, die sowohl auf iPhone als auch iPad funk
 
 ### Sind meine Daten privat?
 
-Ja. Deine Fotos verlassen niemals dein Gerät, und es werden keine personenbezogenen Daten erhoben. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/nekopedia/privacy/).
+Ja. Deine Fotos verlassen niemals dein Gerät, und es werden keine personenbezogenen Daten erhoben. Weitere Einzelheiten findest du in unserer vollständigen [Datenschutzrichtlinie](https://bartlettbutter.com/nekopedia/privacy/de/).
 
 ## Berechtigungen
 
@@ -75,13 +75,13 @@ Ja. Deine Fotos verlassen niemals dein Gerät, und es werden keine personenbezog
 
 Der Kamerazugriff ermöglicht es dir, Fotos von Katzen direkt in der App für die Rassenerkennung aufzunehmen. Du kannst diese Berechtigung überspringen und stattdessen Fotos aus deiner Mediathek auswählen.
 
-### Warum benötigt Nekopedia Zugriff auf die Fotomediathek?
+### Benötigt Nekopedia Zugriff auf die Fotomediathek?
 
-Der Zugriff auf die Fotomediathek ermöglicht es dir, vorhandene Fotos aus deiner Mediathek für die Rassenerkennung auszuwählen. Dies ist eine Alternative zur Verwendung der Kamera.
+Nein. Um ein vorhandenes Foto zu verwenden, öffnet Nekopedia die standardmäßige iOS-Fotoauswahl. Du wählst das Foto aus, und die App erhält nur dieses Foto, nie den Rest deiner Mediathek. Deshalb wird keine Berechtigung für die Fotomediathek angefordert.
 
 ### Greift Nekopedia auf meinen Standort oder andere Daten zu?
 
-Nein. Nekopedia fordert nur Zugriff auf die Kamera und die Fotomediathek an. Es greift nicht auf deinen Standort, deine Kontakte, dein Mikrofon oder andere sensible Informationen zu.
+Nein. Der Kamerazugriff ist die einzige Berechtigung, die Nekopedia anfordert. Es greift nicht auf deinen Standort, deine Kontakte, dein Mikrofon oder andere sensible Informationen zu.
 
 ## Fehlerbehebung
 
@@ -91,7 +91,7 @@ Nein. Nekopedia fordert nur Zugriff auf die Kamera und die Fotomediathek an. Es 
 
 ### Rasseninfos, Quiz- oder Trivia-Inhalte werden nicht geladen
 
-Diese Funktionen erfordern eine aktive Internetverbindung. Vergewissere dich, dass du mit WLAN oder Mobilfunkdaten verbunden bist, und versuche es erneut. Wenn das Problem weiterhin besteht, ist der Dienst möglicherweise vorübergehend nicht verfügbar. Warte ein paar Minuten und versuche es erneut.
+Rassenfotos und das Rassen-Quiz benötigen eine Internetverbindung, Katzen-Trivia und die Rassenfakten ebenfalls, wenn die App auf Englisch eingestellt ist. Die integrierten Rassenprofile funktionieren offline. Vergewissere dich, dass du mit WLAN oder Mobilfunkdaten verbunden bist, und versuche es erneut. Wenn das Problem weiterhin besteht, ist der Dienst möglicherweise vorübergehend nicht verfügbar. Warte ein paar Minuten und versuche es erneut.
 
 ### Die App sagt „Keine Katze"
 

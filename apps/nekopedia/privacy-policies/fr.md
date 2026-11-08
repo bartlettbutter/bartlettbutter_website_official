@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-**Date d'entrée en vigueur :** 13 juin 2026
+**Date d'entrée en vigueur :** 8 novembre 2026
 
 Nekopedia (« l'Application ») est une application iOS gratuite qui identifie les races de chats à partir de photos. La confidentialité n'est pas une considération secondaire ici, c'est la façon dont l'Application a été conçue dès le premier jour. Cette politique explique, en langage clair, exactement comment vos informations sont traitées. En résumé : elles restent avec vous.
 
@@ -34,7 +34,7 @@ Aucune. Nous ne collectons, ne stockons et ne transmettons aucune donnée person
 
 ## Photos et Accès à la Caméra/Bibliothèque
 
-L'Application demande l'accès à la caméra et à la bibliothèque de photos uniquement pour vous permettre de photographier ou de sélectionner des images de chats pour l'identification de race. Les photos que vous prenez ou sélectionnez sont analysées entièrement sur votre appareil grâce à l'intelligence embarquée. Vos photos ne sont jamais téléchargées sur un serveur.
+L'Application demande l'accès à la caméra uniquement pour vous permettre de photographier des chats pour l'identification de race. Pour utiliser une photo existante, l'Application ouvre le sélecteur de photos standard d'iOS. Vous choisissez la photo, et l'Application ne reçoit que cette photo, sans aucun accès au reste de votre bibliothèque de photos. Les photos que vous prenez ou sélectionnez sont analysées entièrement sur votre appareil grâce à l'intelligence embarquée. Vos photos ne sont jamais téléchargées sur un serveur.
 
 ## Données Stockées Localement
 
@@ -55,7 +55,6 @@ Nous ne vendons, ne louons et ne partageons aucune donnée utilisateur avec des 
 | Autorisation | Pourquoi Nous la Demandons | Requise ? |
 |--------------|---------------------------|-----------|
 | Caméra | Pour photographier des chats pour l'identification de race | Facultative (vous pouvez utiliser votre bibliothèque de photos) |
-| Bibliothèque de Photos | Pour sélectionner des photos existantes pour l'identification de race | Facultative (vous pouvez utiliser la caméra) |
 
 Aucune autre autorisation n'est demandée ou utilisée. L'Application n'utilise pas la localisation, les contacts, le microphone, le suivi, les notifications ou tout autre accès sensible.
 

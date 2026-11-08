@@ -101,20 +101,20 @@ redirect_from:
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>免費下載，套餐靈活</h3>
-      <p>Journeyfolio 現已免費開始，而現有購買者保留永久的高階訪問許可權，無需任何額外操作。</p>
+      <h3>行程一目了然</h3>
+      <p>「即將出發」分頁開啟時顯示「今天」：您處於行程的第幾天、所在城市以及今天的安排。每段即將開始的行程都有倒數計時。</p>
     </article>
     <article class="marketing-card">
-      <h3>旅行文件附加到活動</h3>
-      <p>登機牌、預訂確認單和收據可以恰好存放在它們應在的位置，OCR 有助於減少手動輸入。</p>
+      <h3>貼心提醒，不再漏訂</h3>
+      <p>Journeyfolio 會標出未預訂飯店的夜晚和沒有交通安排的城市間行程段；開啟「行程提醒」後，還會在每段行程開始前一天通知您。</p>
     </article>
     <article class="marketing-card">
-      <h3>完整的 iPad 支援</h3>
-      <p>自適應佈局、分屏瀏覽和側拉多工讓規劃工具在大螢幕上和多工處理時更加舒適。</p>
+      <h3>天氣預報，現已對所有人免費</h3>
+      <p>每個目的地的目前天氣和 5 天預報不再需要高階訂閱。</p>
     </article>
     <article class="marketing-card">
-      <h3>可靠性與無障礙性改進</h3>
-      <p>核心穩定性、易用性和打磨一同向前推進，而不是把無障礙性當作事後才考慮的事。</p>
+      <h3>更簡潔、煥然一新的外觀</h3>
+      <p>整個應用在 iPhone 和 iPad 上都換上了更簡潔、煥然一新的設計。</p>
     </article>
   </div>
 </section>
@@ -196,16 +196,17 @@ redirect_from:
         <li>在 iPhone 和 iPad 上建立和組織行程</li>
         <li>將文件、備註和核心行程細節集中在一起</li>
         <li>無需賬戶或繁瑣設定即可開始</li>
+        <li>包含天氣、公共假日、票券自動填寫和行程提醒</li>
       </ul>
     </article>
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">高階版</span>
-      <h3 class="marketing-price-summary">無限行程、實時航班跟蹤和天氣預報。</h3>
+      <h3 class="marketing-price-summary">無限行程、實時航班狀態和「驗證航班」自動填寫。</h3>
       <p>高階版提供月度、6 個月或年度自動續訂訂閱，適合想在一處掌握完整持續資訊的旅行者。</p>
       <ul class="marketing-list">
         <li>無限的行程容量</li>
         <li>行程表內的實時航班狀態</li>
-        <li>內建於行程檢視的目的地天氣預報</li>
+        <li>「驗證航班」自動填寫航空公司、航線和預定時間</li>
       </ul>
     </article>
   </div>
@@ -215,8 +216,8 @@ redirect_from:
   <h2 id="jf-next-title">出發前就讓旅行更輕鬆。</h2>
   <p>下載 Journeyfolio，把你的行程放在一個井然有序的地方。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/journeyfolio/support/">訪問支援</a>
-    <a class="marketing-inline-link" href="/journeyfolio/privacy/">閱讀隱私政策</a>
+    <a class="marketing-inline-link" href="/journeyfolio/support/zh-Hant/">訪問支援</a>
+    <a class="marketing-inline-link" href="/journeyfolio/privacy/zh-Hant/">閱讀隱私政策</a>
     <a class="marketing-inline-link" href="/journeyfolio/terms/zh-Hant/">閱讀使用條款</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>

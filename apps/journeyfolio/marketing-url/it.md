@@ -101,20 +101,20 @@ Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciat
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>Gratis da scaricare, con piani flessibili</h3>
-      <p>Journeyfolio ora è gratuito all'inizio, mentre gli acquirenti esistenti mantengono l'accesso Premium permanente senza alcuna azione necessaria.</p>
+      <h3>Il tuo viaggio a colpo d'occhio</h3>
+      <p>La scheda In arrivo si apre su Oggi: a che giorno del viaggio sei, in quale città ti trovi e i programmi di oggi. Ogni viaggio in arrivo ha il suo conto alla rovescia.</p>
     </article>
     <article class="marketing-card">
-      <h3>Documenti di viaggio allegati alle attività</h3>
-      <p>Carte d'imbarco, conferme di prenotazione e ricevute possono risiedere esattamente dove appartengono, con l'OCR che aiuta a ridurre l'inserimento manuale.</p>
+      <h3>Promemoria perché nulla resti da prenotare</h3>
+      <p>Journeyfolio segnala le notti senza hotel e le tratte tra città senza trasporto, e i Promemoria viaggio ti avvisano il giorno prima dell'inizio di ogni viaggio.</p>
     </article>
     <article class="marketing-card">
-      <h3>Supporto completo per iPad</h3>
-      <p>Layout adattivi, Split View e Slide Over rendono il pianificatore più comodo sugli schermi più grandi e durante il multitasking.</p>
+      <h3>Previsioni meteo, ora gratuite per tutti</h3>
+      <p>Condizioni attuali e previsioni a 5 giorni per ogni destinazione non richiedono più Premium.</p>
     </article>
     <article class="marketing-card">
-      <h3>Miglioramenti di affidabilità e accessibilità</h3>
-      <p>Stabilità di base, usabilità e cura sono avanzate tutte insieme, invece di trattare l'accessibilità come un ripensamento.</p>
+      <h3>Un aspetto più pulito e rinnovato</h3>
+      <p>Tutta l'app ha un design più pulito e rinnovato, su iPhone e iPad.</p>
     </article>
   </div>
 </section>
@@ -196,16 +196,17 @@ Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciat
         <li>Crea e organizza viaggi su iPhone e iPad</li>
         <li>Tieni insieme documenti, note e i dettagli principali dell'itinerario</li>
         <li>Inizia senza account né attriti di configurazione</li>
+        <li>Meteo, festività, compilazione automatica dai biglietti e promemoria di viaggio inclusi</li>
       </ul>
     </article>
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">Viaggi illimitati, tracciamento voli in tempo reale e previsioni meteo.</h3>
+      <h3 class="marketing-price-summary">Viaggi illimitati, stato dei voli in tempo reale e compilazione automatica con "Verifica Volo".</h3>
       <p>Premium è disponibile come abbonamento a rinnovo automatico mensile, semestrale o annuale per i viaggiatori che vogliono un contesto completo e costante in un unico posto.</p>
       <ul class="marketing-list">
         <li>Capacità di viaggi illimitata</li>
         <li>Stato dei voli in tempo reale all'interno dell'itinerario</li>
-        <li>Previsioni meteo per destinazione integrate nella vista del viaggio</li>
+        <li>"Verifica Volo" compila compagnia aerea, rotta e orari previsti</li>
       </ul>
     </article>
   </div>
@@ -215,8 +216,8 @@ Smetti di destreggiarti tra screenshot, e-mail sparse e fogli di calcolo lasciat
   <h2 id="jf-next-title">Viaggia più leggero, ancora prima di partire.</h2>
   <p>Scarica Journeyfolio e tieni il tuo viaggio in un unico posto ben composto.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/journeyfolio/support/">Visita il supporto</a>
-    <a class="marketing-inline-link" href="/journeyfolio/privacy/">Leggi l'informativa sulla privacy</a>
+    <a class="marketing-inline-link" href="/journeyfolio/support/it/">Visita il supporto</a>
+    <a class="marketing-inline-link" href="/journeyfolio/privacy/it/">Leggi l'informativa sulla privacy</a>
     <a class="marketing-inline-link" href="/journeyfolio/terms/it/">Leggi i termini di utilizzo</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>

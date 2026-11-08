@@ -221,7 +221,7 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen servers. Geen cloud. Geen tracking.</h3>
       <p>Je foto's verlaten nooit je apparaat. Herkenning en analyse gebeuren lokaal.</p>
-      <p class="marketing-price-note"><a href="/formulens/privacy/">Lees het privacybeleid</a></p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/nl/">Lees het privacybeleid</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">FormuLens is uitsluitend bedoeld voor informatieve doeleinden en is geen medisch of dermatologisch advies. Ingrediëntgegevens kunnen onvolledig zijn, en de resultaten hangen af van hoe duidelijk een etiket wordt gelezen. Heb je allergieën, een gevoelige huid of een huidaandoening, controleer dan het productetiket, test nieuwe producten eerst op een klein stukje huid en raadpleeg een dermatoloog of zorgverlener.</p>
@@ -231,8 +231,8 @@ Ingrediëntenetiketten zijn geschreven voor scheikundigen, niet voor jou. FormuL
   <h2 id="fl-next-title">Klaar om etiketten te lezen alsof ze voor jou zijn geschreven?</h2>
   <p>Download FormuLens en begin meteen met scannen.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/formulens/support/">Bezoek ondersteuning</a>
-    <a class="marketing-inline-link" href="/formulens/privacy/">Lees het privacybeleid</a>
+    <a class="marketing-inline-link" href="/formulens/support/nl/">Bezoek ondersteuning</a>
+    <a class="marketing-inline-link" href="/formulens/privacy/nl/">Lees het privacybeleid</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

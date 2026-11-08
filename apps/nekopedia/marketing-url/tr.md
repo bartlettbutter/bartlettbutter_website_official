@@ -26,7 +26,7 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">arayıp keşfedebileceğiniz zengin, CFA/TICA tarzı profillere sahip kedi ırkı</span>
+    <span class="marketing-stat-label">arayıp keşfedebileceğiniz zengin profillere sahip kedi ırkı</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
     </article>
     <article class="marketing-card">
       <h3>Okunmaya değer profiller</h3>
-      <p>Her ırk, kedinin yalnızca adının ne olduğunu değil, gerçekte nasıl olduğunu açıklayan CFA/TICA tarzı bir profil açar.</p>
+      <p>Her ırk, kedinin yalnızca adının ne olduğunu değil, gerçekte nasıl olduğunu açıklayan ayrıntılı bir profil açar.</p>
       <ul class="marketing-list">
         <li>Mizaç, ömür, ağırlık ve boy bir bakışta</li>
         <li>Menşe ülke ve ırkın tarihçesi</li>
@@ -195,7 +195,7 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Fotoğraf yükleme yok. Bulut yok. İzleme yok.</h3>
       <p>Fotoğraflarınız cihazınızdan asla çıkmaz. Irk tanıma tamamen cihaz üzerinde çalışır ve çevrimiçi özellikler yalnızca herkese açık kedi fotoğraflarını ve bilgilerini getirir.</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Gizlilik politikasını okuyun</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/tr/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Herhangi bir kedinin fotoğrafını çekin; Nekopedia ırkı adlandırsın ve ar
   <h2 id="nk-next-title">Tanıştığınız her kediyi adlandırmaya hazır mısınız?</h2>
   <p>Nekopedia'yı indirin, hemen taramaya başlayın ve merak sardığında ırk dünyasının geri kalanını el altında tutun.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">Desteği ziyaret edin</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">Gizlilik politikasını okuyun</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/tr/">Desteği ziyaret edin</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/tr/">Gizlilik politikasını okuyun</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

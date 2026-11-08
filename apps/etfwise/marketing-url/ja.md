@@ -81,7 +81,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>分析のためにクラウドへアップロードするものはありません</li>
         <li>ファンドのファンダメンタルズに基づく、文脈豊かなシナリオ</li>
-        <li>市場データの取得にはティッカーシンボルのみを送信</li>
+        <li>市場データの取得にはティッカーシンボルと日付範囲のみを送信</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -205,8 +205,8 @@ redirect_from:
     <article class="marketing-price-card">
       <span class="marketing-price-tier">プライバシーへの姿勢</span>
       <h3 class="marketing-price-summary">アカウントなし。分析ツールなし。広告なし。</h3>
-      <p>分析はあなたのデバイス上で実行され、データはあなたの手元に残ります。市場価格を取得するために、金融データプロバイダーにはティッカーシンボルのみが送信されます。</p>
-      <p class="marketing-price-note"><a href="/etfwise/privacy/">プライバシーポリシーを読む</a></p>
+      <p>分析はあなたのデバイス上で実行され、データはあなたの手元に残ります。市場価格を取得するために、金融データプロバイダーにはティッカーシンボルと日付範囲のみが送信されます。</p>
+      <p class="marketing-price-note"><a href="/etfwise/privacy/ja/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">ETFWiseは情報提供および教育のみを目的としており、投資、財務、税務に関する助言ではありません。毎日のピックとスクリーナーの結果は、特定の証券の売買を個別に推奨するものではありません。市場データは遅延または不完全な場合があり、過去の実績は将来の結果を保証するものではありません。投資の前には、ご自身で調査するか、資格を持つ金融の専門家にご相談ください。</p>
@@ -216,8 +216,9 @@ redirect_from:
   <h2 id="ew-next-title">ETF投資における日々の優位性を手に入れませんか？</h2>
   <p>ETFWiseをダウンロードして、今日のブリーフィングをすぐに読みましょう。市場が動くたびに、厳選ピックと深い分析をすぐそばに。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/etfwise/support/">サポートを見る</a>
-    <a class="marketing-inline-link" href="/etfwise/privacy/">プライバシーポリシーを読む</a>
+    <a class="marketing-inline-link" href="/etfwise/support/ja/">サポートを見る</a>
+    <a class="marketing-inline-link" href="/etfwise/privacy/ja/">プライバシーポリシーを読む</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/ja/">利用規約を読む</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

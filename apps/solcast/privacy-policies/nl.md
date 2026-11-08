@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/solcast/nl/
 ---
 
-**Ingangsdatum:** 8 juli 2026
+**Ingangsdatum:** 8 november 2026
 
 Solcast ("de App") is een gratis weer- en lifestyle-adviesapp voor iPhone en iPad. Privacy staat centraal in de manier waarop we deze hebben gebouwd. Dit beleid legt precies uit welke gegevens betrokken zijn wanneer u Solcast gebruikt en, belangrijker nog, welke niet.
 
@@ -53,13 +53,14 @@ De app houdt een kortstondige, in-memory cache van weergegevens bij zodat u tuss
 
 ## Toestemmingen
 
-Solcast vraagt één toestemming:
+Solcast vraagt twee toestemmingen:
 
 | Toestemming | Doel |
 |-------------|------|
 | **Locatie (Tijdens gebruik)** | Weer-, luchtkwaliteits- en pollengegevens ophalen voor uw huidige positie |
+| **Meldingen** | Slimme weerswaarschuwingen tonen als meldingen die op uw apparaat worden aangemaakt |
 
-Er wordt geen andere toestemming gevraagd: geen camera, contacten, microfoon, meldingen, tracking of iets anders.
+Er wordt geen andere toestemming gevraagd: geen camera, contacten, microfoon, tracking of iets anders.
 
 ## Diensten van Derden
 
@@ -76,7 +77,7 @@ De app maakt verbinding met de volgende diensten om weer- en milieugegevens op t
 
 ## Gegevens Delen
 
-We verkopen, verhuren, licentiëren of delen uw gegevens met niemand. Het enige netwerkverkeer dat de app genereert, is het ophalen van weergegevens (coördinaten) en feestdaggegevens (landcode) van de hierboven vermelde diensten.
+We verkopen, verhuren, licentiëren of delen uw gegevens met niemand. Het enige netwerkverkeer dat de app genereert, is het ophalen van weergegevens (coördinaten), het zoeken naar locaties en plaatsnamen via Apple Kaarten (zoekopdracht of coördinaten) en het ophalen van feestdaggegevens (landcode) van de hierboven vermelde diensten.
 
 ## Bewaring en Verwijdering van Gegevens
 

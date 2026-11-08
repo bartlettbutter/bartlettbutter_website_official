@@ -26,7 +26,7 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">बिल्लियों की नस्लें, समृद्ध CFA/TICA-शैली प्रोफ़ाइल के साथ जिन्हें आप खोज और एक्सप्लोर कर सकते हैं</span>
+    <span class="marketing-stat-label">बिल्लियों की नस्लें, समृद्ध प्रोफ़ाइल के साथ जिन्हें आप खोज और एक्सप्लोर कर सकते हैं</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>पढ़ने योग्य प्रोफ़ाइल</h3>
-      <p>हर नस्ल एक CFA/TICA-शैली प्रोफ़ाइल खोलती है जो बताती है कि बिल्ली वास्तव में कैसी है, न कि केवल उसे क्या कहा जाता है।</p>
+      <p>हर नस्ल एक विस्तृत प्रोफ़ाइल खोलती है जो बताती है कि बिल्ली वास्तव में कैसी है, न कि केवल उसे क्या कहा जाता है।</p>
       <ul class="marketing-list">
         <li>स्वभाव, जीवनकाल, वजन और ऊँचाई एक नज़र में</li>
         <li>मूल देश और नस्ल का इतिहास</li>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">गोपनीयता रुख</span>
       <h3 class="marketing-price-summary">कोई अपलोड नहीं। कोई क्लाउड नहीं। कोई ट्रैकिंग नहीं।</h3>
       <p>आपकी तस्वीरें कभी आपके डिवाइस से बाहर नहीं जातीं। नस्ल पहचान पूरी तरह आपके डिवाइस पर होती है, और ऑनलाइन सुविधाएँ केवल बिल्लियों की सार्वजनिक तस्वीरें और तथ्य लाती हैं।</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">गोपनीयता नीति पढ़ें</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/hi/">गोपनीयता नीति पढ़ें</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="nk-next-title">हर उस बिल्ली का नाम जानने के लिए तैयार हैं जिससे आप मिलते हैं?</h2>
   <p>Nekopedia डाउनलोड करें, तुरंत स्कैनिंग शुरू करें, और जब भी जिज्ञासा जगे तब बाकी नस्ल-दुनिया को हाथ में रखें।</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">सहायता पर जाएँ</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">गोपनीयता नीति पढ़ें</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/hi/">सहायता पर जाएँ</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/hi/">गोपनीयता नीति पढ़ें</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -79,7 +79,7 @@ redirect_from:
       <p>여섯 가지 창의적 도구로 여러분 자신의 팔레트 색상을 사용하여 어떤 이미지든 재구성할 수 있습니다.</p>
       <ul class="marketing-list">
         <li>분리, 듀오톤, 트라이톤, 픽셀화, 흐림, 글리치</li>
-        <li>모든 효과에서 강도, 스타일, 방향을 세밀하게 조정</li>
+        <li>강도, 스타일, 방향 등의 조절 항목으로 각 효과를 세밀하게 조정</li>
         <li>작품을 저장하거나 사진 앱에 다운로드하거나 공유</li>
       </ul>
     </article>
@@ -87,7 +87,7 @@ redirect_from:
       <h3>기본적으로 비공개</h3>
       <p>계정 없음, 분석 없음, 광고 없음. 여러분의 사진은 절대 기기를 벗어나지 않으며 모든 것이 연결 없이 작동합니다.</p>
       <ul class="marketing-list">
-        <li>팔레트와 작품은 로컬에 그대로 저장</li>
+        <li>저장한 작품은 로컬에 그대로 저장</li>
         <li>가입할 것도 없고, 무료로 사용할 수 있습니다</li>
       </ul>
     </article>
@@ -111,17 +111,17 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Playground</h3>
-      <p>여섯 가지 창의적 도구로 이미지를 재구성하세요. 각 도구는 여러분의 사진에 맞춘 제안이 안내합니다.</p>
+      <p>여섯 가지 창의적 도구로 이미지를 재구성하세요. 여러분의 사진에 맞춘 제안이 안내합니다.</p>
       <ul class="marketing-list">
         <li>분리, 듀오톤, 트라이톤, 픽셀화, 흐림, 글리치</li>
-        <li>모든 효과에서 강도, 스타일, 방향을 조정</li>
+        <li>강도, 스타일, 방향 등의 조절 항목으로 각 효과를 조정</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>갤러리</h3>
       <p>저장하는 모든 작품이 여기에 있으며, 영감이 다시 떠오를 때 언제든 다시 볼 수 있습니다.</p>
       <ul class="marketing-list">
-        <li>저장된 팔레트나 작품을 다시 편집</li>
+        <li>저장된 작품을 다시 편집</li>
         <li>사진 앱에 다운로드하거나 탭 한 번으로 공유</li>
       </ul>
     </article>
@@ -164,8 +164,8 @@ redirect_from:
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>여러분이 사랑하는 색의 라이브러리를 만드세요</h3>
-      <p>어떤 팔레트나 작품이든 저장하고 언제든지 다시 보세요. 눈길을 사로잡은 색을 기억하고, 여러 느낌을 비교하고, 작업 전반에 걸쳐 정확한 헥스 코드를 재사용하는 데 유용합니다.</p>
+      <h3>여러분이 사랑하는 룩의 라이브러리를 만드세요</h3>
+      <p>어떤 작품이든 저장하고 언제든지 다시 보거나 편집하세요. 어떤 팔레트든 정확한 헥스 코드를 탭 한 번으로 복사해 작업 전반에 재사용할 수 있습니다.</p>
     </article>
     <article class="marketing-story-card">
       <h3>창의적인 사람들을 위해 만들어졌습니다</h3>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">개인정보 태도</span>
       <h3 class="marketing-price-summary">서버 없음. 클라우드 없음. 추적 없음.</h3>
       <p>여러분의 사진은 절대 기기를 벗어나지 않습니다. 추출, 분석, 그리고 모든 창의적 도구가 로컬에서 실행됩니다.</p>
-      <p class="marketing-price-note"><a href="/huepick/privacy/">개인정보 처리방침 읽기</a></p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/ko/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="hp-next-title">주변의 색을 볼 준비가 되셨나요?</h2>
   <p>Huepick을 다운로드하여 즉시 팔레트를 추출하기 시작하고, 영감이 떠오를 때마다 창의적인 도구를 가까이에 두세요.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/huepick/support/">지원 방문하기</a>
-    <a class="marketing-inline-link" href="/huepick/privacy/">개인정보 처리방침 읽기</a>
+    <a class="marketing-inline-link" href="/huepick/support/ko/">지원 방문하기</a>
+    <a class="marketing-inline-link" href="/huepick/privacy/ko/">개인정보 처리방침 읽기</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

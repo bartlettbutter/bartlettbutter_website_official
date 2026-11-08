@@ -29,7 +29,7 @@ Oui. Barkpedia est gratuit à télécharger et toutes les fonctionnalités actue
 
 ### Combien de races Barkpedia peut-il reconnaître ?
 
-Barkpedia identifie 147 races basées sur les standards de l'AKC.
+Barkpedia identifie 147 races de chiens. Les informations sur les races proviennent de bases de données publiques sur les races canines et de références sélectionnées.
 
 ## Utilisation de l'Application
 
@@ -57,7 +57,7 @@ Oui. Barkpedia adapte automatiquement sa mise en page, avec une navigation par o
 
 ### Mes données sont-elles privées ?
 
-Oui. Vos photos sont traitées entièrement sur votre appareil et ne sont jamais téléchargées. Barkpedia ne collecte aucune donnée personnelle, n'a aucun compte utilisateur et n'inclut aucune analyse ni suivi. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/barkpedia/privacy/) complète pour plus de détails.
+Oui. Vos photos sont traitées entièrement sur votre appareil et ne sont jamais téléchargées. Barkpedia ne collecte aucune donnée personnelle, n'a aucun compte utilisateur et n'inclut aucune analyse ni suivi. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/barkpedia/privacy/fr/) complète pour plus de détails.
 
 ### Où mes données sont-elles stockées ?
 
@@ -65,7 +65,7 @@ L'historique des scans et les favoris sont stockés uniquement sur votre apparei
 
 ### Comment supprimer mes données ?
 
-Balayez vers la gauche sur n'importe quel élément de l'onglet Favoris pour le supprimer. Pour effacer toutes les données de l'application en une fois, désinstallez simplement Barkpedia de votre appareil.
+Touchez de manière prolongée n'importe quel élément de l'onglet Favoris, puis touchez « Supprimer » pour le retirer. Pour effacer toutes les données de l'application en une fois, désinstallez simplement Barkpedia de votre appareil.
 
 ### Que se passe-t-il si je supprime l'application ?
 
@@ -77,13 +77,13 @@ La désinstallation de Barkpedia supprime définitivement tous les favoris enreg
 
 L'accès à l'appareil photo vous permet de photographier des chiens directement dans l'application pour l'identification des races. Cette autorisation est facultative. Vous pouvez utiliser votre photothèque à la place.
 
-### Pourquoi Barkpedia a-t-il besoin de l'accès à la photothèque ?
+### Barkpedia a-t-il besoin de l'accès à la photothèque ?
 
-L'accès à la photothèque vous permet de sélectionner des photos existantes pour l'identification. C'est une alternative à l'utilisation de l'appareil photo.
+Non. Pour utiliser une photo existante, Barkpedia ouvre le sélecteur de photos standard d'iOS. Vous choisissez la photo, et l'application ne reçoit que cette photo, jamais le reste de votre photothèque. Aucune autorisation d'accès à la photothèque n'est donc demandée.
 
 ### Barkpedia accède-t-il à ma localisation ou à d'autres données ?
 
-Non. Barkpedia demande uniquement l'accès à l'appareil photo et à la photothèque. Il n'utilise pas les services de localisation, les contacts, le microphone, les notifications ni aucune autre autorisation sensible.
+Non. L'accès à l'appareil photo est la seule autorisation demandée par Barkpedia. Il n'utilise pas les services de localisation, les contacts, le microphone, les notifications ni aucune autre autorisation sensible.
 
 ## Dépannage
 

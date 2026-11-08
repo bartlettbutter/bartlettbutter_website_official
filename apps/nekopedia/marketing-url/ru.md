@@ -26,7 +26,7 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">пород кошек с насыщенными профилями в стиле CFA/TICA, которые можно искать и изучать</span>
+    <span class="marketing-stat-label">пород кошек с насыщенными профилями, которые можно искать и изучать</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Профили, которые стоит прочитать</h3>
-      <p>Каждая порода открывает профиль в стиле CFA/TICA, который объясняет, какая кошка на самом деле, а не только как она называется.</p>
+      <p>Каждая порода открывает подробный профиль, который объясняет, какая кошка на самом деле, а не только как она называется.</p>
       <ul class="marketing-list">
         <li>Характер, продолжительность жизни, вес и рост с первого взгляда</li>
         <li>Страна происхождения и история породы</li>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">Подход к конфиденциальности</span>
       <h3 class="marketing-price-summary">Фото не выгружаются. Никакого облака. Никакого отслеживания.</h3>
       <p>Ваши фотографии никогда не покидают ваше устройство. Определение породы выполняется полностью на устройстве, а онлайн-функции лишь загружают общедоступные фото и факты о кошках.</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Читать политику конфиденциальности</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/ru/">Читать политику конфиденциальности</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="nk-next-title">Готовы назвать каждую кошку, которую встретите?</h2>
   <p>Загрузите Nekopedia, начните сканировать сразу же и держите остальной мир пород под рукой, когда возникнет любопытство.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">Посетить поддержку</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">Читать политику конфиденциальности</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/ru/">Посетить поддержку</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/ru/">Читать политику конфиденциальности</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

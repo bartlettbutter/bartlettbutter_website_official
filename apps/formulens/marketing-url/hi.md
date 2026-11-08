@@ -221,7 +221,7 @@ redirect_from:
       <span class="marketing-price-tier">निजता का रुख</span>
       <h3 class="marketing-price-summary">कोई सर्वर नहीं। कोई क्लाउड नहीं। कोई ट्रैकिंग नहीं।</h3>
       <p>आपकी फ़ोटो कभी आपके डिवाइस से बाहर नहीं जातीं। पहचान और विश्लेषण स्थानीय रूप से होते हैं।</p>
-      <p class="marketing-price-note"><a href="/formulens/privacy/">निजता नीति पढ़ें</a></p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/hi/">निजता नीति पढ़ें</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">FormuLens केवल सूचनात्मक उद्देश्यों के लिए है और यह चिकित्सीय या त्वचा-रोग संबंधी सलाह नहीं है। सामग्री का विवरण अधूरा हो सकता है, और परिणाम इस पर निर्भर करते हैं कि लेबल कितनी स्पष्टता से पढ़ा गया। यदि आपको एलर्जी, संवेदनशील त्वचा या कोई त्वचा रोग है, तो उत्पाद का लेबल जाँचें, नए उत्पादों का पैच-टेस्ट करें, और किसी त्वचा रोग विशेषज्ञ या स्वास्थ्य पेशेवर से सलाह लें।</p>
@@ -231,8 +231,8 @@ redirect_from:
   <h2 id="fl-next-title">लेबल ऐसे पढ़ने के लिए तैयार हैं जैसे वे आपके लिए लिखे गए हों?</h2>
   <p>FormuLens डाउनलोड करें और तुरंत स्कैन करना शुरू करें।</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/formulens/support/">सहायता देखें</a>
-    <a class="marketing-inline-link" href="/formulens/privacy/">निजता नीति पढ़ें</a>
+    <a class="marketing-inline-link" href="/formulens/support/hi/">सहायता देखें</a>
+    <a class="marketing-inline-link" href="/formulens/privacy/hi/">निजता नीति पढ़ें</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

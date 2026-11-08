@@ -79,7 +79,7 @@ redirect_from:
       <p>تتيح لك ست أدوات إبداعية إعادة تشكيل أي صورة باستخدام الألوان من لوحتك الخاصة.</p>
       <ul class="marketing-list">
         <li>العزل، والثنائي اللون، والثلاثي اللون، والبكسلة، والتمويه، والخلل</li>
-        <li>اضبط الشدة والنمط والاتجاه بدقة في كل تأثير</li>
+        <li>اضبط كل تأثير بدقة بعناصر تحكم مثل الشدة والنمط والاتجاه</li>
         <li>احفظ، أو نزّل إلى الصور، أو شارك أعمالك</li>
       </ul>
     </article>
@@ -87,7 +87,7 @@ redirect_from:
       <h3>خاص بشكل افتراضي</h3>
       <p>لا حسابات، ولا تحليلات، ولا إعلانات. لا تغادر صورك جهازك أبدًا وكل شيء يعمل دون اتصال.</p>
       <ul class="marketing-list">
-        <li>تبقى لوحات الألوان والأعمال مخزّنة محليًا</li>
+        <li>تبقى أعمالك المحفوظة مخزّنة محليًا</li>
         <li>لا شيء تسجّل فيه، والاستخدام مجاني</li>
       </ul>
     </article>
@@ -111,17 +111,17 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Playground</h3>
-      <p>أعد تشكيل صورتك بست أدوات إبداعية، كل منها مسترشد باقتراحات مضبوطة لصورتك.</p>
+      <p>أعد تشكيل صورتك بست أدوات إبداعية، مسترشدًا باقتراحات مضبوطة لصورتك.</p>
       <ul class="marketing-list">
         <li>العزل، والثنائي اللون، والثلاثي اللون، والبكسلة، والتمويه، والخلل</li>
-        <li>اضبط الشدة والنمط والاتجاه في كل تأثير</li>
+        <li>اضبط كل تأثير بعناصر تحكم مثل الشدة والنمط والاتجاه</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>المعرض</h3>
       <p>كل عمل تحفظه يوجد هنا، جاهز لتعود إليه كلما عاد الإلهام.</p>
       <ul class="marketing-list">
-        <li>أعد تحرير أي لوحة أو عمل محفوظ</li>
+        <li>أعد تحرير أي عمل محفوظ</li>
         <li>نزّل إلى الصور أو شارك بنقرة</li>
       </ul>
     </article>
@@ -164,8 +164,8 @@ redirect_from:
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>ابنِ مكتبة من الألوان التي تحبها</h3>
-      <p>احفظ أي لوحة أو عمل وعُد إليه في أي وقت. مفيد لتذكّر لون لفت نظرك، ومقارنة الأنماط، وإعادة استخدام رموز hex الدقيقة عبر أعمالك.</p>
+      <h3>ابنِ مكتبة من الإطلالات التي تحبها</h3>
+      <p>احفظ أي عمل وعُد إليه أو أعد تحريره في أي وقت. انسخ رموز hex الدقيقة من أي لوحة بلمسة واحدة وأعد استخدامها عبر أعمالك.</p>
     </article>
     <article class="marketing-story-card">
       <h3>مصمّم للأشخاص المبدعين</h3>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">موقف الخصوصية</span>
       <h3 class="marketing-price-summary">لا خوادم. لا سحابة. لا تتبع.</h3>
       <p>لا تغادر صورك جهازك أبدًا. يعمل الاستخراج والتحليل وكل أداة إبداعية محليًا.</p>
-      <p class="marketing-price-note"><a href="/huepick/privacy/">اقرأ سياسة الخصوصية</a></p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/ar/">اقرأ سياسة الخصوصية</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="hp-next-title">هل أنت مستعد لرؤية الألوان من حولك؟</h2>
   <p>نزّل Huepick، وابدأ باستخراج لوحات الألوان فورًا، وأبقِ أدواتك الإبداعية في متناول يدك كلما جاءك الإلهام.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/huepick/support/">زيارة الدعم</a>
-    <a class="marketing-inline-link" href="/huepick/privacy/">اقرأ سياسة الخصوصية</a>
+    <a class="marketing-inline-link" href="/huepick/support/ar/">زيارة الدعم</a>
+    <a class="marketing-inline-link" href="/huepick/privacy/ar/">اقرأ سياسة الخصوصية</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

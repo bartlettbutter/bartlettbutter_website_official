@@ -12,7 +12,7 @@ redirect_from:
 
 # ठीक-ठीक जानें कि कैसे कपड़े पहनें, योजना बनाएँ और अपने दिन की रक्षा करें।
 
-Solcast पूर्वानुमान से आगे जाता है। यह आपको बताता है कि क्या पहनना है, कब छाता ले जाना है, और अपने परिवार को कैसे आरामदायक रखना है, यह सब कुछ आपके जीवन के अनुरूप वैयक्तिकृत और सरल भाषा में प्रस्तुत। कोई विज्ञापन नहीं, कोई खाता नहीं, उपयोग के लिए निःशुल्क, वैकल्पिक Premium अपग्रेड के साथ। बस खोलें और चल पड़ें।
+Solcast पूर्वानुमान से आगे जाता है। यह आपको बताता है कि क्या पहनना है, कब छाता ले जाना है, और अपने परिवार को कैसे आरामदायक रखना है, यह सब कुछ आपके जीवन के अनुरूप वैयक्तिकृत और सरल भाषा में प्रस्तुत। कोई विज्ञापन नहीं, कोई खाता नहीं, और उपयोग के लिए निःशुल्क। बस खोलें और चल पड़ें।
 
 <!--gallery-->
 
@@ -20,7 +20,7 @@ Solcast पूर्वानुमान से आगे जाता है�
   <span class="marketing-chip">उत्तर, संख्याएँ नहीं</span>
   <span class="marketing-chip">16 जीवनशैली सूचकांक</span>
   <span class="marketing-chip">कोई विज्ञापन या खाता नहीं</span>
-  <span class="marketing-chip">Premium विकल्प के साथ निःशुल्क</span>
+  <span class="marketing-chip">उपयोग के लिए निःशुल्क</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Solcast at a glance">
@@ -182,29 +182,21 @@ Solcast पूर्वानुमान से आगे जाता है�
 
 <section class="marketing-band" aria-labelledby="sc-offer-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">मूल्य निर्धारण और स्तर</p>
-    <h2 id="sc-offer-title" class="marketing-section-title">उपयोग के लिए निःशुल्क। जब अधिक चाहें तब अपग्रेड करें।</h2>
+    <p class="marketing-eyebrow">पेशकश और भरोसा</p>
+    <h2 id="sc-offer-title" class="marketing-section-title">डाउनलोड करने के लिए निःशुल्क। डिज़ाइन से ही निजी।</h2>
   </div>
   <div class="marketing-price-grid">
-    <article class="marketing-price-card">
-      <span class="marketing-price-tier">निःशुल्क</span>
-      <h3 class="marketing-price-summary">अपने दिन की योजना बनाने के लिए आवश्यक सब कुछ, बिना किसी लागत के।</h3>
-      <p>हर उस व्यक्ति के लिए आदर्श जो बिना विज्ञापन, खाते या पेवॉल के आड़े आए स्पष्ट, वैयक्तिकृत मौसम मार्गदर्शन चाहता है।</p>
-      <ul class="marketing-list">
-        <li>दैनिक ब्रीफ़िंग, 7-दिवसीय पूर्वानुमान, और प्रति-घंटा पट्टी</li>
-        <li>सभी 16 जीवनशैली सूचकांक और पोशाक सुझाव</li>
-        <li>कई शहर सहेजें और बिना किसी खाते के शुरू करें</li>
-      </ul>
-    </article>
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">असीमित स्थान और पूरी तस्वीर एक ही जगह।</h3>
-      <p>Premium उन लोगों के लिए है जो कई शहरों में मौसम पर नज़र रखते हैं और सहेजे गए स्थानों पर निःशुल्क सीमाएँ हटाना चाहते हैं।</p>
-      <ul class="marketing-list">
-        <li>असीमित सहेजे गए स्थान, प्रत्येक अपने स्थानीय समय क्षेत्र में</li>
-        <li>निःशुल्क ऐप के ऊपर एक वैकल्पिक अपग्रेड</li>
-        <li>Free हो या Premium, कोई विज्ञापन नहीं और कोई ट्रैकिंग नहीं</li>
-      </ul>
+      <span class="marketing-price-tier">आज शामिल</span>
+      <h3 class="marketing-price-summary">सभी मौजूदा सुविधाएँ बिना किसी शुल्क के उपलब्ध हैं।</h3>
+      <p>दैनिक ब्रीफ़िंग, 7-दिवसीय और प्रति घंटा पूर्वानुमान, सभी 16 जीवनशैली सूचकांक, पोशाक सुझाव, और स्मार्ट मौसम अलर्ट, 4 तक सहेजे गए शहरों के साथ और बिना किसी खाते के।</p>
+      <p class="marketing-price-note">iOS 18.0 या बाद के संस्करण पर iPhone और iPad के साथ संगत।</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">गोपनीयता रुख</span>
+      <h3 class="marketing-price-summary">कोई खाता नहीं। कोई ट्रैकिंग नहीं। कोई विज्ञापन नहीं।</h3>
+      <p>आपकी प्राथमिकताएँ और वैयक्तिकरण आपके डिवाइस पर ही रहते हैं। मौसम और स्थान की खोज केवल निर्देशांक या खोज क्वेरी भेजती है, और अवकाश की खोज केवल देश कोड भेजती है।</p>
+      <p class="marketing-price-note"><a href="/solcast/privacy/hi/">गोपनीयता नीति पढ़ें</a></p>
     </article>
   </div>
 </section>
@@ -213,9 +205,8 @@ Solcast पूर्वानुमान से आगे जाता है�
   <h2 id="sc-next-title">हर दिन की योजना आत्मविश्वास के साथ बनाने के लिए तैयार हैं?</h2>
   <p>Solcast डाउनलोड करें और तुरंत अपना वैयक्तिकृत डैशबोर्ड देखें।</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/solcast/support/">सहायता पर जाएँ</a>
-    <a class="marketing-inline-link" href="/solcast/privacy/">गोपनीयता नीति पढ़ें</a>
-    <a class="marketing-inline-link" href="/solcast/terms/hi/">उपयोग की शर्तें पढ़ें</a>
+    <a class="marketing-inline-link" href="/solcast/support/hi/">सहायता पर जाएँ</a>
+    <a class="marketing-inline-link" href="/solcast/privacy/hi/">गोपनीयता नीति पढ़ें</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

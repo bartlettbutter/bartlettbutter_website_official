@@ -214,7 +214,7 @@ redirect_from:
       <span class="marketing-price-tier">Gizlilik duruşu</span>
       <h3 class="marketing-price-summary">Bulut hesabı yok. İzleme yok. Reklam yok.</h3>
       <p>TrafficVibe asla bir sayı uydurmaz ve yolculuğunuzu size ait tutar. Kayıt yok ve sizin hakkınızda toplanacak hiçbir şey yok.</p>
-      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Gizlilik politikasını okuyun</a></p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/tr/">Gizlilik politikasını okuyun</a></p>
     </article>
   </div>
 </section>
@@ -223,8 +223,8 @@ redirect_from:
   <h2 id="tv-next-title">Gitmeden önce bilmeye hazır mısınız?</h2>
   <p>TrafficVibe'ı indirin, bu sabahki özeti anında okuyun ve her yolculuğa önünüzde tam olarak ne olduğunu bilerek başlayın.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/trafficvibe/support/">Desteğe gidin</a>
-    <a class="marketing-inline-link" href="/trafficvibe/privacy/">Gizlilik politikasını okuyun</a>
+    <a class="marketing-inline-link" href="/trafficvibe/support/tr/">Desteğe gidin</a>
+    <a class="marketing-inline-link" href="/trafficvibe/privacy/tr/">Gizlilik politikasını okuyun</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

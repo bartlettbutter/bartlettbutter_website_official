@@ -53,7 +53,7 @@ De Screener filtert meer dan 480 ETF's op regels die jij instelt. Een regel kan 
 
 ### Hoe beheer, annuleer of herstel ik mijn abonnement?
 
-Om te beheren of te annuleren, open je Instellingen in ETFWise en tik je op Beheren op de Premium-banner, of ga je naar de Instellingen van je apparaat > Apple-account > Abonnementen. Abonnementen worden automatisch verlengd, tenzij ze minstens 24 uur voor het einde van de lopende periode worden geannuleerd. Om Premium op een nieuw apparaat of na een herinstallatie te herstellen, tik je op Aankopen herstellen op het plannenscherm of in Instellingen, met hetzelfde Apple-account. Terugbetalingsverzoeken worden door Apple afgehandeld.
+Om te beheren of te annuleren, open je Instellingen in ETFWise en tik je op Beheren op de Premium-banner, of ga je naar de Instellingen van je apparaat > Apple-account > Abonnementen. Abonnementen worden automatisch verlengd, tenzij ze minstens 24 uur voor het einde van de lopende periode worden geannuleerd. Om Premium op een nieuw apparaat of na een herinstallatie te herstellen, tik je op Aankopen herstellen op het plannenscherm of in Instellingen, met hetzelfde Apple-account. Terugbetalingsverzoeken worden door Apple afgehandeld. Zie de [gebruiksvoorwaarden](/etfwise/terms/nl/) voor alle details over abonnementen.
 
 ### Hoe worden de bull- en risicoscenario's gegenereerd?
 
@@ -65,11 +65,11 @@ De app analyseert recente nieuwsartikelen voor elke ETF en beoordeelt ze op een 
 
 ### Kan ik naar een specifieke ETF zoeken?
 
-Ja. Gebruik de zoekbalk om een ETF op tickersymbool of naam te vinden. De zoekopdracht dekt meer dan 480 ETF's, waaronder meer dan 200 samengestelde selecties en een uitgebreide bibliotheek van extra fondsen.
+Ja. Gebruik de zoekbalk om een ETF op tickersymbool te vinden. De zoekopdracht dekt meer dan 480 ETF's, waaronder meer dan 200 samengestelde selecties en een uitgebreide bibliotheek van extra fondsen.
 
 ### Zijn mijn gegevens privé?
 
-Ja. Geen accounts, geen analyse, geen tracking. Alleen tickersymbolen worden naar financiële dataproviders verzonden. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/etfwise/privacy/) voor meer details.
+Ja. Geen accounts, geen analyse, geen tracking. Alleen tickersymbolen en datumbereiken worden naar financiële dataproviders verzonden. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/etfwise/privacy/nl/) voor meer details.
 
 ### Wat gebeurt er als ik de app verwijder?
 

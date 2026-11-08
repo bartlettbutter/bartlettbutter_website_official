@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/sayminder/it/
 ---
 
-**Data di entrata in vigore:** 27 settembre 2026
+**Data di entrata in vigore:** 8 novembre 2026
 
 Sayminder («l'App») è un'app di promemoria gratuita e incentrata sulla voce per iPhone e iPad. La privacy è al centro del modo in cui l'abbiamo realizzata. Questa informativa spiega esattamente quali dati sono coinvolti quando usi Sayminder e, cosa ancora più importante, quali no.
 
@@ -45,6 +45,10 @@ I promemoria che crei, compresi i loro titoli, note, orari, ricorrenza e la tras
 
 Se attivi **Mostra eventi del calendario**, l'app legge gli eventi del calendario di sistema per visualizzarli accanto ai tuoi promemoria. Questo accesso è in sola lettura: Sayminder non crea, modifica né elimina mai gli eventi del calendario, e gli eventi vengono letti solo sul tuo dispositivo per mostrare l'agenda. Questo livello è disattivato finché non lo abiliti.
 
+### Festività nazionali (facoltativo, posizione)
+
+Se attivi **Mostra festività nazionali**, l'app chiede l'autorizzazione alla posizione durante l'uso e rileva una posizione approssimativa (con una precisione di circa un chilometro) all'avvio o quando torna in primo piano. MapKit di Apple ricava da quella posizione il paese, quindi le coordinate vengono inviate ad Apple per questa ricerca e trattate secondo l'[Informativa sulla privacy di Apple](https://www.apple.com/legal/privacy/). Sayminder invia poi solo il codice paese di due lettere (per esempio «DE») al servizio pubblico di festività [Nager.Date](https://date.nager.at) per ottenere le festività nazionali di quel paese. Le tue coordinate non vengono mai inviate né a noi né al servizio di festività, e l'elenco delle festività viene conservato solo in memoria. Questo livello è disattivato finché non lo abiliti.
+
 ### Pianificazione e sintesi vocale
 
 Sveglie, notifiche e la lettura vocale sono tutte gestite sul tuo dispositivo dai framework del sistema operativo. Nessun dato di pianificazione né testo letto viene inviato in alcun luogo.
@@ -57,18 +61,19 @@ Sayminder richiede le seguenti autorizzazioni:
 |------------|---------|
 | **Microfono** | Acquisire la tua voce affinché sia possibile creare un promemoria |
 | **Riconoscimento vocale** | Trascrivere il tuo parlato in testo del promemoria |
-| **Notifiche / Sveglie** | Avvisarti all'orario del promemoria |
+| **Notifiche / Sveglie (facoltativo)** | Avvisarti all'orario del promemoria, solo se attivi gli avvisi |
 | **Calendario (sola lettura, facoltativo)** | Mostrare i tuoi eventi esistenti accanto ai promemoria, solo se lo abiliti |
+| **Posizione (durante l'uso, facoltativo)** | Individuare il paese in cui ti trovi per mostrarne le festività nazionali, solo se lo abiliti |
 
-Non viene richiesta alcuna altra autorizzazione: né fotocamera, né contatti, né foto, né dati sanitari né posizione.
+Non viene richiesta alcuna altra autorizzazione: né fotocamera, né contatti, né foto né dati sanitari.
 
 ## Servizi di terze parti
 
-Sayminder non integra alcun servizio di analisi, pubblicità o tracciamento di terze parti. Il riconoscimento vocale utilizza i framework di riconoscimento vocale sul dispositivo e di sistema di Apple; la pianificazione e la sintesi vocale utilizzano i framework di sistema di Apple. Questi vengono eseguiti come parte del sistema operativo sul tuo dispositivo.
+Sayminder non integra alcun servizio di analisi, pubblicità o tracciamento di terze parti. Il riconoscimento vocale utilizza i framework di riconoscimento vocale sul dispositivo e di sistema di Apple; la pianificazione e la sintesi vocale utilizzano i framework di sistema di Apple. Questi vengono eseguiti come parte del sistema operativo sul tuo dispositivo. Il livello facoltativo delle festività usa MapKit di Apple per individuare il tuo paese e il servizio pubblico Nager.Date per consultare le festività; Nager.Date riceve solo un codice paese.
 
 ## Condivisione dei dati
 
-Non vendiamo, noleggiamo, concediamo in licenza né condividiamo i tuoi dati con nessuno. Sayminder non genera traffico di rete che trasmetta i tuoi promemoria, la tua voce, le tue trascrizioni o i dati del calendario.
+Non vendiamo, noleggiamo, concediamo in licenza né condividiamo i tuoi dati con nessuno. Sayminder non genera traffico di rete che trasmetta i tuoi promemoria, la tua voce, le tue trascrizioni o i dati del calendario. L'unico servizio di terze parti che contatta è Nager.Date, per la consultazione facoltativa delle festività descritta sopra, che riceve solo un codice paese.
 
 ## Conservazione ed eliminazione dei dati
 

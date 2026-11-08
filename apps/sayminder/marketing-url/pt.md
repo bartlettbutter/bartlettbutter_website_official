@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "Fale um lembrete e ele chega até você na hora certa, mesmo no silencioso, e se lê em voz alta."
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: pt
 permalink: /sayminder/pt/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o quê e quando, e o Sayminder transcreve, extrai o horário das suas palavras e o coloca no seu calendário. Quando chega a hora, ele te avisa, mesmo no silencioso ou em Foco, e lê o lembrete de volta com uma voz natural.
+O lembrete mais rápido é aquele que você fala. Toque no microfone, diga o quê e quando, e o Sayminder transcreve, extrai o horário das suas palavras e o coloca no seu calendário. Quando chega a hora, ele te avisa, mesmo no silencioso ou em Foco, e lê o lembrete em voz alta se você abrir o app logo depois.
 
 <div class="marketing-chip-row" aria-label="Destaques do Sayminder">
   <span class="marketing-chip">Fale, não digite</span>
   <span class="marketing-chip">Atravessa o silencioso e o Foco</span>
   <span class="marketing-chip">Lê os lembretes em voz alta</span>
-  <span class="marketing-chip">Privado, no dispositivo</span>
+  <span class="marketing-chip">Privado por concepção</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Sayminder num relance">
@@ -33,14 +33,14 @@ O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o qu�
     <span class="marketing-stat-label">alarmes prioritários disparam mesmo no silencioso ou em Foco, nunca descartados em silêncio</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">privado e no dispositivo, sem contas, sem rastreamento e sem anúncios</span>
+    <span class="marketing-stat-value">0 contas</span>
+    <span class="marketing-stat-label">os lembretes ficam no seu dispositivo, sem cadastro, sem rastreamento e sem anúncios</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="Baixar na App Store">
     </a>
   </div>
@@ -63,6 +63,7 @@ O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o qu�
         <li>"Me lembre de tomar o remédio hoje à noite às nove"</li>
         <li>"Em 20 minutos", "na próxima sexta", "no fim do mês"</li>
         <li>Uma transcrição ao vivo enquanto você fala, editável antes de salvar</li>
+        <li>Diga várias coisas de uma vez e cada uma vira um lembrete próprio</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o qu�
     </article>
     <article class="marketing-card">
       <h3>Ele lê de volta para você</h3>
-      <p>Quando um lembrete chega, o app o diz em voz alta e confirma em voz alta quando você salva um, para que todo o ciclo seja mãos livres.</p>
+      <p>Quando um lembrete dispara com o app aberto, ou você o abre logo depois, o Sayminder o diz em voz alta. Ele também confirma em voz alta quando você salva um, para que todo o ciclo seja mãos livres.</p>
       <ul class="marketing-list">
         <li>"Certo. Vou te lembrar de…" depois que você salva</li>
         <li>Qualquer linha da lista pode ser falada sob demanda</li>
@@ -88,7 +89,7 @@ O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o qu�
       <p>O reconhecimento de fala roda no dispositivo quando seu idioma tem suporte, e os lembretes ficam armazenados só no seu dispositivo.</p>
       <ul class="marketing-list">
         <li>Sem contas, sem análises, sem anúncios</li>
-        <li>Nada é enviado a lugar nenhum para ser processado</li>
+        <li>Os feriados opcionais compartilham só um código de país com o serviço de feriados</li>
         <li>Apague o app e tudo vai junto</li>
       </ul>
     </article>
@@ -108,6 +109,7 @@ O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o qu�
       <ul class="marketing-list">
         <li>Título, notas, data e opção de repetição editáveis</li>
         <li>Um horário único já passado oferece mover para amanhã</li>
+        <li>Não dá para falar agora? Digite</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o qu�
       <p>Uma grade mensal marca com pontos os dias que têm lembretes, e um widget de Tela de Início e Tela Bloqueada mantém o próximo à vista.</p>
       <ul class="marketing-list">
         <li>Uma camada opcional somente leitura espelha o calendário do sistema</li>
+        <li>Feriados nacionais opcionais do país em que você está</li>
         <li>Famílias de widgets pequeno, médio e de Tela Bloqueada</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o qu�
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>Segure o microfone</h3>
+      <h3>Toque no microfone</h3>
       <p>Um botão inicia e para a gravação, com transcrição ao vivo enquanto você fala.</p>
     </article>
     <article class="marketing-step">
       <h3>Diga o quê e quando</h3>
-      <p>O Sayminder extrai o horário da frase natural e usa o resto como título.</p>
+      <p>O Sayminder extrai o horário da frase natural e usa o resto como título. Sem horário? Toque em Hoje à noite, Amanhã de manhã ou Em uma hora.</p>
     </article>
     <article class="marketing-step">
       <h3>Confirme ou edite</h3>
@@ -149,7 +152,7 @@ O lembrete mais rápido é aquele que você fala. Segure o microfone, diga o qu�
     </article>
     <article class="marketing-step">
       <h3>Ele chega até você</h3>
-      <p>Um alarme prioritário dispara na hora, mesmo no silencioso, e lê o lembrete em voz alta.</p>
+      <p>Um alarme prioritário dispara na hora, mesmo no silencioso ou em Foco, e o Sayminder lê o lembrete se você abrir o app logo depois.</p>
     </article>
     <article class="marketing-step">
       <h3>Toque para limpar</h3>

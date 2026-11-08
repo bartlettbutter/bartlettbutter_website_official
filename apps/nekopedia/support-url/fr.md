@@ -67,7 +67,7 @@ Oui. Nekopedia est une application universelle qui fonctionne à la fois sur iPh
 
 ### Mes données sont-elles privées ?
 
-Oui. Vos photos ne quittent jamais votre appareil et aucune donnée personnelle n'est collectée. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/nekopedia/privacy/) complète pour plus de détails.
+Oui. Vos photos ne quittent jamais votre appareil et aucune donnée personnelle n'est collectée. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/nekopedia/privacy/fr/) complète pour plus de détails.
 
 ## Autorisations
 
@@ -75,13 +75,13 @@ Oui. Vos photos ne quittent jamais votre appareil et aucune donnée personnelle 
 
 L'accès à l'appareil photo vous permet de prendre des photos de chats directement dans l'application pour l'identification des races. Vous pouvez ignorer cette autorisation et choisir des photos dans votre galerie à la place.
 
-### Pourquoi Nekopedia a-t-il besoin de l'accès à la photothèque ?
+### Nekopedia a-t-il besoin de l'accès à la photothèque ?
 
-L'accès à la photothèque vous permet de sélectionner des photos existantes de votre galerie pour l'identification des races. C'est une alternative à l'utilisation de l'appareil photo.
+Non. Pour utiliser une photo existante, Nekopedia ouvre le sélecteur de photos standard d'iOS. Vous choisissez la photo, et l'application ne reçoit que cette photo, jamais le reste de votre photothèque. Aucune autorisation d'accès à la photothèque n'est donc demandée.
 
 ### Nekopedia accède-t-il à ma localisation ou à d'autres données ?
 
-Non. Nekopedia demande uniquement l'accès à l'appareil photo et à la photothèque. Il n'accède pas à votre localisation, à vos contacts, à votre microphone ni à aucune autre information sensible.
+Non. L'accès à l'appareil photo est la seule autorisation demandée par Nekopedia. Il n'accède pas à votre localisation, à vos contacts, à votre microphone ni à aucune autre information sensible.
 
 ## Dépannage
 
@@ -91,7 +91,7 @@ Ouvrez Réglages, naviguez jusqu'à Nekopedia et assurez-vous que l'accès à l'
 
 ### Les infos sur les races, le quiz ou les anecdotes ne se chargent pas
 
-Ces fonctionnalités nécessitent une connexion internet active. Vérifiez que vous êtes connecté au Wi-Fi ou aux données cellulaires, puis réessayez. Si le problème persiste, le service peut être temporairement indisponible. Attendez quelques minutes et réessayez.
+Les photos des races et le Quiz des Races nécessitent une connexion internet, tout comme les Anecdotes Félines et les anecdotes des fiches de race lorsque l'app est en anglais. Les profils de race intégrés fonctionnent hors ligne. Vérifiez que vous êtes connecté au Wi-Fi ou aux données cellulaires, puis réessayez. Si le problème persiste, le service peut être temporairement indisponible. Attendez quelques minutes et réessayez.
 
 ### L'application affiche « Pas un chat »
 

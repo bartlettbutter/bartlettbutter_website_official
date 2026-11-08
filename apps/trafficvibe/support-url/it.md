@@ -55,7 +55,7 @@ Sono raggruppati in base a ciò che un pendolare chiede davvero:
 
 ### Da dove provengono i dati?
 
-TrafficVibe attinge a fonti affidabili e consolidate di mappe, meteo e dati pubblici per percorsi e tempi di percorrenza, condizioni, caratteristiche stradali nelle vicinanze, festività e prezzi del carburante (mostrati nella tua valuta locale). Il tuo resoconto e le sue valutazioni sono composti sul tuo dispositivo: nulla del tuo tragitto viene caricato. Per sapere esattamente cosa lascia il tuo dispositivo e perché, consulta la nostra [Informativa sulla privacy](https://bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe attinge a fonti affidabili e consolidate di mappe, meteo e dati pubblici per percorsi e tempi di percorrenza, condizioni, caratteristiche stradali nelle vicinanze, festività e prezzi del carburante (mostrati nella tua valuta locale). Il tuo resoconto e le sue valutazioni sono composti sul tuo dispositivo: nulla del tuo tragitto viene caricato. Per sapere esattamente cosa lascia il tuo dispositivo e perché, consulta la nostra [Informativa sulla privacy](https://bartlettbutter.com/trafficvibe/privacy/it/).
 
 ## Notifiche
 
@@ -69,7 +69,7 @@ Imposta le tue ore di silenzio e attiva la preferenza solo per i giorni feriali.
 
 ### Perché i miei avvisi non scattano?
 
-TrafficVibe non si aggiorna in background: valuta gli avvisi quando apri l'app o tiri per aggiornare. Assicurati che le notifiche siano attive nelle Impostazioni e di non essere all'interno delle tue ore di silenzio o di un'esclusione solo per i giorni feriali.
+I promemoria di partenza vengono programmati in anticipo, quindi arrivano anche ad app chiusa, e ogni volta che apri TrafficVibe programma i successivi. Gli avvisi di ritardo e di incidente funzionano diversamente: TrafficVibe non si aggiorna in background, quindi li controlla quando apri l'app o tiri per aggiornare. Assicurati che le notifiche siano attive nelle Impostazioni e di non essere all'interno delle tue ore di silenzio o di un'esclusione solo per i giorni feriali.
 
 ## Città di tragitto
 

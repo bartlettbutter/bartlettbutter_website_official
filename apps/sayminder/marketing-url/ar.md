@@ -3,7 +3,7 @@ layout: app-sayminder
 title: Sayminder
 app_icon: /assets/app-icons/icon_Sayminder.png
 app_description: "تحدّث بتذكيرٍ فيصلك في وقته المحدد، حتى في الوضع الصامت، ويُقرأ عليك بصوتٍ مسموع."
-app_store_url: "https://apps.apple.com/app/sayminder/id0000000000"
+app_store_url: "https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163"
 lang: ar
 permalink: /sayminder/ar/
 redirect_from:
@@ -14,13 +14,13 @@ redirect_from:
 
 <!--gallery-->
 
-أسرع تذكير هو الذي تنطق به. اضغط على الميكروفون مع الاستمرار، وقُل ماذا ومتى، فيقوم Sayminder بتحويله إلى نص، ويستخرج الوقت من كلماتك، ويضعه في تقويمك. وعند حلول الموعد ينبّهك، حتى في الوضع الصامت أو التركيز، ويقرأ التذكير عليك بصوتٍ طبيعي.
+أسرع تذكير هو الذي تنطق به. انقر على الميكروفون، وقُل ماذا ومتى، فيقوم Sayminder بتحويله إلى نص، ويستخرج الوقت من كلماتك، ويضعه في تقويمك. وعند حلول الموعد ينبّهك، حتى في الوضع الصامت أو التركيز، ويقرأ التذكير عليك بصوتٍ مسموع إذا فتحت التطبيق بعد ذلك بقليل.
 
 <div class="marketing-chip-row" aria-label="أبرز مزايا Sayminder">
   <span class="marketing-chip">تحدّث ولا تكتب</span>
   <span class="marketing-chip">يخترق الوضع الصامت والتركيز</span>
   <span class="marketing-chip">يقرأ التذكيرات بصوتٍ مسموع</span>
-  <span class="marketing-chip">خاص، على الجهاز</span>
+  <span class="marketing-chip">خاص بالتصميم</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Sayminder في لمحة">
@@ -33,14 +33,14 @@ redirect_from:
     <span class="marketing-stat-label">تنبيهات مخترِقة تنطلق حتى في الوضع الصامت أو التركيز، ولا تُسقَط بصمت أبدًا</span>
   </article>
   <article class="marketing-stat">
-    <span class="marketing-stat-value">100%</span>
-    <span class="marketing-stat-label">خاص وعلى الجهاز، بلا حسابات، ولا تتبّع، ولا إعلانات</span>
+    <span class="marketing-stat-value">0 حسابات</span>
+    <span class="marketing-stat-label">تبقى التذكيرات على جهازك، بلا تسجيل، ولا تتبّع، ولا إعلانات</span>
   </article>
 </div>
 
 <div class="marketing-cta-row">
   <div class="marketing-cta-badges">
-    <a href="https://apps.apple.com/app/sayminder/id0000000000">
+    <a href="https://apps.apple.com/us/app/sayminder-voice-reminders/id6798978163">
       <img src="/assets/badges/download-on-the-app-store.svg" alt="التنزيل من App Store">
     </a>
   </div>
@@ -63,6 +63,7 @@ redirect_from:
         <li>«ذكّرني بأخذ الدواء الليلة عند التاسعة»</li>
         <li>«بعد 20 دقيقة»، «الجمعة القادمة»، «نهاية الشهر»</li>
         <li>نص مباشر أثناء حديثك، قابل للتحرير قبل الحفظ</li>
+        <li>قُل عدة أشياء دفعةً واحدة فيصبح كلٌّ منها تذكيرًا مستقلًا</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -76,7 +77,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>يقرأ عليك</h3>
-      <p>عند وصول تذكير، ينطق به التطبيق بصوتٍ مسموع، ويؤكّد بصوتٍ عالٍ عند حفظك لواحد، لتكون الدورة كلها دون استخدام اليدين.</p>
+      <p>عندما ينطلق تذكير والتطبيق مفتوح، أو تفتحه بعد ذلك بقليل، ينطق به Sayminder بصوتٍ مسموع. ويؤكّد أيضًا بصوتٍ عالٍ عند حفظك لواحد، لتكون الدورة كلها دون استخدام اليدين.</p>
       <ul class="marketing-list">
         <li>«حسنًا. سأذكّرك بأن…» بعد الحفظ</li>
         <li>يمكن نطق أي صفٍّ في القائمة عند الطلب</li>
@@ -88,7 +89,7 @@ redirect_from:
       <p>يعمل التعرّف على الكلام على الجهاز عندما تدعمه لغتك، وتُخزَّن التذكيرات على جهازك فقط.</p>
       <ul class="marketing-list">
         <li>بلا حسابات، ولا تحليلات، ولا إعلانات</li>
-        <li>لا يُرسَل أي شيء إلى أي مكان لمعالجته</li>
+        <li>العطلات الاختيارية لا تشارك سوى رمز الدولة مع خدمة العطلات</li>
         <li>احذف التطبيق فيذهب كل شيء معه</li>
       </ul>
     </article>
@@ -108,6 +109,7 @@ redirect_from:
       <ul class="marketing-list">
         <li>عنوان وملاحظات وتاريخ وخيار تكرار قابلة للتحرير</li>
         <li>وقت لمرةٍ واحدة قد مضى يعرض نقله إلى الغد</li>
+        <li>لا تستطيع التحدّث الآن؟ اكتب بدلًا من ذلك</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -123,6 +125,7 @@ redirect_from:
       <p>تضع شبكة الشهر نقاطًا على الأيام التي بها تذكيرات، وتُبقي أداة الشاشة الرئيسية وشاشة القفل تذكيرك التالي في مرمى البصر.</p>
       <ul class="marketing-list">
         <li>طبقة اختيارية للقراءة فقط تعكس تقويم نظامك</li>
+        <li>عطلات وطنية اختيارية للبلد الذي تتواجد فيه</li>
         <li>عائلات أدوات صغيرة ومتوسطة ولشاشة القفل</li>
       </ul>
     </article>
@@ -136,12 +139,12 @@ redirect_from:
   </div>
   <div class="marketing-step-grid">
     <article class="marketing-step">
-      <h3>اضغط على الميكروفون مع الاستمرار</h3>
+      <h3>انقر على الميكروفون</h3>
       <p>زر واحد يبدأ التسجيل ويوقفه، مع نص مباشر أثناء حديثك.</p>
     </article>
     <article class="marketing-step">
       <h3>قُل ماذا ومتى</h3>
-      <p>يستخرج Sayminder الوقت من الصياغة الطبيعية ويستخدم الباقي عنوانًا.</p>
+      <p>يستخرج Sayminder الوقت من الصياغة الطبيعية ويستخدم الباقي عنوانًا. لم تذكر وقتًا؟ انقر على الليلة أو صباح الغد أو بعد ساعة.</p>
     </article>
     <article class="marketing-step">
       <h3>أكّد أو حرّر</h3>
@@ -149,7 +152,7 @@ redirect_from:
     </article>
     <article class="marketing-step">
       <h3>يصلك</h3>
-      <p>ينطلق تنبيه مخترِق في وقته، حتى في الوضع الصامت، ويقرأ التذكير بصوتٍ مسموع.</p>
+      <p>ينطلق تنبيه مخترِق في وقته، حتى في الوضع الصامت أو التركيز، ويقرأ Sayminder التذكير عليك إذا فتحت التطبيق بعد ذلك بقليل.</p>
     </article>
     <article class="marketing-step">
       <h3>انقر للمسح</h3>

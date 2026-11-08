@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/sayminder/fr/
 ---
 
-**Date d'entrée en vigueur :** 27 septembre 2026
+**Date d'entrée en vigueur :** 8 novembre 2026
 
 Sayminder (« l'Application ») est une application de rappels gratuite et axée sur la voix pour iPhone et iPad. La confidentialité est au cœur de sa conception. Cette politique explique précisément quelles données sont concernées lorsque vous utilisez Sayminder et, plus important encore, lesquelles ne le sont pas.
 
@@ -45,6 +45,10 @@ Les rappels que vous créez, y compris leurs titres, notes, horaires, récurrenc
 
 Si vous activez **Afficher les événements du calendrier**, l'application lit les événements de votre calendrier système pour les afficher à côté de vos rappels. Cet accès est en lecture seule : Sayminder ne crée, ne modifie ni ne supprime jamais d'événements du calendrier, et les événements ne sont lus que sur votre appareil pour afficher l'agenda. Cette couche est désactivée tant que vous ne l'activez pas.
 
+### Jours fériés nationaux (facultatif, localisation)
+
+Si vous activez **Afficher les jours fériés nationaux**, l'application demande l'autorisation de localisation pendant l'utilisation et obtient une position approximative (précise à environ un kilomètre) lorsqu'elle se lance ou revient au premier plan. MapKit d'Apple convertit cette position en pays, si bien que les coordonnées sont envoyées à Apple pour cette recherche et traitées conformément à la [Politique de confidentialité d'Apple](https://www.apple.com/legal/privacy/). Sayminder envoie ensuite uniquement le code pays à deux lettres (par exemple « DE ») au service public de jours fériés [Nager.Date](https://date.nager.at) afin de récupérer les jours fériés nationaux de ce pays. Vos coordonnées ne sont jamais envoyées ni à nous ni au service de jours fériés, et la liste des jours fériés est conservée uniquement en mémoire. Cette couche est désactivée tant que vous ne l'activez pas.
+
 ### Planification et synthèse vocale
 
 Les alarmes, les notifications et la lecture vocale sont toutes gérées sur votre appareil par les frameworks du système d'exploitation. Aucune donnée de planification ni aucun texte lu n'est envoyé où que ce soit.
@@ -57,18 +61,19 @@ Sayminder demande les autorisations suivantes :
 |------------|---------|
 | **Microphone** | Capter votre voix afin qu'un rappel puisse être créé |
 | **Reconnaissance vocale** | Transcrire votre parole en texte de rappel |
-| **Notifications / Alarmes** | Vous avertir à l'heure du rappel |
+| **Notifications / Alarmes (facultatif)** | Vous avertir à l'heure du rappel, uniquement si vous activez les alertes |
 | **Calendrier (lecture seule, facultatif)** | Afficher vos événements existants à côté des rappels, uniquement si vous l'activez |
+| **Localisation (pendant l'utilisation, facultatif)** | Déterminer le pays où vous vous trouvez pour afficher ses jours fériés nationaux, uniquement si vous l'activez |
 
-Aucune autre autorisation n'est demandée : ni appareil photo, ni contacts, ni photos, ni données de santé, ni localisation.
+Aucune autre autorisation n'est demandée : ni appareil photo, ni contacts, ni photos, ni données de santé.
 
 ## Services tiers
 
-Sayminder n'intègre aucun service tiers d'analyse, de publicité ou de suivi. La reconnaissance vocale utilise les frameworks de reconnaissance vocale sur l'appareil et système d'Apple ; la planification et la synthèse vocale utilisent les frameworks système d'Apple. Ceux-ci s'exécutent dans le cadre du système d'exploitation sur votre appareil.
+Sayminder n'intègre aucun service tiers d'analyse, de publicité ou de suivi. La reconnaissance vocale utilise les frameworks de reconnaissance vocale sur l'appareil et système d'Apple ; la planification et la synthèse vocale utilisent les frameworks système d'Apple. Ceux-ci s'exécutent dans le cadre du système d'exploitation sur votre appareil. La couche optionnelle des jours fériés utilise MapKit d'Apple pour déterminer votre pays et le service public Nager.Date pour consulter les jours fériés ; Nager.Date ne reçoit qu'un code pays.
 
 ## Partage de données
 
-Nous ne vendons, ne louons, ne concédons sous licence ni ne partageons vos données avec qui que ce soit. Sayminder ne génère aucun trafic réseau transmettant vos rappels, votre voix, vos transcriptions ou vos données de calendrier.
+Nous ne vendons, ne louons, ne concédons sous licence ni ne partageons vos données avec qui que ce soit. Sayminder ne génère aucun trafic réseau transmettant vos rappels, votre voix, vos transcriptions ou vos données de calendrier. Le seul service tiers qu'il contacte est Nager.Date, pour la consultation optionnelle des jours fériés décrite ci-dessus, qui ne reçoit qu'un code pays.
 
 ## Conservation et suppression des données
 

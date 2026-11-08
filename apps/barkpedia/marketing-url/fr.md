@@ -26,7 +26,7 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">races de chiens avec des profils riches de style AKC que vous pouvez rechercher et explorer</span>
+    <span class="marketing-stat-label">races de chiens avec des profils riches que vous pouvez rechercher et explorer</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
     </article>
     <article class="marketing-card">
       <h3>Des profils qui valent la lecture</h3>
-      <p>Chaque race ouvre un profil de style AKC qui explique à quoi ressemble vraiment le chien, pas seulement son nom.</p>
+      <p>Chaque race ouvre un profil détaillé qui explique à quoi ressemble vraiment le chien, pas seulement son nom.</p>
       <ul class="marketing-list">
         <li>Tempérament, espérance de vie, poids et taille en un coup d'œil</li>
         <li>Pays d'origine et histoire de la race</li>
@@ -195,7 +195,7 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
       <span class="marketing-price-tier">Posture de confidentialité</span>
       <h3 class="marketing-price-summary">Aucun envoi. Aucun compte. Aucun suivi.</h3>
       <p>Vos photos ne quittent jamais votre appareil. L'identification de la race s'effectue entièrement sur l'appareil, tandis que les profils de races et les photos du quiz sont chargés depuis des sources publiques sur les races de chiens, sans aucune donnée personnelle.</p>
-      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Lire la politique de confidentialité</a></p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/fr/">Lire la politique de confidentialité</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Prenez une photo de n'importe quel chien et Barkpedia nomme la race, puis dévoi
   <h2 id="bp-next-title">Prêt à nommer chaque chien que vous rencontrez ?</h2>
   <p>Téléchargez Barkpedia, commencez à scanner immédiatement et gardez le reste du monde des races à portée de main dès que la curiosité surgit.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/barkpedia/support/">Voir l'assistance</a>
-    <a class="marketing-inline-link" href="/barkpedia/privacy/">Lire la politique de confidentialité</a>
+    <a class="marketing-inline-link" href="/barkpedia/support/fr/">Voir l'assistance</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/fr/">Lire la politique de confidentialité</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

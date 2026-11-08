@@ -55,7 +55,7 @@ Bir yolcunun gerçekte sorduğu şeye göre gruplandırılmışlardır:
 
 ### Veriler nereden geliyor?
 
-TrafficVibe; rotalama ve varış süreleri, koşullar, yakındaki yol özellikleri, tatiller ve yakıt fiyatları (yerel para biriminizle gösterilir) için güvenilir, köklü harita, hava durumu ve kamu verisi kaynaklarından yararlanır. Özetiniz ve derecelendirmeleri cihazınızda bir araya getirilir; yolculuğunuza dair hiçbir şey yüklenmez. Cihazınızdan tam olarak neyin ve neden çıktığını görmek için [Gizlilik Politikamıza](https://bartlettbutter.com/trafficvibe/privacy/) bakın.
+TrafficVibe; rotalama ve varış süreleri, koşullar, yakındaki yol özellikleri, tatiller ve yakıt fiyatları (yerel para biriminizle gösterilir) için güvenilir, köklü harita, hava durumu ve kamu verisi kaynaklarından yararlanır. Özetiniz ve derecelendirmeleri cihazınızda bir araya getirilir; yolculuğunuza dair hiçbir şey yüklenmez. Cihazınızdan tam olarak neyin ve neden çıktığını görmek için [Gizlilik Politikamıza](https://bartlettbutter.com/trafficvibe/privacy/tr/) bakın.
 
 ## Bildirimler
 
@@ -69,7 +69,7 @@ Kendi sessiz saatlerinizi ayarlayın ve yalnızca hafta içi tercihini açın. T
 
 ### Uyarılarım neden gelmiyor?
 
-TrafficVibe arka planda yenilenmez; uyarıları uygulamayı açtığınızda veya yenilemek için çektiğinizde değerlendirir. Bildirimlerin Ayarlar'da etkin olduğundan ve sessiz saatlerinizin ya da yalnızca hafta içi bir hariç tutmanın içinde olmadığınızdan emin olun.
+Çıkış hatırlatıcıları önceden planlanır, bu yüzden uygulama kapalıyken bile gelir ve TrafficVibe'ı her açtığınızda sonrakiler planlanır. Gecikme uyarıları ve olay bildirimleri farklıdır: TrafficVibe arka planda yenilenmez, bu yüzden bunları uygulamayı açtığınızda veya yenilemek için çektiğinizde kontrol eder. Bildirimlerin Ayarlar'da etkin olduğundan ve sessiz saatlerinizin ya da yalnızca hafta içi bir hariç tutmanın içinde olmadığınızdan emin olun.
 
 ## Yolculuk Şehirleri
 

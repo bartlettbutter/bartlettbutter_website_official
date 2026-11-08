@@ -30,13 +30,13 @@ Every change takes effect immediately, with no reload needed.
 
 ### How do I manage locations?
 
-You can save up to 4 locations on the free tier (unlimited with Premium). Use the location picker on the dashboard to switch between them, or tap the search icon to add a new city. Each location displays weather in its own local timezone so times (sunrise, sunset, hourly forecast) are always relevant to that city.
+You can save up to 4 locations. Use the location picker on the dashboard to switch between them, or tap the search icon to add a new city. Each location displays weather in its own local timezone so times (sunrise, sunset, hourly forecast) are always relevant to that city.
 
 ## Frequently Asked Questions
 
 ### Is Solcast free?
 
-Yes. Solcast is free to download and the full weather experience (forecasts, outfit picks, daily briefing, all 16 lifestyle indices, and smart weather alerts) is free, with no ads. An optional Premium subscription adds personal reminders and lifts the saved-city limit; everything else is free. See the [Terms of Use](/solcast/terms/) for how subscriptions are billed and canceled.
+Yes. Solcast is free to download, and all current features, including forecasts, outfit picks, the daily briefing, all 16 lifestyle indices, and smart weather alerts, are available at no cost, with no ads and no account required. We may introduce optional premium features in the future.
 
 ### Does Solcast collect my data?
 
@@ -70,7 +70,7 @@ Location (When In Use) is used to fetch accurate weather, air quality, and polle
 
 ### Does Solcast access my camera, contacts, or anything else?
 
-No. Solcast only requests location permission. It does not access your camera, photos, contacts, microphone, health data, or any other information.
+No. Besides location, Solcast asks only for permission to send notifications, which it uses for smart weather alerts. It does not access your camera, photos, contacts, microphone, health data, or any other information.
 
 ## Troubleshooting
 

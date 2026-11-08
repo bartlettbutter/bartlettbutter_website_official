@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-**Yürürlük Tarihi:** 13 Haziran 2026
+**Yürürlük Tarihi:** 8 Kasım 2026
 
 Nekopedia ("Uygulama") fotoğraflardan kedi ırklarını tanımlayan ücretsiz bir iOS uygulamasıdır. Gizlilik burada sonradan akla gelen bir şey değil, Uygulamanın ilk günden itibaren nasıl geliştirildiğinin ta kendisidir. Bu politika, bilgilerinizin tam olarak nasıl işlendiğini sade bir dille açıklar. Kısacası: bilgileriniz sizde kalır.
 
@@ -34,7 +34,7 @@ Hiçbiri. Herhangi bir kişisel veri toplamıyor, saklamıyor veya iletmiyoruz. 
 
 ## Fotoğraflar ve Kamera/Kütüphane Erişimi
 
-Uygulama, yalnızca ırk tanımlama için kedi fotoğrafı çekmenize veya görsel seçmenize olanak sağlamak amacıyla kamera ve fotoğraf kütüphanesi izinleri ister. Çektiğiniz veya seçtiğiniz fotoğraflar, cihaz üzerinde yerleşik zeka kullanılarak tamamen cihazınızda analiz edilir. Fotoğraflarınız asla herhangi bir sunucuya yüklenmez.
+Uygulama, yalnızca ırk tanımlama için kedi fotoğrafı çekmenize olanak sağlamak amacıyla kamera izni ister. Mevcut bir fotoğrafı kullanmak için Uygulama standart iOS fotoğraf seçicisini açar. Fotoğrafı siz seçersiniz ve Uygulama yalnızca o fotoğrafı alır, fotoğraf kütüphanenizin geri kalanına erişemez. Çektiğiniz veya seçtiğiniz fotoğraflar, cihaz üzerinde yerleşik zeka kullanılarak tamamen cihazınızda analiz edilir. Fotoğraflarınız asla herhangi bir sunucuya yüklenmez.
 
 ## Yerel Olarak Saklanan Veriler
 
@@ -55,7 +55,6 @@ Kullanıcı verilerini üçüncü taraflarla satmaz, kiralamaz veya paylaşmayı
 | İzin | Neden İstiyoruz | Gerekli mi? |
 |------|-----------------|-------------|
 | Kamera | Irk tanımlama için kedileri fotoğraflamak | İsteğe bağlı (fotoğraf kütüphanenizi kullanabilirsiniz) |
-| Fotoğraf Kütüphanesi | Irk tanımlama için mevcut fotoğrafları seçmek | İsteğe bağlı (kamerayı kullanabilirsiniz) |
 
 Başka hiçbir izin istenmez veya erişilmez. Uygulama konum, kişiler, mikrofon, izleme, bildirimler veya başka herhangi bir hassas erişim kullanmaz.
 

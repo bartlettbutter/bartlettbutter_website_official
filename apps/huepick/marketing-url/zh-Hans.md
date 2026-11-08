@@ -79,7 +79,7 @@ redirect_from:
       <p>六种创意工具让您用自己调色板中的色彩重新塑造任何图像。</p>
       <ul class="marketing-list">
         <li>隔离、双色调、三色调、像素化、模糊和故障</li>
-        <li>为每种效果微调强度、风格和方向</li>
+        <li>通过强度、风格和方向等控件微调每种效果</li>
         <li>保存、下载到"照片"或分享您的创作</li>
       </ul>
     </article>
@@ -87,7 +87,7 @@ redirect_from:
       <h3>默认私密</h3>
       <p>没有账户，没有分析，没有广告。您的照片永远不会离开您的设备，一切都无需联网即可运行。</p>
       <ul class="marketing-list">
-        <li>调色板和创作都存储在本地</li>
+        <li>已保存的创作都存储在本地</li>
         <li>无需注册，且可免费使用</li>
       </ul>
     </article>
@@ -111,17 +111,17 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Playground</h3>
-      <p>用六种创意工具重新塑造您的图像，每一种都由针对您照片调校的建议引导。</p>
+      <p>用六种创意工具重新塑造您的图像，并由针对您照片调校的建议引导。</p>
       <ul class="marketing-list">
         <li>隔离、双色调、三色调、像素化、模糊和故障</li>
-        <li>为每种效果调整强度、风格和方向</li>
+        <li>通过强度、风格和方向等控件调整每种效果</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>画廊</h3>
       <p>您保存的每个创作都在这里，随时可在灵感回归时重温。</p>
       <ul class="marketing-list">
-        <li>重新编辑任何已保存的调色板或创作</li>
+        <li>重新编辑任何已保存的创作</li>
         <li>下载到"照片"或一键分享</li>
       </ul>
     </article>
@@ -164,8 +164,8 @@ redirect_from:
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>建立一个您所钟爱色彩的库</h3>
-      <p>保存任何调色板或创作，随时重温。它有助于记住吸引您目光的颜色、比较不同的观感，并在您的工作中重复使用精确的十六进制代码。</p>
+      <h3>建立一个您所钟爱风格的库</h3>
+      <p>保存任何创作，随时重温或重新编辑。轻点一下即可复制任意调色板的精确十六进制代码，在您的工作中重复使用。</p>
     </article>
     <article class="marketing-story-card">
       <h3>为有创意的人打造</h3>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">隐私姿态</span>
       <h3 class="marketing-price-summary">没有服务器。没有云端。没有追踪。</h3>
       <p>您的照片永远不会离开您的设备。提取、分析和每一种创意工具都在本地运行。</p>
-      <p class="marketing-price-note"><a href="/huepick/privacy/">阅读隐私政策</a></p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/zh-Hans/">阅读隐私政策</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="hp-next-title">准备好看见您身边的色彩了吗？</h2>
   <p>下载Huepick，立即开始提取调色板，并在灵感涌现时随时把创意工具握在手中。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/huepick/support/">访问支持</a>
-    <a class="marketing-inline-link" href="/huepick/privacy/">阅读隐私政策</a>
+    <a class="marketing-inline-link" href="/huepick/support/zh-Hans/">访问支持</a>
+    <a class="marketing-inline-link" href="/huepick/privacy/zh-Hans/">阅读隐私政策</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -214,7 +214,7 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
       <span class="marketing-price-tier">Datenschutz-Haltung</span>
       <h3 class="marketing-price-summary">Keine Cloud-Konten. Kein Tracking. Keine Werbung.</h3>
       <p>TrafficVibe erfindet nie eine Zahl und behält deinen Weg für dich. Es gibt keine Anmeldung und nichts über dich zu erfassen.</p>
-      <p class="marketing-price-note"><a href="/trafficvibe/privacy/">Datenschutzrichtlinie lesen</a></p>
+      <p class="marketing-price-note"><a href="/trafficvibe/privacy/de/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
 </section>
@@ -223,8 +223,8 @@ Soll ich jetzt losfahren oder warten? TrafficVibe beantwortet das, bevor du zum 
   <h2 id="tv-next-title">Bereit, es zu wissen, bevor du losfährst?</h2>
   <p>Lade TrafficVibe herunter, lies das Briefing von heute Morgen sofort und starte jede Fahrt mit dem Wissen, was dich genau erwartet.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/trafficvibe/support/">Zum Support</a>
-    <a class="marketing-inline-link" href="/trafficvibe/privacy/">Datenschutzrichtlinie lesen</a>
+    <a class="marketing-inline-link" href="/trafficvibe/support/de/">Zum Support</a>
+    <a class="marketing-inline-link" href="/trafficvibe/privacy/de/">Datenschutzrichtlinie lesen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

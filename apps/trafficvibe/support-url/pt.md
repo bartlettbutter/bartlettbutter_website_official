@@ -55,7 +55,7 @@ Eles são agrupados pelo que um motorista realmente pergunta:
 
 ### De onde vêm os dados?
 
-O TrafficVibe se baseia em fontes confiáveis e consolidadas de mapas, clima e dados públicos para rotas e tempos estimados, condições, recursos de vias por perto, feriados e preços de combustível (exibidos na sua moeda local). Seu resumo e suas avaliações são montados no seu dispositivo; nada sobre o seu trajeto é enviado. Para saber exatamente o que sai do seu dispositivo e por quê, veja nossa [Política de Privacidade](https://bartlettbutter.com/trafficvibe/privacy/).
+O TrafficVibe se baseia em fontes confiáveis e consolidadas de mapas, clima e dados públicos para rotas e tempos estimados, condições, recursos de vias por perto, feriados e preços de combustível (exibidos na sua moeda local). Seu resumo e suas avaliações são montados no seu dispositivo; nada sobre o seu trajeto é enviado. Para saber exatamente o que sai do seu dispositivo e por quê, veja nossa [Política de Privacidade](https://bartlettbutter.com/trafficvibe/privacy/pt/).
 
 ## Notificações
 
@@ -69,7 +69,7 @@ Defina suas próprias horas de silêncio e ative a preferência de apenas dias �
 
 ### Por que meus alertas não estão disparando?
 
-O TrafficVibe não atualiza em segundo plano. Ele avalia os alertas quando você abre o app ou puxa para atualizar. Confira se as notificações estão ativadas em Ajustes e se você não está dentro das suas horas de silêncio ou de uma exclusão de apenas dias úteis.
+Os lembretes de partida são agendados com antecedência, então chegam mesmo com o app fechado, e cada vez que você abre o TrafficVibe ele agenda os próximos. Os alertas de atraso e de incidentes são diferentes: o TrafficVibe não atualiza em segundo plano, então ele os verifica quando você abre o app ou puxa para atualizar. Confira se as notificações estão ativadas em Ajustes e se você não está dentro das suas horas de silêncio ou de uma exclusão de apenas dias úteis.
 
 ## Cidades de trajeto
 

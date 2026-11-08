@@ -17,7 +17,7 @@ Seja configurando sua primeira viagem ou resolvendo um problema com um recurso, 
 
 ### O Journeyfolio é gratuito?
 
-Sim. O Journeyfolio é gratuito para baixar e permite planejar até 10 viagens sem custo. Recursos premium (viagens ilimitadas, rastreamento de voos ao vivo e previsões do tempo) estão disponíveis por meio de assinaturas opcionais de renovação automática (mensal, semestral ou anual).
+Sim. O Journeyfolio é gratuito para baixar e permite planejar até 10 viagens sem custo, com previsões do tempo, feriados, preenchimento automático a partir de passagens e lembretes de viagem incluídos. Recursos premium (viagens ilimitadas, status de voos ao vivo e preenchimento automático com "Verificar Voo") estão disponíveis por meio de assinaturas opcionais de renovação automática (mensal, semestral ou anual).
 
 ### Comprei o Journeyfolio antes de ele ficar gratuito. Perco o acesso?
 
@@ -63,7 +63,7 @@ Sim. Ative "Vários dias" ao adicionar uma atividade para definir as datas de in
 
 ### Como anexo documentos a uma atividade?
 
-Abra qualquer atividade, toque na opção de anexo, depois tire uma foto com sua câmera ou importe um arquivo. Os formatos suportados incluem PDF, JPEG e PNG. O OCR inteligente tentará preencher automaticamente os detalhes da reserva a partir do seu documento.
+Abra qualquer atividade, toque na opção de anexo e adicione um arquivo do app Arquivos, uma imagem do app Fotos ou uma foto da sua câmera. Os formatos suportados incluem PDF, JPEG e PNG. O Journeyfolio lê o documento no seu dispositivo e preenche detalhes como número do voo, assento e código de confirmação. O texto que você já digitou nunca é substituído.
 
 ### Como funciona a busca de localização?
 
@@ -71,17 +71,25 @@ Ao adicionar uma atividade, digite um nome ou palavra-chave na busca integrada. 
 
 ### Como funcionam as previsões do tempo?
 
-Adicione uma cidade de destino e o Journeyfolio busca as condições atuais mais uma previsão de 5 dias via [Apple Weather](https://weatherkit.apple.com/legal-attribution.html). Alterne entre °C e °F no cartão do tempo. *As previsões do tempo requerem uma assinatura Premium.*
+Adicione uma cidade de destino e o Journeyfolio busca as condições atuais mais uma previsão de 5 dias via [Apple Weather](https://weatherkit.apple.com/legal-attribution.html). Alterne entre °C e °F no cartão do tempo. *As previsões do tempo são gratuitas para todos.*
 
 ### Como funciona o rastreamento de voos?
 
-Insira o número do seu voo e a data de partida, depois toque em "Verificar Voo". O aplicativo preenche automaticamente a rota, a companhia aérea e os horários no fuso horário local de cada aeroporto. Para partidas em até ~24 horas, selos de status ao vivo (No horário, Atrasado, Cancelado, Em voo, Pousou) aparecem automaticamente. *O rastreamento de voos ao vivo requer uma assinatura Premium.*
+Insira o número do seu voo e a data de partida, depois toque em "Verificar Voo". O aplicativo preenche automaticamente a rota, a companhia aérea e os horários no fuso horário local de cada aeroporto. Para partidas em até ~24 horas, selos de status ao vivo (No horário, Atrasado, Cancelado, Em voo, Pousou) aparecem automaticamente. *"Verificar Voo" e o status de voos ao vivo requerem uma assinatura Premium. No plano gratuito, você pode inserir os dados do voo manualmente ou preenchê-los a partir de uma passagem.*
 
 A verificação de horários cobre voos de até 12 meses no futuro e 3 meses no passado.
 
 ### Como funcionam os feriados?
 
 O Journeyfolio detecta o país do seu destino e exibe os feriados na faixa de datas. As datas de feriados são destacadas com um fundo amarelo suave para que você possa planejar em torno dos fechamentos.
+
+### O que a aba Próximas mostra?
+
+A aba Próximas abre em Hoje: a data, qual dia da sua viagem é, em que cidade você está e os planos de hoje. Abaixo, cada viagem que ainda não terminou mostra uma contagem regressiva, de "Em 12 dias" a "Acontecendo agora".
+
+### Como funcionam os lembretes?
+
+Cada próxima viagem mostra o que ainda falta: noites sem hotel reservado e trechos entre cidades sem transporte. Quando não falta nada, ela confirma que as informações da viagem estão completas. Ative Lembretes de viagem na aba Ajustes para receber uma notificação no dia anterior ao início de cada viagem. Os lembretes são agendados no seu dispositivo.
 
 ### Preciso de conexão com a internet?
 
@@ -103,7 +111,7 @@ Vá para **Ajustes → seu nome → Assinaturas** no seu dispositivo. Você pode
 
 ### Vou perder minhas viagens se cancelar?
 
-Não. Os dados das suas viagens são armazenados localmente e são completamente independentes da sua assinatura. Cancelar o Premium apenas limita o acesso aos recursos de rastreamento de voos e do tempo.
+Não. Os dados das suas viagens são armazenados localmente e são completamente independentes da sua assinatura. Cancelar o Premium apenas desativa o status de voos ao vivo e o "Verificar Voo". Suas viagens existentes permanecem, mas você não pode adicionar novas além do limite gratuito de 10.
 
 ## Solução de Problemas
 
@@ -111,8 +119,7 @@ Não. Os dados das suas viagens são armazenados localmente e são completamente
 
 1. Confirme que o seu dispositivo tem conexão com a internet.
 2. Verifique se o nome da cidade de destino está correto.
-3. Certifique-se de ter uma assinatura Premium ativa.
-4. Se ainda não carregar, tente novamente em alguns minutos, pois o serviço de tempo pode estar temporariamente indisponível.
+3. Se ainda não carregar, tente novamente em alguns minutos, pois o serviço de tempo pode estar temporariamente indisponível.
 
 ### A verificação de voo diz "Nenhum voo encontrado"
 

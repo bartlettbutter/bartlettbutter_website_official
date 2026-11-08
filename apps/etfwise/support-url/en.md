@@ -52,7 +52,7 @@ The Screener filters more than 480 ETFs by rules you set. A rule can be a return
 
 ### How do I manage, cancel, or restore my subscription?
 
-To manage or cancel, open Settings in ETFWise and tap Manage on the Premium banner, or go to your device's Settings > Apple Account > Subscriptions. Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period. To restore Premium on a new device or after reinstalling, tap Restore Purchases on the plan screen or in Settings, using the same Apple Account. Refund requests are handled by Apple.
+To manage or cancel, open Settings in ETFWise and tap Manage on the Premium banner, or go to your device's Settings > Apple Account > Subscriptions. Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period. To restore Premium on a new device or after reinstalling, tap Restore Purchases on the plan screen or in Settings, using the same Apple Account. Refund requests are handled by Apple. See the [Terms of Use](/etfwise/terms/) for full subscription details.
 
 ### How are the bull and risk cases generated?
 
@@ -64,11 +64,11 @@ The app analyzes recent news articles for each ETF and scores them for positive 
 
 ### Can I search for a specific ETF?
 
-Yes. Use the search bar to find any ETF by ticker symbol or name. The search covers more than 480 ETFs, including 200+ curated picks and an extended library of additional funds.
+Yes. Use the search bar to find any ETF by ticker symbol. The search covers more than 480 ETFs, including 200+ curated picks and an extended library of additional funds.
 
 ### Is my data private?
 
-Yes. No accounts, no analytics, no tracking. Only ticker symbols are sent to financial data providers. See our full [Privacy Policy](https://bartlettbutter.com/etfwise/privacy/) for details.
+Yes. No accounts, no analytics, no tracking. Only ticker symbols and date ranges are sent to financial data providers. See our full [Privacy Policy](https://bartlettbutter.com/etfwise/privacy/) for details.
 
 ### What happens if I delete the app?
 

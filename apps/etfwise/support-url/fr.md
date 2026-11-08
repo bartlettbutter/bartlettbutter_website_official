@@ -53,7 +53,7 @@ Le Screener filtre plus de 480 ETF selon les règles que vous définissez. Une r
 
 ### Comment gérer, résilier ou restaurer mon abonnement ?
 
-Pour gérer ou résilier, ouvrez Réglages dans ETFWise et touchez Gérer sur la bannière Premium, ou allez dans les Réglages de votre appareil > Compte Apple > Abonnements. Les abonnements se renouvellent automatiquement, sauf résiliation au moins 24 heures avant la fin de la période en cours. Pour restaurer Premium sur un nouvel appareil ou après une réinstallation, touchez Restaurer les achats sur l'écran des formules ou dans Réglages, avec le même compte Apple. Les demandes de remboursement sont traitées par Apple.
+Pour gérer ou résilier, ouvrez Réglages dans ETFWise et touchez Gérer sur la bannière Premium, ou allez dans les Réglages de votre appareil > Compte Apple > Abonnements. Les abonnements se renouvellent automatiquement, sauf résiliation au moins 24 heures avant la fin de la période en cours. Pour restaurer Premium sur un nouvel appareil ou après une réinstallation, touchez Restaurer les achats sur l'écran des formules ou dans Réglages, avec le même compte Apple. Les demandes de remboursement sont traitées par Apple. Consultez les [Conditions d'utilisation](/etfwise/terms/fr/) pour tous les détails sur l'abonnement.
 
 ### Comment les arguments haussiers et de risque sont-ils générés ?
 
@@ -65,11 +65,11 @@ L'application analyse les articles d'actualité récents pour chaque ETF et les 
 
 ### Puis-je rechercher un ETF spécifique ?
 
-Oui. Utilisez la barre de recherche pour trouver n'importe quel ETF par symbole boursier ou par nom. La recherche couvre plus de 480 ETF, dont plus de 200 sélections et une bibliothèque étendue de fonds supplémentaires.
+Oui. Utilisez la barre de recherche pour trouver n'importe quel ETF par symbole boursier. La recherche couvre plus de 480 ETF, dont plus de 200 sélections et une bibliothèque étendue de fonds supplémentaires.
 
 ### Mes données sont-elles privées ?
 
-Oui. Aucun compte, aucune analyse, aucun suivi. Seuls les symboles boursiers sont envoyés aux fournisseurs de données financières. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/etfwise/privacy/) complète pour plus de détails.
+Oui. Aucun compte, aucune analyse, aucun suivi. Seuls les symboles boursiers et des plages de dates sont envoyés aux fournisseurs de données financières. Consultez notre [Politique de Confidentialité](https://bartlettbutter.com/etfwise/privacy/fr/) complète pour plus de détails.
 
 ### Que se passe-t-il si je supprime l'application ?
 

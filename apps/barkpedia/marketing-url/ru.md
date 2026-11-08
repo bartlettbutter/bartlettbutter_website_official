@@ -26,7 +26,7 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">пород собак с подробными профилями в стиле AKC, которые можно искать и изучать</span>
+    <span class="marketing-stat-label">пород собак с подробными профилями, которые можно искать и изучать</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Профили, которые стоит читать</h3>
-      <p>Каждая порода открывает профиль в стиле AKC, который объясняет, какая собака на самом деле, а не только как она называется.</p>
+      <p>Каждая порода открывает подробный профиль, который объясняет, какая собака на самом деле, а не только как она называется.</p>
       <ul class="marketing-list">
         <li>Характер, продолжительность жизни, вес и рост с первого взгляда</li>
         <li>Страна происхождения и история породы</li>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">Принцип конфиденциальности</span>
       <h3 class="marketing-price-summary">Никаких загрузок. Никаких учётных записей. Никакого отслеживания.</h3>
       <p>Ваши фотографии никогда не покидают ваше устройство. Определение породы полностью выполняется на устройстве, а профили пород и фотографии для викторины загружаются из открытых источников о породах собак без каких-либо персональных данных.</p>
-      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Читать политику конфиденциальности</a></p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/ru/">Читать политику конфиденциальности</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="bp-next-title">Готовы назвать каждую собаку, которую встретите?</h2>
   <p>Скачайте Barkpedia, начните сканировать сразу же и держите остальной мир пород под рукой всякий раз, когда возникает любопытство.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/barkpedia/support/">Перейти в поддержку</a>
-    <a class="marketing-inline-link" href="/barkpedia/privacy/">Читать политику конфиденциальности</a>
+    <a class="marketing-inline-link" href="/barkpedia/support/ru/">Перейти в поддержку</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/ru/">Читать политику конфиденциальности</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/sayminder/de/
 ---
 
-**Gültig ab:** 27. September 2026
+**Gültig ab:** 8. November 2026
 
 Sayminder („die App") ist eine kostenlose, sprachgesteuerte Erinnerungs-App für iPhone und iPad. Der Datenschutz steht im Mittelpunkt ihrer Entwicklung. Diese Erklärung erläutert genau, welche Daten bei der Nutzung von Sayminder eine Rolle spielen und, noch wichtiger, welche nicht.
 
@@ -45,6 +45,10 @@ Die Erinnerungen, die Sie erstellen, einschließlich ihrer Titel, Notizen, Zeite
 
 Wenn Sie **Kalenderereignisse anzeigen** aktivieren, liest die App die Ereignisse Ihres Systemkalenders, um sie neben Ihren Erinnerungen anzuzeigen. Dieser Zugriff erfolgt schreibgeschützt: Sayminder erstellt, bearbeitet oder löscht niemals Kalenderereignisse, und die Ereignisse werden nur auf Ihrem Gerät gelesen, um die Agenda darzustellen. Diese Ebene ist deaktiviert, bis Sie sie aktivieren.
 
+### Nationale Feiertage (optional, Standort)
+
+Wenn Sie **Nationale Feiertage anzeigen** aktivieren, fragt die App nach der Standortberechtigung während der Nutzung und ermittelt beim Start oder bei der Rückkehr in den Vordergrund einen groben Standort (Genauigkeit etwa ein Kilometer). Apples MapKit ordnet diesen Standort einem Land zu; dafür werden die Koordinaten für diese Abfrage an Apple gesendet und gemäß der [Datenschutzerklärung von Apple](https://www.apple.com/legal/privacy/) verarbeitet. Sayminder sendet dann nur den zweistelligen Ländercode (zum Beispiel „DE“) an den öffentlichen Feiertagsdienst [Nager.Date](https://date.nager.at), um die nationalen Feiertage dieses Landes abzurufen. Ihre Koordinaten werden niemals an uns oder an den Feiertagsdienst gesendet, und die Feiertagsliste wird nur im Arbeitsspeicher gehalten. Diese Ebene ist deaktiviert, bis Sie sie aktivieren.
+
 ### Terminplanung & Sprachausgabe
 
 Wecker, Benachrichtigungen und das vorgelesene Feedback werden alle auf Ihrem Gerät von den Frameworks des Betriebssystems verarbeitet. Es werden weder Terminplanungsdaten noch gesprochener Text an irgendeinen Ort gesendet.
@@ -57,18 +61,19 @@ Sayminder fordert die folgenden Berechtigungen an:
 |------------|---------|
 | **Mikrofon** | Ihre Stimme erfassen, damit eine Erinnerung erstellt werden kann |
 | **Spracherkennung** | Ihre Sprache in Erinnerungstext transkribieren |
-| **Benachrichtigungen / Wecker** | Sie zum Zeitpunkt der Erinnerung benachrichtigen |
+| **Benachrichtigungen / Wecker (optional)** | Sie zum Zeitpunkt der Erinnerung benachrichtigen, nur wenn Sie Hinweise einschalten |
 | **Kalender (schreibgeschützt, optional)** | Ihre vorhandenen Ereignisse neben den Erinnerungen anzeigen, nur wenn Sie es aktivieren |
+| **Standort (während der Nutzung, optional)** | Das Land ermitteln, in dem Sie sich befinden, um dessen nationale Feiertage anzuzeigen, nur wenn Sie es aktivieren |
 
-Es werden keine weiteren Berechtigungen angefordert: weder Kamera, Kontakte, Fotos, Gesundheitsdaten noch Standort.
+Es werden keine weiteren Berechtigungen angefordert: weder Kamera, Kontakte, Fotos noch Gesundheitsdaten.
 
 ## Dienste von Drittanbietern
 
-Sayminder bindet keine Analyse-, Werbe- oder Tracking-Dienste von Drittanbietern ein. Die Spracherkennung nutzt Apples geräteinterne und systemeigene Spracherkennungs-Frameworks; Terminplanung und Sprachausgabe nutzen Apples System-Frameworks. Diese laufen als Teil des Betriebssystems auf Ihrem Gerät.
+Sayminder bindet keine Analyse-, Werbe- oder Tracking-Dienste von Drittanbietern ein. Die Spracherkennung nutzt Apples geräteinterne und systemeigene Spracherkennungs-Frameworks; Terminplanung und Sprachausgabe nutzen Apples System-Frameworks. Diese laufen als Teil des Betriebssystems auf Ihrem Gerät. Die optionale Feiertagsebene nutzt Apples MapKit, um Ihr Land zu ermitteln, und den öffentlichen Dienst Nager.Date, um Feiertage abzurufen; Nager.Date erhält nur einen Ländercode.
 
 ## Weitergabe von Daten
 
-Wir verkaufen, vermieten, lizenzieren oder teilen Ihre Daten mit niemandem. Sayminder erzeugt keinen Netzwerkverkehr, der Ihre Erinnerungen, Ihre Stimme, Ihre Transkripte oder Ihre Kalenderdaten überträgt.
+Wir verkaufen, vermieten, lizenzieren oder teilen Ihre Daten mit niemandem. Sayminder erzeugt keinen Netzwerkverkehr, der Ihre Erinnerungen, Ihre Stimme, Ihre Transkripte oder Ihre Kalenderdaten überträgt. Der einzige Drittanbieterdienst, den die App kontaktiert, ist Nager.Date, für die oben beschriebene optionale Feiertagsabfrage, und er erhält lediglich einen Ländercode.
 
 ## Aufbewahrung & Löschung von Daten
 

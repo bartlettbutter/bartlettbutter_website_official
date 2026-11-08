@@ -16,15 +16,15 @@ We want you to get the most out of Sayminder. If something isn't working as expe
 
 ### How do I set up the app?
 
-Just open Sayminder. There's no account and no sign-up. On first launch it asks for microphone, speech-recognition, and alert permissions so it can hear you and reach you on time. Grant them, then hold the mic and say your first reminder.
+Just open Sayminder. There's no account and no sign-up. The Welcome screen offers to turn on alerts so reminders can reach you on time; alerts are optional, so you can choose Not Now and enable them later in Settings. The Speak screen then asks for microphone and speech-recognition access so it can hear you. Tap the mic and say your first reminder.
 
 ### How do I create a reminder?
 
-Tap the microphone button and speak, for example: "remind me to take medicine tonight at nine." Sayminder transcribes your words, reads the date and time out of them, and shows a confirmation card. Review or edit the title, notes, time, and repeat option, then save. It reads a short confirmation back to you.
+Tap the microphone button and speak, for example: "remind me to take medicine tonight at nine." Sayminder transcribes your words, reads the date and time out of them, and shows a confirmation card. Review or edit the title, notes, time, and repeat option, then save. It reads a short confirmation back to you. Say several things at once, like "call the bank and pick up milk," and each becomes its own reminder. Can't talk right now? Use the type field instead.
 
 ### What kinds of times can I say?
 
-Say it the way you'd say it to a person. Sayminder understands relative expressions like "in 20 minutes," "tonight at 9," "next Friday," and "end of the month," as well as absolute dates like "December 3rd." If it can't find a concrete time, it defaults the reminder to one hour from now and flags the time so you can confirm it.
+Say it the way you'd say it to a person. Sayminder understands relative expressions like "in 20 minutes," "tonight at 9," "next Friday," and "end of the month," as well as absolute dates like "December 3rd." If it can't find a concrete time, it offers quick choices like Tonight, Tomorrow morning, or In an hour; otherwise the reminder defaults to one hour from now and the time is flagged so you can confirm it.
 
 ### How do I edit a reminder later?
 
@@ -38,7 +38,7 @@ Yes. Sayminder is free to download and use, with no ads. We may introduce option
 
 ### Does Sayminder collect my data?
 
-No. There are no user accounts, no analytics, no tracking, and no advertising. Reminders, scheduling, and text-to-speech all run locally and are stored only on your device. See our full [Privacy Policy](https://bartlettbutter.com/sayminder/privacy/) for details.
+No. There are no user accounts, no analytics, no tracking, and no advertising. Reminders, scheduling, and text-to-speech all run locally and are stored only on your device. The optional holiday layer has Apple resolve your approximate location to a country, then sends only the country code to a public holiday service. See our full [Privacy Policy](https://bartlettbutter.com/sayminder/privacy/) for details.
 
 ### Do reminders work when my phone is on silent or in Focus?
 
@@ -50,7 +50,7 @@ Yes. A reminder can repeat daily, weekly, or monthly. Repeating reminders keep f
 
 ### Does Sayminder read reminders aloud?
 
-Yes. When a reminder fires, the app speaks it aloud ("Reminder: …"), and it confirms out loud when you save one. You can also tap any list row to have it spoken on demand. Spoken read-back happens while the app is in the foreground or when you tap an alert.
+Yes. When a reminder fires while the app is open, or when you open the app within 15 minutes of it firing, Sayminder speaks it aloud ("Reminder: …"), and it confirms out loud when you save one. You can also tap the speaker button on any open reminder row to have it spoken on demand.
 
 ### Can I create a reminder without opening the app?
 
@@ -60,9 +60,17 @@ Yes. Sayminder adds an App Shortcut, so you can create a reminder by voice throu
 
 Yes, optionally. Turn on **Show calendar events** in Settings to mirror your system-calendar events into Today's Brief, the Upcoming list, and the Calendar grid. This layer is strictly read-only: Sayminder never creates, edits, or deletes calendar events, and it's off until you turn it on.
 
+### Can Sayminder show public holidays?
+
+Yes, optionally. Turn on **Show national holidays** in Settings to mark the national public holidays of the country you're currently in on the Calendar. Apple resolves your approximate location to a country, and only the country code is sent to the public [Nager.Date](https://date.nager.at) holiday service. It's off until you turn it on.
+
 ### Does Sayminder work on iPad?
 
 Yes. Sayminder is optimized for both iPhone and iPad, with an adaptive layout for the larger screen.
+
+### What language is Sayminder available in?
+
+The app's interface and spoken-time understanding are currently in English, with more languages planned. This support site is available in several languages.
 
 ## Permissions
 
@@ -72,11 +80,15 @@ They power the core feature: capturing a reminder by voice and transcribing it. 
 
 ### Why does Sayminder ask for alarm and notification permission?
 
-A reminder can't reach you if neither alarms nor notifications are authorized. Sayminder uses alarms to break through silent mode and Focus, and notifications as a fallback. If alerts are off, the Settings alerts-status row guides you to re-enable them.
+A reminder can't reach you if neither alarms nor notifications are authorized. Sayminder uses alarms to break through silent mode and Focus, and notifications as a fallback. Alerts are optional and only requested when you choose to turn them on, from the Welcome screen or Settings; the app stays usable without them. If alerts are off, the Settings alerts-status row guides you to turn them on.
 
 ### Why does the calendar permission appear only sometimes?
 
 Read-only calendar access is requested lazily, only when you turn on **Show calendar events** in Settings, rather than at launch.
+
+### Why does Sayminder ask for my location?
+
+Only if you turn on **Show national holidays** in Settings. A coarse, while-using location fix is used to find the country you're in so its holidays can be shown. Your location itself is never sent to us or the holiday service; only the country code is.
 
 ## Troubleshooting
 
@@ -98,7 +110,7 @@ If you save a one-off reminder whose time has passed, the confirmation card warn
 
 ### Spoken read-back isn't playing
 
-Read-back plays while the app is in the foreground or when you tap an alert. Make sure your device isn't muted for media playback, and that another app isn't holding the audio session.
+Read-back plays when a reminder fires while the app is open, or when you open the app within 15 minutes of it firing. Make sure your device isn't muted for media playback, and that another app isn't holding the audio session.
 
 ### The widget isn't updating
 

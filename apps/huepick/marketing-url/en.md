@@ -78,7 +78,7 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
       <p>Six creative tools let you reshape any image using the colors from your own palette.</p>
       <ul class="marketing-list">
         <li>Isolate, Duotone, Tritone, Pixelize, Blur, and Glitch</li>
-        <li>Fine-tune intensity, style, and direction on every effect</li>
+        <li>Fine-tune each effect with controls like intensity, style, and direction</li>
         <li>Save, download to Photos, or share your creations</li>
       </ul>
     </article>
@@ -86,7 +86,7 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
       <h3>Private by default</h3>
       <p>No accounts, no analytics, no ads. Your photos never leave your device and everything works without a connection.</p>
       <ul class="marketing-list">
-        <li>Palettes and creations stay stored locally</li>
+        <li>Your saved creations stay stored locally</li>
         <li>Nothing to sign up for, and free to use</li>
       </ul>
     </article>
@@ -110,17 +110,17 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
     </article>
     <article class="marketing-card">
       <h3>Playground</h3>
-      <p>Reshape your image with six creative tools, each guided by suggestions tuned to your photo.</p>
+      <p>Reshape your image with six creative tools, guided by suggestions tuned to your photo.</p>
       <ul class="marketing-list">
         <li>Isolate, Duotone, Tritone, Pixelize, Blur, and Glitch</li>
-        <li>Adjust intensity, style, and direction on every effect</li>
+        <li>Adjust each effect with controls like intensity, style, and direction</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Gallery</h3>
       <p>Every creation you save lives here, ready to revisit whenever inspiration returns.</p>
       <ul class="marketing-list">
-        <li>Re-edit any saved palette or creation</li>
+        <li>Re-edit any saved creation</li>
         <li>Download to Photos or share in a tap</li>
       </ul>
     </article>
@@ -163,8 +163,8 @@ Snap a photo of anything that inspires you and Huepick reveals the hidden palett
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>Build a library of the colors you love</h3>
-      <p>Save any palette or creation and revisit it anytime. It is useful for remembering a color that caught your eye, comparing looks, and reusing exact hex codes across your work.</p>
+      <h3>Build a library of the looks you love</h3>
+      <p>Save any creation and revisit or re-edit it anytime. Copy the exact hex codes from any palette with a tap and reuse them across your work.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Made for creative people</h3>

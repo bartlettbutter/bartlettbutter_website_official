@@ -17,15 +17,15 @@ Nous voulons que vous tiriez le meilleur parti de Sayminder. Si quelque chose ne
 
 ### Comment configurer l'app ?
 
-Il suffit d'ouvrir Sayminder. Pas de compte ni d'inscription. Au premier lancement, elle demande les autorisations de microphone, de reconnaissance vocale et de notifications afin de pouvoir vous entendre et vous joindre à temps. Accordez-les, puis maintenez le micro et énoncez votre premier rappel.
+Il suffit d'ouvrir Sayminder. Pas de compte ni d'inscription. L'écran de bienvenue vous propose d'activer les alertes pour que les rappels vous parviennent à temps ; les alertes sont facultatives, vous pouvez donc choisir « Plus tard » et les activer ensuite dans les Réglages. L'écran Parler demande ensuite l'accès au microphone et à la reconnaissance vocale afin de pouvoir vous entendre. Touchez le micro et énoncez votre premier rappel.
 
 ### Comment créer un rappel ?
 
-Touchez le bouton du microphone et parlez, par exemple : « rappelle-moi de prendre mon médicament ce soir à neuf heures ». Sayminder transcrit vos paroles, en extrait la date et l'heure, puis affiche une carte de confirmation. Vérifiez ou modifiez le titre, les notes, l'heure et l'option de répétition, puis enregistrez. Une brève confirmation vous est lue à voix haute.
+Touchez le bouton du microphone et parlez, par exemple : « rappelle-moi de prendre mon médicament ce soir à neuf heures ». Sayminder transcrit vos paroles, en extrait la date et l'heure, puis affiche une carte de confirmation. Vérifiez ou modifiez le titre, les notes, l'heure et l'option de répétition, puis enregistrez. Une brève confirmation vous est lue à voix haute. Dites plusieurs choses à la fois, comme « appeler la banque et acheter du lait », et chacune devient son propre rappel. Impossible de parler pour le moment ? Utilisez plutôt le champ de saisie.
 
 ### Quels types d'horaires puis-je dire ?
 
-Dites-le comme vous le diriez à une personne. Sayminder comprend les expressions relatives comme « dans 20 minutes », « ce soir à 21 h », « vendredi prochain » et « à la fin du mois », ainsi que les dates absolues comme « le 3 décembre ». S'il ne trouve pas d'heure concrète, il fixe le rappel par défaut dans une heure et signale l'heure pour que vous puissiez la confirmer.
+Dites-le comme vous le diriez à une personne. Sayminder comprend les expressions relatives comme « dans 20 minutes », « ce soir à 21 h », « vendredi prochain » et « à la fin du mois », ainsi que les dates absolues comme « le 3 décembre ». S'il ne trouve pas d'heure concrète, il propose des choix rapides comme « Ce soir », « Demain matin » ou « Dans une heure » ; sinon, le rappel est fixé par défaut dans une heure et l'heure est signalée pour que vous puissiez la confirmer.
 
 ### Comment modifier un rappel plus tard ?
 
@@ -39,7 +39,7 @@ Oui. Sayminder est gratuit à télécharger et à utiliser, sans publicité. Nou
 
 ### Sayminder collecte-t-il mes données ?
 
-Non. Aucun compte utilisateur, aucune analyse, aucun suivi et aucune publicité. Les rappels, la planification et la synthèse vocale s'exécutent tous localement et ne sont stockés que sur votre appareil. Consultez notre [Politique de confidentialité](https://bartlettbutter.com/sayminder/privacy/fr/) complète pour plus de détails.
+Non. Aucun compte utilisateur, aucune analyse, aucun suivi et aucune publicité. Les rappels, la planification et la synthèse vocale s'exécutent tous localement et ne sont stockés que sur votre appareil. Avec la couche optionnelle des jours fériés, Apple détermine le pays à partir de votre position approximative, puis seul le code pays est envoyé à un service public de jours fériés. Consultez notre [Politique de confidentialité](https://bartlettbutter.com/sayminder/privacy/fr/) complète pour plus de détails.
 
 ### Les rappels fonctionnent-ils lorsque mon téléphone est en silencieux ou en mode Concentration ?
 
@@ -51,7 +51,7 @@ Oui. Un rappel peut se répéter quotidiennement, hebdomadairement ou mensuellem
 
 ### Sayminder lit-il les rappels à voix haute ?
 
-Oui. Lorsqu'un rappel se déclenche, l'app le prononce à voix haute (« Rappel : … »), et elle confirme à voix haute lorsque vous en enregistrez un. Vous pouvez aussi toucher n'importe quelle ligne de la liste pour la faire lire à la demande. La lecture vocale a lieu lorsque l'app est au premier plan ou lorsque vous touchez une alerte.
+Oui. Lorsqu'un rappel se déclenche alors que l'app est ouverte, ou lorsque vous ouvrez l'app dans les 15 minutes qui suivent son déclenchement, Sayminder le prononce à voix haute (« Rappel : … »), et il confirme à voix haute lorsque vous en enregistrez un. Vous pouvez aussi toucher le bouton haut-parleur de n'importe quelle ligne de rappel ouvert pour le faire lire à la demande.
 
 ### Puis-je créer un rappel sans ouvrir l'app ?
 
@@ -61,9 +61,17 @@ Oui. Sayminder ajoute un raccourci d'app, ce qui vous permet de créer un rappel
 
 Oui, en option. Activez **Afficher les événements du calendrier** dans les Réglages pour refléter les événements du calendrier système dans le Résumé du jour, la liste À venir et la grille du Calendrier. Cette couche est strictement en lecture seule : Sayminder ne crée, ne modifie ni ne supprime jamais d'événements de calendrier, et elle est désactivée tant que vous ne l'activez pas.
 
+### Sayminder peut-il afficher les jours fériés ?
+
+Oui, en option. Activez **Afficher les jours fériés nationaux** dans les Réglages pour marquer dans le Calendrier les jours fériés nationaux du pays où vous vous trouvez actuellement. Apple détermine le pays à partir de votre position approximative, et seul le code pays est envoyé au service public de jours fériés [Nager.Date](https://date.nager.at). Cette option est désactivée tant que vous ne l'activez pas.
+
 ### Sayminder fonctionne-t-il sur iPad ?
 
 Oui. Sayminder est optimisé à la fois pour iPhone et iPad, avec une mise en page adaptative pour le plus grand écran.
+
+### Dans quelle langue Sayminder est-il disponible ?
+
+L'interface de l'app et la compréhension des horaires dictés sont actuellement en anglais, et d'autres langues sont prévues. Ce site d'assistance est disponible en plusieurs langues.
 
 ## Autorisations
 
@@ -73,11 +81,15 @@ Ils font fonctionner la fonctionnalité principale : capturer un rappel par la v
 
 ### Pourquoi Sayminder demande-t-il l'autorisation d'alarme et de notification ?
 
-Un rappel ne peut pas vous atteindre si ni les alarmes ni les notifications ne sont autorisées. Sayminder utilise les alarmes pour percer le mode silencieux et la Concentration, et les notifications en solution de repli. Si les alertes sont désactivées, la ligne d'état des alertes dans les Réglages vous guide pour les réactiver.
+Un rappel ne peut pas vous atteindre si ni les alarmes ni les notifications ne sont autorisées. Sayminder utilise les alarmes pour percer le mode silencieux et la Concentration, et les notifications en solution de repli. Les alertes sont facultatives et ne sont demandées que lorsque vous choisissez de les activer, depuis l'écran de bienvenue ou les Réglages ; l'app reste utilisable sans elles. Si les alertes sont désactivées, la ligne d'état des alertes dans les Réglages vous guide pour les activer.
 
 ### Pourquoi l'autorisation de calendrier n'apparaît-elle que parfois ?
 
 L'accès au calendrier en lecture seule est demandé de façon différée, uniquement lorsque vous activez **Afficher les événements du calendrier** dans les Réglages, plutôt qu'au lancement.
+
+### Pourquoi Sayminder demande-t-il ma position ?
+
+Uniquement si vous activez **Afficher les jours fériés nationaux** dans les Réglages. Une position approximative, obtenue pendant l'utilisation de l'app, sert à déterminer le pays où vous vous trouvez afin d'afficher ses jours fériés. Votre position elle-même n'est jamais envoyée ni à nous ni au service de jours fériés ; seul le code pays l'est.
 
 ## Dépannage
 
@@ -99,7 +111,7 @@ Si vous enregistrez un rappel ponctuel dont l'heure est passée, la carte de con
 
 ### La lecture vocale ne se joue pas
 
-La lecture vocale se joue lorsque l'app est au premier plan ou lorsque vous touchez une alerte. Assurez-vous que votre appareil n'est pas coupé pour la lecture multimédia, et qu'aucune autre app ne retient la session audio.
+La lecture vocale se joue lorsqu'un rappel se déclenche alors que l'app est ouverte, ou lorsque vous ouvrez l'app dans les 15 minutes qui suivent son déclenchement. Assurez-vous que votre appareil n'est pas coupé pour la lecture multimédia, et qu'aucune autre app ne retient la session audio.
 
 ### Le widget ne se met pas à jour
 

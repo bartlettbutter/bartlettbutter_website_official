@@ -12,7 +12,7 @@ redirect_from:
 
 # 어떻게 입고, 계획하고, 하루를 지킬지 정확히 아세요.
 
-Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙길지, 가족을 어떻게 편안하게 지킬지 알려줍니다. 이 모든 것이 여러분의 삶에 맞춰 개인화되고 쉬운 언어로 전달됩니다. 광고 없음, 계정 없음, 무료로 사용하며, 선택적 Premium 업그레이드도 있습니다. 그냥 열고 사용하세요.
+Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙길지, 가족을 어떻게 편안하게 지킬지 알려줍니다. 이 모든 것이 여러분의 삶에 맞춰 개인화되고 쉬운 언어로 전달됩니다. 광고 없음, 계정 없음, 그리고 무료로 사용할 수 있습니다. 그냥 열고 사용하세요.
 
 <!--gallery-->
 
@@ -20,7 +20,7 @@ Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙�
   <span class="marketing-chip">숫자가 아닌 답</span>
   <span class="marketing-chip">16가지 라이프스타일 지수</span>
   <span class="marketing-chip">광고나 계정 없음</span>
-  <span class="marketing-chip">무료, Premium 옵션 제공</span>
+  <span class="marketing-chip">무료로 사용</span>
 </div>
 
 <div class="marketing-stat-grid" aria-label="Solcast at a glance">
@@ -182,29 +182,21 @@ Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙�
 
 <section class="marketing-band" aria-labelledby="sc-offer-title">
   <div class="marketing-section-head">
-    <p class="marketing-eyebrow">가격 및 등급</p>
-    <h2 id="sc-offer-title" class="marketing-section-title">무료로 사용하세요. 더 원할 때 업그레이드하세요.</h2>
+    <p class="marketing-eyebrow">제공과 신뢰</p>
+    <h2 id="sc-offer-title" class="marketing-section-title">무료 다운로드. 설계부터 비공개.</h2>
   </div>
   <div class="marketing-price-grid">
-    <article class="marketing-price-card">
-      <span class="marketing-price-tier">무료</span>
-      <h3 class="marketing-price-summary">하루를 계획하는 데 필요한 모든 것, 무료로.</h3>
-      <p>광고, 계정, 유료 장벽이 앞을 가로막지 않고 명확하고 개인 맞춤형인 날씨 안내를 원하는 누구에게나 이상적입니다.</p>
-      <ul class="marketing-list">
-        <li>일일 브리핑, 7일 예보, 시간별 스트립</li>
-        <li>16가지 라이프스타일 지수 전체와 옷차림 추천</li>
-        <li>여러 도시 저장, 계정 없이 시작</li>
-      </ul>
-    </article>
     <article class="marketing-price-card is-featured">
-      <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">무제한 위치와 전체 그림을 한곳에.</h3>
-      <p>Premium은 여러 도시의 날씨를 따라가며 저장 장소의 무료 한도를 늘리고 싶은 분들을 위한 것입니다.</p>
-      <ul class="marketing-list">
-        <li>무제한 저장 위치, 각각 현지 시간대로</li>
-        <li>무료 앱에 더하는 선택적 업그레이드</li>
-        <li>무료든 Premium이든 광고 없음, 추적 없음</li>
-      </ul>
+      <span class="marketing-price-tier">오늘 포함된 것</span>
+      <h3 class="marketing-price-summary">현재의 모든 기능을 무료로 이용할 수 있습니다.</h3>
+      <p>일일 브리핑, 7일 및 시간별 예보, 16가지 라이프스타일 지수 전체, 옷차림 추천, 스마트 날씨 알림을 최대 4개의 저장 도시와 함께 계정 없이 이용할 수 있습니다.</p>
+      <p class="marketing-price-note">iOS 18.0 이상의 iPhone 및 iPad와 호환됩니다.</p>
+    </article>
+    <article class="marketing-price-card">
+      <span class="marketing-price-tier">개인정보 기조</span>
+      <h3 class="marketing-price-summary">계정 없음. 추적 없음. 광고 없음.</h3>
+      <p>여러분의 설정과 개인화 정보는 기기에 그대로 남습니다. 날씨 및 장소 조회는 좌표 또는 검색어만 보내고, 공휴일 조회는 국가 코드만 보냅니다.</p>
+      <p class="marketing-price-note"><a href="/solcast/privacy/ko/">개인정보 처리방침 읽기</a></p>
     </article>
   </div>
 </section>
@@ -213,9 +205,8 @@ Solcast는 예보를 넘어섭니다. 무엇을 입을지, 언제 우산을 챙�
   <h2 id="sc-next-title">매일을 자신 있게 계획할 준비가 되셨나요?</h2>
   <p>Solcast를 다운로드하여 개인 맞춤 대시보드를 즉시 확인하세요.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/solcast/support/">지원 방문</a>
-    <a class="marketing-inline-link" href="/solcast/privacy/">개인정보 처리방침 읽기</a>
-    <a class="marketing-inline-link" href="/solcast/terms/ko/">이용약관 읽기</a>
+    <a class="marketing-inline-link" href="/solcast/support/ko/">지원 방문</a>
+    <a class="marketing-inline-link" href="/solcast/privacy/ko/">개인정보 처리방침 읽기</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

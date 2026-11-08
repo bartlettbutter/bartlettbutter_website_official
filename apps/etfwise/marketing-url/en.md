@@ -80,7 +80,7 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF picks
       <ul class="marketing-list">
         <li>Nothing uploaded to a cloud for analysis</li>
         <li>Context-rich cases grounded in fund fundamentals</li>
-        <li>Only ticker symbols are sent to fetch market data</li>
+        <li>Only ticker symbols and date ranges are sent to fetch market data</li>
       </ul>
     </article>
     <article class="marketing-card">
@@ -204,7 +204,7 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF picks
     <article class="marketing-price-card">
       <span class="marketing-price-tier">Privacy posture</span>
       <h3 class="marketing-price-summary">No accounts. No analytics. No ads.</h3>
-      <p>Analysis runs on your device and your data stays with you. Only ticker symbols are sent to financial data providers to fetch market prices.</p>
+      <p>Analysis runs on your device and your data stays with you. Only ticker symbols and date ranges are sent to financial data providers to fetch market prices.</p>
       <p class="marketing-price-note"><a href="/etfwise/privacy/">Read privacy policy</a></p>
     </article>
   </div>
@@ -217,6 +217,7 @@ Stop scrolling through endless tickers. ETFWise delivers curated daily ETF picks
   <div class="marketing-link-row">
     <a class="marketing-inline-link" href="/etfwise/support/">Visit support</a>
     <a class="marketing-inline-link" href="/etfwise/privacy/">Read privacy policy</a>
+    <a class="marketing-inline-link" href="/etfwise/terms/">Read terms of use</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

@@ -101,20 +101,20 @@ redirect_from:
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>مجّاني للتنزيل، مع خطط مرنة</h3>
-      <p>أصبح Journeyfolio الآن يبدأ مجانًا، بينما يحتفظ المشترون الحاليون بوصول Premium دائم دون الحاجة إلى أي إجراء إضافي.</p>
+      <h3>رحلتك في لمحة</h3>
+      <p>يفتح تبويب الرحلات القادمة على قسم "اليوم"، ليعرض أي يوم من رحلتك أنت فيه، والمدينة التي تتواجد فيها، وخطط اليوم. وتحصل كل رحلة قادمة على عدّ تنازلي.</p>
     </article>
     <article class="marketing-card">
-      <h3>مستندات السفر مرفقة بالأنشطة</h3>
-      <p>يمكن أن تعيش بطاقات الصعود، وتأكيدات الحجز، والإيصالات تمامًا حيث تنتمي، مع مساعدة التعرّف الضوئي على الحروف في تقليل الإدخال اليدوي.</p>
+      <h3>تذكيرات حتى لا يبقى شيء دون حجز</h3>
+      <p>يُنبّهك Journeyfolio إلى الليالي التي لم يُحجز لها فندق والتنقلات بين المدن التي لا تتوفر لها وسيلة نقل، ويمكن لميزة "تذكيرات الرحلات" تنبيهك قبل يوم من بدء كل رحلة.</p>
     </article>
     <article class="marketing-card">
-      <h3>دعم كامل لجهاز iPad</h3>
-      <p>تجعل التخطيطات المتكيّفة، وSplit View، وSlide Over المخطّط أكثر راحة على الشاشات الأكبر وأثناء تعدد المهام.</p>
+      <h3>توقعات الطقس، مجانية الآن للجميع</h3>
+      <p>لم تعد الأحوال الحالية وتوقعات الأيام الخمسة لكل وجهة تتطلّب اشتراك Premium.</p>
     </article>
     <article class="marketing-card">
-      <h3>تحسينات في الموثوقية وإمكانية الوصول</h3>
-      <p>تقدّم الاستقرار الأساسي، وسهولة الاستخدام، والصقل معًا بدلًا من التعامل مع إمكانية الوصول كأمر ثانوي.</p>
+      <h3>مظهر أنظف ومتجدّد</h3>
+      <p>أصبح للتطبيق بأكمله تصميم أنظف ومتجدّد على iPhone و iPad.</p>
     </article>
   </div>
 </section>
@@ -196,16 +196,17 @@ redirect_from:
         <li>أنشئ الرحلات ونظّمها على iPhone و iPad</li>
         <li>أبقِ المستندات والملاحظات وتفاصيل المسار الأساسية معًا</li>
         <li>ابدأ دون حساب أو عناء إعداد</li>
+        <li>توقعات الطقس والعطلات الرسمية والملء التلقائي من التذاكر وتذكيرات الرحلات مشمولة</li>
       </ul>
     </article>
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">Premium</span>
-      <h3 class="marketing-price-summary">رحلات غير محدودة، وتتبع الرحلات المباشر، وتوقعات الطقس.</h3>
+      <h3 class="marketing-price-summary">رحلات غير محدودة، وحالة الرحلات الجوية المباشرة، والملء التلقائي عبر "التحقق من الرحلة".</h3>
       <p>يتوفّر Premium كاشتراكات ذاتية التجديد شهرية، أو لستة أشهر، أو سنوية للمسافرين الذين يريدون سياقًا كاملًا ومستمرًا في مكان واحد.</p>
       <ul class="marketing-list">
         <li>سعة رحلات غير محدودة</li>
         <li>حالة الرحلات في الوقت الفعلي داخل المسار</li>
-        <li>توقعات طقس الوجهة مدمجة في عرض الرحلة</li>
+        <li>تملأ ميزة "التحقق من الرحلة" شركة الطيران والمسار والمواعيد المجدولة</li>
       </ul>
     </article>
   </div>
@@ -215,8 +216,8 @@ redirect_from:
   <h2 id="jf-next-title">سافر بحمولة أخف، حتى قبل أن تغادر.</h2>
   <p>نزّل Journeyfolio وأبقِ رحلتك في مكان واحد متناسق.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/journeyfolio/support/">تفضّل بزيارة الدعم</a>
-    <a class="marketing-inline-link" href="/journeyfolio/privacy/">اقرأ سياسة الخصوصية</a>
+    <a class="marketing-inline-link" href="/journeyfolio/support/ar/">تفضّل بزيارة الدعم</a>
+    <a class="marketing-inline-link" href="/journeyfolio/privacy/ar/">اقرأ سياسة الخصوصية</a>
     <a class="marketing-inline-link" href="/journeyfolio/terms/ar/">اقرأ شروط الاستخدام</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>

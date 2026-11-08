@@ -29,7 +29,7 @@ Ja. Barkpedia is gratis te downloaden en alle huidige functies zijn kosteloos be
 
 ### Hoeveel rassen kan Barkpedia herkennen?
 
-Barkpedia herkent 147 rassen op basis van de AKC-normen.
+Barkpedia herkent 147 hondenrassen. De rasinformatie is samengesteld uit openbare databases met hondenrassen en zorgvuldig gekozen bronnen.
 
 ## De App Gebruiken
 
@@ -57,7 +57,7 @@ Ja. Barkpedia past zijn lay-out automatisch aan, met tabnavigatie op de iPhone e
 
 ### Zijn mijn gegevens privé?
 
-Ja. Je foto's worden volledig op je apparaat verwerkt en worden nooit geüpload. Barkpedia verzamelt geen persoonsgegevens, heeft geen gebruikersaccounts en bevat geen analyse of tracking. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/barkpedia/privacy/) voor meer details.
+Ja. Je foto's worden volledig op je apparaat verwerkt en worden nooit geüpload. Barkpedia verzamelt geen persoonsgegevens, heeft geen gebruikersaccounts en bevat geen analyse of tracking. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/barkpedia/privacy/nl/) voor meer details.
 
 ### Waar worden mijn gegevens opgeslagen?
 
@@ -65,7 +65,7 @@ Scangeschiedenis en favorieten worden alleen lokaal op je apparaat opgeslagen. E
 
 ### Hoe verwijder ik mijn gegevens?
 
-Veeg naar links op een item in het tabblad Favorieten om het te verwijderen. Om alle appgegevens in één keer te wissen, verwijder je Barkpedia gewoon van je apparaat.
+Houd een item in het tabblad Favorieten ingedrukt en tik op "Verwijderen" om het te verwijderen. Om alle appgegevens in één keer te wissen, verwijder je Barkpedia gewoon van je apparaat.
 
 ### Wat gebeurt er als ik de app verwijder?
 
@@ -77,13 +77,13 @@ Het de-installeren van Barkpedia verwijdert permanent alle opgeslagen favorieten
 
 Cameratoegang stelt je in staat om honden rechtstreeks in de app te fotograferen voor rasherkenning. Deze toestemming is optioneel. Je kunt in plaats daarvan je fotobibliotheek gebruiken.
 
-### Waarom heeft Barkpedia toegang tot de fotobibliotheek nodig?
+### Heeft Barkpedia toegang tot de fotobibliotheek nodig?
 
-Toegang tot de fotobibliotheek stelt je in staat om bestaande foto's te selecteren voor herkenning. Dit is een alternatief voor het gebruik van de camera.
+Nee. Om een bestaande foto te gebruiken, opent Barkpedia de standaard fotokiezer van iOS. Jij kiest de foto en de app ontvangt alleen die foto, nooit de rest van je bibliotheek. Daarom wordt er geen toestemming voor de fotobibliotheek gevraagd.
 
 ### Heeft Barkpedia toegang tot mijn locatie of andere gegevens?
 
-Nee. Barkpedia vraagt alleen toegang tot de camera en de fotobibliotheek. Het gebruikt geen locatievoorzieningen, contacten, microfoon, meldingen of enige andere gevoelige toestemming.
+Nee. Cameratoegang is de enige toestemming die Barkpedia vraagt. Het gebruikt geen locatievoorzieningen, contacten, microfoon, meldingen of enige andere gevoelige toestemming.
 
 ## Probleemoplossing
 

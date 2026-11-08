@@ -8,7 +8,7 @@ redirect_from:
   - /privacy-policies/huepick/
 ---
 
-**Effective Date:** July 8, 2026
+**Effective Date:** November 8, 2026
 
 Huepick is a free iOS app for extracting colors from photos, building palettes, and transforming images with creative tools. This policy explains how we handle your information, in plain English.
 
@@ -24,7 +24,7 @@ Huepick is a free iOS app for extracting colors from photos, building palettes, 
 | Is my data sold or shared? | No |
 | Can children use the app safely? | Yes |
 
-The only time any data leaves your device is when an optional feature converts photo location coordinates into a readable place name, and only coordinates are ever sent.
+Huepick works entirely offline and makes no network requests. Nothing leaves your device unless you choose to share a creation.
 
 ## What data we collect
 
@@ -34,28 +34,17 @@ The only time any data leaves your device is when an optional feature converts p
 
 When you take or select a photo, all processing, including color extraction, palette generation, and creative effects, happens locally on your device. Your photos are never sent anywhere.
 
-## Photo location data (optional)
+## Photo location data
 
-Your photos may contain GPS coordinates embedded in their metadata. If location data is present, Huepick can use Apple's built-in geocoding service to convert those coordinates into a human-readable place name (for example, "Portland, OR") displayed alongside your saved palette. Here's what matters:
+Your photos may contain GPS coordinates embedded in their metadata. Huepick does not use this location data and never sends it anywhere.
 
-- Only the GPS coordinates are sent to Apple for this conversion
-- No photos, no device identifiers, and no personal information are included
-- This feature activates only when your photo already has location data embedded
-- If your photo has no location data, no network request is made
+## Saved creations
 
-Apple handles this data according to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
-
-## Saved palettes and creations
-
-Palettes you save and images you process in the Playground are stored locally on your device. They never leave your device.
+Creations you save from the Playground are stored locally on your device. They leave your device only if you choose to share them.
 
 ## Third-party services
 
-| Service | Purpose | What's sent |
-|---------|---------|-------------|
-| Apple Geocoding | Converts photo GPS coordinates to a place name | GPS coordinates only (optional) |
-
-No other third-party services are used.
+None. Huepick does not use any third-party services, SDKs, or analytics.
 
 ## Data sharing
 
@@ -66,13 +55,13 @@ We do not sell, share, or rent your data to anyone. There is no data to share.
 | Permission | Why it's needed | Required? |
 |------------|----------------|-----------|
 | Camera | To take photos for color extraction | Optional: you can use your photo library instead |
-| Photo Library | To select photos and to save processed images | Optional |
+| Photo Library | To save processed images to your Photos library | Optional |
 
-We do not request access to your live location. Location data is only read when it already exists in your photo's embedded metadata.
+To choose an existing photo, Huepick uses the standard iOS photo picker, which shares only the photos you select. Huepick does not request access to your location.
 
 ## Deleting your data
 
-Since we store nothing on our servers, there is nothing to delete from our end. Any palettes or creations stored on your device can be deleted individually within the app or removed entirely by uninstalling Huepick.
+Since we store nothing on our servers, there is nothing to delete from our end. Any creations stored on your device can be deleted individually within the app or removed entirely by uninstalling Huepick.
 
 ## Your rights
 
@@ -84,7 +73,7 @@ Huepick does not collect any information from any user, including children under
 
 ## International Users
 
-Because Huepick collects no personal data, no cross-border transfer of personal information occurs. The only network request (optional geocoding of photo coordinates) sends GPS coordinates to Apple and contains no personal data or device identifiers regardless of your location.
+Because Huepick collects no personal data and makes no network requests, no cross-border transfer of personal information occurs.
 
 ## Changes to this policy
 

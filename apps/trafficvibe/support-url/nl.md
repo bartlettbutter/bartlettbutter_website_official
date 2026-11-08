@@ -55,7 +55,7 @@ Ze zijn gegroepeerd naar wat een forens daadwerkelijk vraagt:
 
 ### Waar komen de gegevens vandaan?
 
-TrafficVibe put uit vertrouwde, gevestigde bronnen voor kaarten, weer en openbare gegevens voor routering en aankomsttijden, omstandigheden, wegkenmerken in de buurt, feestdagen en brandstofprijzen (getoond in je lokale valuta). Je briefing en de bijbehorende beoordelingen worden op je apparaat samengesteld; er wordt niets over je woon-werkrit geüpload. Voor precies wat je apparaat verlaat en waarom, zie ons [Privacybeleid](https://bartlettbutter.com/trafficvibe/privacy/).
+TrafficVibe put uit vertrouwde, gevestigde bronnen voor kaarten, weer en openbare gegevens voor routering en aankomsttijden, omstandigheden, wegkenmerken in de buurt, feestdagen en brandstofprijzen (getoond in je lokale valuta). Je briefing en de bijbehorende beoordelingen worden op je apparaat samengesteld; er wordt niets over je woon-werkrit geüpload. Voor precies wat je apparaat verlaat en waarom, zie ons [Privacybeleid](https://bartlettbutter.com/trafficvibe/privacy/nl/).
 
 ## Meldingen
 
@@ -69,7 +69,7 @@ Stel je eigen stille uren in en zet de voorkeur voor alleen werkdagen aan. Traff
 
 ### Waarom komen mijn meldingen niet binnen?
 
-TrafficVibe vernieuwt niet op de achtergrond; het beoordeelt meldingen wanneer je de app opent of trekt om te vernieuwen. Zorg dat meldingen zijn ingeschakeld in Instellingen en dat je niet in je stille uren of een uitsluiting voor alleen werkdagen zit.
+Vertrekherinneringen worden vooraf ingepland, dus ze komen ook binnen als de app gesloten is, en elke keer dat je TrafficVibe opent, plant het de volgende in. Vertragings- en incidentmeldingen werken anders: TrafficVibe vernieuwt niet op de achtergrond, dus het controleert ze wanneer je de app opent of trekt om te vernieuwen. Zorg dat meldingen zijn ingeschakeld in Instellingen en dat je niet in je stille uren of een uitsluiting voor alleen werkdagen zit.
 
 ## Woon-werksteden
 

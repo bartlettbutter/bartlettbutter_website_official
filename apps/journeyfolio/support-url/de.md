@@ -17,7 +17,7 @@ Egal, ob du deine erste Reise einrichtest oder eine Funktion behebst, unten find
 
 ### Ist Journeyfolio kostenlos?
 
-Ja. Journeyfolio ist kostenlos herunterzuladen und lässt dich bis zu 10 Reisen kostenlos planen. Premium-Funktionen (unbegrenzte Reisen, Live-Flugverfolgung und Wettervorhersagen) sind über optionale, automatisch verlängerbare Abonnements (monatlich, halbjährlich oder jährlich) verfügbar.
+Ja. Journeyfolio ist kostenlos herunterzuladen und lässt dich bis zu 10 Reisen kostenlos planen, inklusive Wettervorhersagen, Feiertagen, automatischem Ausfüllen aus Tickets und Reiseerinnerungen. Premium-Funktionen (unbegrenzte Reisen, Live-Flugstatus und automatisches Ausfüllen per „Flug verifizieren") sind über optionale, automatisch verlängerbare Abonnements (monatlich, halbjährlich oder jährlich) verfügbar.
 
 ### Ich habe Journeyfolio gekauft, bevor es kostenlos wurde. Verliere ich den Zugang?
 
@@ -63,7 +63,7 @@ Ja. Aktiviere „Mehrtägig" beim Hinzufügen einer Aktivität, um Start- und En
 
 ### Wie hänge ich Dokumente an eine Aktivität an?
 
-Öffne eine beliebige Aktivität, tippe auf die Anhang-Option, mach dann ein Foto mit deiner Kamera oder importiere eine Datei. Unterstützte Formate sind PDF, JPEG und PNG. Die intelligente OCR versucht, die Buchungsdetails aus deinem Dokument automatisch auszufüllen.
+Öffne eine beliebige Aktivität, tippe auf die Anhang-Option und füge dann eine Datei aus der Dateien-App, ein Bild aus Fotos oder ein Foto mit deiner Kamera hinzu. Unterstützte Formate sind PDF, JPEG und PNG. Journeyfolio liest das Dokument auf deinem Gerät aus und füllt Details wie Flugnummer, Sitzplatz und Bestätigungscode aus. Bereits eingegebener Text wird nie überschrieben.
 
 ### Wie funktioniert die Standortsuche?
 
@@ -71,17 +71,25 @@ Gib beim Hinzufügen einer Aktivität einen Namen oder ein Stichwort in die inte
 
 ### Wie funktionieren die Wettervorhersagen?
 
-Füge eine Zielstadt hinzu, und Journeyfolio ruft über [Apple Wetter](https://weatherkit.apple.com/legal-attribution.html) die aktuellen Bedingungen sowie eine 5-Tage-Vorhersage ab. Wechsle zwischen °C und °F auf der Wetterkarte. *Wettervorhersagen erfordern ein Premium-Abonnement.*
+Füge eine Zielstadt hinzu, und Journeyfolio ruft über [Apple Wetter](https://weatherkit.apple.com/legal-attribution.html) die aktuellen Bedingungen sowie eine 5-Tage-Vorhersage ab. Wechsle zwischen °C und °F auf der Wetterkarte. *Wettervorhersagen sind für alle kostenlos.*
 
 ### Wie funktioniert die Flugverfolgung?
 
-Gib deine Flugnummer und dein Abflugdatum ein, tippe dann auf „Flug verifizieren". Die App füllt Route, Fluggesellschaft und Zeiten in der jeweiligen Ortszeitzone des Flughafens automatisch aus. Für Abflüge innerhalb von ~24 Stunden erscheinen automatisch Live-Status-Badges (Pünktlich, Verspätet, Annulliert, In der Luft, Gelandet). *Die Live-Flugverfolgung erfordert ein Premium-Abonnement.*
+Gib deine Flugnummer und dein Abflugdatum ein, tippe dann auf „Flug verifizieren". Die App füllt Route, Fluggesellschaft und Zeiten in der jeweiligen Ortszeitzone des Flughafens automatisch aus. Für Abflüge innerhalb von ~24 Stunden erscheinen automatisch Live-Status-Badges (Pünktlich, Verspätet, Annulliert, In der Luft, Gelandet). *„Flug verifizieren" und der Live-Flugstatus erfordern ein Premium-Abonnement. Im kostenlosen Tarif kannst du Flugdetails selbst eingeben oder aus einem Ticket übernehmen.*
 
 Die Flugplanverifizierung deckt Flüge bis zu 12 Monate in der Zukunft und 3 Monate in der Vergangenheit ab.
 
 ### Wie funktionieren die Feiertage?
 
 Journeyfolio erkennt das Land deines Reiseziels und zeigt gesetzliche Feiertage in der Datumsleiste an. Feiertagsdaten werden mit einem sanften gelben Hintergrund hervorgehoben, damit du um Schließungen herum planen kannst.
+
+### Was zeigt der Tab „Bevorstehend"?
+
+Der Tab „Bevorstehend" öffnet sich mit „Heute": dem Datum, dem wievielten Tag deiner Reise, der Stadt, in der du gerade bist, und deinen heutigen Plänen. Darunter zeigt jede Reise, die noch nicht vorbei ist, einen Countdown, von „In 12 Tagen" bis „Läuft gerade".
+
+### Wie funktionieren Erinnerungen?
+
+Jede bevorstehende Reise listet auf, was noch fehlt: Nächte ohne gebuchtes Hotel und Strecken zwischen Städten ohne Transportmittel. Fehlt nichts mehr, bestätigt sie, dass deine Reiseinformationen vollständig sind. Aktiviere „Reiseerinnerungen" im Tab „Einstellungen", um am Tag vor jedem Reisebeginn eine Mitteilung zu erhalten. Erinnerungen werden auf deinem Gerät geplant.
 
 ### Brauche ich eine Internetverbindung?
 
@@ -103,7 +111,7 @@ Gehe auf deinem Gerät zu **Einstellungen → dein Name → Abonnements**. Du ka
 
 ### Verliere ich meine Reisen, wenn ich kündige?
 
-Nein. Deine Reisedaten werden lokal gespeichert und sind völlig unabhängig von deinem Abonnement. Die Kündigung von Premium schränkt nur den Zugang zu den Funktionen Flugverfolgung und Wetter ein.
+Nein. Deine Reisedaten werden lokal gespeichert und sind völlig unabhängig von deinem Abonnement. Die Kündigung von Premium deaktiviert nur den Live-Flugstatus und „Flug verifizieren". Deine vorhandenen Reisen bleiben erhalten, aber über das kostenlose Limit von 10 Reisen hinaus kannst du keine neuen hinzufügen.
 
 ## Fehlerbehebung
 
@@ -111,8 +119,7 @@ Nein. Deine Reisedaten werden lokal gespeichert und sind völlig unabhängig von
 
 1. Bestätige, dass dein Gerät eine Internetverbindung hat.
 2. Überprüfe, ob der Name der Zielstadt korrekt ist.
-3. Stelle sicher, dass du ein aktives Premium-Abonnement hast.
-4. Wenn es immer noch nicht lädt, versuche es in ein paar Minuten erneut, da der Wetterdienst möglicherweise vorübergehend nicht verfügbar ist.
+3. Wenn es immer noch nicht lädt, versuche es in ein paar Minuten erneut, da der Wetterdienst möglicherweise vorübergehend nicht verfügbar ist.
 
 ### Die Flugverifizierung sagt „Kein Flug gefunden"
 

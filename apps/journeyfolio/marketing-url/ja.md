@@ -101,20 +101,20 @@ redirect_from:
   </div>
   <div class="marketing-card-grid marketing-card-grid--two">
     <article class="marketing-card marketing-card--featured">
-      <h3>ダウンロードは無料、柔軟なプランで</h3>
-      <p>Journeyfolioは無料で始められるようになりました。既存の購入者は追加の操作なしで永久的なプレミアムアクセスを保持します。</p>
+      <h3>旅行をひと目で</h3>
+      <p>「今後」タブは「今日」から始まり、旅行の何日目か、現在いる都市、今日の予定がわかります。今後の旅行にはそれぞれカウントダウンが表示されます。</p>
     </article>
     <article class="marketing-card">
-      <h3>アクティビティに添付する旅行書類</h3>
-      <p>搭乗券、予約確認書、レシートを、まさにあるべき場所に置けます。OCRが手動入力を減らす手助けをします。</p>
+      <h3>予約漏れを防ぐリマインダー</h3>
+      <p>Journeyfolioはホテルが未予約の夜や、移動手段のない都市間の区間をお知らせします。「旅行リマインダー」をオンにすれば、各旅行の前日に通知が届きます。</p>
     </article>
     <article class="marketing-card">
-      <h3>完全なiPadサポート</h3>
-      <p>適応型レイアウト、Split View、Slide Overにより、大きな画面でもマルチタスク中でもプランナーがより快適になります。</p>
+      <h3>天気予報がどなたでも無料に</h3>
+      <p>各目的地の現在の天気と5日間の予報に、プレミアムは不要になりました。</p>
     </article>
     <article class="marketing-card">
-      <h3>信頼性とアクセシビリティの向上</h3>
-      <p>アクセシビリティを後回しにするのではなく、コアの安定性、使いやすさ、洗練をすべて一緒に前進させました。</p>
+      <h3>すっきりと新しくなったデザイン</h3>
+      <p>iPhoneとiPadで、アプリ全体のデザインがよりすっきりと新しくなりました。</p>
     </article>
   </div>
 </section>
@@ -196,16 +196,17 @@ redirect_from:
         <li>iPhoneおよびiPadで旅行を作成・整理</li>
         <li>書類、メモ、コアの旅程の詳細を一か所にまとめる</li>
         <li>アカウントやセットアップの手間なしで始められる</li>
+        <li>天気、祝日、チケットからの自動入力、旅行リマインダーを含む</li>
       </ul>
     </article>
     <article class="marketing-price-card is-featured">
       <span class="marketing-price-tier">プレミアム</span>
-      <h3 class="marketing-price-summary">無制限の旅行、リアルタイムのフライト追跡、天気予報。</h3>
+      <h3 class="marketing-price-summary">無制限の旅行、リアルタイムのフライトステータス、「フライトを確認」による自動入力。</h3>
       <p>プレミアムは、すべての最新情報を一か所に集めたい旅行者向けに、月額、6か月、または年額の自動更新サブスクリプションとして利用できます。</p>
       <ul class="marketing-list">
         <li>無制限の旅行数</li>
         <li>旅程の中でのリアルタイムのフライト状況</li>
-        <li>旅行ビューに組み込まれた目的地の天気予報</li>
+        <li>「フライトを確認」で航空会社、ルート、定刻を自動入力</li>
       </ul>
     </article>
   </div>
@@ -215,8 +216,8 @@ redirect_from:
   <h2 id="jf-next-title">出発する前から、より軽やかに旅を。</h2>
   <p>Journeyfolioをダウンロードして、旅を1つの整った場所にまとめましょう。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/journeyfolio/support/">サポートを見る</a>
-    <a class="marketing-inline-link" href="/journeyfolio/privacy/">プライバシーポリシーを読む</a>
+    <a class="marketing-inline-link" href="/journeyfolio/support/ja/">サポートを見る</a>
+    <a class="marketing-inline-link" href="/journeyfolio/privacy/ja/">プライバシーポリシーを読む</a>
     <a class="marketing-inline-link" href="/journeyfolio/terms/ja/">利用規約を読む</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>

@@ -8,7 +8,7 @@ redirect_from:
   - /privacy-policies/solcast/
 ---
 
-**Effective Date:** July 8, 2026
+**Effective Date:** November 8, 2026
 
 Solcast ("the App") is a free weather and lifestyle guidance app for iPhone and iPad. Privacy is central to how we built it. This policy explains exactly what data is involved when you use Solcast and, more importantly, what isn't.
 
@@ -52,13 +52,14 @@ The app keeps a short-lived, in-memory cache of weather data so you can switch b
 
 ## Permissions
 
-Solcast requests one permission:
+Solcast requests two permissions:
 
 | Permission | Purpose |
 |------------|---------|
 | **Location (When In Use)** | Fetch weather, air quality, and pollen data for your current position |
+| **Notifications** | Show smart weather alerts as notifications created on your device |
 
-No other permissions are requested: not camera, contacts, microphone, notifications, tracking, or anything else.
+No other permissions are requested: not camera, contacts, microphone, tracking, or anything else.
 
 ## Third-Party Services
 
@@ -75,7 +76,7 @@ The app connects to the following services to fetch weather and environmental da
 
 ## Data Sharing
 
-We do not sell, rent, license, or share your data with anyone. The only network traffic the app generates is fetching weather data (coordinates) and holiday data (country code) from the services listed above.
+We do not sell, rent, license, or share your data with anyone. The only network traffic the app generates is fetching weather data (coordinates), looking up locations and city names with Apple Maps (search query or coordinates), and fetching holiday data (country code) from the services listed above.
 
 ## Data Retention & Deletion
 

@@ -26,7 +26,7 @@ Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tu
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">razze di cani con profili ricchi in stile AKC che puoi cercare ed esplorare</span>
+    <span class="marketing-stat-label">razze di cani con profili ricchi che puoi cercare ed esplorare</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tu
     </article>
     <article class="marketing-card">
       <h3>Profili che vale la pena leggere</h3>
-      <p>Ogni razza apre un profilo in stile AKC che spiega com'è davvero il cane, non solo come si chiama.</p>
+      <p>Ogni razza apre un profilo dettagliato che spiega com'è davvero il cane, non solo come si chiama.</p>
       <ul class="marketing-list">
         <li>Temperamento, aspettativa di vita, peso e altezza a colpo d'occhio</li>
         <li>Paese di origine e storia della razza</li>
@@ -195,7 +195,7 @@ Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tu
       <span class="marketing-price-tier">Approccio alla privacy</span>
       <h3 class="marketing-price-summary">Nessun caricamento. Nessun account. Nessun tracciamento.</h3>
       <p>Le tue foto non lasciano mai il tuo dispositivo. Il riconoscimento della razza avviene interamente sul dispositivo, mentre i profili delle razze e le foto del quiz vengono caricati da fonti pubbliche sulle razze canine, senza alcun dato personale.</p>
-      <p class="marketing-price-note"><a href="/barkpedia/privacy/">Leggi l'informativa sulla privacy</a></p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/it/">Leggi l'informativa sulla privacy</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Scatta una foto di un cane qualsiasi e Barkpedia ne indica la razza, poi apre tu
   <h2 id="bp-next-title">Pronto a dare un nome a ogni cane che incontri?</h2>
   <p>Scarica Barkpedia, inizia subito a scansionare e tieni il resto del mondo delle razze a portata di mano ogni volta che ti coglie la curiosità.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/barkpedia/support/">Visita il supporto</a>
-    <a class="marketing-inline-link" href="/barkpedia/privacy/">Leggi l'informativa sulla privacy</a>
+    <a class="marketing-inline-link" href="/barkpedia/support/it/">Visita il supporto</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/it/">Leggi l'informativa sulla privacy</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

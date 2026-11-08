@@ -79,7 +79,7 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
       <p>Sechs kreative Werkzeuge lassen dich jedes Bild mit den Farben aus deiner eigenen Palette umgestalten.</p>
       <ul class="marketing-list">
         <li>Isolieren, Duoton, Trioton, Pixelisieren, Weichzeichnen und Glitch</li>
-        <li>Feineinstellung von Intensität, Stil und Richtung bei jedem Effekt</li>
+        <li>Feineinstellung jedes Effekts mit Reglern wie Intensität, Stil und Richtung</li>
         <li>Speichere, lade in Fotos herunter oder teile deine Kreationen</li>
       </ul>
     </article>
@@ -87,7 +87,7 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
       <h3>Privat von Haus aus</h3>
       <p>Keine Konten, keine Analysen, keine Werbung. Deine Fotos verlassen niemals dein Gerät, und alles funktioniert ohne Verbindung.</p>
       <ul class="marketing-list">
-        <li>Paletten und Kreationen bleiben lokal gespeichert</li>
+        <li>Deine gespeicherten Kreationen bleiben lokal gespeichert</li>
         <li>Keine Anmeldung nötig und kostenlos nutzbar</li>
       </ul>
     </article>
@@ -111,17 +111,17 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
     </article>
     <article class="marketing-card">
       <h3>Playground</h3>
-      <p>Gestalte dein Bild mit sechs kreativen Werkzeugen um, jedes geleitet von Vorschlägen, die auf dein Foto abgestimmt sind.</p>
+      <p>Gestalte dein Bild mit sechs kreativen Werkzeugen um, geleitet von Vorschlägen, die auf dein Foto abgestimmt sind.</p>
       <ul class="marketing-list">
         <li>Isolieren, Duoton, Trioton, Pixelisieren, Weichzeichnen und Glitch</li>
-        <li>Passe Intensität, Stil und Richtung bei jedem Effekt an</li>
+        <li>Passe jeden Effekt mit Reglern wie Intensität, Stil und Richtung an</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>Galerie</h3>
       <p>Jede Kreation, die du speicherst, lebt hier, bereit, sie erneut aufzurufen, wann immer die Inspiration zurückkehrt.</p>
       <ul class="marketing-list">
-        <li>Bearbeite jede gespeicherte Palette oder Kreation erneut</li>
+        <li>Bearbeite jede gespeicherte Kreation erneut</li>
         <li>Lade in Fotos herunter oder teile mit einem Tipp</li>
       </ul>
     </article>
@@ -164,8 +164,8 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>Baue eine Bibliothek der Farben, die du liebst</h3>
-      <p>Speichere jede Palette oder Kreation und rufe sie jederzeit wieder auf. Nützlich, um sich an eine Farbe zu erinnern, die dir ins Auge fiel, um Looks zu vergleichen und um exakte Hex-Codes über deine Arbeit hinweg wiederzuverwenden.</p>
+      <h3>Baue eine Bibliothek der Looks, die du liebst</h3>
+      <p>Speichere jede Kreation, um sie jederzeit wieder aufzurufen oder erneut zu bearbeiten. Kopiere die exakten Hex-Codes jeder Palette mit einem Tippen und verwende sie in deiner Arbeit wieder.</p>
     </article>
     <article class="marketing-story-card">
       <h3>Gemacht für kreative Menschen</h3>
@@ -195,7 +195,7 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
       <span class="marketing-price-tier">Datenschutzhaltung</span>
       <h3 class="marketing-price-summary">Keine Server. Keine Cloud. Kein Tracking.</h3>
       <p>Deine Fotos verlassen niemals dein Gerät. Extraktion, Analyse und jedes kreative Werkzeug laufen lokal.</p>
-      <p class="marketing-price-note"><a href="/huepick/privacy/">Datenschutzrichtlinie lesen</a></p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/de/">Datenschutzrichtlinie lesen</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Mach ein Foto von allem, was dich inspiriert, und Huepick enthüllt die darin ve
   <h2 id="hp-next-title">Bereit, die Farben um dich herum zu sehen?</h2>
   <p>Lade Huepick herunter, beginne sofort mit dem Extrahieren von Paletten und halte deine kreativen Werkzeuge griffbereit, wann immer die Inspiration zuschlägt.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/huepick/support/">Support besuchen</a>
-    <a class="marketing-inline-link" href="/huepick/privacy/">Datenschutzrichtlinie lesen</a>
+    <a class="marketing-inline-link" href="/huepick/support/de/">Support besuchen</a>
+    <a class="marketing-inline-link" href="/huepick/privacy/de/">Datenschutzrichtlinie lesen</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

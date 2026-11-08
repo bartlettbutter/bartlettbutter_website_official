@@ -17,7 +17,7 @@ Ya sea que estés configurando tu primer viaje o resolviendo un problema con una
 
 ### ¿Journeyfolio es gratis?
 
-Sí. Journeyfolio es gratis de descargar y te permite planificar hasta 10 viajes sin coste. Las funciones premium (viajes ilimitados, seguimiento de vuelos en vivo y pronósticos del tiempo) están disponibles mediante suscripciones opcionales de renovación automática (mensual, semestral o anual).
+Sí. Journeyfolio es gratis de descargar y te permite planificar hasta 10 viajes sin coste, con pronósticos del tiempo, festivos, autocompletado desde billetes y recordatorios de viaje incluidos. Las funciones premium (viajes ilimitados, estado de vuelos en vivo y autocompletado con "Verificar Vuelo") están disponibles mediante suscripciones opcionales de renovación automática (mensual, semestral o anual).
 
 ### Compré Journeyfolio antes de que fuera gratis. ¿Pierdo el acceso?
 
@@ -63,7 +63,7 @@ Sí. Activa "Varios días" al añadir una actividad para establecer las fechas d
 
 ### ¿Cómo adjunto documentos a una actividad?
 
-Abre cualquier actividad, toca la opción de adjuntar, luego haz una foto con tu cámara o importa un archivo. Los formatos admitidos incluyen PDF, JPEG y PNG. El OCR inteligente intentará autocompletar los detalles de la reserva a partir de tu documento.
+Abre cualquier actividad, toca la opción de adjuntar y luego añade un archivo desde Archivos, una imagen desde Fotos o una foto con tu cámara. Los formatos admitidos incluyen PDF, JPEG y PNG. Journeyfolio lee el documento en tu dispositivo y rellena detalles como el número de vuelo, el asiento y el código de confirmación. El texto que ya hayas introducido nunca se sobrescribe.
 
 ### ¿Cómo funciona la búsqueda de ubicaciones?
 
@@ -71,17 +71,25 @@ Al añadir una actividad, escribe un nombre o palabra clave en la búsqueda inte
 
 ### ¿Cómo funcionan los pronósticos del tiempo?
 
-Añade una ciudad de destino y Journeyfolio obtiene las condiciones actuales más un pronóstico de 5 días a través de [Apple Weather](https://weatherkit.apple.com/legal-attribution.html). Alterna entre °C y °F en la tarjeta del tiempo. *Los pronósticos del tiempo requieren una suscripción Premium.*
+Añade una ciudad de destino y Journeyfolio obtiene las condiciones actuales más un pronóstico de 5 días a través de [Apple Weather](https://weatherkit.apple.com/legal-attribution.html). Alterna entre °C y °F en la tarjeta del tiempo. *Los pronósticos del tiempo son gratuitos para todos.*
 
 ### ¿Cómo funciona el seguimiento de vuelos?
 
-Introduce tu número de vuelo y la fecha de salida, luego toca "Verificar Vuelo". La aplicación autocompleta la ruta, la aerolínea y las horas en la zona horaria local de cada aeropuerto. Para salidas dentro de ~24 horas, aparecen automáticamente insignias de estado en vivo (A tiempo, Retrasado, Cancelado, En vuelo, Aterrizado). *El seguimiento de vuelos en vivo requiere una suscripción Premium.*
+Introduce tu número de vuelo y la fecha de salida, luego toca "Verificar Vuelo". La aplicación autocompleta la ruta, la aerolínea y las horas en la zona horaria local de cada aeropuerto. Para salidas dentro de ~24 horas, aparecen automáticamente insignias de estado en vivo (A tiempo, Retrasado, Cancelado, En vuelo, Aterrizado). *"Verificar Vuelo" y el estado de vuelos en vivo requieren una suscripción Premium. Con el plan gratuito, puedes introducir los datos del vuelo tú mismo o rellenarlos desde un billete.*
 
 La verificación de horarios cubre vuelos hasta 12 meses en el futuro y 3 meses en el pasado.
 
 ### ¿Cómo funcionan los festivos?
 
 Journeyfolio detecta el país de tu destino y muestra los festivos en la franja de fechas. Las fechas de festivos se resaltan con un fondo amarillo suave para que puedas planificar en torno a los cierres.
+
+### ¿Qué muestra la pestaña Próximos?
+
+La pestaña Próximos se abre en Hoy: la fecha, qué día de tu viaje es, en qué ciudad estás y los planes de hoy. Debajo, cada viaje que aún no ha terminado muestra una cuenta atrás, desde "En 12 días" hasta "En curso".
+
+### ¿Cómo funcionan los recordatorios?
+
+Cada próximo viaje indica lo que aún falta: noches sin hotel reservado y trayectos entre ciudades sin transporte. Cuando no falta nada, confirma que la información de tu viaje está completa. Activa Recordatorios de viaje en la pestaña Ajustes para recibir una notificación el día antes de que empiece cada viaje. Los recordatorios se programan en tu dispositivo.
 
 ### ¿Necesito conexión a internet?
 
@@ -103,7 +111,7 @@ Ve a **Configuración → tu nombre → Suscripciones** en tu dispositivo. Puede
 
 ### ¿Perderé mis viajes si cancelo?
 
-No. Los datos de tus viajes se almacenan localmente y son completamente independientes de tu suscripción. Cancelar Premium solo limita el acceso a las funciones de seguimiento de vuelos y del tiempo.
+No. Los datos de tus viajes se almacenan localmente y son completamente independientes de tu suscripción. Cancelar Premium solo desactiva el estado de vuelos en vivo y "Verificar Vuelo". Tus viajes existentes se conservan, pero no puedes añadir nuevos por encima del límite gratuito de 10.
 
 ## Solución de Problemas
 
@@ -111,8 +119,7 @@ No. Los datos de tus viajes se almacenan localmente y son completamente independ
 
 1. Confirma que tu dispositivo tiene conexión a internet.
 2. Verifica que el nombre de la ciudad de destino sea correcto.
-3. Asegúrate de tener una suscripción Premium activa.
-4. Si aún no se carga, inténtalo de nuevo en unos minutos: el servicio del tiempo puede estar temporalmente no disponible.
+3. Si aún no se carga, inténtalo de nuevo en unos minutos: el servicio del tiempo puede estar temporalmente no disponible.
 
 ### La verificación de vuelo dice "No se encontró ningún vuelo"
 

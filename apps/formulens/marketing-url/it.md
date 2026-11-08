@@ -221,7 +221,7 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
       <span class="marketing-price-tier">Approccio alla privacy</span>
       <h3 class="marketing-price-summary">Nessun server. Nessun cloud. Nessun tracciamento.</h3>
       <p>Le tue foto non lasciano mai il tuo dispositivo. Il riconoscimento e l'analisi avvengono in locale.</p>
-      <p class="marketing-price-note"><a href="/formulens/privacy/">Leggi l'informativa sulla privacy</a></p>
+      <p class="marketing-price-note"><a href="/formulens/privacy/it/">Leggi l'informativa sulla privacy</a></p>
     </article>
   </div>
   <p class="marketing-meta-note">FormuLens ha esclusivamente finalità informative e non costituisce un parere medico o dermatologico. I dettagli sugli ingredienti potrebbero essere incompleti e i risultati dipendono dalla leggibilità dell'etichetta. Se hai allergie, pelle sensibile o una condizione cutanea, controlla l'etichetta del prodotto, esegui un patch test sui nuovi prodotti e consulta un dermatologo o un professionista sanitario.</p>
@@ -231,8 +231,8 @@ Le etichette degli ingredienti sono scritte per i chimici, non per te. FormuLens
   <h2 id="fl-next-title">Pronto a leggere le etichette come se fossero scritte per te?</h2>
   <p>Scarica FormuLens e inizia subito a scansionare.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/formulens/support/">Visita il supporto</a>
-    <a class="marketing-inline-link" href="/formulens/privacy/">Leggi l'informativa sulla privacy</a>
+    <a class="marketing-inline-link" href="/formulens/support/it/">Visita il supporto</a>
+    <a class="marketing-inline-link" href="/formulens/privacy/it/">Leggi l'informativa sulla privacy</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

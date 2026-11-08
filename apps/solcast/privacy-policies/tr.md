@@ -9,7 +9,7 @@ redirect_from:
   - /privacy-policies/solcast/tr/
 ---
 
-**Yürürlük Tarihi:** 8 Temmuz 2026
+**Yürürlük Tarihi:** 8 Kasım 2026
 
 Solcast ("Uygulama"), iPhone ve iPad için ücretsiz bir hava durumu ve yaşam tarzı rehberliği uygulamasıdır. Gizlilik, onu geliştirme şeklimizin merkezindedir. Bu politika, Solcast'i kullandığınızda hangi verilerin söz konusu olduğunu ve daha da önemlisi hangilerinin olmadığını tam olarak açıklar.
 
@@ -53,13 +53,14 @@ Uygulama, kayıtlı konumlar arasında yeni bir indirmeyi beklemeden geçiş yap
 
 ## İzinler
 
-Solcast tek bir izin ister:
+Solcast iki izin ister:
 
 | İzin | Amaç |
 |------|------|
 | **Konum (Kullanılırken)** | Mevcut konumunuz için hava durumu, hava kalitesi ve polen verilerini almak |
+| **Bildirimler** | Akıllı hava durumu uyarılarını cihazınızda oluşturulan bildirimler olarak göstermek |
 
-Başka hiçbir izin istenmez: kamera, kişiler, mikrofon, bildirimler, izleme veya başka bir şey.
+Başka hiçbir izin istenmez: kamera, kişiler, mikrofon, izleme veya başka bir şey.
 
 ## Üçüncü Taraf Hizmetleri
 
@@ -76,7 +77,7 @@ Uygulama, hava durumu ve çevresel verileri almak için aşağıdaki hizmetlere 
 
 ## Veri Paylaşımı
 
-Verilerinizi kimseye satmıyor, kiralamıyor, lisanslamıyor veya paylaşmıyoruz. Uygulamanın oluşturduğu tek ağ trafiği, yukarıda listelenen hizmetlerden hava durumu verilerini (koordinatlar) ve tatil verilerini (ülke kodu) almaktır.
+Verilerinizi kimseye satmıyor, kiralamıyor, lisanslamıyor veya paylaşmıyoruz. Uygulamanın oluşturduğu tek ağ trafiği, yukarıda listelenen hizmetlerden hava durumu verilerini (koordinatlar) almak, Apple Haritalar ile konum ve şehir adı aramak (arama sorgusu veya koordinatlar) ve tatil verilerini (ülke kodu) almaktır.
 
 ## Verilerin Saklanması ve Silinmesi
 

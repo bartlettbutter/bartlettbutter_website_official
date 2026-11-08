@@ -67,7 +67,7 @@ Ja. Nekopedia is een universele app die zowel op iPhone als iPad werkt.
 
 ### Zijn mijn gegevens privé?
 
-Ja. Je foto's verlaten nooit je apparaat en er worden geen persoonsgegevens verzameld. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/nekopedia/privacy/) voor meer details.
+Ja. Je foto's verlaten nooit je apparaat en er worden geen persoonsgegevens verzameld. Zie ons volledige [Privacybeleid](https://bartlettbutter.com/nekopedia/privacy/nl/) voor meer details.
 
 ## Toestemmingen
 
@@ -75,13 +75,13 @@ Ja. Je foto's verlaten nooit je apparaat en er worden geen persoonsgegevens verz
 
 Cameratoegang stelt je in staat om foto's van katten rechtstreeks in de app te maken voor rasherkenning. Je kunt deze toestemming overslaan en in plaats daarvan foto's uit je bibliotheek kiezen.
 
-### Waarom heeft Nekopedia toegang tot de fotobibliotheek nodig?
+### Heeft Nekopedia toegang tot de fotobibliotheek nodig?
 
-Toegang tot de fotobibliotheek stelt je in staat om bestaande foto's uit je bibliotheek te selecteren voor rasherkenning. Dit is een alternatief voor het gebruik van de camera.
+Nee. Om een bestaande foto te gebruiken, opent Nekopedia de standaard fotokiezer van iOS. Jij kiest de foto en de app ontvangt alleen die foto, nooit de rest van je bibliotheek. Daarom wordt er geen toestemming voor de fotobibliotheek gevraagd.
 
 ### Heeft Nekopedia toegang tot mijn locatie of andere gegevens?
 
-Nee. Nekopedia vraagt alleen toegang tot de camera en de fotobibliotheek. Het heeft geen toegang tot je locatie, contacten, microfoon of enige andere gevoelige informatie.
+Nee. Cameratoegang is de enige toestemming die Nekopedia vraagt. Het heeft geen toegang tot je locatie, contacten, microfoon of enige andere gevoelige informatie.
 
 ## Probleemoplossing
 
@@ -91,7 +91,7 @@ Open Instellingen, ga naar Nekopedia en zorg ervoor dat cameratoegang is ingesch
 
 ### Rasinformatie, quiz of weetjes-inhoud laadt niet
 
-Deze functies vereisen een actieve internetverbinding. Bevestig dat je verbonden bent met wifi of mobiele data en probeer het opnieuw. Als het probleem aanhoudt, is de dienst mogelijk tijdelijk niet beschikbaar. Wacht een paar minuten en probeer het opnieuw.
+Rasfoto's en de Rassenquiz vereisen een internetverbinding, net als Kattenweetjes en de weetjes bij elk ras wanneer de app op Engels staat. De ingebouwde rasprofielen werken offline. Bevestig dat je verbonden bent met wifi of mobiele data en probeer het opnieuw. Als het probleem aanhoudt, is de dienst mogelijk tijdelijk niet beschikbaar. Wacht een paar minuten en probeer het opnieuw.
 
 ### De app zegt "Geen kat"
 

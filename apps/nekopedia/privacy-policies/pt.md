@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-**Data de vigência:** 13 de junho de 2026
+**Data de vigência:** 8 de novembro de 2026
 
 Nekopedia ("o Aplicativo") é um aplicativo iOS gratuito que identifica raças de gatos a partir de fotos. A privacidade não é algo secundário aqui, é a forma como o Aplicativo foi construído desde o primeiro dia. Esta política explica, em linguagem simples, exatamente como suas informações são tratadas. A resposta curta: elas ficam com você.
 
@@ -34,7 +34,7 @@ Nenhum. Não coletamos, armazenamos ou transmitimos nenhum dado pessoal. O Aplic
 
 ## Fotos e Acesso à Câmera/Biblioteca
 
-O Aplicativo solicita permissões de câmera e biblioteca de fotos unicamente para permitir que você fotografe ou selecione imagens de gatos para identificação de raça. As fotos que você tira ou seleciona são analisadas inteiramente no seu dispositivo usando inteligência local. Suas fotos nunca são enviadas a nenhum servidor.
+O Aplicativo solicita a permissão de câmera unicamente para permitir que você fotografe gatos para identificação de raça. Para usar uma foto existente, o Aplicativo abre o seletor de fotos padrão do iOS. Você escolhe a foto, e o Aplicativo recebe apenas essa foto, sem acesso ao restante da sua biblioteca de fotos. As fotos que você tira ou seleciona são analisadas inteiramente no seu dispositivo usando inteligência local. Suas fotos nunca são enviadas a nenhum servidor.
 
 ## Dados Armazenados Localmente
 
@@ -55,7 +55,6 @@ Não vendemos, alugamos ou compartilhamos nenhum dado de usuário com terceiros.
 | Permissão | Por Que Solicitamos | Obrigatória? |
 |-----------|-------------------|--------------|
 | Câmera | Para fotografar gatos para identificação de raça | Opcional (você pode usar sua biblioteca de fotos) |
-| Biblioteca de Fotos | Para selecionar fotos existentes para identificação de raça | Opcional (você pode usar a câmera) |
 
 Nenhuma outra permissão é solicitada ou acessada. O Aplicativo não usa localização, contatos, microfone, rastreamento, notificações ou qualquer outro acesso sensível.
 

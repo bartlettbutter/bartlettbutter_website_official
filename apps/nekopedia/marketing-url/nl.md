@@ -26,7 +26,7 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
 <div class="marketing-stat-grid" aria-label="Nekopedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">48</span>
-    <span class="marketing-stat-label">kattenrassen met rijke profielen in CFA/TICA-stijl die je kunt doorzoeken en verkennen</span>
+    <span class="marketing-stat-label">kattenrassen met rijke profielen die je kunt doorzoeken en verkennen</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
     </article>
     <article class="marketing-card">
       <h3>Profielen die het lezen waard zijn</h3>
-      <p>Elk ras opent een profiel in CFA/TICA-stijl dat uitlegt hoe de kat werkelijk is, niet alleen hoe hij heet.</p>
+      <p>Elk ras opent een uitgebreid profiel dat uitlegt hoe de kat werkelijk is, niet alleen hoe hij heet.</p>
       <ul class="marketing-list">
         <li>Temperament, levensverwachting, gewicht en hoogte in één oogopslag</li>
         <li>Land van oorsprong en de geschiedenis van het ras</li>
@@ -195,7 +195,7 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
       <span class="marketing-price-tier">Privacyhouding</span>
       <h3 class="marketing-price-summary">Geen uploads. Geen cloud. Geen tracking.</h3>
       <p>Je foto's verlaten nooit je apparaat. Rasherkenning draait volledig op je apparaat en online functies halen alleen openbare kattenfoto's en -feiten op.</p>
-      <p class="marketing-price-note"><a href="/nekopedia/privacy/">Lees het privacybeleid</a></p>
+      <p class="marketing-price-note"><a href="/nekopedia/privacy/nl/">Lees het privacybeleid</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ Maak een foto van een willekeurige kat en Nekopedia benoemt het ras, en opent ve
   <h2 id="nk-next-title">Klaar om elke kat die je ontmoet te benoemen?</h2>
   <p>Download Nekopedia, begin meteen met scannen en houd de rest van de rassenwereld binnen handbereik wanneer de nieuwsgierigheid toeslaat.</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/nekopedia/support/">Ga naar ondersteuning</a>
-    <a class="marketing-inline-link" href="/nekopedia/privacy/">Lees het privacybeleid</a>
+    <a class="marketing-inline-link" href="/nekopedia/support/nl/">Ga naar ondersteuning</a>
+    <a class="marketing-inline-link" href="/nekopedia/privacy/nl/">Lees het privacybeleid</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

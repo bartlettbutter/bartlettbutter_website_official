@@ -26,7 +26,7 @@ redirect_from:
 <div class="marketing-stat-grid" aria-label="Barkpedia at a glance">
   <article class="marketing-stat">
     <span class="marketing-stat-value">147</span>
-    <span class="marketing-stat-label">検索・探索できる充実したAKC式プロフィール付きの犬種</span>
+    <span class="marketing-stat-label">検索・探索できる充実したプロフィール付きの犬種</span>
   </article>
   <article class="marketing-stat">
     <span class="marketing-stat-value">2</span>
@@ -67,7 +67,7 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>読む価値のあるプロフィール</h3>
-      <p>各品種は、名前だけでなく、その犬が実際にどんな犬なのかを説明するAKC式プロフィールを開きます。</p>
+      <p>各品種は、名前だけでなく、その犬が実際にどんな犬なのかを説明する詳しいプロフィールを開きます。</p>
       <ul class="marketing-list">
         <li>性格、寿命、体重、体高が一目でわかる</li>
         <li>原産国と品種の歴史</li>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">プライバシーへの姿勢</span>
       <h3 class="marketing-price-summary">アップロードなし。アカウントなし。トラッキングなし。</h3>
       <p>写真がデバイスから出ることはありません。品種の識別はすべてデバイス上で行われ、品種プロフィールとクイズ用の写真は公開されている犬種情報サービスから読み込まれます。個人データが送信されることはありません。</p>
-      <p class="marketing-price-note"><a href="/barkpedia/privacy/">プライバシーポリシーを読む</a></p>
+      <p class="marketing-price-note"><a href="/barkpedia/privacy/ja/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="bp-next-title">出会うすべての犬の名前を知る準備はできましたか？</h2>
   <p>Barkpediaをダウンロードして、すぐにスキャンを始め、好奇心が湧いたときにいつでも犬種の世界を手元に置いておきましょう。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/barkpedia/support/">サポートを見る</a>
-    <a class="marketing-inline-link" href="/barkpedia/privacy/">プライバシーポリシーを読む</a>
+    <a class="marketing-inline-link" href="/barkpedia/support/ja/">サポートを見る</a>
+    <a class="marketing-inline-link" href="/barkpedia/privacy/ja/">プライバシーポリシーを読む</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>

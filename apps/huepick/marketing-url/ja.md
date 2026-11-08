@@ -79,7 +79,7 @@ redirect_from:
       <p>6つのクリエイティブツールで、あなた自身のパレットの色を使ってどんな画像も作り変えられます。</p>
       <ul class="marketing-list">
         <li>分離、デュオトーン、トリトーン、ピクセル化、ぼかし、グリッチ</li>
-        <li>すべての効果で強度、スタイル、方向を微調整</li>
+        <li>強度、スタイル、方向などのコントロールで各効果を微調整</li>
         <li>作品を保存したり、「写真」にダウンロードしたり、共有したり</li>
       </ul>
     </article>
@@ -87,7 +87,7 @@ redirect_from:
       <h3>デフォルトでプライベート</h3>
       <p>アカウントなし、分析なし、広告なし。あなたの写真がデバイスから出ることは一切なく、すべてが接続なしで動作します。</p>
       <ul class="marketing-list">
-        <li>パレットと作品はローカルに保存されたまま</li>
+        <li>保存した作品はローカルに保存されたまま</li>
         <li>サインアップ不要で、無料で使えます</li>
       </ul>
     </article>
@@ -111,17 +111,17 @@ redirect_from:
     </article>
     <article class="marketing-card">
       <h3>Playground</h3>
-      <p>6つのクリエイティブツールで画像を作り変えます。それぞれがあなたの写真に合わせた提案でガイドします。</p>
+      <p>6つのクリエイティブツールで画像を作り変えます。あなたの写真に合わせた提案がガイドします。</p>
       <ul class="marketing-list">
         <li>分離、デュオトーン、トリトーン、ピクセル化、ぼかし、グリッチ</li>
-        <li>すべての効果で強度、スタイル、方向を調整</li>
+        <li>強度、スタイル、方向などのコントロールで各効果を調整</li>
       </ul>
     </article>
     <article class="marketing-card">
       <h3>ギャラリー</h3>
       <p>保存した作品はすべてここにあり、インスピレーションが戻ったらいつでも見返せます。</p>
       <ul class="marketing-list">
-        <li>保存したパレットや作品をいつでも再編集</li>
+        <li>保存した作品をいつでも再編集</li>
         <li>タップひとつで「写真」にダウンロードまたは共有</li>
       </ul>
     </article>
@@ -164,8 +164,8 @@ redirect_from:
   </div>
   <div class="marketing-story-grid">
     <article class="marketing-story-card">
-      <h3>好きな色のライブラリを作る</h3>
-      <p>どんなパレットや作品も保存して、いつでも見返せます。目に留まった色を覚えておいたり、見た目を比べたり、作品全体で正確な16進数コードを再利用したりするのに便利です。</p>
+      <h3>好きなルックのライブラリを作る</h3>
+      <p>どんな作品も保存して、いつでも見返したり再編集したりできます。どのパレットの正確な16進数コードもタップひとつでコピーして、作品全体で再利用できます。</p>
     </article>
     <article class="marketing-story-card">
       <h3>クリエイティブな人のために</h3>
@@ -195,7 +195,7 @@ redirect_from:
       <span class="marketing-price-tier">プライバシーの姿勢</span>
       <h3 class="marketing-price-summary">サーバーなし。クラウドなし。トラッキングなし。</h3>
       <p>あなたの写真がデバイスから出ることは一切ありません。抽出、分析、そしてすべてのクリエイティブツールがローカルで動作します。</p>
-      <p class="marketing-price-note"><a href="/huepick/privacy/">プライバシーポリシーを読む</a></p>
+      <p class="marketing-price-note"><a href="/huepick/privacy/ja/">プライバシーポリシーを読む</a></p>
     </article>
   </div>
 </section>
@@ -204,8 +204,8 @@ redirect_from:
   <h2 id="hp-next-title">あなたの周りの色を見てみませんか？</h2>
   <p>Huepickをダウンロードして、すぐにパレットの抽出を始めましょう。インスピレーションが湧いたときにいつでもクリエイティブツールを手元に。</p>
   <div class="marketing-link-row">
-    <a class="marketing-inline-link" href="/huepick/support/">サポートを見る</a>
-    <a class="marketing-inline-link" href="/huepick/privacy/">プライバシーポリシーを読む</a>
+    <a class="marketing-inline-link" href="/huepick/support/ja/">サポートを見る</a>
+    <a class="marketing-inline-link" href="/huepick/privacy/ja/">プライバシーポリシーを読む</a>
     <span class="marketing-inline-link marketing-inline-link--static">contact@bartlettbutter.com</span>
   </div>
 </section>
